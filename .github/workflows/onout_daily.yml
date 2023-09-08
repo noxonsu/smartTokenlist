@@ -23,7 +23,7 @@ jobs:
         pip install requests
 
     - name: Run DuneScan1.py
-      run: DUNE_API_KEY=${{ secrets.DUNE_API_KEY }} python python DuneScan1.py
+      run: DUNE_API_KEY=${{ secrets.DUNE_API_KEY }} python DuneScan1.py
 
     - name: Commit and push changes
       run: |
