@@ -31,5 +31,5 @@ jobs:
         git config --global user.email "action@github.com"
         git add -A
         git diff --cached --exit-code || git commit -m "Automated update from GitHub Actions"
-        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/smartTokenlist/chains.git || echo "No changes to commit"
+        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/noxonsu/smartTokenlist.git || echo "No changes to commit"
 
