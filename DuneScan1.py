@@ -1,13 +1,23 @@
 import os
 import json
 import datetime
-from requests import get
+import time
+from requests import get, post
 
 # API Key from Environment Variable
 API_KEY = os.environ.get("DUNE_API_KEY")
 
 # Base URL
 BASE_URL = "https://api.dune.com/api/v1/"
+
+def execute_query(query_id):
+    url = f"{BASE_URL}query/{query_id}/execute"
+    params = {"api_key": API_KEY}
+    response = post(url, params=params)
+    if response.status_code == 200:
+        print("Query execution triggered.")
+    else:
+        print(f"Error in query execution: {response.json().get('error')}")
 
 def get_query_results(query_id):
     url = f"{BASE_URL}query/{query_id}/results"
@@ -21,6 +31,8 @@ def get_query_results(query_id):
 
 def main():
     query_id = "3009199"
+    execute_query(query_id)  # Trigger the query execution
+    time.sleep(15)  # Wait for 15 seconds
 
     query_results = get_query_results(query_id)
     if not query_results:
@@ -40,12 +52,13 @@ def main():
     # Add new data
     for row in query_results:
         token_pair = row.get('token_pair', '')
-        target_token = token_pair.split('-')[0]
+        target_token, uniswap_pool_address = token_pair.split('-', 1)
 
         if target_token not in existing_tokens:
             existing_data.append({
                 "token_pair": token_pair,
                 "targetToken": target_token,
+                "uniswap_pool_address": uniswap_pool_address,
                 "dateAdd": date_add
             })
             existing_tokens.add(target_token)
