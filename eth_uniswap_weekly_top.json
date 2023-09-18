@@ -28956,5 +28956,4163 @@
         "uniswap_pool_address": "WETH",
         "trading_vol": 303301.7460709164,
         "dateAdd": "2023-09-11 00:01:19"
+    },
+    {
+        "token_pair": "0xf69db5ac0d3d38d9dcf725c2de079f749c2b54fb-WETH",
+        "targetToken": "0xf69db5ac0d3d38d9dcf725c2de079f749c2b54fb",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 61227694.99413186,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x7d73b199ddc506f7d697b3f7fe11e6a56aeb1d89-WETH",
+        "targetToken": "0x7d73b199ddc506f7d697b3f7fe11e6a56aeb1d89",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 17939528.37241466,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "DORKL-WETH",
+        "targetToken": "DORKL",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 17582080.663372405,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0xff836a5821e69066c87e268bc51b849fab94240c-WETH",
+        "targetToken": "0xff836a5821e69066c87e268bc51b849fab94240c",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 15589731.163641332,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0xc6050cc0d2fb65434e86a363de18682a7b261532-WETH",
+        "targetToken": "0xc6050cc0d2fb65434e86a363de18682a7b261532",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 14641379.812794913,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0xa57ed6e54be8125bbe45d6ca330e45ebb71ef11e-WETH",
+        "targetToken": "0xa57ed6e54be8125bbe45d6ca330e45ebb71ef11e",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 10586733.71287917,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x38e68a37e401f7271568cecaac63c6b1e19130b4-WETH",
+        "targetToken": "0x38e68a37e401f7271568cecaac63c6b1e19130b4",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 10384956.459282283,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0xccf5cf1d039f1a7b66be855b79b14a01d0a4dbd5-WETH",
+        "targetToken": "0xccf5cf1d039f1a7b66be855b79b14a01d0a4dbd5",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 9244857.163461788,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0xc18cf186536bbe3b63f08c2426e626a4ad04a761-WETH",
+        "targetToken": "0xc18cf186536bbe3b63f08c2426e626a4ad04a761",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 5882786.353875343,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x86cbba62bd5b4b1aff3bbe38e9d11d963181c8a2-WETH",
+        "targetToken": "0x86cbba62bd5b4b1aff3bbe38e9d11d963181c8a2",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 5847135.798929492,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x908bb49077a275791f1906cf5ffcb9c423d2147b-WETH",
+        "targetToken": "0x908bb49077a275791f1906cf5ffcb9c423d2147b",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 5738494.4036314,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0xe396645399efc02edad5bf9fe3a0c688dffc414d-WETH",
+        "targetToken": "0xe396645399efc02edad5bf9fe3a0c688dffc414d",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 4462067.171216931,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0xf4afeed7ab58eec7e5ddad80e9c5f6e9af105787-WETH",
+        "targetToken": "0xf4afeed7ab58eec7e5ddad80e9c5f6e9af105787",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 3645289.063734391,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "LINQ-WETH",
+        "targetToken": "LINQ",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 3556388.3066378487,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x95c26af19cb8d2f550dc425cc5939e37fecdaba9-WETH",
+        "targetToken": "0x95c26af19cb8d2f550dc425cc5939e37fecdaba9",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 2824248.4104037443,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x42e70913b53cfcc38b18ffbd124e8f65c706deaf-WETH",
+        "targetToken": "0x42e70913b53cfcc38b18ffbd124e8f65c706deaf",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 2768074.0286225164,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0xae9866547be7e343a3f59c12f031babf772d79bc-WETH",
+        "targetToken": "0xae9866547be7e343a3f59c12f031babf772d79bc",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 2739532.935969619,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "Emoti-WETH",
+        "targetToken": "Emoti",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 2593182.3074786398,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "RHC-WETH",
+        "targetToken": "RHC",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 2398761.2948570154,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BABYSHIB-WETH",
+        "targetToken": "BABYSHIB",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 2255576.3253677157,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x67e48d1b862ae677173a9afb9df71a829cc950fc-WETH",
+        "targetToken": "0x67e48d1b862ae677173a9afb9df71a829cc950fc",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 2230715.9303781167,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0xf51f3b3c45cc8b96f646f0427cecd179344f8171-WETH",
+        "targetToken": "0xf51f3b3c45cc8b96f646f0427cecd179344f8171",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 2090157.301997918,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x69d29f1b0cc37d8d3b61583c99ad0ab926142069-WETH",
+        "targetToken": "0x69d29f1b0cc37d8d3b61583c99ad0ab926142069",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1992236.873380155,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "Boost-WETH",
+        "targetToken": "Boost",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1903572.0595100785,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0xcaeda9650ccd356af7776057a105f9e6ffe68213-WETH",
+        "targetToken": "0xcaeda9650ccd356af7776057a105f9e6ffe68213",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1867143.3850012235,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "OCD-WETH",
+        "targetToken": "OCD",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1757404.067655039,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "PERPS-WETH",
+        "targetToken": "PERPS",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1666040.0586491942,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "LEGEND SHIT-WETH",
+        "targetToken": "LEGEND SHIT",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1619394.3491433861,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x345fe747b54f42561d809767edd78281f99671a3-WETH",
+        "targetToken": "0x345fe747b54f42561d809767edd78281f99671a3",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1463687.7559609115,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x835d059165564cb414433c757aba27d83eeb26d0-WETH",
+        "targetToken": "0x835d059165564cb414433c757aba27d83eeb26d0",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1419574.4008710869,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "MEF-WETH",
+        "targetToken": "MEF",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1366845.7789125806,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0xb26daa81bac31981f0ca4a3a058cd3d67f7a1755-WETH",
+        "targetToken": "0xb26daa81bac31981f0ca4a3a058cd3d67f7a1755",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1332777.7411052578,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0xd22a61e8503bea5842e5e0126ca9ffc4dd492084-WETH",
+        "targetToken": "0xd22a61e8503bea5842e5e0126ca9ffc4dd492084",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1245680.6053307077,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SPX-WETH",
+        "targetToken": "SPX",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1245557.1191129214,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "WAR3-WETH",
+        "targetToken": "WAR3",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1207543.8988475557,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0xa9fbcc25435ad713a9468d8c89dd7baae8914e3a-WETH",
+        "targetToken": "0xa9fbcc25435ad713a9468d8c89dd7baae8914e3a",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1178769.5558264265,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0xe153f65ddaf4f2234bd56f51f546d4b493acb091-WETH",
+        "targetToken": "0xe153f65ddaf4f2234bd56f51f546d4b493acb091",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1144364.8141035414,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BLUI-WETH",
+        "targetToken": "BLUI",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1095055.7927243004,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0xe44ac096d96b7918afc0d98cb18d40c5ca5868ab-WETH",
+        "targetToken": "0xe44ac096d96b7918afc0d98cb18d40c5ca5868ab",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1072325.0373830323,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x73cdb352e803a630ac766a52ef202afe394c362f-WETH",
+        "targetToken": "0x73cdb352e803a630ac766a52ef202afe394c362f",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1065646.5973570105,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x2cc5c38ea9a58d360181852c9f5719b96407ed1e-WETH",
+        "targetToken": "0x2cc5c38ea9a58d360181852c9f5719b96407ed1e",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1061816.112794199,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BB-WETH",
+        "targetToken": "BB",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1024373.0598838938,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x077bc4f2691cf55e0b831c38353b6cd302bf519b-WETH",
+        "targetToken": "0x077bc4f2691cf55e0b831c38353b6cd302bf519b",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1004333.0701237337,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0xf68a4906b960c344865820bcb9b9d4d9ff93c9f9-WETH",
+        "targetToken": "0xf68a4906b960c344865820bcb9b9d4d9ff93c9f9",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 973245.1573992987,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x8cb73eb53fa81f808f704bea15a677b6464a1f90-WETH",
+        "targetToken": "0x8cb73eb53fa81f808f704bea15a677b6464a1f90",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 962486.2211806049,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x2ea6cc1ac06fdc01b568fcad8d842dec3f2ce1ad-WETH",
+        "targetToken": "0x2ea6cc1ac06fdc01b568fcad8d842dec3f2ce1ad",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 915938.0278242299,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "METAL-WETH",
+        "targetToken": "METAL",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 832292.7215187919,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x0b8fcf2bafbbc451168d5ced003191d71cc015a0-WETH",
+        "targetToken": "0x0b8fcf2bafbbc451168d5ced003191d71cc015a0",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 815143.1339544918,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x578ce9175554a724419f60ba6ab4608e61748b71-WETH",
+        "targetToken": "0x578ce9175554a724419f60ba6ab4608e61748b71",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 787701.895325562,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0xcd145189a12ccc3f9c622766fb20d00dc2059ead-WETH",
+        "targetToken": "0xcd145189a12ccc3f9c622766fb20d00dc2059ead",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 782073.0248045787,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0xe6a000b4c80591082229274712277a58a06f0335-WETH",
+        "targetToken": "0xe6a000b4c80591082229274712277a58a06f0335",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 780809.9205369025,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0xba6b3892064d71f87428c0129e9d73fc852a5003-WETH",
+        "targetToken": "0xba6b3892064d71f87428c0129e9d73fc852a5003",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 756688.4474776699,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "PERKL-WETH",
+        "targetToken": "PERKL",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 727633.6803025913,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SONIK-WETH",
+        "targetToken": "SONIK",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 705716.6973790088,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x4b40852c466dc58e7fb11363046c7b441614e1c7-WETH",
+        "targetToken": "0x4b40852c466dc58e7fb11363046c7b441614e1c7",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 695699.5291281581,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x89196a1d37602b13814eaa661630725f3b83c4f5-WETH",
+        "targetToken": "0x89196a1d37602b13814eaa661630725f3b83c4f5",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 685896.0620791502,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x09917201cb5d0d219dc286decb1181aeb40d1724-WETH",
+        "targetToken": "0x09917201cb5d0d219dc286decb1181aeb40d1724",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 678579.0433855437,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x7e32d29b3223c308826b985f27f7f4b6e0e31a03-WETH",
+        "targetToken": "0x7e32d29b3223c308826b985f27f7f4b6e0e31a03",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 678372.8919959997,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0xb2c36cde19acf0dcd53366c4be69c18316f23017-WETH",
+        "targetToken": "0xb2c36cde19acf0dcd53366c4be69c18316f23017",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 671345.9913141566,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x13491627b5a1d24f9624bb67579b271e1a4e9433-WETH",
+        "targetToken": "0x13491627b5a1d24f9624bb67579b271e1a4e9433",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 669619.578163636,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0xf6e095b66e8c0d616b945455d36e6c274ff981f1-WETH",
+        "targetToken": "0xf6e095b66e8c0d616b945455d36e6c274ff981f1",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 663524.1763572819,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BABYX-WETH",
+        "targetToken": "BABYX",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 642484.6253549611,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x5c39ef4bda89a9d7edb18a16e53c97d5d32245f6-USDT",
+        "targetToken": "0x5c39ef4bda89a9d7edb18a16e53c97d5d32245f6",
+        "uniswap_pool_address": "USDT",
+        "trading_vol": 619394.1552514734,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BTC20-WETH",
+        "targetToken": "BTC20",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 591585.7951861706,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x460188f753371bd5bc53f20992c59635dd5618bb-WETH",
+        "targetToken": "0x460188f753371bd5bc53f20992c59635dd5618bb",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 584980.9999518816,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0xb4f8ae8d7d29ac74894cd40ecc24e50f6f146ca6-WETH",
+        "targetToken": "0xb4f8ae8d7d29ac74894cd40ecc24e50f6f146ca6",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 576607.009173039,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "ARDVRK-WETH",
+        "targetToken": "ARDVRK",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 529244.0059270022,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "AXE-WETH",
+        "targetToken": "AXE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 523542.4963789319,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x04d7aca5957d426cda32c661a942d4cb019403cf-WETH",
+        "targetToken": "0x04d7aca5957d426cda32c661a942d4cb019403cf",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 516592.61983097147,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "NINA-WETH",
+        "targetToken": "NINA",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 511158.50368693436,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x8b792a144876546d015e323426650584dab3d5f9-WETH",
+        "targetToken": "0x8b792a144876546d015e323426650584dab3d5f9",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 508297.82451070345,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x70040e97ce20581ed121be077fcc6d7aafe39c34-WETH",
+        "targetToken": "0x70040e97ce20581ed121be077fcc6d7aafe39c34",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 507933.16769065894,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x4de86885a8210ab7f77922c7a06e7875aee9d1f1-WETH",
+        "targetToken": "0x4de86885a8210ab7f77922c7a06e7875aee9d1f1",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 507637.9174911606,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SHEZMU-WETH",
+        "targetToken": "SHEZMU",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 500751.4738863007,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "DUB-WETH",
+        "targetToken": "DUB",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 500168.5706396429,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SOCIAL-WETH",
+        "targetToken": "SOCIAL",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 498827.1091784221,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0xc48ecd613eda27508f7636d15db18b1f11b3645d-WETH",
+        "targetToken": "0xc48ecd613eda27508f7636d15db18b1f11b3645d",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 497309.9484049203,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0xbb4be5b8c6831c98e09a5fe1469f104c4af3dc98-WETH",
+        "targetToken": "0xbb4be5b8c6831c98e09a5fe1469f104c4af3dc98",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 486736.557060883,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "$BETS-WETH",
+        "targetToken": "$BETS",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 484429.00431616354,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BLOCK-WETH",
+        "targetToken": "BLOCK",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 482408.0303636284,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x95233eafa19722e43a9333e3dbb8985c7062ba4e-WETH",
+        "targetToken": "0x95233eafa19722e43a9333e3dbb8985c7062ba4e",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 476898.01815306436,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x24d541c86dd44bc6ce0a0511cf3146c37388ec4c-WETH",
+        "targetToken": "0x24d541c86dd44bc6ce0a0511cf3146c37388ec4c",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 476826.52047633205,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "IBOX-WETH",
+        "targetToken": "IBOX",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 476139.5977073796,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x03ee5026c07d85ff8ae791370dd0f4c1ae6c97fc-WETH",
+        "targetToken": "0x03ee5026c07d85ff8ae791370dd0f4c1ae6c97fc",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 474031.32677183463,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x171d0ec1989d5fdafa1f637108ed32be63071080-WETH",
+        "targetToken": "0x171d0ec1989d5fdafa1f637108ed32be63071080",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 459379.27805603406,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x998e852720ab11e94fdda1f7e646305170a53604-WETH",
+        "targetToken": "0x998e852720ab11e94fdda1f7e646305170a53604",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 458943.7738604907,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "MATE-WETH",
+        "targetToken": "MATE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 456106.12122175226,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x8928f8d41377856ddf099d23b260375d178e5677-WETH",
+        "targetToken": "0x8928f8d41377856ddf099d23b260375d178e5677",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 451239.69589790737,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x69276706a5fe215ed14fd4d55e22456260191420-WETH",
+        "targetToken": "0x69276706a5fe215ed14fd4d55e22456260191420",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 449740.79318735073,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0xf6ff1bd9526cac2791eef2519d3efd90c1cd6203-WETH",
+        "targetToken": "0xf6ff1bd9526cac2791eef2519d3efd90c1cd6203",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 446937.3272992318,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0KN-WETH",
+        "targetToken": "0KN",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 445925.94029748545,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x6ebbe33ec964975ce4a28bb4c5a59496899920ea-WETH",
+        "targetToken": "0x6ebbe33ec964975ce4a28bb4c5a59496899920ea",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 434866.468318448,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SHILLD-WETH",
+        "targetToken": "SHILLD",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 422769.90865162225,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "spurdo-WETH",
+        "targetToken": "spurdo",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 419324.5626093204,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x24ea54f123a47c37ce6d6d86ea4b1355efa56660-WETH",
+        "targetToken": "0x24ea54f123a47c37ce6d6d86ea4b1355efa56660",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 417596.30684417544,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x53c24955500eff0d3320068480294fc0205e0408-WETH",
+        "targetToken": "0x53c24955500eff0d3320068480294fc0205e0408",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 417041.33218562155,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "GUISE-WETH",
+        "targetToken": "GUISE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 411154.6251211782,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0xbc8b7ff89eb2b73ecdd579f81424a3b582200808-WETH",
+        "targetToken": "0xbc8b7ff89eb2b73ecdd579f81424a3b582200808",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 404923.6817795076,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x01496073cb7cac78669a7836ba0f1f320d7fa595-WETH",
+        "targetToken": "0x01496073cb7cac78669a7836ba0f1f320d7fa595",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 404259.64316142286,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "PEPURAI-WETH",
+        "targetToken": "PEPURAI",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 401163.02131997707,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x418d9e4605d8afbac05571537db32394652b5cdb-WETH",
+        "targetToken": "0x418d9e4605d8afbac05571537db32394652b5cdb",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 378340.6389183994,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x63996d5f98555415a25a3dfaa74826178f412d6a-WETH",
+        "targetToken": "0x63996d5f98555415a25a3dfaa74826178f412d6a",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 353426.5503313528,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x2de7b02ae3b1f11d51ca7b2495e9094874a064c0-WETH",
+        "targetToken": "0x2de7b02ae3b1f11d51ca7b2495e9094874a064c0",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 349963.59482442896,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "JNGL-WETH",
+        "targetToken": "JNGL",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 334117.26978018397,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0xb20deb78bfac9da2653dce1713cbdbe36645419b-WETH",
+        "targetToken": "0xb20deb78bfac9da2653dce1713cbdbe36645419b",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 330281.0125828501,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x2d6b5a9ccbfe7a6358baae206ad75d7139ec9def-WETH",
+        "targetToken": "0x2d6b5a9ccbfe7a6358baae206ad75d7139ec9def",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 327054.73214180226,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SILKROAD-WETH",
+        "targetToken": "SILKROAD",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 323821.34278284176,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x7512200f2ae3e1625a060d589348716f65923d75-WETH",
+        "targetToken": "0x7512200f2ae3e1625a060d589348716f65923d75",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 320340.4131172472,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x881762555bfc75568f85abff3e22e2b295f9d852-WETH",
+        "targetToken": "0x881762555bfc75568f85abff3e22e2b295f9d852",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 319229.8578560965,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x109108a7b3f05cbba1761ebbbe44e8441eca3616-WETH",
+        "targetToken": "0x109108a7b3f05cbba1761ebbbe44e8441eca3616",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 309857.6066372575,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0xfa8fb2017cf8eb6811abad7d911f6fc000000a0f-WETH",
+        "targetToken": "0xfa8fb2017cf8eb6811abad7d911f6fc000000a0f",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 301680.4236248465,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x09ad81ad47137d30a5aac0b89e3341eeaa0d6bda-WETH",
+        "targetToken": "0x09ad81ad47137d30a5aac0b89e3341eeaa0d6bda",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 290963.2767773126,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0xf516351681147e505fa61bdbf81f8c493f6d484b-WETH",
+        "targetToken": "0xf516351681147e505fa61bdbf81f8c493f6d484b",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 289709.2688229298,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0xa01d29e5b4cc615157d207aeaaaf0a414804a3d2-WETH",
+        "targetToken": "0xa01d29e5b4cc615157d207aeaaaf0a414804a3d2",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 284612.9869585712,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "AUDO-WETH",
+        "targetToken": "AUDO",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 283322.7628249095,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x9a1d07d12062d9016f3f2e885deaaa161828e855-WETH",
+        "targetToken": "0x9a1d07d12062d9016f3f2e885deaaa161828e855",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 283215.6145855971,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x68b6c90b61a9eeaa443292de38d5ea372955ad0c-WETH",
+        "targetToken": "0x68b6c90b61a9eeaa443292de38d5ea372955ad0c",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 281622.8534575703,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "ALLIN-WETH",
+        "targetToken": "ALLIN",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 277079.2664779888,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0xd6330b3db8d84f0ac6da9cd9da6e78adb56c0a36-WETH",
+        "targetToken": "0xd6330b3db8d84f0ac6da9cd9da6e78adb56c0a36",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 276129.3441939705,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0xc1b7ad370496863a561c6a6b76abad6e596d558a-WETH",
+        "targetToken": "0xc1b7ad370496863a561c6a6b76abad6e596d558a",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 275340.24995666323,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "RAVEN-WETH",
+        "targetToken": "RAVEN",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 274718.3582833172,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "HELLO-WETH",
+        "targetToken": "HELLO",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 274382.7881811758,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0xc37799bf477dfe21495ef8724585a1d30b80426e-WETH",
+        "targetToken": "0xc37799bf477dfe21495ef8724585a1d30b80426e",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 273051.19919705676,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x021582ad6035424253ac10698b85aa326f6604c7-WETH",
+        "targetToken": "0x021582ad6035424253ac10698b85aa326f6604c7",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 270900.80581381154,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "TOOLS-WETH",
+        "targetToken": "TOOLS",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 269980.1367074964,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x8a4584f0eefda8a9b459264dc7a0d62bba9b5484-WETH",
+        "targetToken": "0x8a4584f0eefda8a9b459264dc7a0d62bba9b5484",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 265971.37516500475,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "FTD-WETH",
+        "targetToken": "FTD",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 263999.87129009,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x082d7215fdfa70d969d7fb5e783f8fe86a463330-WETH",
+        "targetToken": "0x082d7215fdfa70d969d7fb5e783f8fe86a463330",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 259581.80520638416,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SNORKZ-WETH",
+        "targetToken": "SNORKZ",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 259349.3932254138,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x1441eec3d121a8a7a16dcb5ebdd577a7057cf730-WETH",
+        "targetToken": "0x1441eec3d121a8a7a16dcb5ebdd577a7057cf730",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 257238.06067493706,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x7bfed9ae7f259eee3b4cd114b6153bd5bab66d32-WETH",
+        "targetToken": "0x7bfed9ae7f259eee3b4cd114b6153bd5bab66d32",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 253036.2761576413,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0xd4aa5570990228f7b001d1cf8e712605352723a5-WETH",
+        "targetToken": "0xd4aa5570990228f7b001d1cf8e712605352723a5",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 250846.38491358384,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0xdf7628b66c368e92ee1d4341dc54e1f003802270-WETH",
+        "targetToken": "0xdf7628b66c368e92ee1d4341dc54e1f003802270",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 244568.77866998006,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x83074721c28af0a378202da3f961270302534b05-WETH",
+        "targetToken": "0x83074721c28af0a378202da3f961270302534b05",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 244269.79762816158,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0xa85d20c9a61c9809fc5bc8056d231fe5170b6c68-WETH",
+        "targetToken": "0xa85d20c9a61c9809fc5bc8056d231fe5170b6c68",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 242795.04659611065,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x79150ee5b1dad98feb524d657c155aa9c162e937-WETH",
+        "targetToken": "0x79150ee5b1dad98feb524d657c155aa9c162e937",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 241484.10689575743,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "COINBT-WETH",
+        "targetToken": "COINBT",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 235862.82524711257,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0xb696be07fc77390092edff239214990c020ce92c-WETH",
+        "targetToken": "0xb696be07fc77390092edff239214990c020ce92c",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 229973.72473729332,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "tip-WETH",
+        "targetToken": "tip",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 9604740.433146492,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "D\u4e09G\u4e09N-WETH",
+        "targetToken": "D\u4e09G\u4e09N",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 5062439.872579576,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "Tau-WETH",
+        "targetToken": "Tau",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 4208613.177630844,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "snek-WETH",
+        "targetToken": "snek",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 3140622.402483806,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "thumper-WETH",
+        "targetToken": "thumper",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 2417047.519614336,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "FOLLOW-WETH",
+        "targetToken": "FOLLOW",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 2080445.9691074337,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "PEDYS-WETH",
+        "targetToken": "PEDYS",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1887281.6447043961,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "ROULETTEBOT-WETH",
+        "targetToken": "ROULETTEBOT",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1793414.516635461,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BLUBLU-WETH",
+        "targetToken": "BLUBLU",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1665826.837451843,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "GCR-WETH",
+        "targetToken": "GCR",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1536561.108803571,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "FKBOOST-WETH",
+        "targetToken": "FKBOOST",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1278624.2812240429,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SG-WETH",
+        "targetToken": "SG",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1240032.6851345613,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BAALA-WETH",
+        "targetToken": "BAALA",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1088431.975642938,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "CGV-WETH",
+        "targetToken": "CGV",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1049101.995465165,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "M\u4e09M\u4e09S-WETH",
+        "targetToken": "M\u4e09M\u4e09S",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1038868.1911157107,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "181-WETH",
+        "targetToken": "181",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1015444.0872996375,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "LEPEPE-WETH",
+        "targetToken": "LEPEPE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1012093.362871866,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "LQW-WETH",
+        "targetToken": "LQW",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 958716.8183545165,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "$REKT-USDT",
+        "targetToken": "$REKT",
+        "uniswap_pool_address": "USDT",
+        "trading_vol": 952979.8530909759,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "KROOG-WETH",
+        "targetToken": "KROOG",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 938640.6190732459,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "Beetle-WETH",
+        "targetToken": "Beetle",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 930162.7515333369,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BREPE-WETH",
+        "targetToken": "BREPE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 902647.4613070067,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "PEPEF-WETH",
+        "targetToken": "PEPEF",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 809691.1349202489,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "HUNTER-WETH",
+        "targetToken": "HUNTER",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 807178.9171360953,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "Gondola-WETH",
+        "targetToken": "Gondola",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 780920.347717833,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "DOBO-WETH",
+        "targetToken": "DOBO",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 752103.4622691211,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "DORKL2-WETH",
+        "targetToken": "DORKL2",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 751542.0969464354,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "DWolf-WETH",
+        "targetToken": "DWolf",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 726388.2529914991,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "COCK-WETH",
+        "targetToken": "COCK",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 721003.1452421047,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "POCKET-WETH",
+        "targetToken": "POCKET",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 708972.3718419295,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "KENOBI-WETH",
+        "targetToken": "KENOBI",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 693546.8552574752,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SOG-WETH",
+        "targetToken": "SOG",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 676441.0030225767,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BETROCK-WETH",
+        "targetToken": "BETROCK",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 668112.8502797396,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SOCIO-WETH",
+        "targetToken": "SOCIO",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 634924.1448170912,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "PVPBOT-WETH",
+        "targetToken": "PVPBOT",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 624615.9137567098,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "ERCX-WETH",
+        "targetToken": "ERCX",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 617152.0208174495,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "MONEY-WETH",
+        "targetToken": "MONEY",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 595929.040035053,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "HIPVP-WETH",
+        "targetToken": "HIPVP",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 589785.6761589979,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "DEPE-WETH",
+        "targetToken": "DEPE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 564984.4969790585,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "PHATT-WETH",
+        "targetToken": "PHATT",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 561551.1789378137,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "FLEPE-WETH",
+        "targetToken": "FLEPE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 559835.4178740131,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "FUJIYAMA-WETH",
+        "targetToken": "FUJIYAMA",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 541874.3829625229,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "PEVE-WETH",
+        "targetToken": "PEVE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 538609.4260556694,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "LUL-WETH",
+        "targetToken": "LUL",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 525072.51235531,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BABY\u15eaO\u1587K\u14aa-WETH",
+        "targetToken": "BABY\u15eaO\u1587K\u14aa",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 519999.4231971853,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SHOP-WETH",
+        "targetToken": "SHOP",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 504447.53362444777,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BTC09-WETH",
+        "targetToken": "BTC09",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 501304.62911136716,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "FRIEND-WETH",
+        "targetToken": "FRIEND",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 473177.75612347136,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "muchwow-WETH",
+        "targetToken": "muchwow",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 472154.57720228645,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "MNRV-WETH",
+        "targetToken": "MNRV",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 455890.02883350046,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "FeelsGoodMan-WETH",
+        "targetToken": "FeelsGoodMan",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 447606.51840905176,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "DANIS-WETH",
+        "targetToken": "DANIS",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 438057.9586774831,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "PONTIFEX-WETH",
+        "targetToken": "PONTIFEX",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 430766.0382391789,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "711-WETH",
+        "targetToken": "711",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 410224.2542703161,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "IGNT-WETH",
+        "targetToken": "IGNT",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 410188.5968781804,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BABYDORKL-WETH",
+        "targetToken": "BABYDORKL",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 400742.01796055294,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "MEMORIAL-WETH",
+        "targetToken": "MEMORIAL",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 395620.0126892143,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "VBUCK-WETH",
+        "targetToken": "VBUCK",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 387894.7500448303,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "CoINTEL-WETH",
+        "targetToken": "CoINTEL",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 377235.68992071424,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "TICKET-WETH",
+        "targetToken": "TICKET",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 373585.6866475901,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "PUTE-WETH",
+        "targetToken": "PUTE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 367521.6601429634,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "FTF-WETH",
+        "targetToken": "FTF",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 366082.41228003765,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "911-WETH",
+        "targetToken": "911",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 362991.76303442795,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "HORSE-WETH",
+        "targetToken": "HORSE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 358387.25921107904,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "Muddy-WETH",
+        "targetToken": "Muddy",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 356846.1885724683,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BATTLE-WETH",
+        "targetToken": "BATTLE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 343809.6629583988,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "DORK-WETH",
+        "targetToken": "DORK",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 337439.2515480273,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "FMAN-WETH",
+        "targetToken": "FMAN",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 333529.4487221475,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "AWM-WETH",
+        "targetToken": "AWM",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 327798.0794752891,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "Doge\ud83d\udc36-WETH",
+        "targetToken": "Doge\ud83d\udc36",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 327555.0813635792,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BILLIONAIRE-WETH",
+        "targetToken": "BILLIONAIRE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 324817.8254026013,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "KILLERZ-WETH",
+        "targetToken": "KILLERZ",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 323606.10714961856,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SWEET-WETH",
+        "targetToken": "SWEET",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 321732.7716853609,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "STEALTH-WETH",
+        "targetToken": "STEALTH",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 317476.2374723849,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SONICBOT-WETH",
+        "targetToken": "SONICBOT",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 311105.4438157527,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "PVP-WETH",
+        "targetToken": "PVP",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 310783.1803233921,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "P\u4e09P\u4e09-WETH",
+        "targetToken": "P\u4e09P\u4e09",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 306279.3229174417,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "DORKK-WETH",
+        "targetToken": "DORKK",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 306135.63309870585,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "ALCZ-WETH",
+        "targetToken": "ALCZ",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 303311.8696673302,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BOBO 2.0-WETH",
+        "targetToken": "BOBO 2.0",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 301755.0221940772,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "Baby Fine-WETH",
+        "targetToken": "Baby Fine",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 300802.6593769314,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "UNICHAD-WETH",
+        "targetToken": "UNICHAD",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 300461.77770773356,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "RTH-WETH",
+        "targetToken": "RTH",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 296839.89391928585,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "MERMAID-WETH",
+        "targetToken": "MERMAID",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 294715.28556127264,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "AES-WETH",
+        "targetToken": "AES",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 294108.1775142301,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "EMC2 Lord-WETH",
+        "targetToken": "EMC2 Lord",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 293173.3093850213,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "$0xS-WETH",
+        "targetToken": "$0xS",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 290736.7795713273,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "DORKL2.0-WETH",
+        "targetToken": "DORKL2.0",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 286179.80173798586,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "FUNNY-WETH",
+        "targetToken": "FUNNY",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 282823.17982555454,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "TRN-WETH",
+        "targetToken": "TRN",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 280539.8827960082,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "VC-WETH",
+        "targetToken": "VC",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 279958.378574605,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "GRO-USDC",
+        "targetToken": "GRO",
+        "uniswap_pool_address": "USDC",
+        "trading_vol": 277926.9533408507,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SGOKU-WETH",
+        "targetToken": "SGOKU",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 277684.5617542003,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "PBZ-WETH",
+        "targetToken": "PBZ",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 276630.6114691842,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "CHOPPER-WETH",
+        "targetToken": "CHOPPER",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 275385.92454986495,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "PEGZ-WETH",
+        "targetToken": "PEGZ",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 273049.8734167581,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "GRUMBLE-WETH",
+        "targetToken": "GRUMBLE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 271979.376375337,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "LIQWAR-WETH",
+        "targetToken": "LIQWAR",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 267129.6903929614,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x381e18c88a0ffe7bd41b2d687653b486d2ded6ac-WETH",
+        "targetToken": "0x381e18c88a0ffe7bd41b2d687653b486d2ded6ac",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 266999.4853872573,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BABYSHIA-WETH",
+        "targetToken": "BABYSHIA",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 13190316.896009559,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "CINDR-WETH",
+        "targetToken": "CINDR",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 4334685.368197947,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BABYETH-WETH",
+        "targetToken": "BABYETH",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 3311878.838512083,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "Chad Index-WETH",
+        "targetToken": "Chad Index",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 3136716.5512682307,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BLOB-WETH",
+        "targetToken": "BLOB",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 2906510.2355177016,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "LIM-WETH",
+        "targetToken": "LIM",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 2310577.416068761,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "OPL-WETH",
+        "targetToken": "OPL",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 2230962.988978258,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "REVIVAL-WETH",
+        "targetToken": "REVIVAL",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1899458.0351065611,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "Doge-WETH",
+        "targetToken": "Doge",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1842776.9826928175,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "PEPETWO-WETH",
+        "targetToken": "PEPETWO",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1755894.1440064185,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "TA-WETH",
+        "targetToken": "TA",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1648559.1246922682,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "EEYOR-WETH",
+        "targetToken": "EEYOR",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1644839.9989107223,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "EthlinQ-WETH",
+        "targetToken": "EthlinQ",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1644015.2817047285,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SOAPS-WETH",
+        "targetToken": "SOAPS",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1480380.7866258805,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "LIL-WETH",
+        "targetToken": "LIL",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1474710.9120247557,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "GRAYSCALE-WETH",
+        "targetToken": "GRAYSCALE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1315287.030613721,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "bERN-WETH",
+        "targetToken": "bERN",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1307563.2636471891,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BABYFLOKI-WETH",
+        "targetToken": "BABYFLOKI",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1306677.5670176928,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "NOTICKER-WETH",
+        "targetToken": "NOTICKER",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1293307.1620412988,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "ALTD-USDC",
+        "targetToken": "ALTD",
+        "uniswap_pool_address": "USDC",
+        "trading_vol": 1278343.9156648535,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "ADULT-WETH",
+        "targetToken": "ADULT",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1254174.639210889,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "HEPE-WETH",
+        "targetToken": "HEPE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1233840.691649236,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "DUDE-WETH",
+        "targetToken": "DUDE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1143301.653829875,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "PEPE2.69-WETH",
+        "targetToken": "PEPE2.69",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1138899.1352982395,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SILLY-WETH",
+        "targetToken": "SILLY",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1118300.830356998,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BABYMONG-WETH",
+        "targetToken": "BABYMONG",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1070277.9603934684,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "GAMBLE-WETH",
+        "targetToken": "GAMBLE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1066918.0375622578,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BabyKabosu-WETH",
+        "targetToken": "BabyKabosu",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1000622.5639208498,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "MOMO v2-WETH",
+        "targetToken": "MOMO v2",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 997581.7190517738,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SB-WETH",
+        "targetToken": "SB",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 947438.0084948854,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "RFKC-WETH",
+        "targetToken": "RFKC",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 908089.9188082578,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "FTOOLS-WETH",
+        "targetToken": "FTOOLS",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 892722.7026783946,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "Trash-WETH",
+        "targetToken": "Trash",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 824286.2733782689,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BPD-WETH",
+        "targetToken": "BPD",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 766105.2653173079,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "$Q0xO-WETH",
+        "targetToken": "$Q0xO",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 757644.726867794,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "GRIZZLY-WETH",
+        "targetToken": "GRIZZLY",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 740976.9664989279,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "LOVEBB-WETH",
+        "targetToken": "LOVEBB",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 720698.456854214,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BETSY-WETH",
+        "targetToken": "BETSY",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 690190.4474178766,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "Milady Index-WETH",
+        "targetToken": "Milady Index",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 685907.1270366035,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "PEPESR-WETH",
+        "targetToken": "PEPESR",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 674127.5071143188,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "LinqB-WETH",
+        "targetToken": "LinqB",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 636084.1978177583,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "GMIBOT-WETH",
+        "targetToken": "GMIBOT",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 620760.4062583542,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "EOG-WETH",
+        "targetToken": "EOG",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 608660.1869440927,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BabyBitcoin-WETH",
+        "targetToken": "BabyBitcoin",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 608615.3578657695,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SONORA-WETH",
+        "targetToken": "SONORA",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 597258.3901825314,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "Pekkle-WETH",
+        "targetToken": "Pekkle",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 593216.681615694,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "GREG-WETH",
+        "targetToken": "GREG",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 589717.1844465632,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "gato-WETH",
+        "targetToken": "gato",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 581507.0425633647,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SPLASH-WETH",
+        "targetToken": "SPLASH",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 579451.8756710002,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x69-WETH",
+        "targetToken": "0x69",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 570448.9395715918,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SHIA2-WETH",
+        "targetToken": "SHIA2",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 563663.4553390428,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "WAFFLE-WETH",
+        "targetToken": "WAFFLE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 563428.949211664,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "PAC-WETH",
+        "targetToken": "PAC",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 489162.7053256363,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "ARCEUS-WETH",
+        "targetToken": "ARCEUS",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 487517.32608840894,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "ISO-WETH",
+        "targetToken": "ISO",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 479330.15649095457,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "RALLY-WETH",
+        "targetToken": "RALLY",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 479026.8899119797,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "Blue-WETH",
+        "targetToken": "Blue",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 471333.2258159892,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "ETHF-WETH",
+        "targetToken": "ETHF",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 462601.0719737317,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SHIBTECH-WETH",
+        "targetToken": "SHIBTECH",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 461487.95995840366,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "DIMA-WETH",
+        "targetToken": "DIMA",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 459701.65310279524,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "TeSo-WETH",
+        "targetToken": "TeSo",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 454851.836706641,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "MEVY-WETH",
+        "targetToken": "MEVY",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 453107.43118929514,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SYBL-WETH",
+        "targetToken": "SYBL",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 449547.52282727294,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "PEpe-WETH",
+        "targetToken": "PEpe",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 441821.82294937794,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BABYTRUMP-WETH",
+        "targetToken": "BABYTRUMP",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 438738.09216497175,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "FLOPE-WETH",
+        "targetToken": "FLOPE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 433810.6848458897,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "TREE-WETH",
+        "targetToken": "TREE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 433443.9207127514,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SONATA-WETH",
+        "targetToken": "SONATA",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 433064.55186548864,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "CTOOLS-WETH",
+        "targetToken": "CTOOLS",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 390502.14027137664,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "HOTDOG-WETH",
+        "targetToken": "HOTDOG",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 386696.1405399713,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SafeMoon-WETH",
+        "targetToken": "SafeMoon",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 386193.8630048962,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BITKEN-WETH",
+        "targetToken": "BITKEN",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 385805.5490588887,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "Renz-WETH",
+        "targetToken": "Renz",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 385135.2452814809,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "VOCARE-WETH",
+        "targetToken": "VOCARE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 362116.337702111,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "Memes-WETH",
+        "targetToken": "Memes",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 350241.8824402797,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0x1c6e35bfea40f3709da709f0f2e55604c1f53a1f-WETH",
+        "targetToken": "0x1c6e35bfea40f3709da709f0f2e55604c1f53a1f",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 349895.3196681303,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SON-WETH",
+        "targetToken": "SON",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 349074.2135098138,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "JUICE-WETH",
+        "targetToken": "JUICE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 348216.3538374871,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "MOONX-WETH",
+        "targetToken": "MOONX",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 342937.4202332449,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "$BLAST-WETH",
+        "targetToken": "$BLAST",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 342809.3865747304,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SMS-WETH",
+        "targetToken": "SMS",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 341992.6321096253,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "PeJak-WETH",
+        "targetToken": "PeJak",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 339856.9965911277,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SUGAR-WETH",
+        "targetToken": "SUGAR",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 333993.3120878196,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "CICADA-WETH",
+        "targetToken": "CICADA",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 323480.3923470591,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SOYJACK-WETH",
+        "targetToken": "SOYJACK",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 321760.42512300785,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BLAZE-WETH",
+        "targetToken": "BLAZE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 313995.1378870625,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "PEPECASH-WETH",
+        "targetToken": "PEPECASH",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 313893.81493764365,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SHIBOKI-WETH",
+        "targetToken": "SHIBOKI",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 310322.63053654373,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "ARBOT-WETH",
+        "targetToken": "ARBOT",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 308077.527545956,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BOOM-WETH",
+        "targetToken": "BOOM",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 307324.11274303007,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BabyBTC-WETH",
+        "targetToken": "BabyBTC",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 304292.3814139459,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SPOOL-WETH",
+        "targetToken": "SPOOL",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 298549.6769128761,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "RAS-WETH",
+        "targetToken": "RAS",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 26319593.254778225,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "REFLEX-WETH",
+        "targetToken": "REFLEX",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 26027652.04774629,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "PURPLE-WETH",
+        "targetToken": "PURPLE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 18079932.355077103,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "Trinity-WETH",
+        "targetToken": "Trinity",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 7351171.063007284,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0xF-WETH",
+        "targetToken": "0xF",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 3752270.801015904,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "hiX-WETH",
+        "targetToken": "hiX",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 2700601.506897857,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "RBET-WETH",
+        "targetToken": "RBET",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 2469860.4702795614,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "DPRK-WETH",
+        "targetToken": "DPRK",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 2367585.221556455,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BABYBITCOIN-WETH",
+        "targetToken": "BABYBITCOIN",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 2275402.88129622,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SAD-WETH",
+        "targetToken": "SAD",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 2053089.3465806844,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SHIAR-WETH",
+        "targetToken": "SHIAR",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1957585.3347344056,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "sooooooooooooooooooooooooooooooooooooooooooooooo-WETH",
+        "targetToken": "sooooooooooooooooooooooooooooooooooooooooooooooo",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1889654.040227861,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "PRIZE-WETH",
+        "targetToken": "PRIZE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1853180.3133821832,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "MCBASE-WETH",
+        "targetToken": "MCBASE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1594186.642064453,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "GUPPI-WETH",
+        "targetToken": "GUPPI",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1447358.5212629363,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "FBOT-WETH",
+        "targetToken": "FBOT",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1438671.6475970263,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SHOV-WETH",
+        "targetToken": "SHOV",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1411007.8340993996,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "LNDRr-WETH",
+        "targetToken": "LNDRr",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1389809.8760942898,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SPLIT-WETH",
+        "targetToken": "SPLIT",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1378601.8758332809,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "VILLAGE-WETH",
+        "targetToken": "VILLAGE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1361927.5756454782,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BabyX-WETH",
+        "targetToken": "BabyX",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1337831.81976354,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BIC-WETH",
+        "targetToken": "BIC",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1318573.7401246848,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "FWB-WETH",
+        "targetToken": "FWB",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1270328.7821099646,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "Voldemort-WETH",
+        "targetToken": "Voldemort",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1169769.8033769496,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "GENSO-WETH",
+        "targetToken": "GENSO",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1145323.7753491676,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "MINE-WETH",
+        "targetToken": "MINE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1085894.1894126898,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SEX-WETH",
+        "targetToken": "SEX",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1073057.341552932,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "LiqShares-WETH",
+        "targetToken": "LiqShares",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1068002.5600351784,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "PEPECOIN-WETH",
+        "targetToken": "PEPECOIN",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1065798.9366962889,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "FRENF-WETH",
+        "targetToken": "FRENF",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1024302.4236142176,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SWS-WETH",
+        "targetToken": "SWS",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 995759.9989972038,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "MIXCOIN-WETH",
+        "targetToken": "MIXCOIN",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 925936.0208478763,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "Lemon-WETH",
+        "targetToken": "Lemon",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 911777.0898802774,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BxB-WETH",
+        "targetToken": "BxB",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 883309.1341568873,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "STAKE-WETH",
+        "targetToken": "STAKE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 882878.8105674845,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "dArk-USDT",
+        "targetToken": "dArk",
+        "uniswap_pool_address": "USDT",
+        "trading_vol": 876521.2567995316,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BUDDY-WETH",
+        "targetToken": "BUDDY",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 852845.8417533264,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "CHAINLINK-WETH",
+        "targetToken": "CHAINLINK",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 851249.85689385,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SHIABURN-WETH",
+        "targetToken": "SHIABURN",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 820666.6530882956,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "ROSO-WETH",
+        "targetToken": "ROSO",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 820563.6265698232,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "DVORCD-WETH",
+        "targetToken": "DVORCD",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 816495.9085410855,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "LBOT-WETH",
+        "targetToken": "LBOT",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 791391.2010237747,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BABYXRP-WETH",
+        "targetToken": "BABYXRP",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 790139.770347929,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SUNNI-WETH",
+        "targetToken": "SUNNI",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 785150.1646480333,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "GAWR-WETH",
+        "targetToken": "GAWR",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 775903.5384729424,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BOMB-WETH",
+        "targetToken": "BOMB",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 775534.1545714587,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "AMICAS-WETH",
+        "targetToken": "AMICAS",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 771968.0614557905,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "STOCH-WETH",
+        "targetToken": "STOCH",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 719248.7914934107,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SOFUN-WETH",
+        "targetToken": "SOFUN",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 718860.313417713,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "REVE-WETH",
+        "targetToken": "REVE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 718362.7640624477,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "PHO-WETH",
+        "targetToken": "PHO",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 669602.5342644266,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "MEMBOT-WETH",
+        "targetToken": "MEMBOT",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 666791.9096187652,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "DRUGS-WETH",
+        "targetToken": "DRUGS",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 664841.4490216781,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "CHAP-WETH",
+        "targetToken": "CHAP",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 651884.8635737798,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "NAVYSEAL-WETH",
+        "targetToken": "NAVYSEAL",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 649322.0927514499,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SMOL-WETH",
+        "targetToken": "SMOL",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 635115.545192859,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "DEDX-WETH",
+        "targetToken": "DEDX",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 620496.3070511385,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "POE-WETH",
+        "targetToken": "POE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 603190.4412529274,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BABYDOGE-WETH",
+        "targetToken": "BABYDOGE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 593715.4674948829,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "$TOADS-WETH",
+        "targetToken": "$TOADS",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 558603.8437499849,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "$HUNGER-WETH",
+        "targetToken": "$HUNGER",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 557459.9287602757,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "CBK-WETH",
+        "targetToken": "CBK",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 542256.9651642488,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "ISARIAMU-WETH",
+        "targetToken": "ISARIAMU",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 535158.6718797219,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "$NOK-WETH",
+        "targetToken": "$NOK",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 511674.887595924,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "TELE-WETH",
+        "targetToken": "TELE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 502962.53781341645,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SHIAINU-WETH",
+        "targetToken": "SHIAINU",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 498916.91672199825,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "QUIRK-WETH",
+        "targetToken": "QUIRK",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 479682.800046072,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "TECH-WETH",
+        "targetToken": "TECH",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 449001.67926704435,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "LHANDS-WETH",
+        "targetToken": "LHANDS",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 448014.458434575,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "CUNT-WETH",
+        "targetToken": "CUNT",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 439446.5210775882,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "KIKI-WETH",
+        "targetToken": "KIKI",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 437719.413880529,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "PEA-WETH",
+        "targetToken": "PEA",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 423093.5388453867,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "WBOT-WETH",
+        "targetToken": "WBOT",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 419125.4112599653,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "EARN-WETH",
+        "targetToken": "EARN",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 414042.4862173536,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SHITMON-WETH",
+        "targetToken": "SHITMON",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 406606.53995870444,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BIA-WETH",
+        "targetToken": "BIA",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 405750.6691173803,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "LION-WETH",
+        "targetToken": "LION",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 405657.1833422624,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "OBCD-WETH",
+        "targetToken": "OBCD",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 389825.81662208016,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "$POVChain-WETH",
+        "targetToken": "$POVChain",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 387421.1053569708,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "USDEBT-WETH",
+        "targetToken": "USDEBT",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 382362.2006414705,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "DEDE-WETH",
+        "targetToken": "DEDE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 376204.2089398588,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "ShiaB-WETH",
+        "targetToken": "ShiaB",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 373925.4407685371,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "ULTIMATEBOT-WETH",
+        "targetToken": "ULTIMATEBOT",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 366522.73525705625,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SALT-WETH",
+        "targetToken": "SALT",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 355433.01684256404,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "DATA-WETH",
+        "targetToken": "DATA",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 354272.0971521239,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "FAST-WETH",
+        "targetToken": "FAST",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 352666.7509996145,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BTC8-WETH",
+        "targetToken": "BTC8",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 352133.44806653593,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "USD-WETH",
+        "targetToken": "USD",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 345818.061166543,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "$BABYBITCOIN-WETH",
+        "targetToken": "$BABYBITCOIN",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 340053.0268208849,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SHIBARIUM-WETH",
+        "targetToken": "SHIBARIUM",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 10910898.387675034,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "NIOCTIB-WETH",
+        "targetToken": "NIOCTIB",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 7639097.131549368,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "LoveRCKT-WETH",
+        "targetToken": "LoveRCKT",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 5428142.191693394,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "FINN-WETH",
+        "targetToken": "FINN",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 2656978.10958664,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "KINGYOBU-WETH",
+        "targetToken": "KINGYOBU",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 2322921.552167007,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "UNIFAST-WETH",
+        "targetToken": "UNIFAST",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1898688.959123237,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "Bitcoin Cash-WETH",
+        "targetToken": "Bitcoin Cash",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1660404.378854181,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SHINOKU-WETH",
+        "targetToken": "SHINOKU",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1608495.0840284708,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "MOGE-WETH",
+        "targetToken": "MOGE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1552566.583633248,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "VERSUS-WETH",
+        "targetToken": "VERSUS",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1494432.1154992846,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "WEB3-WETH",
+        "targetToken": "WEB3",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1479683.3476695023,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "WBITCOIN-WETH",
+        "targetToken": "WBITCOIN",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1379168.0286740048,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "QBTC-WETH",
+        "targetToken": "QBTC",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1365562.0838782578,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "Grave-WETH",
+        "targetToken": "Grave",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1287202.1809587982,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "PS2-WETH",
+        "targetToken": "PS2",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1226269.0196448746,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BabySHIB-WETH",
+        "targetToken": "BabySHIB",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1216650.673668224,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "Cheems-WETH",
+        "targetToken": "Cheems",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1202178.121212234,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SHIBIE-WETH",
+        "targetToken": "SHIBIE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1173084.8043960636,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "$HOP-WETH",
+        "targetToken": "$HOP",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1168464.1530359203,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "PIPS-WETH",
+        "targetToken": "PIPS",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1148944.9633884416,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "VS-WETH",
+        "targetToken": "VS",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1098758.255326609,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "GIFT-WETH",
+        "targetToken": "GIFT",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1054019.3937024507,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BETCRYPT-WETH",
+        "targetToken": "BETCRYPT",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1035418.1124061509,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SYBOT-WETH",
+        "targetToken": "SYBOT",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1012577.8454748017,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "PrinceHarryPotterStableHawkingMoisturiseHobbesXInu-WETH",
+        "targetToken": "PrinceHarryPotterStableHawkingMoisturiseHobbesXInu",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 969910.0836293662,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "AIRBOT-WETH",
+        "targetToken": "AIRBOT",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 960219.7668788929,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "Lean-WETH",
+        "targetToken": "Lean",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 923354.3004659916,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "Block-0-WETH",
+        "targetToken": "Block",
+        "uniswap_pool_address": "0-WETH",
+        "trading_vol": 915505.8155413698,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BUFO-WETH",
+        "targetToken": "BUFO",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 885737.4127201341,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "DO2-WETH",
+        "targetToken": "DO2",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 875481.2271354708,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "GiftHub-WETH",
+        "targetToken": "GiftHub",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 852294.0658809465,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "LoveRCKT2.0-WETH",
+        "targetToken": "LoveRCKT2.0",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 851700.6212667851,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "Doggo-WETH",
+        "targetToken": "Doggo",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 851334.1803537296,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "CROPS-WETH",
+        "targetToken": "CROPS",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 849936.724117066,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "DARKO-WETH",
+        "targetToken": "DARKO",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 849410.5320950979,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "OBAMA-WETH",
+        "targetToken": "OBAMA",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 842737.3485884251,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "$JPOT-WETH",
+        "targetToken": "$JPOT",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 820219.7960716814,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "@-WETH",
+        "targetToken": "@",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 778422.504537566,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BOTC-WETH",
+        "targetToken": "BOTC",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 765441.2527971325,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "MOOSE-WETH",
+        "targetToken": "MOOSE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 759309.9931134145,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SAFEMOON-WETH",
+        "targetToken": "SAFEMOON",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 746807.2999349474,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "1%-WETH",
+        "targetToken": "1%",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 734709.7438373757,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "JELLY-WETH",
+        "targetToken": "JELLY",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 726666.2886164429,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BODEGA-WETH",
+        "targetToken": "BODEGA",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 726058.8837753091,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BRAG-WETH",
+        "targetToken": "BRAG",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 717109.2243455539,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "RUGTOSHI-WETH",
+        "targetToken": "RUGTOSHI",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 709615.2992391635,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "RIPPLE-WETH",
+        "targetToken": "RIPPLE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 702127.4139745343,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BNB-WETH",
+        "targetToken": "BNB",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 683619.5955837575,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "Ozempic-WETH",
+        "targetToken": "Ozempic",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 674673.9944863626,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "ISPY-WETH",
+        "targetToken": "ISPY",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 618549.1350437407,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "RRO-WETH",
+        "targetToken": "RRO",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 593547.1697233594,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "UNISHIB-WETH",
+        "targetToken": "UNISHIB",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 589219.6116582197,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "STOCKS-WETH",
+        "targetToken": "STOCKS",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 588096.7619838647,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "PACMAN-WETH",
+        "targetToken": "PACMAN",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 567511.1803523189,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "EFOMO-WETH",
+        "targetToken": "EFOMO",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 565092.7619616602,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "Vault-WETH",
+        "targetToken": "Vault",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 564672.2866461583,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "MiladyTV-WETH",
+        "targetToken": "MiladyTV",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 541660.139441057,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "AUTH-WETH",
+        "targetToken": "AUTH",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 533817.9511209041,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "CHOP-WETH",
+        "targetToken": "CHOP",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 533275.4658370989,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BLOCKO-WETH",
+        "targetToken": "BLOCKO",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 519048.45082614524,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "UBANK-WETH",
+        "targetToken": "UBANK",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 507519.5870134187,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "TROLLFACE-WETH",
+        "targetToken": "TROLLFACE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 501154.07477295015,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "CSHIB-WETH",
+        "targetToken": "CSHIB",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 499179.47498242214,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "EFOLIO-WETH",
+        "targetToken": "EFOLIO",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 493039.0160363953,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "$DICE-WETH",
+        "targetToken": "$DICE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 475436.34055077354,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BitcoinGold-WETH",
+        "targetToken": "BitcoinGold",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 474730.99768781575,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "the ticker is PEPE-WETH",
+        "targetToken": "the ticker is PEPE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 464810.8252673425,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "LTC-WETH",
+        "targetToken": "LTC",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 464214.46765806735,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "King-WETH",
+        "targetToken": "King",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 456430.22483527963,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BRG-WETH",
+        "targetToken": "BRG",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 453943.743472552,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "TREAT-USDC",
+        "targetToken": "TREAT",
+        "uniswap_pool_address": "USDC",
+        "trading_vol": 439186.2432748779,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "Shit-WETH",
+        "targetToken": "Shit",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 433887.08140397177,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "FRESH-WETH",
+        "targetToken": "FRESH",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 428357.3672516384,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "fkShibarium-WETH",
+        "targetToken": "fkShibarium",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 425879.60293372895,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "TDOG-WETH",
+        "targetToken": "TDOG",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 424687.44762376545,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "WE-WETH",
+        "targetToken": "WE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 413908.5751597442,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "KRYPTOS-WETH",
+        "targetToken": "KRYPTOS",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 410385.11206503643,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "DEBOOK-WETH",
+        "targetToken": "DEBOOK",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 410057.0330807199,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "GUNBET-WETH",
+        "targetToken": "GUNBET",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 10045129.359118192,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "MMG-WETH",
+        "targetToken": "MMG",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 6942578.967383796,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "nd4-WETH",
+        "targetToken": "nd4",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 6160101.037515846,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "JUMP-WETH",
+        "targetToken": "JUMP",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 4774400.294358914,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "PYUSD-WETH",
+        "targetToken": "PYUSD",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 3776546.6904080184,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "STRONGX-WETH",
+        "targetToken": "STRONGX",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 3235497.8464765954,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "CocoX-WETH",
+        "targetToken": "CocoX",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 2715585.527576595,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "PYPY-WETH",
+        "targetToken": "PYPY",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 2637690.9406976146,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "APEX-WETH",
+        "targetToken": "APEX",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 2111115.779006723,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "TUMBLR-WETH",
+        "targetToken": "TUMBLR",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 2001674.5549889212,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "UZU-WETH",
+        "targetToken": "UZU",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1978309.0496036818,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "CEX-WETH",
+        "targetToken": "CEX",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1928463.9862071457,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "W-WETH",
+        "targetToken": "W",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1784256.7079306296,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BT2021-WETH",
+        "targetToken": "BT2021",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1762045.9743092135,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "Clown-WETH",
+        "targetToken": "Clown",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1726039.8185282976,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "EA-WETH",
+        "targetToken": "EA",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1607154.56624847,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "PYUSDF-WETH",
+        "targetToken": "PYUSDF",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1574068.29722392,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "POLYGON-WETH",
+        "targetToken": "POLYGON",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1508795.2492195196,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "RABBY-WETH",
+        "targetToken": "RABBY",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1242817.5529375037,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "QG-WETH",
+        "targetToken": "QG",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1218266.4892438073,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "GOOTS-WETH",
+        "targetToken": "GOOTS",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1201145.5889989915,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SHIB3-WETH",
+        "targetToken": "SHIB3",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1194091.2558332959,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "FUMOG-WETH",
+        "targetToken": "FUMOG",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1165469.546846279,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "VIB-WETH",
+        "targetToken": "VIB",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1162861.9799612626,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "LGBTQ-WETH",
+        "targetToken": "LGBTQ",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1136420.8310584787,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "ANIME-WETH",
+        "targetToken": "ANIME",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1116045.3078759604,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "POKEMON2.0-WETH",
+        "targetToken": "POKEMON2.0",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1095883.0053469941,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SNAKEBOT-WETH",
+        "targetToken": "SNAKEBOT",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1016763.9163323152,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "ORCA-WETH",
+        "targetToken": "ORCA",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 979940.762092247,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "OMG-WETH",
+        "targetToken": "OMG",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 977948.6559242305,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "KABOOM-WETH",
+        "targetToken": "KABOOM",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 926832.6875722171,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SHIDCOIN-WETH",
+        "targetToken": "SHIDCOIN",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 920981.0790721343,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "MILADY-WETH",
+        "targetToken": "MILADY",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 918460.9929467207,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "1XBET-WETH",
+        "targetToken": "1XBET",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 915683.4271873786,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "KETAI-WETH",
+        "targetToken": "KETAI",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 880132.5225851694,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "ChainSend-WETH",
+        "targetToken": "ChainSend",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 862310.6930870742,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "CONNECT-WETH",
+        "targetToken": "CONNECT",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 836668.4347937673,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "FOUNDER-WETH",
+        "targetToken": "FOUNDER",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 825981.8955646354,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "FUCKED-WETH",
+        "targetToken": "FUCKED",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 795758.5730242033,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "UNIX-WETH",
+        "targetToken": "UNIX",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 793792.0018557658,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "GLADIATOR-WETH",
+        "targetToken": "GLADIATOR",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 778769.5237114395,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BITCOINGF-WETH",
+        "targetToken": "BITCOINGF",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 748414.2872913842,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "CYBA-WETH",
+        "targetToken": "CYBA",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 723062.3467839416,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "HOOD-WETH",
+        "targetToken": "HOOD",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 706213.2667263737,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "COLOURS-WETH",
+        "targetToken": "COLOURS",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 684530.9901304925,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "FAN-WETH",
+        "targetToken": "FAN",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 679608.1890594554,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "PRERICH-WETH",
+        "targetToken": "PRERICH",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 669120.4877270767,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "3CUTE-WETH",
+        "targetToken": "3CUTE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 663797.6979441119,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "GBA-WETH",
+        "targetToken": "GBA",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 650107.6824160677,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "SIGHT-WETH",
+        "targetToken": "SIGHT",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 641638.3967892848,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "COINIFY-WETH",
+        "targetToken": "COINIFY",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 601938.4811585565,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "AMBot-WETH",
+        "targetToken": "AMBot",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 598313.0467937728,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "LEAGUE-WETH",
+        "targetToken": "LEAGUE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 596654.9983105486,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "KUKU-WETH",
+        "targetToken": "KUKU",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 592085.2069673218,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "lmeow-WETH",
+        "targetToken": "lmeow",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 584609.9156491667,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "ODUNG-WETH",
+        "targetToken": "ODUNG",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 579734.0871178359,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "HSL-WETH",
+        "targetToken": "HSL",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 565373.6969864087,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "FK12-WETH",
+        "targetToken": "FK12",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 561968.5740416173,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "TAXER-WETH",
+        "targetToken": "TAXER",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 559330.7942352305,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "CROSS-WETH",
+        "targetToken": "CROSS",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 556372.6708240531,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "CLONE-WETH",
+        "targetToken": "CLONE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 549613.3712582956,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "TANK-WETH",
+        "targetToken": "TANK",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 547473.9959044306,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "TRON-WETH",
+        "targetToken": "TRON",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 545935.4041062335,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "enditall-WETH",
+        "targetToken": "enditall",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 544604.703493437,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "PRKC-WETH",
+        "targetToken": "PRKC",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 544542.3568111665,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "NUMBERS-WETH",
+        "targetToken": "NUMBERS",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 538054.9524401202,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "PXPEPE-WETH",
+        "targetToken": "PXPEPE",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 535567.9301937657,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "GeniuX-WETH",
+        "targetToken": "GeniuX",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 519839.5852797789,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "Bitcoin-WETH",
+        "targetToken": "Bitcoin",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 509970.0977844907,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "INCOG-WETH",
+        "targetToken": "INCOG",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 508052.8865782754,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "QUEST-WETH",
+        "targetToken": "QUEST",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 480961.60025008576,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "CBOT-WETH",
+        "targetToken": "CBOT",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 473719.47392523696,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BALD2.0-WETH",
+        "targetToken": "BALD2.0",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 472362.31127813156,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "INTERNET-WETH",
+        "targetToken": "INTERNET",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 467591.3217524057,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "$WATCHER-WETH",
+        "targetToken": "$WATCHER",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 463173.75931504526,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "PayPal-WETH",
+        "targetToken": "PayPal",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 440505.5066613375,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "KRONK-WETH",
+        "targetToken": "KRONK",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 438432.49377713,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "Spurdo-WETH",
+        "targetToken": "Spurdo",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 434010.5984026172,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "COSMOS-WETH",
+        "targetToken": "COSMOS",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 434008.7745000584,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "0xeffb64142a1e47e2fff2e51e0b7234ab70d36e5a-WETH",
+        "targetToken": "0xeffb64142a1e47e2fff2e51e0b7234ab70d36e5a",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 424071.5630761056,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "NUDES-WETH",
+        "targetToken": "NUDES",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 418372.58192354924,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "$dlance-WETH",
+        "targetToken": "$dlance",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 414157.2203698185,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "$MONERO-WETH",
+        "targetToken": "$MONERO",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 412505.7482497886,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "CyberX-WETH",
+        "targetToken": "CyberX",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 3431219.001055283,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "STANK-WETH",
+        "targetToken": "STANK",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1644700.1236042937,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "PLAY-WETH",
+        "targetToken": "PLAY",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 1001257.8047413963,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "AAA-WETH",
+        "targetToken": "AAA",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 828209.803127399,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "EMAIL-WETH",
+        "targetToken": "EMAIL",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 686872.9863116168,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "LCHS-WETH",
+        "targetToken": "LCHS",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 663417.9874032193,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "DogeX-WETH",
+        "targetToken": "DogeX",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 603250.0003496923,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "lab-WETH",
+        "targetToken": "lab",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 512795.55554705596,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "BITLORD-WETH",
+        "targetToken": "BITLORD",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 469446.6501766858,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "MOLANG-WETH",
+        "targetToken": "MOLANG",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 433697.1559453141,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "$X-WETH",
+        "targetToken": "$X",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 420039.1079198804,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "MarbleX-WETH",
+        "targetToken": "MarbleX",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 393961.06884896156,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "MARMY-WETH",
+        "targetToken": "MARMY",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 377344.5209045061,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "DEXBOT-WETH",
+        "targetToken": "DEXBOT",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 371794.68918236723,
+        "dateAdd": "2023-09-18 00:01:12"
+    },
+    {
+        "token_pair": "TheDuck-WETH",
+        "targetToken": "TheDuck",
+        "uniswap_pool_address": "WETH",
+        "trading_vol": 589424.1674155697,
+        "dateAdd": "2023-09-18 00:01:12"
     }
 ]
