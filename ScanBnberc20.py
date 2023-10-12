@@ -24,19 +24,10 @@ def get_contract_source(address):
         return response.json()
     return None
 
-
 def extract_data_from_source(source_code):
-    # List of domains to ignore
-    IGNORED_DOMAINS = {
-        "docs.openzeppelin.com","consensys.github.io","ethereum.stackexchange.com","raw.githubusercontent.com","etherscan.io","x.com","github.com", "www.gnu.org", "fsf.org", "forum.openzeppelin.com",
-        "en.wikipedia.org", "wizard.openzeppelin.com", "eips.ethereum.org",
-        "medium.com", "blog.openzeppelin.com", "eth.wiki", "diligence.consensys.net",
-        "solidity.readthedocs.io", "t.me", "forum.zeppelin.solutions",
-        "web3js.readthedocs.io", "docs.ethers.io", "ethereum.github.io",
-        "docs.metamask.io", "xn--2-umb.com", "cs.stackexchange.com",
-        "docs.soliditylang.org", "hardhat.org", "twitter.com",
-        "www.facebook.com", "www.instagram.com", "consensys.net"
-    }
+    # Load ignored domains from file
+    with open('ignoredomains.txt', 'r') as file:
+        IGNORED_DOMAINS = set(file.read().split(','))
 
     # Extract data from the source code
     web_domains = re.findall(r'https?://([\w\-\.]+)', source_code)
@@ -55,7 +46,6 @@ def extract_data_from_source(source_code):
         extracted_data["emails"] = emails
 
     return extracted_data
-
 
 
 def main():
