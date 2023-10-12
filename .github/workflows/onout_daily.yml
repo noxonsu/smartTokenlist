@@ -1,8 +1,8 @@
-name: Run Python Scripts and Commit Changes
+name: Search Bnb20 tokens and scan source for sites
 
 on:
   schedule:
-    - cron: '0 0 * * 1'  # Run every Monday at 00:00 UTC
+    - cron: '0 */2 * * *' # Run every who hours
   workflow_dispatch:  # Allows manual run
 
 jobs:
@@ -22,8 +22,11 @@ jobs:
       run: |
         pip install requests
 
-    - name: Run DuneScan1.py
-      run: DUNE_API_KEY=${{ secrets.DUNE_API_KEY }} python DuneScan1.py
+    - name: Run searchErcFromLastTransfers3.py
+      run: DUNE_API_KEY=${{ secrets.DUNE_API_KEY }} python searchErcFromLastTransfers3.py
+ 
+    - name: Run ScanBnberc20.py
+      run: BNBSCAN_API_KEY=${{ secrets.BNBSCAN_API_KEY }} python ScanBnberc20.py
 
     - name: Commit and push changes
       run: |
