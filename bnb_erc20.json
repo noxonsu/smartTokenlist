@@ -445,7 +445,8 @@
         ],
         "telegram_groups": [
             "CreoEngineChannel"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xf99f2aec50adfde23cc67ab6240168b0a59f1d30",
@@ -495,7 +496,8 @@
         "telegram_groups": [
             "ape_swap",
             "ape_swap_news"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x7abfefbce37a46e0f1a9e1483b1a865da560771a",
@@ -546,7 +548,8 @@
         "telegram_groups": [
             "GGGDOG_EN",
             "GGGDOG_ZH"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x8d445b83bc7835d2a35a6ec681a10e2006928f73",
@@ -813,7 +816,8 @@
         "sourceScanned": "processed",
         "web_domains": [
             "1inch.exchange"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xa6d2ec4c126421cf775884a0ab91cb6d90618de5",
@@ -875,7 +879,8 @@
         ],
         "telegram_groups": [
             "MsgSender_AP"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x64030a2223c60941c032de758a8cdb91064de261",
@@ -885,7 +890,8 @@
         ],
         "telegram_groups": [
             "FrogCEO_Announcements"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb",
@@ -1883,7 +1889,8 @@
         "telegram_groups": [
             "GGGDOG_EN",
             "GGGDOG_ZH"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x593b7ee030206f21c24a72a583f451003a155ca4",
@@ -2714,7 +2721,8 @@
         "sourceScanned": "processed",
         "web_domains": [
             "ggg.dog"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xde9895f0f135507623fc8556d1c78f78c564b3b0",
@@ -3440,7 +3448,8 @@
         "telegram_groups": [
             "GGGDOG_EN",
             "GGGDOG_ZH"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x7849ed1447250d0b896f89b58f3075b127ca29b3",
@@ -3490,7 +3499,8 @@
         "telegram_groups": [
             "GGGDOG_EN",
             "GGGDOG_ZH"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xfc41ee95c686656d1a527193f3a26385e3185b56",
@@ -4105,7 +4115,8 @@
             "ape_swap_news",
             "ape_swap",
             "ape_swap_news"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x80b9b3227fde37cb358220f0150c1ee7c7413986",
@@ -5178,7 +5189,8 @@
         "telegram_groups": [
             "GGGDOG_EN",
             "GGGDOG_ZH"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xc2ebaa5f640b30c0d6712a6e0656fb816c10a7d4",
@@ -5721,7 +5733,8 @@
         "telegram_groups": [
             "GGGDOG_EN",
             "GGGDOG_ZH"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xf625069dce62df95b4910f83446954b871f0fc4f",
@@ -7380,7 +7393,8 @@
         "telegram_groups": [
             "GGGDOG_EN",
             "GGGDOG_ZH"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x80b199fedb89eb5fd6b4efd9f000508ecc76f81c",

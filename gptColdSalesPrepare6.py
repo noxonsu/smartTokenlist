@@ -13,7 +13,7 @@ def load_data_from_file(filename):
 
 
 def filter_sites_without_summary(data):
-    return [(entry['web_domains'][0], entry['contract_address']) for entry in data if not entry.get('processedGpt') and entry.get('web_domains')][:3]
+    return [(entry['web_domains'][0], entry['contract_address']) for entry in data if not entry.get('processedGpt') and entry.get('web_domains')][:2]
 
 
 def extract_content(site):
@@ -50,7 +50,7 @@ def save_summary_and_proposal(contract_address, summary, proposal):
         json.dump({
             'summary': summary,
             'proposal': proposal
-        }, file)
+        }, file, indent=4)
 
 
 def process_sites(data, sites_without_summary):
@@ -73,18 +73,21 @@ def process_sites(data, sites_without_summary):
         # Extract relevant content
         splitter = RecursiveCharacterTextSplitter.from_tiktoken_encoder(chunk_size=2000, chunk_overlap=0)
         splits = splitter.split_documents(docs_transformed)
-        extracted_content = create_extraction_chain(schema=schema, llm=llm).run(splits[0].page_content)
-
-        # Combine extracted content
-        combined_content = [f"{item.get('news_article_title', '')} - {item.get('news_article_summary', '')}\n\n" for item in extracted_content]
-        targetSummary = ' '.join(combined_content)
-
-        proposal = None
-        if targetSummary:
-            proposal = generate_message(targetSummary)
+        if not splits:
+            print(f"Couldn't extract content from {site}.")
+            targetSummary = "Failed to extract content"
+            proposal = "Extraction failure"
         else:
-            targetSummary = "None"
-            proposal = None
+            extracted_content = create_extraction_chain(schema=schema, llm=llm).run(splits[0].page_content)
+            combined_content = [f"{item.get('news_article_title', '')} - {item.get('news_article_summary', '')}\n\n" for item in extracted_content]
+            targetSummary = ' '.join(combined_content)
+
+            if targetSummary:
+                proposal = generate_message(targetSummary)
+            else:
+                targetSummary = "None"
+                proposal = None
+
 
         # Update the data list
         save_summary_and_proposal(contract, targetSummary, proposal)
