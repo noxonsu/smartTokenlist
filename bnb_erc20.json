@@ -7313,5 +7313,109 @@
         "telegram_groups": [
             "fatsale"
         ]
+    },
+    {
+        "contract_address": "0x56c6ed3229cacb2aa6b7e7e6d8e60769fe51d972",
+        "sourceScanned": "failed"
+    },
+    {
+        "contract_address": "0xf33893de6eb6ae9a67442e066ae9abd228f5290c",
+        "sourceScanned": "failed"
+    },
+    {
+        "contract_address": "0x7482dc9d6c9238d424935a3e2617572cc3083ba4",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x039f4e0d83d69267b4f480ba881971da3c4613ac",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xc10c96b80de6c1c4f13f7a3084222b83a33384df",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x0e9729a1db9e45ff08f64e6c4342be3921e993e0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dayofdefeat.app",
+            "ref.dayofdefeat.app",
+            "stake.dayofdefeat.app",
+            "nft.dayofdefeat.app",
+            "dao.dayofdefeat.app",
+            "titanservice.cn",
+            "legacycapital.cc",
+            "dayofdefeat.app",
+            "ref.dayofdefeat.app",
+            "stake.dayofdefeat.app",
+            "nft.dayofdefeat.app",
+            "dao.dayofdefeat.app",
+            "titanservice.cn",
+            "legacycapital.cc"
+        ],
+        "telegram_groups": [
+            "DayOfDefeatBSC",
+            "DayOfDefeatBSC"
+        ]
+    },
+    {
+        "contract_address": "0x198271b868dae875bfea6e6e4045cdda5d6b9829",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xc98398bc999e75a6564b8bced2897bc742c868d2",
+        "sourceScanned": "failed"
+    },
+    {
+        "contract_address": "0x36e714d63b676236b72a0a4405f726337b06b6e5",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x3a5a8b0363717c97fa541b51eb3c4e062e309a9c",
+        "sourceScanned": "failed"
+    },
+    {
+        "contract_address": "0xeec4ddd716ac552a6da39fde155f89599bc49848",
+        "sourceScanned": "failed"
+    },
+    {
+        "contract_address": "0xf68710b6de4e9013318bf4f8fefc14eb87f10e39",
+        "sourceScanned": "failed"
+    },
+    {
+        "contract_address": "0x8f7ebc23212f6adcc7a5f1c86197ec337c2f4997",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xff77a0b56e45990cf39c2f9ba6bd630f76c395e3",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x76c28a047aae73218db0bc4df7e6c859ed7e0102",
+        "sourceScanned": "failed"
+    },
+    {
+        "contract_address": "0xb5151965b13872b183eba08e33d0d06743ac8132",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xa9500f552ba0c249817c813999d856cbc932e847",
+        "sourceScanned": "failed"
+    },
+    {
+        "contract_address": "0x3cced43a0658967972769ccdafa3391f4cf81ae9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dx.app",
+            "dx.app"
+        ]
+    },
+    {
+        "contract_address": "0x18956c6fb8923aec6acd993dec0ce64df306b4d4",
+        "sourceScanned": "failed"
+    },
+    {
+        "contract_address": "0x8ae28e2c3515472745c9f437ff667cb10e0cf79d",
+        "sourceScanned": "failed"
     }
 ]
