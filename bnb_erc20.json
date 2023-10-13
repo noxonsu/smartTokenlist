@@ -7200,5 +7200,118 @@
     {
         "contract_address": "0x09a6c44c3947b69e2b45f4d51b67e6a39acfb506",
         "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x774d9103dc027b707812acf0e0b40a34dcaef658",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x4fdd92bd67acf0676bfc45ab7168b3996f7b4a3b",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xdd02bc212e79acdab476c9295cdea8a61099cb79",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x52ce3314813a6ae526d80474d9cbdbb718bdace3",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x842668e2b9a73240abf6532dedc89c9c3e050c98",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "lightdefi.org"
+        ]
+    },
+    {
+        "contract_address": "0x22539439aef1518e6461d64cf4b22feee5688e33",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x2123666dbfaacffb233ad7854ae16ef53a3b8f05",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x4361a4905fbbf2e77ce7c8f3e3e4531767e8a81b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bigtime.gg"
+        ]
+    },
+    {
+        "contract_address": "0x95c91eef65f50570cfc3f269961a00108cf7bf59",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x3cb15bed2830c1c66f61041928d409260ec9d8ea",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x84821bb588f049913dc579dc511e5e31eb22d5e4",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xb89151ffbf578306bdc439c8c3306c470f7c5309",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x5a16e8ce8ca316407c6e6307095dc9540a8d62b3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "docs.metamask.io"
+        ]
+    },
+    {
+        "contract_address": "0x15e2a4b298db8b1c8117901edeb8ea8a0bd6b13b",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x4f5979515c7014095908e066c8f29a8d02c18a70",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x4438a2da34f419712d2e822775bfeb652367bdf1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "grixcoin.com"
+        ]
+    },
+    {
+        "contract_address": "0xe21b8a33410daa5b0275bfa68ca6e5c649b26170",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xa28ea68177e6ae59d567aaaf365d570158995a63",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x7ddc52c4de30e94be3a6a0a2b259b2850f421989",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x566f47bf6e0fd69cd97da548573a6127c18ce1c0",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xfbe5c35ae60bf96bb91de653f32741840a582321",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xb2343143f814639c9b1f42961c698247171df34a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.coremultichain.com"
+        ]
+    },
+    {
+        "contract_address": "0x7fd8d15df136b677740dea057fd5c269579cba87",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fatsale.finance"
+        ],
+        "telegram_groups": [
+            "fatsale"
+        ]
     }
 ]
