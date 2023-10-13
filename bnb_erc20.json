@@ -1027,7 +1027,8 @@
             "trejgun@gemunion.io",
             "trejgun@gemunion.io",
             "trejgun@gemunion.io"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x630106a1fea31954c037137ffeab88612420f57d",
@@ -1086,7 +1087,8 @@
         "sourceScanned": "processed",
         "web_domains": [
             "swcregistry.io"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x9e9bef94795bfe87a11a0369b4e0c3b60a6fcf2b",
@@ -1117,7 +1119,8 @@
         "sourceScanned": "processed",
         "web_domains": [
             "bullcoins.club"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xebe1348d7d814306bdda65ce8f980c7f12b2ded6",
@@ -1196,7 +1199,8 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.selfcrypto.io"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x39ae8eefb05138f418bb27659c21632dc1ddab10",
@@ -1290,7 +1294,8 @@
         ],
         "telegram_groups": [
             "cateclub"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xe89715d87c33221bc76b4f3162cc4a1cb0da0e19",
@@ -1317,7 +1322,8 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.ois.dev"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xfffa7877af6ead598d9383ef2c73e3506221bd28",
@@ -1348,7 +1354,8 @@
         "sourceScanned": "processed",
         "web_domains": [
             "marketmaking.pro"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x5c65badf7f97345b7b92776b22255c973234efe7",
@@ -1387,7 +1394,8 @@
         "sourceScanned": "processed",
         "web_domains": [
             "solartechno.io"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x0b47a1573c9cf604619a56024ed275064b1f0217",
@@ -1461,7 +1469,8 @@
         ],
         "telegram_groups": [
             "Tinereum"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xeb53a5f8f2de50248bc44f91650de438ce17b5eb",
@@ -1523,7 +1532,8 @@
         ],
         "telegram_groups": [
             "LayerNetwork"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xfa318dba7b846f6a60acef8b9fde750135e0a179",
