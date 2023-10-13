@@ -6,7 +6,8 @@
             "github.com",
             "github.com",
             "github.com"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
@@ -16,7 +17,8 @@
             "www.gnu.org",
             "www.gnu.org",
             "www.gnu.org"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x4258d2f9a19abe9e19bb129a5fa00234228314f3",
@@ -29,7 +31,8 @@
             "github.com",
             "github.com",
             "github.com"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x02e8af9e99c6439ba33044b39c283a4ab24e327e",
@@ -38,7 +41,8 @@
             "github.com",
             "github.com",
             "github.com"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xd983ab71a284d6371908420d8ac6407ca943f810",
@@ -53,14 +57,16 @@
             "github.com",
             "eips.ethereum.org",
             "eips.ethereum.org"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x2eeff21c71ae38f9c34496cd9250c0d186dcd988",
         "sourceScanned": "processed",
         "web_domains": [
             "forum.zeppelin.solutions"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xdd1b6b259986571a85da82a84f461e1c212591c0",
@@ -91,7 +97,8 @@
         ],
         "emails": [
             "hello@getfitmining.com"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x84958f423651205207e8ce01edb6fa863dfc604c",

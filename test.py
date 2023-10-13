@@ -13,11 +13,11 @@ def load_data_from_file(filename):
 
 
 def filter_sites_without_summary(data):
-    return [(entry['web_domains'][0], entry['contract_address']) for entry in data if not entry.get('targetSummary') and entry.get('web_domains')][:2]
+    return [(entry['web_domains'][0], entry['contract_address']) for entry in data if not entry.get('processedGpt') and entry.get('web_domains')][:2]
 
 
 def extract_content(site):
-    loader = AsyncChromiumLoader([site])
+    loader = AsyncChromiumLoader(["https://"+site])
     docs = loader.load()
     html2text = Html2TextTransformer()
     return html2text.transform_documents(docs)
@@ -84,7 +84,7 @@ def process_sites(data, sites_without_summary):
         # Update the data list to mark the site as processed
         for entry in data:
             if entry.get('web_domains') and entry['web_domains'][0] == site:
-                entry['processed'] = True
+                entry['processedGpt'] = True
 
         if proposal:
             print(proposal)
@@ -93,7 +93,7 @@ def process_sites(data, sites_without_summary):
 
 def save_updated_data(filename, data):
     with open(filename, "w") as f:
-        json.dump(data, f)
+        json.dump(data, f, indent=4)
 
 
 def main():
@@ -104,7 +104,7 @@ def main():
         print("All sites processed")
     else:
         process_sites(data, sites_without_summary)
-        save_updated_data("bnb_erc20.jso.json", data)
+        save_updated_data("bnb_erc20.json", data)
 
 
 if __name__ == "__main__":
