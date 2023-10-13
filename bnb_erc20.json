@@ -2,22 +2,11 @@
     {
         "contract_address": "0x55d398326f99059ff775485246999027b3197955",
         "sourceScanned": "processed",
-        "web_domains": [
-            "github.com",
-            "github.com",
-            "github.com"
-        ],
         "processedGpt": true
     },
     {
         "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
         "sourceScanned": "processed",
-        "web_domains": [
-            "fsf.org",
-            "www.gnu.org",
-            "www.gnu.org",
-            "www.gnu.org"
-        ],
         "processedGpt": true
     },
     {
@@ -27,54 +16,26 @@
     {
         "contract_address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
         "sourceScanned": "processed",
-        "web_domains": [
-            "github.com",
-            "github.com",
-            "github.com"
-        ],
         "processedGpt": true
     },
     {
         "contract_address": "0x02e8af9e99c6439ba33044b39c283a4ab24e327e",
         "sourceScanned": "processed",
-        "web_domains": [
-            "github.com",
-            "github.com",
-            "github.com"
-        ],
         "processedGpt": true
     },
     {
         "contract_address": "0xd983ab71a284d6371908420d8ac6407ca943f810",
         "sourceScanned": "processed",
-        "web_domains": [
-            "wizard.openzeppelin.com",
-            "forum.zeppelin.solutions",
-            "forum.openzeppelin.com",
-            "github.com",
-            "forum.openzeppelin.com",
-            "en.wikipedia.org",
-            "github.com",
-            "eips.ethereum.org",
-            "eips.ethereum.org"
-        ],
         "processedGpt": true
     },
     {
         "contract_address": "0x2eeff21c71ae38f9c34496cd9250c0d186dcd988",
         "sourceScanned": "processed",
-        "web_domains": [
-            "forum.zeppelin.solutions"
-        ],
         "processedGpt": true
     },
     {
         "contract_address": "0xdd1b6b259986571a85da82a84f461e1c212591c0",
         "sourceScanned": "processed",
-        "web_domains": [
-            "blazex.org",
-            "t.me"
-        ],
         "telegram_groups": [
             "BlazeXCoin"
         ],
@@ -83,20 +44,11 @@
     {
         "contract_address": "0x7eefb6aeb8bc2c1ba6be1d4273ec0758a1321272",
         "sourceScanned": "processed",
-        "web_domains": [
-            "diligence.consensys.net",
-            "solidity.readthedocs.io",
-            "solidity.readthedocs.io",
-            "forum.zeppelin.solutions"
-        ],
         "processedGpt": true
     },
     {
         "contract_address": "0x772b609d3a8f2ebe1c1b8f87ebda2e462ec475f8",
         "sourceScanned": "processed",
-        "web_domains": [
-            "forum.zeppelin.solutions"
-        ],
         "emails": [
             "hello@getfitmining.com"
         ],
@@ -105,22 +57,6 @@
     {
         "contract_address": "0x84958f423651205207e8ce01edb6fa863dfc604c",
         "sourceScanned": "processed",
-        "web_domains": [
-            "bullsprotocol.com",
-            "t.me",
-            "consensys.net",
-            "solidity.readthedocs.io",
-            "solidity.readthedocs.io",
-            "blog.openzeppelin.com",
-            "luffyg5.com",
-            "t.me",
-            "bullsprotocol.com",
-            "t.me",
-            "bullsprotocol.com",
-            "t.me",
-            "bullsprotocol.com",
-            "t.me"
-        ],
         "telegram_groups": [
             "italo_blockchain",
             "luffyg5official",
@@ -132,9 +68,6 @@
     {
         "contract_address": "0x0abafc3ffcc0822ffeaf4ca6934d8d9377771aea",
         "sourceScanned": "processed",
-        "web_domains": [
-            "t.me"
-        ],
         "telegram_groups": [
             "PepeSquid"
         ]
@@ -153,16 +86,7 @@
     },
     {
         "contract_address": "0xe37dbf20a4fff3b88233e456355dc49b76b6fe19",
-        "sourceScanned": "processed",
-        "web_domains": [
-            "medium.com",
-            "blog.openzeppelin.com",
-            "eth.wiki",
-            "eth.wiki",
-            "diligence.consensys.net",
-            "solidity.readthedocs.io",
-            "solidity.readthedocs.io"
-        ]
+        "sourceScanned": "processed"
     },
     {
         "contract_address": "0xca861e289f04cb9c67fd6b87ca7eafa59192f164",
@@ -171,10 +95,6 @@
     {
         "contract_address": "0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377",
         "sourceScanned": "processed",
-        "web_domains": [
-            "diligence.consensys.net",
-            "solidity.readthedocs.io"
-        ],
         "processedGpt": true
     },
     {
@@ -188,11 +108,6 @@
     {
         "contract_address": "0xd9de2b1973e57dc9dba90c35d6cd940ae4a3cbe1",
         "sourceScanned": "processed",
-        "web_domains": [
-            "diligence.consensys.net",
-            "solidity.readthedocs.io",
-            "solidity.readthedocs.io"
-        ],
         "processedGpt": true
     },
     {
@@ -225,19 +140,7 @@
     },
     {
         "contract_address": "0x53bba8f1d143b8ab80653dc2c1c4ddd49b6c7d8d",
-        "sourceScanned": "processed",
-        "web_domains": [
-            "docs.soliditylang.org",
-            "docs.soliditylang.org",
-            "docs.soliditylang.org",
-            "web3js.readthedocs.io",
-            "docs.ethers.io",
-            "ethereum.github.io",
-            "docs.metamask.io",
-            "xn--2-umb.com",
-            "docs.soliditylang.org",
-            "cs.stackexchange.com"
-        ]
+        "sourceScanned": "processed"
     },
     {
         "contract_address": "0x6ba5657bbff83cb579503847c6baa47295ef79a8",
@@ -302,14 +205,6 @@
     {
         "contract_address": "0xd069599e718f963bd84502b49ba8f8657faf5b3a",
         "sourceScanned": "processed",
-        "web_domains": [
-            "web3js.readthedocs.io",
-            "docs.ethers.io",
-            "ethereum.github.io",
-            "docs.metamask.io",
-            "xn--2-umb.com",
-            "cs.stackexchange.com"
-        ],
         "emails": [
             "support@xcadnetwork.com"
         ]
@@ -351,12 +246,7 @@
     },
     {
         "contract_address": "0xe3abf6b6e424cc6b6fff9f08adaed88866e509de",
-        "sourceScanned": "processed",
-        "web_domains": [
-            "xn--2-umb.com",
-            "docs.soliditylang.org",
-            "cs.stackexchange.com"
-        ]
+        "sourceScanned": "processed"
     },
     {
         "contract_address": "0x43e9a9e4c5793cbf6b754e11171dbf43dc70095b",
@@ -373,10 +263,6 @@
     {
         "contract_address": "0x6a8cc171a671e0aa7f84a0a36d7c1285d3a224d2",
         "sourceScanned": "processed",
-        "web_domains": [
-            "kuronekojiji.site",
-            "twitter.com"
-        ],
         "telegram_groups": [
             "kuroneko_jiji"
         ]
@@ -427,13 +313,7 @@
     },
     {
         "contract_address": "0xa260e12d2b924cb899ae80bb58123ac3fee1e2f0",
-        "sourceScanned": "processed",
-        "web_domains": [
-            "docs.metamask.io",
-            "web3js.readthedocs.io",
-            "docs.ethers.io",
-            "ethereum.github.io"
-        ]
+        "sourceScanned": "processed"
     },
     {
         "contract_address": "0x33e0b24aaea62500ca79d33e26efe576bbf5bacf",
@@ -441,13 +321,7 @@
     },
     {
         "contract_address": "0xad2c9433c8cada6aa01271edb300975a68db7d02",
-        "sourceScanned": "processed",
-        "web_domains": [
-            "consensys.net",
-            "xn--2-umb.com",
-            "docs.soliditylang.org",
-            "cs.stackexchange.com"
-        ]
+        "sourceScanned": "processed"
     },
     {
         "contract_address": "0x383094a91ef2767eed2b063ea40465670bf1c83f",
@@ -455,10 +329,7 @@
     },
     {
         "contract_address": "0x31fadea5f486fa28fbc2b7d1f1f7da2ef51d0cf7",
-        "sourceScanned": "processed",
-        "web_domains": [
-            "hardhat.org"
-        ]
+        "sourceScanned": "processed"
     },
     {
         "contract_address": "0x5ca718e2c0f2e873b8de38b02ad0497e8ac38ecb",
@@ -535,23 +406,13 @@
     {
         "contract_address": "0x1ec0e1aabdc8740a62eeb16974765dd99a460b13",
         "sourceScanned": "processed",
-        "web_domains": [
-            "luffytoken.site",
-            "twitter.com"
-        ],
         "telegram_groups": [
             "luffycoin_global"
         ]
     },
     {
         "contract_address": "0x76d9a7c6164de3bc4d95ef0c011d3d22eb8b4d60",
-        "sourceScanned": "processed",
-        "web_domains": [
-            "docs.metamask.io",
-            "web3js.readthedocs.io",
-            "docs.ethers.io",
-            "ethereum.github.io"
-        ]
+        "sourceScanned": "processed"
     },
     {
         "contract_address": "0x55f96c7005d7c684a65ee653b07b5fe1507c56ab",
@@ -564,11 +425,6 @@
     {
         "contract_address": "0xa6c21c8845b0c8e025467b293d5c214e64330c8a",
         "sourceScanned": "processed",
-        "web_domains": [
-            "twitter.com",
-            "www.facebook.com",
-            "www.instagram.com"
-        ],
         "telegram_groups": [
             "DaseronDSR"
         ]
@@ -626,9 +482,6 @@
     {
         "contract_address": "0xe1e4b89a66aea2d3fb7cba72a46a11404f708e76",
         "sourceScanned": "processed",
-        "web_domains": [
-            "x.com"
-        ],
         "telegram_groups": [
             "PEACEINU_BSC"
         ]
@@ -1180,10 +1033,7 @@
     },
     {
         "contract_address": "0x1e83d06e17cae34415bea30116ac755456131020",
-        "sourceScanned": "processed",
-        "web_domains": [
-            "etherscan.io"
-        ]
+        "sourceScanned": "processed"
     },
     {
         "contract_address": "0x41fe2441c9eeab2158e29185d128ebab82aa8198",
@@ -1325,27 +1175,15 @@
     },
     {
         "contract_address": "0xe36508c5e597d0e1ebee5671ba15750bd80391c7",
-        "sourceScanned": "processed",
-        "web_domains": [
-            "etherscan.io"
-        ]
+        "sourceScanned": "processed"
     },
     {
         "contract_address": "0x94db03752342bc9b5bbf89e3bf0132494f0cb2b3",
-        "sourceScanned": "processed",
-        "web_domains": [
-            "etherscan.io"
-        ]
+        "sourceScanned": "processed"
     },
     {
         "contract_address": "0x8a505d5cb3db9fcf404c0a72af3df8be4efb707c",
-        "sourceScanned": "processed",
-        "web_domains": [
-            "vittominacori.github.io",
-            "vittominacori.github.io",
-            "vittominacori.github.io",
-            "vittominacori.github.io"
-        ]
+        "sourceScanned": "processed"
     },
     {
         "contract_address": "0x50c34995a273075a80c23625f69f40d56ce414de",
@@ -1360,12 +1198,7 @@
     },
     {
         "contract_address": "0x22168882276e5d5e1da694343b41dd7726eeb288",
-        "sourceScanned": "processed",
-        "web_domains": [
-            "raw.githubusercontent.com",
-            "ethereum.stackexchange.com",
-            "raw.githubusercontent.com"
-        ]
+        "sourceScanned": "processed"
     },
     {
         "contract_address": "0x31471e0791fcdbe82fbf4c44943255e923f1b794",
@@ -1533,10 +1366,7 @@
     },
     {
         "contract_address": "0x4760cea6c57e4de900afd3c97aa526bd11bb7373",
-        "sourceScanned": "processed",
-        "web_domains": [
-            "consensys.github.io"
-        ]
+        "sourceScanned": "processed"
     },
     {
         "contract_address": "0xffbad5a8b1bf05ed6b9eeb6071176b89cdc3173d",
@@ -1677,11 +1507,7 @@
     },
     {
         "contract_address": "0x86335cb69e4e28fad231dae3e206ce90849a5477",
-        "sourceScanned": "processed",
-        "web_domains": [
-            "aa.usno.navy.mil",
-            "aa.usno.navy.mil"
-        ]
+        "sourceScanned": "processed"
     },
     {
         "contract_address": "0x66e1ecb238b2976fcbd1aeef0e9800b4f03c09f3",
@@ -1724,20 +1550,7 @@
     },
     {
         "contract_address": "0xdaaca4115b1da05d3401c895e3d950580e1ed413",
-        "sourceScanned": "processed",
-        "web_domains": [
-            "docs.openzeppelin.com",
-            "docs.openzeppelin.com",
-            "docs.openzeppelin.com",
-            "docs.openzeppelin.com",
-            "docs.openzeppelin.com",
-            "docs.openzeppelin.com",
-            "docs.openzeppelin.com",
-            "docs.openzeppelin.com",
-            "docs.openzeppelin.com",
-            "docs.openzeppelin.com",
-            "docs.openzeppelin.com"
-        ]
+        "sourceScanned": "processed"
     },
     {
         "contract_address": "0x4ce851531588c431add986bff371312d4850211e",
@@ -1777,17 +1590,11 @@
     },
     {
         "contract_address": "0x90c97f71e18723b0cf0dfa30ee176ab653e89f40",
-        "sourceScanned": "processed",
-        "web_domains": [
-            "docs.synthetix.io"
-        ]
+        "sourceScanned": "processed"
     },
     {
         "contract_address": "0xe48a3d7d0bc88d552f730b62c006bc925eadb9ee",
-        "sourceScanned": "processed",
-        "web_domains": [
-            "docs.synthetix.io"
-        ]
+        "sourceScanned": "processed"
     },
     {
         "contract_address": "0x29380a67e10348f3eb156b579d6634dcb1e9f0c9",
@@ -2001,12 +1808,7 @@
     },
     {
         "contract_address": "0x1c73c9a44b3023134f7eac7ab30e9ab5a4615a76",
-        "sourceScanned": "processed",
-        "web_domains": [
-            "docs.openzeppelin.com",
-            "docs.openzeppelin.com",
-            "docs.openzeppelin.com"
-        ]
+        "sourceScanned": "processed"
     },
     {
         "contract_address": "0x48d73d96a0d592d68c17dbe1de41be2ca794a7be",
@@ -2300,10 +2102,7 @@
     },
     {
         "contract_address": "0x0b1c59303b04bb7a28321a8680797e7b431b9429",
-        "sourceScanned": "processed",
-        "web_domains": [
-            "etherscan.io"
-        ]
+        "sourceScanned": "processed"
     },
     {
         "contract_address": "0x1b818cecf52e3b47ee47f7c909e023e4d1b3027c",
@@ -2429,10 +2228,7 @@
     },
     {
         "contract_address": "0x7d30b381bfda64854e1e51efa7063940b53eade3",
-        "sourceScanned": "processed",
-        "web_domains": [
-            "etherscan.io"
-        ]
+        "sourceScanned": "processed"
     },
     {
         "contract_address": "0x2b685db929da68f2caebf3efd7d3678879661c5a",
@@ -2465,10 +2261,6 @@
     {
         "contract_address": "0xe5e10e25997f7dcc9559dc098c5689e05785830b",
         "sourceScanned": "processed",
-        "web_domains": [
-            "cannafarm.ltd",
-            "www.youtube.com"
-        ],
         "telegram_groups": [
             "cannafarmltd"
         ]
@@ -2509,10 +2301,7 @@
     },
     {
         "contract_address": "0x71cce0035d82c21cf4b908bcd8f1117fff0fa623",
-        "sourceScanned": "processed",
-        "web_domains": [
-            "etherscan.io"
-        ]
+        "sourceScanned": "processed"
     },
     {
         "contract_address": "0x3448a216270ba35739f3ff989f4b0149d37af4bd",
@@ -3008,18 +2797,11 @@
     },
     {
         "contract_address": "0x6c2c452ead05175c93f88d5c5f77df184d3da108",
-        "sourceScanned": "processed",
-        "web_domains": [
-            "etherscan.io"
-        ]
+        "sourceScanned": "processed"
     },
     {
         "contract_address": "0xf9977a9a2ad4459425dca80500bfb72b20815966",
         "sourceScanned": "processed",
-        "web_domains": [
-            "ggg.dog",
-            "etherscan.io"
-        ],
         "telegram_groups": [
             "GGGDOG_EN",
             "GGGDOG_ZH"
@@ -3536,10 +3318,7 @@
     },
     {
         "contract_address": "0xfb5b838b6cfeedc2873ab27866079ac55363d37e",
-        "sourceScanned": "processed",
-        "web_domains": [
-            "docs.google.com"
-        ]
+        "sourceScanned": "processed"
     },
     {
         "contract_address": "0x231d9e7181e8479a8b40930961e93e7ed798542c",
@@ -3688,10 +3467,7 @@
     },
     {
         "contract_address": "0x9400aa8eb5126d20cde45c7822836bfb70f19878",
-        "sourceScanned": "processed",
-        "web_domains": [
-            "docs.binance.org"
-        ]
+        "sourceScanned": "processed"
     },
     {
         "contract_address": "0x84e03e21da9b32555885a85b7c23e5fc123c25dd",
@@ -3895,20 +3671,7 @@
     },
     {
         "contract_address": "0x2819fab04433d4418fa6bd48d9231918423613a8",
-        "sourceScanned": "processed",
-        "web_domains": [
-            "docs.openzeppelin.com",
-            "docs.openzeppelin.com",
-            "docs.openzeppelin.com",
-            "docs.openzeppelin.com",
-            "docs.openzeppelin.com",
-            "docs.openzeppelin.com",
-            "docs.openzeppelin.com",
-            "docs.openzeppelin.com",
-            "docs.openzeppelin.com",
-            "docs.openzeppelin.com",
-            "docs.openzeppelin.com"
-        ]
+        "sourceScanned": "processed"
     },
     {
         "contract_address": "0xfd7b3a77848f1c2d67e05e54d78d174a0c850335",
@@ -3931,10 +3694,7 @@
     },
     {
         "contract_address": "0x2222227e22102fe3322098e4cbfe18cfebd57c95",
-        "sourceScanned": "processed",
-        "web_domains": [
-            "ethereum.stackexchange.com"
-        ]
+        "sourceScanned": "processed"
     },
     {
         "contract_address": "0x2e7a478e16fae454a5d1fbcd0a86ed2c971f0900",
@@ -3962,10 +3722,7 @@
     },
     {
         "contract_address": "0xa19b018c4e9ac3038e1bc48793d261d2b91c77c3",
-        "sourceScanned": "processed",
-        "web_domains": [
-            "etherscan.io"
-        ]
+        "sourceScanned": "processed"
     },
     {
         "contract_address": "0x36ae10a4d16311959b607ee98bc4a8a653a33b1f",
@@ -3989,10 +3746,7 @@
     },
     {
         "contract_address": "0xc3ef732749257183b263ab7a2de53de633ed5c20",
-        "sourceScanned": "processed",
-        "web_domains": [
-            "www.youtube.com"
-        ]
+        "sourceScanned": "processed"
     },
     {
         "contract_address": "0x64771885fa0f6a49ae0e1b925242c3935dbf6f34",
@@ -4198,10 +3952,6 @@
     {
         "contract_address": "0x27ae27110350b98d564b9a3eed31baebc82d878d",
         "sourceScanned": "processed",
-        "web_domains": [
-            "cumrocketcrypto.com",
-            "discord.gg"
-        ],
         "telegram_groups": [
             "cumrocket"
         ]
@@ -4526,10 +4276,7 @@
     },
     {
         "contract_address": "0xe9c803f48dffe50180bd5b01dc04da939e3445fc",
-        "sourceScanned": "processed",
-        "web_domains": [
-            "ethereum.stackexchange.com"
-        ]
+        "sourceScanned": "processed"
     },
     {
         "contract_address": "0x6314f312e513ead0c16446878a56e2e6c46ea63f",
@@ -4640,14 +4387,7 @@
     },
     {
         "contract_address": "0xfbf19d00e531ce896bd631a19bef74f4bfe1d340",
-        "sourceScanned": "processed",
-        "web_domains": [
-            "docs.openzeppelin.com",
-            "docs.openzeppelin.com",
-            "docs.openzeppelin.com",
-            "docs.openzeppelin.com",
-            "docs.openzeppelin.com"
-        ]
+        "sourceScanned": "processed"
     },
     {
         "contract_address": "0xa6fdea1655910c504e974f7f1b520b74be21857b",
@@ -4715,10 +4455,6 @@
     {
         "contract_address": "0x398c60ca4d4c40b79ea2ff95b9879f2bd40de157",
         "sourceScanned": "processed",
-        "web_domains": [
-            "discord.gg",
-            "discord.gg"
-        ],
         "telegram_groups": [
             "BitcoinCoreGroup"
         ]
@@ -5731,10 +5467,7 @@
     },
     {
         "contract_address": "0xe7cb24f449973d5b3520e5b93d88b405903c75fb",
-        "sourceScanned": "processed",
-        "web_domains": [
-            "en.bitcoin.it"
-        ]
+        "sourceScanned": "processed"
     },
     {
         "contract_address": "0x524df384bffb18c0c8f3f43d012011f8f9795579",
@@ -6331,15 +6064,6 @@
     {
         "contract_address": "0xed00fc7d48b57b81fe65d1ce71c0985e4cf442cb",
         "sourceScanned": "processed",
-        "web_domains": [
-            "chirpley.ai",
-            "app.chirpley.ai",
-            "chirpley.gitbook.io",
-            "chirpley.medium.com",
-            "discord.gg",
-            "www.youtube.com",
-            "www.tiktok.com"
-        ],
         "telegram_groups": [
             "chirpley"
         ]
