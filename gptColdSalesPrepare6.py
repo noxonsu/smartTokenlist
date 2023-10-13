@@ -13,7 +13,7 @@ def load_data_from_file(filename):
 
 
 def filter_sites_without_summary(data):
-    return [(entry['web_domains'][0], entry['contract_address']) for entry in data if not entry.get('processedGpt') and entry.get('web_domains')][:2]
+    return [(entry['web_domains'][0], entry['contract_address']) for entry in data if not entry.get('processedGpt') and entry.get('web_domains')][:3]
 
 
 def extract_content(site):
@@ -23,14 +23,22 @@ def extract_content(site):
     return html2text.transform_documents(docs)
 
 
+def load_system_message(filename):
+    with open(filename, 'r') as file:
+        return file.read()
+
 def generate_message(targetSummary):
     chat = ChatOpenAI(temperature=0.5, model_name="gpt-4")
+    
+    system_message_content = load_system_message('GPT_proposal.txt')
+    
     messages = [
-        SystemMessage(content="Help me to create a telegram message to the telegram group of project I send to you. Create icebreaker based of target project summary data! align our B2B tools to their vision. Attract community not team. Lottery and dex are revenue share tools, anyone from the community can deploy. We are a shop of the B2B tools. Use simple english! Use their token ticker if possible. Use neutral emotion (no exiting etc..). Use humor if possible. Use numbers from their project's information if possible. Base proposal:  our primary goal is to support the growth of communities like yours. We have such tool for this: \n\nWant your own DEX? We got a customizable one. 🔄\nFancy launching a blockchain-based lottery? Try ours! \nNeed a multicurrency crypto wallet? Got that too. \nYield farming & staking? All set with our platform. \nCreate a DAO for your token? Check! \nEVM blockchain bridge? CrossChain's got you. \nLaunching an IDO? Our Launchpad is waiting. 🚀\nIt's all B2B, so you're not playing, you're creating. Let me know if interested! 👋\nCheck it out https://t.me/onoutdemos"),
-        HumanMessage(content=f"Target project (this is not our project! analyse them to create icebreaker and good offer): {targetSummary}")
+        SystemMessage(content=system_message_content),
+        HumanMessage(content=f"Target project (this is not our project! analyse them to create an icebreaker and good offer): {targetSummary}")
     ]
+    
     gpttitle = chat(messages)
-    return gpttitle.content 
+    return gpttitle.content
 
 def save_summary_and_proposal(contract_address, summary, proposal):
     """Сохраняет summary и proposal в отдельный файл в папке 'texts'"""

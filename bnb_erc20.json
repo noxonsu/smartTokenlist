@@ -77,7 +77,8 @@
         ],
         "telegram_groups": [
             "BlazeXCoin"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x7eefb6aeb8bc2c1ba6be1d4273ec0758a1321272",
@@ -87,7 +88,8 @@
             "solidity.readthedocs.io",
             "solidity.readthedocs.io",
             "forum.zeppelin.solutions"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x772b609d3a8f2ebe1c1b8f87ebda2e462ec475f8",
@@ -172,7 +174,8 @@
         "web_domains": [
             "diligence.consensys.net",
             "solidity.readthedocs.io"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x98f39d0f8c67885071cc99c5af1d4cacbcc89b0c",
@@ -189,7 +192,8 @@
             "diligence.consensys.net",
             "solidity.readthedocs.io",
             "solidity.readthedocs.io"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x2ca6fe115b7a12bcb3791887a7f701daa54c3cc2",
