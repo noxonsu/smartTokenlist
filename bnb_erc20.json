@@ -6479,7 +6479,8 @@
         ],
         "telegram_groups": [
             "dejavucoins"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xf4ed363144981d3a65f42e7d0dc54ff9eef559a1",
@@ -6590,7 +6591,8 @@
         ],
         "telegram_groups": [
             "loongethschat"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x8970c235a4e4d8e0ae5c340549efda5db20d2b44",
@@ -6657,7 +6659,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "mrgreencrypto.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "processedGpt": true
     },
     {
         "contract_address": "0x3e0ad9060782351da599a352d482afd306d966f7",
@@ -6742,7 +6746,12 @@
             "quinten.de.swaef@gmail.com",
             "jurgen.soltronics@gmail.com",
             "andydemeulemeester@gmail.com"
-        ]
+        ],
+        "telegram_groups": [
+            "safehavenio_announcements",
+            "safehavenio"
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xf651e43a91b24f19edcb89ad59d69f1be0d067af",
@@ -6818,7 +6827,11 @@
         ],
         "emails": [
             "bussiness@ret.life"
-        ]
+        ],
+        "telegram_groups": [
+            "RETOKENOFFICIAL"
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xe369fec23380f9f14ffd07a1dc4b7c1a9fdd81c9",
