@@ -5681,7 +5681,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "gyro.win"
-        ]
+        ],
+        "telegram_groups": [
+            "gyrowin"
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x9103629ed5ff38e8af73c33d3eb18dbe2e7e2d27",
@@ -5806,7 +5810,12 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.digitizedfiat.com"
-        ]
+        ],
+        "telegram_groups": [
+            "DigitizedWorldwide",
+            "DigitizedFiat"
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x623be4fde518a00ac49a870bd439cfd5c35e08ed",
@@ -5816,7 +5825,8 @@
         ],
         "telegram_groups": [
             "EXATechOfficialEN"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xc44b5e6815e4b693945ac0b7bd5a4509155e9f55",
@@ -6079,7 +6089,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "bscscan.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "processedGpt": true
     },
     {
         "contract_address": "0x527f86f6c495933ef371bad746a106c89c8345aa",
@@ -6367,17 +6379,9 @@
             "Metakings.ai"
         ],
         "telegram_groups": [
-            "metakings",
-            "metakings",
-            "metakings",
-            "metakings",
-            "metakings",
-            "metakings",
-            "metakings",
-            "metakings",
-            "metakings",
             "metakings"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x9ece397ec3d23fc6ae356545d63fa4348dbb038d",
@@ -6515,7 +6519,9 @@
             "bscscan.com",
             "chokinfo.com",
             "bscscan.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "processedGpt": true
     },
     {
         "contract_address": "0x298c2e5eadd2dff232f89ce03f74ea7bf2b11d22",
