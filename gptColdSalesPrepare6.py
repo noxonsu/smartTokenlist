@@ -15,7 +15,7 @@ def load_data_from_file(filename):
 
 
 def filter_sites_without_summary(data):
-    return [(entry['web_domains'][0], entry['contract_address']) for entry in data if not entry.get('processedGpt') and entry.get('web_domains')][:3]
+    return [(entry['web_domains'][0], entry['contract_address']) for entry in data if not entry.get('processedGpt') and entry.get('web_domains')][:5]
 
 
 

@@ -3229,7 +3229,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "app.atlaszk.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "processedGpt": true
     },
     {
         "contract_address": "0xd517ce9206c09dfaa7e7f40f98e59f54fb10e09f",
@@ -3336,7 +3338,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "secondlive.world"
-        ]
+        ],
+        "telegram_groups": [],
+        "processedGpt": true
     },
     {
         "contract_address": "0xbc1a515216040b88030ee67bf03cabe2022a8999",
@@ -3390,12 +3394,11 @@
             "bullsprotocol.com"
         ],
         "telegram_groups": [
-            "XShibaDapper",
-            "XShibaDapper",
             "italo_blockchain",
-            "italo_blockchain",
-            "italo_blockchain"
-        ]
+            "XSHIBADapper",
+            "XShibaDapper"
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xb10b8a1f56d888607727878c68f46b1bb682e0f0",
@@ -3534,7 +3537,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "docs.bitbond.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "processedGpt": true
     },
     {
         "contract_address": "0xe9d7023f2132d55cbd4ee1f78273cb7a3e74f10a",
@@ -3634,9 +3639,12 @@
             "MiniPepe.me"
         ],
         "telegram_groups": [
-            "MiniPepe_Official",
-            "MiniPepe_I"
-        ]
+            "MiniPePe_I",
+            "MiniPepe_I",
+            "MiniPePe_Official",
+            "MiniPepe_Official"
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x0bf3bacaf2442ecb7545709960056dbde23fd674",
@@ -3646,7 +3654,8 @@
         ],
         "telegram_groups": [
             "aim_token"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x8c851d1a123ff703bd1f9dabe631b69902df5f97",
@@ -3693,7 +3702,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "docs.bitbond.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "processedGpt": true
     },
     {
         "contract_address": "0x2819fab04433d4418fa6bd48d9231918423613a8",
@@ -3866,7 +3877,8 @@
         ],
         "telegram_groups": [
             "ValueFichat"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xf027e525d491ef6ffcc478555fbb3cfabb3406a6",
@@ -4062,7 +4074,8 @@
         ],
         "telegram_groups": [
             "fatsale"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x68306de72d3cad418279a0d2411c1197d34dd17f",
@@ -4477,7 +4490,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "mywish.io"
-        ]
+        ],
+        "telegram_groups": [
+            "MyWish_platform"
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x398c60ca4d4c40b79ea2ff95b9879f2bd40de157",
@@ -4581,7 +4598,8 @@
         ],
         "telegram_groups": [
             "Soma_community"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xbccd27062ae1a2bea5731c904b96edfb163aba21",
@@ -5867,7 +5885,8 @@
         ],
         "telegram_groups": [
             "fatsale"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x8d295bc1caeebbe489ba6e44e3bfacf4808ed61a",
@@ -7054,7 +7073,8 @@
         ],
         "telegram_groups": [
             "fatsale"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x56c6ed3229cacb2aa6b7e7e6d8e60769fe51d972",
@@ -8162,7 +8182,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "docs.bitbond.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "processedGpt": true
     },
     {
         "contract_address": "0xce1b3e5087e8215876af976032382dd338cf8401",
@@ -8380,7 +8402,8 @@
         ],
         "telegram_groups": [
             "fatsale"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xc70636a779118e57e1c6fdafdd1f919fae912d2f",
