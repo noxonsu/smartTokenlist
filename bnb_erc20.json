@@ -10510,5 +10510,82 @@
         "telegram_groups": [
             "solorium"
         ]
+    },
+    {
+        "contract_address": "0x2066428379a690b9514062c960b9b6ef4bc724b8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "genais.app"
+        ],
+        "telegram_groups": [
+            "genaisecosystem"
+        ]
+    },
+    {
+        "contract_address": "0xbb8203e945866a1f3eced6e5b22679e5a540be91",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xea09997311f51648c95e2b8eb2235d145676a739",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xd2d77339a068f704e95ebfb28c2088f34eb24a38",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x319ca203c88e5ecba4452a9147f224b064ccf462",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x3b248cefa87f836a4e6f6d6c9b42991b88dc1d58",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xafc4b4e994ce3b661292a5411507a4af780ed6d5",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x302868014a2571b7602959fa26264166f70ba19e",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xf603cf32633adf833b53fbcc71fb326220552331",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "martik.site",
+            "martik.site"
+        ]
+    },
+    {
+        "contract_address": "0x4d61577d8fd2208a0afb814ea089fdeae19ed202",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x281af7ed4f57e9905d568196d3cdba2b2852dfbc",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x841ab454c61b17282c11685ee2f45ca173dc08b0",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "DragonCEO_Bep20"
+        ]
+    },
+    {
+        "contract_address": "0x052775cf897b3ec894f26b8d801c514123c305d1",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x774b2380ff7945f6c987c2c6eed5efad5f4090be",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x82030cdbd9e4b7c5bb0b811a61da6360d69449cc",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x834027ad871004a96001ff659a976cb97fb207b2",
+        "sourceScanned": "processed"
     }
 ]
