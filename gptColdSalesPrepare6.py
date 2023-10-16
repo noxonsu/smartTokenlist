@@ -6,6 +6,8 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.chains import create_extraction_chain
 from langchain.schema import SystemMessage, HumanMessage
 import os
+from bs4 import BeautifulSoup
+import re
 
 def load_data_from_file(filename):
     with open(filename, "r") as f:
@@ -13,14 +15,32 @@ def load_data_from_file(filename):
 
 
 def filter_sites_without_summary(data):
-    return [(entry['web_domains'][0], entry['contract_address']) for entry in data if not entry.get('processedGpt') and entry.get('web_domains')][:10]
+    return [(entry['web_domains'][0], entry['contract_address']) for entry in data if not entry.get('processedGpt') and entry.get('web_domains')][:3]
+
+
 
 
 def extract_content(site):
     loader = AsyncChromiumLoader(["https://"+site])
     docs = loader.load()
+    
+    # Extract Telegram links
+    telegram_links = extract_telegram_links(docs[0].page_content)
+    print ("telegram_links")
+    print (telegram_links)
+    # Transform the content to text
     html2text = Html2TextTransformer()
-    return html2text.transform_documents(docs)
+    text_content = html2text.transform_documents(docs)
+
+    return text_content, telegram_links
+
+def extract_telegram_links(html_content):
+    soup = BeautifulSoup(html_content, 'html.parser')
+    regex = re.compile(r"https?://t\.me/(\w+)")
+    links = soup.find_all('a', href=regex)
+
+    telegram_groups = [regex.search(link['href']).group(1) for link in links]
+    return telegram_groups
 
 
 def load_system_message(filename):
@@ -68,7 +88,8 @@ def process_sites(data, sites_without_summary):
         print(f"Analyzing site: {site}")
         print(f"Contract Address: {contract}")
 
-        docs_transformed = extract_content(site)
+        docs_transformed, telegram_links = extract_content(site)
+
 
         # Extract relevant content
         splitter = RecursiveCharacterTextSplitter.from_tiktoken_encoder(chunk_size=2000, chunk_overlap=0)
@@ -91,13 +112,33 @@ def process_sites(data, sites_without_summary):
         # Update the data list
         save_summary_and_proposal(contract, targetSummary, proposal)
 
-        # Update the data list to mark the site as processed
+
+To ensure that you only add new Telegram groups (without duplicates), you can utilize Python's set functionality.
+
+Here's how you can adjust the process_sites function to accomplish this:
+
+python
+Copy code
+def process_sites(data, sites_without_summary):
+    # ... [rest of the function above this point remains unchanged] ...
+    
+    for site, contract in sites_without_summary:
+        print(f"Analyzing site: {site}")
+        print(f"Contract Address: {contract}")
+
+        docs_transformed, telegram_links = extract_content(site)
+
+        # Extract relevant content
+        # ... [rest of the function remains unchanged] ...
+        
+        # Update the data list to include Telegram links
         for entry in data:
             if entry.get('web_domains') and entry['web_domains'][0] == site:
+                # Combine existing and new telegram groups, ensuring no duplicates
+                existing_telegram_groups = set(entry.get('telegram_groups', []))
+                telegram_links = list(existing_telegram_groups.union(telegram_links))
+                entry['telegram_groups'] = telegram_links
                 entry['processedGpt'] = True
-
-        if proposal:
-            print(proposal)
 
 
 

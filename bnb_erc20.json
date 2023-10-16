@@ -2190,9 +2190,8 @@
         "web_domains": [
             "pepeaiinu.website"
         ],
-        "telegram_groups": [
-            "Xaiinupepeaiinuoficial"
-        ]
+        "telegram_groups": [],
+        "processedGpt": true
     },
     {
         "contract_address": "0x6ae9701b9c423f40d54556c9a443409d79ce170a",
@@ -2290,7 +2289,12 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.sonarplatform.io"
-        ]
+        ],
+        "telegram_groups": [
+            "sonar_official",
+            "sonar_official"
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xbd6ceeef56985b608252c3651dd903a3fcc34910",
@@ -2340,7 +2344,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "dea.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "processedGpt": true
     },
     {
         "contract_address": "0x024e1f7323e8aa0fd5ecb7d9443a0dfbbf205694",

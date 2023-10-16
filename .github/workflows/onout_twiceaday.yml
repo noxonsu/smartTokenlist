@@ -28,7 +28,7 @@ jobs:
     - name: Install XVFB and other libs
       run: |
         sudo apt-get update
-        sudo apt-get install -y libreoffice xvfb unrar p7zip-full
+        sudo apt-get install -y xvfb unrar p7zip-full
     - name: Install dependencies
       run: |
         pip install -r requirements.txt
