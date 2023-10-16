@@ -26,7 +26,7 @@ def extract_content(site):
     
     # Extract Telegram links
     telegram_links = extract_telegram_links(docs[0].page_content)
-    print ("telegram_links")
+    print ("telegram_links)
     print (telegram_links)
     # Transform the content to text
     html2text = Html2TextTransformer()
@@ -112,26 +112,7 @@ def process_sites(data, sites_without_summary):
         # Update the data list
         save_summary_and_proposal(contract, targetSummary, proposal)
 
-
-To ensure that you only add new Telegram groups (without duplicates), you can utilize Python's set functionality.
-
-Here's how you can adjust the process_sites function to accomplish this:
-
-python
-Copy code
-def process_sites(data, sites_without_summary):
-    # ... [rest of the function above this point remains unchanged] ...
-    
-    for site, contract in sites_without_summary:
-        print(f"Analyzing site: {site}")
-        print(f"Contract Address: {contract}")
-
-        docs_transformed, telegram_links = extract_content(site)
-
-        # Extract relevant content
-        # ... [rest of the function remains unchanged] ...
-        
-        # Update the data list to include Telegram links
+        # Update the data list to mark the site as processed
         for entry in data:
             if entry.get('web_domains') and entry['web_domains'][0] == site:
                 # Combine existing and new telegram groups, ensuring no duplicates
@@ -139,6 +120,9 @@ def process_sites(data, sites_without_summary):
                 telegram_links = list(existing_telegram_groups.union(telegram_links))
                 entry['telegram_groups'] = telegram_links
                 entry['processedGpt'] = True
+
+        if proposal:
+            print(proposal)
 
 
 
