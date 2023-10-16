@@ -7084,7 +7084,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "grixcoin.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "processedGpt": true
     },
     {
         "contract_address": "0xe21b8a33410daa5b0275bfa68ca6e5c649b26170",
@@ -7111,7 +7113,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.coremultichain.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "processedGpt": true
     },
     {
         "contract_address": "0x7fd8d15df136b677740dea057fd5c269579cba87",
@@ -7164,9 +7168,9 @@
             "legacycapital.cc"
         ],
         "telegram_groups": [
-            "DayOfDefeatBSC",
             "DayOfDefeatBSC"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x198271b868dae875bfea6e6e4045cdda5d6b9829",
@@ -7218,7 +7222,12 @@
         "web_domains": [
             "dx.app",
             "dx.app"
-        ]
+        ],
+        "telegram_groups": [
+            "DxSale",
+            "dxsale"
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x18956c6fb8923aec6acd993dec0ce64df306b4d4",
@@ -7384,7 +7393,11 @@
         "web_domains": [
             "dragondawn.io",
             "dragondawn.io"
-        ]
+        ],
+        "telegram_groups": [
+            "dragondawnlabs"
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x69d82a4b256a1de1a5296f5b2dda6fe3de98115a",
