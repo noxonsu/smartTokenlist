@@ -10937,5 +10937,68 @@
     {
         "contract_address": "0xe59000ec40cc8c8550c426f99893318f1fa5ffb2",
         "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x8ed7b83258238468c24ca371d9200e1ef4d6686e",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xf0f073c05c1520fb39b0f95d2b71a0d20130b741",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x65850c7801d8c7ed905932744fddc0e4a067f0eb",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xc5329cc3192914ba024fd480be7b3c235a509c11",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x20fa39d0ab20491c9ef3988bae14b0de319f14a8",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x93dd418f04b98abd6bb43049b20abc1fc54480b1",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xce77df37bc660f75952adc518b79ef087449e24e",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x60124c4184ce1d466dca23508095dca1bb68e172",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xeb5db24ee58a537c0438f49733e08df5c1dc60e4",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x829baea0a3869044c6c846b860010611f4d32f08",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x922354d5e66040b361441d5a5dfc19e934401d88",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xcb492c701f7fe71bc9c4b703b84b0da933ff26bb",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xadb58e26d623acc31870318e419d86fb36c3d9c3",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x4a9dcfa06179c01b538f58eacb31e257539a2540",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "longereum"
+        ]
+    },
+    {
+        "contract_address": "0x6008d0b6b81b0365265547fe29ac758c9a683560",
+        "sourceScanned": "processed"
     }
 ]
