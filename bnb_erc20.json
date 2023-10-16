@@ -2381,7 +2381,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "qbein.net"
-        ]
+        ],
+        "telegram_groups": [],
+        "processedGpt": true
     },
     {
         "contract_address": "0x101d82428437127bf1608f699cd651e6abf9766e",
@@ -2602,7 +2604,8 @@
         "telegram_groups": [
             "Bet_bitcoin_Ai_chat",
             "Bet_bitcoin_ai"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xc762043e211571eb34f1ef377e5e8e76914962f9",
@@ -2835,7 +2838,8 @@
         ],
         "telegram_groups": [
             "bitfine_bsc"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xc14e81695b84f142795f2f5f8f644cdc892be228",
@@ -2873,7 +2877,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.platinx.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "processedGpt": true
     },
     {
         "contract_address": "0x4f1960e29b2ca581a38c5c474e123f420f8092db",
@@ -3057,9 +3063,12 @@
             "goldendoge.finance"
         ],
         "telegram_groups": [
-            "en_goldendoge",
-            "cn_goldendoge"
-        ]
+            "cn_goldendoge",
+            "techrate_audits",
+            "joinchat",
+            "en_goldendoge"
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xd691d9a68c887bdf34da8c36f63487333acfd103",
@@ -3085,7 +3094,8 @@
         "telegram_groups": [
             "fishing_tuna_chat",
             "fishing_tuna"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x8c9cbfa1fcff163f830c3af7970e5b3230c8a13d",
@@ -5741,7 +5751,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "qbein.net"
-        ]
+        ],
+        "telegram_groups": [],
+        "processedGpt": true
     },
     {
         "contract_address": "0x28e740d0d8fb3ed06590a9d8eb332ebe9b24d56c",

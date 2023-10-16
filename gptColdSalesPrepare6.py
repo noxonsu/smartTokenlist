@@ -26,7 +26,7 @@ def extract_content(site):
     
     # Extract Telegram links
     telegram_links = extract_telegram_links(docs[0].page_content)
-    print ("telegram_links)
+    print ("telegram_links")
     print (telegram_links)
     # Transform the content to text
     html2text = Html2TextTransformer()
