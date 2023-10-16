@@ -17,13 +17,13 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: '3.x'
-    - name: Check if ROSTENDERPASSWORD is set
+    - name: Check if OPENAI_API_KEY is set
       run: |
-        if [ -z "${{ secrets.ROSTENDERPASSWORD }}" ]; then
-          echo "ROSTENDERPASSWORD is not set!"
+        if [ -z "${{ secrets.OPENAI_API_KEY }}" ]; then
+          echo "OPENAI_API_KEY is not set!"
           exit 1
         else
-          echo "ROSTENDERPASSWORD is set!"
+          echo "OPENAI_API_KEY is set!"
         fi
     - name: Install XVFB and other libs
       run: |
@@ -38,7 +38,6 @@ jobs:
 
     - name: Run python script
       env:
-        ROSTENDERPASSWORD: ${{ secrets.ROSTENDERPASSWORD }}
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       run: xvfb-run python gptColdSalesPrepare6.py
 
