@@ -4675,8 +4675,10 @@
             "octoberbeast.com"
         ],
         "telegram_groups": [
+            "whynotbsc",
             "OctoBeastX"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x40cc811786a218802a7a8dbe502b2b087489e019",
@@ -4778,7 +4780,8 @@
         ],
         "telegram_groups": [
             "newgoldoficial"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x9f7277778c798ef0bc1debf28994eaec1af7ba24",
@@ -4901,7 +4904,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "tokenmint.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "processedGpt": true
     },
     {
         "contract_address": "0xf67c737151dcf7641f3687bd641d070df9d4634f",
@@ -4979,9 +4984,9 @@
             "www.xakamaruinu.com"
         ],
         "telegram_groups": [
-            "xakamaruinu",
             "xakamaruinu"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x949d48eca67b17269629c7194f4b727d4ef9e5d6",
@@ -5244,7 +5249,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "talarium.world"
-        ]
+        ],
+        "telegram_groups": [],
+        "processedGpt": true
     },
     {
         "contract_address": "0x037499ebb453c6c84f1888c783ef8b75a257bd29",
