@@ -1,8 +1,8 @@
-name: prepre cold outreach texts
+name: prepare cold outreach texts
 
 on:
   schedule:
-    - cron: '0 7,13 * * *'  #run 7 utc and 13 utc
+    - cron: '10 * * * *'  #run 
   workflow_dispatch:  # Allows manual run
 
 jobs:
