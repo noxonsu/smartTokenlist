@@ -5260,7 +5260,9 @@
             "www.createmytoken.com",
             "www.metacrypt.org",
             "www.metacrypt.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "processedGpt": true
     },
     {
         "contract_address": "0x5f320c3b8f82acfe8f2bb1c85d63aa66a7ff524f",
@@ -5475,7 +5477,12 @@
         "sourceScanned": "processed",
         "web_domains": [
             "swipe.io"
-        ]
+        ],
+        "telegram_groups": [
+            "SwipeWallet",
+            "Swipe"
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x59c46f6edde846ec970eeffe925f6a278902e3d5",
@@ -5493,7 +5500,11 @@
         ],
         "emails": [
             "info@antofy.io"
-        ]
+        ],
+        "telegram_groups": [
+            "antofylabs"
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xf446aa7426d6e4bc13afc61ec251d73daf92fa2a",
@@ -5559,7 +5570,8 @@
         ],
         "telegram_groups": [
             "DataCrestFinancials"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x68363b856c91357cbfd148abd6960870c6e95c01",
@@ -5617,7 +5629,8 @@
         ],
         "telegram_groups": [
             "BlackTigerKingEN"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x76228c625cc69f38fba9faac324bce331958ed8d",
@@ -9397,7 +9410,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.createmytoken.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "processedGpt": true
     },
     {
         "contract_address": "0xe4ca1f75eca6214393fce1c1b316c237664eaa8e",
