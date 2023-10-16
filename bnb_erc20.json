@@ -7426,7 +7426,9 @@
         ],
         "emails": [
             "goncalo.sa@consensys.net"
-        ]
+        ],
+        "telegram_groups": [],
+        "processedGpt": true
     },
     {
         "contract_address": "0xa369dd047426de61352e4292a8b437b1f1018ebb",
@@ -7505,7 +7507,15 @@
         "sourceScanned": "processed",
         "web_domains": [
             "steamexchange.ca"
-        ]
+        ],
+        "telegram_groups": [
+            "SteamXchangeOfficial",
+            "steamxchangeofficial",
+            "C_More_C_Less",
+            "SteamXchangeAnnouncements",
+            "NevilleDivecha"
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x36a28c7c9b3dea22f07f4df67833cbe764feeeb4",
@@ -7615,7 +7625,8 @@
         ],
         "telegram_groups": [
             "BNBMinerOfficial"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x43f5b64b3d1a9275b460480430a027424aa17f8c",
@@ -7913,7 +7924,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "accu.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "processedGpt": true
     },
     {
         "contract_address": "0x78f5d389f5cdccfc41594abab4b0ed02f31398b3",
@@ -8074,7 +8087,8 @@
         ],
         "telegram_groups": [
             "HuskyBSCGlobal"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x6397de0f9aedc0f7a8fa8b438dde883b9c201010",
