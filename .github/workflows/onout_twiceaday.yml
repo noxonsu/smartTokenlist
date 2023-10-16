@@ -1,0 +1,51 @@
+name: Search tenders on rostender.info with GPT
+
+on:
+  schedule:
+    - cron: '0 7,13 * * *'  #run 7 utc and 13 utc
+  workflow_dispatch:  # Allows manual run
+
+jobs:
+  run-scripts:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+    - name: Check if ROSTENDERPASSWORD is set
+      run: |
+        if [ -z "${{ secrets.ROSTENDERPASSWORD }}" ]; then
+          echo "ROSTENDERPASSWORD is not set!"
+          exit 1
+        else
+          echo "ROSTENDERPASSWORD is set!"
+        fi
+    - name: Install XVFB and other libs
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y libreoffice xvfb unrar p7zip-full
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+
+    - name: Install Playwright Browsers
+      run: playwright install chromium   
+
+    - name: Run python script
+      env:
+        ROSTENDERPASSWORD: ${{ secrets.ROSTENDERPASSWORD }}
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      run: xvfb-run python gptColdSalesPrepare6.py
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "GitHub Action"
+        git config --global user.email "action@github.com"
+        git add -A
+        git diff --cached --exit-code || git commit -m "Automated update from GitHub Actions"
+        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git || echo "No changes to commit"
