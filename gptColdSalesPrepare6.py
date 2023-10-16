@@ -73,11 +73,7 @@ def process_sites(data, sites_without_summary):
         # Extract relevant content
         splitter = RecursiveCharacterTextSplitter.from_tiktoken_encoder(chunk_size=2000, chunk_overlap=0)
         splits = splitter.split_documents(docs_transformed)
-        if not splits:
-            print(f"Couldn't extract content from {site}.")
-            targetSummary = "Failed to extract content"
-            proposal = "Extraction failure"
-        else:
+        try:
             extracted_content = create_extraction_chain(schema=schema, llm=llm).run(splits[0].page_content)
             combined_content = [f"{item.get('news_article_title', '')} - {item.get('news_article_summary', '')}\n\n" for item in extracted_content]
             targetSummary = ' '.join(combined_content)
@@ -87,7 +83,10 @@ def process_sites(data, sites_without_summary):
             else:
                 targetSummary = "None"
                 proposal = None
-
+        except json.JSONDecodeError as e:
+            print(f"Error decoding JSON for site {site}: {e}")
+            targetSummary = "Failed to extract content due to JSON decoding error"
+            proposal = "Extraction failure due to JSON decoding error"
 
         # Update the data list
         save_summary_and_proposal(contract, targetSummary, proposal)
