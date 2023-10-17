@@ -17,13 +17,13 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: '3.x'
-    - name: Check if TELEGRAM_API_HASH is set
+    - name: Check if TELEGRAM_SESSION_STRING is set
       run: |
-        if [ -z "${{ secrets.TELEGRAM_API_HASH }}" ]; then
-          echo "TELEGRAM_API_HASH is not set!"
+        if [ -z "${{ secrets.TELEGRAM_SESSION_STRING }}" ]; then
+          echo "TELEGRAM_SESSION_STRING is not set!"
           exit 1
         else
-          echo "TELEGRAM_API_HASH is set!"
+          echo "TELEGRAM_SESSION_STRING is set!"
         fi
     - name: Install dependencies
       run: |
@@ -33,6 +33,7 @@ jobs:
       env:
         TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
         TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
+        TELEGRAM_SESSION_STRING: ${{ secrets.TELEGRAM_SESSION_STRING }}
       run: python 7joinTgGroup.py
 
     - name: Commit and push changes
