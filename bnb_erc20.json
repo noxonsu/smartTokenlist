@@ -12114,7 +12114,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "dego.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "processedGpt": true
     },
     {
         "contract_address": "0x831bf7091c8354085aa5eb98dd25eb51df59a9a3",
