@@ -27,7 +27,7 @@ jobs:
         fi
     - name: Install dependencies
       run: |
-        pip install -r pyrogram
+        pip install pyrogram
 
     - name: Run python script
       env:
