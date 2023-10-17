@@ -52,7 +52,16 @@ def main():
     groups_to_send_proposal = [entry for entry in data if entry.get("tgGroupJoined") == "success" and "tgProposalSent" not in entry]
     groups_to_send_proposal = groups_to_send_proposal[:5]
 
-    with Client('TgSession', api_id=TELEGRAM_API_ID, api_hash=TELEGRAM_API_HASH) as app:
+    TELEGRAM_SESSION_STRING = os.environ.get('TELEGRAM_SESSION_STRING')
+    
+    if TELEGRAM_SESSION_STRING is None:
+        app = Client("TgSession", in_memory=True, api_id=TELEGRAM_API_ID, api_hash=TELEGRAM_API_HASH)
+        app.start()
+        print("save TELEGRAM_SESSION_STRING session string to env: ")
+        print(app.export_session_string())
+        return False
+
+    with Client('TgSession', session_string=TELEGRAM_SESSION_STRING, api_id=TELEGRAM_API_ID, api_hash=TELEGRAM_API_HASH) as app:
         print('Bot starting...')
         for entry in groups_to_send_proposal:
             chat_link = entry["telegram_groups"][0]  # Picking the first group to send the proposal
