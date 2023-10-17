@@ -6,7 +6,7 @@ from pyrogram import Client, errors
 TELEGRAM_API_ID = int(os.environ.get('TELEGRAM_API_ID'))
 TELEGRAM_API_HASH = os.environ.get('TELEGRAM_API_HASH')
 DEBUG_CHAT_ID = 'testonoutgroup'  # replace with your test chat username or ID
-DEBUG_MODE = True  # Set to False for live mode
+DEBUG_MODE = False  # Set to False for live mode
 
 
 def catch_flood_wait(func):
@@ -50,6 +50,7 @@ def main():
     with open('bnb_erc20.json', 'r') as f:
         data = json.load(f)
     groups_to_send_proposal = [entry for entry in data if entry.get("tgGroupJoined") == "success" and "tgProposalSent" not in entry]
+    groups_to_send_proposal = groups_to_send_proposal[:5]
 
     with Client('TgSession', api_id=TELEGRAM_API_ID, api_hash=TELEGRAM_API_HASH) as app:
         print('Bot starting...')
