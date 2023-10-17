@@ -2622,7 +2622,8 @@
             "Bet_bitcoin_Ai_chat",
             "Bet_bitcoin_ai"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xc762043e211571eb34f1ef377e5e8e76914962f9",
@@ -2856,7 +2857,8 @@
         "telegram_groups": [
             "bitfine_bsc"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xc14e81695b84f142795f2f5f8f644cdc892be228",
@@ -3085,7 +3087,8 @@
             "joinchat",
             "en_goldendoge"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xd691d9a68c887bdf34da8c36f63487333acfd103",
@@ -3112,7 +3115,8 @@
             "fishing_tuna_chat",
             "fishing_tuna"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x8c9cbfa1fcff163f830c3af7970e5b3230c8a13d",
@@ -3415,7 +3419,8 @@
             "XSHIBADapper",
             "XShibaDapper"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "error: Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by \"channels.JoinChannel\")"
     },
     {
         "contract_address": "0xb10b8a1f56d888607727878c68f46b1bb682e0f0",
@@ -3661,7 +3666,8 @@
             "MiniPePe_Official",
             "MiniPepe_Official"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x0bf3bacaf2442ecb7545709960056dbde23fd674",
