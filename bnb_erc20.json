@@ -5665,7 +5665,8 @@
         "telegram_groups": [
             "BlackTigerKingEN"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "error: Can't find chat"
     },
     {
         "contract_address": "0x76228c625cc69f38fba9faac324bce331958ed8d",
@@ -5720,7 +5721,8 @@
         "telegram_groups": [
             "gyrowin"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x9103629ed5ff38e8af73c33d3eb18dbe2e7e2d27",
@@ -5850,7 +5852,8 @@
             "DigitizedWorldwide",
             "DigitizedFiat"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x623be4fde518a00ac49a870bd439cfd5c35e08ed",
@@ -5861,7 +5864,8 @@
         "telegram_groups": [
             "EXATechOfficialEN"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xc44b5e6815e4b693945ac0b7bd5a4509155e9f55",
@@ -5951,7 +5955,8 @@
         "telegram_groups": [
             "fatsale"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x8d295bc1caeebbe489ba6e44e3bfacf4808ed61a",
@@ -6416,7 +6421,8 @@
         "telegram_groups": [
             "metakings"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x9ece397ec3d23fc6ae356545d63fa4348dbb038d",
