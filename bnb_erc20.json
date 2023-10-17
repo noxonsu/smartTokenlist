@@ -5532,7 +5532,8 @@
         "telegram_groups": [
             "antofylabs"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xf446aa7426d6e4bc13afc61ec251d73daf92fa2a",
@@ -5599,7 +5600,8 @@
         "telegram_groups": [
             "DataCrestFinancials"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x68363b856c91357cbfd148abd6960870c6e95c01",
@@ -5658,7 +5660,8 @@
         "telegram_groups": [
             "BlackTigerKingEN"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "error: Can't find chat"
     },
     {
         "contract_address": "0x76228c625cc69f38fba9faac324bce331958ed8d",
@@ -5713,7 +5716,8 @@
         "telegram_groups": [
             "gyrowin"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x9103629ed5ff38e8af73c33d3eb18dbe2e7e2d27",
@@ -5843,7 +5847,8 @@
             "DigitizedWorldwide",
             "DigitizedFiat"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x623be4fde518a00ac49a870bd439cfd5c35e08ed",
@@ -5854,7 +5859,8 @@
         "telegram_groups": [
             "EXATechOfficialEN"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xc44b5e6815e4b693945ac0b7bd5a4509155e9f55",
