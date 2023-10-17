@@ -6521,7 +6521,8 @@
         "telegram_groups": [
             "dejavucoins"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xf4ed363144981d3a65f42e7d0dc54ff9eef559a1",
@@ -6633,7 +6634,8 @@
         "telegram_groups": [
             "loongethschat"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "error: Can't find chat"
     },
     {
         "contract_address": "0x8970c235a4e4d8e0ae5c340549efda5db20d2b44",
@@ -6792,7 +6794,8 @@
             "safehavenio_announcements",
             "safehavenio"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xf651e43a91b24f19edcb89ad59d69f1be0d067af",
@@ -6872,7 +6875,8 @@
         "telegram_groups": [
             "RETOKENOFFICIAL"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xe369fec23380f9f14ffd07a1dc4b7c1a9fdd81c9",
@@ -7040,7 +7044,8 @@
         "telegram_groups": [
             "ET_BSC"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xcc9b189401076cdee1fa856e03b0dabbbecaf865",
@@ -7167,7 +7172,8 @@
         "telegram_groups": [
             "fatsale"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x56c6ed3229cacb2aa6b7e7e6d8e60769fe51d972",
