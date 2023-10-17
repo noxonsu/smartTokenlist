@@ -4516,7 +4516,8 @@
         "telegram_groups": [
             "MyWish_platform"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x398c60ca4d4c40b79ea2ff95b9879f2bd40de157",
@@ -4621,7 +4622,8 @@
         "telegram_groups": [
             "Soma_community"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xbccd27062ae1a2bea5731c904b96edfb163aba21",
@@ -4700,7 +4702,8 @@
             "whynotbsc",
             "OctoBeastX"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x40cc811786a218802a7a8dbe502b2b087489e019",
@@ -4803,7 +4806,8 @@
         "telegram_groups": [
             "newgoldoficial"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x9f7277778c798ef0bc1debf28994eaec1af7ba24",
@@ -5008,7 +5012,8 @@
         "telegram_groups": [
             "xakamaruinu"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x949d48eca67b17269629c7194f4b727d4ef9e5d6",
@@ -5504,7 +5509,8 @@
             "SwipeWallet",
             "Swipe"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "error: Can't find chat"
     },
     {
         "contract_address": "0x59c46f6edde846ec970eeffe925f6a278902e3d5",
