@@ -65,7 +65,7 @@ def main():
     # Limit to processing only 6 groups
     chats_to_subscribe = chats_to_subscribe[:6]
 
-    app = Client('Autosubscribe', api_id=TELEGRAM_API_ID, api_hash=TELEGRAM_API_HASH)
+    app = Client('TgSession', api_id=TELEGRAM_API_ID, api_hash=TELEGRAM_API_HASH)
     print('Bot starting...')
     app.start()
     print('Bot successfully started!')
