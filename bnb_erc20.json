@@ -8763,7 +8763,8 @@
         ],
         "telegram_groups": [
             "greenartchats"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xd5771307b20f6a89ad49112dbe7996ea4ac016c0",
@@ -8852,7 +8853,8 @@
         ],
         "telegram_groups": [
             "LONG_ZH"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xd4ea2c5a30e2fe4b94d38da12ab45b4f177c529d",
@@ -8877,8 +8879,10 @@
             "cog-netix.com"
         ],
         "telegram_groups": [
+            "CarlsonGeoff",
             "Cognetixportal"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xce4afe532121ecfca4da8b9a1d88127dff6321de",
@@ -9176,8 +9180,10 @@
             "queryloop.co"
         ],
         "telegram_groups": [
-            "Queryloop"
-        ]
+            "Queryloop",
+            "gemsbynikisha"
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x40e51e0ec04283e300f12f6bb98da157bb22036e",
@@ -9211,7 +9217,8 @@
         ],
         "telegram_groups": [
             "LiteXnetwork"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xe06e81e217231905e9e3e6a341ec82a9e6b64e8c",
