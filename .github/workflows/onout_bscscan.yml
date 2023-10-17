@@ -27,12 +27,11 @@ jobs:
  
     - name: Run ScanBnberc20.py
       run: BNBSCAN_API_KEY=${{ secrets.BNBSCAN_API_KEY }} python ScanBnberc20.py
-
+      
     - name: Commit and push changes
       run: |
         git config --global user.name "GitHub Action"
         git config --global user.email "action@github.com"
         git add -A
-        git diff --cached --exit-code || git commit -m "Automated update from GitHub Actions"
-        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/noxonsu/smartTokenlist.git || echo "No changes to commit"
-
+        git diff --cached --exit-code || git commit -m "Automated update from GitHub Actions ($GITHUB_WORKFLOW)"
+        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git || echo "No changes to commit"

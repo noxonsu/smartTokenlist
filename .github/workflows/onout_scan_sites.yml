@@ -2,7 +2,7 @@ name: prepare cold outreach texts
 
 on:
   schedule:
-    - cron: '10 * * * *'  #run 
+    - cron: '10 */3 * * *'  #run 
   workflow_dispatch:  # Allows manual run
 
 jobs:
@@ -46,5 +46,5 @@ jobs:
         git config --global user.name "GitHub Action"
         git config --global user.email "action@github.com"
         git add -A
-        git diff --cached --exit-code || git commit -m "Automated update from GitHub Actions"
+        git diff --cached --exit-code || git commit -m "Automated update from GitHub Actions ($GITHUB_WORKFLOW)"
         git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git || echo "No changes to commit"

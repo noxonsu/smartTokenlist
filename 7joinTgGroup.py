@@ -63,7 +63,7 @@ def main():
     data, chats_to_subscribe = load_and_filter_chats()
 
     # Limit to processing only 6 groups
-    chats_to_subscribe = chats_to_subscribe[:6]
+    chats_to_subscribe = chats_to_subscribe[:60]
     TELEGRAM_SESSION_STRING = os.environ.get('TELEGRAM_SESSION_STRING')
     
     if TELEGRAM_SESSION_STRING is None:
