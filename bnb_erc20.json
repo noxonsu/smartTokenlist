@@ -12686,7 +12686,8 @@
         ],
         "telegram_groups": [
             "xcatgirlbsc"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xc26dec5051fce6b0759b8c0b96a8ddb749893b39",
@@ -12695,8 +12696,10 @@
             "ordinalsnova.com"
         ],
         "telegram_groups": [
+            "ordinals_novaportal",
             "OrdinalsNovaBSC"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x7e8bae727abc245181f7abad0a4445114c0ca987",
@@ -12713,7 +12716,8 @@
         ],
         "telegram_groups": [
             "eldragonbsc"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x8adcd965d4a4c929979aa204c787a5f27ab58097",
