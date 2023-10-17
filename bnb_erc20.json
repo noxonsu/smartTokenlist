@@ -10647,7 +10647,8 @@
         ],
         "telegram_groups": [
             "genaisecosystem"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xbb8203e945866a1f3eced6e5b22679e5a540be91",
@@ -10683,7 +10684,9 @@
         "web_domains": [
             "martik.site",
             "martik.site"
-        ]
+        ],
+        "telegram_groups": [],
+        "processedGpt": true
     },
     {
         "contract_address": "0x4d61577d8fd2208a0afb814ea089fdeae19ed202",
@@ -10751,7 +10754,9 @@
             "www.smartcontracts.tools",
             "www.smartcontracts.tools",
             "www.smartcontracts.tools"
-        ]
+        ],
+        "telegram_groups": [],
+        "processedGpt": true
     },
     {
         "contract_address": "0xcfd38fdcb624c0d754d9aba6f6da0a7b45f00927",
@@ -10950,7 +10955,8 @@
         ],
         "telegram_groups": [
             "RFTPortal"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xd1e735ec67606ca6fc6eb0614b6e89e39a5ff18e",
@@ -11186,7 +11192,8 @@
         ],
         "telegram_groups": [
             "oxonetworkChat"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xf88ca2579166d6788726a52f14da0637d572d139",
@@ -11196,7 +11203,9 @@
             "www.smartcontracts.tools",
             "www.smartcontracts.tools",
             "www.smartcontracts.tools"
-        ]
+        ],
+        "telegram_groups": [],
+        "processedGpt": true
     },
     {
         "contract_address": "0x4a69720907de25683dc649131d70e2a68765c216",
@@ -12035,7 +12044,9 @@
             "www.smartcontracts.tools",
             "www.smartcontracts.tools",
             "www.smartcontracts.tools"
-        ]
+        ],
+        "telegram_groups": [],
+        "processedGpt": true
     },
     {
         "contract_address": "0x54447cfa919c096d095d58c2b5814669897bffcd",
