@@ -12230,7 +12230,8 @@
         ],
         "telegram_groups": [
             "OrbsNetwork"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x5c95d298afac4ca9c0d5cc5fc75d3df65a514698",
@@ -12286,7 +12287,8 @@
         ],
         "telegram_groups": [
             "Doge1satellite"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xc9479a5ae7ec4bba08f113ed523ad5dabf6863ab",
