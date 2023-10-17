@@ -55,7 +55,7 @@ def load_and_filter_chats():
             if "web_domains" in entry and entry["web_domains"] 
             and "telegram_groups" in entry and entry["telegram_groups"]
             and "processedGpt" in entry and entry["processedGpt"]
-            and "telegramProposalSent" not in entry
+            and "tgGroupJoined" not in entry
         ]
 
 
@@ -81,19 +81,19 @@ def main():
                 else:
                     print('No linked chat')
             # If successful, update the status
-            entry["telegramProposalSent"] = "success"
+            entry["tgGroupJoined"] = "success"
         except errors.UsernameInvalid:
             print(f"Can't find {chat_link}")
-            entry["telegramProposalSent"] = "error: Can't find chat"
+            entry["tgGroupJoined"] = "error: Can't find chat"
         except errors.UsernameNotOccupied:
             print(f"Can't find {chat_link}")
-            entry["telegramProposalSent"] = "error: Username not occupied"
+            entry["tgGroupJoined"] = "error: Username not occupied"
         except errors.InviteHashExpired:
             print(f"Can't join {chat_link}, link expired")
-            entry["telegramProposalSent"] = "error: Invite link expired"
+            entry["tgGroupJoined"] = "error: Invite link expired"
         except Exception as e:
             print(f'Uncaught exception: {e}')
-            entry["telegramProposalSent"] = f"error: {e}"
+            entry["tgGroupJoined"] = f"error: {e}"
 
     app.stop()
 
