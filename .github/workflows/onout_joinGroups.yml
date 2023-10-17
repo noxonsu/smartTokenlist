@@ -1,0 +1,44 @@
+name: prepare cold outreach texts
+
+on:
+  schedule:
+    - cron: '20 * * * *'  #run 
+  workflow_dispatch:  # Allows manual run
+
+jobs:
+  run-scripts:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+    - name: Check if TELEGRAM_API_HASH is set
+      run: |
+        if [ -z "${{ secrets.TELEGRAM_API_HASH }}" ]; then
+          echo "TELEGRAM_API_HASH is not set!"
+          exit 1
+        else
+          echo "TELEGRAM_API_HASH is set!"
+        fi
+    - name: Install dependencies
+      run: |
+        pip install -r pyrogram
+
+    - name: Run python script
+      env:
+        TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
+        TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
+      run: python 7joinTgGroup.py
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "GitHub Action"
+        git config --global user.email "action@github.com"
+        git add -A
+        git diff --cached --exit-code || git commit -m "Automated update from GitHub Actions ($GITHUB_WORKFLOW)"
+        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git || echo "No changes to commit"

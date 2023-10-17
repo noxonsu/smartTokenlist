@@ -446,7 +446,8 @@
         "telegram_groups": [
             "CreoEngineChannel"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "telegramProposalSent": "success"
     },
     {
         "contract_address": "0xf99f2aec50adfde23cc67ab6240168b0a59f1d30",
@@ -497,7 +498,8 @@
             "ape_swap",
             "ape_swap_news"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "telegramProposalSent": "success"
     },
     {
         "contract_address": "0x7abfefbce37a46e0f1a9e1483b1a865da560771a",
@@ -877,7 +879,8 @@
         "telegram_groups": [
             "MsgSender_AP"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "telegramProposalSent": "success"
     },
     {
         "contract_address": "0x64030a2223c60941c032de758a8cdb91064de261",
@@ -888,7 +891,8 @@
         "telegram_groups": [
             "FrogCEO_Announcements"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "telegramProposalSent": "success"
     },
     {
         "contract_address": "0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb",
@@ -1292,7 +1296,8 @@
         "telegram_groups": [
             "cateclub"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "telegramProposalSent": "error: Can't find chat"
     },
     {
         "contract_address": "0xe89715d87c33221bc76b4f3162cc4a1cb0da0e19",
@@ -1467,7 +1472,8 @@
         "telegram_groups": [
             "Tinereum"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "telegramProposalSent": "success"
     },
     {
         "contract_address": "0xeb53a5f8f2de50248bc44f91650de438ce17b5eb",
@@ -1530,7 +1536,8 @@
         "telegram_groups": [
             "LayerNetwork"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "telegramProposalSent": "success"
     },
     {
         "contract_address": "0xfa318dba7b846f6a60acef8b9fde750135e0a179",
@@ -1662,7 +1669,8 @@
         "telegram_groups": [
             "Bimachainofficial"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "telegramProposalSent": "success"
     },
     {
         "contract_address": "0x5de466a5786397185bf415794366cf1aa4021756",
@@ -1737,7 +1745,8 @@
         "telegram_groups": [
             "letsplay_official"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "telegramProposalSent": "success"
     },
     {
         "contract_address": "0x6e3fd1dea627226998da6e9e0c7ef95f417d6c35",
@@ -1944,7 +1953,8 @@
         "telegram_groups": [
             "DeepSpaceGame"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "telegramProposalSent": "success"
     },
     {
         "contract_address": "0x7dc9d1c34b7955a3bd21fb1f99dfc04c7b3cf53f",
