@@ -447,7 +447,8 @@
             "CreoEngineChannel"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "error: Telegram says: [400 CHAT_ADMIN_REQUIRED] - The method requires chat admin privileges (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0xf99f2aec50adfde23cc67ab6240168b0a59f1d30",
@@ -499,7 +500,8 @@
             "ape_swap_news"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "success"
     },
     {
         "contract_address": "0x7abfefbce37a46e0f1a9e1483b1a865da560771a",
@@ -880,7 +882,8 @@
             "MsgSender_AP"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "success"
     },
     {
         "contract_address": "0x64030a2223c60941c032de758a8cdb91064de261",
@@ -892,7 +895,8 @@
             "FrogCEO_Announcements"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "error: Telegram says: [400 CHAT_ADMIN_REQUIRED] - The method requires chat admin privileges (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb",
@@ -1473,7 +1477,8 @@
             "Tinereum"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "error: Telegram says: [400 CHAT_ADMIN_REQUIRED] - The method requires chat admin privileges (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0xeb53a5f8f2de50248bc44f91650de438ce17b5eb",
