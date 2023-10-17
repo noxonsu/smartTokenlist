@@ -31,7 +31,9 @@ def extract_content(site):
     # Transform the content to text
     html2text = Html2TextTransformer()
     text_content = html2text.transform_documents(docs)
-
+    if not text_content:
+        print(f"Failed to extract content for site {site}")
+        return "Failed to extract content for site {site}", telegram_links
     return text_content, telegram_links
 
 def extract_telegram_links(html_content):
@@ -94,20 +96,28 @@ def process_sites(data, sites_without_summary):
         # Extract relevant content
         splitter = RecursiveCharacterTextSplitter.from_tiktoken_encoder(chunk_size=2000, chunk_overlap=0)
         splits = splitter.split_documents(docs_transformed)
-        try:
-            extracted_content = create_extraction_chain(schema=schema, llm=llm).run(splits[0].page_content)
-            combined_content = [f"{item.get('news_article_title', '')} - {item.get('news_article_summary', '')}\n\n" for item in extracted_content]
-            targetSummary = ' '.join(combined_content)
 
-            if targetSummary:
-                proposal = generate_message(targetSummary)
-            else:
-                targetSummary = "None"
-                proposal = None
-        except json.JSONDecodeError as e:
-            print(f"Error decoding JSON for site {site}: {e}")
-            targetSummary = "Failed to extract content due to JSON decoding error"
-            proposal = "Extraction failure due to JSON decoding error"
+        #IndexError: list index out of rang
+        if not splits or splits[0].page_content == "":
+            print(f"Failed to extract content for site {site}")
+            targetSummary = "Failed to extract content for site {site}"
+            proposal = None
+            
+        else:
+            try:
+                extracted_content = create_extraction_chain(schema=schema, llm=llm).run(splits[0].page_content)
+                combined_content = [f"{item.get('news_article_title', '')} - {item.get('news_article_summary', '')}\n\n" for item in extracted_content]
+                targetSummary = ' '.join(combined_content)
+
+                if targetSummary:
+                    proposal = generate_message(targetSummary)
+                else:
+                    targetSummary = "None"
+                    proposal = None
+            except json.JSONDecodeError as e:
+                print(f"Error decoding JSON for site {site}: {e}")
+                targetSummary = "Failed to extract content due to JSON decoding error"
+                proposal = "Extraction failure due to JSON decoding error"
 
         # Update the data list
         save_summary_and_proposal(contract, targetSummary, proposal)
