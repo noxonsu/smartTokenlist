@@ -9670,7 +9670,8 @@
         ],
         "telegram_groups": [
             "SHINTAMA_Join"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xcbd492176ded0bd396018f2684c5a7637a245e06",
@@ -10129,7 +10130,8 @@
         ],
         "telegram_groups": [
             "NexusCoin_Global"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xab49ca143fc26f098823b9f05926657b806952a6",
@@ -10294,7 +10296,8 @@
         ],
         "telegram_groups": [
             "group9419"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xca49e95eae5ecd57a7391216d75315563428426c",
@@ -10378,7 +10381,12 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.Xovertoken.com"
-        ]
+        ],
+        "telegram_groups": [
+            "xovertoken",
+            "Xovernews"
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x9085d5b19ef13973402bc6506f486d154fbb91d1",
@@ -10428,7 +10436,8 @@
         ],
         "telegram_groups": [
             "doughbsc"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xf92d36072d4bbe0cd1b7e282217380751b869652",
