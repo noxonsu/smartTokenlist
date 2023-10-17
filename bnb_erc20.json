@@ -496,8 +496,9 @@
             "apeswap.finance"
         ],
         "telegram_groups": [
+            "ape_swap_news",
             "ape_swap",
-            "ape_swap_news"
+            "ape_bond"
         ],
         "processedGpt": true,
         "tgGroupJoined": "success",
@@ -4156,20 +4157,9 @@
             "apeswap.finance"
         ],
         "telegram_groups": [
-            "ape_swap",
             "ape_swap_news",
             "ape_swap",
-            "ape_swap_news",
-            "ape_swap",
-            "ape_swap_news",
-            "ape_swap",
-            "ape_swap_news",
-            "ape_swap",
-            "ape_swap_news",
-            "ape_swap",
-            "ape_swap_news",
-            "ape_swap",
-            "ape_swap_news"
+            "ape_bond"
         ],
         "processedGpt": true,
         "tgGroupJoined": "success"
@@ -12447,7 +12437,12 @@
         "sourceScanned": "processed",
         "web_domains": [
             "DOGE.CEO"
-        ]
+        ],
+        "telegram_groups": [
+            "DogeCEO_EN",
+            "DogeCEO_CN"
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x0db981ccf53bc817a20ddd3547891f58d0c9b6ea",
@@ -12490,21 +12485,11 @@
             "apeswap.finance"
         ],
         "telegram_groups": [
-            "ape_swap",
             "ape_swap_news",
             "ape_swap",
-            "ape_swap_news",
-            "ape_swap",
-            "ape_swap_news",
-            "ape_swap",
-            "ape_swap_news",
-            "ape_swap",
-            "ape_swap_news",
-            "ape_swap",
-            "ape_swap_news",
-            "ape_swap",
-            "ape_swap_news"
-        ]
+            "ape_bond"
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x25699a5bdcb524e3030a89c2f5088a076dc562bc",
@@ -12530,7 +12515,8 @@
         ],
         "telegram_groups": [
             "DogeStarsChat"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xde5ed76e7c05ec5e4572cfc88d1acea165109e44",
@@ -12609,7 +12595,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "axiomaholding.io"
-        ]
+        ],
+        "telegram_groups": [
+            "axiomahold"
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x74c8a6c3ebfa96116a57c0beea61a501ade8e2c7",
