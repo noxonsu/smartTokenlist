@@ -8151,7 +8151,8 @@
             "minerarenasChannel",
             "minerarenasChat"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x72baa4e69e7deb65bc2bf2747e6a4b13f81f3e7f",
@@ -8276,7 +8277,8 @@
         "telegram_groups": [
             "OnePiece4Chan"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x785700bc30de3c9a8f1dcd5cdb2652150f36ecd5",
@@ -8359,7 +8361,8 @@
         "telegram_groups": [
             "StacksTokenBSC"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x3c45a24d36ab6fc1925533c1f57bc7e1b6fba8a4",
@@ -8525,7 +8528,8 @@
         "telegram_groups": [
             "fatsale"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xc70636a779118e57e1c6fdafdd1f919fae912d2f",
@@ -8572,7 +8576,8 @@
         "telegram_groups": [
             "Grobatbsc"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x11899d5ab32b6176fa6feaa123e7f8e799dc36f5",
@@ -8807,7 +8812,8 @@
         "telegram_groups": [
             "greenartchats"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xd5771307b20f6a89ad49112dbe7996ea4ac016c0",
