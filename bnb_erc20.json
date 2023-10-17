@@ -8903,7 +8903,8 @@
         "telegram_groups": [
             "LONG_ZH"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xd4ea2c5a30e2fe4b94d38da12ab45b4f177c529d",
@@ -8931,7 +8932,8 @@
             "CarlsonGeoff",
             "Cognetixportal"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "error: Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by \"channels.JoinChannel\")"
     },
     {
         "contract_address": "0xce4afe532121ecfca4da8b9a1d88127dff6321de",
@@ -9232,7 +9234,8 @@
             "Queryloop",
             "gemsbynikisha"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x40e51e0ec04283e300f12f6bb98da157bb22036e",
@@ -9267,7 +9270,8 @@
         "telegram_groups": [
             "LiteXnetwork"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xe06e81e217231905e9e3e6a341ec82a9e6b64e8c",
@@ -9327,7 +9331,8 @@
             "RWA_EN",
             "RWA_CN"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x80262f604acac839724f66846f290a2cc8b48662",
@@ -9415,7 +9420,8 @@
         "telegram_groups": [
             "BNBTigerAI"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x405be90996e7f995a08c2fbd8d8822ef5b03466c",
