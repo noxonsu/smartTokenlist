@@ -62,7 +62,7 @@ def load_and_filter_chats():
 def main():
     data, chats_to_subscribe = load_and_filter_chats()
 
-    # Limit to processing only 10 groups
+    # Limit to processing only 6 groups
     chats_to_subscribe = chats_to_subscribe[:6]
 
     app = Client('Autosubscribe', api_id=TELEGRAM_API_ID, api_hash=TELEGRAM_API_HASH)
