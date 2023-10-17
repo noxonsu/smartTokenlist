@@ -9589,7 +9589,8 @@
             "HotXbsc",
             "HotX_HX"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x8a74bc8c372bc7f0e9ca3f6ac0df51be15aec47a",
@@ -9702,7 +9703,8 @@
             "HotX_global",
             "HotX_HX"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xa11ba836ed5665cc2bb043be63448842d1dac07d",
@@ -9726,7 +9728,8 @@
         "telegram_groups": [
             "SHINTAMA_Join"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "error: Can't find chat"
     },
     {
         "contract_address": "0xcbd492176ded0bd396018f2684c5a7637a245e06",
@@ -10186,7 +10189,8 @@
         "telegram_groups": [
             "NexusCoin_Global"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xab49ca143fc26f098823b9f05926657b806952a6",
@@ -10352,7 +10356,8 @@
         "telegram_groups": [
             "group9419"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xca49e95eae5ecd57a7391216d75315563428426c",
@@ -10441,7 +10446,8 @@
             "xovertoken",
             "Xovernews"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x9085d5b19ef13973402bc6506f486d154fbb91d1",
