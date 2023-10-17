@@ -9275,8 +9275,10 @@
             "www.rwacoin.top"
         ],
         "telegram_groups": [
-            "RWA_EN"
-        ]
+            "RWA_EN",
+            "RWA_CN"
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x80262f604acac839724f66846f290a2cc8b48662",
@@ -9323,7 +9325,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "happytrain.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "processedGpt": true
     },
     {
         "contract_address": "0x6ef91b8332f3f3fa1e87573da5de2704ac84dff4",
@@ -9361,7 +9365,8 @@
         ],
         "telegram_groups": [
             "BNBTigerAI"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x405be90996e7f995a08c2fbd8d8822ef5b03466c",
@@ -9526,8 +9531,10 @@
             "hotx.fun"
         ],
         "telegram_groups": [
-            "HotXbsc"
-        ]
+            "HotXbsc",
+            "HotX_HX"
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x8a74bc8c372bc7f0e9ca3f6ac0df51be15aec47a",
@@ -9546,7 +9553,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "tokentoolbox.app"
-        ]
+        ],
+        "telegram_groups": [],
+        "processedGpt": true
     },
     {
         "contract_address": "0xddc0dbd7dc799ae53a98a60b54999cb6ebb3abf0",
@@ -9634,8 +9643,11 @@
             "hotx.fun"
         ],
         "telegram_groups": [
-            "HotX_global"
-        ]
+            "HotXbsc",
+            "HotX_global",
+            "HotX_HX"
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0xa11ba836ed5665cc2bb043be63448842d1dac07d",
