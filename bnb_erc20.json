@@ -7193,7 +7193,8 @@
             "fatsale"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "error: No proposal text found for contract address: 0x7fd8d15df136b677740dea057fd5c269579cba87"
     },
     {
         "contract_address": "0x56c6ed3229cacb2aa6b7e7e6d8e60769fe51d972",
@@ -7238,7 +7239,8 @@
             "DayOfDefeatBSC"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "error: Telegram says: [403 CHAT_WRITE_FORBIDDEN] - You don't have rights to send messages in this chat (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0x198271b868dae875bfea6e6e4045cdda5d6b9829",
@@ -7296,7 +7298,8 @@
             "dxsale"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "error: Telegram says: [403 CHAT_WRITE_FORBIDDEN] - You don't have rights to send messages in this chat (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0x18956c6fb8923aec6acd993dec0ce64df306b4d4",
@@ -7467,7 +7470,8 @@
             "dragondawnlabs"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "error: Telegram says: [400 USER_BANNED_IN_CHANNEL] - You are limited from sending messages in supergroups/channels, check @SpamBot for details (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0x69d82a4b256a1de1a5296f5b2dda6fe3de98115a",
@@ -7586,7 +7590,8 @@
             "NevilleDivecha"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "error: Telegram says: [400 CHAT_ADMIN_REQUIRED] - The method requires chat admin privileges (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0x36a28c7c9b3dea22f07f4df67833cbe764feeeb4",
