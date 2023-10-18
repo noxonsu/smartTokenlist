@@ -3678,7 +3678,8 @@
             "MiniPepe_Official"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "error: Telegram says: [403 CHAT_WRITE_FORBIDDEN] - You don't have rights to send messages in this chat (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0x0bf3bacaf2442ecb7545709960056dbde23fd674",
@@ -3690,7 +3691,8 @@
             "aim_token"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "error: Telegram says: [400 CHAT_ADMIN_REQUIRED] - The method requires chat admin privileges (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0x8c851d1a123ff703bd1f9dabe631b69902df5f97",
@@ -3914,7 +3916,8 @@
             "ValueFichat"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "success"
     },
     {
         "contract_address": "0xf027e525d491ef6ffcc478555fbb3cfabb3406a6",
@@ -4112,7 +4115,8 @@
             "fatsale"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "success"
     },
     {
         "contract_address": "0x68306de72d3cad418279a0d2411c1197d34dd17f",
@@ -4172,7 +4176,8 @@
             "ape_bond"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "error: No proposal text found for contract address: 0xbb091b2623a8364bdeaec34b3be2087306ade960"
     },
     {
         "contract_address": "0x80b9b3227fde37cb358220f0150c1ee7c7413986",
