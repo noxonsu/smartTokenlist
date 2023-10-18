@@ -496,9 +496,9 @@
             "apeswap.finance"
         ],
         "telegram_groups": [
-            "ape_swap_news",
+            "ape_bond",
             "ape_swap",
-            "ape_bond"
+            "ape_swap_news"
         ],
         "processedGpt": true,
         "tgGroupJoined": "success",
@@ -4171,9 +4171,9 @@
             "apeswap.finance"
         ],
         "telegram_groups": [
-            "ape_swap_news",
+            "ape_bond",
             "ape_swap",
-            "ape_bond"
+            "ape_swap_news"
         ],
         "processedGpt": true,
         "tgGroupJoined": "success",
@@ -12547,9 +12547,9 @@
             "apeswap.finance"
         ],
         "telegram_groups": [
-            "ape_swap_news",
+            "ape_bond",
             "ape_swap",
-            "ape_bond"
+            "ape_swap_news"
         ],
         "processedGpt": true,
         "tgGroupJoined": "error: Username not occupied"
@@ -12990,9 +12990,9 @@
             "ape-swap.medium.com"
         ],
         "telegram_groups": [
-            "ape_swap_news",
+            "ape_bond",
             "ape_swap",
-            "ape_bond"
+            "ape_swap_news"
         ],
         "processedGpt": true,
         "tgGroupJoined": "error: Username not occupied"
@@ -13283,7 +13283,8 @@
         ],
         "telegram_groups": [
             "ElonGateReal"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x2da752d48a7dc0b5b3f80219c26db999828ce1f4",
@@ -13301,7 +13302,8 @@
         ],
         "telegram_groups": [
             "EscrowBSC"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x8a7b5fe6f43db70affc51f3881ff79354640f3e7",
@@ -13339,7 +13341,8 @@
         ],
         "telegram_groups": [
             "Foundinglayers"
-        ]
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x4954e0062e0a7668a2fe3df924cd20e6440a7b77",
@@ -13370,21 +13373,11 @@
             "apeswap.finance"
         ],
         "telegram_groups": [
-            "ape_swap",
+            "ape_bond",
             "ape_swap_news",
-            "ape_swap",
-            "ape_swap_news",
-            "ape_swap",
-            "ape_swap_news",
-            "ape_swap",
-            "ape_swap_news",
-            "ape_swap",
-            "ape_swap_news",
-            "ape_swap",
-            "ape_swap_news",
-            "ape_swap",
-            "ape_swap_news"
-        ]
+            "ape_swap"
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x752ef1f84e684f002bf7889364346eb70565dbf6",
