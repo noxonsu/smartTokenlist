@@ -12741,7 +12741,8 @@
         "telegram_groups": [
             "eldragonbsc"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x8adcd965d4a4c929979aa204c787a5f27ab58097",
