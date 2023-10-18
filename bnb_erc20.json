@@ -12965,11 +12965,11 @@
             "ape-swap.medium.com"
         ],
         "telegram_groups": [
-            "ape_swap",
             "ape_swap_news",
             "ape_swap",
-            "ape_swap_news"
-        ]
+            "ape_bond"
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x39a07429a6384366df05f46c7ebea45efcf06282",
