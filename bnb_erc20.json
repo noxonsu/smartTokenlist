@@ -12969,7 +12969,8 @@
             "ape_swap",
             "ape_bond"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x39a07429a6384366df05f46c7ebea45efcf06282",
