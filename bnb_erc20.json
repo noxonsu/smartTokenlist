@@ -13023,8 +13023,10 @@
             "project-7.pro"
         ],
         "telegram_groups": [
-            "lucky7_bsc"
-        ]
+            "lucky7_bsc",
+            "lucky7trackerbot"
+        ],
+        "processedGpt": true
     },
     {
         "contract_address": "0x2d7a47908d817dd359f9aba7feaa89c92a289c7e",
@@ -13058,7 +13060,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "doge.gay"
-        ]
+        ],
+        "telegram_groups": [],
+        "processedGpt": true
     },
     {
         "contract_address": "0xab74f0afb5a616f54be9cdab0a22818a0aaa83d2",
