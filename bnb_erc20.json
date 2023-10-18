@@ -2317,7 +2317,8 @@
             "sonar_official"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "error: Telegram says: [403 CHAT_WRITE_FORBIDDEN] - You don't have rights to send messages in this chat (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0xbd6ceeef56985b608252c3651dd903a3fcc34910",
@@ -2629,7 +2630,8 @@
             "Bet_bitcoin_ai"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "success"
     },
     {
         "contract_address": "0xc762043e211571eb34f1ef377e5e8e76914962f9",
@@ -2864,7 +2866,8 @@
             "bitfine_bsc"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "success"
     },
     {
         "contract_address": "0xc14e81695b84f142795f2f5f8f644cdc892be228",
@@ -3094,7 +3097,8 @@
             "en_goldendoge"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "success"
     },
     {
         "contract_address": "0xd691d9a68c887bdf34da8c36f63487333acfd103",
@@ -3122,7 +3126,8 @@
             "fishing_tuna"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "success"
     },
     {
         "contract_address": "0x8c9cbfa1fcff163f830c3af7970e5b3230c8a13d",
