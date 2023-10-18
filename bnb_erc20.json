@@ -1543,7 +1543,8 @@
             "LayerNetwork"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "success"
     },
     {
         "contract_address": "0xfa318dba7b846f6a60acef8b9fde750135e0a179",
@@ -1676,7 +1677,8 @@
             "Bimachainofficial"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "success"
     },
     {
         "contract_address": "0x5de466a5786397185bf415794366cf1aa4021756",
@@ -1752,7 +1754,8 @@
             "letsplay_official"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "error: Telegram says: [400 CHAT_ADMIN_REQUIRED] - The method requires chat admin privileges (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0x6e3fd1dea627226998da6e9e0c7ef95f417d6c35",
@@ -1960,7 +1963,8 @@
             "DeepSpaceGame"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "success"
     },
     {
         "contract_address": "0x7dc9d1c34b7955a3bd21fb1f99dfc04c7b3cf53f",
@@ -1992,7 +1996,8 @@
             "binemon"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "error: Telegram says: [400 Bad Request] - [400 TOPIC_CLOSED] (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0x0ddecc845c57d4bcc38295be6caa10d4b9cd2d95",
