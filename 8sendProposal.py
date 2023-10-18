@@ -49,7 +49,7 @@ def load_groups_to_send_proposal():
 def main():
     with open('bnb_erc20.json', 'r') as f:
         data = json.load(f)
-    groups_to_send_proposal = [entry for entry in data if entry.get("tgGroupJoined") == "success" and "tgProposalSent" not in entry]
+    groups_to_send_proposal = [entry for entry in data if entry.get("tgGroupJoined") == "success" and entry.get("processedGpt") == "true" and "tgProposalSent" not in entry]
     groups_to_send_proposal = groups_to_send_proposal[:5]
 
     TELEGRAM_SESSION_STRING = os.environ.get('TELEGRAM_SESSION_STRING')
