@@ -6437,7 +6437,8 @@
             "metakings"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "error: Telegram says: [400 USER_BANNED_IN_CHANNEL] - You are limited from sending messages in supergroups/channels, check @SpamBot for details (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0x9ece397ec3d23fc6ae356545d63fa4348dbb038d",
@@ -6537,7 +6538,8 @@
             "dejavucoins"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "error: Telegram says: [400 CHAT_ADMIN_REQUIRED] - The method requires chat admin privileges (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0xf4ed363144981d3a65f42e7d0dc54ff9eef559a1",
@@ -6810,7 +6812,8 @@
             "safehavenio"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "error: Telegram says: [400 CHAT_ADMIN_REQUIRED] - The method requires chat admin privileges (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0xf651e43a91b24f19edcb89ad59d69f1be0d067af",
@@ -6891,7 +6894,8 @@
             "RETOKENOFFICIAL"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "error: Telegram says: [400 USER_BANNED_IN_CHANNEL] - You are limited from sending messages in supergroups/channels, check @SpamBot for details (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0xe369fec23380f9f14ffd07a1dc4b7c1a9fdd81c9",
@@ -7060,7 +7064,8 @@
             "ET_BSC"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "error: Telegram says: [400 USER_BANNED_IN_CHANNEL] - You are limited from sending messages in supergroups/channels, check @SpamBot for details (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0xcc9b189401076cdee1fa856e03b0dabbbecaf865",
@@ -13284,7 +13289,8 @@
         "telegram_groups": [
             "ElonGateReal"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x2da752d48a7dc0b5b3f80219c26db999828ce1f4",
@@ -13303,7 +13309,8 @@
         "telegram_groups": [
             "EscrowBSC"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x8a7b5fe6f43db70affc51f3881ff79354640f3e7",
@@ -13342,7 +13349,8 @@
         "telegram_groups": [
             "Foundinglayers"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x4954e0062e0a7668a2fe3df924cd20e6440a7b77",
@@ -13377,7 +13385,8 @@
             "ape_swap_news",
             "ape_swap"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x752ef1f84e684f002bf7889364346eb70565dbf6",
