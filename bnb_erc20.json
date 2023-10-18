@@ -3572,7 +3572,8 @@
             "docs.bitbond.com"
         ],
         "telegram_groups": [],
-        "processedGpt": true
+        "processedGpt": true,
+        "p6": true
     },
     {
         "contract_address": "0xe9d7023f2132d55cbd4ee1f78273cb7a3e74f10a",
@@ -3741,7 +3742,8 @@
             "docs.bitbond.com"
         ],
         "telegram_groups": [],
-        "processedGpt": true
+        "processedGpt": true,
+        "p6": true
     },
     {
         "contract_address": "0x2819fab04433d4418fa6bd48d9231918423613a8",
@@ -8342,7 +8344,8 @@
             "docs.bitbond.com"
         ],
         "telegram_groups": [],
-        "processedGpt": true
+        "processedGpt": true,
+        "p6": true
     },
     {
         "contract_address": "0xce1b3e5087e8215876af976032382dd338cf8401",
@@ -13698,7 +13701,11 @@
         "web_domains": [
             "everrise.com",
             "www.everrise.com"
-        ]
+        ],
+        "telegram_groups": [
+            "everriseofficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbbd7b847c6d0d0b5691518a363194d71426475f1",
@@ -13708,7 +13715,11 @@
             "www.everrise.com",
             "www.everrise.com",
             "www.everrise.com"
-        ]
+        ],
+        "telegram_groups": [
+            "everriseofficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xfc2d06814a947ca98d97fdacbfc960f71079af1b",
@@ -13759,7 +13770,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "docs.bitbond.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xdae7a4aacbbcaf13e9a101a2bf376fcb3931ad27",
@@ -13792,7 +13805,9 @@
             "holograph.xyz",
             "holograph.xyz",
             "holograph.xyz"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6f769e65c14ebd1f68817f5f1dcdb61cfa2d6f7e",
