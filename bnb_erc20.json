@@ -5548,7 +5548,8 @@
             "antofylabs"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "error: Telegram says: [400 CHAT_ADMIN_REQUIRED] - The method requires chat admin privileges (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0xf446aa7426d6e4bc13afc61ec251d73daf92fa2a",
@@ -5732,7 +5733,8 @@
             "gyrowin"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "error: Telegram says: [400 USER_BANNED_IN_CHANNEL] - You are limited from sending messages in supergroups/channels, check @SpamBot for details (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0x9103629ed5ff38e8af73c33d3eb18dbe2e7e2d27",
@@ -5863,7 +5865,8 @@
             "DigitizedFiat"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "error: Telegram says: [400 CHAT_ADMIN_REQUIRED] - The method requires chat admin privileges (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0x623be4fde518a00ac49a870bd439cfd5c35e08ed",
@@ -5875,7 +5878,8 @@
             "EXATechOfficialEN"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "error: Telegram says: [400 CHAT_ADMIN_REQUIRED] - The method requires chat admin privileges (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0xc44b5e6815e4b693945ac0b7bd5a4509155e9f55",
@@ -5966,7 +5970,8 @@
             "fatsale"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "error: No proposal text found for contract address: 0xc2273b0b9ba4398240daa7a4e53d3a13937dd8fb"
     },
     {
         "contract_address": "0x8d295bc1caeebbe489ba6e44e3bfacf4808ed61a",
