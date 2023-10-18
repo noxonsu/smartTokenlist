@@ -12478,7 +12478,8 @@
             "DogeCEO_EN",
             "DogeCEO_CN"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x0db981ccf53bc817a20ddd3547891f58d0c9b6ea",
@@ -12525,7 +12526,8 @@
             "ape_swap",
             "ape_bond"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x25699a5bdcb524e3030a89c2f5088a076dc562bc",
@@ -12552,7 +12554,8 @@
         "telegram_groups": [
             "DogeStarsChat"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xde5ed76e7c05ec5e4572cfc88d1acea165109e44",
@@ -12635,7 +12638,8 @@
         "telegram_groups": [
             "axiomahold"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x74c8a6c3ebfa96116a57c0beea61a501ade8e2c7",
@@ -12705,7 +12709,8 @@
         "telegram_groups": [
             "xcatgirlbsc"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xc26dec5051fce6b0759b8c0b96a8ddb749893b39",
@@ -12717,7 +12722,8 @@
             "ordinals_novaportal",
             "OrdinalsNovaBSC"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x7e8bae727abc245181f7abad0a4445114c0ca987",
