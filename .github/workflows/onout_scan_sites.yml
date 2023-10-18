@@ -41,6 +41,12 @@ jobs:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       run: xvfb-run python 6loadSummary.py
 
+    - name: Run python script
+      env:
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        CHAINBASE_API: ${{ secrets.CHAINBASE_API }}
+      run: python 8prepareProposal.py
+
     - name: Commit and push changes
       run: |
         git config --global user.name "GitHub Action"
