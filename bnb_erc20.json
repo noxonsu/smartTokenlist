@@ -13623,7 +13623,9 @@
         ],
         "telegram_groups": [
             "taxicrypt"
-        ]
+        ],
+        "processed6loadSummary": true,
+        "p6": true
     },
     {
         "contract_address": "0xff1d1bf24a3b57630e31252a3a22edf64f6397b7",

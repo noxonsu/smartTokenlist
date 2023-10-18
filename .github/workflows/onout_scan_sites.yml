@@ -39,7 +39,7 @@ jobs:
     - name: Run python script
       env:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-      run: xvfb-run python gptColdSalesPrepare6.py
+      run: xvfb-run python 6loadSummary.py
 
     - name: Commit and push changes
       run: |
