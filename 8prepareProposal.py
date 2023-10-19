@@ -44,7 +44,10 @@ def filter_sites_without_proposal(data):
 
 def process_sites(data, sites_without_proposal):
     for domain, contract_address in sites_without_proposal:
-        targetSummary = load_summary(contract_address)
+        try:
+            targetSummary = load_summary(contract_address)
+        except:
+            targetSummary = ""
         HOLDERS_COUNT = get_holders_count(contract_address)  # Get holders count
         # Concat "HOLDERSCOUNT" to targetSummary
         targetSummary = f"{targetSummary} . Amount of holders: {HOLDERS_COUNT}"

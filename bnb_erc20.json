@@ -3572,8 +3572,7 @@
             "docs.bitbond.com"
         ],
         "telegram_groups": [],
-        "processedGpt": true,
-        "p6": true
+        "processedGpt": true
     },
     {
         "contract_address": "0xe9d7023f2132d55cbd4ee1f78273cb7a3e74f10a",
@@ -13984,9 +13983,11 @@
             "www.twitter.com"
         ],
         "telegram_groups": [
+            "babypepeflokiii",
             "BabypepeflokiBR",
-            "babypepeflokiii"
-        ]
+            "BabyPepeFlokibr"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5e89edeb37347fb99c1fef6e0d2725423cdf67de",
@@ -14000,7 +14001,9 @@
             "uniswap.org",
             "uniswap.org",
             "uniswap.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x051e9f55e1e521b5bbc51b533c3676e0921910ff",
@@ -14091,7 +14094,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.investopedia.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x48747d325d139b1f9cd29d9381fb73228b9affec",
