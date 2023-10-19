@@ -54,7 +54,7 @@ def load_and_filter_chats():
             entry for entry in data
             if "web_domains" in entry and entry["web_domains"] 
             and "telegram_groups" in entry and entry["telegram_groups"]
-            and "processedGpt" in entry and entry["processedGpt"]
+            and "p6" in entry and entry["p6"]
             and "tgGroupJoined" not in entry
         ]
 

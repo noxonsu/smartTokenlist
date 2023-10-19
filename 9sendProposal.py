@@ -6,7 +6,7 @@ from pyrogram import Client, errors
 TELEGRAM_API_ID = int(os.environ.get('TELEGRAM_API_ID'))
 TELEGRAM_API_HASH = os.environ.get('TELEGRAM_API_HASH')
 DEBUG_CHAT_ID = 'testonoutgroup'  # replace with your test chat username or ID
-DEBUG_MODE = False  # Set to False for live mode
+DEBUG_MODE = True  # Set to False for live mode
 
 
 def catch_flood_wait(func):
@@ -21,7 +21,7 @@ def catch_flood_wait(func):
     return wrapper
 
 def load_proposal_text(contract_address):
-    file_path = f"texts/{contract_address}.json"
+    file_path = f"proposals/{contract_address}.json"
     try:
         with open(file_path, 'r') as f:
             data = json.load(f)
@@ -41,24 +41,16 @@ def send_proposal(app, chat_id, contract_address):
         raise Exception(f"No proposal text found for contract address: {contract_address}")
 
 
-def load_groups_to_send_proposal():
-    with open('bnb_erc20.json', 'r') as f:
-        data = json.load(f)
-        return [entry for entry in data if entry.get("tgGroupJoined") == "success" and "tgProposalSent" not in entry]
-
 def main():
     with open('bnb_erc20.json', 'r') as f:
         data = json.load(f)
-    groups_to_send_proposal = [entry for entry in data if entry.get("tgGroupJoined") == "success" and entry.get("processedGpt") == "true" and "tgProposalSent" not in entry]
+    groups_to_send_proposal = [entry for entry in data if entry.get("tgGroupJoined") == "success" and entry.get("p8") == "true" and "tgProposalSent" not in entry]
     groups_to_send_proposal = groups_to_send_proposal[:5]
 
     TELEGRAM_SESSION_STRING = os.environ.get('TELEGRAM_SESSION_STRING')
     
     if TELEGRAM_SESSION_STRING is None:
-        app = Client("TgSession", in_memory=True, api_id=TELEGRAM_API_ID, api_hash=TELEGRAM_API_HASH)
-        app.start()
         print("save TELEGRAM_SESSION_STRING session string to env: ")
-        print(app.export_session_string())
         return False
 
     with Client('TgSession', session_string=TELEGRAM_SESSION_STRING, api_id=TELEGRAM_API_ID, api_hash=TELEGRAM_API_HASH) as app:
@@ -74,8 +66,8 @@ def main():
                 entry["tgProposalSent"] = f"error: {e}"
 
         # Save updated status to the JSON file
-        with open('bnb_erc20.json', 'w') as f:
-            json.dump(data, f, indent=4)
+        #with open('bnb_erc20.json', 'w') as f:
+        #    json.dump(data, f, indent=4)
 
     print('All done!')
 
