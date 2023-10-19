@@ -51,11 +51,11 @@ def send_proposal(app, chat_id, contract_address):
     if proposal_text:
         # Send to debug chat if DEBUG_MODE is True
         target_chat_id = DEBUG_CHAT_ID if DEBUG_MODE else chat_id
-        app.send_message(chat_id=target_chat_id, text=proposal_text)
-        save_sent_chat(chat_id)
+        message = app.send_message(chat_id=target_chat_id, text=proposal_text)  # Capture the result
+        message_link = f"https://t.me/{target_chat_id}/{message.message_id}"  # Construct the message link
+        save_sent_chat(message_link)  # Save the message link instead of chat_id
     else:
         raise Exception(f"No proposal text found for contract address: {contract_address}")
-
 
 
 
