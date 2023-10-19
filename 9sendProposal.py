@@ -30,22 +30,42 @@ def load_proposal_text(contract_address):
         print(f"Error loading proposal text for {contract_address}: {e}")
         return None
 
+def load_sent_chats():
+    try:
+        with open('proposalSent.txt', 'r') as f:
+            return f.read().splitlines()
+    except FileNotFoundError:
+        return []
+    
+def save_sent_chat(chat_link):
+    with open('proposalSent.txt', 'a') as f:
+        f.write(f"{chat_link}\n")
+        
 @catch_flood_wait
 def send_proposal(app, chat_id, contract_address):
+    sent_chats = load_sent_chats()
+    if chat_id in sent_chats:
+        raise Exception(f"Proposal already sent to {chat_id}, skipping...")
+
     proposal_text = load_proposal_text(contract_address)
     if proposal_text:
         # Send to debug chat if DEBUG_MODE is True
         target_chat_id = DEBUG_CHAT_ID if DEBUG_MODE else chat_id
         app.send_message(chat_id=target_chat_id, text=proposal_text)
+        save_sent_chat(chat_id)
     else:
         raise Exception(f"No proposal text found for contract address: {contract_address}")
+
+
+
 
 
 def main():
     with open('bnb_erc20.json', 'r') as f:
         data = json.load(f)
-    groups_to_send_proposal = [entry for entry in data if entry.get("tgGroupJoined") == "success" and entry.get("p8") == "true" and "tgProposalSent" not in entry]
-    groups_to_send_proposal = groups_to_send_proposal[:5]
+    
+    groups_to_send_proposal = [entry for entry in data if entry.get("tgGroupJoined") == "success"and entry.get("p8") == True and "tgProposalSent" not in entry]
+    groups_to_send_proposal = groups_to_send_proposal[:2]
 
     TELEGRAM_SESSION_STRING = os.environ.get('TELEGRAM_SESSION_STRING')
     
