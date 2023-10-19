@@ -14310,7 +14310,12 @@
         "sourceScanned": "processed",
         "web_domains": [
             "biokript.com"
-        ]
+        ],
+        "telegram_groups": [
+            "biokript"
+        ],
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x2ecaecf517f6419c407a2e19c879f460db04dd0e",
