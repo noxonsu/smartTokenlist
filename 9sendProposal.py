@@ -52,8 +52,11 @@ def send_proposal(app, chat_id, contract_address):
         # Send to debug chat if DEBUG_MODE is True
         target_chat_id = DEBUG_CHAT_ID if DEBUG_MODE else chat_id
         message = app.send_message(chat_id=target_chat_id, text=proposal_text)  # Capture the result
-        message_link = f"https://t.me/{target_chat_id}/{message.message_id}"  # Construct the message link
-        save_sent_chat(message_link)  # Save the message link instead of chat_id
+        message_link = f"{message.id}"  # Construct the message link
+        # Save chat_id if debug mode = false
+        if not DEBUG_MODE:
+            save_sent_chat(target_chat_id)  
+        return message_link
     else:
         raise Exception(f"No proposal text found for contract address: {contract_address}")
 
@@ -78,9 +81,9 @@ def main():
         for entry in groups_to_send_proposal:
             chat_link = entry["telegram_groups"][0]  # Picking the first group to send the proposal
             try:
-                send_proposal(app, chat_link, entry["contract_address"])
+                message_link = send_proposal(app, chat_link, entry["contract_address"])
                 # Update status after sending proposal
-                entry["tgProposalSent"] = "success"
+                entry["tgProposalSent"] = message_link
             except Exception as e:
                 print(f"Error processing {chat_link}: {e}")
                 entry["tgProposalSent"] = f"error: {e}"
