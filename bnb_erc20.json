@@ -13620,7 +13620,8 @@
         "processed6loadSummary": true,
         "p6": true,
         "p8": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "error: Telegram says: [400 CHAT_ADMIN_REQUIRED] - The method requires chat admin privileges (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0xff1d1bf24a3b57630e31252a3a22edf64f6397b7",
@@ -13698,7 +13699,8 @@
         ],
         "p6": true,
         "p8": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "success"
     },
     {
         "contract_address": "0xbbd7b847c6d0d0b5691518a363194d71426475f1",
