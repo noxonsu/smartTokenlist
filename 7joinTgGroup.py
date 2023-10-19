@@ -11,6 +11,18 @@ print(TELEGRAM_API_ID)
 
 SUBSCRIBE_TO_LINKED_CHAT = 'true'
 
+def load_and_filter_chats():
+    with open('bnb_erc20.json', 'r') as f:
+        data = json.load(f)
+        # Filtering based on given conditions
+        return data, [
+            entry for entry in data
+            if "web_domains" in entry and entry["web_domains"] 
+            and "telegram_groups" in entry and entry["telegram_groups"]
+            and "p6" in entry and entry["p6"]
+            and "tgGroupJoined" not in entry
+        ]
+    
 def catch_flood_wait(func):
     def wrapper(*args, **kwargs):
         try:
@@ -46,17 +58,7 @@ def subscribe_to_chat_with_retries(app, chat_link, linked=False) -> types.Chat |
     if not linked:
         return get_chat_with_retries(app, chat_link)
 
-def load_and_filter_chats():
-    with open('bnb_erc20.json', 'r') as f:
-        data = json.load(f)
-        # Filtering based on given conditions
-        return data, [
-            entry for entry in data
-            if "web_domains" in entry and entry["web_domains"] 
-            and "telegram_groups" in entry and entry["telegram_groups"]
-            and "p6" in entry and entry["p6"]
-            and "tgGroupJoined" not in entry
-        ]
+
 
 
 def main():
@@ -76,6 +78,8 @@ def main():
     app = Client('TgSession', session_string=TELEGRAM_SESSION_STRING, api_id=TELEGRAM_API_ID, api_hash=TELEGRAM_API_HASH)
     print('Bot starting...')
     app.start()
+    me = app.get_me()
+    print(f'Bot started as {me.username}')
     print('Bot successfully started!')
 
     for entry in chats_to_subscribe:
@@ -90,6 +94,7 @@ def main():
                     print('No linked chat')
             # If successful, update the status
             entry["tgGroupJoined"] = "success"
+            entry["myuser"] = me.id
         except errors.UsernameInvalid:
             print(f"Can't find {chat_link}")
             entry["tgGroupJoined"] = "error: Can't find chat"
