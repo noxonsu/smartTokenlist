@@ -11829,7 +11829,9 @@
             "SafeFundedRocketPortal"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x533b883a1a557744f6c00317cceaea71fd71d1c4",
@@ -14095,7 +14097,8 @@
             "www.investopedia.com"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x48747d325d139b1f9cd29d9381fb73228b9affec",
@@ -14120,8 +14123,11 @@
             "xovertokens.com"
         ],
         "telegram_groups": [
-            "xovertokenschat"
-        ]
+            "xovertokenschat",
+            "Xovernews"
+        ],
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x294d0408ef52548230c45926592899435cc1dbd8",
@@ -14194,7 +14200,9 @@
         ],
         "telegram_groups": [
             "SafeFundedRocketPortal"
-        ]
+        ],
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x1db2b5227082e8af43bbbf131a7aca4badc70120",
