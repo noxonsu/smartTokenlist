@@ -13695,7 +13695,8 @@
         "telegram_groups": [
             "everriseofficial"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xbbd7b847c6d0d0b5691518a363194d71426475f1",
@@ -13709,7 +13710,8 @@
         "telegram_groups": [
             "everriseofficial"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xfc2d06814a947ca98d97fdacbfc960f71079af1b",
@@ -13794,7 +13796,8 @@
             "holograph.xyz"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x6f769e65c14ebd1f68817f5f1dcdb61cfa2d6f7e",
@@ -13972,8 +13975,11 @@
         ],
         "telegram_groups": [
             "BabypepeflokiBR",
+            "BabyPepeFlokibr",
             "babypepeflokiii"
-        ]
+        ],
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x5e89edeb37347fb99c1fef6e0d2725423cdf67de",
@@ -13987,7 +13993,10 @@
             "uniswap.org",
             "uniswap.org",
             "uniswap.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x051e9f55e1e521b5bbc51b533c3676e0921910ff",
