@@ -4,6 +4,12 @@ import requests
 from langchain.chat_models import ChatOpenAI
 from langchain.schema import SystemMessage, HumanMessage
 
+#p8 - 8prepareProposal.py
+#p6 - 6prepareSummary.py
+def filter_sites_without_proposal(data):
+    return [(entry['web_domains'][0], entry['contract_address']) for entry in data if not entry.get('p8') and entry.get('p6') and entry.get('web_domains')][:5]
+
+
 def load_summary(contract_address):
     filename = os.path.join('summaries', f"{contract_address}.json")
     with open(filename, 'r') as file:
@@ -37,10 +43,6 @@ def generate_message(targetSummary):
     gpttitle = chat(messages)
     return gpttitle.content
 
-#p8 - 8prepareProposal.py
-#p6 - 6prepareSummary.py
-def filter_sites_without_proposal(data):
-    return [(entry['web_domains'][0], entry['contract_address']) for entry in data if not entry.get('p8') and entry.get('p6') and entry.get('web_domains')][:5]
 
 def process_sites(data, sites_without_proposal):
     for domain, contract_address in sites_without_proposal:
