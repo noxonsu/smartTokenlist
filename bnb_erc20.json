@@ -3568,9 +3568,6 @@
     {
         "contract_address": "0xccba8dee09b3872d848d3da71975f257815300f3",
         "sourceScanned": "processed",
-        "web_domains": [
-            "docs.bitbond.com"
-        ],
         "telegram_groups": [],
         "processedGpt": true
     },
@@ -3737,9 +3734,6 @@
     {
         "contract_address": "0xecab5a7b6467cf265dd089ee238f288cb237ad6e",
         "sourceScanned": "processed",
-        "web_domains": [
-            "docs.bitbond.com"
-        ],
         "telegram_groups": [],
         "processedGpt": true,
         "p6": true
@@ -8339,9 +8333,6 @@
     {
         "contract_address": "0x703c51ee931888b3861de76779cdc5725956553e",
         "sourceScanned": "processed",
-        "web_domains": [
-            "docs.bitbond.com"
-        ],
         "telegram_groups": [],
         "processedGpt": true,
         "p6": true
@@ -13767,9 +13758,6 @@
     {
         "contract_address": "0x5bad89d562dd6b1421e2c5b875b967c1b4dd74ee",
         "sourceScanned": "processed",
-        "web_domains": [
-            "docs.bitbond.com"
-        ],
         "telegram_groups": [],
         "p6": true
     },
@@ -13983,11 +13971,9 @@
             "www.twitter.com"
         ],
         "telegram_groups": [
-            "babypepeflokiii",
             "BabypepeflokiBR",
-            "BabyPepeFlokibr"
-        ],
-        "p6": true
+            "babypepeflokiii"
+        ]
     },
     {
         "contract_address": "0x5e89edeb37347fb99c1fef6e0d2725423cdf67de",
@@ -14001,9 +13987,7 @@
             "uniswap.org",
             "uniswap.org",
             "uniswap.org"
-        ],
-        "telegram_groups": [],
-        "p6": true
+        ]
     },
     {
         "contract_address": "0x051e9f55e1e521b5bbc51b533c3676e0921910ff",
