@@ -11831,7 +11831,8 @@
         "processedGpt": true,
         "tgGroupJoined": "success",
         "p6": true,
-        "p8": true
+        "p8": true,
+        "tgProposalSent": "error: Telegram says: [400 CHAT_ADMIN_REQUIRED] - The method requires chat admin privileges (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0x533b883a1a557744f6c00317cceaea71fd71d1c4",
@@ -13718,7 +13719,8 @@
         ],
         "p6": true,
         "p8": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "error: Proposal already sent to everriseofficial, skipping..."
     },
     {
         "contract_address": "0xfc2d06814a947ca98d97fdacbfc960f71079af1b",
@@ -13987,7 +13989,8 @@
         ],
         "p6": true,
         "p8": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "error: 'Message' object has no attribute 'message_id'"
     },
     {
         "contract_address": "0x5e89edeb37347fb99c1fef6e0d2725423cdf67de",
@@ -14128,7 +14131,8 @@
         ],
         "p6": true,
         "p8": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "error: Telegram says: [403 CHAT_WRITE_FORBIDDEN] - You don't have rights to send messages in this chat (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0x294d0408ef52548230c45926592899435cc1dbd8",
@@ -14204,7 +14208,8 @@
         ],
         "p6": true,
         "p8": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "error: Telegram says: [400 CHAT_ADMIN_REQUIRED] - The method requires chat admin privileges (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0x1db2b5227082e8af43bbbf131a7aca4badc70120",
