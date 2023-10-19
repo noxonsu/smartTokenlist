@@ -6,7 +6,7 @@ from pyrogram import Client, errors
 TELEGRAM_API_ID = int(os.environ.get('TELEGRAM_API_ID'))
 TELEGRAM_API_HASH = os.environ.get('TELEGRAM_API_HASH')
 DEBUG_CHAT_ID = 'testonoutgroup'  # replace with your test chat username or ID
-DEBUG_MODE = True  # Set to False for live mode
+DEBUG_MODE = False  # Set to False for live mode
 
 
 def catch_flood_wait(func):
@@ -40,7 +40,7 @@ def load_sent_chats():
 def save_sent_chat(chat_link):
     with open('proposalSent.txt', 'a') as f:
         f.write(f"{chat_link}\n")
-        
+
 @catch_flood_wait
 def send_proposal(app, chat_id, contract_address):
     sent_chats = load_sent_chats()
@@ -85,9 +85,9 @@ def main():
                 print(f"Error processing {chat_link}: {e}")
                 entry["tgProposalSent"] = f"error: {e}"
 
-        # Save updated status to the JSON file
-        #with open('bnb_erc20.json', 'w') as f:
-        #    json.dump(data, f, indent=4)
+        
+        with open('bnb_erc20.json', 'w') as f:
+            json.dump(data, f, indent=4)
 
     print('All done!')
 
