@@ -1,17 +1,16 @@
 import json
+import time
 
-# Load the data
-with open('bnb_erc20.json', 'r') as file:
+filename = 'bnb_erc20.json'
+
+# Capture the start time
+start_time = time.time()
+
+# Load the JSON data from file
+with open(filename, 'r') as file:
     data = json.load(file)
 
-# Filter the entries and remove specified fields
-for entry in data:
-    if 'tgProposalSent' in entry and 'USER_BANNED_IN_CHANNEL' in entry['tgProposalSent']:
-        entry.pop('processedGpt', None)
-        entry.pop('tgGroupJoined', None)
-        entry.pop('tgProposalSent', None)
+# Calculate the duration
+duration = time.time() - start_time
 
-# Save the modified data back to the file
-with open('bnb_erc20.json', 'w') as file:
-    json.dump(data, file, indent=2)
-        
+print(f"Loading {filename} took {duration:.4f} seconds")
