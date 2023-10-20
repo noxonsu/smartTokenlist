@@ -93,7 +93,7 @@ def main():
                 linked_chat = chat.linked_chat
                 if linked_chat:
                     chat = subscribe_to_chat_with_retries(app, linked_chat.id, linked=True)
-                    entry["telegram_groups"][0] = linked_chat.id
+                    entry["telegram_groups"][0] = linked_chat.username
                 else:
                     print('No linked chat')
             

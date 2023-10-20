@@ -217,14 +217,13 @@
             "everdome.io"
         ],
         "telegram_groups": [
-            -1001667840600,
+            "everdome",
             "everdome"
         ],
         "p6": true,
         "myuser": 6003957640,
-        "tgGroupJoined": "success",
         "p8": true,
-        "tgProposalSent": "error: Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by \"channels.GetChannels\")"
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x552e74b9b28a5b6c8ae476d8e91198f073cf01ff",
@@ -511,7 +510,9 @@
             "PancakeSwapVN",
             "pancakeswap"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x43b35e89d15b91162dea1c51133c4c93bdd1c4af",
@@ -520,11 +521,13 @@
             "sakaivault.io"
         ],
         "telegram_groups": [
-            "sakaivault",
+            "SakaiVault",
             "SakaiVaultAnnounce",
             "SakaiVault"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x7005a8d108d361236334f613a0dcfefb44309b25",
@@ -556,7 +559,9 @@
         "telegram_groups": [
             "alphatoken"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xb346106714ff5af3a7ff94eb4c9c51d629932682",
