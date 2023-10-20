@@ -33,7 +33,9 @@
         "processedGpt": true,
         "web_domains": [
             "binance.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x02e8af9e99c6439ba33044b39c283a4ab24e327e",
@@ -625,14 +627,24 @@
         "sourceScanned": "processed",
         "web_domains": [
             "drip.community"
-        ]
+        ],
+        "telegram_groups": [
+            "BBbest123",
+            "Forex_Sh4rk",
+            "DRIPtoken_Chat"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1c50013e69efb68575773ba4a48013f1a4a1fb6c",
         "sourceScanned": "processed",
         "web_domains": [
             "upit.tech"
-        ]
+        ],
+        "telegram_groups": [
+            "upittech"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf568b26a80b20282967a714d5243baa1a603feff",
@@ -655,7 +667,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "binance.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb3e968ba01a78ea489292130bcf8bbe6a64be648",
@@ -674,7 +688,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "bigtime.net"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9840652dc04fb9db2c43853633f0f62be6f00f98",
