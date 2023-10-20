@@ -568,21 +568,27 @@
         "sourceScanned": "processed",
         "web_domains": [
             "lecrazyhorseparis.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc3afde95b6eb9ba8553cdaea6645d45fb3a7faf5",
         "sourceScanned": "processed",
         "web_domains": [
             "kibainu.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xae9269f27437f0fcbc232d39ec814844a51d6b8f",
         "sourceScanned": "processed",
         "web_domains": [
             "burgerswap.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa260e12d2b924cb899ae80bb58123ac3fee1e2f0",
@@ -597,7 +603,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "worldfootball1.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x383094a91ef2767eed2b063ea40465670bf1c83f",
