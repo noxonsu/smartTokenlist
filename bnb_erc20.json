@@ -17,7 +17,12 @@
         "sourceScanned": "processed",
         "web_domains": [
             "relbitcoin.io"
-        ]
+        ],
+        "telegram_groups": [
+            "relbitcoin"
+        ],
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
@@ -80,14 +85,13 @@
         "sourceScanned": "processed",
         "telegram_groups": [
             "italo_blockchain",
-            "luffyg5official",
-            "italo_blockchain",
-            "italo_blockchain",
-            "italo_blockchain"
+            "luffyg5official"
         ],
         "web_domains": [
             "luffyg5.com"
-        ]
+        ],
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x0abafc3ffcc0822ffeaf4ca6934d8d9377771aea",
@@ -101,7 +105,10 @@
         "sourceScanned": "processed",
         "web_domains": [
             "mspc.me"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x62ffbf675d5a30fdad84dc9ac097bb75a28cb109",
@@ -15203,7 +15210,10 @@
             "holograph.xyz",
             "holograph.xyz",
             "holograph.xyz"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x0d75cfc4e927c72c5c84a288bb5ddef546411b26",
@@ -15229,7 +15239,9 @@
         ],
         "telegram_groups": [
             "Halloween_Inu"
-        ]
+        ],
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x1ac025ffec8c00425b410bc16acf10a4f6e06ff9",
