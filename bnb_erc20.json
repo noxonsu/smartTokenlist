@@ -144,7 +144,9 @@
         "telegram_groups": [
             "UnityMetatoken"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377",
@@ -185,7 +187,9 @@
             "MoonBotio_bot",
             "coinbraincomann"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by \"channels.JoinChannel\")"
     },
     {
         "contract_address": "0x9e05284e24a77b80778baad319eed1ece519c85e",
@@ -197,7 +201,9 @@
             "ApeSpaceCommunity",
             "MariusApeSpace"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x475bfaa1848591ae0e6ab69600f48d828f61a80e",
@@ -206,10 +212,12 @@
             "everdome.io"
         ],
         "telegram_groups": [
-            "everdome_io_news",
+            -1001667840600,
             "everdome"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x552e74b9b28a5b6c8ae476d8e91198f073cf01ff",
@@ -257,7 +265,9 @@
             "ApeSpaceCommunity",
             "MariusApeSpace"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xedadfc60402ec6466f317a6fbde66cc0c6eaec20",
