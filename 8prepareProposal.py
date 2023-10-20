@@ -41,6 +41,13 @@ def generate_message(targetSummary):
         HumanMessage(content=f"Target project (this is not our project! analyse them to create an icebreaker and good offer): {targetSummary}")
     ]
     gpttitle = chat(messages)
+    # Remove the quotation marks from the start and end of the generated title
+    if gpttitle.content[0] == '"':
+        gpttitle.content = gpttitle.content[1:]
+    if gpttitle.content[-1] == '"':
+        gpttitle.content = gpttitle.content[:-1]
+    
+    gpttitle.content
     return gpttitle.content
 
 
