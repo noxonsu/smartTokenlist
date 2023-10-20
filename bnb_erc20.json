@@ -488,7 +488,10 @@
     },
     {
         "contract_address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "binance.com"
+        ]
     },
     {
         "contract_address": "0xb3e968ba01a78ea489292130bcf8bbe6a64be648",
@@ -504,11 +507,17 @@
     },
     {
         "contract_address": "0xef42bd1c580f358c0fb8b350d33573476340a194",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bigtime.net"
+        ]
     },
     {
         "contract_address": "0x9840652dc04fb9db2c43853633f0f62be6f00f98",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "app.chaingpt.org"
+        ]
     },
     {
         "contract_address": "0x2c44b726adf1963ca47af88b284c06f30380fc78",
