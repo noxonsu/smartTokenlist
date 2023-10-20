@@ -35,7 +35,10 @@
     {
         "contract_address": "0xd983ab71a284d6371908420d8ac6407ca943f810",
         "sourceScanned": "processed",
-        "processedGpt": true
+        "processedGpt": true,
+        "web_domains": [
+            "ultron.foundation"
+        ]
     },
     {
         "contract_address": "0x2eeff21c71ae38f9c34496cd9250c0d186dcd988",
@@ -48,12 +51,18 @@
         "telegram_groups": [
             "BlazeXCoin"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "web_domains": [
+            "blazex.com"
+        ]
     },
     {
         "contract_address": "0x7eefb6aeb8bc2c1ba6be1d4273ec0758a1321272",
         "sourceScanned": "processed",
-        "processedGpt": true
+        "processedGpt": true,
+        "web_domains": [
+            "endlessboardgame.com"
+        ]
     },
     {
         "contract_address": "0x772b609d3a8f2ebe1c1b8f87ebda2e462ec475f8",
@@ -61,7 +70,10 @@
         "emails": [
             "hello@getfitmining.com"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "web_domains": [
+            "getfitmining.com"
+        ]
     },
     {
         "contract_address": "0x84958f423651205207e8ce01edb6fa863dfc604c",
@@ -72,6 +84,9 @@
             "italo_blockchain",
             "italo_blockchain",
             "italo_blockchain"
+        ],
+        "web_domains": [
+            "luffyg5.com"
         ]
     },
     {
@@ -83,7 +98,10 @@
     },
     {
         "contract_address": "0xba509bdb71a29301860800e13867b59b461747af",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mspc.me"
+        ]
     },
     {
         "contract_address": "0x62ffbf675d5a30fdad84dc9ac097bb75a28cb109",

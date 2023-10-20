@@ -78,7 +78,7 @@ def main():
     scanned_contracts = load_scanned_contracts()
     
     filter_contracts = [contract for contract in filter_contracts if contract["contract_address"].lower() not in scanned_contracts]
-    filter_contracts=filter_contracts[:3]
+    filter_contracts=filter_contracts[:10]
     print("contracts to scan:")
     print (len(filter_contracts))
 
