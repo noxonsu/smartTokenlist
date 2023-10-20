@@ -1,4 +1,4 @@
-name: 6load summaries
+name: 6load summaries and tg
 
 on:
   schedule:
@@ -40,12 +40,6 @@ jobs:
       env:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       run: xvfb-run python 6loadSummary.py
-
-    - name: Run python script 8prepareProposal
-      env:
-        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        CHAINBASE_API: ${{ secrets.CHAINBASE_API }}
-      run: python 8prepareProposal.py
 
     - name: Commit and push changes
       run: |

@@ -65,6 +65,7 @@ def process_sites(data, sites_without_summary):
             except json.JSONDecodeError as e:
                 targetSummary = "Failed to extract content due to JSON decoding error"
 
+        print(f"Summary for {contract} {site}: {targetSummary}")
         save_summary_and_proposal(contract, targetSummary)
 
         # Update the data list to mark the site as processed
