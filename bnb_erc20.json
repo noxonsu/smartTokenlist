@@ -492,14 +492,39 @@
         "sourceScanned": "processed",
         "web_domains": [
             "pancakeswap.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "pancakeswap_ru",
+            "PancakeSwapAnn",
+            "pancakeswap_DE",
+            "pancakeswapturkiye",
+            "pancakeswapFR",
+            "pancakeswapJP",
+            "pancakeswap_Ita",
+            "pancakeswapIndonesia",
+            "pancakeswapES",
+            "pancakeswapGeorgia",
+            "pancakeswap_PH",
+            "pancakeswap_INDIA",
+            "pancakeswapPortuguese",
+            "pancakeswap_CN",
+            "PancakeSwapVN",
+            "pancakeswap"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x43b35e89d15b91162dea1c51133c4c93bdd1c4af",
         "sourceScanned": "processed",
         "web_domains": [
             "sakaivault.io"
-        ]
+        ],
+        "telegram_groups": [
+            "sakaivault",
+            "SakaiVaultAnnounce",
+            "SakaiVault"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7005a8d108d361236334f613a0dcfefb44309b25",
@@ -514,7 +539,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "party.app"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7195e72beaafa35dd2c5a542af4b7ac054af16c2",
@@ -525,7 +552,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "atoken.org"
-        ]
+        ],
+        "telegram_groups": [
+            "alphatoken"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb346106714ff5af3a7ff94eb4c9c51d629932682",
