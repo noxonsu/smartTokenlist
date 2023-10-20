@@ -14,7 +14,7 @@ def load_data_from_file(filename):
         return json.load(f)
 
 def filter_sites_without_summary(data):
-    return [(entry['web_domains'][0], entry['contract_address']) for entry in data if not entry.get('processedGpt') and not entry.get('p6') and entry.get('web_domains')][:5]
+    return [(entry['web_domains'][0], entry['contract_address']) for entry in data if not entry.get('processedGpt') and not entry.get('p6') and entry.get('web_domains')]
 
 def extract_content(site):
     loader = AsyncChromiumLoader(["https://"+site])
@@ -86,7 +86,8 @@ def save_updated_data(filename, data):
 def main():
     data = load_data_from_file("bnb_erc20.json")
     sites_without_summary = filter_sites_without_summary(data)
-
+    print(f"Found {len(sites_without_summary)} sites without summary")
+    sites_without_summary = sites_without_summary[:5]
     if not sites_without_summary:
         print("All sites processed")
     else:
