@@ -12382,7 +12382,9 @@
             "Doge1satellite"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xc9479a5ae7ec4bba08f113ed523ad5dabf6863ab",
@@ -14838,7 +14840,8 @@
             "martik.site"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x87d23e1bcfb01a1d721627d2d9a8e5fd0c639999",
@@ -14924,7 +14927,9 @@
         ],
         "telegram_groups": [
             "Doge1satellite"
-        ]
+        ],
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xd3462c5c15f90d41eb920888f9080ac64488d16b",
