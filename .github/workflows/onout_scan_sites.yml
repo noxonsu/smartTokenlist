@@ -36,12 +36,12 @@ jobs:
     - name: Install Playwright Browsers
       run: playwright install chromium   
 
-    - name: Run python script
+    - name: Run python script 6loadSummary
       env:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       run: xvfb-run python 6loadSummary.py
 
-    - name: Run python script
+    - name: Run python script 8prepareProposal
       env:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         CHAINBASE_API: ${{ secrets.CHAINBASE_API }}

@@ -17,11 +17,11 @@ def load_and_filter_contracts():
         data = json.load(f)
         return data, [entry for entry in data if "web_domains" not in entry]
 
-def findOfficialDomain(serp):
+def findOfficialDomain(serp,project_name):
     
     chat = ChatOpenAI(temperature=0.5, model_name="gpt-3.5-turbo-0613")
     messages = [
-        SystemMessage(content="Analyse SERP and find the official domain of the crypto token '+project_name+'. Blacklist domains: livecoinwatch.com, coincodex.com, coinmooner.com, coinbase.com, coinlore.com, crypto.com, coinpaprika.com, coinlore.com, btcc.com. Return only domain name. Return only domain name without quotes etc. Or not found"),
+        SystemMessage(content="Analyse SERP and find the official domain of the crypto token "+project_name+". Blacklist domains: livecoinwatch.com, coincodex.com, coinmooner.com, coinbase.com, coinlore.com, crypto.com, coinpaprika.com, coinlore.com, btcc.com. Return only domain name. Return only domain name without quotes etc. Or not found"),
         HumanMessage(content=f" {serp} \n\n The official domain is: ")
     ]
     gpttitle = chat(messages)
@@ -95,9 +95,12 @@ def main():
         
         serp=""
         for result in organic_results:
+            #KeyError: 'snippet'
+            if "snippet" not in result:
+                result["snippet"] = ""
             serp += (str(result["position"]) +". " + result["link"]+" "+result["title"]+" "+result["snippet"])
         
-        domain=findOfficialDomain(serp)
+        domain=findOfficialDomain(serp,name_project)
         print(domain)
         save_scanned_contract(addr)
         # Check if a valid domain is found and save it to the original data

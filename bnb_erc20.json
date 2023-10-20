@@ -116,7 +116,10 @@
     },
     {
         "contract_address": "0x6021b112fc4e1d7f990b52b82b61374b7af9d863",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "palewin.com"
+        ]
     },
     {
         "contract_address": "0xe37dbf20a4fff3b88233e456355dc49b76b6fe19",
@@ -124,12 +127,18 @@
     },
     {
         "contract_address": "0xca861e289f04cb9c67fd6b87ca7eafa59192f164",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "unitymeta.finance"
+        ]
     },
     {
         "contract_address": "0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377",
         "sourceScanned": "processed",
-        "processedGpt": true
+        "processedGpt": true,
+        "web_domains": [
+            "mobox.io"
+        ]
     },
     {
         "contract_address": "0x98f39d0f8c67885071cc99c5af1d4cacbcc89b0c",
@@ -154,31 +163,52 @@
     },
     {
         "contract_address": "0xc8370b71329a6b716b867e875667c33488b4a44a",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "coinbrain.com"
+        ]
     },
     {
         "contract_address": "0x9e05284e24a77b80778baad319eed1ece519c85e",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "apespace.io"
+        ]
     },
     {
         "contract_address": "0x475bfaa1848591ae0e6ab69600f48d828f61a80e",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "everdome.io"
+        ]
     },
     {
         "contract_address": "0x552e74b9b28a5b6c8ae476d8e91198f073cf01ff",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dexhub.app"
+        ]
     },
     {
         "contract_address": "0xc1315db0aee1232e3f68396e62549cacda7016a8",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "lcrcoin.com"
+        ]
     },
     {
         "contract_address": "0x53bba8f1d143b8ab80653dc2c1c4ddd49b6c7d8d",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "opnsense.org"
+        ]
     },
     {
         "contract_address": "0x6ba5657bbff83cb579503847c6baa47295ef79a8",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nuritopia.io"
+        ]
     },
     {
         "contract_address": "0x0f1cbed8efa0e012adbccb1638d0ab0147d5ac00",
@@ -190,7 +220,10 @@
     },
     {
         "contract_address": "0x94a839bea7f22ad09d28c36dbf515663e87baa12",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "apespace.io"
+        ]
     },
     {
         "contract_address": "0xedadfc60402ec6466f317a6fbde66cc0c6eaec20",
@@ -198,7 +231,10 @@
     },
     {
         "contract_address": "0x07e551e31a793e20dc18494ff6b03095a8f8ee36",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "qmall.io"
+        ]
     },
     {
         "contract_address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
@@ -206,7 +242,10 @@
     },
     {
         "contract_address": "0x12f31b73d812c6bb0d735a218c086d44d5fe5f89",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "angle.money"
+        ]
     },
     {
         "contract_address": "0x48378891d6e459ca9a56b88b406e8f4eab2e39bf",
@@ -214,7 +253,10 @@
     },
     {
         "contract_address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ethereum.org"
+        ]
     },
     {
         "contract_address": "0xef979575703c7a9744f679fea3f7fdb9a65ba000",
@@ -234,7 +276,10 @@
     },
     {
         "contract_address": "0xab785054251db0fc44538f5deebe7507b748b692",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "jasanwellness.fit"
+        ]
     },
     {
         "contract_address": "0xd069599e718f963bd84502b49ba8f8657faf5b3a",
@@ -245,11 +290,17 @@
     },
     {
         "contract_address": "0x75ca521892de7f2ecfb070cab545c250d0ceb7e3",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.pvcmeta.com"
+        ]
     },
     {
         "contract_address": "0xe3233fdb23f1c27ab37bd66a19a1f1762fcf5f3f",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "elemon.io"
+        ]
     },
     {
         "contract_address": "0xf2b3b7d1a0dd8ebdc2564c8a08c67fac6fd97037",
