@@ -14,12 +14,18 @@
     },
     {
         "contract_address": "0x4258d2f9a19abe9e19bb129a5fa00234228314f3",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "relbitcoin.io"
+        ]
     },
     {
         "contract_address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
         "sourceScanned": "processed",
-        "processedGpt": true
+        "processedGpt": true,
+        "web_domains": [
+            "binance.com"
+        ]
     },
     {
         "contract_address": "0x02e8af9e99c6439ba33044b39c283a4ab24e327e",

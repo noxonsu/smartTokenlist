@@ -21,8 +21,8 @@ def findOfficialDomain(serp):
     
     chat = ChatOpenAI(temperature=0.5, model_name="gpt-3.5-turbo-0613")
     messages = [
-        SystemMessage(content="Analyse SERP and find the official domain of the crypto token '+project_name+'. Return only domain name. Return only domain name without quotes etc. Or not found"),
-        HumanMessage(content=f" {serp}")
+        SystemMessage(content="Analyse SERP and find the official domain of the crypto token '+project_name+'. Blacklist domains: livecoinwatch.com, coincodex.com, coinmooner.com, coinbase.com, coinlore.com, crypto.com, coinpaprika.com, coinlore.com, btcc.com. Return only domain name. Return only domain name without quotes etc. Or not found"),
+        HumanMessage(content=f" {serp} \n\n The official domain is: ")
     ]
     gpttitle = chat(messages)
     # Remove the quotation marks from the start and end of the generated title
@@ -52,6 +52,9 @@ def search_google(nameOfProject):
     params = {
         "engine": "google",
         "q": nameOfProject,
+        'gl': 'us',
+        'hl': 'en',
+        'num': 30,
         "api_key": SERPAPI_KEY,
     }
     search = GoogleSearch(params)
@@ -61,8 +64,9 @@ def search_google(nameOfProject):
 def load_scanned_contracts(filename='11scanned.txt'):
     if os.path.exists(filename):
         with open(filename, 'r') as file:
-            return set(file.read().splitlines())
+            return set(line.strip().lower() for line in file)
     return set()
+
 
 def save_scanned_contract(contract_address, filename='11scanned.txt'):
     with open(filename, 'a') as file:
@@ -73,23 +77,25 @@ def main():
     data, filter_contracts = load_and_filter_contracts()
     scanned_contracts = load_scanned_contracts()
     
-    filter_contracts = [contract for contract in filter_contracts if contract["contract_address"] not in scanned_contracts]
+    filter_contracts = [contract for contract in filter_contracts if contract["contract_address"].lower() not in scanned_contracts]
+    filter_contracts=filter_contracts[:3]
+    print("contracts to scan:")
+    print (len(filter_contracts))
 
-    print(len(filter_contracts))
     w3 = initialize_web3()
     abi = load_abi("erc20.abi")
     for entry in filter_contracts:
         addr = Web3.to_checksum_address(entry["contract_address"])
      
         contract = w3.eth.contract(address=addr, abi=abi)
-        name_project = "website " + contract.functions.symbol().call() + " " + contract.functions.name().call()+"  -pancakeswap.finance -tokenview.io -bscscan.com -t.me -youtube.com -facebook.com -github.com -beaconcha.in -abc.bi -medium.com -ethplorer.io -blockchair.com -site:etherscan.io -coinmarketcap.com -site:binance.com -site:coinmarcetcap.com "
+        name_project = " " + contract.functions.symbol().call() + " " + contract.functions.name().call()+"  -pancakeswap.finance -tokenview.io -bscscan.com -t.me -youtube.com -facebook.com -github.com -beaconcha.in -abc.bi -medium.com -ethplorer.io -blockchair.com -site:etherscan.io -coinmarketcap.com -site:binance.com -site:coinmarcetcap.com "
         print(name_project+"\n")
         organic_results = search_google(name_project)
         print(organic_results)
         
         serp=""
         for result in organic_results:
-            serp += (str(result["position"]) +". " + result["link"]+" "+result["title"]+" "+result["snippet"]+"\n\n")
+            serp += (str(result["position"]) +". " + result["link"]+" "+result["title"]+" "+result["snippet"])
         
         domain=findOfficialDomain(serp)
         print(domain)
