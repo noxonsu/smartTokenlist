@@ -314,7 +314,8 @@
         ],
         "p6": true,
         "myuser": 6003957640,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "p8": true
     },
     {
         "contract_address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
@@ -331,7 +332,8 @@
         ],
         "p6": true,
         "myuser": 6003957640,
-        "tgGroupJoined": "error: Can't send messages"
+        "tgGroupJoined": "error: Can't send messages",
+        "p8": true
     },
     {
         "contract_address": "0x48378891d6e459ca9a56b88b406e8f4eab2e39bf",
@@ -373,7 +375,8 @@
         ],
         "p6": true,
         "myuser": 6003957640,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "p8": true
     },
     {
         "contract_address": "0xd069599e718f963bd84502b49ba8f8657faf5b3a",
