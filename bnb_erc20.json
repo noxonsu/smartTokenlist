@@ -233,7 +233,9 @@
         "telegram_groups": [
             "dexhubapp"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xc1315db0aee1232e3f68396e62549cacda7016a8",
@@ -262,7 +264,9 @@
         "telegram_groups": [
             "nuritopiaworlds"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x0f1cbed8efa0e012adbccb1638d0ab0147d5ac00",
@@ -297,11 +301,13 @@
             "qmall.io"
         ],
         "telegram_groups": [
-            "qMall_Exchange",
+            -1001799963962,
             "QMALL_EU",
             "qmall_ch"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
@@ -316,7 +322,9 @@
         "telegram_groups": [
             "AngleAnnouncements"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x48378891d6e459ca9a56b88b406e8f4eab2e39bf",
@@ -354,9 +362,11 @@
             "jasanwellness.fit"
         ],
         "telegram_groups": [
-            "web3wellness"
+            -1001619567078
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xd069599e718f963bd84502b49ba8f8657faf5b3a",
@@ -381,9 +391,11 @@
             "elemon.io"
         ],
         "telegram_groups": [
-            "ElemonAnnouncement"
+            -1001330570733
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xf2b3b7d1a0dd8ebdc2564c8a08c67fac6fd97037",
@@ -408,7 +420,7 @@
             "avrora-token.com"
         ],
         "telegram_groups": [
-            "Avrora_ann",
+            -1001885527040,
             "avroralatino",
             "Avrora_official_chat",
             "Avrora_ENG_chat",
@@ -416,7 +428,9 @@
             "Money_investmentsbot",
             "Avrora_ann_ENG"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x93023f1d3525e273f291b6f76d2f5027a39bf302",
@@ -447,7 +461,9 @@
         "telegram_groups": [
             "babydogearmy"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x57bfcf7bb43a3cae0aab981e2585a9e32d069f29",
