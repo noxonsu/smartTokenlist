@@ -7,7 +7,7 @@ from langchain.schema import SystemMessage, HumanMessage
 #p8 - 8prepareProposal.py
 #p6 - 6prepareSummary.py
 def filter_sites_without_proposal(data):
-    return [(entry['web_domains'][0], entry['contract_address']) for entry in data if not entry.get('p8') and entry.get('p6') and entry.get('tgGroupJoined') and entry.get('web_domains')][:5]
+    return [(entry['web_domains'][0], entry['contract_address']) for entry in data if not entry.get('p8') and entry.get('p6') and entry.get('tgGroupJoined') and entry.get('web_domains')]
 
 
 def load_summary(contract_address):
@@ -81,6 +81,9 @@ def load_data_from_file(filename):
 def main():
     data = load_data_from_file("bnb_erc20.json")  # load data from file
     sites_without_proposal = filter_sites_without_proposal(data)
+    print(f"Found {len(sites_without_proposal)} sites without proposal")
+    
+    sites_without_proposal = sites_without_proposal[:3]
 
     if not sites_without_proposal:
         print("All sites processed")
