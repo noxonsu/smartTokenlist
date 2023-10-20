@@ -123,7 +123,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "palewin.com"
-        ]
+        ],
+        "telegram_groups": [
+            "palestine_win"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe37dbf20a4fff3b88233e456355dc49b76b6fe19",
@@ -134,7 +138,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "unitymeta.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "UnityMetatoken"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377",
@@ -170,21 +178,36 @@
         "sourceScanned": "processed",
         "web_domains": [
             "coinbrain.com"
-        ]
+        ],
+        "telegram_groups": [
+            "MoonBotio_bot",
+            "coinbraincomann"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9e05284e24a77b80778baad319eed1ece519c85e",
         "sourceScanned": "processed",
         "web_domains": [
             "apespace.io"
-        ]
+        ],
+        "telegram_groups": [
+            "ApeSpaceCommunity",
+            "MariusApeSpace"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x475bfaa1848591ae0e6ab69600f48d828f61a80e",
         "sourceScanned": "processed",
         "web_domains": [
             "everdome.io"
-        ]
+        ],
+        "telegram_groups": [
+            "everdome_io_news",
+            "everdome"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x552e74b9b28a5b6c8ae476d8e91198f073cf01ff",
@@ -227,7 +250,12 @@
         "sourceScanned": "processed",
         "web_domains": [
             "apespace.io"
-        ]
+        ],
+        "telegram_groups": [
+            "ApeSpaceCommunity",
+            "MariusApeSpace"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xedadfc60402ec6466f317a6fbde66cc0c6eaec20",
