@@ -66,7 +66,7 @@ def main():
     data, chats_to_subscribe = load_and_filter_chats()
 
     # Limit to processing only 6 groups
-    chats_to_subscribe = chats_to_subscribe[:6]
+    chats_to_subscribe = chats_to_subscribe[:1]
     TELEGRAM_SESSION_STRING = os.environ.get('TELEGRAM_SESSION_STRING')
     
     if TELEGRAM_SESSION_STRING is None:
@@ -91,15 +91,18 @@ def main():
             if SUBSCRIBE_TO_LINKED_CHAT:
                 linked_chat = chat.linked_chat
                 if linked_chat:
-                    subscribe_to_chat_with_retries(app, linked_chat.id, linked=True)
+                    chat = subscribe_to_chat_with_retries(app, linked_chat.id, linked=True)
                     entry["telegram_groups"][0] = linked_chat.id
                 else:
                     print('No linked chat')
             
-            if chat.permissions.can_send_messages is False:
+            
+
+            if chat and (not chat.permissions or not chat.permissions.can_send_messages):
                 print(f"Can't send messages to {chat_link}")
                 entry["tgGroupJoined"] = "error: Can't send messages"
                 continue
+
             # If successful, update the status
             entry["tgGroupJoined"] = "success"
             
