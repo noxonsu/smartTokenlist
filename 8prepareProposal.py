@@ -47,7 +47,6 @@ def generate_message(targetSummary):
     if gpttitle.content[-1] == '"':
         gpttitle.content = gpttitle.content[:-1]
     
-    gpttitle.content
     return gpttitle.content
 
 

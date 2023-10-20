@@ -14,3 +14,4 @@ for entry in data:
 # Save the modified data back to the file
 with open('bnb_erc20.json', 'w') as file:
     json.dump(data, file, indent=2)
+        
