@@ -44,6 +44,7 @@ def subscribe_to_chat_with_retries(app, chat_link, linked=False) -> types.Chat |
     try:
         print(f'Subscribing to {linked_str}{chat_link}')
         chat = app.join_chat(chat_link)
+        print(chat)
         print(f'Successfully subscribed to {linked_str}{chat.title}')
         
         # Write to chats_success.txt
