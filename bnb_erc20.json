@@ -397,14 +397,26 @@
         "sourceScanned": "processed",
         "web_domains": [
             "mydefipet.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xcfe90d9fcbee5b4fe05a1723c493483b08b1a77f",
         "sourceScanned": "processed",
         "web_domains": [
             "avrora-token.com"
-        ]
+        ],
+        "telegram_groups": [
+            "Avrora_ann",
+            "avroralatino",
+            "Avrora_official_chat",
+            "Avrora_ENG_chat",
+            "Avr_support",
+            "Money_investmentsbot",
+            "Avrora_ann_ENG"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x93023f1d3525e273f291b6f76d2f5027a39bf302",
@@ -431,14 +443,20 @@
         "sourceScanned": "processed",
         "web_domains": [
             "babydoge.com"
-        ]
+        ],
+        "telegram_groups": [
+            "babydogearmy"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x57bfcf7bb43a3cae0aab981e2585a9e32d069f29",
         "sourceScanned": "processed",
         "web_domains": [
             "rwamarket.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6a8cc171a671e0aa7f84a0a36d7c1285d3a224d2",
