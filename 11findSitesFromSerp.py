@@ -21,7 +21,7 @@ def findOfficialDomain(serp):
     
     chat = ChatOpenAI(temperature=0.5, model_name="gpt-3.5-turbo-0613")
     messages = [
-        SystemMessage(content="Analyse SERP and find the official domain of the crypto token '+project_name+'. Return only domain name. Only domain name without quotes etc. Or not found"),
+        SystemMessage(content="Analyse SERP and find the official domain of the crypto token '+project_name+'. Return only domain name. Return only domain name without quotes etc. Or not found"),
         HumanMessage(content=f" {serp}")
     ]
     gpttitle = chat(messages)
@@ -43,7 +43,11 @@ def initialize_web3():
 def load_abi(filename):
     with open(filename, "r") as abi_file:
         return json.load(abi_file)
-    
+
+def is_valid_domain(domain):
+    pattern = r'^(?:[a-z0-9](?:[a-z0-9-]{0,61}[a-z0-9])?\.)+[a-z0-9][a-z0-9-]{0,61}[a-z0-9]$'
+    return bool(re.match(pattern, domain))
+  
 def search_google(nameOfProject):
     params = {
         "engine": "google",
@@ -54,34 +58,51 @@ def search_google(nameOfProject):
     results = search.get_dict()
     return results["organic_results"]
 
+def load_scanned_contracts(filename='11scanned.txt'):
+    if os.path.exists(filename):
+        with open(filename, 'r') as file:
+            return set(file.read().splitlines())
+    return set()
+
+def save_scanned_contract(contract_address, filename='11scanned.txt'):
+    with open(filename, 'a') as file:
+        file.write(contract_address + '\n')
+
+
 def main():
     data, filter_contracts = load_and_filter_contracts()
-    filter_contracts = filter_contracts[:1]
+    scanned_contracts = load_scanned_contracts()
+    
+    filter_contracts = [contract for contract in filter_contracts if contract["contract_address"] not in scanned_contracts]
+
     print(len(filter_contracts))
     w3 = initialize_web3()
     abi = load_abi("erc20.abi")
     for entry in filter_contracts:
         addr = Web3.to_checksum_address(entry["contract_address"])
+     
         contract = w3.eth.contract(address=addr, abi=abi)
         name_project = "website " + contract.functions.symbol().call() + " " + contract.functions.name().call()+"  -pancakeswap.finance -tokenview.io -bscscan.com -t.me -youtube.com -facebook.com -github.com -beaconcha.in -abc.bi -medium.com -ethplorer.io -blockchair.com -site:etherscan.io -coinmarketcap.com -site:binance.com -site:coinmarcetcap.com "
-        print(name_project)
+        print(name_project+"\n")
         organic_results = search_google(name_project)
         print(organic_results)
+        
         serp=""
         for result in organic_results:
             serp += (str(result["position"]) +". " + result["link"]+" "+result["title"]+" "+result["snippet"]+"\n\n")
         
         domain=findOfficialDomain(serp)
         print(domain)
-
+        save_scanned_contract(addr)
         # Check if a valid domain is found and save it to the original data
-        if domain != "not found":
+        if domain != "not found" and is_valid_domain(domain):
             entry["web_domains"] = [domain]
             # Find the original entry in data and update it
             for orig_entry in data:
                 if orig_entry["contract_address"] == entry["contract_address"]:
                     orig_entry["web_domains"] = [domain]
                     break
+
 
     # Save the updated data back to the JSON file
     with open('bnb_erc20.json', 'w') as f:
