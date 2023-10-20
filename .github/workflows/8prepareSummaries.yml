@@ -1,8 +1,8 @@
-name: Search Bnb20 tokens and scan source for sites
+name: 6load summaries
 
 on:
   schedule:
-    - cron: '0 */2 * * *' # Run every who hours
+    - cron: '15 */3 * * *'  #run 
   workflow_dispatch:  # Allows manual run
 
 jobs:
@@ -17,17 +17,25 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: '3.x'
+    - name: Check if OPENAI_API_KEY is set
+      run: |
+        if [ -z "${{ secrets.OPENAI_API_KEY }}" ]; then
+          echo "OPENAI_API_KEY is not set!"
+          exit 1
+        else
+          echo "OPENAI_API_KEY is set!"
+        fi
 
     - name: Install dependencies
       run: |
-        pip install requests
+        pip install -r requirements.txt
 
-    - name: Run searchErcFromLastTransfers3.py
-      run: DUNE_API_KEY=${{ secrets.DUNE_API_KEY }} python searchErcFromLastTransfers3.py
- 
-    - name: Run ScanBnberc20.py
-      run: BNBSCAN_API_KEY=${{ secrets.BNBSCAN_API_KEY }} python ScanBnberc20.py
-      
+    - name: Run python script 8prepareProposal
+      env:
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        CHAINBASE_API: ${{ secrets.CHAINBASE_API }}
+      run: python 8prepareProposal.py
+
     - name: Commit and push changes
       run: |
         git config --global user.name "GitHub Action"

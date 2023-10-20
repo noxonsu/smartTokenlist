@@ -1,0 +1,37 @@
+name: Search Bnb20 tokens and scan source for sites
+
+on:
+  schedule:
+    - cron: '0 */2 * * *' # Run every who hours
+  workflow_dispatch:  # Allows manual run
+
+jobs:
+  run-scripts:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        pip install requests
+
+    - name: Run searchErcFromLastTransfers3.py
+      run: DUNE_API_KEY=${{ secrets.DUNE_API_KEY }} python searchErcFromLastTransfers3.py
+ 
+    - name: Run ScanBnberc20.py
+      run: BNBSCAN_API_KEY=${{ secrets.BNBSCAN_API_KEY }} python 4ScanBnberc20.py
+      
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "GitHub Action"
+        git config --global user.email "action@github.com"
+        git add -A
+        git diff --cached --exit-code || git commit -m "Automated update from GitHub Actions ($GITHUB_WORKFLOW)"
+        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git || echo "No changes to commit"
