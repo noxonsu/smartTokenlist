@@ -129,7 +129,8 @@
         ],
         "p6": true,
         "myuser": 6003957640,
-        "tgGroupJoined": "error: 'NoneType' object has no attribute 'can_send_messages'"
+        "tgGroupJoined": "error: 'NoneType' object has no attribute 'can_send_messages'",
+        "p8": true
     },
     {
         "contract_address": "0xe37dbf20a4fff3b88233e456355dc49b76b6fe19",
@@ -146,7 +147,8 @@
         ],
         "p6": true,
         "myuser": 6003957640,
-        "tgGroupJoined": "error: Can't send messages"
+        "tgGroupJoined": "error: Can't send messages",
+        "p8": true
     },
     {
         "contract_address": "0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377",
@@ -189,7 +191,8 @@
         ],
         "p6": true,
         "myuser": 6003957640,
-        "tgGroupJoined": "error: Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by \"channels.JoinChannel\")"
+        "tgGroupJoined": "error: Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by \"channels.JoinChannel\")",
+        "p8": true
     },
     {
         "contract_address": "0x9e05284e24a77b80778baad319eed1ece519c85e",
@@ -203,7 +206,8 @@
         ],
         "p6": true,
         "myuser": 6003957640,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "p8": true
     },
     {
         "contract_address": "0x475bfaa1848591ae0e6ab69600f48d828f61a80e",
@@ -217,7 +221,8 @@
         ],
         "p6": true,
         "myuser": 6003957640,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "p8": true
     },
     {
         "contract_address": "0x552e74b9b28a5b6c8ae476d8e91198f073cf01ff",
