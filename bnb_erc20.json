@@ -307,7 +307,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "angle.money"
-        ]
+        ],
+        "telegram_groups": [
+            "AngleAnnouncements"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x48378891d6e459ca9a56b88b406e8f4eab2e39bf",
@@ -318,7 +322,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "ethereum.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xef979575703c7a9744f679fea3f7fdb9a65ba000",
@@ -341,7 +347,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "jasanwellness.fit"
-        ]
+        ],
+        "telegram_groups": [
+            "web3wellness"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd069599e718f963bd84502b49ba8f8657faf5b3a",
@@ -355,14 +365,20 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.pvcmeta.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe3233fdb23f1c27ab37bd66a19a1f1762fcf5f3f",
         "sourceScanned": "processed",
         "web_domains": [
             "elemon.io"
-        ]
+        ],
+        "telegram_groups": [
+            "ElemonAnnouncement"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf2b3b7d1a0dd8ebdc2564c8a08c67fac6fd97037",
