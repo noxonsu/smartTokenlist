@@ -224,28 +224,40 @@
         "sourceScanned": "processed",
         "web_domains": [
             "dexhub.app"
-        ]
+        ],
+        "telegram_groups": [
+            "dexhubapp"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc1315db0aee1232e3f68396e62549cacda7016a8",
         "sourceScanned": "processed",
         "web_domains": [
             "lcrcoin.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x53bba8f1d143b8ab80653dc2c1c4ddd49b6c7d8d",
         "sourceScanned": "processed",
         "web_domains": [
             "opnsense.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6ba5657bbff83cb579503847c6baa47295ef79a8",
         "sourceScanned": "processed",
         "web_domains": [
             "nuritopia.io"
-        ]
+        ],
+        "telegram_groups": [
+            "nuritopiaworlds"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0f1cbed8efa0e012adbccb1638d0ab0147d5ac00",
@@ -278,7 +290,13 @@
         "sourceScanned": "processed",
         "web_domains": [
             "qmall.io"
-        ]
+        ],
+        "telegram_groups": [
+            "qMall_Exchange",
+            "QMALL_EU",
+            "qmall_ch"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
