@@ -697,7 +697,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "app.chaingpt.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2c44b726adf1963ca47af88b284c06f30380fc78",
@@ -15590,8 +15592,10 @@
             "TokensByGEN.com"
         ],
         "telegram_groups": [
+            "GenTokens",
             "GenTokens_GEN"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x97aee1d8962d4a7dbc7e001f6ac9f157f1d7f733",
@@ -15677,7 +15681,8 @@
         ],
         "telegram_groups": [
             "goldminingChat"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6fa5c3e1d07be60c4e8725c524548e27553c4917",
