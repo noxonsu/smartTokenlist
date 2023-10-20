@@ -15041,11 +15041,11 @@
             "blocksound.io"
         ],
         "telegram_groups": [
-            "blocksound_en",
+            "PedroH_Blockchain",
             "Diegodaniel_BlockChain",
             "Ingrid_Andrielle",
+            "blocksound_en",
             "italo_blockchain",
-            "PedroH_Blockchain",
             "BlockSound_EN"
         ],
         "p6": true,
@@ -15924,13 +15924,14 @@
             "bullsprotocol.com"
         ],
         "telegram_groups": [
+            "Diegodaniel_BlockChain",
+            "Ingrid_Andrielle",
             "blocksound_en",
+            "PedroH_Blockchain",
             "italo_blockchain",
-            "blocksound_en",
-            "italo_blockchain",
-            "italo_blockchain",
-            "italo_blockchain"
-        ]
+            "BlockSound_EN"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xcb16394e9927ce6f11d07acb029667e038e30e3c",
