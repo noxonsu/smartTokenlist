@@ -86,16 +86,23 @@ def main():
     for entry in chats_to_subscribe:
         chat_link = entry["telegram_groups"][0]
         try:
+            entry["myuser"] = me.id
             chat = subscribe_to_chat_with_retries(app, chat_link)
             if SUBSCRIBE_TO_LINKED_CHAT:
                 linked_chat = chat.linked_chat
                 if linked_chat:
                     subscribe_to_chat_with_retries(app, linked_chat.id, linked=True)
+                    entry["telegram_groups"][0] = linked_chat.id
                 else:
                     print('No linked chat')
+            
+            if chat.permissions.can_send_messages is False:
+                print(f"Can't send messages to {chat_link}")
+                entry["tgGroupJoined"] = "error: Can't send messages"
+                continue
             # If successful, update the status
             entry["tgGroupJoined"] = "success"
-            entry["myuser"] = me.id
+            
         except errors.UsernameInvalid:
             print(f"Can't find {chat_link}")
             entry["tgGroupJoined"] = "error: Can't find chat"

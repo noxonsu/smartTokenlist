@@ -7,7 +7,7 @@ from langchain.schema import SystemMessage, HumanMessage
 #p8 - 8prepareProposal.py
 #p6 - 6prepareSummary.py
 def filter_sites_without_proposal(data):
-    return [(entry['web_domains'][0], entry['contract_address']) for entry in data if not entry.get('p8') and entry.get('p6') and entry.get('web_domains')][:5]
+    return [(entry['web_domains'][0], entry['contract_address']) for entry in data if not entry.get('p8') and entry.get('p6') and entry.get('tgGroupJoined') and entry.get('web_domains')][:5]
 
 
 def load_summary(contract_address):

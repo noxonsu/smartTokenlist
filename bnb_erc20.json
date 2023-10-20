@@ -24,7 +24,8 @@
         "p6": true,
         "p8": true,
         "tgGroupJoined": "success",
-        "myuser": 6003957640
+        "myuser": 6003957640,
+        "tgProposalSent": "error: Telegram says: [400 CHAT_ADMIN_REQUIRED] - The method requires chat admin privileges (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
@@ -14892,7 +14893,8 @@
         "p6": true,
         "p8": true,
         "tgGroupJoined": "success",
-        "myuser": 6003957640
+        "myuser": 6003957640,
+        "tgProposalSent": "error: Telegram says: [403 CHAT_WRITE_FORBIDDEN] - You don't have rights to send messages in this chat (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0x28d9a0cf0469c2fb242af61f9a5cdb2d2550a0cd",
@@ -14921,7 +14923,8 @@
         "p6": true,
         "p8": true,
         "tgGroupJoined": "success",
-        "myuser": 6003957640
+        "myuser": 6003957640,
+        "tgProposalSent": "error: Telegram says: [403 CHAT_WRITE_FORBIDDEN] - You don't have rights to send messages in this chat (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0x12d6d95e46dc90def4bc1b3f684e3970d7c9da3e",
@@ -15085,7 +15088,8 @@
         "p6": true,
         "p8": true,
         "tgGroupJoined": "success",
-        "myuser": 6003957640
+        "myuser": 6003957640,
+        "tgProposalSent": "error: Telegram says: [403 CHAT_WRITE_FORBIDDEN] - You don't have rights to send messages in this chat (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0xd3462c5c15f90d41eb920888f9080ac64488d16b",
@@ -15348,7 +15352,8 @@
         "p6": true,
         "p8": true,
         "tgGroupJoined": "success",
-        "myuser": 6003957640
+        "myuser": 6003957640,
+        "tgProposalSent": "1318"
     },
     {
         "contract_address": "0x1ac025ffec8c00425b410bc16acf10a4f6e06ff9",
