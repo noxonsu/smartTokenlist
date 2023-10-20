@@ -64,9 +64,10 @@ def subscribe_to_chat_with_retries(app, chat_link, linked=False) -> types.Chat |
 
 def main():
     data, chats_to_subscribe = load_and_filter_chats()
+    print(f"Found {len(chats_to_subscribe)} chats to subscribe to")
 
     # Limit to processing only 6 groups
-    chats_to_subscribe = chats_to_subscribe[:1]
+    chats_to_subscribe = chats_to_subscribe[:5]
     TELEGRAM_SESSION_STRING = os.environ.get('TELEGRAM_SESSION_STRING')
     
     if TELEGRAM_SESSION_STRING is None:

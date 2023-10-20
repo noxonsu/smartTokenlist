@@ -59,6 +59,7 @@ def process_sites(data, sites_without_summary):
             targetSummary = "Failed to extract content for site {site}"
         else:
             try:
+                
                 extracted_content = create_extraction_chain(schema=schema, llm=llm).run(splits[0].page_content)
                 combined_content = [f"{item.get('news_article_title', '')} - {item.get('news_article_summary', '')}\n\n" for item in extracted_content]
                 targetSummary = ' '.join(combined_content)
@@ -87,7 +88,7 @@ def main():
     data = load_data_from_file("bnb_erc20.json")
     sites_without_summary = filter_sites_without_summary(data)
     print(f"Found {len(sites_without_summary)} sites without summary")
-    sites_without_summary = sites_without_summary[:5]
+    sites_without_summary = sites_without_summary[:4]
     if not sites_without_summary:
         print("All sites processed")
     else:
