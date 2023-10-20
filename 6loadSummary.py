@@ -52,31 +52,36 @@ def process_sites(data, sites_without_summary):
     llm = ChatOpenAI(temperature=0, model="gpt-3.5-turbo-0613")
 
     for site, contract in sites_without_summary:
-        docs_transformed, telegram_links = extract_content(site)
-        splitter = RecursiveCharacterTextSplitter.from_tiktoken_encoder(chunk_size=2000, chunk_overlap=0)
-        splits = splitter.split_documents(docs_transformed)
-        if not splits or splits[0].page_content == "":
-            targetSummary = "Failed to extract content for site {site}"
-        else:
-            try:
-                
-                extracted_content = create_extraction_chain(schema=schema, llm=llm).run(splits[0].page_content)
-                combined_content = [f"{item.get('news_article_title', '')} - {item.get('news_article_summary', '')}\n\n" for item in extracted_content]
-                targetSummary = ' '.join(combined_content)
-            except json.JSONDecodeError as e:
-                targetSummary = "Failed to extract content due to JSON decoding error"
+        try:
+            docs_transformed, telegram_links = extract_content(site)
+            splitter = RecursiveCharacterTextSplitter.from_tiktoken_encoder(chunk_size=2000, chunk_overlap=0)
+            splits = splitter.split_documents(docs_transformed)
+            if not splits or splits[0].page_content == "":
+                targetSummary = f"Failed to extract content for site {site}"
+            else:
+                try:
+                    extracted_content = create_extraction_chain(schema=schema, llm=llm).run(splits[0].page_content)
+                    combined_content = [f"{item.get('news_article_title', '')} - {item.get('news_article_summary', '')}\n\n" for item in extracted_content]
+                    targetSummary = ' '.join(combined_content)
+                except json.JSONDecodeError as e:
+                    targetSummary = f"Failed to extract content due to JSON decoding error: {str(e)}"
+                except Exception as e:
+                    targetSummary = f"Unexpected error during extraction: {str(e)}"
 
-        print(f"Summary for {contract} {site}: {targetSummary}")
-        save_summary_and_proposal(contract, targetSummary)
+            print(f"Summary for {contract} {site}: {targetSummary}")
+            save_summary_and_proposal(contract, targetSummary)
 
-        # Update the data list to mark the site as processed
-        for entry in data:
-            if entry.get('web_domains') and entry['web_domains'][0] == site:
-                # Combine existing and new telegram groups, ensuring no duplicates
-                existing_telegram_groups = set(entry.get('telegram_groups', []))
-                telegram_links = list(existing_telegram_groups.union(telegram_links))
-                entry['telegram_groups'] = telegram_links
-                entry['p6'] = True
+            # Update the data list to mark the site as processed
+            for entry in data:
+                if entry.get('web_domains') and entry['web_domains'][0] == site:
+                    # Combine existing and new telegram groups, ensuring no duplicates
+                    existing_telegram_groups = set(entry.get('telegram_groups', []))
+                    telegram_links = list(existing_telegram_groups.union(telegram_links))
+                    entry['telegram_groups'] = telegram_links
+                    entry['p6'] = True
+        except Exception as e:
+            print(f"Failed to process site {site} due to error: {str(e)}")
+
 
 
 def save_updated_data(filename, data):
