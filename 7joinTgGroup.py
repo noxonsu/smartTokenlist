@@ -109,7 +109,7 @@ def main():
             
             sleep(4)
             lastm = "https://t.me/"+entry["telegram_groups"][0]+" joined "+entry["contract_address"]+"\n"+entry['web_domains'][0]+"\n\n"
-            for message in app.get_chat_history(-1001904539844, limit=5):
+            for message in app.get_chat_history(entry["telegram_groups"][0], limit=5):
                 lastm = lastm + message.text + "\n"
             app.send_message(-1001904539844, text=lastm) # logs
 

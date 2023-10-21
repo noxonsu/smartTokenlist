@@ -87,6 +87,11 @@ def main():
                 message_link = send_proposal(app, chat_link, entry["contract_address"])
                 # Update status after sending proposal
                 entry["tgProposalSent"] = message_link
+                sleep(4)
+                lastm = "https://t.me/"+chat_link+"/"+message_link+" sent "+entry["contract_address"]+"\n"+entry['web_domains'][0]+"\n\n"
+                for message in app.get_chat_history(chat_link, limit=5):
+                    lastm = lastm + message.text + "\n"
+                app.send_message(-1001904539844, text=lastm) # logs
             except Exception as e:
                 print(f"Error processing {chat_link}: {e}")
                 entry["tgProposalSent"] = f"error: {e}"
