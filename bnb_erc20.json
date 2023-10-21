@@ -647,7 +647,8 @@
         ],
         "p6": true,
         "myuser": 6003957640,
-        "tgGroupJoined": "error: Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by \"channels.JoinChannel\")"
+        "tgGroupJoined": "error: Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by \"channels.JoinChannel\")",
+        "p8": true
     },
     {
         "contract_address": "0x1c50013e69efb68575773ba4a48013f1a4a1fb6c",
@@ -660,7 +661,8 @@
         ],
         "p6": true,
         "myuser": 6003957640,
-        "tgGroupJoined": "error: Username not occupied"
+        "tgGroupJoined": "error: Username not occupied",
+        "p8": true
     },
     {
         "contract_address": "0xf568b26a80b20282967a714d5243baa1a603feff",
@@ -15613,7 +15615,8 @@
         ],
         "p6": true,
         "myuser": 6003957640,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "p8": true
     },
     {
         "contract_address": "0x97aee1d8962d4a7dbc7e001f6ac9f157f1d7f733",
