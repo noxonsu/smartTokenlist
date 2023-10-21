@@ -15997,7 +15997,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "martik.site"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9d9d3a68ea91bc50807f0c29c28d62ba60c0f703",
@@ -16028,7 +16030,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "renproject.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xff44967f2e4ebe0b8c5b6812f25e1b9bcec70b34",
