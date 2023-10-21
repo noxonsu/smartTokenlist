@@ -16408,7 +16408,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "elephant.money"
-        ]
+        ],
+        "telegram_groups": [
+            "elephant_money"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6b471d5ab9f3d92a600e7d49a0b135bf6d4c6a5b",
