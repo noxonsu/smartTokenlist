@@ -16414,7 +16414,9 @@
         "telegram_groups": [
             "elephant_money"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x6b471d5ab9f3d92a600e7d49a0b135bf6d4c6a5b",
@@ -16529,7 +16531,9 @@
             "blocxchain",
             "Zaheed1995"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by \"channels.JoinChannel\")"
     },
     {
         "contract_address": "0x650b940a1033b8a1b1873f78730fcfc73ec11f1f",

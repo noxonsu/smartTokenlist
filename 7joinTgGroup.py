@@ -82,8 +82,8 @@ def main():
     app.start()
     me = app.get_me()
     print(f'Bot started as {me.username}')
-    print('Bot successfully started!')
-
+    print('Bot successfully started!')  
+    
     for entry in chats_to_subscribe:
         chat_link = entry["telegram_groups"][0]
         try:
@@ -107,6 +107,12 @@ def main():
             # If successful, update the status
             entry["tgGroupJoined"] = "success"
             
+            sleep(4)
+            lastm = "https://t.me/"+entry["telegram_groups"][0]+" joined "+entry["contract_address"]+"\n"+entry['web_domains'][0]+"\n\n"
+            for message in app.get_chat_history(-1001904539844, limit=5):
+                lastm = lastm + message.text + "\n"
+            app.send_message(-1001904539844, text=lastm) # logs
+
         except errors.UsernameInvalid:
             print(f"Can't find {chat_link}")
             entry["tgGroupJoined"] = "error: Can't find chat"
