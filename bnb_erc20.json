@@ -16872,7 +16872,8 @@
         ],
         "telegram_groups": [
             "SymbolicNetwork"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbd3b42beae6a837465688336d8f63d675ddf6ee6",
@@ -16891,7 +16892,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.epochconverter.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc9308bcf5fa46d728422753d2d5afbc5cdb66b03",
