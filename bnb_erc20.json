@@ -16523,8 +16523,13 @@
             "blocxchain.org"
         ],
         "telegram_groups": [
-            "blocxchain"
-        ]
+            "RealJacX",
+            "vitaliyblocxchain",
+            "Hagecx",
+            "blocxchain",
+            "Zaheed1995"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x650b940a1033b8a1b1873f78730fcfc73ec11f1f",
@@ -16587,7 +16592,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "buidler.dev"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2ff90b0c29ededdaf11c847925ea4a17789e88c3",
