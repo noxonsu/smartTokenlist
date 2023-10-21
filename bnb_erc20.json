@@ -16250,7 +16250,9 @@
         "web_domains": [
             "martik.site",
             "martik.site"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x915f5863b3e48aa7cc7d7bf99086079c296f4123",
