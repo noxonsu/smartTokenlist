@@ -645,7 +645,9 @@
             "Forex_Sh4rk",
             "DRIPtoken_Chat"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by \"channels.JoinChannel\")"
     },
     {
         "contract_address": "0x1c50013e69efb68575773ba4a48013f1a4a1fb6c",
@@ -656,7 +658,9 @@
         "telegram_groups": [
             "upittech"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0xf568b26a80b20282967a714d5243baa1a603feff",
@@ -15604,10 +15608,12 @@
             "TokensByGEN.com"
         ],
         "telegram_groups": [
-            "GenTokens",
+            "gentokens_channel",
             "GenTokens_GEN"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x97aee1d8962d4a7dbc7e001f6ac9f157f1d7f733",
@@ -15692,9 +15698,11 @@
             "goldminings.net"
         ],
         "telegram_groups": [
-            "goldminingChat"
+            "goldminingsChannel"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x6fa5c3e1d07be60c4e8725c524548e27553c4917",
@@ -15940,7 +15948,9 @@
             "italo_blockchain",
             "BlockSound_EN"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by \"channels.JoinChannel\")"
     },
     {
         "contract_address": "0xcb16394e9927ce6f11d07acb029667e038e30e3c",
