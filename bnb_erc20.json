@@ -734,7 +734,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "constitutiondao.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4c4b040c0083991d3d2a1b04e41710d898dc11a3",
@@ -745,7 +747,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "mmint.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x72ff5742319ef07061836f5c924ac6d72c919080",
@@ -763,7 +767,8 @@
         ],
         "web_domains": [
             "luffytoken.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x76d9a7c6164de3bc4d95ef0c011d3d22eb8b4d60",
@@ -774,7 +779,13 @@
         "sourceScanned": "processed",
         "web_domains": [
             "woj.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "wojtokengroup",
+            "addstickers",
+            "wojtoken"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x83f41c98d028842ccc8060b4ec7738df3eb9a2e6",
