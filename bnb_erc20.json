@@ -1627,7 +1627,9 @@
         "web_domains": [
             "richquack.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x2ab0e9e4ee70fff1fb9d67031e44f6410170d00e",
@@ -1645,7 +1647,9 @@
         "telegram_groups": [
             "Certicosign"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x207b298f4e08facb491f13e8335969e12c912d3e",
@@ -17466,7 +17470,9 @@
         "telegram_groups": [
             "SolarTechnoOfficial"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x49dacde1fb015905048a8a471da8bceb2059385d",
@@ -17477,7 +17483,9 @@
         "telegram_groups": [
             "fatsale"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: 'Username not found: fatsale'"
     },
     {
         "contract_address": "0x50bafba28852d2816eb62da5c3137dc9b05858e8",
@@ -17725,7 +17733,9 @@
             "GenTokens",
             "GenTokens_GEN"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x69a3bc126395d0cdbec8b3562a9e35e77e6fd8a9",
