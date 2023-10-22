@@ -1942,7 +1942,9 @@
             "CryptoGPTorg",
             "LayerAI_org"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x0b15ddf19d47e6a86a56148fb4afffc6929bcb89",
@@ -1953,7 +1955,9 @@
         "telegram_groups": [
             "ImpossibleFinance"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x6117941ff44c287c7bec70432c270bbe29c29e5f",
@@ -1981,7 +1985,9 @@
             "coinzixtoken",
             "coinzix_en"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xe36508c5e597d0e1ebee5671ba15750bd80391c7",
@@ -2038,7 +2044,9 @@
         "telegram_groups": [
             "kabosuchat"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x18c42c8b23c84b5ec1ccce7d424477d8720fc08c",
@@ -18001,7 +18009,9 @@
         "telegram_groups": [
             "PepeHalloweenChat"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x8509a0b15531c6e8887f2ea633d949b2482ee8d2",
