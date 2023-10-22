@@ -997,7 +997,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "makerdao.com"
-        ]
+        ],
+        "telegram_groups": [
+            "makerdaoOfficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf5592f1a8f32be149541fcba55c2374becdef364",
@@ -1011,7 +1015,9 @@
         ],
         "web_domains": [
             "bitcoinbridge.network"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf700d4c708c2be1463e355f337603183d20e0808",
@@ -1022,14 +1028,22 @@
         "sourceScanned": "processed",
         "web_domains": [
             "vemate.com"
-        ]
+        ],
+        "telegram_groups": [
+            "vemateofficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xcebef3df1f3c5bfd90fde603e71f31a53b11944d",
         "sourceScanned": "processed",
         "web_domains": [
             "litlabgames.com"
-        ]
+        ],
+        "telegram_groups": [
+            "LitLabGames"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xcc6eb347bbe570bf9b4788e2fafe0fa6c8719d97",
