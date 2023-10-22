@@ -1218,9 +1218,11 @@
             "polygon.technology"
         ],
         "telegram_groups": [
-            "polygonofficial"
+            "PolygonAnnouncements"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x9643401e06e23d7dbf40c233100b61b8fbe7fe31",
@@ -1231,7 +1233,9 @@
         "web_domains": [
             "bluemoonmining.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xb9d35811424600fa9e8cd62a0471fbd025131cb8",
@@ -1250,7 +1254,9 @@
         "telegram_groups": [
             "SOLOGENICxGoSOLO"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x5b1f874d0b0c5ee17a495cbb70ab8bf64107a3bd",
@@ -1325,7 +1331,9 @@
         "web_domains": [
             "metabot.finance"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xaca21f21896a26012b74d5d5a1aa5dc4ba46d557",
@@ -1342,9 +1350,11 @@
             "babyswap.finance"
         ],
         "telegram_groups": [
-            "baby_swap"
+            "BabySwap"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x9f8a75436e7e808f3fb348182e0ea42d2dd467cd",
