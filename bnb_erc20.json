@@ -997,7 +997,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "makerdao.com"
-        ]
+        ],
+        "telegram_groups": [
+            "makerdaoOfficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf5592f1a8f32be149541fcba55c2374becdef364",
@@ -1011,7 +1015,9 @@
         ],
         "web_domains": [
             "bitcoinbridge.network"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf700d4c708c2be1463e355f337603183d20e0808",
@@ -1022,14 +1028,22 @@
         "sourceScanned": "processed",
         "web_domains": [
             "vemate.com"
-        ]
+        ],
+        "telegram_groups": [
+            "vemateofficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xcebef3df1f3c5bfd90fde603e71f31a53b11944d",
         "sourceScanned": "processed",
         "web_domains": [
             "litlabgames.com"
-        ]
+        ],
+        "telegram_groups": [
+            "LitLabGames"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xcc6eb347bbe570bf9b4788e2fafe0fa6c8719d97",
@@ -1048,7 +1062,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "abracadabra.money"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x1017bf419a76b699a0329346a7590436a2bbdcb3",
@@ -1063,21 +1079,29 @@
         "sourceScanned": "processed",
         "web_domains": [
             "cardano.org"
-        ]
+        ],
+        "telegram_groups": [
+            "CardanoAnnouncements"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb0d502e938ed5f4df2e681fe6e419ff29631d62b",
         "sourceScanned": "processed",
         "web_domains": [
             "stargate.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9aa83081aa06af7208dcc7a4cb72c94d057d2cda",
         "sourceScanned": "processed",
         "web_domains": [
             "tether.to"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7755645bcdff1a9a3eed0e7dfd54dec386e09001",
@@ -7551,7 +7575,8 @@
             "tether.to"
         ],
         "telegram_groups": [],
-        "processedGpt": true
+        "processedGpt": true,
+        "p6": true
     },
     {
         "contract_address": "0xb8ac4f69d132704cd1226a7fd01fc2666ef41945",
