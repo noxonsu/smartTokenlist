@@ -1796,10 +1796,12 @@
             "ninneko.com"
         ],
         "telegram_groups": [
-            "ninnekoann",
+            "ninnekogame",
             "ninnekogame"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x80702018c28988dfe3c900561745f7af1b9fdb37",
@@ -1829,7 +1831,9 @@
             "studentcoinvietnam",
             "studentcoinitaly"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xbdeae1ca48894a1759a8374d63925f21f2ee2639",
@@ -1909,7 +1913,9 @@
             "bscpannouncements",
             "ethpadannouncements"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xdd2955ed5572344c36684c50e7c2498a3b967c45",
@@ -17869,7 +17875,9 @@
             "heritynetwork_ro",
             "heritynetwork"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xb695be19d2e3bda1e0d23e80e3e67fc9bdc89c7f",
@@ -17932,7 +17940,9 @@
         "telegram_groups": [
             "fatsale"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: 'Username not found: fatsale'"
     },
     {
         "contract_address": "0xdcc68062c89f7ca35c5f24fc8381395516581641",
