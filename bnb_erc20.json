@@ -1937,14 +1937,23 @@
         "sourceScanned": "processed",
         "web_domains": [
             "layerai.org"
-        ]
+        ],
+        "telegram_groups": [
+            "CryptoGPTorg",
+            "LayerAI_org"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0b15ddf19d47e6a86a56148fb4afffc6929bcb89",
         "sourceScanned": "processed",
         "web_domains": [
             "impossible.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "ImpossibleFinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6117941ff44c287c7bec70432c270bbe29c29e5f",
@@ -1967,14 +1976,21 @@
         "sourceScanned": "processed",
         "web_domains": [
             "coinzix.com"
-        ]
+        ],
+        "telegram_groups": [
+            "coinzixtoken",
+            "coinzix_en"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe36508c5e597d0e1ebee5671ba15750bd80391c7",
         "sourceScanned": "processed",
         "web_domains": [
             "thedividendtracker.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x94db03752342bc9b5bbf89e3bf0132494f0cb2b3",
