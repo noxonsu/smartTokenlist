@@ -1559,15 +1559,24 @@
     },
     {
         "contract_address": "0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "filecoin.io"
+        ]
     },
     {
         "contract_address": "0xed8711feff83b446158259981fd97645856e82a5",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mobox.io"
+        ]
     },
     {
         "contract_address": "0x2d060ef4d6bf7f9e5edde373ab735513c0e4f944",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "aitechsystems.com"
+        ]
     },
     {
         "contract_address": "0x62fdf8567e67ebe4066435d570256eae0bfa5170",
@@ -1582,6 +1591,9 @@
         "sourceScanned": "processed",
         "telegram_groups": [
             "RichQuackBsc"
+        ],
+        "web_domains": [
+            "richquack.com"
         ]
     },
     {
