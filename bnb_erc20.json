@@ -1169,7 +1169,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "elephant.money"
-        ]
+        ],
+        "telegram_groups": [
+            "elephant_money"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x23b891e5c62e0955ae2bd185990103928ab817b3",
@@ -1192,7 +1196,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "polygon.technology"
-        ]
+        ],
+        "telegram_groups": [
+            "polygonofficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9643401e06e23d7dbf40c233100b61b8fbe7fe31",
@@ -1202,7 +1210,8 @@
         ],
         "web_domains": [
             "bluemoonmining.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb9d35811424600fa9e8cd62a0471fbd025131cb8",
@@ -1217,7 +1226,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.sologenic.com"
-        ]
+        ],
+        "telegram_groups": [
+            "SOLOGENICxGoSOLO"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5b1f874d0b0c5ee17a495cbb70ab8bf64107a3bd",
