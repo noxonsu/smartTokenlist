@@ -89,7 +89,7 @@ def main():
         try:
             entry["myuser"] = me.id
             chat = subscribe_to_chat_with_retries(app, chat_link)
-            if SUBSCRIBE_TO_LINKED_CHAT:
+            if SUBSCRIBE_TO_LINKED_CHAT and chat.type != "ChatType.SUPERGROUP":
                 linked_chat = chat.linked_chat
                 if linked_chat:
                     chat = subscribe_to_chat_with_retries(app, linked_chat.id, linked=True)
