@@ -17445,8 +17445,10 @@
             "gentokens.com"
         ],
         "telegram_groups": [
+            "GenTokens",
             "GenTokens_GEN"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x69a3bc126395d0cdbec8b3562a9e35e77e6fd8a9",
