@@ -19,11 +19,12 @@ def load_and_filter_contracts():
 
 def findOfficialDomain(serp,project_name):
     
-    chat = ChatOpenAI(temperature=0.5, model_name="gpt-3.5-turbo-0613")
+    chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-0613")
     messages = [
         SystemMessage(content="Analyse SERP and find the official domain of the crypto token "+project_name+". Blacklist domains: livecoinwatch.com, coincodex.com, coinmooner.com, binance.com, coinbase.com, coinlore.com, crypto.com, coinpaprika.com, coinlore.com, btcc.com. Return only domain name. Return only domain name without quotes etc. Or not found"),
         HumanMessage(content=f" {serp} \n\n The official domain is: ")
     ]
+    
     gpttitle = chat(messages)
     # Remove the quotation marks from the start and end of the generated title
     if gpttitle.content[0] == '"':
@@ -54,7 +55,7 @@ def search_google(nameOfProject):
         "q": nameOfProject,
         'gl': 'us',
         'hl': 'en',
-        'num': 30,
+        'num': 20,
         "api_key": SERPAPI_KEY,
     }
     search = GoogleSearch(params)
@@ -105,6 +106,7 @@ def main():
             serp += (str(result["position"]) +". " + result["link"]+" "+result["title"]+" "+result["snippet"])
         
         domain=findOfficialDomain(serp,name_project)
+        print("domain: ")
         print(domain)
         save_scanned_contract(addr)
         # Check if a valid domain is found and save it to the original data

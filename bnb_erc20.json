@@ -994,7 +994,10 @@
     },
     {
         "contract_address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "makerdao.com"
+        ]
     },
     {
         "contract_address": "0xf5592f1a8f32be149541fcba55c2374becdef364",
@@ -1005,6 +1008,9 @@
         "sourceScanned": "processed",
         "emails": [
             "goncalo.sa@consensys.net"
+        ],
+        "web_domains": [
+            "bitcoinbridge.network"
         ]
     },
     {
@@ -1013,11 +1019,17 @@
     },
     {
         "contract_address": "0xe615c5e7219f9801c3b75bc76e45a4dab3c38e51",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "vemate.com"
+        ]
     },
     {
         "contract_address": "0xcebef3df1f3c5bfd90fde603e71f31a53b11944d",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "litlabgames.com"
+        ]
     },
     {
         "contract_address": "0xcc6eb347bbe570bf9b4788e2fafe0fa6c8719d97",
