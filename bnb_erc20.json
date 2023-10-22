@@ -1120,28 +1120,49 @@
         "sourceScanned": "processed",
         "web_domains": [
             "gt-protocol.io"
-        ]
+        ],
+        "telegram_groups": [
+            "GTProtocolNews",
+            "GTProtocol",
+            "Global_Traders_Protocol_Channel"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x352cb5e19b12fc216548a2677bd0fce83bae434b",
         "sourceScanned": "processed",
         "web_domains": [
             "www.bittorrent.com"
-        ]
+        ],
+        "telegram_groups": [
+            "BTTBitTorrentAR",
+            "BTTBitTorrentJP",
+            "BTTBitTorrentCN",
+            "BTTBitTorrentIR",
+            "BTTBitTorrent",
+            "BTTBitTorrentKR",
+            "BTTBitTorrentRU",
+            "BTTBitTorrentES"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8d25dcb15d8c2b8cf2b6337f9307f93e016d8e89",
         "sourceScanned": "processed",
         "web_domains": [
             "daodao.zone"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x04f46cdfe8dd348e41902eef1aff19ace1661f4c",
         "sourceScanned": "processed",
         "web_domains": [
             "ftc.gov"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xdd325c38b12903b727d16961e61333f4871a70e0",
