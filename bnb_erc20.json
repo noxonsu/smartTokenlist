@@ -2083,15 +2083,24 @@
     },
     {
         "contract_address": "0xa177bdd433aea3702beb46652adcfc64248d4ab3",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.probinex.com"
+        ]
     },
     {
         "contract_address": "0x30812dbe89b40b5b7ac1bc9134e82ebbc0b57995",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pancakeswap.finance"
+        ]
     },
     {
         "contract_address": "0xcfcf1705589710f2ce5ce47adece090ba16d1c80",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bitcoin.org"
+        ]
     },
     {
         "contract_address": "0x922722e9ef614ec9a3e94b78496e92abfbb5a624",
@@ -2103,7 +2112,10 @@
     },
     {
         "contract_address": "0xd23811058eb6e7967d9a00dc3886e75610c4abba",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "knightswap.financial"
+        ]
     },
     {
         "contract_address": "0xd71710c21fba293eb12e0ca079fe37f50ad17d42",
