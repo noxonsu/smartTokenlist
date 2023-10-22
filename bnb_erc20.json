@@ -158,7 +158,11 @@
         "processedGpt": true,
         "web_domains": [
             "mobox.io"
-        ]
+        ],
+        "telegram_groups": [
+            "mobox_io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x98f39d0f8c67885071cc99c5af1d4cacbcc89b0c",
@@ -1502,7 +1506,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "getprimal.com"
-        ]
+        ],
+        "telegram_groups": [
+            "Enterprimal"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc0ff5eab9909e78b7391539fa43e9688dd0b9e31",
@@ -1539,7 +1547,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "safepal.com"
-        ]
+        ],
+        "telegram_groups": [
+            "SafePal_official"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7ddee176f665cd201f93eede625770e2fd911990",
@@ -1562,14 +1574,22 @@
         "sourceScanned": "processed",
         "web_domains": [
             "filecoin.io"
-        ]
+        ],
+        "telegram_groups": [
+            "filecoinio"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xed8711feff83b446158259981fd97645856e82a5",
         "sourceScanned": "processed",
         "web_domains": [
             "mobox.io"
-        ]
+        ],
+        "telegram_groups": [
+            "mobox_io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2d060ef4d6bf7f9e5edde373ab735513c0e4f944",
