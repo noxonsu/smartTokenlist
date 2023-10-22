@@ -832,7 +832,10 @@
     },
     {
         "contract_address": "0xf99f2aec50adfde23cc67ab6240168b0a59f1d30",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.ivyivyivy.com"
+        ]
     },
     {
         "contract_address": "0x9d7f8907e9f3a46f72fe5e58ee29388d9ef8396c",
@@ -840,15 +843,24 @@
     },
     {
         "contract_address": "0xc07beee9fe5ab11b81cc1fc8af257c9accf98ca7",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sonicpad.io"
+        ]
     },
     {
         "contract_address": "0xce7de646e7208a4ef112cb6ed5038fa6cc6b12e3",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tron.network"
+        ]
     },
     {
         "contract_address": "0x85eac5ac2f758618dfa09bdbe0cf174e7d574d5b",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tron.network"
+        ]
     },
     {
         "contract_address": "0xdcd103bc6d14829c39afc9c10c9c373ce385d2c5",
@@ -856,17 +868,26 @@
     },
     {
         "contract_address": "0x12dae26ffc1c608dc6fcb1c4a1c4abc409bf92cd",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cryptex.finance"
+        ]
     },
     {
         "contract_address": "0x9029d86aa59b4680b40f4f42505d5f8f880d2ac5",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "co2dao.org"
+        ]
     },
     {
         "contract_address": "0xe1e4b89a66aea2d3fb7cba72a46a11404f708e76",
         "sourceScanned": "processed",
         "telegram_groups": [
             "PEACEINU_BSC"
+        ],
+        "web_domains": [
+            "worldpeacecoin.io"
         ]
     },
     {
