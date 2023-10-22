@@ -2179,7 +2179,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "wodeswap.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x175facdd947c995ad547f6ad952d26826758a4da",
@@ -2206,14 +2208,18 @@
         "sourceScanned": "processed",
         "web_domains": [
             "sysmex.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x83d3c2d1a55687498df6800c5f173ec6a7556089",
         "sourceScanned": "processed",
         "web_domains": [
             "beatsbydre.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2ac8f3ccada64981a2ee4552319c1364be9101e6",
