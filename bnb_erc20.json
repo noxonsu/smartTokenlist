@@ -1748,7 +1748,11 @@
         "web_domains": [
             "solartechno.io"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "telegram_groups": [
+            "SolarTechnoOfficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0b47a1573c9cf604619a56024ed275064b1f0217",
@@ -4457,7 +4461,9 @@
         ],
         "processedGpt": true,
         "tgGroupJoined": "success",
-        "tgProposalSent": "success"
+        "tgProposalSent": "success",
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x68306de72d3cad418279a0d2411c1197d34dd17f",
@@ -6324,7 +6330,9 @@
         ],
         "processedGpt": true,
         "tgGroupJoined": "success",
-        "tgProposalSent": "error: No proposal text found for contract address: 0xc2273b0b9ba4398240daa7a4e53d3a13937dd8fb"
+        "tgProposalSent": "error: No proposal text found for contract address: 0xc2273b0b9ba4398240daa7a4e53d3a13937dd8fb",
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x8d295bc1caeebbe489ba6e44e3bfacf4808ed61a",
@@ -7553,7 +7561,9 @@
         ],
         "processedGpt": true,
         "tgGroupJoined": "success",
-        "tgProposalSent": "error: No proposal text found for contract address: 0x7fd8d15df136b677740dea057fd5c269579cba87"
+        "tgProposalSent": "error: No proposal text found for contract address: 0x7fd8d15df136b677740dea057fd5c269579cba87",
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x56c6ed3229cacb2aa6b7e7e6d8e60769fe51d972",
@@ -8923,7 +8933,8 @@
             "fatsale"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "p6": true
     },
     {
         "contract_address": "0xc70636a779118e57e1c6fdafdd1f919fae912d2f",
@@ -16426,7 +16437,8 @@
         ],
         "p6": true,
         "myuser": 6003957640,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "p8": true
     },
     {
         "contract_address": "0x6b471d5ab9f3d92a600e7d49a0b135bf6d4c6a5b",
@@ -16543,7 +16555,8 @@
         ],
         "p6": true,
         "myuser": 6003957640,
-        "tgGroupJoined": "error: Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by \"channels.JoinChannel\")"
+        "tgGroupJoined": "error: Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by \"channels.JoinChannel\")",
+        "p8": true
     },
     {
         "contract_address": "0x650b940a1033b8a1b1873f78730fcfc73ec11f1f",
@@ -16718,6 +16731,509 @@
     },
     {
         "contract_address": "0xef90fb9a8226fda3ba81161afee16ce7f2680736",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x83b27de2fca046fa63a11c7ce7743de33ec58822",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x0de91a6ae597886ddc315374b71fdcc3cd64b7cf",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xe2744da4f43aa79779558554ceff01a53317c4e9",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x9a7d12c0c16f04cd322cec138725c72e2ed01173",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x0b50d5efa22f962fec07de1266f80eecdba60cc8",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x7fde103ed16fcce1d55282a89329ce51e1625267",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x93012ad2367e247ca4275270cfc0bbcbf098abbc",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x027a9d301fb747cd972cfb29a63f3bda551dfc5c",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xe549cac0f6ed29efb48daacbaf7282c5efef86b7",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x3f8a14f5a3ee2f4a3ed61ccf5eea3c9535c090c8",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xeb69408694f10c5fc04a925f4eb26c96b78a23f5",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "BoxDAO_BSC"
+        ]
+    },
+    {
+        "contract_address": "0xb82c3631081ee5d1339e77b46c3e476f1fdd4a19",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xedabe93ed84ea795f06e5e7207289fed29762544",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xcdda3b3f97bb39e203bd296010e68130e55dc943",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x6ada4ea209e944248c614ac0aa28f155474c7ac3",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x3712727d0afc10215f38e99a5ac6d6d844c912b5",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x141288c1d2c9eba9ccf00dc56dccc71cbbebda8d",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xe4a44b3525415f6fae1edfefa16c962ce979a1df",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xcecedb6166ae7f27bc187c8cd8ffb5b108a5fd7d",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x6f9a57afdab2c14a4679508cf4d994061650ff31",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xc91b3b4bc5e91cf5b655b5dcfa5f84b43a3665df",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x557233e794d1a5fbcc6d26dca49147379ea5073c",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x833f307ac507d47309fd8cdd1f835bef8d702a93",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xcf8a25fc1d6dcc0637e05521397ad5cef4813286",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x7164712f2136a03d25859408eb15aaf36640b71a",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x0f2ec923dc685e79c40737437f3e15c2fdb9a90c",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xe7c9c6bc87b86f9e5b57072f907ee6460b593924",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x392bfbdd5f29e96fdc65eaff923a33dede394364",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x9cf08fb2bf8e0ea4fa182b8df73cccab19c1df67",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xe12723848699adcbff466050ce17cbf5c6156720",
+        "sourceScanned": "processed",
+        "emails": [
+            "test@test.tt"
+        ]
+    },
+    {
+        "contract_address": "0xe93cdb60cdd38ab8ae284364981934933f3b93a7",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xdef22d10887b6c0616f53d9dd773e1947d182413",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x89d465b0e967cac0b8f53843d7a5f5570b771ee0",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x78156bee96804bf2ef8dc309a09709eb8d73e159",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "symbolicnetwork.net"
+        ],
+        "telegram_groups": [
+            "SymbolicNetwork"
+        ],
+        "p6": true
+    },
+    {
+        "contract_address": "0xbd3b42beae6a837465688336d8f63d675ddf6ee6",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xf602b0aa992ee5067de3c3b93576b7ad0c3b5622",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x52419258e3fa44deac7e670eadd4c892b480a805",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xa9b038285f43cd6fe9e16b4c80b4b9bccd3c161b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.epochconverter.com"
+        ],
+        "telegram_groups": [],
+        "p6": true
+    },
+    {
+        "contract_address": "0xc9308bcf5fa46d728422753d2d5afbc5cdb66b03",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xe55d97a97ae6a17706ee281486e98a84095d8aaf",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x1a43d17db8b446b649de9ac5f1176784b0e4ed15",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x374fe834fa8c72875bf49ab015026a31e20e1763",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x4c01d9e71ee89284df77f704803c534f311b32d8",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xf2aedb4a619580761b5a008128d007e5660954bf",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x2de4a726889f79edfb7dc481f3bde172c14770c8",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x79630e4fb51aa6df048453c6ae2cddc98316d42f",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x02bdf640fba368e7ba5c6429ccaf251512273865",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xe7f72bc0252ca7b16dbb72eeee1afcdb2429f2dd",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x1d2c03a6240ffe5bc2edb8c408e3effb3353282f",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xfa9b362d019d81fcec53ca88b091e9f0cfd90d29",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x98d4c60deea495c94d50d162d331278658a6b681",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x5851ca8d980ecb041cf4202cf43a7cbfa593dcd0",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xa9cd6d25fa81389238a0212592a824fe93e2b246",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.babylong6688.com"
+        ],
+        "telegram_groups": [
+            "babylong6688"
+        ],
+        "p6": true
+    },
+    {
+        "contract_address": "0xa9a29d151dc0392c11ee1922a8f3e51c430fb74a",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x85e91da0b1fd9f41ecba4734f55ca55d8a32fcc8",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xdae6c2a48bfaa66b43815c5548b10800919c993e",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x02da7035bed00ae645516bdb0c282a7fd4aa7442",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x7752e1fa9f3a2e860856458517008558deb989e3",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x9d531136db7b66ee4638de436599aa4101d88888",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xb78c02c9180d824c7ca999933c7c8641d27cb1c3",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x7b99b16ed1854ab506d027b652afacef946aa32b",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x9d0211c1b1a217a574cb55b0e9c367e56debeae0",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xf3a2c2bda86e0146496d4444f8f7f8c29e7a596a",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x3bdcef9e656fd9d03ea98605946b4fbf362c342b",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x89d763e8532d256a3e3e60c1c218ac71e71cf664",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x7e54cc5dc42e9e21be689b8af104f983f54882c1",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x19857937848c02afbde8b526610f0f2f89e9960d",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x4e7b8c0ea629a2bcd9437fe7386aa9d3bd7f2074",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x8a88b911b2cd48dcd9ef89dc5144612a8a70e18b",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xeac639f6336e263dde3ed571e00d1c128634ebb0",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xd5cfecef1bf2e03a07fcae94918431470e7bbd02",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x9f266bc1d747b124a29090cadeefedd3e02d0b71",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xf4c851b1cc075d010b3febc2d1efc25dbb66bcfc",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x988c11625472340b7b36ff1534893780e0d8d841",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x157c77764cec402422903d1f2ae816d066463ae6",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x93d64380210d7448f079b7452a0d055d72d28258",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x4108846ebaa371f9a566163f5e2f861bb0f53bc2",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xac4d2f229a3499f7e4e90a5932758a6829d69cff",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x7b099edc196de9504a9f7bb0c3ec2aca26e7237e",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x1b1b6e5efb54ffb97a9f18e0ba337c8823b869a5",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x3881bb77366a7a5de6c7917a62793a1ea9520e19",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x095956b142431eb9cf88b99f392540b91acbf4ad",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x454039095de3295713d156c4fc67701b617f6cb8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "solartechno.io"
+        ],
+        "telegram_groups": [
+            "SolarTechnoOfficial"
+        ],
+        "p6": true
+    },
+    {
+        "contract_address": "0x49dacde1fb015905048a8a471da8bceb2059385d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fatsale.finance"
+        ],
+        "telegram_groups": [
+            "fatsale"
+        ],
+        "p6": true
+    },
+    {
+        "contract_address": "0x50bafba28852d2816eb62da5c3137dc9b05858e8",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x0091371eaef2da68c8dd77975358c91e8570640f",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xeda3866f07566d9379a91a07f8d62e19c03183e0",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x6f1d9456ea6dc8ae87c53f4ee95201880ab45e89",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xe64e30276c2f826febd3784958d6da7b55dfbad3",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xc594bc7cb43d70fc472ac363e008a695f515e49e",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x3f614d3f934c2a418d1c59852ec9fc57df0f1fe7",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xa7bd657c5838472ddf85ff0797a2e6fce8fd4833",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xf7844cb890f4c339c497aeab599abdc3c874b67a",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x3190afb6bfada4ff688dce86ab608e6e6f8d18a7",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xb6040a9f294477ddadf5543a24e5463b8f2423ae",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xaeb31161f4b511c4c007af34a7e25cb5de6c0193",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xc2feca00ee31b292c40a8fb47e917b4926637973",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x401745f8f07d3ec9524754a79fe9213f9d13ef50",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x031c8e38a721228144cee309d36a27a5fccb6104",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x59132ea5d72bb45146d50fb6af358357fdb5a267",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x578300cc8db63f871643307d553e485982e4f2c1",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x39687eeeb4e9b7174165944932f5eb61debce4ad",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xea265c66992d359c0f86ba55b271483634134320",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x568c1a69b783bdf0b9c303f4596aa6910eec10c6",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x0dd2447c20b701e15b8242874b028b89be486f4e",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x95a6412bc33137e6793532b1a5578dc56baba47e",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x9720ca160bbd4e7f3dd4bb3f8bd4227ca0342e63",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x99bf9cc0154655c5e913b752984a92ad391afe32",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x770e0e19fbc8e46e3e98123f67124cc1d87dfe42",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x9ef27012693b6840da18dc08b8f25da4f7836032",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xa045e37a0d1dd3a45fefb8803d22457abc0a728a",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x7bd6fabd64813c48545c9c0e312a0099d9be2540",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xb25583e5e2db32b7fcbffe3f5e8e305c36157e54",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x374e03bfeaded217d34ee48cdf5c92df87202c16",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x379357c669384c11c56e037398b4532a8ef1e79b",
         "sourceScanned": "processed"
     }
 ]
