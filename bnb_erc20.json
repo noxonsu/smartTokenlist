@@ -1852,7 +1852,10 @@
     },
     {
         "contract_address": "0x965f527d9159dce6288a2219db51fc6eef120dd1",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "biswap.org"
+        ]
     },
     {
         "contract_address": "0xc1d31db22afa8b8c9368836f99850477288bdde1",
@@ -1864,7 +1867,10 @@
     },
     {
         "contract_address": "0x8db1d28ee0d822367af8d220c0dc7cb6fe9dc442",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ethpad.network"
+        ]
     },
     {
         "contract_address": "0xdd2955ed5572344c36684c50e7c2498a3b967c45",
