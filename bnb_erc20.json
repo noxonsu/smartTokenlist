@@ -1385,7 +1385,9 @@
         "telegram_groups": [
             "birdkillx"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x523a03b5ae8960d4ee234c555e44dc4cc673b4df",
@@ -1419,7 +1421,9 @@
         "telegram_groups": [
             "ariva_arv"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xdcf0929aa20077c7ff96da0cd91ab5183c29abdd",
@@ -2034,7 +2038,9 @@
         "telegram_groups": [
             "SolarTechnoOfficial"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x0b47a1573c9cf604619a56024ed275064b1f0217",
@@ -17166,9 +17172,11 @@
             "symbolicnetwork.net"
         ],
         "telegram_groups": [
-            "SymbolicNetwork"
+            "Symbolic_Network"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xbd3b42beae6a837465688336d8f63d675ddf6ee6",
@@ -17256,7 +17264,9 @@
         "telegram_groups": [
             "babylong6688"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xa9a29d151dc0392c11ee1922a8f3e51c430fb74a",
