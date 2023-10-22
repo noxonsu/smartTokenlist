@@ -1045,7 +1045,10 @@
     },
     {
         "contract_address": "0xfe19f0b51438fd612f6fd59c1dbb3ea319f433ba",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "abracadabra.money"
+        ]
     },
     {
         "contract_address": "0x1017bf419a76b699a0329346a7590436a2bbdcb3",
@@ -1057,19 +1060,31 @@
     },
     {
         "contract_address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cardano.org"
+        ]
     },
     {
         "contract_address": "0xb0d502e938ed5f4df2e681fe6e419ff29631d62b",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "stargate.finance"
+        ]
     },
     {
         "contract_address": "0x9aa83081aa06af7208dcc7a4cb72c94d057d2cda",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tether.to"
+        ]
     },
     {
         "contract_address": "0x7755645bcdff1a9a3eed0e7dfd54dec386e09001",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "gt-protocol.io"
+        ]
     },
     {
         "contract_address": "0x352cb5e19b12fc216548a2677bd0fce83bae434b",
