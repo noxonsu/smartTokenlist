@@ -1193,7 +1193,10 @@
     },
     {
         "contract_address": "0xc2c28b58db223da89b567a0a98197fc17c115148",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.sologenic.com"
+        ]
     },
     {
         "contract_address": "0x5b1f874d0b0c5ee17a495cbb70ab8bf64107a3bd",
@@ -1209,7 +1212,10 @@
     },
     {
         "contract_address": "0xd59a27a2abc3caa136050fe1799a263394754bc4",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tether.to"
+        ]
     },
     {
         "contract_address": "0xb6307cc320c76101e87456e06557fa939accc71f",
