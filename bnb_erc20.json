@@ -897,24 +897,32 @@
         "sourceScanned": "processed",
         "web_domains": [
             "cryptex.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "cryptexfinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9029d86aa59b4680b40f4f42505d5f8f880d2ac5",
         "sourceScanned": "processed",
         "web_domains": [
             "co2dao.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe1e4b89a66aea2d3fb7cba72a46a11404f708e76",
         "sourceScanned": "processed",
         "telegram_groups": [
+            "joinchat",
             "PEACEINU_BSC"
         ],
         "web_domains": [
             "worldpeacecoin.io"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95",
