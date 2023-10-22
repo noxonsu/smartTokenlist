@@ -17525,8 +17525,10 @@
             "herity.io"
         ],
         "telegram_groups": [
+            "heritynetwork_ro",
             "heritynetwork"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb695be19d2e3bda1e0d23e80e3e67fc9bdc89c7f",
