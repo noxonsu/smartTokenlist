@@ -1794,14 +1794,42 @@
         "sourceScanned": "processed",
         "web_domains": [
             "ninneko.com"
-        ]
+        ],
+        "telegram_groups": [
+            "ninnekoann",
+            "ninnekogame"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x80702018c28988dfe3c900561745f7af1b9fdb37",
         "sourceScanned": "processed",
         "web_domains": [
             "www.studentcoin.org"
-        ]
+        ],
+        "telegram_groups": [
+            "studentcoinchina",
+            "studentcoinfrance",
+            "studentcoinromania",
+            "studentcoingermany",
+            "studentcoinrussia",
+            "studentcoinarabic",
+            "studentcoinspain",
+            "studentcoinnigeria",
+            "studentcoindutch",
+            "studentcoinportugal",
+            "studentcoinindonesia",
+            "studentcoingreece",
+            "studentcoinkorea",
+            "studentcointurkey",
+            "studentcoin",
+            "studentcoinpoland",
+            "studentcoinjapan",
+            "studentcoinindia",
+            "studentcoinvietnam",
+            "studentcoinitaly"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbdeae1ca48894a1759a8374d63925f21f2ee2639",
@@ -1824,7 +1852,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "fsl.fmrib.ox.ac.uk"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x5c6d9e2625bf84214c2f074f70cdf28cfbd1bf81",
@@ -1855,7 +1885,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "biswap.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc1d31db22afa8b8c9368836f99850477288bdde1",
