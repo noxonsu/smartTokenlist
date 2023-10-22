@@ -835,7 +835,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.ivyivyivy.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9d7f8907e9f3a46f72fe5e58ee29388d9ef8396c",
@@ -846,21 +848,45 @@
         "sourceScanned": "processed",
         "web_domains": [
             "sonicpad.io"
-        ]
+        ],
+        "telegram_groups": [
+            "SonicPad_Official"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xce7de646e7208a4ef112cb6ed5038fa6cc6b12e3",
         "sourceScanned": "processed",
         "web_domains": [
             "tron.network"
-        ]
+        ],
+        "telegram_groups": [
+            "tronnetworkAR",
+            "tronnetworkKR",
+            "tronnetworkEN",
+            "tronnetworkJP",
+            "tronnetworkCN03",
+            "tronnetworkES",
+            "tronnetworkRU"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x85eac5ac2f758618dfa09bdbe0cf174e7d574d5b",
         "sourceScanned": "processed",
         "web_domains": [
             "tron.network"
-        ]
+        ],
+        "telegram_groups": [
+            "tronnetworkAR",
+            "tronnetworkKR",
+            "tronnetworkEN",
+            "tronnetworkRU",
+            "tronnetworkJP",
+            "tronnetworkES",
+            "tronnetworkCN03"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdcd103bc6d14829c39afc9c10c9c373ce385d2c5",
