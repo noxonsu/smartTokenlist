@@ -2013,7 +2013,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "kardiachain.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x22168882276e5d5e1da694343b41dd7726eeb288",
@@ -2032,14 +2034,20 @@
         "sourceScanned": "processed",
         "web_domains": [
             "kabosutoken.io"
-        ]
+        ],
+        "telegram_groups": [
+            "kabosuchat"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x18c42c8b23c84b5ec1ccce7d424477d8720fc08c",
         "sourceScanned": "processed",
         "web_domains": [
             "kegproject.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7f9ad7a5854658d984924e868187b2135514fb88",
