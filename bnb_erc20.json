@@ -1499,7 +1499,10 @@
     },
     {
         "contract_address": "0xcb5327ed4649548e0d73e70b633cdfd99af6da87",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "getprimal.com"
+        ]
     },
     {
         "contract_address": "0xc0ff5eab9909e78b7391539fa43e9688dd0b9e31",
@@ -1533,7 +1536,10 @@
     },
     {
         "contract_address": "0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "safepal.com"
+        ]
     },
     {
         "contract_address": "0x7ddee176f665cd201f93eede625770e2fd911990",
