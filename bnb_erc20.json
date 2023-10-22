@@ -520,22 +520,22 @@
             "pancakeswap.finance"
         ],
         "telegram_groups": [
-            "pancakeswap_ru",
-            "PancakeSwapAnn",
-            "pancakeswap_DE",
-            "pancakeswapturkiye",
-            "pancakeswapFR",
             "pancakeswapJP",
-            "pancakeswap_Ita",
-            "pancakeswapIndonesia",
-            "pancakeswapES",
-            "pancakeswapGeorgia",
-            "pancakeswap_PH",
-            "pancakeswap_INDIA",
             "pancakeswapPortuguese",
             "pancakeswap_CN",
+            "pancakeswapGeorgia",
+            "pancakeswapturkiye",
+            "pancakeswap_ru",
+            "pancakeswap_Ita",
+            "pancakeswap_DE",
+            "pancakeswap_PH",
+            "pancakeswap",
+            "pancakeswapES",
             "PancakeSwapVN",
-            "pancakeswap"
+            "pancakeswapIndonesia",
+            "pancakeswapFR",
+            "pancakeswap_INDIA",
+            "PancakeSwapAnn"
         ],
         "p6": true,
         "myuser": 6003957640,
@@ -2086,21 +2086,46 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.probinex.com"
-        ]
+        ],
+        "telegram_groups": [
+            "enprobinex"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x30812dbe89b40b5b7ac1bc9134e82ebbc0b57995",
         "sourceScanned": "processed",
         "web_domains": [
             "pancakeswap.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "pancakeswap_DE",
+            "pancakeswap_PH",
+            "pancakeswap",
+            "pancakeswapES",
+            "pancakeswapJP",
+            "pancakeswap_CN",
+            "pancakeswapPortuguese",
+            "PancakeSwapVN",
+            "pancakeswapIndonesia",
+            "pancakeswapGeorgia",
+            "pancakeswapFR",
+            "pancakeswapturkiye",
+            "pancakeswap_ru",
+            "pancakeswap_INDIA",
+            "PancakeSwapAnn",
+            "pancakeswap_Ita"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xcfcf1705589710f2ce5ce47adece090ba16d1c80",
         "sourceScanned": "processed",
         "web_domains": [
             "bitcoin.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x922722e9ef614ec9a3e94b78496e92abfbb5a624",
@@ -2115,7 +2140,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "knightswap.financial"
-        ]
+        ],
+        "telegram_groups": [
+            "knightswap"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd71710c21fba293eb12e0ca079fe37f50ad17d42",
