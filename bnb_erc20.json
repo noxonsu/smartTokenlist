@@ -1748,7 +1748,11 @@
         "web_domains": [
             "solartechno.io"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "telegram_groups": [
+            "SolarTechnoOfficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0b47a1573c9cf604619a56024ed275064b1f0217",
@@ -4457,7 +4461,8 @@
         ],
         "processedGpt": true,
         "tgGroupJoined": "success",
-        "tgProposalSent": "success"
+        "tgProposalSent": "success",
+        "p6": true
     },
     {
         "contract_address": "0x68306de72d3cad418279a0d2411c1197d34dd17f",
@@ -6324,7 +6329,8 @@
         ],
         "processedGpt": true,
         "tgGroupJoined": "success",
-        "tgProposalSent": "error: No proposal text found for contract address: 0xc2273b0b9ba4398240daa7a4e53d3a13937dd8fb"
+        "tgProposalSent": "error: No proposal text found for contract address: 0xc2273b0b9ba4398240daa7a4e53d3a13937dd8fb",
+        "p6": true
     },
     {
         "contract_address": "0x8d295bc1caeebbe489ba6e44e3bfacf4808ed61a",
@@ -7553,7 +7559,8 @@
         ],
         "processedGpt": true,
         "tgGroupJoined": "success",
-        "tgProposalSent": "error: No proposal text found for contract address: 0x7fd8d15df136b677740dea057fd5c269579cba87"
+        "tgProposalSent": "error: No proposal text found for contract address: 0x7fd8d15df136b677740dea057fd5c269579cba87",
+        "p6": true
     },
     {
         "contract_address": "0x56c6ed3229cacb2aa6b7e7e6d8e60769fe51d972",
@@ -8923,7 +8930,8 @@
             "fatsale"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "p6": true
     },
     {
         "contract_address": "0xc70636a779118e57e1c6fdafdd1f919fae912d2f",
@@ -17084,7 +17092,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "solartechno.io"
-        ]
+        ],
+        "telegram_groups": [
+            "SolarTechnoOfficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x49dacde1fb015905048a8a471da8bceb2059385d",
@@ -17094,7 +17106,8 @@
         ],
         "telegram_groups": [
             "fatsale"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x50bafba28852d2816eb62da5c3137dc9b05858e8",
