@@ -1791,11 +1791,17 @@
     },
     {
         "contract_address": "0x6cad12b3618a3c7ef1feb6c91fdc3251f58c2a90",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ninneko.com"
+        ]
     },
     {
         "contract_address": "0x80702018c28988dfe3c900561745f7af1b9fdb37",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.studentcoin.org"
+        ]
     },
     {
         "contract_address": "0xbdeae1ca48894a1759a8374d63925f21f2ee2639",
@@ -1815,7 +1821,10 @@
     },
     {
         "contract_address": "0x8923881e8cae6684c2bb84d69ae88a9bbbec8d5a",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fsl.fmrib.ox.ac.uk"
+        ]
     },
     {
         "contract_address": "0x5c6d9e2625bf84214c2f074f70cdf28cfbd1bf81",
