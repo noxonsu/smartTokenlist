@@ -1638,7 +1638,10 @@
     },
     {
         "contract_address": "0x3e675b7937e57b9826c361ab7d9c721df6f066e4",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "certicosign.com"
+        ]
     },
     {
         "contract_address": "0x207b298f4e08facb491f13e8335969e12c912d3e",
@@ -1670,7 +1673,10 @@
     },
     {
         "contract_address": "0xc9c8050639c4cc0df159e0e47020d6e392191407",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "memostoken.com"
+        ]
     },
     {
         "contract_address": "0x332323104c338e0a92e19eaee60fc78f48375c97",
