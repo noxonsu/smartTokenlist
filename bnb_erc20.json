@@ -1994,7 +1994,10 @@
     },
     {
         "contract_address": "0x39ae8eefb05138f418bb27659c21632dc1ddab10",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "kardiachain.io"
+        ]
     },
     {
         "contract_address": "0x22168882276e5d5e1da694343b41dd7726eeb288",
@@ -2010,11 +2013,17 @@
     },
     {
         "contract_address": "0x8025baf3dedd5a7c976fc08987d4d7c1081afb66",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "kabosutoken.io"
+        ]
     },
     {
         "contract_address": "0x18c42c8b23c84b5ec1ccce7d424477d8720fc08c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "kegproject.com"
+        ]
     },
     {
         "contract_address": "0x7f9ad7a5854658d984924e868187b2135514fb88",
