@@ -4462,7 +4462,8 @@
         "processedGpt": true,
         "tgGroupJoined": "success",
         "tgProposalSent": "success",
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x68306de72d3cad418279a0d2411c1197d34dd17f",
@@ -6330,7 +6331,8 @@
         "processedGpt": true,
         "tgGroupJoined": "success",
         "tgProposalSent": "error: No proposal text found for contract address: 0xc2273b0b9ba4398240daa7a4e53d3a13937dd8fb",
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x8d295bc1caeebbe489ba6e44e3bfacf4808ed61a",
@@ -7560,7 +7562,8 @@
         "processedGpt": true,
         "tgGroupJoined": "success",
         "tgProposalSent": "error: No proposal text found for contract address: 0x7fd8d15df136b677740dea057fd5c269579cba87",
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x56c6ed3229cacb2aa6b7e7e6d8e60769fe51d972",
