@@ -1902,7 +1902,14 @@
         "sourceScanned": "processed",
         "web_domains": [
             "ethpad.network"
-        ]
+        ],
+        "telegram_groups": [
+            "bscpad",
+            "ethpad",
+            "bscpannouncements",
+            "ethpadannouncements"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdd2955ed5572344c36684c50e7c2498a3b967c45",
