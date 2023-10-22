@@ -2147,7 +2147,10 @@
     },
     {
         "contract_address": "0xa8d881fb86351b74ec99732214253305ae9f2422",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wodeswap.com"
+        ]
     },
     {
         "contract_address": "0x175facdd947c995ad547f6ad952d26826758a4da",
@@ -2171,11 +2174,17 @@
     },
     {
         "contract_address": "0xfffa7877af6ead598d9383ef2c73e3506221bd28",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sysmex.com"
+        ]
     },
     {
         "contract_address": "0x83d3c2d1a55687498df6800c5f173ec6a7556089",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "beatsbydre.com"
+        ]
     },
     {
         "contract_address": "0x2ac8f3ccada64981a2ee4552319c1364be9101e6",
