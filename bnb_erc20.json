@@ -1088,19 +1088,31 @@
     },
     {
         "contract_address": "0x352cb5e19b12fc216548a2677bd0fce83bae434b",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.bittorrent.com"
+        ]
     },
     {
         "contract_address": "0x8d25dcb15d8c2b8cf2b6337f9307f93e016d8e89",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "daodao.zone"
+        ]
     },
     {
         "contract_address": "0x04f46cdfe8dd348e41902eef1aff19ace1661f4c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ftc.gov"
+        ]
     },
     {
         "contract_address": "0xdd325c38b12903b727d16961e61333f4871a70e0",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "elephant.money"
+        ]
     },
     {
         "contract_address": "0x23b891e5c62e0955ae2bd185990103928ab817b3",
@@ -1120,13 +1132,19 @@
     },
     {
         "contract_address": "0xcc42724c6683b7e57334c4e856f4c9965ed682bd",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "polygon.technology"
+        ]
     },
     {
         "contract_address": "0x9643401e06e23d7dbf40c233100b61b8fbe7fe31",
         "sourceScanned": "processed",
         "telegram_groups": [
             "SuperBlueMoonbsc"
+        ],
+        "web_domains": [
+            "bluemoonmining.com"
         ]
     },
     {
