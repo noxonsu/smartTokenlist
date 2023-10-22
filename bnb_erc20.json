@@ -1356,11 +1356,17 @@
     },
     {
         "contract_address": "0x7e9ab560d37e62883e882474b096643cab234b65",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "token.ultimate-champions.com"
+        ]
     },
     {
         "contract_address": "0x8032ead78e421e62ca43a6bef9231f4b42ce2c01",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "birdkillx.com"
+        ]
     },
     {
         "contract_address": "0x523a03b5ae8960d4ee234c555e44dc4cc673b4df",
@@ -1387,7 +1393,10 @@
     },
     {
         "contract_address": "0x6679eb24f59dfe111864aec72b443d1da666b360",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ariva.world"
+        ]
     },
     {
         "contract_address": "0xdcf0929aa20077c7ff96da0cd91ab5183c29abdd",
