@@ -1287,7 +1287,10 @@
     },
     {
         "contract_address": "0x575e28d479e05b5c1b6be41283b8ff180c554308",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.golddesertcoin.com"
+        ]
     },
     {
         "contract_address": "0xffdb88c2cd07598c622f344487a41bfdb99959cd",
@@ -1302,6 +1305,9 @@
         "sourceScanned": "processed",
         "telegram_groups": [
             "METABOTCEN"
+        ],
+        "web_domains": [
+            "metabot.finance"
         ]
     },
     {
@@ -1314,7 +1320,10 @@
     },
     {
         "contract_address": "0x53e562b9b7e5e94b81f10e96ee70ad06df3d2657",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "babyswap.finance"
+        ]
     },
     {
         "contract_address": "0x9f8a75436e7e808f3fb348182e0ea42d2dd467cd",
