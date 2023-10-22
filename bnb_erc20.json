@@ -1641,7 +1641,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "certicosign.com"
-        ]
+        ],
+        "telegram_groups": [
+            "Certicosign"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x207b298f4e08facb491f13e8335969e12c912d3e",
@@ -1676,7 +1680,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "memostoken.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x332323104c338e0a92e19eaee60fc78f48375c97",
@@ -1687,14 +1693,18 @@
         "sourceScanned": "processed",
         "web_domains": [
             "ripple.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc489ddc0139e044d4c43c8921bd8ef9a6b288643",
         "sourceScanned": "processed",
         "web_domains": [
             "playbux.co"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x08a84af1368cd333073ac5dfb2254208e06b3a70",
