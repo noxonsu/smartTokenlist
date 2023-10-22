@@ -2,7 +2,7 @@ name: 11serp_Scan
 
 on:
   schedule:
-    - cron: '05 * * * *'  #run 
+    - cron: '03 * * * *'  #run 
   workflow_dispatch:  # Allows manual run
 
 jobs:
@@ -44,5 +44,20 @@ jobs:
         git add -A
         git diff --cached --exit-code || git commit -m "Automated update from GitHub Actions ($GITHUB_WORKFLOW)"
         git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git || echo "No changes to commit"
+
+    - name: Run python script 11
+      env:
+        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+      run: python 11findSitesFromSerp.py
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "GitHub Action"
+        git config --global user.email "action@github.com"
+        git add -A
+        git diff --cached --exit-code || git commit -m "Automated update from GitHub Actions ($GITHUB_WORKFLOW)"
+        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git || echo "No changes to commit"
+
 
 
