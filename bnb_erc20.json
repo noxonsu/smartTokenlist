@@ -2090,7 +2090,9 @@
         "telegram_groups": [
             "enprobinex"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x30812dbe89b40b5b7ac1bc9134e82ebbc0b57995",
@@ -2116,7 +2118,9 @@
             "PancakeSwapAnn",
             "pancakeswap_Ita"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xcfcf1705589710f2ce5ce47adece090ba16d1c80",
@@ -2144,7 +2148,9 @@
         "telegram_groups": [
             "knightswap"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xd71710c21fba293eb12e0ca079fe37f50ad17d42",
@@ -18137,7 +18143,9 @@
         "telegram_groups": [
             "dinarcoinChat"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x5ef0d628853f375c27d4bf20f8943d320d2cb52d",
@@ -18192,7 +18200,9 @@
         "telegram_groups": [
             "shiba1satellite"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x65cf811242e29b7a029e2ccdef02a3b6ce0e9666",
