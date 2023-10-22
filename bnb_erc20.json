@@ -768,7 +768,9 @@
         "web_domains": [
             "luffytoken.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: can only concatenate str (not \"NoneType\") to str"
     },
     {
         "contract_address": "0x76d9a7c6164de3bc4d95ef0c011d3d22eb8b4d60",
@@ -781,11 +783,13 @@
             "woj.finance"
         ],
         "telegram_groups": [
-            "wojtokengroup",
+            "wojtoken",
             "addstickers",
             "wojtoken"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: can only concatenate str (not \"NoneType\") to str"
     },
     {
         "contract_address": "0x83f41c98d028842ccc8060b4ec7738df3eb9a2e6",
@@ -800,7 +804,9 @@
         "web_domains": [
             "daseron.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x0b33542240d6fa323c796749f6d6869fdb7f13ca",
@@ -811,7 +817,9 @@
         "telegram_groups": [
             "ethermetachannel"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't find chat"
     },
     {
         "contract_address": "0xa520d4b8aab370fa435b96f6ab130ec72b7706c9",
@@ -852,7 +860,9 @@
         "telegram_groups": [
             "SonicPad_Official"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: can only concatenate str (not \"NoneType\") to str"
     },
     {
         "contract_address": "0xce7de646e7208a4ef112cb6ed5038fa6cc6b12e3",
