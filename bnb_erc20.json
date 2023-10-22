@@ -871,7 +871,7 @@
             "tron.network"
         ],
         "telegram_groups": [
-            "tronnetworkAR",
+            "tronnetworkArab",
             "tronnetworkKR",
             "tronnetworkEN",
             "tronnetworkJP",
@@ -879,7 +879,9 @@
             "tronnetworkES",
             "tronnetworkRU"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x85eac5ac2f758618dfa09bdbe0cf174e7d574d5b",
