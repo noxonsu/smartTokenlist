@@ -1259,7 +1259,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "tether.to"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb6307cc320c76101e87456e06557fa939accc71f",
@@ -1290,7 +1292,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.golddesertcoin.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xffdb88c2cd07598c622f344487a41bfdb99959cd",
@@ -1304,11 +1308,14 @@
         "contract_address": "0xde18e3526fa7bbdd123fb19f6df9b1846f25b1a1",
         "sourceScanned": "processed",
         "telegram_groups": [
+            "MetaBotGlobal",
+            "MetaBlockchainBot",
             "METABOTCEN"
         ],
         "web_domains": [
             "metabot.finance"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xaca21f21896a26012b74d5d5a1aa5dc4ba46d557",
@@ -1323,7 +1330,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "babyswap.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "baby_swap"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9f8a75436e7e808f3fb348182e0ea42d2dd467cd",
