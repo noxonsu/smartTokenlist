@@ -108,9 +108,15 @@ def main():
             entry["tgGroupJoined"] = "success"
             
             sleep(4)
-            lastm = "https://t.me/"+entry["telegram_groups"][0]+" joined "+entry["contract_address"]+"\n"+entry['web_domains'][0]+"\n\n"
+            telegram_group = entry["telegram_groups"][0] if entry["telegram_groups"][0] is not None else "Unknown"
+            contract_address = entry["contract_address"] if entry["contract_address"] is not None else "Unknown"
+            web_domain = entry['web_domains'][0] if entry['web_domains'][0] is not None else "Unknown"
+
+            lastm = "https://t.me/" + telegram_group + " joined " + contract_address + "\n" + web_domain + "\n\n"
+
             for message in app.get_chat_history(entry["telegram_groups"][0], limit=5):
-                lastm = lastm + message.text + "\n"
+                if message.text:
+                    lastm = lastm + message.text + "\n"
             app.send_message(-1001904539844, text=lastm) # logs
 
         except errors.UsernameInvalid:
