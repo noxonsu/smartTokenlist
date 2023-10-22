@@ -1596,7 +1596,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "aitechsystems.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x62fdf8567e67ebe4066435d570256eae0bfa5170",
@@ -1614,7 +1616,8 @@
         ],
         "web_domains": [
             "richquack.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2ab0e9e4ee70fff1fb9d67031e44f6410170d00e",
