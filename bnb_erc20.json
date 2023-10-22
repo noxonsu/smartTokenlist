@@ -799,14 +799,19 @@
         ],
         "web_domains": [
             "daseron.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0b33542240d6fa323c796749f6d6869fdb7f13ca",
         "sourceScanned": "processed",
         "web_domains": [
             "ethermeta.com"
-        ]
+        ],
+        "telegram_groups": [
+            "ethermetachannel"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa520d4b8aab370fa435b96f6ab130ec72b7706c9",
