@@ -1359,14 +1359,20 @@
         "sourceScanned": "processed",
         "web_domains": [
             "token.ultimate-champions.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8032ead78e421e62ca43a6bef9231f4b42ce2c01",
         "sourceScanned": "processed",
         "web_domains": [
             "birdkillx.com"
-        ]
+        ],
+        "telegram_groups": [
+            "birdkillx"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x523a03b5ae8960d4ee234c555e44dc4cc673b4df",
@@ -1396,7 +1402,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "ariva.world"
-        ]
+        ],
+        "telegram_groups": [
+            "ariva_arv"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdcf0929aa20077c7ff96da0cd91ab5183c29abdd",
@@ -17897,7 +17907,8 @@
         ],
         "telegram_groups": [
             "shiba1satellite"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x65cf811242e29b7a029e2ccdef02a3b6ce0e9666",
