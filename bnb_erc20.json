@@ -890,7 +890,7 @@
             "tron.network"
         ],
         "telegram_groups": [
-            "tronnetworkAR",
+            "tronnetworkArab",
             "tronnetworkKR",
             "tronnetworkEN",
             "tronnetworkRU",
@@ -898,7 +898,9 @@
             "tronnetworkES",
             "tronnetworkCN03"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xdcd103bc6d14829c39afc9c10c9c373ce385d2c5",
@@ -913,7 +915,9 @@
         "telegram_groups": [
             "cryptexfinance"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x9029d86aa59b4680b40f4f42505d5f8f880d2ac5",
@@ -934,7 +938,9 @@
         "web_domains": [
             "worldpeacecoin.io"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't find chat"
     },
     {
         "contract_address": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95",
@@ -1013,7 +1019,9 @@
         "telegram_groups": [
             "makerdaoOfficial"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xf5592f1a8f32be149541fcba55c2374becdef364",
@@ -1042,9 +1050,11 @@
             "vemate.com"
         ],
         "telegram_groups": [
-            "vemateofficial"
+            "vemateofficialannouncements"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xcebef3df1f3c5bfd90fde603e71f31a53b11944d",
