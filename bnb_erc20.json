@@ -1934,11 +1934,17 @@
     },
     {
         "contract_address": "0x776f9987d9deed90eed791cbd824d971fd5ccf09",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "layerai.org"
+        ]
     },
     {
         "contract_address": "0x0b15ddf19d47e6a86a56148fb4afffc6929bcb89",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "impossible.finance"
+        ]
     },
     {
         "contract_address": "0x6117941ff44c287c7bec70432c270bbe29c29e5f",
@@ -1958,11 +1964,17 @@
     },
     {
         "contract_address": "0x48077400faf11183c043feb5184a13ea628bb0db",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "coinzix.com"
+        ]
     },
     {
         "contract_address": "0xe36508c5e597d0e1ebee5671ba15750bd80391c7",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "thedividendtracker.com"
+        ]
     },
     {
         "contract_address": "0x94db03752342bc9b5bbf89e3bf0132494f0cb2b3",
