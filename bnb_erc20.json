@@ -1045,7 +1045,10 @@
     },
     {
         "contract_address": "0xfe19f0b51438fd612f6fd59c1dbb3ea319f433ba",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "abracadabra.money"
+        ]
     },
     {
         "contract_address": "0x1017bf419a76b699a0329346a7590436a2bbdcb3",
@@ -1057,35 +1060,59 @@
     },
     {
         "contract_address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cardano.org"
+        ]
     },
     {
         "contract_address": "0xb0d502e938ed5f4df2e681fe6e419ff29631d62b",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "stargate.finance"
+        ]
     },
     {
         "contract_address": "0x9aa83081aa06af7208dcc7a4cb72c94d057d2cda",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tether.to"
+        ]
     },
     {
         "contract_address": "0x7755645bcdff1a9a3eed0e7dfd54dec386e09001",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "gt-protocol.io"
+        ]
     },
     {
         "contract_address": "0x352cb5e19b12fc216548a2677bd0fce83bae434b",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.bittorrent.com"
+        ]
     },
     {
         "contract_address": "0x8d25dcb15d8c2b8cf2b6337f9307f93e016d8e89",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "daodao.zone"
+        ]
     },
     {
         "contract_address": "0x04f46cdfe8dd348e41902eef1aff19ace1661f4c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ftc.gov"
+        ]
     },
     {
         "contract_address": "0xdd325c38b12903b727d16961e61333f4871a70e0",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "elephant.money"
+        ]
     },
     {
         "contract_address": "0x23b891e5c62e0955ae2bd185990103928ab817b3",
@@ -1105,13 +1132,19 @@
     },
     {
         "contract_address": "0xcc42724c6683b7e57334c4e856f4c9965ed682bd",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "polygon.technology"
+        ]
     },
     {
         "contract_address": "0x9643401e06e23d7dbf40c233100b61b8fbe7fe31",
         "sourceScanned": "processed",
         "telegram_groups": [
             "SuperBlueMoonbsc"
+        ],
+        "web_domains": [
+            "bluemoonmining.com"
         ]
     },
     {
