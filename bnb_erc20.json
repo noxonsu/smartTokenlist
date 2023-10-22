@@ -17839,5 +17839,73 @@
     {
         "contract_address": "0x5ef0d628853f375c27d4bf20f8943d320d2cb52d",
         "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xf71d492c2108d3424eab40ba22d3deb06d747314",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x4e6f251d4bd1d8e016b5f6d689d466ca40675a62",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xda58e9fdc0545e96c6b1b5890778389a0ad0d5e6",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x27052c2f544e84dae25aaabda91ec1a249cf7ff6",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x2b63db76d2cc5ad2604b50c958762c1bd90776f0",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x83afa5f7403e826eb337cd1e4fa1a3f9226efa56",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x1528a3a16d22763cd57ca3700c903b389951ac87",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xedf3d192069429e1e78d6aa51c10f9a714598a6c",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x285c0eed32d55896f070244d008852b2e996951a",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x5c0842f248257f795b8033725a6918f1f4267255",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x4c85d1ed43d80bab07796a068be0d83b51cab3a7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "shiba-1satellite.online"
+        ],
+        "telegram_groups": [
+            "shiba1satellite"
+        ]
+    },
+    {
+        "contract_address": "0x65cf811242e29b7a029e2ccdef02a3b6ce0e9666",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x71658481e8df403d269d3b91c2f9733281f7128f",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x481020c4a658160d01f59ffc10f9e0e9bae260fa",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zkevmchain.io"
+        ],
+        "telegram_groups": [
+            "zkEVM_talk"
+        ]
     }
 ]
