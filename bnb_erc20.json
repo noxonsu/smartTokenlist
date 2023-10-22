@@ -1684,11 +1684,17 @@
     },
     {
         "contract_address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ripple.com"
+        ]
     },
     {
         "contract_address": "0xc489ddc0139e044d4c43c8921bd8ef9a6b288643",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "playbux.co"
+        ]
     },
     {
         "contract_address": "0x08a84af1368cd333073ac5dfb2254208e06b3a70",
