@@ -731,7 +731,10 @@
     },
     {
         "contract_address": "0x2c44b726adf1963ca47af88b284c06f30380fc78",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "constitutiondao.com"
+        ]
     },
     {
         "contract_address": "0x4c4b040c0083991d3d2a1b04e41710d898dc11a3",
@@ -739,7 +742,10 @@
     },
     {
         "contract_address": "0x9767c8e438aa18f550208e6d1fdf5f43541cc2c8",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mmint.io"
+        ]
     },
     {
         "contract_address": "0x72ff5742319ef07061836f5c924ac6d72c919080",
@@ -754,6 +760,9 @@
         "sourceScanned": "processed",
         "telegram_groups": [
             "luffycoin_global"
+        ],
+        "web_domains": [
+            "luffytoken.com"
         ]
     },
     {
@@ -762,7 +771,10 @@
     },
     {
         "contract_address": "0x55f96c7005d7c684a65ee653b07b5fe1507c56ab",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "woj.finance"
+        ]
     },
     {
         "contract_address": "0x83f41c98d028842ccc8060b4ec7738df3eb9a2e6",
@@ -773,11 +785,17 @@
         "sourceScanned": "processed",
         "telegram_groups": [
             "DaseronDSR"
+        ],
+        "web_domains": [
+            "daseron.com"
         ]
     },
     {
         "contract_address": "0x0b33542240d6fa323c796749f6d6869fdb7f13ca",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ethermeta.com"
+        ]
     },
     {
         "contract_address": "0xa520d4b8aab370fa435b96f6ab130ec72b7706c9",
