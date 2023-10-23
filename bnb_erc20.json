@@ -4883,7 +4883,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "btcx.io"
-        ]
+        ],
+        "telegram_groups": [
+            "btcx_token"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb3391ec205cc37834e9aaa85741203b4d51922b8",
@@ -4898,7 +4902,12 @@
         "sourceScanned": "processed",
         "web_domains": [
             "phoenix-inu.io"
-        ]
+        ],
+        "telegram_groups": [
+            "Phoenixinu1",
+            "Phoenixinu2"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbe96fcf736ad906b1821ef74a0e4e346c74e6221",
@@ -4920,28 +4929,40 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.katanainu.com"
-        ]
+        ],
+        "telegram_groups": [
+            "katanainu"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa719b8ab7ea7af0ddb4358719a34631bb79d15dc",
         "sourceScanned": "processed",
         "web_domains": [
             "ferrum.network"
-        ]
+        ],
+        "telegram_groups": [
+            "ferrum_network"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x95b0fffabd2817959ce410070600d77bce93d454",
         "sourceScanned": "processed",
         "web_domains": [
             "neurosmedical.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6ea059a29eccecee4e250414fe9f5ffb44fa4112",
         "sourceScanned": "processed",
         "web_domains": [
             "maxima.cash"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb56554296bc11afc98847914254a2beb82ba2bed",
