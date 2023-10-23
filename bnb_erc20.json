@@ -6017,7 +6017,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.bitt.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xecab5a7b6467cf265dd089ee238f288cb237ad6e",
@@ -6035,14 +6037,20 @@
         "sourceScanned": "processed",
         "web_domains": [
             "ont.io"
-        ]
+        ],
+        "telegram_groups": [
+            "OntologyAnnouncements"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x25928e9f95bfc3a1e1c110d3c42c9fafc204d07d",
         "sourceScanned": "processed",
         "web_domains": [
             "openleverage.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3e7f1039896454b9cb27c53cc7383e1ab9d9512a",
@@ -6060,7 +6068,12 @@
         "sourceScanned": "processed",
         "web_domains": [
             "alienworlds.io"
-        ]
+        ],
+        "telegram_groups": [
+            "AlienWorldsOffical",
+            "AlienWorlds_Announcements"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2e7a478e16fae454a5d1fbcd0a86ed2c971f0900",
@@ -6087,7 +6100,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "decentralfree.org"
-        ]
+        ],
+        "telegram_groups": [
+            "Decentralfree"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa19b018c4e9ac3038e1bc48793d261d2b91c77c3",
@@ -6114,7 +6131,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "socapglobal.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc3ef732749257183b263ab7a2de53de633ed5c20",
@@ -6534,7 +6553,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "openleverage.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x388855f253679da29e9d5947d864016c3d6db295",
