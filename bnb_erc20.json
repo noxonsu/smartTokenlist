@@ -3570,7 +3570,9 @@
             "cairofinancegerman",
             "cairofinanceenglish"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x1fc63d5ee79efe9ee20ad6f8d6d4bfa43a6adae6",
@@ -3606,9 +3608,11 @@
             "chainport.io"
         ],
         "telegram_groups": [
-            "chainport_news"
+            "chainport"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "needhuman"
     },
     {
         "contract_address": "0x48de84765f831b0ceda6d6366d735e6edacd0bd1",
@@ -3621,10 +3625,12 @@
             "minter.network"
         ],
         "telegram_groups": [
-            "MinterTeam",
+            "MinterNetworkGroup",
             "minterdev"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xa2d5a2b91cf649fa470f3dbc5d40398743afc523",
@@ -3644,7 +3650,9 @@
         "telegram_groups": [
             "Polkacity"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xa184088a740c695e156f91f5cc086a06bb78b827",
