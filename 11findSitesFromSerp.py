@@ -60,7 +60,15 @@ def search_google(nameOfProject):
     }
     search = GoogleSearch(params)
     results = search.get_dict()
-    return results["organic_results"]
+
+    # Error handling for missing key
+    if "organic_results" in results:
+        return results["organic_results"]
+    else:
+        print("Error: 'organic_results' not found in the results!")
+        print(results)  # This will print the structure of results to inspect it
+        return []
+
 
 def load_scanned_contracts(filename='11scanned.txt'):
     if os.path.exists(filename):
