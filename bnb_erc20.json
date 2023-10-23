@@ -6631,7 +6631,10 @@
     },
     {
         "contract_address": "0x9f2c886e49b6851f8488f8818ddbadfd16b13e7a",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mjccoin.io"
+        ]
     },
     {
         "contract_address": "0x02ba49d23ca7c763a824bbdcaa0032f1a48b0497",
@@ -6643,19 +6646,31 @@
     },
     {
         "contract_address": "0x316622977073bbc3df32e7d2a9b3c77596a0a603",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "jarvis.network"
+        ]
     },
     {
         "contract_address": "0xaec945e04baf28b135fa7c640f624f8d90f1c3a6",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "coin98.com"
+        ]
     },
     {
         "contract_address": "0x8cf8238abf7b933bf8bb5ea2c7e4be101c11de2a",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "xp.network"
+        ]
     },
     {
         "contract_address": "0x36bfbb1d5b3c9b336f3d64976599b6020ca805f1",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "planetsandbox.io"
+        ]
     },
     {
         "contract_address": "0xe96450e5991c2e6b42e03b6fb9f681d01048b636",
@@ -6667,11 +6682,17 @@
     },
     {
         "contract_address": "0xe9dd0cd77d9baa76f0c19f68a0dc191dbbd4996c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tondtond.com"
+        ]
     },
     {
         "contract_address": "0x19cd9b8e42d4ef62c3ea124110d5cfd283ceac43",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "battleinfinity.io"
+        ]
     },
     {
         "contract_address": "0xf9114498b7f38f3337d6295a3a0f3edf8da71326",
@@ -6687,7 +6708,10 @@
     },
     {
         "contract_address": "0x9485bca5317b8214bffc790d34fface0c92d7656",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.ktalk.io"
+        ]
     },
     {
         "contract_address": "0x9467f15f44a8641389556387b43d9ed3f6981818",
@@ -6699,11 +6723,17 @@
     },
     {
         "contract_address": "0xad29abb318791d579433d831ed122afeaf29dcfe",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fantom.foundation"
+        ]
     },
     {
         "contract_address": "0x02634e559651ac67b8a3c73b15c8cf79b31242ec",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "outterfinance.io"
+        ]
     },
     {
         "contract_address": "0x0d84145d269207f747c52577cf93cf0dc981a725",
