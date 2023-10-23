@@ -4706,7 +4706,10 @@
     },
     {
         "contract_address": "0x60eb796057fc6c8ffa37361e67424f334bb8264d",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "btcx.io"
+        ]
     },
     {
         "contract_address": "0xb3391ec205cc37834e9aaa85741203b4d51922b8",
@@ -4718,7 +4721,10 @@
     },
     {
         "contract_address": "0x2660f8635c4b9cbd130d9cac4a05d7ef7fe2ce99",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "phoenix-inu.io"
+        ]
     },
     {
         "contract_address": "0xbe96fcf736ad906b1821ef74a0e4e346c74e6221",
@@ -4737,19 +4743,31 @@
     },
     {
         "contract_address": "0x6d6ba21e4c4b29ca7bfa1c344ba1e35b8dae7205",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.katanainu.com"
+        ]
     },
     {
         "contract_address": "0xa719b8ab7ea7af0ddb4358719a34631bb79d15dc",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ferrum.network"
+        ]
     },
     {
         "contract_address": "0x95b0fffabd2817959ce410070600d77bce93d454",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "neurosmedical.com"
+        ]
     },
     {
         "contract_address": "0x6ea059a29eccecee4e250414fe9f5ffb44fa4112",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "maxima.cash"
+        ]
     },
     {
         "contract_address": "0xb56554296bc11afc98847914254a2beb82ba2bed",
@@ -4757,7 +4775,10 @@
     },
     {
         "contract_address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "litecoin.org"
+        ]
     },
     {
         "contract_address": "0x1d820990688c6b603316fcab97169b0c530a1c8d",
@@ -4765,7 +4786,10 @@
     },
     {
         "contract_address": "0x60322971a672b81bcce5947706d22c19daecf6fb",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "daomars.com"
+        ]
     },
     {
         "contract_address": "0x4518231a8fdf6ac553b9bbd51bbb86825b583263",
@@ -4773,11 +4797,17 @@
     },
     {
         "contract_address": "0xd2b6bf88b7d9da599331719e338fcdeb235a0b99",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "limo.limoverse.io"
+        ]
     },
     {
         "contract_address": "0x728c5bac3c3e370e372fc4671f9ef6916b814d8b",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "unfi.com"
+        ]
     },
     {
         "contract_address": "0xa53e61578ff54f1ad70186be99332a6e20b6ffa9",
@@ -4800,6 +4830,9 @@
         "sourceScanned": "processed",
         "emails": [
             "goncalo.sa@consensys.net"
+        ],
+        "web_domains": [
+            "mav.xyz"
         ]
     },
     {
