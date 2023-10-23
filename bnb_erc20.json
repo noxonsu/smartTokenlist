@@ -3920,11 +3920,17 @@
     },
     {
         "contract_address": "0x11ac6af070fe1991a457c56fb85c577efe57f0e4",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dragonkingunited.com"
+        ]
     },
     {
         "contract_address": "0x35f3ffffcb622bc9f64fa561d74e983fd488d90c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "piratecash.net"
+        ]
     },
     {
         "contract_address": "0x3bc44fc62bd83a8e88ebc5ee244af07191a36f0d",
@@ -3932,11 +3938,17 @@
     },
     {
         "contract_address": "0x698d8701cc9001ea4c5bf1c4e8f98fb7e26c882e",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.visioncoin.xyz"
+        ]
     },
     {
         "contract_address": "0xb86abcb37c3a4b64f74f59301aff131a1becc787",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zilliqa.com"
+        ]
     },
     {
         "contract_address": "0x34ba3af693d6c776d73c7fa67e2b2e79be8ef4ed",
@@ -3948,7 +3960,10 @@
     },
     {
         "contract_address": "0x22a2c54b15287472f4adbe7587226e3c998cdd96",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mstable.org"
+        ]
     },
     {
         "contract_address": "0xf6345039756e6d3754d74c1b2dc2388ce5dd542b",
@@ -3960,13 +3975,19 @@
     },
     {
         "contract_address": "0x11c13f1863b760576457f2cc4214d780fc87232b",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zealbet.co"
+        ]
     },
     {
         "contract_address": "0xa6d32c1993d961227741a37772bc6351e2b11dab",
         "sourceScanned": "processed",
         "telegram_groups": [
             "arthadao"
+        ],
+        "web_domains": [
+            "www.arthadao.com"
         ]
     },
     {
@@ -3987,11 +4008,17 @@
     },
     {
         "contract_address": "0xf2c396755899878f6589e8c53ae22d6ffebfb9df",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mtwtoken.io"
+        ]
     },
     {
         "contract_address": "0x4033a4f1835c5237240c1f95cb518c30312375cb",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nbf.ae"
+        ]
     },
     {
         "contract_address": "0xd31b6796a451bafa4383a24b2e06a308e8b4914d",
@@ -3999,7 +4026,10 @@
     },
     {
         "contract_address": "0x27f85f6e651750bc69e59d530a1031373275fc21",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "stake-hub.io"
+        ]
     },
     {
         "contract_address": "0xf5bde7eb378661f04c841b22ba057326b0370153",
