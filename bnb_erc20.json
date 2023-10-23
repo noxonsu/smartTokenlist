@@ -2293,7 +2293,10 @@
     },
     {
         "contract_address": "0x0733618ab62eeec815f2d1739b7a50bf9e74d8a2",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "docs.pomerium.space"
+        ]
     },
     {
         "contract_address": "0x4d1e90ab966ae26c778b2f9f365aa40abb13f53c",
@@ -2315,7 +2318,10 @@
     },
     {
         "contract_address": "0x961c8c0b1aad0c0b10a51fef6a867e3091bcef17",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dyp.finance"
+        ]
     },
     {
         "contract_address": "0x47df168eee505f45fefe43115379ab4466ea6b60",
@@ -2331,11 +2337,17 @@
     },
     {
         "contract_address": "0xef048634a3583386d09ffad8b445c7c5a97ce179",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "queenbots.com"
+        ]
     },
     {
         "contract_address": "0x37a56cdcd83dce2868f721de58cb3830c44c6303",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zebec.io"
+        ]
     },
     {
         "contract_address": "0xb816a3ec9e9359e09c74485597afa7b812fd97be",
@@ -2343,7 +2355,10 @@
     },
     {
         "contract_address": "0xae662f2a5e594b97a1919ee824fd722476597ce3",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tether.to"
+        ]
     },
     {
         "contract_address": "0xd8632e58629af41611e1d684f1e537a6cddfb8d6",
