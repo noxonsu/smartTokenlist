@@ -3361,11 +3361,17 @@
     },
     {
         "contract_address": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "alpacafinance.org"
+        ]
     },
     {
         "contract_address": "0xe0f94ac5462997d2bc57287ac3a3ae4c31345d66",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ceek.io"
+        ]
     },
     {
         "contract_address": "0x0d9549594c476c0626dea9a35bb0117240f9c8d3",
@@ -3380,6 +3386,9 @@
         "sourceScanned": "processed",
         "telegram_groups": [
             "SquidGrowOfficial"
+        ],
+        "web_domains": [
+            "squidgrow.wtf"
         ]
     },
     {
@@ -3396,7 +3405,10 @@
     },
     {
         "contract_address": "0x0b1c59303b04bb7a28321a8680797e7b431b9429",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "thedividendtracker.com"
+        ]
     },
     {
         "contract_address": "0x1b818cecf52e3b47ee47f7c909e023e4d1b3027c",
@@ -3412,7 +3424,10 @@
     },
     {
         "contract_address": "0xf508fcd89b8bd15579dc79a6827cb4686a3592c8",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "venus.io"
+        ]
     },
     {
         "contract_address": "0xde415830c310a45a87ad3c74f9f768a5b0062793",
@@ -3420,7 +3435,10 @@
     },
     {
         "contract_address": "0x4d7fa587ec8e50bd0e9cd837cb4da796f47218a1",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "anwang.com"
+        ]
     },
     {
         "contract_address": "0x4ae9af6d4d706ec9fd6750f4bc92bde17ff477ef",
@@ -3436,11 +3454,17 @@
     },
     {
         "contract_address": "0x5662ac531a2737c3db8901e982b43327a2fde2ae",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cairofinance.app"
+        ]
     },
     {
         "contract_address": "0x1fc63d5ee79efe9ee20ad6f8d6d4bfa43a6adae6",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "global.abb"
+        ]
     },
     {
         "contract_address": "0xd27aaeead8fde08ba292c1e08f53a14c00e7f7c8",
