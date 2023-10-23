@@ -3468,15 +3468,24 @@
     },
     {
         "contract_address": "0xd27aaeead8fde08ba292c1e08f53a14c00e7f7c8",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zksync.io"
+        ]
     },
     {
         "contract_address": "0x0d12364ff083648758d4fcb0e304004812888888",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "daotally.com"
+        ]
     },
     {
         "contract_address": "0xeceb87cf00dcbf2d4e2880223743ff087a995ad9",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "chainport.io"
+        ]
     },
     {
         "contract_address": "0x48de84765f831b0ceda6d6366d735e6edacd0bd1",
@@ -3484,7 +3493,10 @@
     },
     {
         "contract_address": "0xf2ba89a6f9670459ed5aeefbd8db52be912228b8",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "minter.network"
+        ]
     },
     {
         "contract_address": "0xa2d5a2b91cf649fa470f3dbc5d40398743afc523",
@@ -3497,7 +3509,10 @@
     },
     {
         "contract_address": "0x6ae9701b9c423f40d54556c9a443409d79ce170a",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "app.polkacity.io"
+        ]
     },
     {
         "contract_address": "0xa184088a740c695e156f91f5cc086a06bb78b827",
@@ -3529,19 +3544,31 @@
     },
     {
         "contract_address": "0xecbbdcfdc692c5259bf2f3e334daba44142a0542",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tether.to"
+        ]
     },
     {
         "contract_address": "0xe0a568514050161582454aaa90f9e3c1b95c11b8",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "usdc.circle.com"
+        ]
     },
     {
         "contract_address": "0xc60504eea8e660adaa7a9a94719d137510b5f05f",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "binance.com"
+        ]
     },
     {
         "contract_address": "0x40c8225329bd3e28a043b029e0d07a5344d2c27c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ageofgods.net"
+        ]
     },
     {
         "contract_address": "0x7d30b381bfda64854e1e51efa7063940b53eade3",
@@ -3553,7 +3580,10 @@
     },
     {
         "contract_address": "0x28ca099f57707ae565b96a6ed9f67af23054078b",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pan4vortex.com"
+        ]
     },
     {
         "contract_address": "0x6ec90334d89dbdc89e08a133271be3d104128edb",
