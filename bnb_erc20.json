@@ -2247,7 +2247,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "angle.money"
-        ]
+        ],
+        "telegram_groups": [
+            "AngleAnnouncements"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6067490d05f3cf2fdffc0e353b1f5fd6e5ccdf70",
@@ -2270,7 +2274,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "binance.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6cdb0a2c814aed1d1ca4063a6ba259096ed989e6",
@@ -2281,14 +2287,18 @@
         "sourceScanned": "processed",
         "web_domains": [
             "binance.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4760cea6c57e4de900afd3c97aa526bd11bb7373",
         "sourceScanned": "processed",
         "web_domains": [
             "ccm.city"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xffbad5a8b1bf05ed6b9eeb6071176b89cdc3173d",
