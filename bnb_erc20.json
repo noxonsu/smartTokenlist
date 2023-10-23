@@ -4082,21 +4082,32 @@
         "sourceScanned": "processed",
         "web_domains": [
             "arbitrageopportunity.website"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x11ac6af070fe1991a457c56fb85c577efe57f0e4",
         "sourceScanned": "processed",
         "web_domains": [
             "dragonkingunited.com"
-        ]
+        ],
+        "telegram_groups": [
+            "dragonkingofficialchannel"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x35f3ffffcb622bc9f64fa561d74e983fd488d90c",
         "sourceScanned": "processed",
         "web_domains": [
             "piratecash.net"
-        ]
+        ],
+        "telegram_groups": [
+            "PirateCash_ENG",
+            "piratecash_bot"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3bc44fc62bd83a8e88ebc5ee244af07191a36f0d",
@@ -4107,7 +4118,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.visioncoin.xyz"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb86abcb37c3a4b64f74f59301aff131a1becc787",
