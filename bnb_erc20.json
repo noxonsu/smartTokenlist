@@ -4250,7 +4250,9 @@
         "telegram_groups": [
             "stakehubcenter"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xf5bde7eb378661f04c841b22ba057326b0370153",
@@ -4312,7 +4314,9 @@
         "telegram_groups": [
             "chainlinkofficial"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x316878fef81a307d474c042683088942c8116fd7",
@@ -4325,9 +4329,11 @@
             "movez.me"
         ],
         "telegram_groups": [
-            "movezann"
+            "movez_app"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x9c205cdbee8ac1bb47cd5e4968907fbfcb9b6618",
@@ -4409,7 +4415,9 @@
         "telegram_groups": [
             "PepeWalletPortal"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x16faf9daa401aa42506af503aa3d80b871c467a3",
@@ -4496,7 +4504,9 @@
         "telegram_groups": [
             "elcoin_io"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "needhuman"
     },
     {
         "contract_address": "0x14b8746bd6f5c20582e33d71a211b112bd94ec2a",
