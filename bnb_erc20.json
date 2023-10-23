@@ -3107,7 +3107,10 @@
             "GGGDOG_EN",
             "GGGDOG_ZH"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "web_domains": [
+            "hopenetwork.org"
+        ]
     },
     {
         "contract_address": "0x593b7ee030206f21c24a72a583f451003a155ca4",
@@ -3131,7 +3134,10 @@
     },
     {
         "contract_address": "0xbe2d231017cf56d19b6a6facd312de785028d458",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "openai.com"
+        ]
     },
     {
         "contract_address": "0xffd22536cf2f2b62480bcbb95fe6c1b8ea0fa8f0",
@@ -3139,7 +3145,10 @@
     },
     {
         "contract_address": "0x6db1afbaa302d96bb6f94d363be0995b7fe3fff7",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "brightsway.com"
+        ]
     },
     {
         "contract_address": "0x08ccac619e9c6e95d48dfd23793d722a994b95b8",
