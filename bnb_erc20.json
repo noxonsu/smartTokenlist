@@ -3093,7 +3093,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "en.ucoin.net"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x70ad603ae3910304098323f903870c080436e8c5",
@@ -3104,21 +3106,31 @@
         "sourceScanned": "processed",
         "web_domains": [
             "juventus.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0611686a2558de495617685b3da12448657170fe",
         "sourceScanned": "processed",
         "web_domains": [
             "catpay.io"
-        ]
+        ],
+        "telegram_groups": [
+            "catecoin"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x03ff0ff224f904be3118461335064bb48df47938",
         "sourceScanned": "processed",
         "web_domains": [
             "harmony.one"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xadaae082237cb1772c9e079db95c117e6dd0c5af",
@@ -3129,7 +3141,13 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.dominochain.com"
-        ]
+        ],
+        "telegram_groups": [
+            "Domiblockchain"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xf9a6c1acb2c937a08f550fe15e0a416dacf62905",
@@ -3172,7 +3190,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "openai.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xffd22536cf2f2b62480bcbb95fe6c1b8ea0fa8f0",
@@ -3183,7 +3203,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "brightsway.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x08ccac619e9c6e95d48dfd23793d722a994b95b8",
@@ -3215,7 +3237,13 @@
         "sourceScanned": "processed",
         "web_domains": [
             "hi.com"
-        ]
+        ],
+        "telegram_groups": [
+            "hi_official"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xac51066d7bec65dc4589368da368b212745d63e8",
@@ -3374,11 +3402,17 @@
     },
     {
         "contract_address": "0x8f0528ce5ef7b51152a59745befdd91d97091d2f",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "alpacafinance.org"
+        ]
     },
     {
         "contract_address": "0xe0f94ac5462997d2bc57287ac3a3ae4c31345d66",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ceek.io"
+        ]
     },
     {
         "contract_address": "0x0d9549594c476c0626dea9a35bb0117240f9c8d3",
@@ -3393,6 +3427,9 @@
         "sourceScanned": "processed",
         "telegram_groups": [
             "SquidGrowOfficial"
+        ],
+        "web_domains": [
+            "squidgrow.wtf"
         ]
     },
     {
@@ -3409,7 +3446,10 @@
     },
     {
         "contract_address": "0x0b1c59303b04bb7a28321a8680797e7b431b9429",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "thedividendtracker.com"
+        ]
     },
     {
         "contract_address": "0x1b818cecf52e3b47ee47f7c909e023e4d1b3027c",
@@ -3425,7 +3465,10 @@
     },
     {
         "contract_address": "0xf508fcd89b8bd15579dc79a6827cb4686a3592c8",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "venus.io"
+        ]
     },
     {
         "contract_address": "0xde415830c310a45a87ad3c74f9f768a5b0062793",
@@ -3433,7 +3476,10 @@
     },
     {
         "contract_address": "0x4d7fa587ec8e50bd0e9cd837cb4da796f47218a1",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "anwang.com"
+        ]
     },
     {
         "contract_address": "0x4ae9af6d4d706ec9fd6750f4bc92bde17ff477ef",
@@ -3449,23 +3495,38 @@
     },
     {
         "contract_address": "0x5662ac531a2737c3db8901e982b43327a2fde2ae",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cairofinance.app"
+        ]
     },
     {
         "contract_address": "0x1fc63d5ee79efe9ee20ad6f8d6d4bfa43a6adae6",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "global.abb"
+        ]
     },
     {
         "contract_address": "0xd27aaeead8fde08ba292c1e08f53a14c00e7f7c8",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zksync.io"
+        ]
     },
     {
         "contract_address": "0x0d12364ff083648758d4fcb0e304004812888888",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "daotally.com"
+        ]
     },
     {
         "contract_address": "0xeceb87cf00dcbf2d4e2880223743ff087a995ad9",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "chainport.io"
+        ]
     },
     {
         "contract_address": "0x48de84765f831b0ceda6d6366d735e6edacd0bd1",
@@ -3473,7 +3534,10 @@
     },
     {
         "contract_address": "0xf2ba89a6f9670459ed5aeefbd8db52be912228b8",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "minter.network"
+        ]
     },
     {
         "contract_address": "0xa2d5a2b91cf649fa470f3dbc5d40398743afc523",
@@ -3486,7 +3550,10 @@
     },
     {
         "contract_address": "0x6ae9701b9c423f40d54556c9a443409d79ce170a",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "app.polkacity.io"
+        ]
     },
     {
         "contract_address": "0xa184088a740c695e156f91f5cc086a06bb78b827",
@@ -3518,19 +3585,31 @@
     },
     {
         "contract_address": "0xecbbdcfdc692c5259bf2f3e334daba44142a0542",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tether.to"
+        ]
     },
     {
         "contract_address": "0xe0a568514050161582454aaa90f9e3c1b95c11b8",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "usdc.circle.com"
+        ]
     },
     {
         "contract_address": "0xc60504eea8e660adaa7a9a94719d137510b5f05f",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "binance.com"
+        ]
     },
     {
         "contract_address": "0x40c8225329bd3e28a043b029e0d07a5344d2c27c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ageofgods.net"
+        ]
     },
     {
         "contract_address": "0x7d30b381bfda64854e1e51efa7063940b53eade3",
@@ -3542,7 +3621,10 @@
     },
     {
         "contract_address": "0x28ca099f57707ae565b96a6ed9f67af23054078b",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pan4vortex.com"
+        ]
     },
     {
         "contract_address": "0x6ec90334d89dbdc89e08a133271be3d104128edb",
