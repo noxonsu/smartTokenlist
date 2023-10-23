@@ -3041,15 +3041,24 @@
     },
     {
         "contract_address": "0x3ab7014d0e896a8e486fbf5bc590eeb93d6f44bf",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nfdao.io"
+        ]
     },
     {
         "contract_address": "0x1f88e9956c8f8f64c8d5fef5ed8a818e2237112c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "youcoinmeta.com"
+        ]
     },
     {
         "contract_address": "0x52555ad52fb6f80e6a4aabd794fe76688f1e86ff",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "en.ucoin.net"
+        ]
     },
     {
         "contract_address": "0x70ad603ae3910304098323f903870c080436e8c5",
@@ -3057,15 +3066,24 @@
     },
     {
         "contract_address": "0xc40c9a843e1c6d01b7578284a9028854f6683b1b",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "juventus.com"
+        ]
     },
     {
         "contract_address": "0x0611686a2558de495617685b3da12448657170fe",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "catpay.io"
+        ]
     },
     {
         "contract_address": "0x03ff0ff224f904be3118461335064bb48df47938",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "harmony.one"
+        ]
     },
     {
         "contract_address": "0xadaae082237cb1772c9e079db95c117e6dd0c5af",
@@ -3073,7 +3091,10 @@
     },
     {
         "contract_address": "0xc6778cbb7facc84522f2366ad11ae1de9e697f4a",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.dominochain.com"
+        ]
     },
     {
         "contract_address": "0xf9a6c1acb2c937a08f550fe15e0a416dacf62905",
