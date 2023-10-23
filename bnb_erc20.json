@@ -3006,14 +3006,18 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.rencomnetwork.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x1ce0c2827e2ef14d5c4f29a091d735a204794041",
         "sourceScanned": "processed",
         "web_domains": [
             "avax.network"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x35c75b6ee0ba8a894b4d154cac7b6e44c0bd8d3c",
@@ -3052,14 +3056,21 @@
         "sourceScanned": "processed",
         "web_domains": [
             "nfdao.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x1f88e9956c8f8f64c8d5fef5ed8a818e2237112c",
         "sourceScanned": "processed",
         "web_domains": [
             "youcoinmeta.com"
-        ]
+        ],
+        "telegram_groups": [
+            "YouCoinNews",
+            "YouCoinOnline"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x52555ad52fb6f80e6a4aabd794fe76688f1e86ff",
