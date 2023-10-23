@@ -3479,11 +3479,13 @@
         "contract_address": "0xd8fa690304d2b2824d918c0c7376e2823704557a",
         "sourceScanned": "processed",
         "telegram_groups": [
+            "squidgrowportalentry",
             "SquidGrowOfficial"
         ],
         "web_domains": [
             "squidgrow.wtf"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xeb3b814fa4a367bb1697e7f7c4da0ed901a78611",
@@ -3502,7 +3504,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "thedividendtracker.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x1b818cecf52e3b47ee47f7c909e023e4d1b3027c",
@@ -3521,7 +3525,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "venus.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xde415830c310a45a87ad3c74f9f768a5b0062793",
@@ -3532,7 +3538,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "anwang.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4ae9af6d4d706ec9fd6750f4bc92bde17ff477ef",
