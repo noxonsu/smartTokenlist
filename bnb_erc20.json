@@ -4747,7 +4747,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "onlyfun.city"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xfbe9d6eebac342e6fc66b9f43e6438bc41ddbe8a",
@@ -4758,14 +4760,20 @@
         "sourceScanned": "processed",
         "web_domains": [
             "seedify.fund"
-        ]
+        ],
+        "telegram_groups": [
+            "seedifyfund"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbc10b397ad114fa016a064cff4bd267fa5e2c666",
         "sourceScanned": "processed",
         "web_domains": [
             "www.spacex.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x56d594d76b37be83c54abf8a4747d60ce58d32c2",
@@ -4784,7 +4792,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "bcprotocol.io"
-        ]
+        ],
+        "telegram_groups": [
+            "bcp_official_channel"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0ed74e7797ce970d3f3cb103b5f8d98258f8a98b",
@@ -4803,7 +4815,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "onexwallet.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x02ac08dce691e98784f93bc3a1eaf549402472cf",
@@ -4830,7 +4844,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "realital.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb4813df72b6bdd30775ea0b24e8fe01e11c2768f",
