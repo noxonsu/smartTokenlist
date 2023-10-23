@@ -5895,21 +5895,34 @@
         ],
         "web_domains": [
             "radiant.capital"
-        ]
+        ],
+        "telegram_groups": [
+            "radiantcapitalofficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x529c79f6918665ebe250f32eeeaa1d410a0798c6",
         "sourceScanned": "processed",
         "web_domains": [
             "hypergpt.ai"
-        ]
+        ],
+        "telegram_groups": [
+            "HyperGPTai",
+            "hypergpt_news"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6f51a1674befdd77f7ab1246b83adb9f13613762",
         "sourceScanned": "processed",
         "web_domains": [
             "snfts.seedify.fund"
-        ]
+        ],
+        "telegram_groups": [
+            "seedifyfund"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x01b7b50221523342591933b1b424ee14f50f4994",
@@ -5969,7 +5982,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "elephant.money"
-        ]
+        ],
+        "telegram_groups": [
+            "elephant_money"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xfa966e8123f5d9fd8754cf5bd7da780ceaffcad6",
@@ -5980,14 +5997,20 @@
         "sourceScanned": "processed",
         "web_domains": [
             "wagyuswap.app"
-        ]
+        ],
+        "telegram_groups": [
+            "wagyuswapofficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbe2b6c5e31f292009f495ddbda88e28391c9815e",
         "sourceScanned": "processed",
         "web_domains": [
             "level.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2c186a7fa9729db59ce605d12809584e12357343",
