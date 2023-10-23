@@ -6709,7 +6709,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "trias.network"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9caa8b8b9f6dd594870c421b320d07f5cfe24a6f",
@@ -6736,7 +6738,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "plg-coin.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x02caa44eb838fc0e49b73213d9d22e5f23798fda",
@@ -6751,7 +6755,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "babydoge.com"
-        ]
+        ],
+        "telegram_groups": [
+            "babydogearmy"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x68f76da706ad3c1d2d903084a8eee5045e11c171",
@@ -6770,7 +6778,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.mkingtoken.com"
-        ]
+        ],
+        "telegram_groups": [
+            "mkingtechnology"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7d832502590d326aa45dc4926eba6ae9371d854a",
@@ -6785,7 +6797,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "mjccoin.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x02ba49d23ca7c763a824bbdcaa0032f1a48b0497",
@@ -6800,7 +6814,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "jarvis.network"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xaec945e04baf28b135fa7c640f624f8d90f1c3a6",
