@@ -6259,14 +6259,20 @@
         "sourceScanned": "processed",
         "web_domains": [
             "binance.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0f02b1f5af54e04fb6dd6550f009ac2429c4e30d",
         "sourceScanned": "processed",
         "web_domains": [
             "definix.com"
-        ]
+        ],
+        "telegram_groups": [
+            "SIXNetwork"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xaf027427dc6d31a3e7e162a710a5fe27e63e275f",
@@ -6291,14 +6297,18 @@
         "sourceScanned": "processed",
         "web_domains": [
             "info.stafi.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x339fe932809e39a95b621a7f88bbf6c08eb6c978",
         "sourceScanned": "processed",
         "web_domains": [
             "txbit.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x934c1ee2cff1d7e58c37700d27355cef0adf7187",
@@ -6309,14 +6319,18 @@
         "sourceScanned": "processed",
         "web_domains": [
             "metawearorganic.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0e9e35376c576e7df968977cef47845898820375",
         "sourceScanned": "processed",
         "web_domains": [
             "www.nebtc.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4ada564f75e66ee9865a8e0266561ce3692e4356",
