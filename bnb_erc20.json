@@ -165,7 +165,8 @@
         "p6": true,
         "myuser": 6003957640,
         "tgGroupJoined": "success",
-        "p8": true
+        "p8": true,
+        "tgProposalSent": "error: Proposal already sent to mobox_io, skipping..."
     },
     {
         "contract_address": "0x98f39d0f8c67885071cc99c5af1d4cacbcc89b0c",
@@ -889,7 +890,8 @@
         "p6": true,
         "myuser": 6003957640,
         "tgGroupJoined": "success",
-        "p8": true
+        "p8": true,
+        "tgProposalSent": "error: Telegram says: [400 CHAT_ADMIN_REQUIRED] - The method requires chat admin privileges (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0x85eac5ac2f758618dfa09bdbe0cf174e7d574d5b",
@@ -909,7 +911,8 @@
         "p6": true,
         "myuser": 6003957640,
         "tgGroupJoined": "success",
-        "p8": true
+        "p8": true,
+        "tgProposalSent": "error: Telegram says: [400 CHAT_ADMIN_REQUIRED] - The method requires chat admin privileges (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0xdcd103bc6d14829c39afc9c10c9c373ce385d2c5",
@@ -1064,7 +1067,8 @@
         "p6": true,
         "myuser": 6003957640,
         "tgGroupJoined": "success",
-        "p8": true
+        "p8": true,
+        "tgProposalSent": "error: Telegram says: [400 CHAT_ADMIN_REQUIRED] - The method requires chat admin privileges (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0xcebef3df1f3c5bfd90fde603e71f31a53b11944d",
@@ -1078,7 +1082,8 @@
         "p6": true,
         "myuser": 6003957640,
         "tgGroupJoined": "success",
-        "p8": true
+        "p8": true,
+        "tgProposalSent": "error: can only concatenate str (not \"NoneType\") to str"
     },
     {
         "contract_address": "0xcc6eb347bbe570bf9b4788e2fafe0fa6c8719d97",
@@ -1205,7 +1210,8 @@
         "p6": true,
         "myuser": 6003957640,
         "tgGroupJoined": "success",
-        "p8": true
+        "p8": true,
+        "tgProposalSent": "error: can only concatenate str (not \"NoneType\") to str"
     },
     {
         "contract_address": "0x23b891e5c62e0955ae2bd185990103928ab817b3",
@@ -1235,7 +1241,8 @@
         "p6": true,
         "myuser": 6003957640,
         "tgGroupJoined": "success",
-        "p8": true
+        "p8": true,
+        "tgProposalSent": "error: Telegram says: [400 CHAT_ADMIN_REQUIRED] - The method requires chat admin privileges (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0x9643401e06e23d7dbf40c233100b61b8fbe7fe31",
@@ -1270,7 +1277,8 @@
         "p6": true,
         "myuser": 6003957640,
         "tgGroupJoined": "success",
-        "p8": true
+        "p8": true,
+        "tgProposalSent": "263343"
     },
     {
         "contract_address": "0x5b1f874d0b0c5ee17a495cbb70ab8bf64107a3bd",
@@ -1369,7 +1377,8 @@
         "p6": true,
         "myuser": 6003957640,
         "tgGroupJoined": "success",
-        "p8": true
+        "p8": true,
+        "tgProposalSent": "error: can only concatenate str (not \"NoneType\") to str"
     },
     {
         "contract_address": "0x9f8a75436e7e808f3fb348182e0ea42d2dd467cd",
@@ -1400,7 +1409,8 @@
         "p6": true,
         "myuser": 6003957640,
         "tgGroupJoined": "success",
-        "p8": true
+        "p8": true,
+        "tgProposalSent": "error: Telegram says: [403 CHAT_WRITE_FORBIDDEN] - You don't have rights to send messages in this chat (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0x523a03b5ae8960d4ee234c555e44dc4cc673b4df",
@@ -1437,7 +1447,8 @@
         "p6": true,
         "myuser": 6003957640,
         "tgGroupJoined": "success",
-        "p8": true
+        "p8": true,
+        "tgProposalSent": "error: Telegram says: [403 CHAT_WRITE_FORBIDDEN] - You don't have rights to send messages in this chat (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0xdcf0929aa20077c7ff96da0cd91ab5183c29abdd",
@@ -1523,7 +1534,8 @@
         "p6": true,
         "myuser": 6003957640,
         "tgGroupJoined": "success",
-        "p8": true
+        "p8": true,
+        "tgProposalSent": "error: can only concatenate str (not \"NoneType\") to str"
     },
     {
         "contract_address": "0xc0ff5eab9909e78b7391539fa43e9688dd0b9e31",
@@ -1567,7 +1579,8 @@
         "p6": true,
         "myuser": 6003957640,
         "tgGroupJoined": "success",
-        "p8": true
+        "p8": true,
+        "tgProposalSent": "error: Telegram says: [403 CHAT_WRITE_FORBIDDEN] - You don't have rights to send messages in this chat (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0x7ddee176f665cd201f93eede625770e2fd911990",

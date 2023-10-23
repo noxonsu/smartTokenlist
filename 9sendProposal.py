@@ -81,20 +81,27 @@ def main():
 
     with Client('TgSession', session_string=TELEGRAM_SESSION_STRING, api_id=TELEGRAM_API_ID, api_hash=TELEGRAM_API_HASH) as app:
         print('Bot starting...')
+        
         for entry in groups_to_send_proposal:
             chat_link = entry["telegram_groups"][0]  # Picking the first group to send the proposal
+            ok=False
             try:
                 message_link = send_proposal(app, chat_link, entry["contract_address"])
                 # Update status after sending proposal
                 entry["tgProposalSent"] = message_link
-                sleep(4)
-                lastm = "https://t.me/"+chat_link+"/"+message_link+" sent "+entry["contract_address"]+"\n"+entry['web_domains'][0]+"\n\n"
-                for message in app.get_chat_history(chat_link, limit=5):
-                    lastm = lastm + message.text + "\n"
-                app.send_message(-1001904539844, text=lastm) # logs
+                ok = True
             except Exception as e:
                 print(f"Error processing {chat_link}: {e}")
                 entry["tgProposalSent"] = f"error: {e}"
+
+            if ok:
+                print(f"Sent proposal to {chat_link}. Waiting and send responses to debug group")
+                sleep(30)
+                lastm = ""
+                for message in app.get_chat_history(entry["telegram_groups"][0], limit=5):
+                    if message.text and len(message.text) <= 120:
+                        lastm += message.text + "\n"
+                app.send_message(-1001904539844, text=lastm)
 
         
         with open('bnb_erc20.json', 'w') as f:
