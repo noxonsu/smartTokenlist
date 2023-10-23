@@ -7021,7 +7021,12 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.kryptomon.co"
-        ]
+        ],
+        "telegram_groups": [
+            "kryptomonofficial",
+            "joinchat"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa56876b3cbdf27a3a7264bdb2381e756f5d52b1e",
@@ -7035,7 +7040,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "tether.to"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc5b0b6bd5b7bf4dd5eb9f911c9613b89360e23a9",
@@ -7046,7 +7053,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "singularitydao.ai"
-        ]
+        ],
+        "telegram_groups": [
+            "SingDAO"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x59a80dbcea7c3537d91fdc780a4b58b888888888",
@@ -7057,21 +7068,29 @@
         "sourceScanned": "processed",
         "web_domains": [
             "venus.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9710a80446118ee0178b6142e2d575420a62e61c",
         "sourceScanned": "processed",
         "web_domains": [
             "supraoracles.com"
-        ]
+        ],
+        "telegram_groups": [
+            "SupraOracles"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5bd97d0c8e668298f2a6baa069f47f556a447a78",
         "sourceScanned": "processed",
         "web_domains": [
             "apemax.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x5a41f637c3f7553dba6ddc2d3ca92641096577ea",
@@ -7192,7 +7211,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "tether.to"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6e4a971b81ca58045a2aa982eaa3d50c4ac38f42",
@@ -7491,7 +7512,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "tether.to"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe",
