@@ -2589,7 +2589,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "frapped.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9bb9dd20927355ac963c2eda25b6ab404a29245a",
@@ -2608,21 +2610,29 @@
         "sourceScanned": "processed",
         "web_domains": [
             "marblex.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9a663044484304f9d357877a9dd36c7951363333",
         "sourceScanned": "processed",
         "web_domains": [
             "kabosutoken.io"
-        ]
+        ],
+        "telegram_groups": [
+            "kabosuchat"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc8a11f433512c16ed895245f34bcc2ca44eb06bd",
         "sourceScanned": "processed",
         "web_domains": [
             "kissantoken.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2ad69e58071b95c047bf78dc804db3662275b64a",
