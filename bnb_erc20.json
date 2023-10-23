@@ -5012,11 +5012,17 @@
     },
     {
         "contract_address": "0x74f7461b805738ad72a90205a2ad6e433061700d",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "rise.vision"
+        ]
     },
     {
         "contract_address": "0x4485f5f0697173671b28e1e5a322d1a1df83957c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "remixdao.com"
+        ]
     },
     {
         "contract_address": "0x4c561c1ef2109fc6b230304b114671f72820421b",
@@ -5024,13 +5030,19 @@
     },
     {
         "contract_address": "0x23ec58e45ac5313bcb6681f4f7827b8a8453ac45",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zenfuse.io"
+        ]
     },
     {
         "contract_address": "0x594b615101ccaa2de48dfb0a5b4b4a58358f4c59",
         "sourceScanned": "processed",
         "emails": [
             "ffegu0617@gmail.com"
+        ],
+        "web_domains": [
+            "gyrenetwork.io"
         ]
     },
     {
@@ -5043,11 +5055,17 @@
     },
     {
         "contract_address": "0xd722bac68242bc0b830667cd8999ae6dcdfaac69",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pacprotocol.com"
+        ]
     },
     {
         "contract_address": "0x570a5d26f7765ecb712c0924e4de545b89fd43df",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "solana.com"
+        ]
     },
     {
         "contract_address": "0xef7009a24abb3a2c219b2a103063dc9fb4a8620a",
@@ -5072,7 +5090,10 @@
     },
     {
         "contract_address": "0xd517ce9206c09dfaa7e7f40f98e59f54fb10e09f",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "metamerge.xyz"
+        ]
     },
     {
         "contract_address": "0x9e24415d1e549ebc626a13a482bb117a2b43e9cf",
@@ -5084,15 +5105,24 @@
     },
     {
         "contract_address": "0x2a94e135b72d6b45ed8813b62108e2655b5a5b80",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bitcoin.org"
+        ]
     },
     {
         "contract_address": "0xe552fb52a4f19e44ef5a967632dbc320b0820639",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.metis.io"
+        ]
     },
     {
         "contract_address": "0x54d178399330ea2ba043eb2e7010ead8e1b66ddf",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "anm.com"
+        ]
     },
     {
         "contract_address": "0xf292035fbaf4bb3e734e2289d1d24f94ebdc2060",
