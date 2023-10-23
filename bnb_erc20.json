@@ -4233,14 +4233,20 @@
         "sourceScanned": "processed",
         "web_domains": [
             "stake-hub.io"
-        ]
+        ],
+        "telegram_groups": [
+            "stakehubcenter"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf5bde7eb378661f04c841b22ba057326b0370153",
         "sourceScanned": "processed",
         "web_domains": [
             "pnb.world"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf4c8e32eadec4bfe97e0f595add0f4450a863a11",
@@ -4259,7 +4265,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.koi.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x1f1c90aeb2fd13ea972f0a71e35c0753848e3db0",
@@ -4270,7 +4278,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "galaxyswap.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x11d67aa725e04f764104fc46618fc0267b0a00e1",
@@ -4285,7 +4295,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "chain.link"
-        ]
+        ],
+        "telegram_groups": [
+            "chainlinkofficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x316878fef81a307d474c042683088942c8116fd7",
@@ -4296,7 +4310,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "movez.me"
-        ]
+        ],
+        "telegram_groups": [
+            "movezann"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9c205cdbee8ac1bb47cd5e4968907fbfcb9b6618",
