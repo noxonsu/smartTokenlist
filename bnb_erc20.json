@@ -7097,7 +7097,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "info.julswap.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3b0662dc9f0a37248b97327cfcb39ce44df83fa7",
@@ -7108,7 +7110,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "usdn.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9ecc662d0f492aa1a9484ed06ace499fee579205",
@@ -7131,14 +7135,20 @@
         "sourceScanned": "processed",
         "web_domains": [
             "defichain.com"
-        ]
+        ],
+        "telegram_groups": [
+            "defiblockchainen"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9c65ab58d8d978db963e63f2bfb7121627e3a739",
         "sourceScanned": "processed",
         "web_domains": [
             "mdex.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xdb95fbc5532eeb43deed56c8dc050c930e31017e",
@@ -7149,14 +7159,20 @@
         "sourceScanned": "processed",
         "web_domains": [
             "muquant.com"
-        ]
+        ],
+        "telegram_groups": [
+            "muquant"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa6fdea1655910c504e974f7f1b520b74be21857b",
         "sourceScanned": "processed",
         "web_domains": [
             "stable.fish"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x5f7f6cb266737b89f7af86b30f03ae94334b83e9",
