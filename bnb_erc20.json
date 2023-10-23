@@ -6921,14 +6921,20 @@
         "sourceScanned": "processed",
         "web_domains": [
             "fantom.foundation"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x02634e559651ac67b8a3c73b15c8cf79b31242ec",
         "sourceScanned": "processed",
         "web_domains": [
             "outterfinance.io"
-        ]
+        ],
+        "telegram_groups": [
+            "outterfinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0d84145d269207f747c52577cf93cf0dc981a725",
@@ -6939,7 +6945,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "thedividendtracker.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x336307a2d5ede83ee8ff92ad0f8949c2abce4e72",
@@ -6961,7 +6969,12 @@
         "sourceScanned": "processed",
         "web_domains": [
             "velas.com"
-        ]
+        ],
+        "telegram_groups": [
+            "velascommunity",
+            "VelasOfficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6314f312e513ead0c16446878a56e2e6c46ea63f",
@@ -6976,7 +6989,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "aitcoin.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "Aitcoinofficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd09a803482fbd96213f6b1d50a26be6c46972003",
@@ -6995,7 +7012,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "inery.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc732b6586a93b6b7cf5fed3470808bc74998224d",
