@@ -3565,28 +3565,39 @@
         "sourceScanned": "processed",
         "web_domains": [
             "cairofinance.app"
-        ]
+        ],
+        "telegram_groups": [
+            "cairofinancegerman",
+            "cairofinanceenglish"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1fc63d5ee79efe9ee20ad6f8d6d4bfa43a6adae6",
         "sourceScanned": "processed",
         "web_domains": [
             "global.abb"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd27aaeead8fde08ba292c1e08f53a14c00e7f7c8",
         "sourceScanned": "processed",
         "web_domains": [
             "zksync.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0d12364ff083648758d4fcb0e304004812888888",
         "sourceScanned": "processed",
         "web_domains": [
             "daotally.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xeceb87cf00dcbf2d4e2880223743ff087a995ad9",
