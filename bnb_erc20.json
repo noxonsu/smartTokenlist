@@ -4105,7 +4105,9 @@
         "telegram_groups": [
             "dragonkingofficialchannel"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x35f3ffffcb622bc9f64fa561d74e983fd488d90c",
@@ -4117,7 +4119,9 @@
             "PirateCash_ENG",
             "piratecash_bot"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x3bc44fc62bd83a8e88ebc5ee244af07191a36f0d",
@@ -4141,7 +4145,9 @@
         "telegram_groups": [
             "zilliqachat"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x34ba3af693d6c776d73c7fa67e2b2e79be8ef4ed",
@@ -4177,7 +4183,9 @@
         "telegram_groups": [
             "PortalZeal"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xa6d32c1993d961227741a37772bc6351e2b11dab",
@@ -4188,7 +4196,9 @@
         "web_domains": [
             "www.arthadao.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xbf76dbf84b16da71366fc73cf8c19600449ce71a",
