@@ -4267,7 +4267,10 @@
     },
     {
         "contract_address": "0x092ffbc968203b652b08361adec75e275573f2db",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "elcoin.io"
+        ]
     },
     {
         "contract_address": "0x14b8746bd6f5c20582e33d71a211b112bd94ec2a",
@@ -4275,7 +4278,10 @@
     },
     {
         "contract_address": "0x9029fdfae9a03135846381c7ce16595c3554e10a",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "openocean.finance"
+        ]
     },
     {
         "contract_address": "0x64cc7ed01fa6b6d3e587e9c89da04ddbebe07580",
@@ -4303,15 +4309,24 @@
     },
     {
         "contract_address": "0x15d1dafbcc97f606bd02120d170fdac33b1a4a86",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cashbackpro.net"
+        ]
     },
     {
         "contract_address": "0x680a501ea4545c0fb18827ebcbcf9b645469abd5",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.coincalendar.cash"
+        ]
     },
     {
         "contract_address": "0x88d7e9b65dc24cf54f5edef929225fc3e1580c25",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "jumptask.io"
+        ]
     },
     {
         "contract_address": "0x42f5150aeab10d7dfe3e010f8653fc84e09bb110",
