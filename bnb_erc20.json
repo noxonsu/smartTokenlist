@@ -1610,7 +1610,8 @@
         "p6": true,
         "myuser": 6003957640,
         "tgGroupJoined": "success",
-        "p8": true
+        "p8": true,
+        "tgProposalSent": "error: Proposal already sent to filecoinio, skipping..."
     },
     {
         "contract_address": "0xed8711feff83b446158259981fd97645856e82a5",
@@ -1676,7 +1677,8 @@
         "p6": true,
         "myuser": 6003957640,
         "tgGroupJoined": "success",
-        "p8": true
+        "p8": true,
+        "tgProposalSent": "36665"
     },
     {
         "contract_address": "0x207b298f4e08facb491f13e8335969e12c912d3e",
@@ -1829,7 +1831,8 @@
         "p6": true,
         "myuser": 6003957640,
         "tgGroupJoined": "success",
-        "p8": true
+        "p8": true,
+        "tgProposalSent": "510262"
     },
     {
         "contract_address": "0x80702018c28988dfe3c900561745f7af1b9fdb37",
@@ -1862,7 +1865,8 @@
         "p6": true,
         "myuser": 6003957640,
         "tgGroupJoined": "success",
-        "p8": true
+        "p8": true,
+        "tgProposalSent": "2649"
     },
     {
         "contract_address": "0xbdeae1ca48894a1759a8374d63925f21f2ee2639",
@@ -9940,7 +9944,8 @@
         "processedGpt": true,
         "tgGroupJoined": "success",
         "p6": true,
-        "p8": true
+        "p8": true,
+        "tgProposalSent": "error: 'Username not found: fatsale'"
     },
     {
         "contract_address": "0xc70636a779118e57e1c6fdafdd1f919fae912d2f",
@@ -16643,7 +16648,8 @@
         "p6": true,
         "myuser": 6003957640,
         "tgGroupJoined": "success",
-        "p8": true
+        "p8": true,
+        "tgProposalSent": "error: Telegram says: [400 CHAT_ADMIN_REQUIRED] - The method requires chat admin privileges (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0x97aee1d8962d4a7dbc7e001f6ac9f157f1d7f733",
@@ -16733,7 +16739,8 @@
         "p6": true,
         "myuser": 6003957640,
         "tgGroupJoined": "success",
-        "p8": true
+        "p8": true,
+        "tgProposalSent": "error: Telegram says: [400 CHAT_ADMIN_REQUIRED] - The method requires chat admin privileges (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0x6fa5c3e1d07be60c4e8725c524548e27553c4917",
@@ -17444,7 +17451,8 @@
         "p6": true,
         "myuser": 6003957640,
         "tgGroupJoined": "success",
-        "p8": true
+        "p8": true,
+        "tgProposalSent": "error: Proposal already sent to elephant_money, skipping..."
     },
     {
         "contract_address": "0x6b471d5ab9f3d92a600e7d49a0b135bf6d4c6a5b",

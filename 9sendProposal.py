@@ -97,7 +97,7 @@ def main():
             if ok:
                 print(f"Sent proposal to {chat_link}. Waiting and send responses to debug group")
                 sleep(30)
-                lastm = ""
+                lastm = "https://t.me/"+chat_link+"/"+message_link
                 for message in app.get_chat_history(entry["telegram_groups"][0], limit=5):
                     if message.text and len(message.text) <= 120:
                         lastm += message.text + "\n"
