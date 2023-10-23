@@ -3699,21 +3699,29 @@
         "sourceScanned": "processed",
         "web_domains": [
             "usdc.circle.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc60504eea8e660adaa7a9a94719d137510b5f05f",
         "sourceScanned": "processed",
         "web_domains": [
             "binance.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x40c8225329bd3e28a043b029e0d07a5344d2c27c",
         "sourceScanned": "processed",
         "web_domains": [
             "ageofgods.net"
-        ]
+        ],
+        "telegram_groups": [
+            "ageofgodsnet"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7d30b381bfda64854e1e51efa7063940b53eade3",
@@ -3728,7 +3736,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "pan4vortex.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6ec90334d89dbdc89e08a133271be3d104128edb",
