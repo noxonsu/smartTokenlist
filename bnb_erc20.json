@@ -2672,7 +2672,10 @@
     },
     {
         "contract_address": "0x818835503f55283cd51a4399f595e295a9338753",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "singularitynet.io"
+        ]
     },
     {
         "contract_address": "0xe19417837d8e61f17dfae2e6a11b1e4810dae2a5",
@@ -2684,7 +2687,10 @@
     },
     {
         "contract_address": "0x99aa29ac023057951781dc5d1784e9a4c362ce23",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "seascape.network"
+        ]
     },
     {
         "contract_address": "0x936685c7d81a03a204219cc7d0e61684c65471ca",
@@ -2696,7 +2702,10 @@
     },
     {
         "contract_address": "0xaab09b5cd1694d12c8c980306f5e2f5d65b00e1c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "revomon.io"
+        ]
     },
     {
         "contract_address": "0x9a7023da8c411344746e34a566c282e5c273caac",
@@ -2713,11 +2722,17 @@
     },
     {
         "contract_address": "0x5de466a5786397185bf415794366cf1aa4021756",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "gamewithspace.com"
+        ]
     },
     {
         "contract_address": "0x5fadf14198bf792550ad9df871defcd152162af7",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "greylock.com"
+        ]
     },
     {
         "contract_address": "0x65bfbf39034e281013fb1774a662abaced0b9023",
