@@ -7519,11 +7519,17 @@
     },
     {
         "contract_address": "0x798af7725376765e7f3ca86d5e0cf1beaef19f34",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "atomicwallet.io"
+        ]
     },
     {
         "contract_address": "0x89af13a10b32f1b2f8d1588f93027f69b6f4e27e",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "gamefi.org"
+        ]
     },
     {
         "contract_address": "0xaedddc4410b6b531e88bfb3252dcca17966cb654",
@@ -7531,11 +7537,17 @@
     },
     {
         "contract_address": "0xe51e3d10294708311457940eb7e7bdc810e603a4",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "openfabric.ai"
+        ]
     },
     {
         "contract_address": "0xe5f890b1a48760bd20aab8e20aecc7216b7ef211",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "yeetoshi.com"
+        ]
     },
     {
         "contract_address": "0x3ac580e34f2f31bb605a116810b849eb015a2bf1",
@@ -7578,11 +7590,17 @@
     },
     {
         "contract_address": "0xb92c5e0135a510a4a3a8803f143d2cb085bbaf73",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "metaverser.me"
+        ]
     },
     {
         "contract_address": "0xa58950f05fea2277d2608748412bf9f802ea4901",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wsg.gg"
+        ]
     },
     {
         "contract_address": "0x37ff7d4459ad96e0b01275e5efffe091f33c2cad",
@@ -7590,7 +7608,10 @@
     },
     {
         "contract_address": "0x97f42c97ea006c0eafae8a779f0644fbf27eed72",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ethereumclassic.org"
+        ]
     },
     {
         "contract_address": "0x9031f94431065059b99f362f1e93a9d45e10fb4c",
@@ -7602,15 +7623,24 @@
     },
     {
         "contract_address": "0x23ce9e926048273ef83be0a3a8ba9cb6d45cd978",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.minesofdalarnia.com"
+        ]
     },
     {
         "contract_address": "0xacf34edcc424128cccc730bf85cdaceebcb3eece",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "voicestreet.org"
+        ]
     },
     {
         "contract_address": "0xbabacc135bbf2ce30f9c0f12665b244d3689a29c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cosmicfomo.com"
+        ]
     },
     {
         "contract_address": "0xcd40f2670cf58720b694968698a5514e924f742d",
