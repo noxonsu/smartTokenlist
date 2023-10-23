@@ -3604,7 +3604,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "chainport.io"
-        ]
+        ],
+        "telegram_groups": [
+            "chainport_news"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x48de84765f831b0ceda6d6366d735e6edacd0bd1",
@@ -3615,7 +3619,12 @@
         "sourceScanned": "processed",
         "web_domains": [
             "minter.network"
-        ]
+        ],
+        "telegram_groups": [
+            "MinterTeam",
+            "minterdev"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa2d5a2b91cf649fa470f3dbc5d40398743afc523",
@@ -3631,7 +3640,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "app.polkacity.io"
-        ]
+        ],
+        "telegram_groups": [
+            "Polkacity"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa184088a740c695e156f91f5cc086a06bb78b827",
@@ -3666,7 +3679,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "tether.to"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe0a568514050161582454aaa90f9e3c1b95c11b8",
