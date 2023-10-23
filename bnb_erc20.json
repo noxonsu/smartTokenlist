@@ -2707,14 +2707,20 @@
         "sourceScanned": "processed",
         "web_domains": [
             "alveychain.com"
-        ]
+        ],
+        "telegram_groups": [
+            "AlveyChain"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x818835503f55283cd51a4399f595e295a9338753",
         "sourceScanned": "processed",
         "web_domains": [
             "singularitynet.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe19417837d8e61f17dfae2e6a11b1e4810dae2a5",
@@ -2729,7 +2735,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "seascape.network"
-        ]
+        ],
+        "telegram_groups": [
+            "seascapenetwork"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x936685c7d81a03a204219cc7d0e61684c65471ca",
@@ -2744,7 +2754,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "revomon.io"
-        ]
+        ],
+        "telegram_groups": [
+            "revomon"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9a7023da8c411344746e34a566c282e5c273caac",
