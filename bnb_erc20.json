@@ -4422,7 +4422,10 @@
     },
     {
         "contract_address": "0x52c1751c89fc913ed274d72e8d56dce4ee44a5cf",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.wizarre.io"
+        ]
     },
     {
         "contract_address": "0x13460eaaeade9427957f26a570345490b5d7910f",
@@ -4433,7 +4436,10 @@
     },
     {
         "contract_address": "0xc096332caacf00319703558988ad03ec6586e704",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "daoswap.financial"
+        ]
     },
     {
         "contract_address": "0xf7b629283fb0585e490603a29b2b70b92d69f579",
@@ -4449,7 +4455,10 @@
     },
     {
         "contract_address": "0x6c2c452ead05175c93f88d5c5f77df184d3da108",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "thedividendtracker.com"
+        ]
     },
     {
         "contract_address": "0xf9977a9a2ad4459425dca80500bfb72b20815966",
@@ -4457,6 +4466,9 @@
         "telegram_groups": [
             "GGGDOG_EN",
             "GGGDOG_ZH"
+        ],
+        "web_domains": [
+            "betfury.io"
         ]
     },
     {
@@ -4474,7 +4486,10 @@
     },
     {
         "contract_address": "0xc14e81695b84f142795f2f5f8f644cdc892be228",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tribalisland.io"
+        ]
     },
     {
         "contract_address": "0x8a87c36bb9e9b91c76e7a0a374a59e57cf0c0f5b",
@@ -4494,13 +4509,19 @@
     },
     {
         "contract_address": "0xfcfa6b3d587e73c14195506370d922702e06b3c4",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "synthetix.io"
+        ]
     },
     {
         "contract_address": "0xce186ad6430e2fe494a22c9edbd4c68794a28b35",
         "sourceScanned": "processed",
         "telegram_groups": [
             "loopnetwork"
+        ],
+        "web_domains": [
+            "theloopnetwork.org"
         ]
     },
     {
@@ -4522,7 +4543,10 @@
     },
     {
         "contract_address": "0xee902a8df3f6cdb9f2f95536ed84a4e725793dd9",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "onlyfun.city"
+        ]
     },
     {
         "contract_address": "0xfbe9d6eebac342e6fc66b9f43e6438bc41ddbe8a",
@@ -4530,7 +4554,10 @@
     },
     {
         "contract_address": "0x477bc8d23c634c154061869478bce96be6045d12",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "seedify.fund"
+        ]
     },
     {
         "contract_address": "0xbc10b397ad114fa016a064cff4bd267fa5e2c666",
