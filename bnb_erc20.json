@@ -2940,7 +2940,10 @@
     },
     {
         "contract_address": "0x4d2d32d8652058bf98c772953e1df5c5c85d9f45",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "daomaker.com"
+        ]
     },
     {
         "contract_address": "0xc7be6c0f9b80dd269f650514dc9b897f3452e5ac",
@@ -2959,7 +2962,10 @@
     },
     {
         "contract_address": "0x743e1c450c2b037b08fec761a14309def221ccea",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wombex.com"
+        ]
     },
     {
         "contract_address": "0xaa0811aff60fbe2d7d7d0a18f26e584b8c148ee8",
@@ -2975,11 +2981,17 @@
     },
     {
         "contract_address": "0xa457834ddf1fcbe3f43cf9ee5623eec6de55e6f5",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ztdao.world"
+        ]
     },
     {
         "contract_address": "0x388f8ba05ce519e1330d2ec226eb1fab2140d989",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sfil.fr"
+        ]
     },
     {
         "contract_address": "0x974e9f2075b8cc77a54f8b439042f242df353990",
