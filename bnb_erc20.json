@@ -5184,7 +5184,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "sfxt.world"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x19a00e359990ec7daf6e9dd9a2fb7664014bb5f7",
@@ -5203,14 +5205,18 @@
         "sourceScanned": "processed",
         "web_domains": [
             "rise.vision"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4485f5f0697173671b28e1e5a322d1a1df83957c",
         "sourceScanned": "processed",
         "web_domains": [
             "remixdao.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4c561c1ef2109fc6b230304b114671f72820421b",
@@ -5221,7 +5227,15 @@
         "sourceScanned": "processed",
         "web_domains": [
             "zenfuse.io"
-        ]
+        ],
+        "telegram_groups": [
+            "zenfuse_bd",
+            "zenfuse",
+            "zenfuse_ru",
+            "zenfuse_en",
+            "ZenfuseES"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x594b615101ccaa2de48dfb0a5b4b4a58358f4c59",
@@ -5231,7 +5245,11 @@
         ],
         "web_domains": [
             "gyrenetwork.io"
-        ]
+        ],
+        "telegram_groups": [
+            "gyrenetwork"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x755f7020a5fb960d9cf2237d4ad7c751005d4874",
@@ -5246,7 +5264,12 @@
         "sourceScanned": "processed",
         "web_domains": [
             "pacprotocol.com"
-        ]
+        ],
+        "telegram_groups": [
+            "Pac_Official",
+            "PACProtocol_chat"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x570a5d26f7765ecb712c0924e4de545b89fd43df",
