@@ -2711,7 +2711,9 @@
         "telegram_groups": [
             "AlveyChain"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x818835503f55283cd51a4399f595e295a9338753",
@@ -2739,7 +2741,9 @@
         "telegram_groups": [
             "seascapenetwork"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x936685c7d81a03a204219cc7d0e61684c65471ca",
@@ -2758,7 +2762,9 @@
         "telegram_groups": [
             "revomon"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x9a7023da8c411344746e34a566c282e5c273caac",
@@ -2782,7 +2788,9 @@
         "telegram_groups": [
             "gamewithspace"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x5fadf14198bf792550ad9df871defcd152162af7",
@@ -2821,9 +2829,11 @@
             "perlinx.finance"
         ],
         "telegram_groups": [
-            "perlinnetwork"
+            "perlinnetworkchat"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x111120a4cfacf4c78e0d6729274fd5a5ae2b1111",
