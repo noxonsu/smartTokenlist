@@ -3198,7 +3198,10 @@
     },
     {
         "contract_address": "0x77087ab5df23cfb52449a188e80e9096201c2097",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hi.com"
+        ]
     },
     {
         "contract_address": "0xac51066d7bec65dc4589368da368b212745d63e8",
@@ -3227,7 +3230,10 @@
     },
     {
         "contract_address": "0x9beb797fb006b4d16ebd57820c943d66d0e774ce",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "openleverage.finance"
+        ]
     },
     {
         "contract_address": "0xd52d7a6a6b87bc87b5cf33e3deeab63111275869",
@@ -3235,15 +3241,24 @@
     },
     {
         "contract_address": "0x4268b8f0b87b6eae5d897996e6b845ddbd99adf3",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "axelar.network"
+        ]
     },
     {
         "contract_address": "0x4b87f578d6fabf381f43bd2197fbb2a877da6ef8",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nzvedazbigfive.io"
+        ]
     },
     {
         "contract_address": "0x34d88304ba830bfeda7058601683c03ca503553d",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "chatcrypto.ai"
+        ]
     },
     {
         "contract_address": "0xec01d8c155613d58ad6a8b0287f094f4cc750000",
@@ -3267,19 +3282,31 @@
     },
     {
         "contract_address": "0xbededdf2ef49e87037c4fb2ca34d1ff3d3992a11",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fegtoken.com"
+        ]
     },
     {
         "contract_address": "0xb5aaacb666610ef62effc87350d77519af054f4b",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "futuriumcore.com"
+        ]
     },
     {
         "contract_address": "0x3e81aa8d6813ec9d7e6ddb4e523fb1601a0e86f3",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mrmint.io"
+        ]
     },
     {
         "contract_address": "0xfaca2b369724e73cf29f0f60d9b0db579af006df",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "crosswise.finance"
+        ]
     },
     {
         "contract_address": "0xb032de897cfeac9dc76cccf36a62040b24e4ec8a",
@@ -3287,11 +3314,17 @@
     },
     {
         "contract_address": "0xc8b44fc9e6b8fd806111a04b1f208a0087baf9b1",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "galaxyfinance.app"
+        ]
     },
     {
         "contract_address": "0x008749279f241cafd9f3eaf1b5791ed2549de906",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "aleo.org"
+        ]
     },
     {
         "contract_address": "0x4f36e3f47ee498c21b676ac0a805fe63d3846e57",

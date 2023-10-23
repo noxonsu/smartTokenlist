@@ -92,7 +92,7 @@ def main():
     print (len(filter_contracts))
 
 
-    filter_contracts=filter_contracts[:10]
+    filter_contracts=filter_contracts[:20]
     
 
     w3 = initialize_web3()
