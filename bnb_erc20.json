@@ -2643,21 +2643,33 @@
         "sourceScanned": "processed",
         "web_domains": [
             "mosaicalpha.com"
-        ]
+        ],
+        "telegram_groups": [
+            "mosaicalpha"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x90c97f71e18723b0cf0dfa30ee176ab653e89f40",
         "sourceScanned": "processed",
         "web_domains": [
             "frax.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "fraxfinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe48a3d7d0bc88d552f730b62c006bc925eadb9ee",
         "sourceScanned": "processed",
         "web_domains": [
             "frax.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "fraxfinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x29380a67e10348f3eb156b579d6634dcb1e9f0c9",
@@ -2671,7 +2683,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "metagamescoin.io"
-        ]
+        ],
+        "telegram_groups": [
+            "MetaGamesCoin_io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x256d1fce1b1221e8398f65f9b36033ce50b2d497",
