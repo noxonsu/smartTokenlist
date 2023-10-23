@@ -3658,11 +3658,17 @@
         "sourceScanned": "processed",
         "telegram_groups": [
             "cannafarmltd"
+        ],
+        "web_domains": [
+            "stellarcannacoin.org"
         ]
     },
     {
         "contract_address": "0x8ea5219a16c2dbf1d6335a6aa0c6bd45c50347c5",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "docs.openocean.finance"
+        ]
     },
     {
         "contract_address": "0x5546600f77eda1dcf2e8817ef4d617382e7f71f5",
@@ -3703,7 +3709,10 @@
     },
     {
         "contract_address": "0x71cce0035d82c21cf4b908bcd8f1117fff0fa623",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bitcoin.org"
+        ]
     },
     {
         "contract_address": "0x3448a216270ba35739f3ff989f4b0149d37af4bd",
@@ -3715,7 +3724,10 @@
     },
     {
         "contract_address": "0x3d935fb9d8c51826a074e17853c62c2a7990596f",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "noodlefi.com"
+        ]
     },
     {
         "contract_address": "0x7e17ae19ed742e9f0c8623926ce5afc1cb5177f5",
@@ -3732,7 +3744,10 @@
     },
     {
         "contract_address": "0x024e1f7323e8aa0fd5ecb7d9443a0dfbbf205694",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ettios.io"
+        ]
     },
     {
         "contract_address": "0x557e8d1e3787fb447c2b346076480ca6f983bf63",
