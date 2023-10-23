@@ -2836,7 +2836,10 @@
     },
     {
         "contract_address": "0xea89199344a492853502a7a699cc4230854451b8",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.onino.io"
+        ]
     },
     {
         "contract_address": "0x52b1b6324e143f7348daf7eb209a16f65ed242df",
@@ -2853,7 +2856,10 @@
     },
     {
         "contract_address": "0x6e3fd1dea627226998da6e9e0c7ef95f417d6c35",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "aexnglobal.info"
+        ]
     },
     {
         "contract_address": "0x69217cf12bd760d6ea850a128646b21f7a61ee07",
