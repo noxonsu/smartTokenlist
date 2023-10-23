@@ -2414,7 +2414,9 @@
         "telegram_groups": [
             "trustlines_network"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x291be4b6ea733148ad1d2489dd59da28f92b710e",
@@ -2425,7 +2427,9 @@
         "telegram_groups": [
             "Bitcoinbsctoken"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x2002f7c235fedc8acbfbbf0479527eb59d8f5dc7",
@@ -2436,7 +2440,9 @@
         "telegram_groups": [
             "lkcofficial"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x63a682514d8ed888964b2a9152106dbd30271501",
