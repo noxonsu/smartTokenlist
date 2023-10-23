@@ -7097,7 +7097,10 @@
     },
     {
         "contract_address": "0xf397680d99a92e4b60637e9f5c71a4def1f6c7b5",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.cryptofightclub.io"
+        ]
     },
     {
         "contract_address": "0x3607c4aa409170a41b2daa6bb5f0b0e19289ba9f",
@@ -7105,15 +7108,24 @@
     },
     {
         "contract_address": "0xaae1ded5fe72038eab96d2ebd6631739afd80d0a",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tether.to"
+        ]
     },
     {
         "contract_address": "0x6e4a971b81ca58045a2aa982eaa3d50c4ac38f42",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bridge.link"
+        ]
     },
     {
         "contract_address": "0x40af3827f39d0eacbf4a168f8d4ee67c121d11c9",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "trusttoken.com"
+        ]
     },
     {
         "contract_address": "0xfa82075a6d8f85be9146e64e0f02baa849f8e8fb",
@@ -7139,6 +7151,9 @@
         "sourceScanned": "processed",
         "telegram_groups": [
             "BitcoinCoreGroup"
+        ],
+        "web_domains": [
+            "btcbr.info"
         ]
     },
     {
@@ -7151,11 +7166,17 @@
     },
     {
         "contract_address": "0x12bb890508c125661e03b09ec06e404bc9289040",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "farm.radiocaca.com"
+        ]
     },
     {
         "contract_address": "0xab311ab65acbbf6042dfa1b958c83c29632b3d51",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "roboai.app"
+        ]
     },
     {
         "contract_address": "0xef86a451af7158245bd4fa6b1f8c8aa297e42b7d",
@@ -7163,7 +7184,10 @@
     },
     {
         "contract_address": "0x7dc6dc21ce07e6499fdcc30dcdb943a8ee4db802",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "gptguru.io"
+        ]
     },
     {
         "contract_address": "0x850262925905051573413039e6049a5e56fe6d51",
@@ -7174,6 +7198,9 @@
         "sourceScanned": "processed",
         "emails": [
             "goncalo.sa@consensys.net"
+        ],
+        "web_domains": [
+            "nine-chronicles.com"
         ]
     },
     {
@@ -7182,15 +7209,24 @@
     },
     {
         "contract_address": "0xd02d45df2d9e8ee28a15d199689aefb1b4a74043",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "rovi.network"
+        ]
     },
     {
         "contract_address": "0x0de08c1abe5fb86dd7fd2ac90400ace305138d5b",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "idena.io"
+        ]
     },
     {
         "contract_address": "0x111111111117dc0aa78b770fa6a738034120c302",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "1inch.io"
+        ]
     },
     {
         "contract_address": "0x583e9b5ebb7b67157f7817ce3d57a2604fc83881",
