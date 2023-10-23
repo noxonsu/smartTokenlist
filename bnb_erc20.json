@@ -3080,7 +3080,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "en.ucoin.net"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x70ad603ae3910304098323f903870c080436e8c5",
@@ -3091,21 +3093,29 @@
         "sourceScanned": "processed",
         "web_domains": [
             "juventus.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0611686a2558de495617685b3da12448657170fe",
         "sourceScanned": "processed",
         "web_domains": [
             "catpay.io"
-        ]
+        ],
+        "telegram_groups": [
+            "catecoin"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x03ff0ff224f904be3118461335064bb48df47938",
         "sourceScanned": "processed",
         "web_domains": [
             "harmony.one"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xadaae082237cb1772c9e079db95c117e6dd0c5af",
