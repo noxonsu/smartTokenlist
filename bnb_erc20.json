@@ -5078,7 +5078,9 @@
         "telegram_groups": [
             "maverickprotocolofficial"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x32d4c740769fc87f243b97e7baa187b5d124e178",
@@ -5093,7 +5095,9 @@
         "telegram_groups": [
             "ifortunecoin_officialgroup"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x75adb3f6d788c344c409278263f70c5b60feb33a",
@@ -5158,9 +5162,11 @@
             "minto.finance"
         ],
         "telegram_groups": [
-            "btcmtofficial"
+            "btcmtofficialchat"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "needhuman"
     },
     {
         "contract_address": "0x4c0e86c04041ed49e82d46e52635c356269c6d3f",
@@ -5188,7 +5194,9 @@
         "telegram_groups": [
             "CyberArenaCommunity"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x830b2c350ac5db8d45784cce1ea9b174379ecf03",
@@ -5259,7 +5267,9 @@
             "zenfuse_en",
             "ZenfuseES"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x594b615101ccaa2de48dfb0a5b4b4a58358f4c59",
