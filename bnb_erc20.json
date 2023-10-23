@@ -2529,21 +2529,27 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.realtechno.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf4bea2c219eb95c6745983b68185c7340c319d9e",
         "sourceScanned": "processed",
         "web_domains": [
             "fairspin.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc51c05b7ea1147a9c846136a6f64358db4d6548e",
         "sourceScanned": "processed",
         "web_domains": [
             "evom.game"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb6a7c99407006b93431a7f3b8f811c7c2b9a8a25",
@@ -2568,7 +2574,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.greenpeppertoken.net"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4ce851531588c431add986bff371312d4850211e",
