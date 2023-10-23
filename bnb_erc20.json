@@ -2844,7 +2844,9 @@
         "telegram_groups": [
             "officialARK"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xeac203935eda5ca96e70135d1608316169824a2c",
@@ -2883,7 +2885,9 @@
         "telegram_groups": [
             "oninoofficial"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x52b1b6324e143f7348daf7eb209a16f65ed242df",
