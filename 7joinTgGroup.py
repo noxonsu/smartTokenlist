@@ -107,7 +107,7 @@ def main():
             # If successful, update the status
             entry["tgGroupJoined"] = "success"
             
-            sleep(4)
+            sleep(3)
             telegram_group = entry["telegram_groups"][0] if entry["telegram_groups"][0] is not None else "Unknown"
             contract_address = entry["contract_address"] if entry["contract_address"] is not None else "Unknown"
             web_domain = entry['web_domains'][0] if entry['web_domains'][0] is not None else "Unknown"
@@ -117,8 +117,12 @@ def main():
             for message in app.get_chat_history(entry["telegram_groups"][0], limit=5):
                 if message.text:
                     lastm = lastm + message.text + "\n"
-            app.send_message(-1001904539844, text=lastm) # logs
-
+            #if lastm contain "send the solution" or "press the button below"
+            if re.search("send the solution", lastm, re.IGNORECASE) or re.search("press the button below", lastm, re.IGNORECASE):
+                print("found send the solution or press the button below")
+                app.send_message(-1001904539844, text=lastm)
+                entry["tgGroupJoined"] = "needhuman"
+           
         except errors.UsernameInvalid:
             print(f"Can't find {chat_link}")
             entry["tgGroupJoined"] = "error: Can't find chat"
