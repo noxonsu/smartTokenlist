@@ -3126,7 +3126,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.dominochain.com"
-        ]
+        ],
+        "telegram_groups": [
+            "Domiblockchain"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf9a6c1acb2c937a08f550fe15e0a416dacf62905",
@@ -3169,7 +3173,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "openai.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xffd22536cf2f2b62480bcbb95fe6c1b8ea0fa8f0",
@@ -3180,7 +3186,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "brightsway.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x08ccac619e9c6e95d48dfd23793d722a994b95b8",
@@ -3212,7 +3220,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "hi.com"
-        ]
+        ],
+        "telegram_groups": [
+            "hi_official"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xac51066d7bec65dc4589368da368b212745d63e8",
