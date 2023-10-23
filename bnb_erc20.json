@@ -6019,7 +6019,10 @@
     },
     {
         "contract_address": "0x1fa4a73a3f0133f0025378af00236f3abdee5d63",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "near.org"
+        ]
     },
     {
         "contract_address": "0xa0d2ca44a6880c4703b48b77efd0f9d6166fc9ab",
@@ -6035,7 +6038,10 @@
     },
     {
         "contract_address": "0x0d2af8e1f7dec481d17e87cddb13e870cb0b034b",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.tronado.io"
+        ]
     },
     {
         "contract_address": "0x070a08beef8d36734dd67a491202ff35a6a16d97",
@@ -6043,11 +6049,17 @@
     },
     {
         "contract_address": "0x128aedc7f41ffb82131215e1722d8366faad0cd4",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "binance.com"
+        ]
     },
     {
         "contract_address": "0x0f02b1f5af54e04fb6dd6550f009ac2429c4e30d",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "definix.com"
+        ]
     },
     {
         "contract_address": "0xaf027427dc6d31a3e7e162a710a5fe27e63e275f",
@@ -6069,11 +6081,17 @@
     },
     {
         "contract_address": "0xf027e525d491ef6ffcc478555fbb3cfabb3406a6",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "info.stafi.io"
+        ]
     },
     {
         "contract_address": "0x339fe932809e39a95b621a7f88bbf6c08eb6c978",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "txbit.io"
+        ]
     },
     {
         "contract_address": "0x934c1ee2cff1d7e58c37700d27355cef0adf7187",
@@ -6081,11 +6099,17 @@
     },
     {
         "contract_address": "0x9d39ef3bbca5927909dde44476656b81bbe4ee75",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "metawearorganic.com"
+        ]
     },
     {
         "contract_address": "0x0e9e35376c576e7df968977cef47845898820375",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.nebtc.org"
+        ]
     },
     {
         "contract_address": "0x4ada564f75e66ee9865a8e0266561ce3692e4356",
@@ -6093,7 +6117,10 @@
     },
     {
         "contract_address": "0x076c66a6b1aaccec186f1b4b1a8c93d298e31f55",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bftcbitsfactor.io"
+        ]
     },
     {
         "contract_address": "0xa55c1e67039b6d59e91eb4cda2bfc5a854989102",
@@ -6109,7 +6136,10 @@
     },
     {
         "contract_address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "polkadot.network"
+        ]
     },
     {
         "contract_address": "0x9c218c15d9280a872fa3a980c19383f5d615c66f",
