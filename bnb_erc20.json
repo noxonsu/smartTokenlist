@@ -4561,7 +4561,10 @@
     },
     {
         "contract_address": "0xbc10b397ad114fa016a064cff4bd267fa5e2c666",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.spacex.com"
+        ]
     },
     {
         "contract_address": "0x56d594d76b37be83c54abf8a4747d60ce58d32c2",
@@ -4577,7 +4580,10 @@
     },
     {
         "contract_address": "0xd88aa56e7214e9bd8e5a5df5312b516c7bd4fd27",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bcprotocol.io"
+        ]
     },
     {
         "contract_address": "0x0ed74e7797ce970d3f3cb103b5f8d98258f8a98b",
@@ -4593,7 +4599,10 @@
     },
     {
         "contract_address": "0x33dc5a6e2e01702c39f038f3a1c1cfefb81f2857",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "onexwallet.io"
+        ]
     },
     {
         "contract_address": "0x02ac08dce691e98784f93bc3a1eaf549402472cf",
@@ -4617,7 +4626,10 @@
     },
     {
         "contract_address": "0x829555f1197171d35ec51c095e27b47a246ac6a6",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "realital.com"
+        ]
     },
     {
         "contract_address": "0xb4813df72b6bdd30775ea0b24e8fe01e11c2768f",
