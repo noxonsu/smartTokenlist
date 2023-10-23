@@ -4686,7 +4686,9 @@
         "web_domains": [
             "betfury.io"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x07d675fa3c17259e6f2999a998ec099ae27aeee1",
@@ -4744,7 +4746,9 @@
         "web_domains": [
             "theloopnetwork.org"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xa469d8e55afcd58003d6cbdc770c0ecc2dd71945",
@@ -4783,9 +4787,11 @@
             "seedify.fund"
         ],
         "telegram_groups": [
-            "seedifyfund"
+            "seedifyfundofficial"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xbc10b397ad114fa016a064cff4bd267fa5e2c666",
@@ -4817,7 +4823,9 @@
         "telegram_groups": [
             "bcp_official_channel"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x0ed74e7797ce970d3f3cb103b5f8d98258f8a98b",
@@ -4898,7 +4906,9 @@
         "telegram_groups": [
             "btcx_token"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xb3391ec205cc37834e9aaa85741203b4d51922b8",
