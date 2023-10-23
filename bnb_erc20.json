@@ -6341,7 +6341,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "bftcbitsfactor.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa55c1e67039b6d59e91eb4cda2bfc5a854989102",
@@ -6360,7 +6362,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "polkadot.network"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9c218c15d9280a872fa3a980c19383f5d615c66f",
@@ -6371,28 +6375,38 @@
         "sourceScanned": "processed",
         "web_domains": [
             "kabosutoken.io"
-        ]
+        ],
+        "telegram_groups": [
+            "kabosuchat"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xfa45f3946caff4ecf39ec7a0d3dfde4cd54f3692",
         "sourceScanned": "processed",
         "web_domains": [
             "recentcoin.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc209831f7349d4e200d420326b3401899ab9ae68",
         "sourceScanned": "processed",
         "web_domains": [
             "crypterium.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb22c25aff73e9b0cd3873d34bdb5f8710f9f6b3d",
         "sourceScanned": "processed",
         "web_domains": [
             "bnbhubs.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8f9e0b00298dd2dcbdafac0d911d64d0d0529ba6",
