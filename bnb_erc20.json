@@ -3863,7 +3863,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "ettios.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x557e8d1e3787fb447c2b346076480ca6f983bf63",
@@ -3886,14 +3888,20 @@
         "sourceScanned": "processed",
         "web_domains": [
             "wombex.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "wombex"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa75d9ca2a0a1d547409d82e1b06618ec284a2ced",
         "sourceScanned": "processed",
         "web_domains": [
             "docs.wombex.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7b665b2f633d9363b89a98b094b1f9e732bd8f86",
@@ -3909,7 +3917,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "basicattentiontoken.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7102f5bb8cb3c6e7d085626e7a1347aafdf001f6",
