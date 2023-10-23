@@ -6421,7 +6421,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "trustwallet.com"
-        ]
+        ],
+        "telegram_groups": [
+            "trustwallet"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd0959d536e3dc746c1f0e3981a2de41d585b67bf",
@@ -6432,14 +6436,20 @@
         "sourceScanned": "processed",
         "web_domains": [
             "ethereumclassic.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x308fc5cdd559be5cb62b08a26a4699bbef4a888f",
         "sourceScanned": "processed",
         "web_domains": [
             "dcip.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "DCIPfinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x72d97ad5694e0ff5a9e33bd83ba281bb8cfa0b38",
@@ -6457,7 +6467,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "biztoken.io"
-        ]
+        ],
+        "telegram_groups": [
+            "biztoken_Group"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8a69c903ccc047343238854cdca24f28cd1ef6ba",
@@ -6507,14 +6521,22 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.daospace.fund"
-        ]
+        ],
+        "telegram_groups": [
+            "daospaceglobal"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1135883a1bc6776bf90c97845adc491922106dfb",
         "sourceScanned": "processed",
         "web_domains": [
             "rejuve.ai"
-        ]
+        ],
+        "telegram_groups": [
+            "rejuvecommunity"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4399ae7538c33ca24edd4c28c5dd7ce9a80acf81",
