@@ -3614,7 +3614,8 @@
             "chainport.io"
         ],
         "telegram_groups": [
-            "chainport"
+            "chainport",
+            "chainport_news"
         ],
         "p6": true,
         "myuser": 6003957640,
@@ -5379,21 +5380,27 @@
         "sourceScanned": "processed",
         "web_domains": [
             "circle.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7db5af2b9624e1b3b4bb69d6debd9ad1016a58ac",
         "sourceScanned": "processed",
         "web_domains": [
             "voltinu.in"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x1dc525b3b1a5040dd1324618c49374edf13c3c5d",
         "sourceScanned": "processed",
         "web_domains": [
             "internetdownloadmanager.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc62e15f6b3026be54d89223059788c76dd15d7f7",
@@ -5404,7 +5411,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "verragio.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x485d37ca1c8d4e0b5b11b87604816a4843c079ed",
@@ -5423,14 +5432,21 @@
         "sourceScanned": "processed",
         "web_domains": [
             "chainport.io"
-        ]
+        ],
+        "telegram_groups": [
+            "chainport",
+            "chainport_news"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x715d400f88c167884bbcc41c5fea407ed4d2f8a0",
         "sourceScanned": "processed",
         "web_domains": [
             "axieinfinity.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe50ae146592912d0f5bb144812010dc50a8e0564",
