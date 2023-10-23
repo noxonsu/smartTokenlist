@@ -93,7 +93,7 @@ def main():
     data = load_data_from_file("bnb_erc20.json")
     sites_without_summary = filter_sites_without_summary(data)
     print(f"Found {len(sites_without_summary)} sites without summary")
-    sites_without_summary = sites_without_summary[:4]
+    sites_without_summary = sites_without_summary[:6]
     if not sites_without_summary:
         print("All sites processed")
     else:

@@ -1,3 +1,5 @@
+import json
+
 def get_unique_domains():
     # Load bnb_erc20.json and find only domains
     with open("bnb_erc20.json", "r") as f:
