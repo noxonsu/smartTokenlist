@@ -6823,21 +6823,31 @@
         "sourceScanned": "processed",
         "web_domains": [
             "coin98.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8cf8238abf7b933bf8bb5ea2c7e4be101c11de2a",
         "sourceScanned": "processed",
         "web_domains": [
             "xp.network"
-        ]
+        ],
+        "telegram_groups": [
+            "xp_network"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x36bfbb1d5b3c9b336f3d64976599b6020ca805f1",
         "sourceScanned": "processed",
         "web_domains": [
             "planetsandbox.io"
-        ]
+        ],
+        "telegram_groups": [
+            "planetsandbox"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe96450e5991c2e6b42e03b6fb9f681d01048b636",
@@ -6852,14 +6862,20 @@
         "sourceScanned": "processed",
         "web_domains": [
             "tondtond.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x19cd9b8e42d4ef62c3ea124110d5cfd283ceac43",
         "sourceScanned": "processed",
         "web_domains": [
             "battleinfinity.io"
-        ]
+        ],
+        "telegram_groups": [
+            "battleinfinity"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf9114498b7f38f3337d6295a3a0f3edf8da71326",
@@ -6878,7 +6894,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.ktalk.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9467f15f44a8641389556387b43d9ed3f6981818",
