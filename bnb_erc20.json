@@ -3399,14 +3399,18 @@
         "sourceScanned": "processed",
         "web_domains": [
             "galaxyfinance.app"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x008749279f241cafd9f3eaf1b5791ed2549de906",
         "sourceScanned": "processed",
         "web_domains": [
             "aleo.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4f36e3f47ee498c21b676ac0a805fe63d3846e57",
@@ -3445,14 +3449,23 @@
         "sourceScanned": "processed",
         "web_domains": [
             "alpacafinance.org"
-        ]
+        ],
+        "telegram_groups": [
+            "alpacafinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe0f94ac5462997d2bc57287ac3a3ae4c31345d66",
         "sourceScanned": "processed",
         "web_domains": [
             "ceek.io"
-        ]
+        ],
+        "telegram_groups": [
+            "ceekmetaverse",
+            "CEEK_Airdropbot"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0d9549594c476c0626dea9a35bb0117240f9c8d3",
