@@ -3768,14 +3768,17 @@
         ],
         "web_domains": [
             "stellarcannacoin.org"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8ea5219a16c2dbf1d6335a6aa0c6bd45c50347c5",
         "sourceScanned": "processed",
         "web_domains": [
             "docs.openocean.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x5546600f77eda1dcf2e8817ef4d617382e7f71f5",
@@ -3819,7 +3822,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "bitcoin.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3448a216270ba35739f3ff989f4b0149d37af4bd",
@@ -3834,7 +3839,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "noodlefi.com"
-        ]
+        ],
+        "telegram_groups": [
+            "noodlefi"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7e17ae19ed742e9f0c8623926ce5afc1cb5177f5",
