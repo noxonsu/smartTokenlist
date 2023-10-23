@@ -5922,7 +5922,10 @@
     },
     {
         "contract_address": "0x09f062cbf43d56df6df8e5381f8a9df2a64c68c0",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "decentralfree.org"
+        ]
     },
     {
         "contract_address": "0xa19b018c4e9ac3038e1bc48793d261d2b91c77c3",
@@ -5946,7 +5949,10 @@
     },
     {
         "contract_address": "0xb4ebc6fd70a852d052163f25949c70fb9506d6a0",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "socapglobal.com"
+        ]
     },
     {
         "contract_address": "0xc3ef732749257183b263ab7a2de53de633ed5c20",
@@ -5958,7 +5964,10 @@
     },
     {
         "contract_address": "0x0e9766df73973abcfedde700497c57110ee5c301",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hodlhodl.com"
+        ]
     },
     {
         "contract_address": "0xd952c06cd22361ce5538d357b8f4f09f6f198641",
@@ -5966,13 +5975,19 @@
     },
     {
         "contract_address": "0xdbb2bcba130834d7d12a3e1b5ea143fd0edae2f3",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "beldex.io"
+        ]
     },
     {
         "contract_address": "0x805480f31867e7cee358165efd01d78cda992d5c",
         "sourceScanned": "processed",
         "emails": [
             "admin@utmswap.io"
+        ],
+        "web_domains": [
+            "utmcrypto.com"
         ]
     },
     {
@@ -5997,7 +6012,10 @@
     },
     {
         "contract_address": "0x92b9a513db8f369302ad03c76795d2689e00eb84",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "s-group.io"
+        ]
     },
     {
         "contract_address": "0x1fa4a73a3f0133f0025378af00236f3abdee5d63",
