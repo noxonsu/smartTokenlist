@@ -3344,28 +3344,43 @@
         "sourceScanned": "processed",
         "web_domains": [
             "fegtoken.com"
-        ]
+        ],
+        "telegram_groups": [
+            "FegSupport",
+            "fegchat"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb5aaacb666610ef62effc87350d77519af054f4b",
         "sourceScanned": "processed",
         "web_domains": [
             "futuriumcore.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3e81aa8d6813ec9d7e6ddb4e523fb1601a0e86f3",
         "sourceScanned": "processed",
         "web_domains": [
             "mrmint.io"
-        ]
+        ],
+        "telegram_groups": [
+            "MrMint_Community"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xfaca2b369724e73cf29f0f60d9b0db579af006df",
         "sourceScanned": "processed",
         "web_domains": [
             "crosswise.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "crosswise"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb032de897cfeac9dc76cccf36a62040b24e4ec8a",
