@@ -2840,7 +2840,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "arkfi.io"
-        ]
+        ],
+        "telegram_groups": [
+            "officialARK"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xeac203935eda5ca96e70135d1608316169824a2c",
@@ -2875,7 +2879,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.onino.io"
-        ]
+        ],
+        "telegram_groups": [
+            "oninoofficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x52b1b6324e143f7348daf7eb209a16f65ed242df",
@@ -2895,7 +2903,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "aexnglobal.info"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x69217cf12bd760d6ea850a128646b21f7a61ee07",
