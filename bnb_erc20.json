@@ -4347,7 +4347,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "apecoin.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe140ade198b6a2aea3e7fd855da14a3261c92911",
@@ -4390,28 +4392,38 @@
         "sourceScanned": "processed",
         "web_domains": [
             "pewall.net"
-        ]
+        ],
+        "telegram_groups": [
+            "PepeWalletPortal"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x16faf9daa401aa42506af503aa3d80b871c467a3",
         "sourceScanned": "processed",
         "web_domains": [
             "dexcheck.ai"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc45c56bf1aaf119a3c266f97bb28bf19646d0b1d",
         "sourceScanned": "processed",
         "web_domains": [
             "selftoken.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb64e280e9d1b5dbec4accedb2257a87b400db149",
         "sourceScanned": "processed",
         "web_domains": [
             "level.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2f00c5e7150b6d32f3c97e112364c27ff9d58ec5",
@@ -4422,7 +4434,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "biswap.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x92cb26ca653a51bbf916e6c3d58599cdb12e3a9f",
