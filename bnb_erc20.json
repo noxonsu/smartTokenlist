@@ -3282,7 +3282,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "openleverage.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd52d7a6a6b87bc87b5cf33e3deeab63111275869",
@@ -3293,21 +3295,29 @@
         "sourceScanned": "processed",
         "web_domains": [
             "axelar.network"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4b87f578d6fabf381f43bd2197fbb2a877da6ef8",
         "sourceScanned": "processed",
         "web_domains": [
             "nzvedazbigfive.io"
-        ]
+        ],
+        "telegram_groups": [
+            "thebigfivetokenchat"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x34d88304ba830bfeda7058601683c03ca503553d",
         "sourceScanned": "processed",
         "web_domains": [
             "chatcrypto.ai"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xec01d8c155613d58ad6a8b0287f094f4cc750000",
