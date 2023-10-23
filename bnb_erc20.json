@@ -5646,7 +5646,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "wrappedever.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa21a04efee12ccf0b1f325e92cee63e3e9a7af32",
@@ -5666,14 +5668,20 @@
         "sourceScanned": "processed",
         "web_domains": [
             "tokpie.io"
-        ]
+        ],
+        "telegram_groups": [
+            "tokpie"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe2ecc66e14efa96e9c55945f79564f468882d24c",
         "sourceScanned": "processed",
         "web_domains": [
             "disney.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xed3de203dd2ab770560e49b70d4cd6b74f7f9b21",
@@ -5691,21 +5699,32 @@
         "sourceScanned": "processed",
         "web_domains": [
             "cartesi.io"
-        ]
+        ],
+        "telegram_groups": [
+            "CartesiProject",
+            "cartesiproject"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9400aa8eb5126d20cde45c7822836bfb70f19878",
         "sourceScanned": "processed",
         "web_domains": [
             "drife.io"
-        ]
+        ],
+        "telegram_groups": [
+            "Drife_officialchat"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x84e03e21da9b32555885a85b7c23e5fc123c25dd",
         "sourceScanned": "processed",
         "web_domains": [
             "etuktuk.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x10b750f0043e034a889b489695c17a9058a9bb35",
