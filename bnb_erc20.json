@@ -7242,7 +7242,10 @@
     },
     {
         "contract_address": "0xeac9873291ddaca754ea5642114151f3035c67a2",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "decubate.com"
+        ]
     },
     {
         "contract_address": "0x7881cd2b5724431372f57c50e91611352557a606",
@@ -7250,7 +7253,10 @@
     },
     {
         "contract_address": "0x7b95723f5b987b4c0fb99fc8af843572a1834dd3",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "revenuecoin.io"
+        ]
     },
     {
         "contract_address": "0xeaf64d63db9332c33971ec48e123139cd7cde63d",
@@ -7262,7 +7268,10 @@
     },
     {
         "contract_address": "0x5ba3c6c884ba6d9099d26c3f4c608354a97305cd",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wepiggy.community"
+        ]
     },
     {
         "contract_address": "0xb5607c01915c22a841ef72e658cb31cd925968d9",
@@ -7293,7 +7302,10 @@
     },
     {
         "contract_address": "0x0e32d5996087294f34d083243136c42e72713f64",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "valobit.io"
+        ]
     },
     {
         "contract_address": "0x8b3f149395b1331ecb1cfb3e2e6a9b0170310384",
@@ -7309,7 +7321,10 @@
     },
     {
         "contract_address": "0xe60eaf5a997dfae83739e035b005a33afdcc6df5",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "deri.io"
+        ]
     },
     {
         "contract_address": "0xb27f95f03e1a882dc4436e88893190249502d040",
