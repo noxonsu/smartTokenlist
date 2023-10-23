@@ -2744,7 +2744,10 @@
     },
     {
         "contract_address": "0x95ca12cd249d27008a482009e101a8501cf3a64f",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "movefit.com"
+        ]
     },
     {
         "contract_address": "0xed5a2bdd637d2426a5680abeaa185b51b6cd2d0f",
@@ -2752,11 +2755,17 @@
     },
     {
         "contract_address": "0x0f9e4d49f25de22c2202af916b681fbb3790497b",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "perlinx.finance"
+        ]
     },
     {
         "contract_address": "0x111120a4cfacf4c78e0d6729274fd5a5ae2b1111",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "arkfi.io"
+        ]
     },
     {
         "contract_address": "0xeac203935eda5ca96e70135d1608316169824a2c",
