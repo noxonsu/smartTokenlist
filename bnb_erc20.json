@@ -2309,7 +2309,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "docs.pomerium.space"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4d1e90ab966ae26c778b2f9f365aa40abb13f53c",
@@ -2334,7 +2336,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "dyp.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "dypius"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x47df168eee505f45fefe43115379ab4466ea6b60",
@@ -2353,14 +2359,22 @@
         "sourceScanned": "processed",
         "web_domains": [
             "queenbots.com"
-        ]
+        ],
+        "telegram_groups": [
+            "QueenBot_AI"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x37a56cdcd83dce2868f721de58cb3830c44c6303",
         "sourceScanned": "processed",
         "web_domains": [
             "zebec.io"
-        ]
+        ],
+        "telegram_groups": [
+            "zebecprotocol"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb816a3ec9e9359e09c74485597afa7b812fd97be",
