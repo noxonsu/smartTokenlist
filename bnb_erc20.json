@@ -3067,10 +3067,12 @@
             "youcoinmeta.com"
         ],
         "telegram_groups": [
-            "YouCoinNews",
+            "YouCoinOnline",
             "YouCoinOnline"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x52555ad52fb6f80e6a4aabd794fe76688f1e86ff",
