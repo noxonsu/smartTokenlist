@@ -2251,7 +2251,9 @@
         "telegram_groups": [
             "AngleAnnouncements"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x6067490d05f3cf2fdffc0e353b1f5fd6e5ccdf70",
@@ -2340,7 +2342,9 @@
         "telegram_groups": [
             "dypius"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x47df168eee505f45fefe43115379ab4466ea6b60",
@@ -2363,7 +2367,9 @@
         "telegram_groups": [
             "QueenBot_AI"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x37a56cdcd83dce2868f721de58cb3830c44c6303",
@@ -2374,7 +2380,9 @@
         "telegram_groups": [
             "zebecprotocol"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xb816a3ec9e9359e09c74485597afa7b812fd97be",
