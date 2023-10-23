@@ -521,22 +521,22 @@
             "pancakeswap.finance"
         ],
         "telegram_groups": [
-            "pancakeswapJP",
+            "pancakeswap_ru",
+            "pancakeswap",
+            "pancakeswapIndonesia",
+            "pancakeswap_Ita",
+            "pancakeswap_PH",
+            "pancakeswapES",
             "pancakeswapPortuguese",
             "pancakeswap_CN",
-            "pancakeswapGeorgia",
-            "pancakeswapturkiye",
-            "pancakeswap_ru",
-            "pancakeswap_Ita",
-            "pancakeswap_DE",
-            "pancakeswap_PH",
-            "pancakeswap",
-            "pancakeswapES",
-            "PancakeSwapVN",
-            "pancakeswapIndonesia",
+            "pancakeswapJP",
             "pancakeswapFR",
+            "PancakeSwapVN",
+            "PancakeSwapAnn",
+            "pancakeswapturkiye",
+            "pancakeswap_DE",
             "pancakeswap_INDIA",
-            "PancakeSwapAnn"
+            "pancakeswapGeorgia"
         ],
         "p6": true,
         "myuser": 6003957640,
@@ -2134,22 +2134,22 @@
             "pancakeswap.finance"
         ],
         "telegram_groups": [
-            "pancakeswap_DE",
-            "pancakeswap_PH",
-            "pancakeswap",
-            "pancakeswapES",
-            "pancakeswapJP",
-            "pancakeswap_CN",
-            "pancakeswapPortuguese",
-            "PancakeSwapVN",
-            "pancakeswapIndonesia",
-            "pancakeswapGeorgia",
-            "pancakeswapFR",
-            "pancakeswapturkiye",
             "pancakeswap_ru",
-            "pancakeswap_INDIA",
+            "pancakeswap",
+            "pancakeswapIndonesia",
+            "pancakeswap_Ita",
+            "pancakeswapES",
+            "pancakeswap_PH",
+            "pancakeswapPortuguese",
+            "pancakeswap_CN",
+            "pancakeswapJP",
+            "pancakeswapFR",
+            "PancakeSwapVN",
             "PancakeSwapAnn",
-            "pancakeswap_Ita"
+            "pancakeswap_DE",
+            "pancakeswapturkiye",
+            "pancakeswap_INDIA",
+            "pancakeswapGeorgia"
         ],
         "p6": true,
         "myuser": 6003957640,
@@ -4024,28 +4024,58 @@
         ],
         "web_domains": [
             "merkly.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xec6432b90e7fd4d9f872cc5c781f05b617db861e",
         "sourceScanned": "processed",
         "web_domains": [
             "bit.team"
-        ]
+        ],
+        "telegram_groups": [
+            "bitteaminfo"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x307511f6d46c22c5f30789ee8f91722ced8b52da",
         "sourceScanned": "processed",
         "web_domains": [
             "pancakeswap.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "pancakeswapJP",
+            "pancakeswapFR",
+            "PancakeSwapVN",
+            "PancakeSwapAnn",
+            "pancakeswap_ru",
+            "pancakeswap",
+            "pancakeswapIndonesia",
+            "pancakeswap_Ita",
+            "pancakeswapGeorgia",
+            "pancakeswapES",
+            "pancakeswap_PH",
+            "pancakeswap_DE",
+            "pancakeswapturkiye",
+            "pancakeswap_INDIA",
+            "pancakeswapPortuguese",
+            "pancakeswap_CN"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc0e6ad13bd58413ed308729b688d601243e1cf77",
         "sourceScanned": "processed",
         "web_domains": [
             "www.blkwhale.com"
-        ]
+        ],
+        "telegram_groups": [
+            "BLK_KOREA",
+            "BLKwhale_global"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf92751a29816b0a8bca885935afcf52a1f25f92f",
