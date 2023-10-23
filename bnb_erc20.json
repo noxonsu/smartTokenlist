@@ -3721,7 +3721,9 @@
         "telegram_groups": [
             "ageofgodsnet"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "needhuman"
     },
     {
         "contract_address": "0x7d30b381bfda64854e1e51efa7063940b53eade3",
@@ -3769,7 +3771,9 @@
         "web_domains": [
             "stellarcannacoin.org"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by \"channels.JoinChannel\")"
     },
     {
         "contract_address": "0x8ea5219a16c2dbf1d6335a6aa0c6bd45c50347c5",
@@ -3843,7 +3847,9 @@
         "telegram_groups": [
             "noodlefi"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x7e17ae19ed742e9f0c8623926ce5afc1cb5177f5",
@@ -3892,7 +3898,9 @@
         "telegram_groups": [
             "wombex"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xa75d9ca2a0a1d547409d82e1b06618ec284a2ced",
@@ -3946,7 +3954,9 @@
         "telegram_groups": [
             "metaricaro"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x3ccb0abae18216d063a1fec7afdfb9b0dcf80b21",
