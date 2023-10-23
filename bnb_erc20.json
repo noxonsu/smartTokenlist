@@ -4521,7 +4521,9 @@
         "telegram_groups": [
             "OOFinance"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x64cc7ed01fa6b6d3e587e9c89da04ddbebe07580",
@@ -4554,10 +4556,12 @@
             "cashbackpro.net"
         ],
         "telegram_groups": [
-            "cbpfinance_ann",
+            "cbp_finance",
             "CBPFinance_Global"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x680a501ea4545c0fb18827ebcbcf9b645469abd5",
@@ -4568,7 +4572,9 @@
         "telegram_groups": [
             "coincalendarchat"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x88d7e9b65dc24cf54f5edef929225fc3e1580c25",
@@ -4579,7 +4585,9 @@
         "telegram_groups": [
             "jumptask"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x42f5150aeab10d7dfe3e010f8653fc84e09bb110",
@@ -4626,7 +4634,9 @@
         "telegram_groups": [
             "WizarreGame"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x13460eaaeade9427957f26a570345490b5d7910f",
