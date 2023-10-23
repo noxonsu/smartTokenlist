@@ -2393,7 +2393,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "tether.to"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd8632e58629af41611e1d684f1e537a6cddfb8d6",
@@ -2408,21 +2410,33 @@
         "sourceScanned": "processed",
         "web_domains": [
             "trustlines.network"
-        ]
+        ],
+        "telegram_groups": [
+            "trustlines_network"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x291be4b6ea733148ad1d2489dd59da28f92b710e",
         "sourceScanned": "processed",
         "web_domains": [
             "bitcoinbsc.io"
-        ]
+        ],
+        "telegram_groups": [
+            "Bitcoinbsctoken"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2002f7c235fedc8acbfbbf0479527eb59d8f5dc7",
         "sourceScanned": "processed",
         "web_domains": [
             "luckyico.com"
-        ]
+        ],
+        "telegram_groups": [
+            "lkcofficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x63a682514d8ed888964b2a9152106dbd30271501",
