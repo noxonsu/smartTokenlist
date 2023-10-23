@@ -6148,7 +6148,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "hodlhodl.com"
-        ]
+        ],
+        "telegram_groups": [
+            "HodlHodl"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd952c06cd22361ce5538d357b8f4f09f6f198641",
@@ -6159,7 +6163,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "beldex.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x805480f31867e7cee358165efd01d78cda992d5c",
@@ -6169,7 +6175,9 @@
         ],
         "web_domains": [
             "utmcrypto.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0566b9a8ffb8908682796751eed00722da967be0",
@@ -6196,14 +6204,18 @@
         "sourceScanned": "processed",
         "web_domains": [
             "s-group.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x1fa4a73a3f0133f0025378af00236f3abdee5d63",
         "sourceScanned": "processed",
         "web_domains": [
             "near.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa0d2ca44a6880c4703b48b77efd0f9d6166fc9ab",
@@ -6222,7 +6234,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.tronado.io"
-        ]
+        ],
+        "telegram_groups": [
+            "tronadoofficialgroup"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x070a08beef8d36734dd67a491202ff35a6a16d97",
