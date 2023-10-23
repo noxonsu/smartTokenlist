@@ -5134,7 +5134,10 @@
     },
     {
         "contract_address": "0xd598c6a94f638043af4b821d4eaad146d76a3558",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "anb.com"
+        ]
     },
     {
         "contract_address": "0x5048b7935c66a885ab11dda8ed01632a6fa4f920",
@@ -5142,15 +5145,24 @@
     },
     {
         "contract_address": "0x0c288a0584160c8dffda18999432f480ad81f548",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "circle.com"
+        ]
     },
     {
         "contract_address": "0x7db5af2b9624e1b3b4bb69d6debd9ad1016a58ac",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "voltinu.in"
+        ]
     },
     {
         "contract_address": "0x1dc525b3b1a5040dd1324618c49374edf13c3c5d",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "internetdownloadmanager.com"
+        ]
     },
     {
         "contract_address": "0xc62e15f6b3026be54d89223059788c76dd15d7f7",
@@ -5158,7 +5170,10 @@
     },
     {
         "contract_address": "0xf5532d7433cfd6f201f658a963c5e500caf46434",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "verragio.com"
+        ]
     },
     {
         "contract_address": "0x485d37ca1c8d4e0b5b11b87604816a4843c079ed",
@@ -5174,11 +5189,17 @@
     },
     {
         "contract_address": "0x431e0cd023a32532bf3969cddfc002c00e98429d",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "chainport.io"
+        ]
     },
     {
         "contract_address": "0x715d400f88c167884bbcc41c5fea407ed4d2f8a0",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "axieinfinity.com"
+        ]
     },
     {
         "contract_address": "0xe50ae146592912d0f5bb144812010dc50a8e0564",
@@ -5198,7 +5219,10 @@
     },
     {
         "contract_address": "0x140139d08c8cefdf9d44c30891dfd703fe92e6f2",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.atlp.org"
+        ]
     },
     {
         "contract_address": "0x07da81e9a684ab87fad7206b3bc8d0866f48cc7c",
