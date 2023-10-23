@@ -2577,15 +2577,24 @@
     },
     {
         "contract_address": "0xf95a5532d67c944dfa7eddd2f8c358fe0dc7fac2",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "marblex.io"
+        ]
     },
     {
         "contract_address": "0x9a663044484304f9d357877a9dd36c7951363333",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "kabosutoken.io"
+        ]
     },
     {
         "contract_address": "0xc8a11f433512c16ed895245f34bcc2ca44eb06bd",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "kissantoken.io"
+        ]
     },
     {
         "contract_address": "0x2ad69e58071b95c047bf78dc804db3662275b64a",
@@ -2593,15 +2602,24 @@
     },
     {
         "contract_address": "0xb007549db2a335364dfdce86001ee3b081051f03",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mosaicalpha.com"
+        ]
     },
     {
         "contract_address": "0x90c97f71e18723b0cf0dfa30ee176ab653e89f40",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "frax.finance"
+        ]
     },
     {
         "contract_address": "0xe48a3d7d0bc88d552f730b62c006bc925eadb9ee",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "frax.finance"
+        ]
     },
     {
         "contract_address": "0x29380a67e10348f3eb156b579d6634dcb1e9f0c9",
@@ -2612,11 +2630,17 @@
     },
     {
         "contract_address": "0x71c20e781c623c022134713ef7f78aacf0109849",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "metagamescoin.io"
+        ]
     },
     {
         "contract_address": "0x256d1fce1b1221e8398f65f9b36033ce50b2d497",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "alveychain.com"
+        ]
     },
     {
         "contract_address": "0x818835503f55283cd51a4399f595e295a9338753",
