@@ -5627,7 +5627,10 @@
     },
     {
         "contract_address": "0x0112e557d400474717056c4e6d40edd846f38351",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "phala.network"
+        ]
     },
     {
         "contract_address": "0xa838c1dfd1dd7a78a21eaa05805c7fecba29faf6",
@@ -5639,7 +5642,10 @@
     },
     {
         "contract_address": "0x417871f0682db63924b931fc16ba3ff40343cdcb",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.nasdex.xyz"
+        ]
     },
     {
         "contract_address": "0xf03e02acbc5eb22de027ea4f59235966f5810d4f",
@@ -5647,7 +5653,10 @@
     },
     {
         "contract_address": "0xeca88125a5adbe82614ffc12d0db554e2e2867c8",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "venus.io"
+        ]
     },
     {
         "contract_address": "0xe192a7c20bbff97906500f0f81a54f3d3ad88b9e",
@@ -5655,11 +5664,17 @@
     },
     {
         "contract_address": "0xbf5140a22578168fd562dccf235e5d43a02ce9b1",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "uniswap.org"
+        ]
     },
     {
         "contract_address": "0x9a2478c4036548864d96a97fbf93f6a3341fedac",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zillionxo.io"
+        ]
     },
     {
         "contract_address": "0x0a09432521c4964f6e0ba8a2fc33c14ca5ce416d",
@@ -5670,15 +5685,24 @@
         "sourceScanned": "processed",
         "emails": [
             "goncalo.sa@consensys.net"
+        ],
+        "web_domains": [
+            "radiant.capital"
         ]
     },
     {
         "contract_address": "0x529c79f6918665ebe250f32eeeaa1d410a0798c6",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hypergpt.ai"
+        ]
     },
     {
         "contract_address": "0x6f51a1674befdd77f7ab1246b83adb9f13613762",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "snfts.seedify.fund"
+        ]
     },
     {
         "contract_address": "0x01b7b50221523342591933b1b424ee14f50f4994",
