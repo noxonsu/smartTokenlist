@@ -4630,7 +4630,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "daoswap.financial"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf7b629283fb0585e490603a29b2b70b92d69f579",
@@ -4649,7 +4651,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "thedividendtracker.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf9977a9a2ad4459425dca80500bfb72b20815966",
@@ -4660,7 +4664,8 @@
         ],
         "web_domains": [
             "betfury.io"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x07d675fa3c17259e6f2999a998ec099ae27aeee1",
@@ -4680,7 +4685,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "tribalisland.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8a87c36bb9e9b91c76e7a0a374a59e57cf0c0f5b",
@@ -4703,7 +4710,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "synthetix.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xce186ad6430e2fe494a22c9edbd4c68794a28b35",
@@ -4713,7 +4722,8 @@
         ],
         "web_domains": [
             "theloopnetwork.org"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa469d8e55afcd58003d6cbdc770c0ecc2dd71945",
