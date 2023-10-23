@@ -4137,7 +4137,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "zilliqa.com"
-        ]
+        ],
+        "telegram_groups": [
+            "zilliqachat"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x34ba3af693d6c776d73c7fa67e2b2e79be8ef4ed",
@@ -4152,7 +4156,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "mstable.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf6345039756e6d3754d74c1b2dc2388ce5dd542b",
@@ -4167,7 +4173,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "zealbet.co"
-        ]
+        ],
+        "telegram_groups": [
+            "PortalZeal"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa6d32c1993d961227741a37772bc6351e2b11dab",
@@ -4177,7 +4187,8 @@
         ],
         "web_domains": [
             "www.arthadao.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbf76dbf84b16da71366fc73cf8c19600449ce71a",
@@ -4200,14 +4211,18 @@
         "sourceScanned": "processed",
         "web_domains": [
             "mtwtoken.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4033a4f1835c5237240c1f95cb518c30312375cb",
         "sourceScanned": "processed",
         "web_domains": [
             "nbf.ae"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd31b6796a451bafa4383a24b2e06a308e8b4914d",
