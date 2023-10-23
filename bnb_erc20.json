@@ -6341,11 +6341,17 @@
     },
     {
         "contract_address": "0xaf7c3e578621aabab184c706bad94ffb1a2e0179",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.daospace.fund"
+        ]
     },
     {
         "contract_address": "0x1135883a1bc6776bf90c97845adc491922106dfb",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "rejuve.ai"
+        ]
     },
     {
         "contract_address": "0x4399ae7538c33ca24edd4c28c5dd7ce9a80acf81",
@@ -6369,15 +6375,24 @@
     },
     {
         "contract_address": "0x299142a6370e1912156e53fbd4f25d7ba49ddcc5",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.aimeta.club"
+        ]
     },
     {
         "contract_address": "0x2534b1e82aa172e1d7289298bfbb47100642ef7c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.alphadao.capital"
+        ]
     },
     {
         "contract_address": "0x3bc5ac0dfdc871b365d159f728dd1b9a0b5481e8",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "staderlabs.com"
+        ]
     },
     {
         "contract_address": "0x1429a28ac31f34c5eb304a508e8262d7bdb70dee",
@@ -6400,7 +6415,10 @@
     },
     {
         "contract_address": "0x47c454ca6be2f6def6f32b638c80f91c9c3c5949",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "gfal.com"
+        ]
     },
     {
         "contract_address": "0x98999aa1b0d17fb832fd509e13b67fe506513a6d",
@@ -6408,7 +6426,10 @@
     },
     {
         "contract_address": "0x3d04edc843e74935c09f54cc4b2fe1870e347ac9",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "curioinvest.com"
+        ]
     },
     {
         "contract_address": "0x89bd89f7e9284096d176bb2e61dc6c9e0960d2bb",
