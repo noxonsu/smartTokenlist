@@ -6917,15 +6917,24 @@
     },
     {
         "contract_address": "0x9710a80446118ee0178b6142e2d575420a62e61c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "supraoracles.com"
+        ]
     },
     {
         "contract_address": "0x5bd97d0c8e668298f2a6baa069f47f556a447a78",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "apemax.com"
+        ]
     },
     {
         "contract_address": "0x5a41f637c3f7553dba6ddc2d3ca92641096577ea",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "info.julswap.com"
+        ]
     },
     {
         "contract_address": "0x3b0662dc9f0a37248b97327cfcb39ce44df83fa7",
@@ -6933,7 +6942,10 @@
     },
     {
         "contract_address": "0xf701b5696c9aaa9a772a9ff4010e10d1c2c31e03",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "usdn.org"
+        ]
     },
     {
         "contract_address": "0x9ecc662d0f492aa1a9484ed06ace499fee579205",
@@ -6953,11 +6965,17 @@
     },
     {
         "contract_address": "0x361c60b7c2828fcab80988d00d1d542c83387b50",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "defichain.com"
+        ]
     },
     {
         "contract_address": "0x9c65ab58d8d978db963e63f2bfb7121627e3a739",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mdex.com"
+        ]
     },
     {
         "contract_address": "0xdb95fbc5532eeb43deed56c8dc050c930e31017e",
@@ -6965,11 +6983,17 @@
     },
     {
         "contract_address": "0xfbf19d00e531ce896bd631a19bef74f4bfe1d340",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "muquant.com"
+        ]
     },
     {
         "contract_address": "0xa6fdea1655910c504e974f7f1b520b74be21857b",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "stable.fish"
+        ]
     },
     {
         "contract_address": "0x5f7f6cb266737b89f7af86b30f03ae94334b83e9",
@@ -6977,15 +7001,24 @@
     },
     {
         "contract_address": "0xb2bd0749dbe21f623d9baba856d3b0f0e1bfec9c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dusk.network"
+        ]
     },
     {
         "contract_address": "0x7bc75e291e656e8658d66be1cc8154a3769a35dd",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.imem.app"
+        ]
     },
     {
         "contract_address": "0x29e57c3918d38ae7cb4c567a4112dfe0fcb9c893",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bitcoin-black.net"
+        ]
     },
     {
         "contract_address": "0x35da89a339de2c78f8fb1c5e1a9a9c6539e2fa8a",
