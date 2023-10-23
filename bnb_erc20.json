@@ -158,7 +158,14 @@
         "processedGpt": true,
         "web_domains": [
             "mobox.io"
-        ]
+        ],
+        "telegram_groups": [
+            "mobox_io"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success",
+        "p8": true
     },
     {
         "contract_address": "0x98f39d0f8c67885071cc99c5af1d4cacbcc89b0c",
@@ -513,22 +520,22 @@
             "pancakeswap.finance"
         ],
         "telegram_groups": [
-            "pancakeswap_ru",
-            "PancakeSwapAnn",
-            "pancakeswap_DE",
-            "pancakeswapturkiye",
-            "pancakeswapFR",
             "pancakeswapJP",
-            "pancakeswap_Ita",
-            "pancakeswapIndonesia",
-            "pancakeswapES",
-            "pancakeswapGeorgia",
-            "pancakeswap_PH",
-            "pancakeswap_INDIA",
             "pancakeswapPortuguese",
             "pancakeswap_CN",
+            "pancakeswapGeorgia",
+            "pancakeswapturkiye",
+            "pancakeswap_ru",
+            "pancakeswap_Ita",
+            "pancakeswap_DE",
+            "pancakeswap_PH",
+            "pancakeswap",
+            "pancakeswapES",
             "PancakeSwapVN",
-            "pancakeswap"
+            "pancakeswapIndonesia",
+            "pancakeswapFR",
+            "pancakeswap_INDIA",
+            "PancakeSwapAnn"
         ],
         "p6": true,
         "myuser": 6003957640,
@@ -881,7 +888,8 @@
         ],
         "p6": true,
         "myuser": 6003957640,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "p8": true
     },
     {
         "contract_address": "0x85eac5ac2f758618dfa09bdbe0cf174e7d574d5b",
@@ -890,7 +898,7 @@
             "tron.network"
         ],
         "telegram_groups": [
-            "tronnetworkAR",
+            "tronnetworkArab",
             "tronnetworkKR",
             "tronnetworkEN",
             "tronnetworkRU",
@@ -898,7 +906,10 @@
             "tronnetworkES",
             "tronnetworkCN03"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success",
+        "p8": true
     },
     {
         "contract_address": "0xdcd103bc6d14829c39afc9c10c9c373ce385d2c5",
@@ -913,7 +924,9 @@
         "telegram_groups": [
             "cryptexfinance"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x9029d86aa59b4680b40f4f42505d5f8f880d2ac5",
@@ -934,7 +947,9 @@
         "web_domains": [
             "worldpeacecoin.io"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't find chat"
     },
     {
         "contract_address": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95",
@@ -1013,7 +1028,9 @@
         "telegram_groups": [
             "makerdaoOfficial"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xf5592f1a8f32be149541fcba55c2374becdef364",
@@ -1042,9 +1059,12 @@
             "vemate.com"
         ],
         "telegram_groups": [
-            "vemateofficial"
+            "vemateofficialannouncements"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success",
+        "p8": true
     },
     {
         "contract_address": "0xcebef3df1f3c5bfd90fde603e71f31a53b11944d",
@@ -1055,7 +1075,10 @@
         "telegram_groups": [
             "LitLabGames"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success",
+        "p8": true
     },
     {
         "contract_address": "0xcc6eb347bbe570bf9b4788e2fafe0fa6c8719d97",
@@ -1095,7 +1118,9 @@
         "telegram_groups": [
             "CardanoAnnouncements"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xb0d502e938ed5f4df2e681fe6e419ff29631d62b",
@@ -1120,35 +1145,67 @@
         "sourceScanned": "processed",
         "web_domains": [
             "gt-protocol.io"
-        ]
+        ],
+        "telegram_groups": [
+            "GTProtocolNews",
+            "GTProtocol",
+            "Global_Traders_Protocol_Channel"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x352cb5e19b12fc216548a2677bd0fce83bae434b",
         "sourceScanned": "processed",
         "web_domains": [
             "www.bittorrent.com"
-        ]
+        ],
+        "telegram_groups": [
+            "BTTBitTorrentAR",
+            "BTTBitTorrentJP",
+            "BTTBitTorrentCN",
+            "BTTBitTorrentIR",
+            "BTTBitTorrent",
+            "BTTBitTorrentKR",
+            "BTTBitTorrentRU",
+            "BTTBitTorrentES"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x8d25dcb15d8c2b8cf2b6337f9307f93e016d8e89",
         "sourceScanned": "processed",
         "web_domains": [
             "daodao.zone"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x04f46cdfe8dd348e41902eef1aff19ace1661f4c",
         "sourceScanned": "processed",
         "web_domains": [
             "ftc.gov"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xdd325c38b12903b727d16961e61333f4871a70e0",
         "sourceScanned": "processed",
         "web_domains": [
             "elephant.money"
-        ]
+        ],
+        "telegram_groups": [
+            "elephant_money"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success",
+        "p8": true
     },
     {
         "contract_address": "0x23b891e5c62e0955ae2bd185990103928ab817b3",
@@ -1171,7 +1228,14 @@
         "sourceScanned": "processed",
         "web_domains": [
             "polygon.technology"
-        ]
+        ],
+        "telegram_groups": [
+            "PolygonAnnouncements"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success",
+        "p8": true
     },
     {
         "contract_address": "0x9643401e06e23d7dbf40c233100b61b8fbe7fe31",
@@ -1181,7 +1245,10 @@
         ],
         "web_domains": [
             "bluemoonmining.com"
-        ]
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xb9d35811424600fa9e8cd62a0471fbd025131cb8",
@@ -1193,7 +1260,17 @@
     },
     {
         "contract_address": "0xc2c28b58db223da89b567a0a98197fc17c115148",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.sologenic.com"
+        ],
+        "telegram_groups": [
+            "SOLOGENICxGoSOLO"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success",
+        "p8": true
     },
     {
         "contract_address": "0x5b1f874d0b0c5ee17a495cbb70ab8bf64107a3bd",
@@ -1209,7 +1286,12 @@
     },
     {
         "contract_address": "0xd59a27a2abc3caa136050fe1799a263394754bc4",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tether.to"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb6307cc320c76101e87456e06557fa939accc71f",
@@ -1237,7 +1319,12 @@
     },
     {
         "contract_address": "0x575e28d479e05b5c1b6be41283b8ff180c554308",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.golddesertcoin.com"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xffdb88c2cd07598c622f344487a41bfdb99959cd",
@@ -1251,8 +1338,16 @@
         "contract_address": "0xde18e3526fa7bbdd123fb19f6df9b1846f25b1a1",
         "sourceScanned": "processed",
         "telegram_groups": [
+            "MetaBotGlobal",
+            "MetaBlockchainBot",
             "METABOTCEN"
-        ]
+        ],
+        "web_domains": [
+            "metabot.finance"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xaca21f21896a26012b74d5d5a1aa5dc4ba46d557",
@@ -1264,7 +1359,17 @@
     },
     {
         "contract_address": "0x53e562b9b7e5e94b81f10e96ee70ad06df3d2657",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "babyswap.finance"
+        ],
+        "telegram_groups": [
+            "baby_swap"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success",
+        "p8": true
     },
     {
         "contract_address": "0x9f8a75436e7e808f3fb348182e0ea42d2dd467cd",
@@ -1276,11 +1381,26 @@
     },
     {
         "contract_address": "0x7e9ab560d37e62883e882474b096643cab234b65",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "token.ultimate-champions.com"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8032ead78e421e62ca43a6bef9231f4b42ce2c01",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "birdkillx.com"
+        ],
+        "telegram_groups": [
+            "birdkillx"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success",
+        "p8": true
     },
     {
         "contract_address": "0x523a03b5ae8960d4ee234c555e44dc4cc673b4df",
@@ -1307,7 +1427,17 @@
     },
     {
         "contract_address": "0x6679eb24f59dfe111864aec72b443d1da666b360",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ariva.world"
+        ],
+        "telegram_groups": [
+            "ariva_arv"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success",
+        "p8": true
     },
     {
         "contract_address": "0xdcf0929aa20077c7ff96da0cd91ab5183c29abdd",
@@ -1383,7 +1513,17 @@
     },
     {
         "contract_address": "0xcb5327ed4649548e0d73e70b633cdfd99af6da87",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "getprimal.com"
+        ],
+        "telegram_groups": [
+            "Enterprimal"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success",
+        "p8": true
     },
     {
         "contract_address": "0xc0ff5eab9909e78b7391539fa43e9688dd0b9e31",
@@ -1417,7 +1557,17 @@
     },
     {
         "contract_address": "0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "safepal.com"
+        ],
+        "telegram_groups": [
+            "SafePalwallet"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success",
+        "p8": true
     },
     {
         "contract_address": "0x7ddee176f665cd201f93eede625770e2fd911990",
@@ -1437,15 +1587,40 @@
     },
     {
         "contract_address": "0x0d8ce2a99bb6e3b7db580ed848240e4a0f9ae153",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "filecoin.io"
+        ],
+        "telegram_groups": [
+            "filecoinio"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success",
+        "p8": true
     },
     {
         "contract_address": "0xed8711feff83b446158259981fd97645856e82a5",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mobox.io"
+        ],
+        "telegram_groups": [
+            "mobox_io"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success",
+        "p8": true
     },
     {
         "contract_address": "0x2d060ef4d6bf7f9e5edde373ab735513c0e4f944",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "aitechsystems.com"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x62fdf8567e67ebe4066435d570256eae0bfa5170",
@@ -1460,7 +1635,13 @@
         "sourceScanned": "processed",
         "telegram_groups": [
             "RichQuackBsc"
-        ]
+        ],
+        "web_domains": [
+            "richquack.com"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x2ab0e9e4ee70fff1fb9d67031e44f6410170d00e",
@@ -1471,7 +1652,16 @@
     },
     {
         "contract_address": "0x3e675b7937e57b9826c361ab7d9c721df6f066e4",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "certicosign.com"
+        ],
+        "telegram_groups": [
+            "Certicosign"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x207b298f4e08facb491f13e8335969e12c912d3e",
@@ -1503,7 +1693,12 @@
     },
     {
         "contract_address": "0xc9c8050639c4cc0df159e0e47020d6e392191407",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "memostoken.com"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x332323104c338e0a92e19eaee60fc78f48375c97",
@@ -1511,11 +1706,21 @@
     },
     {
         "contract_address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ripple.com"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc489ddc0139e044d4c43c8921bd8ef9a6b288643",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "playbux.co"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x08a84af1368cd333073ac5dfb2254208e06b3a70",
@@ -1598,11 +1803,49 @@
     },
     {
         "contract_address": "0x6cad12b3618a3c7ef1feb6c91fdc3251f58c2a90",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ninneko.com"
+        ],
+        "telegram_groups": [
+            "ninnekogame",
+            "ninnekogame"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x80702018c28988dfe3c900561745f7af1b9fdb37",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.studentcoin.org"
+        ],
+        "telegram_groups": [
+            "studentcoinchina",
+            "studentcoinfrance",
+            "studentcoinromania",
+            "studentcoingermany",
+            "studentcoinrussia",
+            "studentcoinarabic",
+            "studentcoinspain",
+            "studentcoinnigeria",
+            "studentcoindutch",
+            "studentcoinportugal",
+            "studentcoinindonesia",
+            "studentcoingreece",
+            "studentcoinkorea",
+            "studentcointurkey",
+            "studentcoin",
+            "studentcoinpoland",
+            "studentcoinjapan",
+            "studentcoinindia",
+            "studentcoinvietnam",
+            "studentcoinitaly"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xbdeae1ca48894a1759a8374d63925f21f2ee2639",
@@ -1622,7 +1865,12 @@
     },
     {
         "contract_address": "0x8923881e8cae6684c2bb84d69ae88a9bbbec8d5a",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fsl.fmrib.ox.ac.uk"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x5c6d9e2625bf84214c2f074f70cdf28cfbd1bf81",
@@ -1650,7 +1898,12 @@
     },
     {
         "contract_address": "0x965f527d9159dce6288a2219db51fc6eef120dd1",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "biswap.org"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc1d31db22afa8b8c9368836f99850477288bdde1",
@@ -1662,7 +1915,19 @@
     },
     {
         "contract_address": "0x8db1d28ee0d822367af8d220c0dc7cb6fe9dc442",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ethpad.network"
+        ],
+        "telegram_groups": [
+            "bscpad",
+            "ethpad",
+            "bscpannouncements",
+            "ethpadannouncements"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xdd2955ed5572344c36684c50e7c2498a3b967c45",
@@ -1678,11 +1943,30 @@
     },
     {
         "contract_address": "0x776f9987d9deed90eed791cbd824d971fd5ccf09",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "layerai.org"
+        ],
+        "telegram_groups": [
+            "CryptoGPTorg",
+            "LayerAI_org"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x0b15ddf19d47e6a86a56148fb4afffc6929bcb89",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "impossible.finance"
+        ],
+        "telegram_groups": [
+            "ImpossibleFinance"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x6117941ff44c287c7bec70432c270bbe29c29e5f",
@@ -1702,11 +1986,26 @@
     },
     {
         "contract_address": "0x48077400faf11183c043feb5184a13ea628bb0db",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "coinzix.com"
+        ],
+        "telegram_groups": [
+            "coinzixtoken",
+            "coinzix_en"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xe36508c5e597d0e1ebee5671ba15750bd80391c7",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "thedividendtracker.com"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x94db03752342bc9b5bbf89e3bf0132494f0cb2b3",
@@ -1726,7 +2025,12 @@
     },
     {
         "contract_address": "0x39ae8eefb05138f418bb27659c21632dc1ddab10",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "kardiachain.io"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x22168882276e5d5e1da694343b41dd7726eeb288",
@@ -1742,11 +2046,25 @@
     },
     {
         "contract_address": "0x8025baf3dedd5a7c976fc08987d4d7c1081afb66",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "kabosutoken.io"
+        ],
+        "telegram_groups": [
+            "kabosuchat"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x18c42c8b23c84b5ec1ccce7d424477d8720fc08c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "kegproject.com"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7f9ad7a5854658d984924e868187b2135514fb88",
@@ -1774,15 +2092,53 @@
     },
     {
         "contract_address": "0xa177bdd433aea3702beb46652adcfc64248d4ab3",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.probinex.com"
+        ],
+        "telegram_groups": [
+            "enprobinex"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x30812dbe89b40b5b7ac1bc9134e82ebbc0b57995",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pancakeswap.finance"
+        ],
+        "telegram_groups": [
+            "pancakeswap_DE",
+            "pancakeswap_PH",
+            "pancakeswap",
+            "pancakeswapES",
+            "pancakeswapJP",
+            "pancakeswap_CN",
+            "pancakeswapPortuguese",
+            "PancakeSwapVN",
+            "pancakeswapIndonesia",
+            "pancakeswapGeorgia",
+            "pancakeswapFR",
+            "pancakeswapturkiye",
+            "pancakeswap_ru",
+            "pancakeswap_INDIA",
+            "PancakeSwapAnn",
+            "pancakeswap_Ita"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xcfcf1705589710f2ce5ce47adece090ba16d1c80",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bitcoin.org"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x922722e9ef614ec9a3e94b78496e92abfbb5a624",
@@ -1794,7 +2150,16 @@
     },
     {
         "contract_address": "0xd23811058eb6e7967d9a00dc3886e75610c4abba",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "knightswap.financial"
+        ],
+        "telegram_groups": [
+            "knightswap"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xd71710c21fba293eb12e0ca079fe37f50ad17d42",
@@ -1826,7 +2191,12 @@
     },
     {
         "contract_address": "0xa8d881fb86351b74ec99732214253305ae9f2422",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wodeswap.com"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x175facdd947c995ad547f6ad952d26826758a4da",
@@ -1850,11 +2220,21 @@
     },
     {
         "contract_address": "0xfffa7877af6ead598d9383ef2c73e3506221bd28",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sysmex.com"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x83d3c2d1a55687498df6800c5f173ec6a7556089",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "beatsbydre.com"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2ac8f3ccada64981a2ee4552319c1364be9101e6",
@@ -1870,7 +2250,16 @@
     },
     {
         "contract_address": "0xe9f183fc656656f1f17af1f2b0df79b8ff9ad8ed",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "angle.money"
+        ],
+        "telegram_groups": [
+            "AngleAnnouncements"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x6067490d05f3cf2fdffc0e353b1f5fd6e5ccdf70",
@@ -1890,7 +2279,12 @@
     },
     {
         "contract_address": "0x830f703913146d905d5557415414f743255c8c9c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "binance.com"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6cdb0a2c814aed1d1ca4063a6ba259096ed989e6",
@@ -1898,11 +2292,21 @@
     },
     {
         "contract_address": "0xe5d7eee175f96e76ae88b006d2e5e10b5b320b8c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "binance.com"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4760cea6c57e4de900afd3c97aa526bd11bb7373",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ccm.city"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xffbad5a8b1bf05ed6b9eeb6071176b89cdc3173d",
@@ -1910,7 +2314,12 @@
     },
     {
         "contract_address": "0x0733618ab62eeec815f2d1739b7a50bf9e74d8a2",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "docs.pomerium.space"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4d1e90ab966ae26c778b2f9f365aa40abb13f53c",
@@ -1922,7 +2331,9 @@
         "telegram_groups": [
             "SolarTechnoOfficial"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x0b47a1573c9cf604619a56024ed275064b1f0217",
@@ -1930,7 +2341,16 @@
     },
     {
         "contract_address": "0x961c8c0b1aad0c0b10a51fef6a867e3091bcef17",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dyp.finance"
+        ],
+        "telegram_groups": [
+            "dypius"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x47df168eee505f45fefe43115379ab4466ea6b60",
@@ -1946,11 +2366,29 @@
     },
     {
         "contract_address": "0xef048634a3583386d09ffad8b445c7c5a97ce179",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "queenbots.com"
+        ],
+        "telegram_groups": [
+            "QueenBot_AI"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x37a56cdcd83dce2868f721de58cb3830c44c6303",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zebec.io"
+        ],
+        "telegram_groups": [
+            "zebecprotocol"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xb816a3ec9e9359e09c74485597afa7b812fd97be",
@@ -1958,7 +2396,12 @@
     },
     {
         "contract_address": "0xae662f2a5e594b97a1919ee824fd722476597ce3",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tether.to"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd8632e58629af41611e1d684f1e537a6cddfb8d6",
@@ -1970,15 +2413,42 @@
     },
     {
         "contract_address": "0xf7d142a354322c7560250caa0e2a06c89649e4c2",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "trustlines.network"
+        ],
+        "telegram_groups": [
+            "trustlines_network"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x291be4b6ea733148ad1d2489dd59da28f92b710e",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bitcoinbsc.io"
+        ],
+        "telegram_groups": [
+            "Bitcoinbsctoken"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x2002f7c235fedc8acbfbbf0479527eb59d8f5dc7",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "luckyico.com"
+        ],
+        "telegram_groups": [
+            "lkcofficial"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x63a682514d8ed888964b2a9152106dbd30271501",
@@ -2068,15 +2538,30 @@
     },
     {
         "contract_address": "0xfa318dba7b846f6a60acef8b9fde750135e0a179",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.realtechno.io"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf4bea2c219eb95c6745983b68185c7340c319d9e",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fairspin.io"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc51c05b7ea1147a9c846136a6f64358db4d6548e",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "evom.game"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb6a7c99407006b93431a7f3b8f811c7c2b9a8a25",
@@ -2098,11 +2583,21 @@
     },
     {
         "contract_address": "0xdaaca4115b1da05d3401c895e3d950580e1ed413",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.greenpeppertoken.net"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4ce851531588c431add986bff371312d4850211e",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "frapped.io"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9bb9dd20927355ac963c2eda25b6ab404a29245a",
@@ -2118,15 +2613,34 @@
     },
     {
         "contract_address": "0xf95a5532d67c944dfa7eddd2f8c358fe0dc7fac2",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "marblex.io"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9a663044484304f9d357877a9dd36c7951363333",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "kabosutoken.io"
+        ],
+        "telegram_groups": [
+            "kabosuchat"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xc8a11f433512c16ed895245f34bcc2ca44eb06bd",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "kissantoken.io"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2ad69e58071b95c047bf78dc804db3662275b64a",
@@ -2134,15 +2648,42 @@
     },
     {
         "contract_address": "0xb007549db2a335364dfdce86001ee3b081051f03",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mosaicalpha.com"
+        ],
+        "telegram_groups": [
+            "mosaicalpha"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x90c97f71e18723b0cf0dfa30ee176ab653e89f40",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "frax.finance"
+        ],
+        "telegram_groups": [
+            "fraxfinance"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xe48a3d7d0bc88d552f730b62c006bc925eadb9ee",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "frax.finance"
+        ],
+        "telegram_groups": [
+            "fraxfinance"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x29380a67e10348f3eb156b579d6634dcb1e9f0c9",
@@ -2153,15 +2694,38 @@
     },
     {
         "contract_address": "0x71c20e781c623c022134713ef7f78aacf0109849",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "metagamescoin.io"
+        ],
+        "telegram_groups": [
+            "MetaGamesCoin_io"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x256d1fce1b1221e8398f65f9b36033ce50b2d497",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "alveychain.com"
+        ],
+        "telegram_groups": [
+            "AlveyChain"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x818835503f55283cd51a4399f595e295a9338753",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "singularitynet.io"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe19417837d8e61f17dfae2e6a11b1e4810dae2a5",
@@ -2173,7 +2737,16 @@
     },
     {
         "contract_address": "0x99aa29ac023057951781dc5d1784e9a4c362ce23",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "seascape.network"
+        ],
+        "telegram_groups": [
+            "seascapenetwork"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x936685c7d81a03a204219cc7d0e61684c65471ca",
@@ -2185,7 +2758,16 @@
     },
     {
         "contract_address": "0xaab09b5cd1694d12c8c980306f5e2f5d65b00e1c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "revomon.io"
+        ],
+        "telegram_groups": [
+            "revomon"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x9a7023da8c411344746e34a566c282e5c273caac",
@@ -2202,11 +2784,25 @@
     },
     {
         "contract_address": "0x5de466a5786397185bf415794366cf1aa4021756",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "gamewithspace.com"
+        ],
+        "telegram_groups": [
+            "gamewithspace"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x5fadf14198bf792550ad9df871defcd152162af7",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "greylock.com"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x65bfbf39034e281013fb1774a662abaced0b9023",
@@ -2218,7 +2814,12 @@
     },
     {
         "contract_address": "0x95ca12cd249d27008a482009e101a8501cf3a64f",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "movefit.com"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xed5a2bdd637d2426a5680abeaa185b51b6cd2d0f",
@@ -2226,11 +2827,29 @@
     },
     {
         "contract_address": "0x0f9e4d49f25de22c2202af916b681fbb3790497b",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "perlinx.finance"
+        ],
+        "telegram_groups": [
+            "perlinnetworkchat"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x111120a4cfacf4c78e0d6729274fd5a5ae2b1111",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "arkfi.io"
+        ],
+        "telegram_groups": [
+            "officialARK"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xeac203935eda5ca96e70135d1608316169824a2c",
@@ -2262,7 +2881,16 @@
     },
     {
         "contract_address": "0xea89199344a492853502a7a699cc4230854451b8",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.onino.io"
+        ],
+        "telegram_groups": [
+            "oninoofficial"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x52b1b6324e143f7348daf7eb209a16f65ed242df",
@@ -2279,7 +2907,12 @@
     },
     {
         "contract_address": "0x6e3fd1dea627226998da6e9e0c7ef95f417d6c35",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "aexnglobal.info"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x69217cf12bd760d6ea850a128646b21f7a61ee07",
@@ -2307,7 +2940,12 @@
     },
     {
         "contract_address": "0x4d2d32d8652058bf98c772953e1df5c5c85d9f45",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "daomaker.com"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc7be6c0f9b80dd269f650514dc9b897f3452e5ac",
@@ -2326,7 +2964,12 @@
     },
     {
         "contract_address": "0x743e1c450c2b037b08fec761a14309def221ccea",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wombex.com"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xaa0811aff60fbe2d7d7d0a18f26e584b8c148ee8",
@@ -2342,19 +2985,39 @@
     },
     {
         "contract_address": "0xa457834ddf1fcbe3f43cf9ee5623eec6de55e6f5",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ztdao.world"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x388f8ba05ce519e1330d2ec226eb1fab2140d989",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sfil.fr"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x974e9f2075b8cc77a54f8b439042f242df353990",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.rencomnetwork.com"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x1ce0c2827e2ef14d5c4f29a091d735a204794041",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "avax.network"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x35c75b6ee0ba8a894b4d154cac7b6e44c0bd8d3c",
@@ -2390,15 +3053,33 @@
     },
     {
         "contract_address": "0x3ab7014d0e896a8e486fbf5bc590eeb93d6f44bf",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nfdao.io"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x1f88e9956c8f8f64c8d5fef5ed8a818e2237112c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "youcoinmeta.com"
+        ],
+        "telegram_groups": [
+            "YouCoinOnline",
+            "YouCoinOnline"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x52555ad52fb6f80e6a4aabd794fe76688f1e86ff",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "en.ucoin.net"
+        ]
     },
     {
         "contract_address": "0x70ad603ae3910304098323f903870c080436e8c5",
@@ -2406,15 +3087,24 @@
     },
     {
         "contract_address": "0xc40c9a843e1c6d01b7578284a9028854f6683b1b",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "juventus.com"
+        ]
     },
     {
         "contract_address": "0x0611686a2558de495617685b3da12448657170fe",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "catpay.io"
+        ]
     },
     {
         "contract_address": "0x03ff0ff224f904be3118461335064bb48df47938",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "harmony.one"
+        ]
     },
     {
         "contract_address": "0xadaae082237cb1772c9e079db95c117e6dd0c5af",
@@ -2422,7 +3112,10 @@
     },
     {
         "contract_address": "0xc6778cbb7facc84522f2366ad11ae1de9e697f4a",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.dominochain.com"
+        ]
     },
     {
         "contract_address": "0xf9a6c1acb2c937a08f550fe15e0a416dacf62905",
@@ -2435,7 +3128,10 @@
             "GGGDOG_EN",
             "GGGDOG_ZH"
         ],
-        "processedGpt": true
+        "processedGpt": true,
+        "web_domains": [
+            "hopenetwork.org"
+        ]
     },
     {
         "contract_address": "0x593b7ee030206f21c24a72a583f451003a155ca4",
@@ -2459,7 +3155,10 @@
     },
     {
         "contract_address": "0xbe2d231017cf56d19b6a6facd312de785028d458",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "openai.com"
+        ]
     },
     {
         "contract_address": "0xffd22536cf2f2b62480bcbb95fe6c1b8ea0fa8f0",
@@ -2467,7 +3166,10 @@
     },
     {
         "contract_address": "0x6db1afbaa302d96bb6f94d363be0995b7fe3fff7",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "brightsway.com"
+        ]
     },
     {
         "contract_address": "0x08ccac619e9c6e95d48dfd23793d722a994b95b8",
@@ -17054,9 +17756,11 @@
             "symbolicnetwork.net"
         ],
         "telegram_groups": [
-            "SymbolicNetwork"
+            "Symbolic_Network"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xbd3b42beae6a837465688336d8f63d675ddf6ee6",
@@ -17144,7 +17848,9 @@
         "telegram_groups": [
             "babylong6688"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xa9a29d151dc0392c11ee1922a8f3e51c430fb74a",
@@ -17271,7 +17977,9 @@
         "telegram_groups": [
             "SolarTechnoOfficial"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x49dacde1fb015905048a8a471da8bceb2059385d",
@@ -17282,7 +17990,9 @@
         "telegram_groups": [
             "fatsale"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: 'Username not found: fatsale'"
     },
     {
         "contract_address": "0x50bafba28852d2816eb62da5c3137dc9b05858e8",
@@ -17530,7 +18240,9 @@
             "GenTokens",
             "GenTokens_GEN"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x69a3bc126395d0cdbec8b3562a9e35e77e6fd8a9",
@@ -17610,7 +18322,9 @@
             "heritynetwork_ro",
             "heritynetwork"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xb695be19d2e3bda1e0d23e80e3e67fc9bdc89c7f",
@@ -17638,6 +18352,624 @@
     },
     {
         "contract_address": "0x4c091336f28876c1e0bbb83514587b492f9d7f18",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x88f7a6b7eb75e18eec0fe6760ce6a14361fc6953",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x9d31f66aae8654dfc2d1b47d49745ef9f554afe2",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xacaa8259b6612c4e5eb1768c3693b30ae67712a9",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x14405c71095c7aed784cc85ef909e8fae59029a7",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xdb659e644385c17ad3b2736efae1cf9f0be3087e",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x8766abe2c911315d4130f2f18e9ad101605e7742",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x9280f1cbebed7d2830fae67f58b1275fc4ac4270",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fatsale.finance"
+        ],
+        "telegram_groups": [
+            "fatsale"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: 'Username not found: fatsale'"
+    },
+    {
+        "contract_address": "0xdcc68062c89f7ca35c5f24fc8381395516581641",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "PepeHalloween.club"
+        ],
+        "telegram_groups": [
+            "PepeHalloweenChat"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Username not occupied"
+    },
+    {
+        "contract_address": "0x8509a0b15531c6e8887f2ea633d949b2482ee8d2",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x77ba7a9c97c1b64ac4edbcab02b62b842edb6edc",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xf6b642fee1317eeda6a533dd62fac53bfaece28b",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "PlayOfficialGroup"
+        ]
+    },
+    {
+        "contract_address": "0xead6bdab1b9fc66c9a1c0e647674845971f57032",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x11fea412f4cad3baaaceddac44d73abaf0dd4485",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x1ea57caf3aa077765cdd2d880f5aa91ae65b9f0c",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x393353b4579338afc2f8500b02f821397c991259",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xf0e78fde628dcd1f8966cd3334b983886125acfe",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x3e78f1620e322f8e4e251b4a70651091d98d7ed1",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x921b4399c1c4007b8588a166e017e5a7cb0ed616",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xbedaec82e09bb5060a05fd5d2d1597b49e8f3298",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x69c0ed3ff1d7e48c6ee647b481f9e47157833ec9",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x644862ab20153110a1d65d725a2f535f43cd9cef",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xc2072858ff4ed4fa57d9c1d185edf5cffe2da6cd",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xf363ae7e3c80a26a483c1a06a3851e3164357644",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dinarcoinz.com"
+        ],
+        "telegram_groups": [
+            "dinarcoinChat"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0x5ef0d628853f375c27d4bf20f8943d320d2cb52d",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xf71d492c2108d3424eab40ba22d3deb06d747314",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x4e6f251d4bd1d8e016b5f6d689d466ca40675a62",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xda58e9fdc0545e96c6b1b5890778389a0ad0d5e6",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x27052c2f544e84dae25aaabda91ec1a249cf7ff6",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x2b63db76d2cc5ad2604b50c958762c1bd90776f0",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x83afa5f7403e826eb337cd1e4fa1a3f9226efa56",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x1528a3a16d22763cd57ca3700c903b389951ac87",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xedf3d192069429e1e78d6aa51c10f9a714598a6c",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x285c0eed32d55896f070244d008852b2e996951a",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x5c0842f248257f795b8033725a6918f1f4267255",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x4c85d1ed43d80bab07796a068be0d83b51cab3a7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "shiba-1satellite.online"
+        ],
+        "telegram_groups": [
+            "shiba1satellite"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0x65cf811242e29b7a029e2ccdef02a3b6ce0e9666",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x71658481e8df403d269d3b91c2f9733281f7128f",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x481020c4a658160d01f59ffc10f9e0e9bae260fa",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zkevmchain.io"
+        ],
+        "telegram_groups": [
+            "zkEVM_talk"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
+    },
+    {
+        "contract_address": "0xec7147d1a703615b3f4a48157f0bcb6245cd741f",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x6506cee12cc8948be9a4cb058cada539505d3984",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x3958cae7360ce2510d70e4c39715af00cfc98f9b",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x4301a638fcb45c4bb65230b87f3797c213f832b8",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x4aadad81487c3fadd9f162b851e6a61b729200cb",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x771966a9ce4b7f8c47427db35dcf43f379d06b56",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x0aac6793a11fdcdf2095be2df8bcb2c04dfdb50a",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x5b9174063ef9f05a6e31e9e179b6655736bd12b8",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x638431faa934aec060a5da1719583b710d2ce012",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x3b1edb58a5f1eeceb473dea1147f68cd6c7c4073",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xc912f3de18a55b3d8fc44966f49572d8f523666d",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x33d08d8c7a168333a85285a68c0042b39fc3741d",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x900bd43c9c6ffdefc3980bcee8f65fd223bb4418",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "smileai.lol"
+        ],
+        "telegram_groups": [
+            "SmileAiOfficial"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
+    },
+    {
+        "contract_address": "0x77edfae59a7948d66e9911a30cc787d2172343d4",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x759672bfce392930c4a7054b7da0e0016f54af1f",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xb7d1841fe743d201cf4927dfd3c7d21936b83494",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "FEG1SATELLITE"
+        ]
+    },
+    {
+        "contract_address": "0xadbaf88b39d37dc68775ed1541f1bf83a5a45feb",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x8087e4c1735c1373f0d04b88d4dbe1fae1149123",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.moonjuice.app"
+        ],
+        "telegram_groups": [
+            "MoonJuiceOfficial"
+        ],
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0x44228000f972cb5e7a2fec98a23467a0376b9470",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xd8dfc8745b54cc6ee9dbcd287d1e3199196a9b7c",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xa1987bccd24686a779d1efb5b08a31fdc113c781",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x942c3971029419e64074119eddc2a6cd4626a09d",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Bigfoot1SATELLITEbsc"
+        ]
+    },
+    {
+        "contract_address": "0x77922a521182a719a48ba650ac2a040269888888",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x5dc1f1de9c9d18622defefaa00de43748b70005d",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xf0dcf7ac48f8c745f2920d03dff83f879b80d438",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x5888faf314e060b0b0c765dc706818036e1b910a",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xc8625e13f466c7727ab601525f321304353e1ed2",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x949cc1b98ad080427ba5ef1ff14cf5aef0b7f0ed",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x7150363247d59f1539c5d2af5e9b743be07e2f8b",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x528ad5569f2b3560c5bea8ce8111c78ff9c3c9ac",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x40bd112663698f9791d54a4e94b2ad8b11f3c3ec",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x4352466944f6dc5bc381fe8a9667b21c01424ea5",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xf20bd3d3e4c2ec10f6704f016e77e0e1777470af",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x9b208b117b2c4f76c1534b6f006b033220a681a4",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x613e18f13391cd4bfedf8a904991077c7ef29ee6",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x7c2c5a42eb7cf814df85e7ad0dae4511913b6272",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x72eb7ca07399ec402c5b7aa6a65752b6a1dc0c27",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x89eb16377f3d10d39b23df7c02ae94ac3a81d389",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x94967f5568d6628cbc21116a2612a69356a2593b",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x1ca390dd10fbfa789afae7b5ecb799df9fa67933",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x8860922eb2795ab0d57363653dd7ebf18d7c0a42",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x6aee38ee96ab844d1e5a93f636c62e43f479b3e2",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x47fb260e384c807c7f365f754239408cd1ff34f2",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xecb10fcce3ad0e3d2812a6e63130c22d2a2f8bde",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xd17479997f34dd9156deef8f95a52d81d265be9c",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xffb93bcbfa44e197667f8dd9eab63cd1b940aeb0",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xe0b09db0039d4225ca87aad82e32b05e809106d9",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x626368d14a1e156df77bf2023f40f1937539de0a",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xeaf363ae88e8d4083b5deb78eca37cd848c75b90",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xffa0b39974c5340995e23520a9c102e1839b0f57",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xd06db774f7687062377f1bf1ebecf8aeb388e155",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xe7d2b7e90553d1b458a871a2f6ba331c8f3d8888",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xb7d6daf4bccd91f23cff24136cc718efcc977276",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x962be9d2723eb5e6002961569220c86982f80080",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x04fa9eb295266d9d4650edcb879da204887dc3da",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xc26365b6a97692a35fa032430ef3544b037e70be",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x3bc5baa21cd0e4d2cca22c895d56020df99d4123",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x02a0ba46955b7f5aa9246fbe6cdf3c206286bd66",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x524bc91dc82d6b90ef29f76a3ecaabafffd490bc",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xa39da504694b9baa77ba50c02c3f49dbd26cec2b",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x73cf8a2f4cd33fc4c6b3a7ce31ed2a688c59e564",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x40a18ca0c584efa847b6346dd2bd4e126bed9f71",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xf84af7a78fc9e68b732ed3621dc7c2de6ec5b7cd",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xa9d2c420247ae4fe7b694be75d5db10b20fe3ea8",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x61e505c6ce0e0abc75c63edc4ca89fc896f0e5f6",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x7e58a5c150b3c9171100fdee0dd22ee666db9545",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x3f38ba29acc107e6f0b059a17c9bab0598d0f249",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xbac79e308bada146de29f56e066a021cffa00375",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x8357238e00822360c4e184e28f4b08e108c9c79b",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xe1b496175b98b808ea9f5bc8e2c8eff27a84b844",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xb524b272bc3ace810caf8d211f6648bf7d248e34",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xedf0aaee396d453a07411ee4169be57e6472e3e2",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x94ac92ee0fd59c223ba7c471020c13160459e625",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x9086e9ba54e8b4fcc87ae964987d1ef8a1cbabdf",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x9a5215dcd8da7af6d5cbb39e9919f9b751dc30d8",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "RaytheoninuBsc"
+        ]
+    },
+    {
+        "contract_address": "0x4eae52907dba9c370e9ee99f0ce810602a4f2c63",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xbcab155d78ee9789dbb8a279ed9e13eec0c4e733",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x90d9433851ff388da518bf503c14d5a8e77a1c3b",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xa275fa12b1dad35b1a025634b6de9c90deb5b4d1",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x3b5066f813022b1b32b397f89b304055ab8129b7",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xd2c28b57e7d825471be41216d0b6584826968231",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x9967662dd534f108d6a779ad437c8a1d72143c1e",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x2ec49de2a6c6a758ebdba22f32eda7fffc400bd8",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xed28a457a5a76596ac48d87c0f577020f6ea1c4c",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x6bcd897d4ba5675f860c7418ddc034f6c5610114",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x7b08393b7cc53ec4aae4cded8d34da5d11924e62",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xe4a4ad6e0b773f47d28f548742a23efd73798332",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xe5b84262bd6fcbdd977a5740f9c764ae773fb1f2",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x41515885251e724233c6ca94530d6dcf3a20dec7",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x2a435ecb3fcc0e316492dc1cdd62d0f189be5640",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ellipsis.finance"
+        ]
+    },
+    {
+        "contract_address": "0xc323bab041b61333312699a44724ef0c58f1a4fc",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x0f8beca758f91cb5b201bbc66d25938222c06b24",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x0ab96a5f084228e2ee3f4970c4eba350e8548aa9",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x3dcce6841a0e3d48fc9647afe7cfea05b986ba7b",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xfe1d7f7a8f0bda6e415593a2e4f82c64b446d404",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0xf6cb4ad242bab681effc5de40f7c8ff921a12d63",
+        "sourceScanned": "processed"
+    },
+    {
+        "contract_address": "0x5beae612c2af40a8958780a4bac431983eb43f54",
         "sourceScanned": "processed"
     }
 ]
