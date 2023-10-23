@@ -4841,7 +4841,10 @@
     },
     {
         "contract_address": "0x4927b4d730ae6f5a9a9115cf81848a3b9cfad891",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ifortunecoin.io"
+        ]
     },
     {
         "contract_address": "0x75adb3f6d788c344c409278263f70c5b60feb33a",
@@ -4879,7 +4882,10 @@
     },
     {
         "contract_address": "0xeb5feaad9c8f8265cc3a53c5e16468833708bf22",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "trust.com"
+        ]
     },
     {
         "contract_address": "0xd15a368d7fa35135224182a0fa2ea9cb3a68223d",
@@ -4887,15 +4893,24 @@
     },
     {
         "contract_address": "0x697bd938e7e572e787ecd7bc74a31f1814c21264",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "difx.com"
+        ]
     },
     {
         "contract_address": "0x410a56541bd912f9b60943fcb344f1e3d6f09567",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "minto.finance"
+        ]
     },
     {
         "contract_address": "0x4c0e86c04041ed49e82d46e52635c356269c6d3f",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "funtoken.io"
+        ]
     },
     {
         "contract_address": "0x71f96ebce5dc89cbf4f4813035eb6062b4bc97f6",
@@ -4907,11 +4922,17 @@
     },
     {
         "contract_address": "0x7e3784220740e61dc700501bd6771226e11d8897",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cyber-arena.co"
+        ]
     },
     {
         "contract_address": "0x830b2c350ac5db8d45784cce1ea9b174379ecf03",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tether.to"
+        ]
     },
     {
         "contract_address": "0x11c7493e8a7cdfca348764fbc0d4292762c27c62",
@@ -4919,7 +4940,10 @@
     },
     {
         "contract_address": "0x8d3aa230dac910abeebefac954ac2699c51666eb",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sfxt.world"
+        ]
     },
     {
         "contract_address": "0x19a00e359990ec7daf6e9dd9a2fb7664014bb5f7",
