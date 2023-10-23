@@ -5311,7 +5311,10 @@
     },
     {
         "contract_address": "0x66e29c9dea509640a006c173632c5d5be6cabc93",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bitneyfans.club"
+        ]
     },
     {
         "contract_address": "0x168d1da77be1720890cdd59589109c09ba581dc8",
@@ -5327,11 +5330,17 @@
     },
     {
         "contract_address": "0xab2ed911bdbea001fd3b29adbc35d8a76e68aae4",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.eldarune.com"
+        ]
     },
     {
         "contract_address": "0xe11f1d5eee6be945bee3fa20dbf46febbc9f4a19",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nusa.finance"
+        ]
     },
     {
         "contract_address": "0xb2443b3f8574687c1fdb2aa0b7dbf4bfed88acb7",
@@ -5362,7 +5371,10 @@
     },
     {
         "contract_address": "0x6ad9e9c098a45b2b41b519119c31c3dcb02accb2",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "playzap.games"
+        ]
     },
     {
         "contract_address": "0x03719b9740094999af2d2bc827cb4448c50ff5c9",
@@ -5382,7 +5394,10 @@
     },
     {
         "contract_address": "0xf8797098423f94ad3b616919f76c661d85a27808",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "stokvelcoin.io"
+        ]
     },
     {
         "contract_address": "0x29745314b4d294b7c77cdb411b8aaa95923aae38",
