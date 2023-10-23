@@ -2373,15 +2373,24 @@
     },
     {
         "contract_address": "0xf7d142a354322c7560250caa0e2a06c89649e4c2",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "trustlines.network"
+        ]
     },
     {
         "contract_address": "0x291be4b6ea733148ad1d2489dd59da28f92b710e",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bitcoinbsc.io"
+        ]
     },
     {
         "contract_address": "0x2002f7c235fedc8acbfbbf0479527eb59d8f5dc7",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "luckyico.com"
+        ]
     },
     {
         "contract_address": "0x63a682514d8ed888964b2a9152106dbd30271501",
