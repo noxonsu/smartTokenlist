@@ -6811,7 +6811,10 @@
     },
     {
         "contract_address": "0x4b91d87c1b0b62112a97c19ba79bbb557b5a9a75",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "thedividendtracker.com"
+        ]
     },
     {
         "contract_address": "0x336307a2d5ede83ee8ff92ad0f8949c2abce4e72",
@@ -6830,7 +6833,10 @@
     },
     {
         "contract_address": "0xe9c803f48dffe50180bd5b01dc04da939e3445fc",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "velas.com"
+        ]
     },
     {
         "contract_address": "0x6314f312e513ead0c16446878a56e2e6c46ea63f",
@@ -6842,7 +6848,10 @@
     },
     {
         "contract_address": "0x073fc4f847d6075077a8a2852a0bccdb852401f6",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "aitcoin.finance"
+        ]
     },
     {
         "contract_address": "0xd09a803482fbd96213f6b1d50a26be6c46972003",
@@ -6858,11 +6867,17 @@
     },
     {
         "contract_address": "0xab725d0a10c3f24725c89f5765ae5794a26c1336",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "inery.io"
+        ]
     },
     {
         "contract_address": "0xc732b6586a93b6b7cf5fed3470808bc74998224d",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.kryptomon.co"
+        ]
     },
     {
         "contract_address": "0xa56876b3cbdf27a3a7264bdb2381e756f5d52b1e",
@@ -6873,7 +6888,10 @@
     },
     {
         "contract_address": "0xb73d711ff7eb0f2531bc105df304c279f665d893",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tether.to"
+        ]
     },
     {
         "contract_address": "0xc5b0b6bd5b7bf4dd5eb9f911c9613b89360e23a9",
@@ -6881,7 +6899,10 @@
     },
     {
         "contract_address": "0x90ed8f1dc86388f14b64ba8fb4bbd23099f18240",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "singularitydao.ai"
+        ]
     },
     {
         "contract_address": "0x59a80dbcea7c3537d91fdc780a4b58b888888888",
@@ -6889,7 +6910,10 @@
     },
     {
         "contract_address": "0xfd5840cd36d94d7229439859c0112a4185bc0255",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "venus.io"
+        ]
     },
     {
         "contract_address": "0x9710a80446118ee0178b6142e2d575420a62e61c",
