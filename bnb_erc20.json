@@ -6508,7 +6508,10 @@
     },
     {
         "contract_address": "0xa9c04be222819d2123ad522c714b869b5442647c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "openleverage.finance"
+        ]
     },
     {
         "contract_address": "0x388855f253679da29e9d5947d864016c3d6db295",
@@ -6545,11 +6548,17 @@
     },
     {
         "contract_address": "0x80b9b3227fde37cb358220f0150c1ee7c7413986",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "aracoin.app"
+        ]
     },
     {
         "contract_address": "0xa4838122c683f732289805fc3c207febd55babdd",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "trias.network"
+        ]
     },
     {
         "contract_address": "0x9caa8b8b9f6dd594870c421b320d07f5cfe24a6f",
@@ -6573,7 +6582,10 @@
     },
     {
         "contract_address": "0x27d195f3ff4dc2142328ba1de6715ac10a7ed290",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "plg-coin.com"
+        ]
     },
     {
         "contract_address": "0x02caa44eb838fc0e49b73213d9d22e5f23798fda",
@@ -6585,7 +6597,10 @@
     },
     {
         "contract_address": "0x43f102bbd52259f2cfd0ef82e8807e3610ae3e40",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "babydoge.com"
+        ]
     },
     {
         "contract_address": "0x68f76da706ad3c1d2d903084a8eee5045e11c171",
@@ -6601,7 +6616,10 @@
     },
     {
         "contract_address": "0x2e791f7f27f03233824fabac9e473f2ff22654b3",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.mkingtoken.com"
+        ]
     },
     {
         "contract_address": "0x7d832502590d326aa45dc4926eba6ae9371d854a",
