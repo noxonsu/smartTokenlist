@@ -2778,14 +2778,20 @@
         "sourceScanned": "processed",
         "web_domains": [
             "gamewithspace.com"
-        ]
+        ],
+        "telegram_groups": [
+            "gamewithspace"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5fadf14198bf792550ad9df871defcd152162af7",
         "sourceScanned": "processed",
         "web_domains": [
             "greylock.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x65bfbf39034e281013fb1774a662abaced0b9023",
@@ -2800,7 +2806,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "movefit.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xed5a2bdd637d2426a5680abeaa185b51b6cd2d0f",
@@ -2811,7 +2819,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "perlinx.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "perlinnetwork"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x111120a4cfacf4c78e0d6729274fd5a5ae2b1111",
