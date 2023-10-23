@@ -2241,7 +2241,10 @@
     },
     {
         "contract_address": "0xe9f183fc656656f1f17af1f2b0df79b8ff9ad8ed",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "angle.money"
+        ]
     },
     {
         "contract_address": "0x6067490d05f3cf2fdffc0e353b1f5fd6e5ccdf70",
@@ -2261,7 +2264,10 @@
     },
     {
         "contract_address": "0x830f703913146d905d5557415414f743255c8c9c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "binance.com"
+        ]
     },
     {
         "contract_address": "0x6cdb0a2c814aed1d1ca4063a6ba259096ed989e6",
@@ -2269,11 +2275,17 @@
     },
     {
         "contract_address": "0xe5d7eee175f96e76ae88b006d2e5e10b5b320b8c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "binance.com"
+        ]
     },
     {
         "contract_address": "0x4760cea6c57e4de900afd3c97aa526bd11bb7373",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ccm.city"
+        ]
     },
     {
         "contract_address": "0xffbad5a8b1bf05ed6b9eeb6071176b89cdc3173d",
