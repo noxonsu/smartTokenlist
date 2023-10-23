@@ -5759,7 +5759,10 @@
     },
     {
         "contract_address": "0xe283d0e3b8c102badf5e8166b73e02d96d92f688",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "elephant.money"
+        ]
     },
     {
         "contract_address": "0xfa966e8123f5d9fd8754cf5bd7da780ceaffcad6",
@@ -5767,15 +5770,24 @@
     },
     {
         "contract_address": "0x7fa7df4996ac59f398476892cfb195ed38543520",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wagyuswap.app"
+        ]
     },
     {
         "contract_address": "0xbe2b6c5e31f292009f495ddbda88e28391c9815e",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "level.finance"
+        ]
     },
     {
         "contract_address": "0x2c186a7fa9729db59ce605d12809584e12357343",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.bitt.com"
+        ]
     },
     {
         "contract_address": "0xecab5a7b6467cf265dd089ee238f288cb237ad6e",
@@ -5790,11 +5802,17 @@
     },
     {
         "contract_address": "0xfd7b3a77848f1c2d67e05e54d78d174a0c850335",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ont.io"
+        ]
     },
     {
         "contract_address": "0x25928e9f95bfc3a1e1c110d3c42c9fafc204d07d",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "openleverage.finance"
+        ]
     },
     {
         "contract_address": "0x3e7f1039896454b9cb27c53cc7383e1ab9d9512a",
@@ -5809,7 +5827,10 @@
     },
     {
         "contract_address": "0x2222227e22102fe3322098e4cbfe18cfebd57c95",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "alienworlds.io"
+        ]
     },
     {
         "contract_address": "0x2e7a478e16fae454a5d1fbcd0a86ed2c971f0900",
