@@ -2995,11 +2995,17 @@
     },
     {
         "contract_address": "0x974e9f2075b8cc77a54f8b439042f242df353990",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.rencomnetwork.com"
+        ]
     },
     {
         "contract_address": "0x1ce0c2827e2ef14d5c4f29a091d735a204794041",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "avax.network"
+        ]
     },
     {
         "contract_address": "0x35c75b6ee0ba8a894b4d154cac7b6e44c0bd8d3c",
