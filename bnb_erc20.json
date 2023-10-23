@@ -5776,7 +5776,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "ecxtoken.io"
-        ]
+        ],
+        "telegram_groups": [
+            "ecxtoken"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x24cc1e1740f5e2a2e632e2ddb05f87916fd1f7a3",
@@ -5807,7 +5811,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "phala.network"
-        ]
+        ],
+        "telegram_groups": [
+            "phalanetwork"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa838c1dfd1dd7a78a21eaa05805c7fecba29faf6",
@@ -5822,7 +5830,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.nasdex.xyz"
-        ]
+        ],
+        "telegram_groups": [
+            "nasdex_xyz"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf03e02acbc5eb22de027ea4f59235966f5810d4f",
@@ -5833,7 +5845,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "venus.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe192a7c20bbff97906500f0f81a54f3d3ad88b9e",
@@ -5844,14 +5858,20 @@
         "sourceScanned": "processed",
         "web_domains": [
             "uniswap.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9a2478c4036548864d96a97fbf93f6a3341fedac",
         "sourceScanned": "processed",
         "web_domains": [
             "zillionxo.io"
-        ]
+        ],
+        "telegram_groups": [
+            "ZillionAakarXO"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0a09432521c4964f6e0ba8a2fc33c14ca5ce416d",
