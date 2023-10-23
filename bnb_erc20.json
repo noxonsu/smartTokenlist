@@ -2623,7 +2623,9 @@
         "telegram_groups": [
             "kabosuchat"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xc8a11f433512c16ed895245f34bcc2ca44eb06bd",
@@ -2647,7 +2649,9 @@
         "telegram_groups": [
             "mosaicalpha"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x90c97f71e18723b0cf0dfa30ee176ab653e89f40",
@@ -2658,7 +2662,9 @@
         "telegram_groups": [
             "fraxfinance"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xe48a3d7d0bc88d552f730b62c006bc925eadb9ee",
@@ -2669,7 +2675,9 @@
         "telegram_groups": [
             "fraxfinance"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x29380a67e10348f3eb156b579d6634dcb1e9f0c9",
@@ -2687,7 +2695,9 @@
         "telegram_groups": [
             "MetaGamesCoin_io"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x256d1fce1b1221e8398f65f9b36033ce50b2d497",
