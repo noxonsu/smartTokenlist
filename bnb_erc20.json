@@ -6576,21 +6576,29 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.aimeta.club"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2534b1e82aa172e1d7289298bfbb47100642ef7c",
         "sourceScanned": "processed",
         "web_domains": [
             "www.alphadao.capital"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3bc5ac0dfdc871b365d159f728dd1b9a0b5481e8",
         "sourceScanned": "processed",
         "web_domains": [
             "staderlabs.com"
-        ]
+        ],
+        "telegram_groups": [
+            "staderlabs"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1429a28ac31f34c5eb304a508e8262d7bdb70dee",
@@ -6616,7 +6624,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "gfal.com"
-        ]
+        ],
+        "telegram_groups": [
+            "gfalofficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x98999aa1b0d17fb832fd509e13b67fe506513a6d",
@@ -6627,7 +6639,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "curioinvest.com"
-        ]
+        ],
+        "telegram_groups": [
+            "CurioInvestCommunity"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x89bd89f7e9284096d176bb2e61dc6c9e0960d2bb",
@@ -6684,7 +6700,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "aracoin.app"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa4838122c683f732289805fc3c207febd55babdd",
