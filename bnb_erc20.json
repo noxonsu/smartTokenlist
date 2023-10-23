@@ -3994,7 +3994,9 @@
             "iguverse_philippines",
             "iguverse_chat_arabic"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by \"channels.JoinChannel\")"
     },
     {
         "contract_address": "0xdd848e0cbfd3771dc7845b10072d973c375271e2",
@@ -4005,7 +4007,9 @@
         "telegram_groups": [
             "lanceria"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x3702117bb800dee5b833f72180c4310392cdd6b9",
@@ -4035,9 +4039,11 @@
             "bit.team"
         ],
         "telegram_groups": [
-            "bitteaminfo"
+            "BitteamLive"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x307511f6d46c22c5f30789ee8f91722ced8b52da",
@@ -4063,7 +4069,9 @@
             "pancakeswapPortuguese",
             "pancakeswap_CN"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xc0e6ad13bd58413ed308729b688d601243e1cf77",
@@ -4075,7 +4083,9 @@
             "BLK_KOREA",
             "BLKwhale_global"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xf92751a29816b0a8bca885935afcf52a1f25f92f",
