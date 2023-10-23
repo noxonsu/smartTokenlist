@@ -6219,19 +6219,31 @@
     },
     {
         "contract_address": "0x4eb72f0a3d2dc4a986254184ca1109bc6989e9b6",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "kabosutoken.io"
+        ]
     },
     {
         "contract_address": "0xfa45f3946caff4ecf39ec7a0d3dfde4cd54f3692",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "recentcoin.com"
+        ]
     },
     {
         "contract_address": "0xc209831f7349d4e200d420326b3401899ab9ae68",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "crypterium.com"
+        ]
     },
     {
         "contract_address": "0xb22c25aff73e9b0cd3873d34bdb5f8710f9f6b3d",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bnbhubs.com"
+        ]
     },
     {
         "contract_address": "0x8f9e0b00298dd2dcbdafac0d911d64d0d0529ba6",
@@ -6243,7 +6255,10 @@
     },
     {
         "contract_address": "0x31952292c193c05ae91e19456312e2be1419c040",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "trustwallet.com"
+        ]
     },
     {
         "contract_address": "0xd0959d536e3dc746c1f0e3981a2de41d585b67bf",
@@ -6251,11 +6266,17 @@
     },
     {
         "contract_address": "0x3d6545b08693dae087e957cb1180ee38b9e3c25e",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ethereumclassic.org"
+        ]
     },
     {
         "contract_address": "0x308fc5cdd559be5cb62b08a26a4699bbef4a888f",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dcip.finance"
+        ]
     },
     {
         "contract_address": "0x72d97ad5694e0ff5a9e33bd83ba281bb8cfa0b38",
@@ -6270,7 +6291,10 @@
     },
     {
         "contract_address": "0xf7999bd5cc7f420a0f41b203f9912dcb9b7abfac",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "biztoken.io"
+        ]
     },
     {
         "contract_address": "0x8a69c903ccc047343238854cdca24f28cd1ef6ba",
