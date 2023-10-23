@@ -4033,7 +4033,10 @@
     },
     {
         "contract_address": "0xf5bde7eb378661f04c841b22ba057326b0370153",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pnb.world"
+        ]
     },
     {
         "contract_address": "0xf4c8e32eadec4bfe97e0f595add0f4450a863a11",
@@ -4049,7 +4052,10 @@
     },
     {
         "contract_address": "0x81bbb7c814555f3e56528bf3df6bf6f8eb54a3ad",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.koi.io"
+        ]
     },
     {
         "contract_address": "0x1f1c90aeb2fd13ea972f0a71e35c0753848e3db0",
@@ -4057,7 +4063,10 @@
     },
     {
         "contract_address": "0xbb071c120bb5eca705f5fc574f4d774d2f639e92",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "galaxyswap.io"
+        ]
     },
     {
         "contract_address": "0x11d67aa725e04f764104fc46618fc0267b0a00e1",
@@ -4069,7 +4078,10 @@
     },
     {
         "contract_address": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "chain.link"
+        ]
     },
     {
         "contract_address": "0x316878fef81a307d474c042683088942c8116fd7",
@@ -4077,7 +4089,10 @@
     },
     {
         "contract_address": "0x039cd22cb49084142d55fcd4b6096a4f51ffb3b4",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "movez.me"
+        ]
     },
     {
         "contract_address": "0x9c205cdbee8ac1bb47cd5e4968907fbfcb9b6618",
@@ -4107,7 +4122,10 @@
     },
     {
         "contract_address": "0xc762043e211571eb34f1ef377e5e8e76914962f9",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "apecoin.com"
+        ]
     },
     {
         "contract_address": "0xe140ade198b6a2aea3e7fd855da14a3261c92911",
