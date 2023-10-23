@@ -5276,7 +5276,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "solana.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xef7009a24abb3a2c219b2a103063dc9fb4a8620a",
@@ -5304,7 +5306,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "metamerge.xyz"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9e24415d1e549ebc626a13a482bb117a2b43e9cf",
@@ -5319,21 +5323,35 @@
         "sourceScanned": "processed",
         "web_domains": [
             "bitcoin.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe552fb52a4f19e44ef5a967632dbc320b0820639",
         "sourceScanned": "processed",
         "web_domains": [
             "www.metis.io"
-        ]
+        ],
+        "telegram_groups": [
+            "MetisDAO",
+            "metis_persian",
+            "metis_french",
+            "metis_spanish",
+            "metis_pakistan",
+            "MetisDAO_CIS",
+            "metisafrica"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x54d178399330ea2ba043eb2e7010ead8e1b66ddf",
         "sourceScanned": "processed",
         "web_domains": [
             "anm.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf292035fbaf4bb3e734e2289d1d24f94ebdc2060",
@@ -5348,7 +5366,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "anb.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x5048b7935c66a885ab11dda8ed01632a6fa4f920",
