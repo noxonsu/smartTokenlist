@@ -5482,7 +5482,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.atlp.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x07da81e9a684ab87fad7206b3bc8d0866f48cc7c",
@@ -5514,7 +5516,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "bitneyfans.club"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x168d1da77be1720890cdd59589109c09ba581dc8",
@@ -5533,14 +5537,24 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.eldarune.com"
-        ]
+        ],
+        "telegram_groups": [
+            "playeldarune"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe11f1d5eee6be945bee3fa20dbf46febbc9f4a19",
         "sourceScanned": "processed",
         "web_domains": [
             "nusa.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "NusaFinance",
+            "NusaFinanceIndonesia",
+            "NusaFinanceChannel"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb2443b3f8574687c1fdb2aa0b7dbf4bfed88acb7",
@@ -5574,7 +5588,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "playzap.games"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x03719b9740094999af2d2bc827cb4448c50ff5c9",
@@ -5597,7 +5613,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "stokvelcoin.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x29745314b4d294b7c77cdb411b8aaa95923aae38",
