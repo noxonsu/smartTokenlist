@@ -3942,7 +3942,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "metaricaro.com"
-        ]
+        ],
+        "telegram_groups": [
+            "metaricaro"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3ccb0abae18216d063a1fec7afdfb9b0dcf80b21",
@@ -3957,21 +3961,50 @@
         "sourceScanned": "processed",
         "web_domains": [
             "iguverse.com"
-        ]
+        ],
+        "telegram_groups": [
+            "iguverse_help",
+            "iguverse_chat_turkish",
+            "iguverse_chat_french",
+            "iguverse_vietnam",
+            "iguverse_chat_spanish",
+            "iguverse_chat_uz",
+            "iguverse_chat_portuguese",
+            "iguverse_bangladesh",
+            "iguverse_chat",
+            "iguverse_india",
+            "iguverse_pl",
+            "iguverse_chat_ua",
+            "iguverse_chat_chinese",
+            "iguverse_chat_korean",
+            "iguverse",
+            "iguverse_chat_japanese",
+            "iguverse_chat_indonesia",
+            "iguverse_chat_ru",
+            "iguverse_philippines",
+            "iguverse_chat_arabic"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdd848e0cbfd3771dc7845b10072d973c375271e2",
         "sourceScanned": "processed",
         "web_domains": [
             "www.lanceria.com"
-        ]
+        ],
+        "telegram_groups": [
+            "lanceria"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3702117bb800dee5b833f72180c4310392cdd6b9",
         "sourceScanned": "processed",
         "web_domains": [
             "startinfinity.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe341f30ea040bf3691aa069b8c5c213f72676421",
