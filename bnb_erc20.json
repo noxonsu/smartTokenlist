@@ -8946,11 +8946,17 @@
     },
     {
         "contract_address": "0xfcbf8568ae98ec91cc360e1e216008c91a045b91",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wshiba.net"
+        ]
     },
     {
         "contract_address": "0x2bea914774d533c2c4f4353c409ec2c79dc20132",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "thexx.info"
+        ]
     },
     {
         "contract_address": "0xc35b96d87edc9c061b7f87526f6ea26d873abf01",
@@ -9006,7 +9012,10 @@
     },
     {
         "contract_address": "0xa01b9cafe2230093fbf0000b43701e03717f77ce",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wbtc.network"
+        ]
     },
     {
         "contract_address": "0xf09f2d3b0215d499688545f3b8363cb0ceb57d22",
@@ -9030,7 +9039,10 @@
     },
     {
         "contract_address": "0x76228c625cc69f38fba9faac324bce331958ed8d",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "carboncc.com.au"
+        ]
     },
     {
         "contract_address": "0x510ca7d22a84599e7d0f15f09e674056a6255389",
@@ -9046,7 +9058,10 @@
     },
     {
         "contract_address": "0x0a1b03d83a241cddac5538fdd8e6f09bf4bbe780",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "btcash.info"
+        ]
     },
     {
         "contract_address": "0x2ef776488739722ad174f8f2ffe76eb67a8467eb",
