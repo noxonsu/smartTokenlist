@@ -10012,7 +10012,10 @@
     },
     {
         "contract_address": "0xf64ab552f2f012e253702f7ea41601fc81e6665b",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "openleverage.finance"
+        ]
     },
     {
         "contract_address": "0xa2120b9e674d3fc3875f415a7df52e382f141225",
@@ -10020,7 +10023,10 @@
     },
     {
         "contract_address": "0x3cb26f04223e948b8d810a7bd170620afbd42e67",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "areon.network"
+        ]
     },
     {
         "contract_address": "0xe35de01cd7c3d7e3256be959c217a258bafe6760",
@@ -10032,7 +10038,10 @@
     },
     {
         "contract_address": "0xd9628be9ef42b75ca171128e8ce32eceecd858fd",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "openjdk.org"
+        ]
     },
     {
         "contract_address": "0xcc4c8b0ac62b41e5705b25f132289016a3622f34",
@@ -10044,7 +10053,10 @@
     },
     {
         "contract_address": "0xc598275452fa319d75ee5f176fd3b8384925b425",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "stream-coin.com"
+        ]
     },
     {
         "contract_address": "0x16ae8c427662130079af375745633ec6525bfce8",
@@ -10056,11 +10068,17 @@
     },
     {
         "contract_address": "0xbce73271a894ce98c10725ea63dee0ced75ee6a7",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "owasp.org"
+        ]
     },
     {
         "contract_address": "0xa325ad6d9c92b55a3fc5ad7e412b1518f96441c0",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "orai.io"
+        ]
     },
     {
         "contract_address": "0x82097b2d51e28801c833d49426574efb4cfd0bf2",
@@ -10075,7 +10093,10 @@
     },
     {
         "contract_address": "0x5a37c3ad4c25681b944396d3a435c67477a0547c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.bitclassic.ae"
+        ]
     },
     {
         "contract_address": "0x129385c4acd0075e45a0c9a5177bdfec9678a138",
@@ -10103,15 +10124,24 @@
     },
     {
         "contract_address": "0x9ece397ec3d23fc6ae356545d63fa4348dbb038d",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "coloniume.org"
+        ]
     },
     {
         "contract_address": "0xb5afa5d401c5a6e4e50bdeb44e0a02cfd68d286b",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "winacoin.io"
+        ]
     },
     {
         "contract_address": "0x0f5d8cd195a4539bcf2ec6118c6da50287c6d5f5",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "chainport.io"
+        ]
     },
     {
         "contract_address": "0x90e3414e00e231b962666bd94adb811d5bcd0c2a",
