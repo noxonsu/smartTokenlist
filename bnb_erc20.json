@@ -8170,7 +8170,10 @@
     },
     {
         "contract_address": "0x2c4a911b16435f96e6bd18e4d720a32480554a22",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "stobox.io"
+        ]
     },
     {
         "contract_address": "0xddd394707fc1af81d98f132825df713dd9bb494e",
@@ -8181,11 +8184,17 @@
     },
     {
         "contract_address": "0x8357c604c5533fa0053beaaa1494da552cea38f7",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "spores.app"
+        ]
     },
     {
         "contract_address": "0x84995228f2b82791635850a6ca29d824b0d8a690",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "unitedemiratedecentralizedcoin.com"
+        ]
     },
     {
         "contract_address": "0xfdbedb99ae106003fef6e41398514c6ff2c69f35",
@@ -8197,7 +8206,10 @@
     },
     {
         "contract_address": "0x463ae58ab95bbbb5410db1056d1f7cacf3ff4c60",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "usdf.org"
+        ]
     },
     {
         "contract_address": "0x4a703e63562c7b9a79f320f161c9d22c96e261ca",
@@ -8213,15 +8225,24 @@
     },
     {
         "contract_address": "0xa77346760341460b42c230ca6d21d4c8e743fa9c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "micropets.io"
+        ]
     },
     {
         "contract_address": "0x4ff2dd7c6435789e0bb56b0553142ad00878a004",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "radiant.capital"
+        ]
     },
     {
         "contract_address": "0x5fe80d2cd054645b9419657d3d10d26391780a7b",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mcdex.io"
+        ]
     },
     {
         "contract_address": "0xe38e97fecac677ea060ac36b9b9d67d376fbf811",
@@ -8237,7 +8258,10 @@
     },
     {
         "contract_address": "0x88ca5cef175e23cf678588b5f14d4f2ec4f5945f",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "thedividendtracker.com"
+        ]
     },
     {
         "contract_address": "0xe56746d34b46c0c2355d7fa2659218e7e56932bc",
