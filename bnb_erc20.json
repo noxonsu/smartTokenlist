@@ -10931,13 +10931,19 @@
     },
     {
         "contract_address": "0xa8fb8b572fdeb1976c14e7c0dd17bbdeb0815dec",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "launchify.io"
+        ]
     },
     {
         "contract_address": "0x581acdd9d726033e5d841aedbfbd246ec70f553a",
         "sourceScanned": "processed",
         "telegram_groups": [
             "PepePeaceToken"
+        ],
+        "web_domains": [
+            "www.pepepeaceerc.com"
         ]
     },
     {
@@ -10959,6 +10965,9 @@
         "telegram_groups": [
             "EthereumPoSGroup",
             "EthereumPOSnews"
+        ],
+        "web_domains": [
+            "ethereum.org"
         ]
     },
     {
@@ -10977,7 +10986,10 @@
     },
     {
         "contract_address": "0x880cd36da9340ea1c1fb027f410aba180b5dc80d",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "litecoin.org"
+        ]
     },
     {
         "contract_address": "0xcf6a590921239ac9818b500f2b612e10937e7a20",
@@ -10985,7 +10997,10 @@
     },
     {
         "contract_address": "0x4ba0057f784858a48fe351445c672ff2a3d43515",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "kalmar.io"
+        ]
     },
     {
         "contract_address": "0xd350596935f4a209ba970060e50dfbc1c0f1e3b9",
@@ -11038,19 +11053,31 @@
     },
     {
         "contract_address": "0x09a6c44c3947b69e2b45f4d51b67e6a39acfb506",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "uncx.network"
+        ]
     },
     {
         "contract_address": "0x774d9103dc027b707812acf0e0b40a34dcaef658",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "revault.network"
+        ]
     },
     {
         "contract_address": "0x4fdd92bd67acf0676bfc45ab7168b3996f7b4a3b",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "revault.network"
+        ]
     },
     {
         "contract_address": "0xdd02bc212e79acdab476c9295cdea8a61099cb79",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mcncoin.io"
+        ]
     },
     {
         "contract_address": "0x52ce3314813a6ae526d80474d9cbdbb718bdace3",
