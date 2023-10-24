@@ -11154,7 +11154,8 @@
         ],
         "web_domains": [
             "ethereum.org"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf9f5dcbd22e10b80294d249b523e645784ba5186",
@@ -11175,7 +11176,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "litecoin.org"
-        ]
+        ],
+        "telegram_groups": [
+            "Litecoin"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xcf6a590921239ac9818b500f2b612e10937e7a20",
@@ -11186,7 +11191,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "kalmar.io"
-        ]
+        ],
+        "telegram_groups": [
+            "kalmar_io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd350596935f4a209ba970060e50dfbc1c0f1e3b9",
@@ -11242,21 +11251,33 @@
         "sourceScanned": "processed",
         "web_domains": [
             "uncx.network"
-        ]
+        ],
+        "telegram_groups": [
+            "uncx_token"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x774d9103dc027b707812acf0e0b40a34dcaef658",
         "sourceScanned": "processed",
         "web_domains": [
             "revault.network"
-        ]
+        ],
+        "telegram_groups": [
+            "revaultnetwork"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4fdd92bd67acf0676bfc45ab7168b3996f7b4a3b",
         "sourceScanned": "processed",
         "web_domains": [
             "revault.network"
-        ]
+        ],
+        "telegram_groups": [
+            "revaultnetwork"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdd02bc212e79acdab476c9295cdea8a61099cb79",
