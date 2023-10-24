@@ -12793,7 +12793,10 @@
     },
     {
         "contract_address": "0x3d9d9d22895557fe9b3bd25405ea33ae4921058e",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "thorchain.org"
+        ]
     },
     {
         "contract_address": "0x4ca1a6e896899d6a5ad6ed321583d6711694e312",
@@ -12809,11 +12812,17 @@
     },
     {
         "contract_address": "0x6397de0f9aedc0f7a8fa8b438dde883b9c201010",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sinverse.com"
+        ]
     },
     {
         "contract_address": "0xa852135979dc9f19f7f68ec467f3dd02559cff85",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "meelier.io"
+        ]
     },
     {
         "contract_address": "0x3f2836953f749a80e9bbdd28ae4b7146633f8ec2",
@@ -12837,11 +12846,17 @@
     },
     {
         "contract_address": "0xa2d33a006e4812a17a454d4bfbe9e112cf7e3cbe",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "w3coin.io"
+        ]
     },
     {
         "contract_address": "0x4444a19c8bb86e9bdbc023709a363bbce91af33e",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cryptotanks.com"
+        ]
     },
     {
         "contract_address": "0xebd49b26169e1b52c04cfd19fcf289405df55f80",
@@ -12853,11 +12868,17 @@
     },
     {
         "contract_address": "0x2871923401a9ff5ea733cf8f5e540d3ffd038e87",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "btcweb3.org"
+        ]
     },
     {
         "contract_address": "0x42981d0bfbaf196529376ee702f2a9eb9092fcb5",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "swap.safemoon.com"
+        ]
     },
     {
         "contract_address": "0x926d9054b81458d1d1f8947295a1a7edbc7705c9",
@@ -12868,7 +12889,10 @@
     },
     {
         "contract_address": "0x16530b5c105fcb7c50bc84a039a0a4ed806a5124",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "home.libraincentix.com"
+        ]
     },
     {
         "contract_address": "0x2730ee1df7c7948fe9397a57d99e9e38eb6d032c",
@@ -12896,11 +12920,17 @@
     },
     {
         "contract_address": "0xbe1a001fe942f96eea22ba08783140b9dcc09d28",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "betafinance.org"
+        ]
     },
     {
         "contract_address": "0xfa4fa764f15d0f6e20aaec8e0d696870e5b77c6e",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fusion.org"
+        ]
     },
     {
         "contract_address": "0x37ac5f3bfd18a164fc6cf0f0f0ecd334d9179d57",
