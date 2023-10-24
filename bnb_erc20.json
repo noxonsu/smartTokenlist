@@ -9863,7 +9863,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "truthgptofficial.com"
-        ]
+        ],
+        "telegram_groups": [
+            "TruthGPTPortal"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe177295fa0142331abdc8b106832789e0c0fe77b",
@@ -22217,8 +22221,10 @@
             "popsocialz.com"
         ],
         "telegram_groups": [
+            "joeygchou",
             "PoppCommunity"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x26193c7fa4354ae49ec53ea2cebc513dc39a10aa",
@@ -22229,7 +22235,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "presale.world"
-        ]
+        ],
+        "telegram_groups": [
+            "PresaleWorldCommunity"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x86f995e276c5ddbfee4bcebc2aff07d6fecce314",
