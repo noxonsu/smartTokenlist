@@ -9965,7 +9965,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "solarix-solar.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x67e7f6bd46693ab5b893c555eba01218a7e43815",
@@ -9996,14 +9998,20 @@
         "sourceScanned": "processed",
         "web_domains": [
             "jerryinu.com"
-        ]
+        ],
+        "telegram_groups": [
+            "JerryInuGroup"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9df90628d40c72f85137e8cee09dde353a651266",
         "sourceScanned": "processed",
         "web_domains": [
             "mechaverse.cc"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xbf76fb97055c2c24549e3fff06c76c11fe92e8f1",
@@ -10030,14 +10038,20 @@
         "sourceScanned": "processed",
         "web_domains": [
             "nextype.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "nextype1"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0a846d5f27b9192270567d9e0c20d1895fc92ed9",
         "sourceScanned": "processed",
         "web_domains": [
             "tesla.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2adc3468fc4149932dd16d0244b7228aa8eead5c",
@@ -10060,7 +10074,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "openleverage.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa2120b9e674d3fc3875f415a7df52e382f141225",
