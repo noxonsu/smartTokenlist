@@ -8304,7 +8304,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "usdf.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4a703e63562c7b9a79f320f161c9d22c96e261ca",
@@ -8323,21 +8325,31 @@
         "sourceScanned": "processed",
         "web_domains": [
             "micropets.io"
-        ]
+        ],
+        "telegram_groups": [
+            "MicroPets"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4ff2dd7c6435789e0bb56b0553142ad00878a004",
         "sourceScanned": "processed",
         "web_domains": [
             "radiant.capital"
-        ]
+        ],
+        "telegram_groups": [
+            "radiantcapitalofficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5fe80d2cd054645b9419657d3d10d26391780a7b",
         "sourceScanned": "processed",
         "web_domains": [
             "mcdex.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe38e97fecac677ea060ac36b9b9d67d376fbf811",
@@ -8356,7 +8368,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "thedividendtracker.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe56746d34b46c0c2355d7fa2659218e7e56932bc",
@@ -8371,7 +8385,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "checkdot.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x14ab462a88e33d026a687f6d99f3af6e0ea73f9b",
