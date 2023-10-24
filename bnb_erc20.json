@@ -12023,7 +12023,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "csdao.cc"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xdca421617b1609f9436ba12ecd9ec36ac8546549",
@@ -12034,7 +12036,12 @@
         "sourceScanned": "processed",
         "web_domains": [
             "tidex.com"
-        ]
+        ],
+        "telegram_groups": [
+            "Tidex_News",
+            "tidex_official"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb823746401d03ce7b4d748bb3e9c7a4912c68377",
@@ -12061,7 +12068,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "peakdefi.com"
-        ]
+        ],
+        "telegram_groups": [
+            "peakdefi_official"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1c2619d4496a7eee4cd2a3b99b634c0691ca8a15",
@@ -12139,7 +12150,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "strikex.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7efaef62fddcca950418312c6c91aef321375a00",
@@ -12150,14 +12163,18 @@
         "sourceScanned": "processed",
         "web_domains": [
             "bitcoincash.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x04756126f044634c9a0f0e985e60c88a51acc206",
         "sourceScanned": "processed",
         "web_domains": [
             "carbon.website"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0158d3817c1391b4736be724b1e8e8553d615c57",
