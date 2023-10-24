@@ -6160,7 +6160,9 @@
         "telegram_groups": [
             "Decentralfree"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xa19b018c4e9ac3038e1bc48793d261d2b91c77c3",
@@ -6208,7 +6210,9 @@
         "telegram_groups": [
             "HodlHodl"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xd952c06cd22361ce5538d357b8f4f09f6f198641",
@@ -6294,7 +6298,9 @@
         "telegram_groups": [
             "tronadoofficialgroup"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x070a08beef8d36734dd67a491202ff35a6a16d97",
@@ -6318,7 +6324,9 @@
         "telegram_groups": [
             "SIXNetwork"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xaf027427dc6d31a3e7e162a710a5fe27e63e275f",
@@ -6425,7 +6433,9 @@
         "telegram_groups": [
             "kabosuchat"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xfa45f3946caff4ecf39ec7a0d3dfde4cd54f3692",
