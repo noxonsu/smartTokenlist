@@ -7813,7 +7813,8 @@
         ],
         "p6": true,
         "myuser": 6003957640,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "p8": true
     },
     {
         "contract_address": "0x2dff88a56767223a5529ea5960da7a3f5f766406",
@@ -7848,7 +7849,8 @@
         ],
         "p6": true,
         "myuser": 6003957640,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "p8": true
     },
     {
         "contract_address": "0x5d2889645b1524e6d75835864ab765e85ad0fb7b",
@@ -7906,7 +7908,8 @@
         ],
         "p6": true,
         "myuser": 6003957640,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "p8": true
     },
     {
         "contract_address": "0xaedddc4410b6b531e88bfb3252dcca17966cb654",
@@ -7923,7 +7926,8 @@
         ],
         "p6": true,
         "myuser": 6003957640,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "p8": true
     },
     {
         "contract_address": "0xe5f890b1a48760bd20aab8e20aecc7216b7ef211",
@@ -7936,7 +7940,8 @@
         ],
         "p6": true,
         "myuser": 6003957640,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "p8": true
     },
     {
         "contract_address": "0x3ac580e34f2f31bb605a116810b849eb015a2bf1",
@@ -8074,7 +8079,8 @@
         ],
         "p6": true,
         "myuser": 6003957640,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "p8": true
     },
     {
         "contract_address": "0x837656c3f5858692ccdce13ba66e09d2685073df",
@@ -8087,7 +8093,8 @@
         ],
         "p6": true,
         "myuser": 6003957640,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "p8": true
     },
     {
         "contract_address": "0x7df819866d085f0ed147297e4b22871ddfb02d03",
@@ -8112,7 +8119,8 @@
         ],
         "p6": true,
         "myuser": 6003957640,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "p8": true
     },
     {
         "contract_address": "0xdb5ee2a3d48f17a81bdcf513d6988ed430bbe7ab",
@@ -8146,7 +8154,8 @@
         ],
         "p6": true,
         "myuser": 6003957640,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "p8": true
     },
     {
         "contract_address": "0x768a62a22b187eb350637e720ebc552d905c0331",
@@ -8163,7 +8172,8 @@
         ],
         "p6": true,
         "myuser": 6003957640,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "p8": true
     },
     {
         "contract_address": "0x8755da967bb17cb3e136034e8f5f4955df4d506e",
@@ -10333,7 +10343,9 @@
         "telegram_groups": [
             "oraichain"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x82097b2d51e28801c833d49426574efb4cfd0bf2",
@@ -10386,9 +10398,11 @@
             "coloniume.org"
         ],
         "telegram_groups": [
-            "coloniume"
+            "coloniumegroup"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xb5afa5d401c5a6e4e50bdeb44e0a02cfd68d286b",
@@ -10406,10 +10420,12 @@
             "chainport.io"
         ],
         "telegram_groups": [
-            "chainport_news",
+            "chainport",
             "chainport"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "needhuman"
     },
     {
         "contract_address": "0x90e3414e00e231b962666bd94adb811d5bcd0c2a",
@@ -10437,7 +10453,9 @@
             "tenset_io_eng",
             "tensetio"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xb2f9f2c0e6eba6a8e9d2b0f134430b3ea5ce5cc9",
@@ -10466,7 +10484,9 @@
         "telegram_groups": [
             "loomnetwork"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x69335f6836e88f8783fa4b2c77b201fb094b5979",
