@@ -8905,14 +8905,21 @@
         "sourceScanned": "processed",
         "web_domains": [
             "nftb.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xaf41054c1487b0e5e2b9250c0332ecbce6ce9d71",
         "sourceScanned": "processed",
         "web_domains": [
             "ellipsis.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "Ellipsis_CN",
+            "ellipsisfinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe7cb24f449973d5b3520e5b93d88b405903c75fb",
@@ -8927,7 +8934,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "eternalcash.online"
-        ]
+        ],
+        "telegram_groups": [
+            "ecov2tokens"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4c2f1091bed7aecf208189538a64c6f75e5fd67f",
@@ -8942,21 +8953,27 @@
         "sourceScanned": "processed",
         "web_domains": [
             "ertha.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xfcbf8568ae98ec91cc360e1e216008c91a045b91",
         "sourceScanned": "processed",
         "web_domains": [
             "wshiba.net"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2bea914774d533c2c4f4353c409ec2c79dc20132",
         "sourceScanned": "processed",
         "web_domains": [
             "thexx.info"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc35b96d87edc9c061b7f87526f6ea26d873abf01",
@@ -21108,7 +21125,12 @@
         "sourceScanned": "processed",
         "web_domains": [
             "ellipsis.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "Ellipsis_CN",
+            "ellipsisfinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc323bab041b61333312699a44724ef0c58f1a4fc",
@@ -21475,7 +21497,12 @@
         "sourceScanned": "processed",
         "web_domains": [
             "ellipsis.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "Ellipsis_CN",
+            "ellipsisfinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9f5ed0310631a19187b53591a5b9b26c6da91329",
