@@ -12979,7 +12979,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "swap.safemoon.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x926d9054b81458d1d1f8947295a1a7edbc7705c9",
@@ -12993,7 +12995,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "home.libraincentix.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2730ee1df7c7948fe9397a57d99e9e38eb6d032c",
@@ -13024,21 +13028,33 @@
         "sourceScanned": "processed",
         "web_domains": [
             "betafinance.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xfa4fa764f15d0f6e20aaec8e0d696870e5b77c6e",
         "sourceScanned": "processed",
         "web_domains": [
             "fusion.org"
-        ]
+        ],
+        "telegram_groups": [
+            "FUSIONFoundation",
+            "FsnDevCommunity"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x37ac5f3bfd18a164fc6cf0f0f0ecd334d9179d57",
         "sourceScanned": "processed",
         "web_domains": [
             "vulturepeak.io"
-        ]
+        ],
+        "telegram_groups": [
+            "vulture_peak",
+            "VulturePeakAnnouncements"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7f698bb5a8fb078622901353a8d5a6c3bbc6664e",
@@ -13065,7 +13081,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "befitter.io"
-        ]
+        ],
+        "telegram_groups": [
+            "befitter_chat"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x69bfa36d50d92e8985d27e6aa6e685c0325ce7b4",
