@@ -8023,7 +8023,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "fqswap.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0f94f330f39b9ccbcd545dad934400c882df08b0",
@@ -8034,7 +8036,12 @@
         "sourceScanned": "processed",
         "web_domains": [
             "theqube.cc"
-        ]
+        ],
+        "telegram_groups": [
+            "qube_community2",
+            "qubecryptospace"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2fe8d24bbc8749c4ebe2854253d45c11797fb639",
@@ -8045,7 +8052,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "bitcoin.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x982e609643794a31a07f5c5b142dd3a9cf0690be",
@@ -8059,7 +8068,12 @@
         "sourceScanned": "processed",
         "web_domains": [
             "orberium.com"
-        ]
+        ],
+        "telegram_groups": [
+            "ORBERIUM",
+            "OrberiumToken"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe43c4f3e7f6ec93e066b532badf9a6aab4844dae",
@@ -8103,7 +8117,12 @@
         "sourceScanned": "processed",
         "web_domains": [
             "egonswap.io"
-        ]
+        ],
+        "telegram_groups": [
+            "EagleNetworkApp",
+            "EagleNetWorkApp"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x07728696ee70a28c9c032926577af1d524df30f9",
@@ -8142,7 +8161,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.strac.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd18dcd429c4c44b98242042cc35a3e03bfabdb08",
