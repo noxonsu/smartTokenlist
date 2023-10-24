@@ -12181,14 +12181,18 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.gaypepe.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2d7ae73fc16c266c40761364d8f10a8b62f1ada3",
         "sourceScanned": "processed",
         "web_domains": [
             "yearn.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7a1219c42f33b97352fd627ca7667b857c967235",
@@ -12199,14 +12203,18 @@
         "sourceScanned": "processed",
         "web_domains": [
             "janex.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x84dd8ba1ba32eedd6060a043154a68a3f16fde3c",
         "sourceScanned": "processed",
         "web_domains": [
             "ifm.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x057aff3e314e1ca15bed75510df81a20098ce456",
@@ -12225,14 +12233,23 @@
         "sourceScanned": "processed",
         "web_domains": [
             "app.cream.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "CreamdotFinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd3ab8287c03a6cf8655264c6749cdb5fccee0260",
         "sourceScanned": "processed",
         "web_domains": [
             "p2pgold.io"
-        ]
+        ],
+        "telegram_groups": [
+            "bankp2pgold1",
+            "bankp2pgold"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf91d6e71f6d9e6dbffe92597ce0fdd76058c49a7",
