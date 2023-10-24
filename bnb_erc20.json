@@ -12934,7 +12934,10 @@
     },
     {
         "contract_address": "0x37ac5f3bfd18a164fc6cf0f0f0ecd334d9179d57",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "vulturepeak.io"
+        ]
     },
     {
         "contract_address": "0x7f698bb5a8fb078622901353a8d5a6c3bbc6664e",
@@ -12958,7 +12961,10 @@
     },
     {
         "contract_address": "0xef7d50069406a2f5a53806f7250a6c0f17ad9dcd",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "befitter.io"
+        ]
     },
     {
         "contract_address": "0x69bfa36d50d92e8985d27e6aa6e685c0325ce7b4",
@@ -12966,11 +12972,17 @@
     },
     {
         "contract_address": "0xe580074a10360404af3abfe2d524d5806d993ea3",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "paybolt.com"
+        ]
     },
     {
         "contract_address": "0xeae00113af330e6f67342b8298efc40232cd9f09",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wistaverse.com"
+        ]
     },
     {
         "contract_address": "0x8e9a20e5675dbf9e4400272ad19f48a95211b60d",
@@ -13002,6 +13014,9 @@
         "emails": [
             "gab3@solv3.io",
             "gab3@solv3.io"
+        ],
+        "web_domains": [
+            "affinitybsc.com"
         ]
     },
     {
@@ -13013,7 +13028,10 @@
     },
     {
         "contract_address": "0xce1b3e5087e8215876af976032382dd338cf8401",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "thoreum.ai"
+        ]
     },
     {
         "contract_address": "0x385eda6ed73f188bcf447e27c1d2fbf171ff698a",
@@ -13025,7 +13043,10 @@
     },
     {
         "contract_address": "0x8a5d7fcd4c90421d21d30fcc4435948ac3618b2f",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cake.monster"
+        ]
     },
     {
         "contract_address": "0x2be28e150604aabc36c3ca35b25309e08d8da240",
