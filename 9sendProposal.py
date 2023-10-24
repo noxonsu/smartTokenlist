@@ -110,7 +110,7 @@ def main():
                 lastm = "https://t.me/"+chat_link+"/"+message_link
                 for message in app.get_chat_history(entry["telegram_groups"][0], limit=5):
                     if message.text and len(message.text) <= 120:
-                        lastm += message.text + "\n"
+                        lastm += message.text + "; \n"
                 app.send_message(-1001904539844, text=lastm)
 
         
