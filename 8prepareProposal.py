@@ -83,7 +83,7 @@ def main():
     sites_without_proposal = filter_sites_without_proposal(data)
     print(f"Found {len(sites_without_proposal)} sites without proposal")
     
-    sites_without_proposal = sites_without_proposal[:3]
+    sites_without_proposal = sites_without_proposal[:10]
 
     if not sites_without_proposal:
         print("All sites processed")
