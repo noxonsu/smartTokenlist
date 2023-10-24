@@ -12771,14 +12771,18 @@
         "sourceScanned": "processed",
         "web_domains": [
             "garfieldai.app"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2bd6825b78073acb4936215b1d8dce0b8ea8a505",
         "sourceScanned": "processed",
         "web_domains": [
             "uruspay.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x28dc68676a275a34b002a8a5c5a453c0ebf0a2a5",
@@ -12789,21 +12793,31 @@
         "sourceScanned": "processed",
         "web_domains": [
             "peepalcoin.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa922a70569a7555518bf4ded5094661a965e23ca",
         "sourceScanned": "processed",
         "web_domains": [
             "mnbridge.io"
-        ]
+        ],
+        "telegram_groups": [
+            "MN_bridge"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbada232ebe4a43cd4c0d85aa9db72b7e4883b2ce",
         "sourceScanned": "processed",
         "web_domains": [
             "www.tatetokeneth.com"
-        ]
+        ],
+        "telegram_groups": [
+            "tateERC20"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4ec59bbe3d46473c4fccecaf7ddbe8d80d1767a8",
@@ -12818,7 +12832,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "breakoutcoin.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x389f9389fd5680b92d4a0d4841cc6c6e66152384",
