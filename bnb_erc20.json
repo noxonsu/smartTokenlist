@@ -10323,7 +10323,9 @@
         "telegram_groups": [
             "oraichain"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x82097b2d51e28801c833d49426574efb4cfd0bf2",
@@ -10376,9 +10378,11 @@
             "coloniume.org"
         ],
         "telegram_groups": [
-            "coloniume"
+            "coloniumegroup"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xb5afa5d401c5a6e4e50bdeb44e0a02cfd68d286b",
@@ -10396,10 +10400,12 @@
             "chainport.io"
         ],
         "telegram_groups": [
-            "chainport_news",
+            "chainport",
             "chainport"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "needhuman"
     },
     {
         "contract_address": "0x90e3414e00e231b962666bd94adb811d5bcd0c2a",
@@ -10427,7 +10433,9 @@
             "tenset_io_eng",
             "tensetio"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xb2f9f2c0e6eba6a8e9d2b0f134430b3ea5ce5cc9",
@@ -10456,7 +10464,9 @@
         "telegram_groups": [
             "loomnetwork"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x69335f6836e88f8783fa4b2c77b201fb094b5979",
