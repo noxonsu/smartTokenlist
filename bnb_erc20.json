@@ -1236,6 +1236,7 @@
             "polygon.technology"
         ],
         "telegram_groups": [
+            "polygonofficial",
             "PolygonAnnouncements"
         ],
         "p6": true,
@@ -8666,28 +8667,45 @@
         "sourceScanned": "processed",
         "web_domains": [
             "truefi.io"
-        ]
+        ],
+        "telegram_groups": [
+            "jointruefi"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2ac2367aaa2b7dbe96110ecaed8c5326c7a00b61",
         "sourceScanned": "processed",
         "web_domains": [
             "polygon.technology"
-        ]
+        ],
+        "telegram_groups": [
+            "polygonofficial",
+            "PolygonAnnouncements"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x56b6fb708fc5732dec1afc8d8556423a2edccbd6",
         "sourceScanned": "processed",
         "web_domains": [
             "eos.io"
-        ]
+        ],
+        "telegram_groups": [
+            "joinchat"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd9eade302456aff8bf8d87ff0ef77dab1fb9230f",
         "sourceScanned": "processed",
         "web_domains": [
             "kingoflegends.net"
-        ]
+        ],
+        "telegram_groups": [
+            "KingofLegends_Global"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbc66460b9300bee6ba61db1cf0b07f8f0ee0a0d8",
@@ -8722,14 +8740,21 @@
         "sourceScanned": "processed",
         "web_domains": [
             "pacodellama.org"
-        ]
+        ],
+        "telegram_groups": [
+            "PacoDeLlama",
+            "stroembets"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x777f67110cce20c9bbcfe2447e9396425a6ddc67",
         "sourceScanned": "processed",
         "web_domains": [
             "tether.to"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x19e016190a07ad2ecdfb9041912fe5bc13de35e6",
