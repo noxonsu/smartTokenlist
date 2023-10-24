@@ -9153,7 +9153,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.superbitdao.com"
-        ]
+        ],
+        "telegram_groups": [
+            "Superbitdao"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xfe2d3c882b4c0a76a2c34260fa4e079e3741919e",
@@ -9184,14 +9188,21 @@
         "sourceScanned": "processed",
         "web_domains": [
             "sankivraja.com"
-        ]
+        ],
+        "telegram_groups": [
+            "sankivraja",
+            "sankivrajaro"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf766d7b73b221445b60e5187edbdb86ff1a4191e",
         "sourceScanned": "processed",
         "web_domains": [
             "timelessfi.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa3e8a672d7555d126780896f6ccff6fc142b6967",
@@ -9202,21 +9213,29 @@
         "sourceScanned": "processed",
         "web_domains": [
             "uniswap.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x23125108bc4c63e4677b2e253fa498ccb4b3298b",
         "sourceScanned": "processed",
         "web_domains": [
             "buffdogecoin.io"
-        ]
+        ],
+        "telegram_groups": [
+            "buffdogecoinofficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdb79c12d1d0670988a39b0e48b96e955ef922d24",
         "sourceScanned": "processed",
         "web_domains": [
             "teddydoge.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa9cf023a5f6de6863f02761f6166799ec2595758",
