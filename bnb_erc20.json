@@ -10385,7 +10385,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "xtblock.io"
-        ]
+        ],
+        "telegram_groups": [
+            "xtblockio"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xfb52370e0fcac5bfca44b4e6c09a97be1875605f",
@@ -10396,21 +10400,29 @@
         "sourceScanned": "processed",
         "web_domains": [
             "metabit.id"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xee89bd9af5e72b19b48cac3e51acde3a09a3ade3",
         "sourceScanned": "processed",
         "web_domains": [
             "trustkeys.network"
-        ]
+        ],
+        "telegram_groups": [
+            "trustkeysuperapp"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9c2b1b3780a8b36b695f0b2781668664ac1bf25a",
         "sourceScanned": "processed",
         "web_domains": [
             "spookyshiba.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x713565884a1866bbfe86345f7d36e003b3248888",
@@ -10441,11 +10453,13 @@
         "contract_address": "0x36cdd1f744157f039b475a4b5dd50134c21afb66",
         "sourceScanned": "processed",
         "telegram_groups": [
-            "KabosuGlobal_BSC"
+            "KabosuGlobal_BSC",
+            "kabosuchat"
         ],
         "web_domains": [
             "kabosutoken.io"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1306bf5bc713922804323a8fafe01455f66932ba",
@@ -10459,7 +10473,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.r3-token.com"
-        ]
+        ],
+        "telegram_groups": [
+            "R3InterPortal"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x36d1ebfd2f37cf03b7de8074436bfdcce9e43203",
