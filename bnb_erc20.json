@@ -8605,7 +8605,9 @@
         "telegram_groups": [
             "bidzcoinofficial"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xde619a9e0eeeaa9f8cd39522ed788234837f3b26",
@@ -8656,7 +8658,9 @@
         "telegram_groups": [
             "kinza_finance"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xaa9e582e5751d703f85912903bacaddfed26484c",
@@ -8665,9 +8669,11 @@
             "hacken.ai"
         ],
         "telegram_groups": [
-            "hackenai"
+            "hackenclub"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xd3c325848d7c6e29b574cb0789998b2ff901f17e",
@@ -8680,9 +8686,11 @@
             "www.palmpay.com"
         ],
         "telegram_groups": [
-            "palmpayofficial"
+            null
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: '<' not supported between instances of 'NoneType' and 'int'"
     },
     {
         "contract_address": "0xf779568a4fa737f3b7421eae963316aa975086fa",
@@ -8785,7 +8793,9 @@
         "telegram_groups": [
             "ENJINSTARTER"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "needhuman"
     },
     {
         "contract_address": "0x2b0a7401c4c23de3f5d7a4432a5d373490051cf8",
