@@ -10087,7 +10087,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "areon.network"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe35de01cd7c3d7e3256be959c217a258bafe6760",
@@ -10102,7 +10104,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "openjdk.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xcc4c8b0ac62b41e5705b25f132289016a3622f34",
@@ -10117,7 +10121,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "stream-coin.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x16ae8c427662130079af375745633ec6525bfce8",
@@ -10132,14 +10138,20 @@
         "sourceScanned": "processed",
         "web_domains": [
             "owasp.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa325ad6d9c92b55a3fc5ad7e412b1518f96441c0",
         "sourceScanned": "processed",
         "web_domains": [
             "orai.io"
-        ]
+        ],
+        "telegram_groups": [
+            "oraichain"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x82097b2d51e28801c833d49426574efb4cfd0bf2",
@@ -10157,7 +10169,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.bitclassic.ae"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x129385c4acd0075e45a0c9a5177bdfec9678a138",
