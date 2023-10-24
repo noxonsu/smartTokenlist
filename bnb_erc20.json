@@ -9917,7 +9917,10 @@
     },
     {
         "contract_address": "0xfdce54744801c9eb88d8445673ad267f8d43a9ee",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "solarix-solar.com"
+        ]
     },
     {
         "contract_address": "0x67e7f6bd46693ab5b893c555eba01218a7e43815",
@@ -9945,11 +9948,17 @@
     },
     {
         "contract_address": "0xdd6978f36c98aff4287e5ac803c9cf1b865641f6",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "jerryinu.com"
+        ]
     },
     {
         "contract_address": "0x9df90628d40c72f85137e8cee09dde353a651266",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mechaverse.cc"
+        ]
     },
     {
         "contract_address": "0xbf76fb97055c2c24549e3fff06c76c11fe92e8f1",
@@ -9973,11 +9982,17 @@
     },
     {
         "contract_address": "0xfbcf80ed90856af0d6d9655f746331763efdb22c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nextype.finance"
+        ]
     },
     {
         "contract_address": "0x0a846d5f27b9192270567d9e0c20d1895fc92ed9",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tesla.com"
+        ]
     },
     {
         "contract_address": "0x2adc3468fc4149932dd16d0244b7228aa8eead5c",
