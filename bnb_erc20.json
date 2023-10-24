@@ -8349,7 +8349,10 @@
     },
     {
         "contract_address": "0x0cbd6fadcf8096cc9a43d90b45f65826102e3ece",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "checkdot.io"
+        ]
     },
     {
         "contract_address": "0x14ab462a88e33d026a687f6d99f3af6e0ea73f9b",
@@ -8365,7 +8368,10 @@
     },
     {
         "contract_address": "0xc95eec280a392820e9bc332b71fdd35d646f5302",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "airswap.io"
+        ]
     },
     {
         "contract_address": "0x0e5cf195c2d52cb6cf690231fade8bd8e210c8a1",
@@ -8377,7 +8383,10 @@
     },
     {
         "contract_address": "0x33aca8fd6f40104804794f96af850406112df381",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "borabora.ooo"
+        ]
     },
     {
         "contract_address": "0xc40d631e2c5304b499e1b8d27731c5f8a5645427",
@@ -8398,7 +8407,10 @@
     },
     {
         "contract_address": "0xc2ebaa5f640b30c0d6712a6e0656fb816c10a7d4",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bidz.store"
+        ]
     },
     {
         "contract_address": "0xde619a9e0eeeaa9f8cd39522ed788234837f3b26",
@@ -8442,11 +8454,17 @@
     },
     {
         "contract_address": "0xf5e0adda6fb191a332a787deedfd2cffc72dba0c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "kinza.finance"
+        ]
     },
     {
         "contract_address": "0xaa9e582e5751d703f85912903bacaddfed26484c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hacken.ai"
+        ]
     },
     {
         "contract_address": "0xd3c325848d7c6e29b574cb0789998b2ff901f17e",
