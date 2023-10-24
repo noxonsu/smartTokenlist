@@ -9446,7 +9446,9 @@
         "telegram_groups": [
             "blastfrontiers"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xea87b0ac5702c0fcae8e0fd45412ff4cf13b6fe8",
@@ -9476,9 +9478,11 @@
             "apraemio.com"
         ],
         "telegram_groups": [
-            "APRAEMIO_ANN"
+            null
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: '<' not supported between instances of 'NoneType' and 'int'"
     },
     {
         "contract_address": "0x217634d01809d7b9c6348d70a95ae7f5e5179de3",
@@ -9593,7 +9597,9 @@
         "telegram_groups": [
             "copiosatelegram"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x333761e0cdc40156169ce494bd5e13b33b576679",
@@ -9649,7 +9655,9 @@
         "telegram_groups": [
             "adshares"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x5f12748bd3be8f3188f4e731f18d5e7e6c1becb0",
@@ -9664,7 +9672,9 @@
         "telegram_groups": [
             "neroglobal"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x8dee0b33f42d06cefb97b3b421736ebaffa496f5",
