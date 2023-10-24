@@ -7193,21 +7193,31 @@
         "sourceScanned": "processed",
         "web_domains": [
             "dusk.network"
-        ]
+        ],
+        "telegram_groups": [
+            "DuskNetwork"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7bc75e291e656e8658d66be1cc8154a3769a35dd",
         "sourceScanned": "processed",
         "web_domains": [
             "www.imem.app"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x29e57c3918d38ae7cb4c567a4112dfe0fcb9c893",
         "sourceScanned": "processed",
         "web_domains": [
             "bitcoin-black.net"
-        ]
+        ],
+        "telegram_groups": [
+            "Bitcoin_Black_BTCB"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x35da89a339de2c78f8fb1c5e1a9a9c6539e2fa8a",
@@ -7226,7 +7236,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.cryptofightclub.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3607c4aa409170a41b2daa6bb5f0b0e19289ba9f",
@@ -7246,14 +7258,18 @@
         "sourceScanned": "processed",
         "web_domains": [
             "bridge.link"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x40af3827f39d0eacbf4a168f8d4ee67c121d11c9",
         "sourceScanned": "processed",
         "web_domains": [
             "trusttoken.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xfa82075a6d8f85be9146e64e0f02baa849f8e8fb",
