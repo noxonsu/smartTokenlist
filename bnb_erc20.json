@@ -11026,14 +11026,21 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.bigtime.net"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8d11a22d1dc208c1b9ee7450d120940dd0899e16",
         "sourceScanned": "processed",
         "web_domains": [
             "worldpeacecoin.io"
-        ]
+        ],
+        "telegram_groups": [
+            "joinchat",
+            "PEACEINU_BSC"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x81dc626b5d055b4aead5dc011fdbc6e5aebe18f0",
@@ -11075,7 +11082,12 @@
         "sourceScanned": "processed",
         "web_domains": [
             "landshare.io"
-        ]
+        ],
+        "telegram_groups": [
+            "landshare",
+            "landshareannouncement"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1b2aa7debd40be97506b4fdf3ffe877ba487f65c",
@@ -11086,7 +11098,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "sonm.com"
-        ]
+        ],
+        "telegram_groups": [
+            "sonm_eng"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4c7ebea72179e442c7d4133570666de9efe3cac7",
@@ -11100,17 +11116,21 @@
         "sourceScanned": "processed",
         "web_domains": [
             "launchify.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x581acdd9d726033e5d841aedbfbd246ec70f553a",
         "sourceScanned": "processed",
         "telegram_groups": [
-            "PepePeaceToken"
+            "PepePeaceToken",
+            "PepePeaceErc"
         ],
         "web_domains": [
             "www.pepepeaceerc.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3fdcfc2882cd125bf77befd158d8e3003a806f60",
