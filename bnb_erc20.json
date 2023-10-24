@@ -10496,7 +10496,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "luffytoken.com"
-        ]
+        ],
+        "telegram_groups": [
+            "luffycoin_global"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7b443af270b82a73ab8975268572c9c93639df18",
@@ -10526,7 +10530,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.gertcoin.com"
-        ]
+        ],
+        "telegram_groups": [
+            "gertcoin"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xda1689c5557564d06e2a546f8fd47350b9d44a73",
@@ -10593,21 +10601,42 @@
         "sourceScanned": "processed",
         "web_domains": [
             "mymasterwar.com"
-        ]
+        ],
+        "telegram_groups": [
+            "mymasterwarbrazil",
+            "mymasterwarchannel",
+            "mymasterwarvietnam",
+            "MyMasterWarCN",
+            "mymasterwar_indo",
+            "MyMasterWarJP",
+            "mymasterwarturkey",
+            "MyMasterWarKR",
+            "MyMasterWarPH",
+            "mymasterwarSpain",
+            "mymasterwar_russia",
+            "MyMasterWarTH"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5f0da599bb2cccfcf6fdfd7d81743b6020864350",
         "sourceScanned": "processed",
         "web_domains": [
             "makerdao.com"
-        ]
+        ],
+        "telegram_groups": [
+            "makerdaoOfficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x43c934a845205f0b514417d757d7235b8f53f1b9",
         "sourceScanned": "processed",
         "web_domains": [
             "stellar.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7b2080c3f0bb9f4be77a016145a6921bd763d059",
@@ -10618,7 +10647,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "gamestop.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3dbf8babf260be2a6221dc6fb1c4074a44b58562",
