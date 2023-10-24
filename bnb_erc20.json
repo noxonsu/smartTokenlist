@@ -9399,7 +9399,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "copiosa.io"
-        ]
+        ],
+        "telegram_groups": [
+            "copiosatelegram"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x333761e0cdc40156169ce494bd5e13b33b576679",
@@ -21292,7 +21296,8 @@
         ],
         "emails": [
             "team@bullrun.today"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2306479508f62622339556ba6582528f3f79b044",
@@ -21324,8 +21329,12 @@
             "dexvault.io"
         ],
         "telegram_groups": [
-            "DexVaultNetwork"
-        ]
+            "louisvault",
+            "Vault_CEO",
+            "DexVaultNetwork",
+            "antnmiid"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xecfde422b804d1ce3ec6f984ea64283b2ae416be",
@@ -21339,7 +21348,8 @@
         ],
         "telegram_groups": [
             "oskBSC_fist"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa87584cfeb892c33a1c9a233e4a733b45c4160e6",
@@ -21479,14 +21489,20 @@
         ],
         "telegram_groups": [
             "solidearn_org"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xaaaafdc2e08371b956be515b3f3ff735ab9c9d74",
         "sourceScanned": "processed",
         "web_domains": [
             "azbit.com"
-        ]
+        ],
+        "telegram_groups": [
+            "azbit_com",
+            "azbit_news"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf6a3d7fdb93825b0e137dccbd0ead8ce4f169b34",
