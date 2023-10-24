@@ -11700,7 +11700,10 @@
     },
     {
         "contract_address": "0x42dabca1af369fbd9e8ea286dafba45b23fc92d9",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bigtycoon.co"
+        ]
     },
     {
         "contract_address": "0xf0c6e96df7298259b66dafaa1225ffe1d2187eae",
@@ -11754,6 +11757,9 @@
         "sourceScanned": "processed",
         "emails": [
             "goncalo.sa@consensys.net"
+        ],
+        "web_domains": [
+            "everywhere.finance"
         ]
     },
     {
@@ -11762,7 +11768,10 @@
     },
     {
         "contract_address": "0x52f24a5e03aee338da5fd9df68d2b6fae1178827",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ankr.com"
+        ]
     },
     {
         "contract_address": "0x91d6d6af7635b7b23a8ced9508117965180e2362",
@@ -11793,6 +11802,9 @@
         "sourceScanned": "processed",
         "telegram_groups": [
             "Pumpkininuchat"
+        ],
+        "web_domains": [
+            "pumpkininu.vip"
         ]
     },
     {
@@ -11801,11 +11813,17 @@
     },
     {
         "contract_address": "0xd966cc309898847ded8741deb877d16a7fae4d2c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "luxkingtech.com"
+        ]
     },
     {
         "contract_address": "0xffcec3e4584aaefde72ac1579996b982396254c8",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tether.to"
+        ]
     },
     {
         "contract_address": "0x2a863b41c7fb02085f58f40ee7eb11ba9f7a8888",
