@@ -9424,7 +9424,10 @@
     },
     {
         "contract_address": "0xc72067138633c903ffc97e6814cda685006da00a",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "btdao.io"
+        ]
     },
     {
         "contract_address": "0x7bc4da573dd3470f858b03263b36848dfda313d9",
@@ -9435,7 +9438,10 @@
     },
     {
         "contract_address": "0x1dfafd984628ddd7cba00bf68591fd60ec4633e6",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bitnext.network"
+        ]
     },
     {
         "contract_address": "0x59a430ff07354e8cda5f4569ef8277bf1760cf36",
@@ -9455,7 +9461,10 @@
     },
     {
         "contract_address": "0xcfcecfe2bd2fed07a9145222e8a7ad9cf1ccd22a",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "adshares.net"
+        ]
     },
     {
         "contract_address": "0x5f12748bd3be8f3188f4e731f18d5e7e6c1becb0",
@@ -9463,11 +9472,17 @@
     },
     {
         "contract_address": "0x624b9b1ac0fb350aed8389a51b26e36147e158c3",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nerotoken.net"
+        ]
     },
     {
         "contract_address": "0x8dee0b33f42d06cefb97b3b421736ebaffa496f5",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "kols.city"
+        ]
     },
     {
         "contract_address": "0xc2273b0b9ba4398240daa7a4e53d3a13937dd8fb",
@@ -9498,11 +9513,17 @@
     },
     {
         "contract_address": "0xaf535b6ed0c1ccf83fa7b32fb9a0c76ccc6f48d0",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zocivoci.com"
+        ]
     },
     {
         "contract_address": "0x7b610012bdc4d6deba2c2d91684e408f40863429",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "omnisea.org"
+        ]
     },
     {
         "contract_address": "0xbfd48cc239bc7e7cd5ad9f9630319f9b59e0b9e1",
@@ -9518,7 +9539,10 @@
     },
     {
         "contract_address": "0xda48c3a0cc7ec60b19b725dc539bc67fc3eba6d9",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.vegetoken.io"
+        ]
     },
     {
         "contract_address": "0xd91a5f4553b3f3a8c6459d433044ff2694381041",
