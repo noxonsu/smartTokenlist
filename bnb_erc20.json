@@ -9032,7 +9032,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "wbtc.network"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf09f2d3b0215d499688545f3b8363cb0ceb57d22",
@@ -9059,7 +9061,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "carboncc.com.au"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x510ca7d22a84599e7d0f15f09e674056a6255389",
@@ -9078,28 +9082,40 @@
         "sourceScanned": "processed",
         "web_domains": [
             "btcash.info"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2ef776488739722ad174f8f2ffe76eb67a8467eb",
         "sourceScanned": "processed",
         "web_domains": [
             "doc.summonersarena.io"
-        ]
+        ],
+        "telegram_groups": [
+            "SummonersArena"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdd5a149740c055bdcdc5c066888f739dbe0bf2d0",
         "sourceScanned": "processed",
         "web_domains": [
             "moneyswap.io"
-        ]
+        ],
+        "telegram_groups": [
+            "joinchat"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd5239b38b93b54a31b348afaac3edcdf9e3c546a",
         "sourceScanned": "processed",
         "web_domains": [
             "hashbit.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x1bdc74d5bb2e0e570c19d2b1714d0623bc9f2905",
