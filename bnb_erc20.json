@@ -7240,7 +7240,9 @@
         "telegram_groups": [
             "muquant"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xa6fdea1655910c504e974f7f1b520b74be21857b",
@@ -7264,7 +7266,9 @@
         "telegram_groups": [
             "DuskNetwork"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x7bc75e291e656e8658d66be1cc8154a3769a35dd",
@@ -7284,7 +7288,9 @@
         "telegram_groups": [
             "Bitcoin_Black_BTCB"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x35da89a339de2c78f8fb1c5e1a9a9c6539e2fa8a",
@@ -7383,7 +7389,9 @@
         "web_domains": [
             "btcbr.info"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x7ad7242a99f21aa543f9650a56d141c57e4f6081",
@@ -7402,7 +7410,9 @@
         "telegram_groups": [
             "RadioCaca"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xab311ab65acbbf6042dfa1b958c83c29632b3d51",
