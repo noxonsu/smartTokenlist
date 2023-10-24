@@ -12409,7 +12409,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "yessun.cn"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x5ad080a6e129d62686efe0d696b443cd43beac1d",
@@ -12432,7 +12434,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "mcmworldwide.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x695cb5f23eb3780a00803988d4ec5ff22221cc09",
@@ -12443,14 +12447,22 @@
         "sourceScanned": "processed",
         "web_domains": [
             "defina.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "definafinance1"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6f626f927ce21d309a38e99c8b1400bcf3df8782",
         "sourceScanned": "processed",
         "web_domains": [
             "itrustcoinitc.io"
-        ]
+        ],
+        "telegram_groups": [
+            "itrustcoin"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf2b4f91b882fafba26c445b5dabc4c28ceaa3998",
@@ -12461,14 +12473,22 @@
         "sourceScanned": "processed",
         "web_domains": [
             "woo.org"
-        ]
+        ],
+        "telegram_groups": [
+            "woo_english"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7e624fa0e1c4abfd309cc15719b7e2580887f570",
         "sourceScanned": "processed",
         "web_domains": [
             "polkastarter.com"
-        ]
+        ],
+        "telegram_groups": [
+            "polkastarter"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb4404dab7c0ec48b428cf37dec7fb628bcc41b36",
