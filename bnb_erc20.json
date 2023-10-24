@@ -12256,7 +12256,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "momogems.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x28f2284626caded3c37988d969deff127c7d05dd",
@@ -12267,7 +12269,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "dashboard.nft11.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xcc61b0f13980201f15f6b99358b063d7f7190f69",
@@ -12278,21 +12282,31 @@
         "sourceScanned": "processed",
         "web_domains": [
             "bt.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "btdotfinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd7686389a2de8fce13dc262e6bca11480c8f6434",
         "sourceScanned": "processed",
         "web_domains": [
             "tether.to"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4b85a666dec7c959e88b97814e46113601b07e57",
         "sourceScanned": "processed",
         "web_domains": [
             "gocrypto.com"
-        ]
+        ],
+        "telegram_groups": [
+            "eligma"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4afad6a8912dfc6e59d45c965ee181d3c2f67fec",
