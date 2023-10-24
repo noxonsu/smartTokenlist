@@ -12495,7 +12495,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "whitepaper.metagear.game"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9f591f915fcd3014bd805e0c85c87fdd6e55b600",
@@ -12522,7 +12524,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.vemp.xyz"
-        ]
+        ],
+        "telegram_groups": [
+            "VEMPCommunityHub"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x24ac97d1f0f83068de53cbfaf9c29e5a0b319fcb",
