@@ -9539,7 +9539,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "omnisea.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xbfd48cc239bc7e7cd5ad9f9630319f9b59e0b9e1",
@@ -9558,7 +9560,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.vegetoken.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd91a5f4553b3f3a8c6459d433044ff2694381041",
@@ -9585,7 +9589,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "neutron.org"
-        ]
+        ],
+        "telegram_groups": [
+            "neutron_community"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xccd09b80453335aa914f5d9174984b6586c315ec",
@@ -9596,14 +9604,22 @@
         "sourceScanned": "processed",
         "web_domains": [
             "gymnetwork.io"
-        ]
+        ],
+        "telegram_groups": [
+            "gymnetwork_english"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc3028fbc1742a16a5d69de1b334cbce28f5d7eb3",
         "sourceScanned": "processed",
         "web_domains": [
             "starsharks.com"
-        ]
+        ],
+        "telegram_groups": [
+            "starsharks_SSS"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd5cd58b8d729ad6db7713ae7000ca630b49c808e",
@@ -9622,7 +9638,12 @@
         "sourceScanned": "processed",
         "web_domains": [
             "meter.io"
-        ]
+        ],
+        "telegram_groups": [
+            "MeterValidators",
+            "Meter_IO"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3bb8b75ae92b16a6428962dd891a07974422a2a3",
