@@ -12429,7 +12429,10 @@
     },
     {
         "contract_address": "0x3d390b8726893f532a42763b3f6721bf95a780d3",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mcmworldwide.com"
+        ]
     },
     {
         "contract_address": "0x695cb5f23eb3780a00803988d4ec5ff22221cc09",
@@ -12437,11 +12440,17 @@
     },
     {
         "contract_address": "0x426c72701833fddbdfc06c944737c6031645c708",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "defina.finance"
+        ]
     },
     {
         "contract_address": "0x6f626f927ce21d309a38e99c8b1400bcf3df8782",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "itrustcoinitc.io"
+        ]
     },
     {
         "contract_address": "0xf2b4f91b882fafba26c445b5dabc4c28ceaa3998",
@@ -12449,15 +12458,24 @@
     },
     {
         "contract_address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "woo.org"
+        ]
     },
     {
         "contract_address": "0x7e624fa0e1c4abfd309cc15719b7e2580887f570",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "polkastarter.com"
+        ]
     },
     {
         "contract_address": "0xb4404dab7c0ec48b428cf37dec7fb628bcc41b36",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "whitepaper.metagear.game"
+        ]
     },
     {
         "contract_address": "0x9f591f915fcd3014bd805e0c85c87fdd6e55b600",
@@ -12481,7 +12499,10 @@
     },
     {
         "contract_address": "0xedf3ce4dd6725650a8e9398e5c6398d061fa7955",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.vemp.xyz"
+        ]
     },
     {
         "contract_address": "0x24ac97d1f0f83068de53cbfaf9c29e5a0b319fcb",
