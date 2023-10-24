@@ -11736,7 +11736,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "bigtycoon.co"
-        ]
+        ],
+        "telegram_groups": [
+            "thebigtycoon"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf0c6e96df7298259b66dafaa1225ffe1d2187eae",
@@ -11793,7 +11797,9 @@
         ],
         "web_domains": [
             "everywhere.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x684802262d614d0cd0c9571672f03dd9e85d7824",
@@ -11804,7 +11810,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "ankr.com"
-        ]
+        ],
+        "telegram_groups": [
+            "ankrnetwork"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x91d6d6af7635b7b23a8ced9508117965180e2362",
@@ -11834,11 +11844,13 @@
         "contract_address": "0xc28a1f0abcb5a3ed71420c971701a6a7fc61674a",
         "sourceScanned": "processed",
         "telegram_groups": [
-            "Pumpkininuchat"
+            "Pumpkininuchat",
+            "pumpkininu"
         ],
         "web_domains": [
             "pumpkininu.vip"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x605641359fe6ecd54a8bbf2972bd4921c36b80a3",
@@ -11849,14 +11861,20 @@
         "sourceScanned": "processed",
         "web_domains": [
             "luxkingtech.com"
-        ]
+        ],
+        "telegram_groups": [
+            "kinganimals"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xffcec3e4584aaefde72ac1579996b982396254c8",
         "sourceScanned": "processed",
         "web_domains": [
             "tether.to"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2a863b41c7fb02085f58f40ee7eb11ba9f7a8888",
