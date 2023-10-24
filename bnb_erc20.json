@@ -9998,7 +9998,9 @@
         "telegram_groups": [
             "Unmarshal_Chat"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xddd42201e485aba87099089b00978b87e7fbe796",
@@ -10026,7 +10028,9 @@
         "web_domains": [
             "chirpley.ai"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xd609f26b5547d5e31562b29150769cb7c774b97a",
@@ -10074,7 +10078,9 @@
         "telegram_groups": [
             "TruthGPTPortal"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xe177295fa0142331abdc8b106832789e0c0fe77b",
@@ -10154,7 +10160,9 @@
         "telegram_groups": [
             "JerryInuGroup"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x9df90628d40c72f85137e8cee09dde353a651266",
@@ -10194,7 +10202,9 @@
         "telegram_groups": [
             "nextype1"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x0a846d5f27b9192270567d9e0c20d1895fc92ed9",
