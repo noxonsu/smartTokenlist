@@ -7691,14 +7691,20 @@
         "sourceScanned": "processed",
         "web_domains": [
             "atomicwallet.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x89af13a10b32f1b2f8d1588f93027f69b6f4e27e",
         "sourceScanned": "processed",
         "web_domains": [
             "gamefi.org"
-        ]
+        ],
+        "telegram_groups": [
+            "GameFi_Official"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xaedddc4410b6b531e88bfb3252dcca17966cb654",
@@ -7709,14 +7715,22 @@
         "sourceScanned": "processed",
         "web_domains": [
             "openfabric.ai"
-        ]
+        ],
+        "telegram_groups": [
+            "OpenFabricAI"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe5f890b1a48760bd20aab8e20aecc7216b7ef211",
         "sourceScanned": "processed",
         "web_domains": [
             "yeetoshi.com"
-        ]
+        ],
+        "telegram_groups": [
+            "YeetcoinYEET"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3ac580e34f2f31bb605a116810b849eb015a2bf1",
@@ -7762,14 +7776,23 @@
         "sourceScanned": "processed",
         "web_domains": [
             "metaverser.me"
-        ]
+        ],
+        "telegram_groups": [
+            "metaversergame",
+            "metaverserchat"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa58950f05fea2277d2608748412bf9f802ea4901",
         "sourceScanned": "processed",
         "web_domains": [
             "wsg.gg"
-        ]
+        ],
+        "telegram_groups": [
+            "WSGToken"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x37ff7d4459ad96e0b01275e5efffe091f33c2cad",
