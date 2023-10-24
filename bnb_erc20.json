@@ -12147,19 +12147,31 @@
     },
     {
         "contract_address": "0x8ff795a6f4d97e7887c79bea79aba5cc76444adf",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bitcoincash.org"
+        ]
     },
     {
         "contract_address": "0x04756126f044634c9a0f0e985e60c88a51acc206",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "carbon.website"
+        ]
     },
     {
         "contract_address": "0x0158d3817c1391b4736be724b1e8e8553d615c57",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.gaypepe.org"
+        ]
     },
     {
         "contract_address": "0x2d7ae73fc16c266c40761364d8f10a8b62f1ada3",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "yearn.finance"
+        ]
     },
     {
         "contract_address": "0x7a1219c42f33b97352fd627ca7667b857c967235",
@@ -12167,11 +12179,17 @@
     },
     {
         "contract_address": "0xd3c117bd35025786714b56f44c93ad6deb68b4d1",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "janex.finance"
+        ]
     },
     {
         "contract_address": "0x84dd8ba1ba32eedd6060a043154a68a3f16fde3c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ifm.com"
+        ]
     },
     {
         "contract_address": "0x057aff3e314e1ca15bed75510df81a20098ce456",
@@ -12187,15 +12205,24 @@
     },
     {
         "contract_address": "0xd4abef1d6b87a584888ec15b92ef69b07da19f61",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "app.cream.finance"
+        ]
     },
     {
         "contract_address": "0xd3ab8287c03a6cf8655264c6749cdb5fccee0260",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "p2pgold.io"
+        ]
     },
     {
         "contract_address": "0xf91d6e71f6d9e6dbffe92597ce0fdd76058c49a7",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "momogems.com"
+        ]
     },
     {
         "contract_address": "0x28f2284626caded3c37988d969deff127c7d05dd",
@@ -12203,7 +12230,10 @@
     },
     {
         "contract_address": "0x73f67ae7f934ff15beabf55a28c2da1eeb9b56ec",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dashboard.nft11.io"
+        ]
     },
     {
         "contract_address": "0xcc61b0f13980201f15f6b99358b063d7f7190f69",
@@ -12211,15 +12241,24 @@
     },
     {
         "contract_address": "0x45633fb8db8f23e27a2958655fc25e9c57f498d7",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bt.finance"
+        ]
     },
     {
         "contract_address": "0xd7686389a2de8fce13dc262e6bca11480c8f6434",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tether.to"
+        ]
     },
     {
         "contract_address": "0x4b85a666dec7c959e88b97814e46113601b07e57",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "gocrypto.com"
+        ]
     },
     {
         "contract_address": "0x4afad6a8912dfc6e59d45c965ee181d3c2f67fec",
