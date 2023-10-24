@@ -10310,35 +10310,50 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.tenset.io"
-        ]
+        ],
+        "telegram_groups": [
+            "tenset_io_eng",
+            "tensetio"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb2f9f2c0e6eba6a8e9d2b0f134430b3ea5ce5cc9",
         "sourceScanned": "processed",
         "web_domains": [
             "tether.to"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x31f8934dee2b3bcfc592e9ea227584e7db12bb4f",
         "sourceScanned": "processed",
         "web_domains": [
             "lodcwheels.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe6ce27025f13f5213bbc560dc275e292965a392f",
         "sourceScanned": "processed",
         "web_domains": [
             "loomx.io"
-        ]
+        ],
+        "telegram_groups": [
+            "loomnetwork"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x69335f6836e88f8783fa4b2c77b201fb094b5979",
         "sourceScanned": "processed",
         "web_domains": [
             "btcl.gov.bd"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc13c85b5cd99ac224e9c192d9d06a38bfd31b464",
@@ -10353,7 +10368,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "venus.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x86a53fcd199212fea44fa7e16eb1f28812be911d",
@@ -10608,7 +10625,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "venus.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf3ba0a972224d0339b5258ca1f65b682a0d7315a",
