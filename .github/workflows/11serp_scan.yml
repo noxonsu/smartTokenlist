@@ -41,6 +41,7 @@ jobs:
       run: |
         git config --global user.name "GitHub Action"
         git config --global user.email "action@github.com"
+        git config pull.rebase false
         git add -A
         git diff --cached --exit-code || git commit -m "Automated update from GitHub Actions ($GITHUB_WORKFLOW)"
         git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git || echo "No changes to commit"
@@ -55,6 +56,7 @@ jobs:
       run: |
         git config --global user.name "GitHub Action"
         git config --global user.email "action@github.com"
+        git config pull.rebase false
         git add -A
         git diff --cached --exit-code || git commit -m "Automated update from GitHub Actions ($GITHUB_WORKFLOW)"
         git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git || echo "No changes to commit"
