@@ -10375,6 +10375,9 @@
         "sourceScanned": "processed",
         "telegram_groups": [
             "KabosuGlobal_BSC"
+        ],
+        "web_domains": [
+            "kabosutoken.io"
         ]
     },
     {
@@ -10386,7 +10389,10 @@
     },
     {
         "contract_address": "0xf97c30f0b31aee9b1ab087f8ccf5b14bf354d29f",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.r3-token.com"
+        ]
     },
     {
         "contract_address": "0x36d1ebfd2f37cf03b7de8074436bfdcce9e43203",
@@ -10402,7 +10408,10 @@
     },
     {
         "contract_address": "0x298c2e5eadd2dff232f89ce03f74ea7bf2b11d22",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "luffytoken.com"
+        ]
     },
     {
         "contract_address": "0x7b443af270b82a73ab8975268572c9c93639df18",
@@ -10429,7 +10438,10 @@
     },
     {
         "contract_address": "0x29deb024511cda0f85a5d9a53d160c56f2c96417",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.gertcoin.com"
+        ]
     },
     {
         "contract_address": "0xda1689c5557564d06e2a546f8fd47350b9d44a73",
