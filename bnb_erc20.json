@@ -9249,7 +9249,10 @@
     },
     {
         "contract_address": "0xa9cf023a5f6de6863f02761f6166799ec2595758",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blastfrontiers.com"
+        ]
     },
     {
         "contract_address": "0xea87b0ac5702c0fcae8e0fd45412ff4cf13b6fe8",
@@ -9257,7 +9260,10 @@
     },
     {
         "contract_address": "0x350494bcc94efb5c6080f6a6f0043da27be2ad2c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dfs-mafia.com"
+        ]
     },
     {
         "contract_address": "0xccecc5967fe465d7a7643749026bb15379390c7d",
@@ -9269,7 +9275,10 @@
     },
     {
         "contract_address": "0x0c4ac8952c28e2e7fe22033c8d2f1263372d301d",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "apraemio.com"
+        ]
     },
     {
         "contract_address": "0x217634d01809d7b9c6348d70a95ae7f5e5179de3",
@@ -9303,7 +9312,10 @@
     },
     {
         "contract_address": "0x28e740d0d8fb3ed06590a9d8eb332ebe9b24d56c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "openleverage.finance"
+        ]
     },
     {
         "contract_address": "0x7dd47a5cb6bac8f93f6f6c33d307dd3fbfa57a26",
@@ -9346,7 +9358,10 @@
     },
     {
         "contract_address": "0x28239ba41ff9ab91f67c3e566bdfc2bafed5216f",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "spacedoge.finance"
+        ]
     },
     {
         "contract_address": "0x6df24fdea72744c440c55dc9e222c9c8f0debb8f",
@@ -9358,11 +9373,17 @@
     },
     {
         "contract_address": "0x1935c03bb7dbc3623bd992ce599bc26bd30a43eb",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fantomstarter.io"
+        ]
     },
     {
         "contract_address": "0x8789337a176e6e7223ff115f1cd85c993d42c25c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "copiosa.io"
+        ]
     },
     {
         "contract_address": "0x333761e0cdc40156169ce494bd5e13b33b576679",
