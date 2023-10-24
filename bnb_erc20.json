@@ -8829,7 +8829,9 @@
         "telegram_groups": [
             "jointruefi"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x2ac2367aaa2b7dbe96110ecaed8c5326c7a00b61",
@@ -8841,7 +8843,9 @@
             "polygonofficial",
             "PolygonAnnouncements"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x56b6fb708fc5732dec1afc8d8556423a2edccbd6",
@@ -8852,7 +8856,9 @@
         "telegram_groups": [
             "joinchat"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't find chat"
     },
     {
         "contract_address": "0xd9eade302456aff8bf8d87ff0ef77dab1fb9230f",
@@ -8863,7 +8869,9 @@
         "telegram_groups": [
             "KingofLegends_Global"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xbc66460b9300bee6ba61db1cf0b07f8f0ee0a0d8",
@@ -8903,7 +8911,9 @@
             "PacoDeLlama",
             "stroembets"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x777f67110cce20c9bbcfe2447e9396425a6ddc67",
