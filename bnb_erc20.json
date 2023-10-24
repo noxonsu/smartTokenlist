@@ -10696,7 +10696,9 @@
         "telegram_groups": [
             "gertcoin"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't find chat"
     },
     {
         "contract_address": "0xda1689c5557564d06e2a546f8fd47350b9d44a73",
@@ -10778,7 +10780,9 @@
             "mymasterwar_russia",
             "MyMasterWarTH"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x5f0da599bb2cccfcf6fdfd7d81743b6020864350",
@@ -10789,7 +10793,9 @@
         "telegram_groups": [
             "makerdaoOfficial"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x43c934a845205f0b514417d757d7235b8f53f1b9",
@@ -10826,7 +10832,9 @@
         "telegram_groups": [
             "huskyaigroup"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x4ffa143ce16a24215e8df96c0cef5677a7b91ee4",
@@ -10868,7 +10876,9 @@
         "telegram_groups": [
             "gmtkn"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x8a11314e55f4d01f734ac3e294d7a2281bb2c778",
