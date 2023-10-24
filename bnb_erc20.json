@@ -10529,9 +10529,11 @@
             "xtblock.io"
         ],
         "telegram_groups": [
-            "xtblockio"
+            "xttchat"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xfb52370e0fcac5bfca44b4e6c09a97be1875605f",
@@ -10555,7 +10557,9 @@
         "telegram_groups": [
             "trustkeysuperapp"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x9c2b1b3780a8b36b695f0b2781668664ac1bf25a",
@@ -10601,7 +10605,9 @@
         "web_domains": [
             "kabosutoken.io"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x1306bf5bc713922804323a8fafe01455f66932ba",
@@ -10619,7 +10625,9 @@
         "telegram_groups": [
             "R3InterPortal"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x36d1ebfd2f37cf03b7de8074436bfdcce9e43203",
@@ -10642,7 +10650,9 @@
         "telegram_groups": [
             "luffycoin_global"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x7b443af270b82a73ab8975268572c9c93639df18",
