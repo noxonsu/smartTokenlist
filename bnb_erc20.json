@@ -7898,7 +7898,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "cosmos.network"
-        ]
+        ],
+        "telegram_groups": [
+            "cosmosproject"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdb5ee2a3d48f17a81bdcf513d6988ed430bbe7ab",
@@ -7917,14 +7921,20 @@
         "sourceScanned": "processed",
         "web_domains": [
             "mazimatic.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9096b4309224d751fcb43d7eb178dcffc122ad15",
         "sourceScanned": "processed",
         "web_domains": [
             "legionnetwork.io"
-        ]
+        ],
+        "telegram_groups": [
+            "legionnetworkcommunity"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x768a62a22b187eb350637e720ebc552d905c0331",
@@ -7935,7 +7945,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "shopping.io"
-        ]
+        ],
+        "telegram_groups": [
+            "shoppingio"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8755da967bb17cb3e136034e8f5f4955df4d506e",
@@ -7987,14 +8001,22 @@
         "sourceScanned": "processed",
         "web_domains": [
             "trivians.io"
-        ]
+        ],
+        "telegram_groups": [
+            "TriviansGL"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5b65cd9feb54f1df3d0c60576003344079f8dc06",
         "sourceScanned": "processed",
         "web_domains": [
             "uniwhale.co"
-        ]
+        ],
+        "telegram_groups": [
+            "UniwhaleEx"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x124acc690889197587a54139576da6dffb783627",
