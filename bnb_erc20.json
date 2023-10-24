@@ -9252,7 +9252,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "blastfrontiers.com"
-        ]
+        ],
+        "telegram_groups": [
+            "blastfrontiers"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xea87b0ac5702c0fcae8e0fd45412ff4cf13b6fe8",
@@ -9263,7 +9267,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "dfs-mafia.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xccecc5967fe465d7a7643749026bb15379390c7d",
@@ -9278,7 +9284,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "apraemio.com"
-        ]
+        ],
+        "telegram_groups": [
+            "APRAEMIO_ANN"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x217634d01809d7b9c6348d70a95ae7f5e5179de3",
@@ -9315,7 +9325,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "openleverage.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7dd47a5cb6bac8f93f6f6c33d307dd3fbfa57a26",
@@ -9361,7 +9373,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "spacedoge.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6df24fdea72744c440c55dc9e222c9c8f0debb8f",
@@ -9376,7 +9390,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "fantomstarter.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8789337a176e6e7223ff115f1cd85c993d42c25c",
