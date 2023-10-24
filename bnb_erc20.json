@@ -10907,7 +10907,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "ambify.com"
-        ]
+        ],
+        "telegram_groups": [
+            "ambify"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x424efc14280b92e9ef2b2e28da337be124fce392",
@@ -10922,7 +10926,12 @@
         "sourceScanned": "processed",
         "web_domains": [
             "xmoney.com"
-        ]
+        ],
+        "telegram_groups": [
+            "xMoney",
+            "xmoneyannouncements"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8f94ab523030c58c480a0d1e9bbf4acad3ec5fa6",
@@ -10933,7 +10942,12 @@
         "sourceScanned": "processed",
         "web_domains": [
             "racekingdom.io"
-        ]
+        ],
+        "telegram_groups": [
+            "racekingdom_official",
+            "racekingdom3_0"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbeafb3262fac740fdb5ae40393d88884ad6d8bdd",
@@ -10948,14 +10962,24 @@
         "sourceScanned": "processed",
         "web_domains": [
             "vulkania.io"
-        ]
+        ],
+        "telegram_groups": [
+            "vulkaniaapp",
+            "joinchat"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1b24ebbec03298576337b1805c733cd225c8a6bc",
         "sourceScanned": "processed",
         "web_domains": [
             "astrocash.me"
-        ]
+        ],
+        "telegram_groups": [
+            "Web3PixBot",
+            "astrocashglobal"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x700d71de829750f897bd33e104cd3e1306f91014",
@@ -10991,7 +11015,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "thetanarena.com"
-        ]
+        ],
+        "telegram_groups": [
+            "thetanarenagroups"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb3a194ad6604b6e9d8c0a4cb286d4e7d137bfe56",
