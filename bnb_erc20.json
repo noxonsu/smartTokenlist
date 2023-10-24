@@ -21724,7 +21724,11 @@
         "emails": [
             "57pixels@uland.io",
             "57pixels@uland.io"
-        ]
+        ],
+        "telegram_groups": [
+            "smartcontractprogrammer"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1893e3987c07c265d2eacc6586c1edd0d8a0bf02",
