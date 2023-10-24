@@ -8094,7 +8094,10 @@
     },
     {
         "contract_address": "0xbcc527351606dd5c9a059e6b0fea56061767db9c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.strac.org"
+        ]
     },
     {
         "contract_address": "0xd18dcd429c4c44b98242042cc35a3e03bfabdb08",
@@ -8114,7 +8117,10 @@
     },
     {
         "contract_address": "0x5e7d83da751f4c9694b13af351b30ac108f32c38",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "circle.com"
+        ]
     },
     {
         "contract_address": "0x0efc685e3b984c650d5631da092a7903853e9139",
@@ -8122,7 +8128,10 @@
     },
     {
         "contract_address": "0x496cc0b4ee12aa2ac4c42e93067484e7ff50294b",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "metastrike.io"
+        ]
     },
     {
         "contract_address": "0x5d2ac7b20e86c4eafada4a3c8ef51ecb87e1b3d6",
@@ -8138,7 +8147,10 @@
     },
     {
         "contract_address": "0x9cec03362d759ceca736e5918e8ba7636e2bd64e",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "decimalchain.com"
+        ]
     },
     {
         "contract_address": "0xa86e876c9fd7a3dba82bccabb6826f4812f581b5",
