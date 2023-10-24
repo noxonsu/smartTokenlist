@@ -7817,7 +7817,9 @@
         "telegram_groups": [
             "YeetcoinYEET"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x3ac580e34f2f31bb605a116810b849eb015a2bf1",
@@ -7868,7 +7870,9 @@
             "metaversergame",
             "metaverserchat"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xa58950f05fea2277d2608748412bf9f802ea4901",
@@ -7879,7 +7883,9 @@
         "telegram_groups": [
             "WSGToken"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "needhuman"
     },
     {
         "contract_address": "0x37ff7d4459ad96e0b01275e5efffe091f33c2cad",
@@ -7911,7 +7917,9 @@
         "telegram_groups": [
             "MinesOfDalarnia"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "needhuman"
     },
     {
         "contract_address": "0xacf34edcc424128cccc730bf85cdaceebcb3eece",
@@ -7925,7 +7933,9 @@
             "rocketonevietnamofficial",
             "VoiceStreet"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0xbabacc135bbf2ce30f9c0f12665b244d3689a29c",
