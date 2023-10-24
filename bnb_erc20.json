@@ -11115,7 +11115,10 @@
     },
     {
         "contract_address": "0x3cb15bed2830c1c66f61041928d409260ec9d8ea",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.zhdcoin.ae"
+        ]
     },
     {
         "contract_address": "0x84821bb588f049913dc579dc511e5e31eb22d5e4",
@@ -11127,11 +11130,17 @@
     },
     {
         "contract_address": "0x5a16e8ce8ca316407c6e6307095dc9540a8d62b3",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bitrue.com"
+        ]
     },
     {
         "contract_address": "0x15e2a4b298db8b1c8117901edeb8ea8a0bd6b13b",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.yesyesyes.org"
+        ]
     },
     {
         "contract_address": "0x4f5979515c7014095908e066c8f29a8d02c18a70",
@@ -11160,7 +11169,10 @@
     },
     {
         "contract_address": "0x566f47bf6e0fd69cd97da548573a6127c18ce1c0",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "about.meta.com"
+        ]
     },
     {
         "contract_address": "0xfbe5c35ae60bf96bb91de653f32741840a582321",
