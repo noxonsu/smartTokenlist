@@ -7909,15 +7909,24 @@
     },
     {
         "contract_address": "0xb465f3cb6aba6ee375e12918387de1eac2301b05",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "trivians.io"
+        ]
     },
     {
         "contract_address": "0x5b65cd9feb54f1df3d0c60576003344079f8dc06",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "uniwhale.co"
+        ]
     },
     {
         "contract_address": "0x124acc690889197587a54139576da6dffb783627",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fqswap.org"
+        ]
     },
     {
         "contract_address": "0x0f94f330f39b9ccbcd545dad934400c882df08b0",
@@ -7925,7 +7934,10 @@
     },
     {
         "contract_address": "0x3e9d6430144485873248251fcb92bd856e95d1cd",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "theqube.cc"
+        ]
     },
     {
         "contract_address": "0x2fe8d24bbc8749c4ebe2854253d45c11797fb639",
@@ -7933,7 +7945,10 @@
     },
     {
         "contract_address": "0x05d6c52e3a47a8a4127aaeb43600b9b0878c0dac",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bitcoin.org"
+        ]
     },
     {
         "contract_address": "0x982e609643794a31a07f5c5b142dd3a9cf0690be",
@@ -7944,7 +7959,10 @@
     },
     {
         "contract_address": "0xbd14eb432b7d58eef29df5469d1e7d03d4b3f007",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "orberium.com"
+        ]
     },
     {
         "contract_address": "0xe43c4f3e7f6ec93e066b532badf9a6aab4844dae",
@@ -7985,7 +8003,10 @@
     },
     {
         "contract_address": "0x05995a068bdac17c582ec75ab46bb8e7394be1d9",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "egonswap.io"
+        ]
     },
     {
         "contract_address": "0x07728696ee70a28c9c032926577af1d524df30f9",
