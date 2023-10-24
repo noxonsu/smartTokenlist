@@ -8406,7 +8406,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "airswap.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0e5cf195c2d52cb6cf690231fade8bd8e210c8a1",
@@ -8421,7 +8423,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "borabora.ooo"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc40d631e2c5304b499e1b8d27731c5f8a5645427",
@@ -8445,7 +8449,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "bidz.store"
-        ]
+        ],
+        "telegram_groups": [
+            "bidzcoinofficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xde619a9e0eeeaa9f8cd39522ed788234837f3b26",
@@ -8492,14 +8500,22 @@
         "sourceScanned": "processed",
         "web_domains": [
             "kinza.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "kinza_finance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xaa9e582e5751d703f85912903bacaddfed26484c",
         "sourceScanned": "processed",
         "web_domains": [
             "hacken.ai"
-        ]
+        ],
+        "telegram_groups": [
+            "hackenai"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd3c325848d7c6e29b574cb0789998b2ff901f17e",
@@ -8510,7 +8526,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.palmpay.com"
-        ]
+        ],
+        "telegram_groups": [
+            "palmpayofficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf779568a4fa737f3b7421eae963316aa975086fa",
