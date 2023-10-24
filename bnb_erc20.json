@@ -11538,7 +11538,10 @@
     },
     {
         "contract_address": "0x1b7123eb10a6b1f9c2b513e95e29bc6e6d684a8f",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pancakeswap.finance"
+        ]
     },
     {
         "contract_address": "0xd9c80391ac55e9f0c2cf41ab93a95ee173afe048",
@@ -11574,7 +11577,10 @@
     },
     {
         "contract_address": "0xf3a672f68a6f750a17a199d32fe22f48088b8408",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "lrn.com"
+        ]
     },
     {
         "contract_address": "0x34a1a7c12fe9f24b2bf61fd1ef3e32e4542270d5",
