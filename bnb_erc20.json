@@ -12058,7 +12058,10 @@
     },
     {
         "contract_address": "0x630d98424efe0ea27fb1b3ab7741907dffeaad78",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "peakdefi.com"
+        ]
     },
     {
         "contract_address": "0x1c2619d4496a7eee4cd2a3b99b634c0691ca8a15",
@@ -12133,7 +12136,10 @@
     },
     {
         "contract_address": "0xd6fdde76b8c1c45b33790cc8751d5b88984c44ec",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "strikex.com"
+        ]
     },
     {
         "contract_address": "0x7efaef62fddcca950418312c6c91aef321375a00",
