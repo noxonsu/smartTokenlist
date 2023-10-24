@@ -961,13 +961,14 @@
             "apeswap.finance"
         ],
         "telegram_groups": [
-            "ape_bond",
             "ape_swap",
-            "ape_swap_news"
+            "ape_swap_news",
+            "ape_bond"
         ],
         "processedGpt": true,
         "tgGroupJoined": "success",
-        "tgProposalSent": "success"
+        "tgProposalSent": "success",
+        "p6": true
     },
     {
         "contract_address": "0x7abfefbce37a46e0f1a9e1483b1a865da560771a",
@@ -6818,13 +6819,14 @@
             "apeswap.finance"
         ],
         "telegram_groups": [
-            "ape_bond",
             "ape_swap",
-            "ape_swap_news"
+            "ape_swap_news",
+            "ape_bond"
         ],
         "processedGpt": true,
         "tgGroupJoined": "success",
-        "tgProposalSent": "error: No proposal text found for contract address: 0xbb091b2623a8364bdeaec34b3be2087306ade960"
+        "tgProposalSent": "error: No proposal text found for contract address: 0xbb091b2623a8364bdeaec34b3be2087306ade960",
+        "p6": true
     },
     {
         "contract_address": "0x80b9b3227fde37cb358220f0150c1ee7c7413986",
@@ -10807,35 +10809,53 @@
         "sourceScanned": "processed",
         "web_domains": [
             "trusttoken.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x07cbe1cac282169cf348fdc4a8b04eab8f12bf9a",
         "sourceScanned": "processed",
         "web_domains": [
             "meoeth.com"
-        ]
+        ],
+        "telegram_groups": [
+            "MEO_ETH"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x34294afabcbaffc616ac6614f6d2e17260b78bed",
         "sourceScanned": "processed",
         "web_domains": [
             "apeswap.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "ape_swap",
+            "ape_swap_news",
+            "ape_bond"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa5174f160c7c4e42866cc114a5581e9978e429b3",
         "sourceScanned": "processed",
         "web_domains": [
             "tvn.tving.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x404460c6a5ede2d891e8297795264fde62adbb75",
         "sourceScanned": "processed",
         "web_domains": [
             "chain.link"
-        ]
+        ],
+        "telegram_groups": [
+            "chainlinkofficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x40fed5691e547885cabd7a2990de719dcc8497fc",
@@ -10874,7 +10894,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "desky.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf534bd304e10821db19d7be4ed11083ca21a3b83",
@@ -16690,12 +16712,13 @@
             "apeswap.finance"
         ],
         "telegram_groups": [
-            "ape_bond",
             "ape_swap",
-            "ape_swap_news"
+            "ape_swap_news",
+            "ape_bond"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "error: Username not occupied"
+        "tgGroupJoined": "error: Username not occupied",
+        "p6": true
     },
     {
         "contract_address": "0x25699a5bdcb524e3030a89c2f5088a076dc562bc",
@@ -17133,12 +17156,13 @@
             "ape-swap.medium.com"
         ],
         "telegram_groups": [
-            "ape_bond",
             "ape_swap",
-            "ape_swap_news"
+            "ape_swap_news",
+            "ape_bond"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "error: Username not occupied"
+        "tgGroupJoined": "error: Username not occupied",
+        "p6": true
     },
     {
         "contract_address": "0x39a07429a6384366df05f46c7ebea45efcf06282",
@@ -17519,12 +17543,13 @@
             "apeswap.finance"
         ],
         "telegram_groups": [
-            "ape_bond",
+            "ape_swap",
             "ape_swap_news",
-            "ape_swap"
+            "ape_bond"
         ],
         "processedGpt": true,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "p6": true
     },
     {
         "contract_address": "0x752ef1f84e684f002bf7889364346eb70565dbf6",
