@@ -8196,7 +8196,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "circle.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0efc685e3b984c650d5631da092a7903853e9139",
@@ -8207,7 +8209,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "metastrike.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x5d2ac7b20e86c4eafada4a3c8ef51ecb87e1b3d6",
@@ -8226,7 +8230,12 @@
         "sourceScanned": "processed",
         "web_domains": [
             "decimalchain.com"
-        ]
+        ],
+        "telegram_groups": [
+            "decimalchain_en",
+            "decimal_en"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa86e876c9fd7a3dba82bccabb6826f4812f581b5",
@@ -8249,7 +8258,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "stobox.io"
-        ]
+        ],
+        "telegram_groups": [
+            "stobox_tokenization_channel"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xddd394707fc1af81d98f132825df713dd9bb494e",
@@ -8263,14 +8276,20 @@
         "sourceScanned": "processed",
         "web_domains": [
             "spores.app"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x84995228f2b82791635850a6ca29d824b0d8a690",
         "sourceScanned": "processed",
         "web_domains": [
             "unitedemiratedecentralizedcoin.com"
-        ]
+        ],
+        "telegram_groups": [
+            "unitedemiratedecentralizedcoin"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xfdbedb99ae106003fef6e41398514c6ff2c69f35",
