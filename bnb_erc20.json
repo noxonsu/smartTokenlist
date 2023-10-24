@@ -8347,7 +8347,9 @@
             "decimalchain_en",
             "decimal_en"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xa86e876c9fd7a3dba82bccabb6826f4812f581b5",
@@ -8372,9 +8374,11 @@
             "stobox.io"
         ],
         "telegram_groups": [
-            "stobox_tokenization_channel"
+            "stobox_tokenization_community"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xddd394707fc1af81d98f132825df713dd9bb494e",
@@ -8401,7 +8405,9 @@
         "telegram_groups": [
             "unitedemiratedecentralizedcoin"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xfdbedb99ae106003fef6e41398514c6ff2c69f35",
@@ -8441,7 +8447,9 @@
         "telegram_groups": [
             "MicroPets"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x4ff2dd7c6435789e0bb56b0553142ad00878a004",
@@ -8452,7 +8460,9 @@
         "telegram_groups": [
             "radiantcapitalofficial"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x5fe80d2cd054645b9419657d3d10d26391780a7b",
