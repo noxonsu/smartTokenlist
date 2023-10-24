@@ -9803,6 +9803,9 @@
         "sourceScanned": "processed",
         "telegram_groups": [
             "chirpley"
+        ],
+        "web_domains": [
+            "chirpley.ai"
         ]
     },
     {
@@ -9819,7 +9822,10 @@
     },
     {
         "contract_address": "0x14bdcd646a075fc51396ebd0f8df5a831047b805",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "0xlsd.com"
+        ]
     },
     {
         "contract_address": "0xe7e69f40684bdd98d692377ef169a4c4b8cfff54",
@@ -9839,7 +9845,10 @@
     },
     {
         "contract_address": "0x2abdb5903171071ac29cc0779d7efdf0faf14228",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "truthgptofficial.com"
+        ]
     },
     {
         "contract_address": "0xe177295fa0142331abdc8b106832789e0c0fe77b",
