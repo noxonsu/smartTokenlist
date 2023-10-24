@@ -3637,8 +3637,8 @@
             "chainport.io"
         ],
         "telegram_groups": [
-            "chainport",
-            "chainport_news"
+            "chainport_news",
+            "chainport"
         ],
         "p6": true,
         "myuser": 6003957640,
@@ -5501,8 +5501,8 @@
             "chainport.io"
         ],
         "telegram_groups": [
-            "chainport",
-            "chainport_news"
+            "chainport_news",
+            "chainport"
         ],
         "p6": true,
         "myuser": 6003957640,
@@ -10202,21 +10202,32 @@
         "sourceScanned": "processed",
         "web_domains": [
             "coloniume.org"
-        ]
+        ],
+        "telegram_groups": [
+            "coloniume"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb5afa5d401c5a6e4e50bdeb44e0a02cfd68d286b",
         "sourceScanned": "processed",
         "web_domains": [
             "winacoin.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0f5d8cd195a4539bcf2ec6118c6da50287c6d5f5",
         "sourceScanned": "processed",
         "web_domains": [
             "chainport.io"
-        ]
+        ],
+        "telegram_groups": [
+            "chainport_news",
+            "chainport"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x90e3414e00e231b962666bd94adb811d5bcd0c2a",
@@ -22484,7 +22495,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "presale.world"
-        ]
+        ],
+        "telegram_groups": [
+            "PresaleWorldCommunity"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa440d75f6e8603fe9c74e1ce6910b2cf6e417c76",
@@ -22506,7 +22521,8 @@
         ],
         "telegram_groups": [
             "fatsale"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1691be1755e209b295c360d275971af6f2a7b43c",
