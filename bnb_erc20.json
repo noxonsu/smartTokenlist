@@ -7794,11 +7794,17 @@
     },
     {
         "contract_address": "0xcd40f2670cf58720b694968698a5514e924f742d",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "oddz.fi"
+        ]
     },
     {
         "contract_address": "0x837656c3f5858692ccdce13ba66e09d2685073df",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "intoverse.co"
+        ]
     },
     {
         "contract_address": "0x7df819866d085f0ed147297e4b22871ddfb02d03",
@@ -7814,7 +7820,10 @@
     },
     {
         "contract_address": "0x0eb3a705fc54725037cc9e008bdede697f62f335",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cosmos.network"
+        ]
     },
     {
         "contract_address": "0xdb5ee2a3d48f17a81bdcf513d6988ed430bbe7ab",
@@ -7830,11 +7839,17 @@
     },
     {
         "contract_address": "0x5b8650cd999b23cf39ab12e3213fbc8709c7f5cb",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mazimatic.com"
+        ]
     },
     {
         "contract_address": "0x9096b4309224d751fcb43d7eb178dcffc122ad15",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "legionnetwork.io"
+        ]
     },
     {
         "contract_address": "0x768a62a22b187eb350637e720ebc552d905c0331",
@@ -7842,7 +7857,10 @@
     },
     {
         "contract_address": "0x1a7c0505994d54d7f87b7a6754c60dc6abad03f2",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "shopping.io"
+        ]
     },
     {
         "contract_address": "0x8755da967bb17cb3e136034e8f5f4955df4d506e",
