@@ -10906,7 +10906,9 @@
         "telegram_groups": [
             "reefchain"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xdb021b1b247fe2f1fa57e0a87c748cc1e321f07f",
@@ -10972,7 +10974,9 @@
         "telegram_groups": [
             "MEO_ETH"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x34294afabcbaffc616ac6614f6d2e17260b78bed",
@@ -10985,7 +10989,9 @@
             "ape_swap_news",
             "ape_bond"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: 'Username not found: ape_swap'"
     },
     {
         "contract_address": "0xa5174f160c7c4e42866cc114a5581e9978e429b3",
@@ -11005,7 +11011,9 @@
         "telegram_groups": [
             "chainlinkofficial"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x40fed5691e547885cabd7a2990de719dcc8497fc",
@@ -11061,7 +11069,9 @@
         "telegram_groups": [
             "ambify"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't find chat"
     },
     {
         "contract_address": "0x424efc14280b92e9ef2b2e28da337be124fce392",
