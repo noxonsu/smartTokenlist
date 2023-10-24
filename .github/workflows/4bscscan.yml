@@ -2,7 +2,7 @@ name: Search Bnb20 tokens and scan source for sites
 
 on:
   schedule:
-    - cron: '0 */2 * * *' # Run every who hours
+    - cron: '0 */2 * 1 1' # 
   workflow_dispatch:  # Allows manual run
 
 jobs:
