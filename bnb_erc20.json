@@ -5963,9 +5963,11 @@
             "snfts.seedify.fund"
         ],
         "telegram_groups": [
-            "seedifyfund"
+            "seedifyfundofficial"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x01b7b50221523342591933b1b424ee14f50f4994",
@@ -6029,7 +6031,9 @@
         "telegram_groups": [
             "elephant_money"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xfa966e8123f5d9fd8754cf5bd7da780ceaffcad6",
@@ -6044,7 +6048,9 @@
         "telegram_groups": [
             "wagyuswapofficial"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xbe2b6c5e31f292009f495ddbda88e28391c9815e",
@@ -6082,9 +6088,11 @@
             "ont.io"
         ],
         "telegram_groups": [
-            "OntologyAnnouncements"
+            "OntologyNetwork"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x25928e9f95bfc3a1e1c110d3c42c9fafc204d07d",
@@ -6116,7 +6124,9 @@
             "AlienWorldsOffical",
             "AlienWorlds_Announcements"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x2e7a478e16fae454a5d1fbcd0a86ed2c971f0900",
