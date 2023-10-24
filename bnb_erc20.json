@@ -9275,7 +9275,9 @@
         "telegram_groups": [
             "SummonersArena"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xdd5a149740c055bdcdc5c066888f739dbe0bf2d0",
@@ -9286,7 +9288,9 @@
         "telegram_groups": [
             "joinchat"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't find chat"
     },
     {
         "contract_address": "0xd5239b38b93b54a31b348afaac3edcdf9e3c546a",
@@ -9337,7 +9341,9 @@
         "telegram_groups": [
             "Superbitdao"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xfe2d3c882b4c0a76a2c34260fa4e079e3741919e",
@@ -9373,7 +9379,9 @@
             "sankivraja",
             "sankivrajaro"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xf766d7b73b221445b60e5187edbdb86ff1a4191e",
@@ -9406,7 +9414,9 @@
         "telegram_groups": [
             "buffdogecoinofficial"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xdb79c12d1d0670988a39b0e48b96e955ef922d24",
