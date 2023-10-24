@@ -10690,14 +10690,20 @@
         "sourceScanned": "processed",
         "web_domains": [
             "huskyaitoken.com"
-        ]
+        ],
+        "telegram_groups": [
+            "huskyaigroup"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4ffa143ce16a24215e8df96c0cef5677a7b91ee4",
         "sourceScanned": "processed",
         "web_domains": [
             "regentcoin.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x95c78222b3d6e262426483d42cfa53685a67ab9d",
@@ -10726,7 +10732,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "getmoneytoken.xyz"
-        ]
+        ],
+        "telegram_groups": [
+            "gmtkn"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8a11314e55f4d01f734ac3e294d7a2281bb2c778",
@@ -10740,7 +10750,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "reef.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "reefchain"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdb021b1b247fe2f1fa57e0a87c748cc1e321f07f",
@@ -10767,7 +10781,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.vowr.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa58c1026558db749fb83681275e31dc4d39828be",
@@ -10782,7 +10798,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "cox.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x14016e85a25aeb13065688cafb43044c2ef86784",
