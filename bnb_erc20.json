@@ -13096,14 +13096,22 @@
         "sourceScanned": "processed",
         "web_domains": [
             "paybolt.com"
-        ]
+        ],
+        "telegram_groups": [
+            "PayBolt"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xeae00113af330e6f67342b8298efc40232cd9f09",
         "sourceScanned": "processed",
         "web_domains": [
             "wistaverse.com"
-        ]
+        ],
+        "telegram_groups": [
+            "WistaverseTG"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8e9a20e5675dbf9e4400272ad19f48a95211b60d",
@@ -13138,7 +13146,11 @@
         ],
         "web_domains": [
             "affinitybsc.com"
-        ]
+        ],
+        "telegram_groups": [
+            "affinitydefi"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x703c51ee931888b3861de76779cdc5725956553e",
@@ -13152,7 +13164,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "thoreum.ai"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x385eda6ed73f188bcf447e27c1d2fbf171ff698a",
@@ -13167,7 +13181,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "cake.monster"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2be28e150604aabc36c3ca35b25309e08d8da240",
