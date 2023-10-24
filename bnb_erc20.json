@@ -12875,7 +12875,12 @@
         "sourceScanned": "processed",
         "web_domains": [
             "thorchain.org"
-        ]
+        ],
+        "telegram_groups": [
+            "thor_infobot",
+            "thorchain_org"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4ca1a6e896899d6a5ad6ed321583d6711694e312",
@@ -12894,14 +12899,20 @@
         "sourceScanned": "processed",
         "web_domains": [
             "sinverse.com"
-        ]
+        ],
+        "telegram_groups": [
+            "thesinverse"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa852135979dc9f19f7f68ec467f3dd02559cff85",
         "sourceScanned": "processed",
         "web_domains": [
             "meelier.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3f2836953f749a80e9bbdd28ae4b7146633f8ec2",
@@ -12928,14 +12939,21 @@
         "sourceScanned": "processed",
         "web_domains": [
             "w3coin.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4444a19c8bb86e9bdbc023709a363bbce91af33e",
         "sourceScanned": "processed",
         "web_domains": [
             "cryptotanks.com"
-        ]
+        ],
+        "telegram_groups": [
+            "cryptotanksio",
+            "cryptotankscom"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xebd49b26169e1b52c04cfd19fcf289405df55f80",
@@ -12950,7 +12968,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "btcweb3.org"
-        ]
+        ],
+        "telegram_groups": [
+            "btcweb3"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x42981d0bfbaf196529376ee702f2a9eb9092fcb5",
