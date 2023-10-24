@@ -8566,14 +8566,18 @@
         "sourceScanned": "processed",
         "web_domains": [
             "mooknightswap.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf3f233afb8fc60eadb7b436835b523d1eb8c3248",
         "sourceScanned": "processed",
         "web_domains": [
             "minepi.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x59d20505f07532a9c6465f64ee3cea897ead07f3",
@@ -8612,14 +8616,18 @@
         "sourceScanned": "processed",
         "web_domains": [
             "etasigmagamma.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63",
         "sourceScanned": "processed",
         "web_domains": [
             "venus.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x5ed08118f52cdfd692f60cdeed05f8d6a5ff2651",
@@ -8634,14 +8642,20 @@
         "sourceScanned": "processed",
         "web_domains": [
             "enjinstarter.com"
-        ]
+        ],
+        "telegram_groups": [
+            "ENJINSTARTER"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2b0a7401c4c23de3f5d7a4432a5d373490051cf8",
         "sourceScanned": "processed",
         "web_domains": [
             "stably.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe8c04076b96a2d67d29f607d85405f0d65ca79c9",
