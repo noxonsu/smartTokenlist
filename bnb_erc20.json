@@ -7534,7 +7534,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "deri.io"
-        ]
+        ],
+        "telegram_groups": [
+            "DeriProtocol"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb27f95f03e1a882dc4436e88893190249502d040",
@@ -7556,7 +7560,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "telecomcompanyalliance.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x03c48ae3d245a95aa25b1ab2082e002eb17d9e8d",
@@ -7575,7 +7581,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "genesisaicorp.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7aca04946c155ee94ec9a07759befddbab02632c",
@@ -7602,14 +7610,21 @@
         "sourceScanned": "processed",
         "web_domains": [
             "lykacoin.net"
-        ]
+        ],
+        "telegram_groups": [
+            "lykacoin_chat",
+            "lykacoin_news"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2dff88a56767223a5529ea5960da7a3f5f766406",
         "sourceScanned": "processed",
         "web_domains": [
             "space.id"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x009cf7bc57584b7998236eff51b98a168dcea9b0",
@@ -7629,7 +7644,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "elrond.com"
-        ]
+        ],
+        "telegram_groups": [
+            "MultiversX"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5d2889645b1524e6d75835864ab765e85ad0fb7b",
