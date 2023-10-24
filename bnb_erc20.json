@@ -9013,7 +9013,9 @@
         "telegram_groups": [
             "w3b_world"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x7062f2e2b917ed14b2b0833e9e0278cb4bc62c69",
@@ -9044,7 +9046,9 @@
         "telegram_groups": [
             "symbiosis_finance"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xbb46693ebbea1ac2070e59b4d043b47e2e095f86",
@@ -9056,7 +9060,9 @@
             "GGGDOG_ZH",
             "GGGDOG_EN"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xde3dbbe30cfa9f437b293294d1fd64b26045c71a",
@@ -9077,7 +9083,9 @@
             "Ellipsis_CN",
             "ellipsisfinance"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "needhuman"
     },
     {
         "contract_address": "0xe7cb24f449973d5b3520e5b93d88b405903c75fb",
@@ -9096,7 +9104,9 @@
         "telegram_groups": [
             "ecov2tokens"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x4c2f1091bed7aecf208189538a64c6f75e5fd67f",
