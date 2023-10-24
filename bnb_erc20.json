@@ -10636,7 +10636,10 @@
     },
     {
         "contract_address": "0xe28ef371f5927c3e9b83564c76c1df7d1a2e9c91",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.vowr.org"
+        ]
     },
     {
         "contract_address": "0xa58c1026558db749fb83681275e31dc4d39828be",
@@ -10648,27 +10651,45 @@
     },
     {
         "contract_address": "0x2266cfa689da2186f307f2dd8beafa12a4ad9709",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cox.com"
+        ]
     },
     {
         "contract_address": "0x14016e85a25aeb13065688cafb43044c2ef86784",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "trusttoken.com"
+        ]
     },
     {
         "contract_address": "0x07cbe1cac282169cf348fdc4a8b04eab8f12bf9a",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "meoeth.com"
+        ]
     },
     {
         "contract_address": "0x34294afabcbaffc616ac6614f6d2e17260b78bed",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "apeswap.finance"
+        ]
     },
     {
         "contract_address": "0xa5174f160c7c4e42866cc114a5581e9978e429b3",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tvn.tving.com"
+        ]
     },
     {
         "contract_address": "0x404460c6a5ede2d891e8297795264fde62adbb75",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "chain.link"
+        ]
     },
     {
         "contract_address": "0x40fed5691e547885cabd7a2990de719dcc8497fc",
@@ -10704,7 +10725,10 @@
     },
     {
         "contract_address": "0x5a57aaed4f52f440d69ed24185a05f8fe49f159a",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "desky.com"
+        ]
     },
     {
         "contract_address": "0xf534bd304e10821db19d7be4ed11083ca21a3b83",
@@ -10712,7 +10736,10 @@
     },
     {
         "contract_address": "0x8e0ae37f5b5ce8815746565aeb22fb24ad1faf6a",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ambify.com"
+        ]
     },
     {
         "contract_address": "0x424efc14280b92e9ef2b2e28da337be124fce392",
@@ -10724,7 +10751,10 @@
     },
     {
         "contract_address": "0x64c1a520568e5108456d3ee7e2cf16576180b224",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "xmoney.com"
+        ]
     },
     {
         "contract_address": "0x8f94ab523030c58c480a0d1e9bbf4acad3ec5fa6",
@@ -10732,7 +10762,10 @@
     },
     {
         "contract_address": "0x3606f220daeaeb3d47ac1923a8ce2a61205c88cd",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "racekingdom.io"
+        ]
     },
     {
         "contract_address": "0xbeafb3262fac740fdb5ae40393d88884ad6d8bdd",
