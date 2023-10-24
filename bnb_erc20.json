@@ -4693,8 +4693,8 @@
         "contract_address": "0xf9977a9a2ad4459425dca80500bfb72b20815966",
         "sourceScanned": "processed",
         "telegram_groups": [
-            "GGGDOG_EN",
-            "GGGDOG_ZH"
+            "GGGDOG_ZH",
+            "GGGDOG_EN"
         ],
         "web_domains": [
             "betfury.io"
@@ -8773,7 +8773,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "animalconcerts.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf9c5adf2897cae522fa5377a2c296ebe6a691ef9",
@@ -8792,7 +8794,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "dkcnews.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc5db5afee4c55dfad5f2b8226c6ac882e6956a0a",
@@ -8807,7 +8811,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "svb.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2e23950c00bdd2505ee64494bc554e59050c70ce",
@@ -8835,7 +8841,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "w3bworld.org"
-        ]
+        ],
+        "telegram_groups": [
+            "w3b_world"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7062f2e2b917ed14b2b0833e9e0278cb4bc62c69",
@@ -8862,14 +8872,23 @@
         "sourceScanned": "processed",
         "web_domains": [
             "symbiosis.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "symbiosis_finance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbb46693ebbea1ac2070e59b4d043b47e2e095f86",
         "sourceScanned": "processed",
         "web_domains": [
             "betfury.io"
-        ]
+        ],
+        "telegram_groups": [
+            "GGGDOG_ZH",
+            "GGGDOG_EN"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xde3dbbe30cfa9f437b293294d1fd64b26045c71a",
