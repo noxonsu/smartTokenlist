@@ -7393,14 +7393,23 @@
         "sourceScanned": "processed",
         "web_domains": [
             "idena.io"
-        ]
+        ],
+        "telegram_groups": [
+            "IdenaNetworkPublic",
+            "IdenaAnnouncements"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x111111111117dc0aa78b770fa6a738034120c302",
         "sourceScanned": "processed",
         "web_domains": [
             "1inch.io"
-        ]
+        ],
+        "telegram_groups": [
+            "OneInchNetwork"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x583e9b5ebb7b67157f7817ce3d57a2604fc83881",
@@ -7419,7 +7428,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "decubate.com"
-        ]
+        ],
+        "telegram_groups": [
+            "decubate"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7881cd2b5724431372f57c50e91611352557a606",
@@ -7430,7 +7443,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "revenuecoin.io"
-        ]
+        ],
+        "telegram_groups": [
+            "revenuecoinENG"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xeaf64d63db9332c33971ec48e123139cd7cde63d",
@@ -7445,7 +7462,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "wepiggy.community"
-        ]
+        ],
+        "telegram_groups": [
+            "wepiggy"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb5607c01915c22a841ef72e658cb31cd925968d9",
@@ -7479,7 +7500,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "valobit.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8b3f149395b1331ecb1cfb3e2e6a9b0170310384",
