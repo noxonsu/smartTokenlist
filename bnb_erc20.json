@@ -12571,7 +12571,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "safereum.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x673687b6ccc5779517521d77fa64dd9cad5ef665",
@@ -12582,7 +12584,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "quantumsmartchain.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa07c5b74c9b40447a954e1466938b865b6bbea36",
@@ -12614,7 +12618,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "csrdao.xyz"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6c93500e8bef8c806cf5228a352f8c0af439370f",
@@ -12624,7 +12630,9 @@
         ],
         "web_domains": [
             "beastkingdom.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf62d34dfb0381bc62ef00a862e5ea0d07f18c6b6",
@@ -12635,14 +12643,21 @@
         "sourceScanned": "processed",
         "web_domains": [
             "thedividendtracker.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3496212ec43cc49f5151ec4405efd4975e036f89",
         "sourceScanned": "processed",
         "web_domains": [
             "livegreencoin.com"
-        ]
+        ],
+        "telegram_groups": [
+            "livegreencoin_english",
+            "livegreencoin_officialchannel"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2288ae34a0ea59219e53755eb24a27a313689d9a",
@@ -12716,7 +12731,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "thedividendtracker.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xcc0223c5aa3c9e6f6326861f5b23460b569dff06",
