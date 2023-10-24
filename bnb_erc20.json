@@ -9566,7 +9566,10 @@
     },
     {
         "contract_address": "0xf852869c8b147fb433f5fd5ab9a78b957dc5ff2b",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "neutron.org"
+        ]
     },
     {
         "contract_address": "0xccd09b80453335aa914f5d9174984b6586c315ec",
@@ -9574,11 +9577,17 @@
     },
     {
         "contract_address": "0x0012365f0a1e5f30a5046c680dcb21d07b15fcf7",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "gymnetwork.io"
+        ]
     },
     {
         "contract_address": "0xc3028fbc1742a16a5d69de1b334cbce28f5d7eb3",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "starsharks.com"
+        ]
     },
     {
         "contract_address": "0xd5cd58b8d729ad6db7713ae7000ca630b49c808e",
@@ -9594,7 +9603,10 @@
     },
     {
         "contract_address": "0xbd2949f67dcdc549c6ebe98696449fa79d988a9f",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "meter.io"
+        ]
     },
     {
         "contract_address": "0x3bb8b75ae92b16a6428962dd891a07974422a2a3",
