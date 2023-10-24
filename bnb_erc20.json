@@ -8638,7 +8638,10 @@
     },
     {
         "contract_address": "0x2b0a7401c4c23de3f5d7a4432a5d373490051cf8",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "stably.io"
+        ]
     },
     {
         "contract_address": "0xe8c04076b96a2d67d29f607d85405f0d65ca79c9",
@@ -8646,19 +8649,31 @@
     },
     {
         "contract_address": "0xb4fcdcb8a0b29247466720ff81587d1a6f4fc4d7",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "truefi.io"
+        ]
     },
     {
         "contract_address": "0x2ac2367aaa2b7dbe96110ecaed8c5326c7a00b61",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "polygon.technology"
+        ]
     },
     {
         "contract_address": "0x56b6fb708fc5732dec1afc8d8556423a2edccbd6",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "eos.io"
+        ]
     },
     {
         "contract_address": "0xd9eade302456aff8bf8d87ff0ef77dab1fb9230f",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "kingoflegends.net"
+        ]
     },
     {
         "contract_address": "0xbc66460b9300bee6ba61db1cf0b07f8f0ee0a0d8",
@@ -8690,11 +8705,17 @@
     },
     {
         "contract_address": "0xe1d0065c4cd16c14c539547bac404ca6f586b8ce",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pacodellama.org"
+        ]
     },
     {
         "contract_address": "0x777f67110cce20c9bbcfe2447e9396425a6ddc67",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tether.to"
+        ]
     },
     {
         "contract_address": "0x19e016190a07ad2ecdfb9041912fe5bc13de35e6",
@@ -8710,7 +8731,10 @@
     },
     {
         "contract_address": "0x06fda0758c17416726f77cb11305eac94c074ec0",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "animalconcerts.com"
+        ]
     },
     {
         "contract_address": "0xf9c5adf2897cae522fa5377a2c296ebe6a691ef9",
