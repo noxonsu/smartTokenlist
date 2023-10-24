@@ -8472,7 +8472,10 @@
     },
     {
         "contract_address": "0xf85be0902a16fb87d447021d6e4517b38a15087d",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.palmpay.com"
+        ]
     },
     {
         "contract_address": "0xf779568a4fa737f3b7421eae963316aa975086fa",
@@ -8492,11 +8495,17 @@
     },
     {
         "contract_address": "0x4f4e9e30664d138df7ba17f4c5f36ed181797f4a",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mooknightswap.com"
+        ]
     },
     {
         "contract_address": "0xf3f233afb8fc60eadb7b436835b523d1eb8c3248",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "minepi.com"
+        ]
     },
     {
         "contract_address": "0x59d20505f07532a9c6465f64ee3cea897ead07f3",
@@ -8532,11 +8541,17 @@
     },
     {
         "contract_address": "0x592ec0e347ee8d8fa06065561b5c78ac009aa268",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "etasigmagamma.org"
+        ]
     },
     {
         "contract_address": "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "venus.io"
+        ]
     },
     {
         "contract_address": "0x5ed08118f52cdfd692f60cdeed05f8d6a5ff2651",
@@ -8548,7 +8563,10 @@
     },
     {
         "contract_address": "0x09f423ac3c9babbff6f94d372b16e4206e71439f",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "enjinstarter.com"
+        ]
     },
     {
         "contract_address": "0x2b0a7401c4c23de3f5d7a4432a5d373490051cf8",
