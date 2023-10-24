@@ -11420,7 +11420,10 @@
     },
     {
         "contract_address": "0xc98398bc999e75a6564b8bced2897bc742c868d2",
-        "sourceScanned": "failed"
+        "sourceScanned": "failed",
+        "web_domains": [
+            "satoshiprotocol.com"
+        ]
     },
     {
         "contract_address": "0x36e714d63b676236b72a0a4405f726337b06b6e5",
@@ -11456,7 +11459,10 @@
     },
     {
         "contract_address": "0xa9500f552ba0c249817c813999d856cbc932e847",
-        "sourceScanned": "failed"
+        "sourceScanned": "failed",
+        "web_domains": [
+            "www.dexview.com"
+        ]
     },
     {
         "contract_address": "0x3cced43a0658967972769ccdafa3391f4cf81ae9",
@@ -11487,7 +11493,10 @@
     },
     {
         "contract_address": "0x734548a9e43d2d564600b1b2ed5be9c2b911c6ab",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "metaapesgame.com"
+        ]
     },
     {
         "contract_address": "0x0ce574848f5e7c87a066ac2a52fd56dacbc335f9",
@@ -11499,11 +11508,17 @@
     },
     {
         "contract_address": "0x9edeb828d721d231ee5260cef85d7583566c14fb",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "swit.cc"
+        ]
     },
     {
         "contract_address": "0x06ce168ff4ca760768f42c440d4266ba705e2f21",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mashida.io"
+        ]
     },
     {
         "contract_address": "0x6a55e98e6039760231e139d79a3ef6b568a85ed2",
