@@ -9427,7 +9427,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "btdao.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7bc4da573dd3470f858b03263b36848dfda313d9",
@@ -9441,7 +9443,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "bitnext.network"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x59a430ff07354e8cda5f4569ef8277bf1760cf36",
@@ -9464,7 +9468,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "adshares.net"
-        ]
+        ],
+        "telegram_groups": [
+            "adshares"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5f12748bd3be8f3188f4e731f18d5e7e6c1becb0",
@@ -9475,14 +9483,20 @@
         "sourceScanned": "processed",
         "web_domains": [
             "nerotoken.net"
-        ]
+        ],
+        "telegram_groups": [
+            "neroglobal"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8dee0b33f42d06cefb97b3b421736ebaffa496f5",
         "sourceScanned": "processed",
         "web_domains": [
             "kols.city"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc2273b0b9ba4398240daa7a4e53d3a13937dd8fb",
@@ -9516,7 +9530,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "zocivoci.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7b610012bdc4d6deba2c2d91684e408f40863429",
