@@ -8117,7 +8117,9 @@
         "telegram_groups": [
             "TriviansGL"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x5b65cd9feb54f1df3d0c60576003344079f8dc06",
@@ -8128,7 +8130,9 @@
         "telegram_groups": [
             "UniwhaleEx"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x124acc690889197587a54139576da6dffb783627",
@@ -8153,7 +8157,9 @@
             "qube_community2",
             "qubecryptospace"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x2fe8d24bbc8749c4ebe2854253d45c11797fb639",
@@ -8185,7 +8191,9 @@
             "ORBERIUM",
             "OrberiumToken"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by \"channels.JoinChannel\")"
     },
     {
         "contract_address": "0xe43c4f3e7f6ec93e066b532badf9a6aab4844dae",
@@ -8234,7 +8242,9 @@
             "EagleNetworkApp",
             "EagleNetWorkApp"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x07728696ee70a28c9c032926577af1d524df30f9",
