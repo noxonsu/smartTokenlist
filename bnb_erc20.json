@@ -11230,7 +11230,9 @@
             "joinchat",
             "PEACEINU_BSC"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't find chat"
     },
     {
         "contract_address": "0x81dc626b5d055b4aead5dc011fdbc6e5aebe18f0",
@@ -11277,7 +11279,9 @@
             "landshare",
             "landshareannouncement"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x1b2aa7debd40be97506b4fdf3ffe877ba487f65c",
@@ -11292,7 +11296,9 @@
         "telegram_groups": [
             "sonm_eng"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x4c7ebea72179e442c7d4133570666de9efe3cac7",
@@ -11320,7 +11326,9 @@
         "web_domains": [
             "www.pepepeaceerc.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x3fdcfc2882cd125bf77befd158d8e3003a806f60",
@@ -11345,7 +11353,9 @@
         "web_domains": [
             "ethereum.org"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xf9f5dcbd22e10b80294d249b523e645784ba5186",
