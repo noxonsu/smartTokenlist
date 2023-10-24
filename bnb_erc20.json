@@ -7294,11 +7294,29 @@
         "contract_address": "0x398c60ca4d4c40b79ea2ff95b9879f2bd40de157",
         "sourceScanned": "processed",
         "telegram_groups": [
-            "BitcoinCoreGroup"
+            "BitcoinBR_News",
+            "BitcoinBR_Info",
+            "BitcoinBRchat",
+            "BitcoinCoreToken",
+            "BitcoinWorldCommunity",
+            "BitcoinCoreGroup",
+            "BitcoinNetworkGlobal",
+            "CryptoWorldCommunity",
+            "BitcoinAltcoinsGroup",
+            "GueddyFinance",
+            "SchirleyFinance",
+            "ZFIUniverseFinance",
+            "EthereumPoSGroup",
+            "BitcoinFinanceGlobal",
+            "BitcoinTradeToken",
+            "EtheriaToken",
+            "EthereumPowETHW",
+            "BitcoinCapitalGlobal"
         ],
         "web_domains": [
             "btcbr.info"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7ad7242a99f21aa543f9650a56d141c57e4f6081",
@@ -7313,14 +7331,20 @@
         "sourceScanned": "processed",
         "web_domains": [
             "farm.radiocaca.com"
-        ]
+        ],
+        "telegram_groups": [
+            "RadioCaca"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xab311ab65acbbf6042dfa1b958c83c29632b3d51",
         "sourceScanned": "processed",
         "web_domains": [
             "roboai.app"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xef86a451af7158245bd4fa6b1f8c8aa297e42b7d",
@@ -7331,7 +7355,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "gptguru.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x850262925905051573413039e6049a5e56fe6d51",
@@ -7345,7 +7371,9 @@
         ],
         "web_domains": [
             "nine-chronicles.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x90d46b0b4af514f9955bf5aef4ed494bdd94a194",
@@ -7356,7 +7384,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "rovi.network"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0de08c1abe5fb86dd7fd2ac90400ace305138d5b",
