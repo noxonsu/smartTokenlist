@@ -7060,7 +7060,9 @@
         "telegram_groups": [
             "Aitcoinofficial"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xd09a803482fbd96213f6b1d50a26be6c46972003",
@@ -7093,7 +7095,9 @@
             "kryptomonofficial",
             "joinchat"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xa56876b3cbdf27a3a7264bdb2381e756f5d52b1e",
@@ -7124,7 +7128,9 @@
         "telegram_groups": [
             "SingDAO"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x59a80dbcea7c3537d91fdc780a4b58b888888888",
@@ -7148,7 +7154,9 @@
         "telegram_groups": [
             "SupraOracles"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "needhuman"
     },
     {
         "contract_address": "0x5bd97d0c8e668298f2a6baa069f47f556a447a78",
@@ -7206,7 +7214,9 @@
         "telegram_groups": [
             "defiblockchainen"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x9c65ab58d8d978db963e63f2bfb7121627e3a739",
