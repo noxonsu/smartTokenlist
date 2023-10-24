@@ -42,6 +42,7 @@ def save_sent_chat(chat_link):
         f.write(f"{chat_link}\n")
 
 @catch_flood_wait
+@catch_flood_wait
 def send_proposal(app, chat_id, contract_address):
     sent_chats = load_sent_chats()
     if chat_id in sent_chats:
@@ -51,12 +52,21 @@ def send_proposal(app, chat_id, contract_address):
     if proposal_text:
         # Send to debug chat if DEBUG_MODE is True
         target_chat_id = DEBUG_CHAT_ID if DEBUG_MODE else chat_id
-        message = app.send_message(chat_id=target_chat_id, text=proposal_text)  # Capture the result
-        message_link = f"{message.id}"  # Construct the message link
-        # Save chat_id if debug mode = false
-        if not DEBUG_MODE:
-            save_sent_chat(target_chat_id)  
-        return message_link
+        try:
+            message = app.send_message(chat_id=target_chat_id, text=proposal_text)  # Capture the result
+            message_link = f"{message.id}"  # Construct the message link
+            # Save chat_id if debug mode = false
+            if not DEBUG_MODE:
+                save_sent_chat(target_chat_id)  
+            return message_link
+        except errors.RPCError as e:
+            # Check for the specific error and handle it
+            if "@SpamBot" in str(e):
+                print(app.send_message("SpamBot", text="/start"))
+                sleep(3)
+                print (app.send_message("SpamBot", text="/start"))
+                print(f"Sent a message to @SpamBot due to restriction for chat {chat_id}")
+            raise Exception(f"Telegram says: {e}") 
     else:
         raise Exception(f"No proposal text found for contract address: {contract_address}")
 
