@@ -10505,15 +10505,24 @@
     },
     {
         "contract_address": "0xf3147987a00d35eecc10c731269003ca093740ca",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mymasterwar.com"
+        ]
     },
     {
         "contract_address": "0x5f0da599bb2cccfcf6fdfd7d81743b6020864350",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "makerdao.com"
+        ]
     },
     {
         "contract_address": "0x43c934a845205f0b514417d757d7235b8f53f1b9",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "stellar.org"
+        ]
     },
     {
         "contract_address": "0x7b2080c3f0bb9f4be77a016145a6921bd763d059",
@@ -10521,7 +10530,10 @@
     },
     {
         "contract_address": "0x46b6ef14b329fd46ff7c2fdb59bcde636ab9a900",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "gamestop.com"
+        ]
     },
     {
         "contract_address": "0x3dbf8babf260be2a6221dc6fb1c4074a44b58562",
@@ -10529,15 +10541,24 @@
     },
     {
         "contract_address": "0x724f8ebae58f19bc472ae57b4b24748a9f3e55c5",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "huskyaitoken.com"
+        ]
     },
     {
         "contract_address": "0x4ffa143ce16a24215e8df96c0cef5677a7b91ee4",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "regentcoin.finance"
+        ]
     },
     {
         "contract_address": "0x95c78222b3d6e262426483d42cfa53685a67ab9d",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "venus.io"
+        ]
     },
     {
         "contract_address": "0xf3ba0a972224d0339b5258ca1f65b682a0d7315a",
@@ -10554,7 +10575,10 @@
     },
     {
         "contract_address": "0x3e0ad9060782351da599a352d482afd306d966f7",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "getmoneytoken.xyz"
+        ]
     },
     {
         "contract_address": "0x8a11314e55f4d01f734ac3e294d7a2281bb2c778",
@@ -10565,7 +10589,10 @@
     },
     {
         "contract_address": "0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "reef.finance"
+        ]
     },
     {
         "contract_address": "0xdb021b1b247fe2f1fa57e0a87c748cc1e321f07f",
