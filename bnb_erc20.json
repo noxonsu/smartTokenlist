@@ -9756,7 +9756,10 @@
     },
     {
         "contract_address": "0xfba4dc2b4812b0a4c1d04c325922c7b45d26027d",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "atmpower.com.au"
+        ]
     },
     {
         "contract_address": "0xeec7a63e0df257a2f9f7990e9276a120dada6f02",
@@ -9768,15 +9771,24 @@
     },
     {
         "contract_address": "0x5a3010d4d8d3b5fb49f8b6e57fb9e48063f16700",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bscpad.com"
+        ]
     },
     {
         "contract_address": "0x2fa5daf6fe0708fbd63b1a7d1592577284f52256",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "unmarshal.io"
+        ]
     },
     {
         "contract_address": "0xddd42201e485aba87099089b00978b87e7fbe796",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "xmeme.finance"
+        ]
     },
     {
         "contract_address": "0x2fff67cae48ed56115abab6ab4336fa1807bf74d",
