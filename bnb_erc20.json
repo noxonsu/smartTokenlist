@@ -9759,7 +9759,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "atmpower.com.au"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xeec7a63e0df257a2f9f7990e9276a120dada6f02",
@@ -9774,21 +9776,31 @@
         "sourceScanned": "processed",
         "web_domains": [
             "bscpad.com"
-        ]
+        ],
+        "telegram_groups": [
+            "bscpad"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2fa5daf6fe0708fbd63b1a7d1592577284f52256",
         "sourceScanned": "processed",
         "web_domains": [
             "unmarshal.io"
-        ]
+        ],
+        "telegram_groups": [
+            "Unmarshal_Chat"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xddd42201e485aba87099089b00978b87e7fbe796",
         "sourceScanned": "processed",
         "web_domains": [
             "xmeme.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2fff67cae48ed56115abab6ab4336fa1807bf74d",
@@ -9806,7 +9818,8 @@
         ],
         "web_domains": [
             "chirpley.ai"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd609f26b5547d5e31562b29150769cb7c774b97a",
@@ -9825,7 +9838,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "0xlsd.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe7e69f40684bdd98d692377ef169a4c4b8cfff54",
