@@ -10257,23 +10257,38 @@
     },
     {
         "contract_address": "0x1ae369a6ab222aff166325b7b87eb9af06c86e57",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.tenset.io"
+        ]
     },
     {
         "contract_address": "0xb2f9f2c0e6eba6a8e9d2b0f134430b3ea5ce5cc9",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tether.to"
+        ]
     },
     {
         "contract_address": "0x31f8934dee2b3bcfc592e9ea227584e7db12bb4f",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "lodcwheels.com"
+        ]
     },
     {
         "contract_address": "0xe6ce27025f13f5213bbc560dc275e292965a392f",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "loomx.io"
+        ]
     },
     {
         "contract_address": "0x69335f6836e88f8783fa4b2c77b201fb094b5979",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "btcl.gov.bd"
+        ]
     },
     {
         "contract_address": "0xc13c85b5cd99ac224e9c192d9d06a38bfd31b464",
@@ -10285,7 +10300,10 @@
     },
     {
         "contract_address": "0x4bd17003473389a42daf6a0a729f6fdb328bbbd7",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "venus.io"
+        ]
     },
     {
         "contract_address": "0x86a53fcd199212fea44fa7e16eb1f28812be911d",
@@ -10297,7 +10315,10 @@
     },
     {
         "contract_address": "0x70b6c6a555507ee4ac91c15e5c80b7dc8ff3b489",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "xtblock.io"
+        ]
     },
     {
         "contract_address": "0xfb52370e0fcac5bfca44b4e6c09a97be1875605f",
@@ -10305,15 +10326,24 @@
     },
     {
         "contract_address": "0x4d8edca96e6eac9b987c88a179cc580bf75e8462",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "metabit.id"
+        ]
     },
     {
         "contract_address": "0xee89bd9af5e72b19b48cac3e51acde3a09a3ade3",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "trustkeys.network"
+        ]
     },
     {
         "contract_address": "0x9c2b1b3780a8b36b695f0b2781668664ac1bf25a",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "spookyshiba.com"
+        ]
     },
     {
         "contract_address": "0x713565884a1866bbfe86345f7d36e003b3248888",
