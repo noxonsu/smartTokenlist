@@ -6651,7 +6651,9 @@
         "telegram_groups": [
             "staderlabs"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x1429a28ac31f34c5eb304a508e8262d7bdb70dee",
@@ -6681,7 +6683,9 @@
         "telegram_groups": [
             "gfalofficial"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x98999aa1b0d17fb832fd509e13b67fe506513a6d",
@@ -6696,7 +6700,9 @@
         "telegram_groups": [
             "CurioInvestCommunity"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x89bd89f7e9284096d176bb2e61dc6c9e0960d2bb",
@@ -6812,7 +6818,9 @@
         "telegram_groups": [
             "babydogearmy"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x68f76da706ad3c1d2d903084a8eee5045e11c171",
@@ -6835,7 +6843,9 @@
         "telegram_groups": [
             "mkingtechnology"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x7d832502590d326aa45dc4926eba6ae9371d854a",
