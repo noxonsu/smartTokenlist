@@ -8750,7 +8750,10 @@
     },
     {
         "contract_address": "0x49de428ecec963229a11881f4d698995b9cf9e8b",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dkcnews.com"
+        ]
     },
     {
         "contract_address": "0xc5db5afee4c55dfad5f2b8226c6ac882e6956a0a",
@@ -8762,7 +8765,10 @@
     },
     {
         "contract_address": "0xf92ac863819251b0663397e3bcc6563603714535",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "svb.com"
+        ]
     },
     {
         "contract_address": "0x2e23950c00bdd2505ee64494bc554e59050c70ce",
@@ -8787,7 +8793,10 @@
     },
     {
         "contract_address": "0x6edad34a4b18a5c2c2abb9e00dfef4c6d3205a20",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "w3bworld.org"
+        ]
     },
     {
         "contract_address": "0x7062f2e2b917ed14b2b0833e9e0278cb4bc62c69",
@@ -8811,19 +8820,31 @@
     },
     {
         "contract_address": "0xf98b660adf2ed7d9d9d9daacc2fb0cace4f21835",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "symbiosis.finance"
+        ]
     },
     {
         "contract_address": "0xbb46693ebbea1ac2070e59b4d043b47e2e095f86",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "betfury.io"
+        ]
     },
     {
         "contract_address": "0xde3dbbe30cfa9f437b293294d1fd64b26045c71a",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nftb.io"
+        ]
     },
     {
         "contract_address": "0xaf41054c1487b0e5e2b9250c0332ecbce6ce9d71",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ellipsis.finance"
+        ]
     },
     {
         "contract_address": "0xe7cb24f449973d5b3520e5b93d88b405903c75fb",
@@ -8835,7 +8856,10 @@
     },
     {
         "contract_address": "0x63a6a5a16b81dbf30045eb3b46d977cac24ad5d0",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "eternalcash.online"
+        ]
     },
     {
         "contract_address": "0x4c2f1091bed7aecf208189538a64c6f75e5fd67f",
@@ -8847,7 +8871,10 @@
     },
     {
         "contract_address": "0x62823659d09f9f9d2222058878f89437425eb261",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ertha.io"
+        ]
     },
     {
         "contract_address": "0xfcbf8568ae98ec91cc360e1e216008c91a045b91",
