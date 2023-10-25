@@ -13857,7 +13857,10 @@
     },
     {
         "contract_address": "0xc9e3f85e5e7c91bb06b0b33e3fe9da85aa025924",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tether.to"
+        ]
     },
     {
         "contract_address": "0x437f3df56ecee512e407b6ec368523c911d4a283",
@@ -13874,7 +13877,10 @@
     },
     {
         "contract_address": "0x882c173bc7ff3b7786ca16dfed3dfffb9ee7847b",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "venus.io"
+        ]
     },
     {
         "contract_address": "0x5c10e4660ec45a89de85a1fd1b22355b0398fb66",
@@ -13902,19 +13908,31 @@
     },
     {
         "contract_address": "0xdbc9a0c33aebcb03972b8584333151c2b2c9b5da",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mpex.co"
+        ]
     },
     {
         "contract_address": "0xc6cab691522ab751a4edadb9078e38378c6fa17c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.bitbestdex.com"
+        ]
     },
     {
         "contract_address": "0x755cb120289cf9752597c7b2d46e943301ad9742",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "holo.host"
+        ]
     },
     {
         "contract_address": "0x00eeb631199d2f86c6a2a896125803efbfb6cb88",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "memeworld.world"
+        ]
     },
     {
         "contract_address": "0x39222ae7544e47b1db5433c1b9e6a7217e171606",
@@ -13922,7 +13940,10 @@
     },
     {
         "contract_address": "0x766afcf83fd5eaf884b3d529b432ca27a6d84617",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bolide.fi"
+        ]
     },
     {
         "contract_address": "0x6c8c858edc3e14312be23b6b39487c2cef757aa1",
