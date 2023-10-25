@@ -13868,7 +13868,12 @@
         "sourceScanned": "processed",
         "web_domains": [
             "aerotymeind.com"
-        ]
+        ],
+        "telegram_groups": [
+            "AeroTymeInd",
+            "INDaerotyme"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x595a67d180bae10314384265d56927c8ff073426",
@@ -13918,14 +13923,18 @@
         "sourceScanned": "processed",
         "web_domains": [
             "etherconnect.co"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xfa90a64f7c18a7de6c6c2e3822aea525ba115cac",
         "sourceScanned": "processed",
         "web_domains": [
             "www.jtrtoken.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa4737e113abf4c9d110f28cfd3daa4d247ff69cb",
@@ -13956,7 +13965,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "fuckingthebanks.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xea8553ccbbf14a628750a56078aa7da425bdae08",
@@ -13967,7 +13978,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "tether.to"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x437f3df56ecee512e407b6ec368523c911d4a283",
@@ -13987,7 +14000,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "venus.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x5c10e4660ec45a89de85a1fd1b22355b0398fb66",
