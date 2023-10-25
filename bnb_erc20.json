@@ -14300,7 +14300,10 @@
     },
     {
         "contract_address": "0xd4ee64b161b2453715c727f70d1606f2022ee2a4",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mgcoin.net"
+        ]
     },
     {
         "contract_address": "0xfcb97ed0c0146f63e4a9a58b10a18d9b87eeb1a1",
@@ -14320,19 +14323,31 @@
     },
     {
         "contract_address": "0x61d5822dd7b3ed495108733e6550d4529480c8f6",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pancakegames.finance"
+        ]
     },
     {
         "contract_address": "0x1f3af095cda17d63cad238358837321e95fc5915",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mint.club"
+        ]
     },
     {
         "contract_address": "0x09e889bb4d5b474f561db0491c38702f367a4e4d",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "clv.org"
+        ]
     },
     {
         "contract_address": "0xf4b5470523ccd314c6b9da041076e7d79e0df267",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blockbank.ai"
+        ]
     },
     {
         "contract_address": "0xd0c819622b3b48fc803738e2630c7b0ae79a6211",
@@ -14352,11 +14367,17 @@
     },
     {
         "contract_address": "0x635a01bed2e504e5e6eeabff413000822be0a2ad",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pif.gov.sa"
+        ]
     },
     {
         "contract_address": "0x241b8e70e25495bb347b3e267ad2e27dcc3b2506",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "metapizzabucks.com"
+        ]
     },
     {
         "contract_address": "0x4c8bdd92b2a5ee1354e81fe5ef87d986c0d7fb34",
@@ -14364,7 +14385,10 @@
     },
     {
         "contract_address": "0xe8670901e86818745b28c8b30b17986958fce8cc",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "citadel.one"
+        ]
     },
     {
         "contract_address": "0x4d2ebc3b591de4f5688be3aada5e283fb8024e4e",
