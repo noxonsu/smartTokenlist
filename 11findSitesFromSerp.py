@@ -17,22 +17,29 @@ def load_and_filter_contracts():
         data = json.load(f)
         return data, [entry for entry in data if "web_domains" not in entry]
 
-def findOfficialDomain(serp,project_name):
+def findOfficialDomain(serp, project_name):
     
     chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-0613")
     messages = [
         SystemMessage(content="Analyse SERP and find the official domain of the crypto token "+project_name+". Blacklist domains: livecoinwatch.com, coincodex.com, coinmooner.com, binance.com, coinbase.com, coinlore.com, crypto.com, coinpaprika.com, coinlore.com, btcc.com. Return only domain name. Return only domain name without quotes etc. Or not found"),
         HumanMessage(content=f" {serp} \n\n The official domain is: ")
     ]
-    
-    gpttitle = chat(messages)
+
+    try:
+        response = chat(messages)
+        gpttitle = response.content
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        return "Not found"
+
     # Remove the quotation marks from the start and end of the generated title
-    if gpttitle.content[0] == '"':
-        gpttitle.content = gpttitle.content[1:]
-    if gpttitle.content[-1] == '"':
-        gpttitle.content = gpttitle.content[:-1]
+    if gpttitle[0] == '"':
+        gpttitle = gpttitle[1:]
+    if gpttitle[-1] == '"':
+        gpttitle = gpttitle[:-1]
     
-    return gpttitle.content
+    return gpttitle
+
 
 def initialize_web3():
     w3 = Web3(Web3.HTTPProvider('https://bsc-dataseed1.binance.org/'))
