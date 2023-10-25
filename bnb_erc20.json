@@ -17448,7 +17448,8 @@
             "www.smartcontracts.tools"
         ],
         "telegram_groups": [],
-        "processedGpt": true
+        "processedGpt": true,
+        "p6": true
     },
     {
         "contract_address": "0xcfd38fdcb624c0d754d9aba6f6da0a7b45f00927",
@@ -18199,7 +18200,8 @@
             "www.smartcontracts.tools"
         ],
         "telegram_groups": [],
-        "processedGpt": true
+        "processedGpt": true,
+        "p6": true
     },
     {
         "contract_address": "0x4a69720907de25683dc649131d70e2a68765c216",
@@ -19599,7 +19601,8 @@
             "www.smartcontracts.tools"
         ],
         "telegram_groups": [],
-        "processedGpt": true
+        "processedGpt": true,
+        "p6": true
     },
     {
         "contract_address": "0x54447cfa919c096d095d58c2b5814669897bffcd",
@@ -30392,7 +30395,11 @@
         ],
         "holders": {
             "bsc": 7916
-        }
+        },
+        "telegram_groups": [
+            "SandwichNetwork"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbedf4a059da080bc00a059f58dc349526681f409",
@@ -30433,7 +30440,9 @@
         ],
         "holders": {
             "bsc": 1892
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xbb6ac793fe3aa9de8bafb10a0e5e6974b1087671",
@@ -30446,7 +30455,8 @@
         ],
         "holders": {
             "bsc": 1471
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc1978aae12a72629e210319b6ad58534ecd2624b",
