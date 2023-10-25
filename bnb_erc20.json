@@ -20166,7 +20166,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 284
-        }
+        },
+        "web_domains": [
+            "ufc.com"
+        ]
     },
     {
         "contract_address": "0x2f34e700031281873b8dd7557bc14b1e247beb62",
@@ -20612,7 +20615,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 163
-        }
+        },
+        "web_domains": [
+            "dmctkonnect.com"
+        ]
     },
     {
         "contract_address": "0x12a00c5cd7c99199a7e850144a2f4afa7257191c",
@@ -20654,7 +20660,10 @@
         ],
         "holders": {
             "bsc": 175
-        }
+        },
+        "web_domains": [
+            "zahnymous.io"
+        ]
     },
     {
         "contract_address": "0x0ac60ffaab3e02094c235ed63cc6b04661648b7f",
