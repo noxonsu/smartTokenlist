@@ -99,7 +99,7 @@ def main():
     print("11.py . contracts to scan:")
     print (len(filter_contracts))
  
-    filter_contracts=filter_contracts[:40]
+    filter_contracts=filter_contracts[:100]
     for entry in filter_contracts:
             holders_count = get_holders_count(entry['contract_address'])
             print ("\n"+entry['contract_address']+' ')
