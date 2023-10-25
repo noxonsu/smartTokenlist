@@ -11511,7 +11511,9 @@
         "telegram_groups": [
             "mcn_coin"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x52ce3314813a6ae526d80474d9cbdbb718bdace3",
@@ -11573,7 +11575,9 @@
         "telegram_groups": [
             "Bitrue_official"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x15e2a4b298db8b1c8117901edeb8ea8a0bd6b13b",
@@ -11746,7 +11750,9 @@
         "telegram_groups": [
             "dexview"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x3cced43a0658967972769ccdafa3391f4cf81ae9",
@@ -11810,7 +11816,9 @@
         "telegram_groups": [
             "mashidaglobal"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x6a55e98e6039760231e139d79a3ef6b568a85ed2",
@@ -11852,7 +11860,9 @@
             "pancakeswap_ru",
             "PancakeSwapAnn"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xd9c80391ac55e9f0c2cf41ab93a95ee173afe048",
