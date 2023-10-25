@@ -15497,7 +15497,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "goodgamesguild.com"
-        ]
+        ],
+        "telegram_groups": [
+            "GoodGamesGuildChat"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x961ffbb1a2f0ef86d598e87daf408ade91304711",
@@ -15528,12 +15532,12 @@
         "contract_address": "0x65fe97c2bed2bb5a2e1836059fba9b26aaf5a936",
         "sourceScanned": "processed",
         "telegram_groups": [
-            "BUBU30Official",
             "BUBU30Official"
         ],
         "web_domains": [
             "bubu30official.space"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb0816999e8c6ae0d730544c98f8cb80866ad9473",
@@ -15544,7 +15548,16 @@
         "sourceScanned": "processed",
         "web_domains": [
             "souni.io"
-        ]
+        ],
+        "telegram_groups": [
+            "souniio_korea",
+            "souniio_Indonesia",
+            "souniio_group",
+            "souniio_VNgroup",
+            "souniio_Russia",
+            "SouniGame_bot"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbb3ccca02a616b5fcd16d4eca533ead3828d90bb",
