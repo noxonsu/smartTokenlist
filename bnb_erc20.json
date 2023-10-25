@@ -14163,7 +14163,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "en.haseecomputer.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x5fe2d2539cf8c8dd04af95541cec227c7623be1a",
@@ -14178,14 +14180,18 @@
         "sourceScanned": "processed",
         "web_domains": [
             "trustxgaming.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9cf7511241b3857ba14ff3bf4b1b3fa663e01da3",
         "sourceScanned": "processed",
         "web_domains": [
             "www.visionainet.it"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xfd660185a105704238c6fb8f161b07481cb023b9",
@@ -14231,21 +14237,33 @@
         "sourceScanned": "processed",
         "web_domains": [
             "acet.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "ACTAcet"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x37eb7a69048c7460986d2ba43878725b79de993f",
         "sourceScanned": "processed",
         "web_domains": [
             "pinkereum.io"
-        ]
+        ],
+        "telegram_groups": [
+            "PINKEREUM_PORTAL"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5c23b79fcc2f18de54e844031b57d7fcd8efe99e",
         "sourceScanned": "processed",
         "web_domains": [
             "multi-ai.pro"
-        ]
+        ],
+        "telegram_groups": [
+            "multi_ai"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd0549476aaa4468bbd1312d4f1bf2cfd62ecd6b7",
