@@ -14143,7 +14143,9 @@
         "telegram_groups": [
             "fraxfinance"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x0315415ed3e1725bf1df77fa442c07ccb2bb82b3",
@@ -14265,7 +14267,9 @@
         "telegram_groups": [
             "ACTAcet"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x37eb7a69048c7460986d2ba43878725b79de993f",
@@ -14276,7 +14280,9 @@
         "telegram_groups": [
             "PINKEREUM_PORTAL"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x5c23b79fcc2f18de54e844031b57d7fcd8efe99e",
@@ -14285,9 +14291,11 @@
             "multi-ai.pro"
         ],
         "telegram_groups": [
-            "multi_ai"
+            "multi_ai_chat"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xd0549476aaa4468bbd1312d4f1bf2cfd62ecd6b7",
@@ -14421,7 +14429,9 @@
         "telegram_groups": [
             "MetaGlobal_MG"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xfcb97ed0c0146f63e4a9a58b10a18d9b87eeb1a1",
