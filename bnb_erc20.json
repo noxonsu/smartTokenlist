@@ -14466,7 +14466,10 @@
     },
     {
         "contract_address": "0xa2b726b1145a4773f68593cf171187d8ebe4d495",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "injective.com"
+        ]
     },
     {
         "contract_address": "0xb37b866871882124c3e7e301d936c29089c43987",
@@ -14478,7 +14481,10 @@
     },
     {
         "contract_address": "0x92d28e49a4ffd443c1e2a907dcc07d2a41e67f4d",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "minelab.com"
+        ]
     },
     {
         "contract_address": "0x9bddb4d340c48504bd55bb6d00ee1322e3224f38",
@@ -14490,7 +14496,10 @@
     },
     {
         "contract_address": "0xad5d8782d8f363f82ecbfd1e28dc2ba25309bc56",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ecpscop.com"
+        ]
     },
     {
         "contract_address": "0x0ba3b4f7d018481cc06f0592c9289c44b6bb0823",
