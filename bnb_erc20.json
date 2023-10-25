@@ -13415,14 +13415,18 @@
         "sourceScanned": "processed",
         "web_domains": [
             "realio.network"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa1320f2a3c662c54d471ec70028b632bf201c835",
         "sourceScanned": "processed",
         "web_domains": [
             "thedividendtracker.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x14220f5893e945eed36389905b991d6b972e04f0",
@@ -13441,14 +13445,21 @@
         "sourceScanned": "processed",
         "web_domains": [
             "optionroom.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xfdc66a08b0d0dc44c17bbd471b88f49f50cdd20f",
         "sourceScanned": "processed",
         "web_domains": [
             "smardex.io"
-        ]
+        ],
+        "telegram_groups": [
+            "realSmarDex",
+            "realSmarDexChat"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4e2434294a722329b6b64e0c2fca51b2533d7015",
@@ -13475,7 +13486,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "ecotechnologysystem.io"
-        ]
+        ],
+        "telegram_groups": [
+            "ETSTOKEN"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x53ae8d29bcb29b47cc74a3e33472c0f2448696ec",
@@ -13486,7 +13501,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "tribalisland.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2fa6ee42bacf983f050210a1ca42f88686327fc9",
