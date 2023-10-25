@@ -14443,14 +14443,22 @@
         "sourceScanned": "processed",
         "web_domains": [
             "clv.org"
-        ]
+        ],
+        "telegram_groups": [
+            "clvorg"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf4b5470523ccd314c6b9da041076e7d79e0df267",
         "sourceScanned": "processed",
         "web_domains": [
             "blockbank.ai"
-        ]
+        ],
+        "telegram_groups": [
+            "BlockBankApp"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd0c819622b3b48fc803738e2630c7b0ae79a6211",
@@ -14473,14 +14481,20 @@
         "sourceScanned": "processed",
         "web_domains": [
             "pif.gov.sa"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x241b8e70e25495bb347b3e267ad2e27dcc3b2506",
         "sourceScanned": "processed",
         "web_domains": [
             "metapizzabucks.com"
-        ]
+        ],
+        "telegram_groups": [
+            "pizzabucks"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4c8bdd92b2a5ee1354e81fe5ef87d986c0d7fb34",
@@ -14491,7 +14505,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "citadel.one"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4d2ebc3b591de4f5688be3aada5e283fb8024e4e",
@@ -14506,7 +14522,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "injective.com"
-        ]
+        ],
+        "telegram_groups": [
+            "joininjective"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb37b866871882124c3e7e301d936c29089c43987",
