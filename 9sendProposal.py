@@ -42,7 +42,6 @@ def save_sent_chat(chat_link):
         f.write(f"{chat_link}\n")
 
 @catch_flood_wait
-@catch_flood_wait
 def send_proposal(app, chat_id, contract_address):
     sent_chats = load_sent_chats()
     if chat_id in sent_chats:
@@ -103,15 +102,6 @@ def main():
             except Exception as e:
                 print(f"Error processing {chat_link}: {e}")
                 entry["tgProposalSent"] = f"error: {e}"
-
-            if ok:
-                print(f"Sent proposal to {chat_link}. Waiting and send responses to debug group")
-                sleep(30)
-                lastm = "https://t.me/"+chat_link+"/"+message_link+"\n"
-                for message in app.get_chat_history(entry["telegram_groups"][0], limit=5):
-                    if message.text and len(message.text) <= 120:
-                        lastm += message.text + "; \n"
-                app.send_message(-1001904539844, text=lastm)
 
         
         with open('bnb_erc20.json', 'w') as f:
