@@ -14930,7 +14930,10 @@
     },
     {
         "contract_address": "0xff0d95cb302e4143d5d70df77fe8efeb6e15498e",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tether.to"
+        ]
     },
     {
         "contract_address": "0x16a93dbaeb294ab8c4d69f28ee6b15153234a8cc",
@@ -14938,7 +14941,10 @@
     },
     {
         "contract_address": "0xfc3e14af0f0c2129a84cc013d48c70d682902874",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "waves.tech"
+        ]
     },
     {
         "contract_address": "0x763a7ab845a773a6e2940b9a577c415464bcca5e",
@@ -14967,7 +14973,10 @@
     },
     {
         "contract_address": "0xd74b782e05aa25c50e7330af541d46e18f36661c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "richquack.com"
+        ]
     },
     {
         "contract_address": "0xc3c027e9009c116314eb9d5812eeb9a1d0d597ca",
@@ -15007,15 +15016,24 @@
     },
     {
         "contract_address": "0x4a9a2b2b04549c3927dd2c9668a5ef3fca473623",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dforce.network"
+        ]
     },
     {
         "contract_address": "0xb5102cee1528ce2c760893034a4603663495fd72",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dforce.network"
+        ]
     },
     {
         "contract_address": "0x668048e70284107a6afab1711f28d88df3e72948",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "coldstack.io"
+        ]
     },
     {
         "contract_address": "0x55493e35e33fcf811571707ac5bf1dbcb658bafc",
@@ -15023,7 +15041,10 @@
     },
     {
         "contract_address": "0xacb834c2c201f370b2dd1d1a9db933f2da4ab693",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.citizenconflict.com"
+        ]
     },
     {
         "contract_address": "0x56bccaedcdba9ca2b1ca1ae51f80dcf68f7afa83",
