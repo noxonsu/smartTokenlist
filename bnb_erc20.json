@@ -20882,7 +20882,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 263
-        }
+        },
+        "web_domains": [
+            "whitepaper.catly.io"
+        ]
     },
     {
         "contract_address": "0x84b03133534a1fe44a6479771574970804d3310b",
@@ -20917,14 +20920,20 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 186
-        }
+        },
+        "web_domains": [
+            "minionaireinu.com"
+        ]
     },
     {
         "contract_address": "0x0a71bac37d3fbbca6a4af2a2f944a53cd691b62d",
         "sourceScanned": "processed",
         "holders": {
             "bsc": 259
-        }
+        },
+        "web_domains": [
+            "hubtoken.org"
+        ]
     },
     {
         "contract_address": "0x7ff2f3fdcc590a90cc7537af6c230c54dd61044e",
@@ -21057,7 +21066,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 114
-        }
+        },
+        "web_domains": [
+            "wearemeru.com"
+        ]
     },
     {
         "contract_address": "0xad3e6819a9a0f0172cea547027d7ee1f1c8f6353",
@@ -21173,7 +21185,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 196
-        }
+        },
+        "web_domains": [
+            "battlefly.game"
+        ]
     },
     {
         "contract_address": "0xd39833d5125d54b486dfaae0a88415908028dc22",
