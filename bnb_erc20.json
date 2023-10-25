@@ -21826,7 +21826,9 @@
         },
         "web_domains": [
             "podcastai.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x47b90a990ce8e6951a11aff83ec7ee8875776353",
@@ -21871,7 +21873,12 @@
         },
         "web_domains": [
             "redex.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "ReDexFinance_Chat",
+            "Redex_Finance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x779defce97825d3b141085fc221c5665670bf1a4",
