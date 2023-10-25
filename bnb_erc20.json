@@ -11955,7 +11955,9 @@
         "telegram_groups": [
             "thebigtycoon"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xf0c6e96df7298259b66dafaa1225ffe1d2187eae",
@@ -12029,7 +12031,9 @@
         "telegram_groups": [
             "ankrnetwork"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x91d6d6af7635b7b23a8ced9508117965180e2362",
@@ -12065,7 +12069,9 @@
         "web_domains": [
             "pumpkininu.vip"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x605641359fe6ecd54a8bbf2972bd4921c36b80a3",
@@ -12078,9 +12084,11 @@
             "luxkingtech.com"
         ],
         "telegram_groups": [
-            "kinganimals"
+            "kofanimals"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xffcec3e4584aaefde72ac1579996b982396254c8",
@@ -12178,7 +12186,9 @@
         "telegram_groups": [
             "CryptonitsCRT"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't find chat"
     },
     {
         "contract_address": "0xe72cd8f9227c7e3b04f61aa8886c1fee3a56bcd8",
