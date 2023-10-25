@@ -14877,7 +14877,12 @@
         "sourceScanned": "processed",
         "web_domains": [
             "ari10.com"
-        ]
+        ],
+        "telegram_groups": [
+            "ari10_com",
+            "Ari10PL"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5308147fbecf29b829768d9fad2420eb27c0f917",
@@ -14896,7 +14901,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "docs.liquity.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xff0d95cb302e4143d5d70df77fe8efeb6e15498e",
