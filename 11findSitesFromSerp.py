@@ -23,7 +23,7 @@ def findOfficialDomain(serp, project_name):
     
     chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-0613")
     messages = [
-        SystemMessage(content="Analyse SERP and find the official domain of the crypto token "+project_name+". we are only looking for new small projects. skip known domains of popular projects. Return only domain name. Return only domain name without quotes etc. Or 'not found'"),
+        SystemMessage(content="Analyse SERP and find the official domain of the crypto token "+project_name+". we are only looking for new small projects. skip known domains of popular projects. Return only domain name if found. Return only domain name without quotes etc."),
         HumanMessage(content=f" {serp} \n\n The official domain is: ")
     ]
 
@@ -100,6 +100,7 @@ def main():
                         contract.get('holders') and 
                         contract['holders'].get('bsc', float('inf')) < 300
                         ]
+    filter_contracts = filter_contracts[:20]
     print("11.py . contracts to scan:")
     print (len(filter_contracts))
  
