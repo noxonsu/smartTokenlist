@@ -2,7 +2,7 @@ from web3 import Web3
 import os
 import re
 import json
-#from serpapi import GoogleSearch
+from serpapi import GoogleSearch
 from langchain.chat_models import ChatOpenAI
 from langchain.schema import SystemMessage, HumanMessage
 from utils import *
@@ -17,7 +17,7 @@ if not SERPAPI_KEY:
 def load_and_filter_contracts():
     with open('bnb_erc20.json', 'r') as f:
         data = json.load(f)
-        return data, [entry for entry in data if "web_domains" not in entry and "holders" not in entry]
+        return data, [entry for entry in data if "web_domains" not in entry]
 
 def findOfficialDomain(serp, project_name):
     
@@ -95,26 +95,14 @@ def main():
     data, filter_contracts = load_and_filter_contracts()
     scanned_contracts = load_scanned_contracts()
     
-    filter_contracts = [contract for contract in filter_contracts if contract["contract_address"].lower() not in scanned_contracts]
+    filter_contracts = [contract for contract in filter_contracts if 
+                        contract["contract_address"].lower() not in scanned_contracts and
+                        contract.get('holders') and 
+                        contract['holders'].get('bsc', float('inf')) < 500
+                        ]
     print("11.py . contracts to scan:")
     print (len(filter_contracts))
  
-    ##filter_contracts=filter_contracts[:500]
-    for entry in filter_contracts:
-            holders_count = get_holders_count(entry['contract_address'])
-            print ("\n"+entry['contract_address']+' ')
-            print(holders_count)
-
-            entry['holders'] = {"bsc": holders_count}
-            # Save the updated data back to the JSON file
-            with open('bnb_erc20.json', 'w') as f:
-                json.dump(data, f, indent=4)    
-
-     
-    
-
-    return
-
     
     
 
