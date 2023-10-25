@@ -98,6 +98,7 @@ def main():
                 message_link = send_proposal(app, chat_link, entry["contract_address"])
                 # Update status after sending proposal
                 entry["tgProposalSent"] = message_link
+                print("https://t.me/"+chat_link+"/"+message_link)
                 ok = True
             except Exception as e:
                 print(f"Error processing {chat_link}: {e}")
