@@ -15880,11 +15880,17 @@
     },
     {
         "contract_address": "0xeed7cc0ea13987509d727577e634f6722333bbdf",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sdbn-token.com"
+        ]
     },
     {
         "contract_address": "0x35bedbf9291b22218a0da863170dcc9329ef2563",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.withtap.com"
+        ]
     },
     {
         "contract_address": "0x7ed73d80909e4b88c231e8d330c4a0bffed5501d",
@@ -15904,7 +15910,10 @@
     },
     {
         "contract_address": "0xb8501a9a9aaae239a2490f44e00b284baa0b131a",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cremat.io"
+        ]
     },
     {
         "contract_address": "0xff16f15504949d7527a8a2e0014970b50ad14f36",
@@ -15924,7 +15933,10 @@
     },
     {
         "contract_address": "0x28d9e43d449e5dc3974ce6595524cff889e4f589",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "thedividendtracker.com"
+        ]
     },
     {
         "contract_address": "0x7a7aa2bb0d553619715bc660566e24a3a6955555",
@@ -15956,11 +15968,17 @@
     },
     {
         "contract_address": "0x3ce49b767e6459e07032e8ed650c4981aeee278f",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.ainexus.com"
+        ]
     },
     {
         "contract_address": "0x8f02a8b03afd7cd968230c5b8db0dfd7eaea1b8f",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "loomx.io"
+        ]
     },
     {
         "contract_address": "0xc375d6cdbe8a7a463631a29767b9d743ff391558",
