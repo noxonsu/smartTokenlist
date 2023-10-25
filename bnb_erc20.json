@@ -14764,7 +14764,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "securechain.ai"
-        ]
+        ],
+        "telegram_groups": [
+            "SecureChainAI"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8f08027f6ffae84fa384d67fae90ed50073b68ba",
@@ -14783,7 +14787,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "opbnb.bnbchain.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xcec59cba2dad0b4a9719876e536e3d229ca56c95",
@@ -14794,7 +14800,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "shinjiruinu.com"
-        ]
+        ],
+        "telegram_groups": [
+            "shinjiruinu"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x27348c55a6ca17f0d3cb75049c21a04e08cf6e78",
@@ -14817,14 +14827,20 @@
         "sourceScanned": "processed",
         "web_domains": [
             "armourreit.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x870fc1e5875b2837c350d26c4abc481c51529851",
         "sourceScanned": "processed",
         "web_domains": [
             "phaver.com"
-        ]
+        ],
+        "telegram_groups": [
+            "phaverdao"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0ab01eb455fd1fb0751c9a86fdaf28f82f79bbb0",
@@ -14835,7 +14851,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "parsec.app"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe7b482559d5ea2ab78732474ff3303dbcd3acbf9",
