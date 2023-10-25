@@ -521,22 +521,22 @@
             "pancakeswap.finance"
         ],
         "telegram_groups": [
-            "pancakeswapFR",
-            "pancakeswapGeorgia",
-            "pancakeswap_DE",
-            "pancakeswapPortuguese",
-            "pancakeswap_CN",
-            "pancakeswap_INDIA",
-            "pancakeswap_PH",
-            "pancakeswapIndonesia",
-            "pancakeswapES",
-            "pancakeswap",
-            "pancakeswapturkiye",
-            "pancakeswap_Ita",
-            "PancakeSwapVN",
             "pancakeswapJP",
             "pancakeswap_ru",
-            "PancakeSwapAnn"
+            "pancakeswapFR",
+            "pancakeswapGeorgia",
+            "PancakeSwapAnn",
+            "pancakeswapPortuguese",
+            "PancakeSwapVN",
+            "pancakeswapIndonesia",
+            "pancakeswap_CN",
+            "pancakeswapES",
+            "pancakeswapturkiye",
+            "pancakeswap",
+            "pancakeswap_Ita",
+            "pancakeswap_DE",
+            "pancakeswap_PH",
+            "pancakeswap_INDIA"
         ],
         "p6": true,
         "myuser": 6003957640,
@@ -2140,22 +2140,22 @@
             "pancakeswap.finance"
         ],
         "telegram_groups": [
-            "pancakeswapFR",
-            "pancakeswapGeorgia",
-            "pancakeswap_DE",
-            "pancakeswapPortuguese",
-            "pancakeswap_CN",
-            "pancakeswap_INDIA",
-            "pancakeswapES",
-            "pancakeswapIndonesia",
-            "pancakeswap_PH",
-            "pancakeswap",
-            "pancakeswapturkiye",
-            "pancakeswap_Ita",
-            "PancakeSwapVN",
             "pancakeswapJP",
             "pancakeswap_ru",
-            "PancakeSwapAnn"
+            "pancakeswapFR",
+            "pancakeswapGeorgia",
+            "PancakeSwapAnn",
+            "pancakeswapPortuguese",
+            "PancakeSwapVN",
+            "pancakeswapIndonesia",
+            "pancakeswap_CN",
+            "pancakeswapES",
+            "pancakeswapturkiye",
+            "pancakeswap",
+            "pancakeswap_Ita",
+            "pancakeswap_DE",
+            "pancakeswap_PH",
+            "pancakeswap_INDIA"
         ],
         "p6": true,
         "myuser": 6003957640,
@@ -4117,22 +4117,22 @@
             "pancakeswap.finance"
         ],
         "telegram_groups": [
-            "pancakeswapFR",
-            "pancakeswapGeorgia",
-            "pancakeswap_DE",
-            "pancakeswapPortuguese",
-            "pancakeswap_CN",
-            "pancakeswap_INDIA",
-            "pancakeswapES",
-            "pancakeswapIndonesia",
-            "pancakeswap_PH",
-            "pancakeswap",
-            "pancakeswapturkiye",
-            "pancakeswap_Ita",
-            "PancakeSwapVN",
             "pancakeswapJP",
             "pancakeswap_ru",
-            "PancakeSwapAnn"
+            "pancakeswapFR",
+            "pancakeswapGeorgia",
+            "PancakeSwapAnn",
+            "pancakeswapPortuguese",
+            "PancakeSwapVN",
+            "pancakeswapIndonesia",
+            "pancakeswap_CN",
+            "pancakeswapES",
+            "pancakeswapturkiye",
+            "pancakeswap",
+            "pancakeswap_Ita",
+            "pancakeswap_DE",
+            "pancakeswap_PH",
+            "pancakeswap_INDIA"
         ],
         "p6": true,
         "myuser": 6003957640,
@@ -7287,7 +7287,8 @@
         "p6": true,
         "myuser": 6003957640,
         "tgGroupJoined": "success",
-        "p8": true
+        "p8": true,
+        "tgProposalSent": "407381"
     },
     {
         "contract_address": "0x59a80dbcea7c3537d91fdc780a4b58b888888888",
@@ -7374,7 +7375,8 @@
         "p6": true,
         "myuser": 6003957640,
         "tgGroupJoined": "success",
-        "p8": true
+        "p8": true,
+        "tgProposalSent": "18108"
     },
     {
         "contract_address": "0x9c65ab58d8d978db963e63f2bfb7121627e3a739",
@@ -7427,7 +7429,8 @@
         "p6": true,
         "myuser": 6003957640,
         "tgGroupJoined": "success",
-        "p8": true
+        "p8": true,
+        "tgProposalSent": "error: Telegram says: Telegram says: [403 CHAT_WRITE_FORBIDDEN] - You don't have rights to send messages in this chat (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0x7bc75e291e656e8658d66be1cc8154a3769a35dd",
@@ -7572,7 +7575,8 @@
         "p6": true,
         "myuser": 6003957640,
         "tgGroupJoined": "success",
-        "p8": true
+        "p8": true,
+        "tgProposalSent": "1285425"
     },
     {
         "contract_address": "0xab311ab65acbbf6042dfa1b958c83c29632b3d51",
@@ -7651,7 +7655,8 @@
         "p6": true,
         "myuser": 6003957640,
         "tgGroupJoined": "success",
-        "p8": true
+        "p8": true,
+        "tgProposalSent": "520966"
     },
     {
         "contract_address": "0x583e9b5ebb7b67157f7817ce3d57a2604fc83881",
@@ -7677,7 +7682,8 @@
         "p6": true,
         "myuser": 6003957640,
         "tgGroupJoined": "success",
-        "p8": true
+        "p8": true,
+        "tgProposalSent": "160315"
     },
     {
         "contract_address": "0x7881cd2b5724431372f57c50e91611352557a606",
@@ -7695,7 +7701,8 @@
         "p6": true,
         "myuser": 6003957640,
         "tgGroupJoined": "success",
-        "p8": true
+        "p8": true,
+        "tgProposalSent": "148361"
     },
     {
         "contract_address": "0xeaf64d63db9332c33971ec48e123139cd7cde63d",
@@ -7717,7 +7724,8 @@
         "p6": true,
         "myuser": 6003957640,
         "tgGroupJoined": "success",
-        "p8": true
+        "p8": true,
+        "tgProposalSent": "45775"
     },
     {
         "contract_address": "0xb5607c01915c22a841ef72e658cb31cd925968d9",
@@ -7779,7 +7787,8 @@
         "p6": true,
         "myuser": 6003957640,
         "tgGroupJoined": "success",
-        "p8": true
+        "p8": true,
+        "tgProposalSent": "110713"
     },
     {
         "contract_address": "0xb27f95f03e1a882dc4436e88893190249502d040",
@@ -7859,7 +7868,8 @@
         "p6": true,
         "myuser": 6003957640,
         "tgGroupJoined": "success",
-        "p8": true
+        "p8": true,
+        "tgProposalSent": "48624"
     },
     {
         "contract_address": "0x2dff88a56767223a5529ea5960da7a3f5f766406",
@@ -11889,22 +11899,22 @@
             "pancakeswap.finance"
         ],
         "telegram_groups": [
-            "pancakeswapFR",
-            "pancakeswapGeorgia",
-            "pancakeswap_DE",
-            "pancakeswapPortuguese",
-            "pancakeswap_CN",
-            "pancakeswap",
-            "pancakeswapturkiye",
-            "pancakeswap_Ita",
-            "pancakeswap_INDIA",
-            "PancakeSwapVN",
-            "pancakeswapES",
-            "pancakeswapIndonesia",
-            "pancakeswap_PH",
             "pancakeswapJP",
             "pancakeswap_ru",
-            "PancakeSwapAnn"
+            "pancakeswapFR",
+            "pancakeswapGeorgia",
+            "PancakeSwapAnn",
+            "pancakeswapPortuguese",
+            "PancakeSwapVN",
+            "pancakeswapIndonesia",
+            "pancakeswap_CN",
+            "pancakeswapturkiye",
+            "pancakeswapES",
+            "pancakeswap",
+            "pancakeswap_Ita",
+            "pancakeswap_DE",
+            "pancakeswap_PH",
+            "pancakeswap_INDIA"
         ],
         "p6": true,
         "myuser": 6003957640,
@@ -14598,7 +14608,9 @@
         "telegram_groups": [
             "joininjective"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xb37b866871882124c3e7e301d936c29089c43987",
@@ -14789,7 +14801,9 @@
         "telegram_groups": [
             "bloXmoveCommunity"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x3db1bab27007349ccf55524f8ec20748bb1ce646",
@@ -14816,7 +14830,9 @@
         "telegram_groups": [
             "SecureChainAI"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x8f08027f6ffae84fa384d67fae90ed50073b68ba",
@@ -14852,7 +14868,9 @@
         "telegram_groups": [
             "shinjiruinu"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x27348c55a6ca17f0d3cb75049c21a04e08cf6e78",
@@ -14888,7 +14906,9 @@
         "telegram_groups": [
             "phaverdao"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x0ab01eb455fd1fb0751c9a86fdaf28f82f79bbb0",
@@ -15271,11 +15291,23 @@
     },
     {
         "contract_address": "0xe79503b2fdb23e0a5e13ae84324a8a480559a086",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "unabot.com"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x53006dd45e9bcb3edd7432bc004f9a7b8b2a65e7",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "shibmutualaidlp.com"
+        ],
+        "telegram_groups": [
+            "shibmutualaid"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb8927b3ee00e9aded1431feea6975795403873ef",
@@ -15300,7 +15332,14 @@
     },
     {
         "contract_address": "0x8a74bc8c372bc7f0e9ca3f6ac0df51be15aec47a",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pulsepad.io"
+        ],
+        "telegram_groups": [
+            "pulsepadann"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf049fce1b935f79c334ceae9bdf9857660e27dcf",
@@ -15344,7 +15383,11 @@
         "sourceScanned": "processed",
         "telegram_groups": [
             "Cat_Ceo"
-        ]
+        ],
+        "web_domains": [
+            "www.catceotoken.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xee7abac1839137ae666ee0a5d7c58be5147657b5",
@@ -15352,23 +15395,52 @@
     },
     {
         "contract_address": "0x02806435d4b7c1df6fc2df629488a1623b589396",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.iotechnik.com"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc0eff7749b125444953ef89682201fb8c6a917cd",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "horizonprotocol.com"
+        ],
+        "telegram_groups": [
+            "HorizonProtocol"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf4bafaeae73a4a7c8b6479970075e91e641fb1fc",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "stafi.io"
+        ],
+        "telegram_groups": [
+            "stafi_protocol"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa2e3356610840701bdf5611a53974510ae27e2e1",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "binance.com"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9fe28d11ce29e340b7124c493f59607cbab9ce48",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "abracadabra.money"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b",
@@ -15376,15 +15448,35 @@
     },
     {
         "contract_address": "0xfa4ba88cf97e282c505bea095297786c16070129",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "coin98.com"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0a3bb08b3a15a19b4de82f8acfc862606fb69a2d",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "docs.izumi.finance"
+        ],
+        "telegram_groups": [
+            "iZUMi_Finance_CN",
+            "izumifinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4c882ec256823ee773b25b414d36f92ef58a7c0c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "app.pstake.finance"
+        ],
+        "telegram_groups": [
+            "pstakefinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x879d239bcc0356cf9df8c90442488bce99554c66",
@@ -15422,7 +15514,14 @@
     },
     {
         "contract_address": "0xd8047afecb86e44eff3add991b9f063ed4ca716b",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "goodgamesguild.com"
+        ],
+        "telegram_groups": [
+            "GoodGamesGuildChat"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x961ffbb1a2f0ef86d598e87daf408ade91304711",
@@ -15453,9 +15552,12 @@
         "contract_address": "0x65fe97c2bed2bb5a2e1836059fba9b26aaf5a936",
         "sourceScanned": "processed",
         "telegram_groups": [
-            "BUBU30Official",
             "BUBU30Official"
-        ]
+        ],
+        "web_domains": [
+            "bubu30official.space"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb0816999e8c6ae0d730544c98f8cb80866ad9473",
@@ -15463,7 +15565,19 @@
     },
     {
         "contract_address": "0x3b0e967ce7712ec68131a809db4f78ce9490e779",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "souni.io"
+        ],
+        "telegram_groups": [
+            "souniio_korea",
+            "souniio_Indonesia",
+            "souniio_group",
+            "souniio_VNgroup",
+            "souniio_Russia",
+            "SouniGame_bot"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbb3ccca02a616b5fcd16d4eca533ead3828d90bb",
@@ -15475,7 +15589,12 @@
     },
     {
         "contract_address": "0x7feb2baffc3d53621632e26ae42a51ee646652dc",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zealcoin.io"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2bc86cf8b0d723934d5a48789e2aee1212039673",
@@ -15483,7 +15602,14 @@
     },
     {
         "contract_address": "0xbc7a566b85ef73f935e640a06b5a8b031cd975df",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blockasset.co"
+        ],
+        "telegram_groups": [
+            "blockassetofficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xfa2d613adc9d9fbfc60365a659c0102b7bace952",
@@ -15491,7 +15617,14 @@
     },
     {
         "contract_address": "0x2406dce4da5ab125a18295f4fb9fd36a0f7879a2",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "coinspaid.com"
+        ],
+        "telegram_groups": [
+            "CoinsPaid_Official"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7e80e76cd0d6eefd49b33f6815a326423f38c7c0",
@@ -15511,7 +15644,14 @@
     },
     {
         "contract_address": "0x9d97e1b22a4a8c8075fc3b4daed6700a59f9c869",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mound.finance"
+        ],
+        "telegram_groups": [
+            "pancakebunny_fin"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x778682c19797d985c595429fbc51d67736013a86",
@@ -15531,11 +15671,21 @@
     },
     {
         "contract_address": "0xec15a508a187e8ddfe572a5423faa82bbdd65120",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "babylons.io"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd62f11baa2f07857b9d83389002b7e3cab325a9b",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "docs.bitdao.io"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe889a1650bdaffb6645806bfe41aeb944173e404",
@@ -15546,7 +15696,11 @@
         "sourceScanned": "processed",
         "telegram_groups": [
             "BitcoinCoreToken"
-        ]
+        ],
+        "web_domains": [
+            "btcdao.vip"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x46d74acaf4d255a9970d9c777d3aa632f248b172",
@@ -15561,7 +15715,12 @@
     },
     {
         "contract_address": "0xb46584e0efde3092e04010a13f2eae62adb3b9f0",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pepecoin.io"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x1b9dec855e98d1c01426a3ed615dd25d2947290e",
@@ -15581,11 +15740,25 @@
     },
     {
         "contract_address": "0x18e37f96628db3037d633fe4d469fb1933a63c5b",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.moviebloc.com"
+        ],
+        "telegram_groups": [
+            "moviebloc"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x45b0152aa7dccc9de5a591dad746cfe0e09eb416",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cryptopirates.wtf"
+        ],
+        "telegram_groups": [
+            "godsofmemecoin"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa88387ae06d407698e26cbe1ca5a1619718f55dd",
@@ -15593,23 +15766,86 @@
     },
     {
         "contract_address": "0x2481823c52a7dd9db51f1105bef48bc77a1feb98",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ruby.xyz"
+        ],
+        "telegram_groups": [
+            "rubyprotocol"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4398e9415bab56073936bc800fb68ac0d7f715f4",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pancakeswap.finance"
+        ],
+        "telegram_groups": [
+            "pancakeswapJP",
+            "pancakeswap_ru",
+            "pancakeswapFR",
+            "pancakeswapGeorgia",
+            "pancakeswapIndonesia",
+            "pancakeswap_CN",
+            "PancakeSwapAnn",
+            "pancakeswapturkiye",
+            "pancakeswapES",
+            "pancakeswap",
+            "pancakeswap_Ita",
+            "pancakeswapPortuguese",
+            "pancakeswap_DE",
+            "PancakeSwapVN",
+            "pancakeswap_PH",
+            "pancakeswap_INDIA"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x08aaee41977a733d5849494a8d8b46f5a650619a",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pancakeswap.finance"
+        ],
+        "telegram_groups": [
+            "pancakeswapJP",
+            "pancakeswap_ru",
+            "pancakeswapFR",
+            "pancakeswapIndonesia",
+            "pancakeswapGeorgia",
+            "pancakeswap_CN",
+            "PancakeSwapAnn",
+            "pancakeswapturkiye",
+            "pancakeswapES",
+            "pancakeswap",
+            "pancakeswap_Ita",
+            "pancakeswapPortuguese",
+            "pancakeswap_DE",
+            "PancakeSwapVN",
+            "pancakeswap_PH",
+            "pancakeswap_INDIA"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x012a6a39eec345a0ea2b994b17875e721d17ee45",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "1rt.io"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0034719300501b06e10ebb1d07ea5967301f0941",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "folks.finance"
+        ],
+        "telegram_groups": [
+            "FolksfinanceOfficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1ef72a1df5e4d165f84fc43b20d56caa7dad46e1",
