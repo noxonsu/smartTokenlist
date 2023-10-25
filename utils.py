@@ -1,7 +1,7 @@
 import json
 import os
 import requests
-
+from time import sleep
 def get_unique_domains():
     # Load bnb_erc20.json and find only domains
     with open("bnb_erc20.json", "r") as f:
@@ -27,6 +27,7 @@ def get_holders_count(contract_address):
         'accept': 'application/json',
         'x-api-key': os.environ['CHAINBASE_API']
     }
+    sleep(1)
     response = requests.get(url, headers=headers)
     if response.status_code == 200:
         data = response.json()
