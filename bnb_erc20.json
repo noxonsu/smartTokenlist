@@ -13527,7 +13527,10 @@
     },
     {
         "contract_address": "0xe0f00567e6ea19b311aee510a8357ce49d515f45",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bbkperformance.com"
+        ]
     },
     {
         "contract_address": "0xe8d4b842901a1123d0f4f45a1f313875976cdd67",
@@ -13535,11 +13538,17 @@
         "telegram_groups": [
             "WPC_BSC",
             "WPC_BSC"
+        ],
+        "web_domains": [
+            "worldpeacecoin.io"
         ]
     },
     {
         "contract_address": "0x169bd8c47611aa06a46972bde5ce36f568832c60",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pacmate.io"
+        ]
     },
     {
         "contract_address": "0x7d7e2fbd5f62288c46e095caa2c7480b332d8919",
@@ -13566,15 +13575,24 @@
     },
     {
         "contract_address": "0x44754455564474a89358b2c2265883df993b12f0",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zeroswap.io"
+        ]
     },
     {
         "contract_address": "0xa90da9e3c71ddfcc2d793f80029acbd21a4a0db6",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "gagarin.world"
+        ]
     },
     {
         "contract_address": "0xcbe26335751158a102e32fc2dee68ec2bd861247",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "radiantride.com"
+        ]
     },
     {
         "contract_address": "0x066aee69d93dee28b32a57febd1878a2d94f6b0c",
@@ -13590,7 +13608,10 @@
     },
     {
         "contract_address": "0x61df3700e1af03e8e2a409b6b8eeff1d556e00e4",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "frax.finance"
+        ]
     },
     {
         "contract_address": "0xd1bdfd8f597d1e5368af3fcc37a363d276f6f0b1",
@@ -13598,11 +13619,17 @@
     },
     {
         "contract_address": "0x40b34cc972908060d6d527276e17c105d224559d",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "treedefi.com"
+        ]
     },
     {
         "contract_address": "0xb7b1f938a5639b57563515ef1a7b8d25ada188bd",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dogeboo.com"
+        ]
     },
     {
         "contract_address": "0x2ce4ae0e7d05bc6ec0c22cdf87ff899872c2cf7f",
