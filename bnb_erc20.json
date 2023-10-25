@@ -13466,10 +13466,12 @@
             "smardex.io"
         ],
         "telegram_groups": [
-            "realSmarDex",
+            "realSmarDexChat",
             "realSmarDexChat"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x4e2434294a722329b6b64e0c2fca51b2533d7015",
@@ -13500,7 +13502,9 @@
         "telegram_groups": [
             "ETSTOKEN"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x53ae8d29bcb29b47cc74a3e33472c0f2448696ec",
@@ -13543,7 +13547,9 @@
             "pricegaplivesupport",
             "pricegap_ann"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by \"channels.JoinChannel\")"
     },
     {
         "contract_address": "0x2decddc46ba26fd0d038f4b63280cee0dcc8b670",
@@ -13581,7 +13587,9 @@
         "web_domains": [
             "worldpeacecoin.io"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't find chat"
     },
     {
         "contract_address": "0x169bd8c47611aa06a46972bde5ce36f568832c60",
@@ -13634,7 +13642,9 @@
             "GAGARIN_World_Support_Bot",
             "gagarin_launchpad"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by \"channels.JoinChannel\")"
     },
     {
         "contract_address": "0xcbe26335751158a102e32fc2dee68ec2bd861247",
