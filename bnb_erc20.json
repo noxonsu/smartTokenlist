@@ -19316,7 +19316,9 @@
         },
         "web_domains": [
             "doggydoge.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7d220240cf958c5c47f2daac821db965f9837e82",
@@ -19392,7 +19394,11 @@
         },
         "web_domains": [
             "peerwallet.com"
-        ]
+        ],
+        "telegram_groups": [
+            "peerwallet"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x06278743169ec1d910c0a8bb5a6d3b522a425dd1",
@@ -19430,7 +19436,9 @@
         },
         "web_domains": [
             "token.bullieverse.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0b165ed2633e08fe5e778e085e95c1c9b52e300d",
