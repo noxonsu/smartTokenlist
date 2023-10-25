@@ -14933,7 +14933,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "tether.to"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x16a93dbaeb294ab8c4d69f28ee6b15153234a8cc",
@@ -14944,7 +14946,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "waves.tech"
-        ]
+        ],
+        "telegram_groups": [
+            "wavesnews"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x763a7ab845a773a6e2940b9a577c415464bcca5e",
@@ -14976,7 +14982,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "richquack.com"
-        ]
+        ],
+        "telegram_groups": [
+            "RichQuackBsc"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc3c027e9009c116314eb9d5812eeb9a1d0d597ca",
@@ -15019,21 +15029,33 @@
         "sourceScanned": "processed",
         "web_domains": [
             "dforce.network"
-        ]
+        ],
+        "telegram_groups": [
+            "dforcenet"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb5102cee1528ce2c760893034a4603663495fd72",
         "sourceScanned": "processed",
         "web_domains": [
             "dforce.network"
-        ]
+        ],
+        "telegram_groups": [
+            "dforcenet"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x668048e70284107a6afab1711f28d88df3e72948",
         "sourceScanned": "processed",
         "web_domains": [
             "coldstack.io"
-        ]
+        ],
+        "telegram_groups": [
+            "coldstackio"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x55493e35e33fcf811571707ac5bf1dbcb658bafc",
