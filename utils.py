@@ -27,7 +27,7 @@ def get_holders_count(contract_address):
         'accept': 'application/json',
         'x-api-key': os.environ['CHAINBASE_API']
     }
-    sleep(1)
+    sleep(0.7)
     response = requests.get(url, headers=headers)
     if response.status_code == 200:
         data = response.json()

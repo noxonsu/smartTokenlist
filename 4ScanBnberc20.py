@@ -84,6 +84,8 @@ def main():
             else:
                 contract["sourceScanned"] = "failed"
 
+            
+
             # Save the updated data in each iteration
             with open("bnb_erc20.json", "w") as f:
                 json.dump(contracts, f, indent=4)

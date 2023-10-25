@@ -2,9 +2,11 @@ from web3 import Web3
 import os
 import re
 import json
-from serpapi import GoogleSearch
+#from serpapi import GoogleSearch
 from langchain.chat_models import ChatOpenAI
 from langchain.schema import SystemMessage, HumanMessage
+from utils import *
+
 SERPAPI_KEY = os.environ.get('SERPAPI_KEY')
 
 if not SERPAPI_KEY:
@@ -15,7 +17,7 @@ if not SERPAPI_KEY:
 def load_and_filter_contracts():
     with open('bnb_erc20.json', 'r') as f:
         data = json.load(f)
-        return data, [entry for entry in data if "web_domains" not in entry]
+        return data, [entry for entry in data if "web_domains" not in entry and "holders" not in entry]
 
 def findOfficialDomain(serp, project_name):
     
@@ -94,19 +96,33 @@ def main():
     scanned_contracts = load_scanned_contracts()
     
     filter_contracts = [contract for contract in filter_contracts if contract["contract_address"].lower() not in scanned_contracts]
-    
     print("11.py . contracts to scan:")
     print (len(filter_contracts))
+ 
+    filter_contracts=filter_contracts[:40]
+    for entry in filter_contracts:
+            holders_count = get_holders_count(entry['contract_address'])
+            print ("\n"+entry['contract_address']+' ')
+            print(holders_count)
 
+            entry['holders'] = {"bsc": holders_count}
+            # Save the updated data back to the JSON file
+            with open('bnb_erc20.json', 'w') as f:
+                json.dump(data, f, indent=4)    
 
-    filter_contracts=filter_contracts[:20]
+     
+    
+
+    return
+
+    
     
 
     w3 = initialize_web3()
     abi = load_abi("erc20.abi")
     for entry in filter_contracts:
         addr = Web3.to_checksum_address(entry["contract_address"])
-     
+        
         contract = w3.eth.contract(address=addr, abi=abi)
         name_project = " " + contract.functions.symbol().call() + " " + contract.functions.name().call()+"  -pancakeswap.finance -tokenview.io -bscscan.com -t.me -youtube.com -facebook.com -github.com -beaconcha.in -abc.bi -medium.com -ethplorer.io -blockchair.com -site:etherscan.io -coinmarketcap.com -site:binance.com -site:coinmarcetcap.com "
         print(name_project+"\n")
