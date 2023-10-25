@@ -15056,7 +15056,10 @@
     },
     {
         "contract_address": "0x8e30ed33d2b9336a2a40f98ac73ede04d5dc8feb",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "persistence.one"
+        ]
     },
     {
         "contract_address": "0x970df17b9298f9bc9bf2b53570df9aae9411b8f2",
@@ -15071,15 +15074,24 @@
     },
     {
         "contract_address": "0x5d75675e9da82524b5dfbe3439fe3a6e29f2b967",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "alphafinancecorp.com"
+        ]
     },
     {
         "contract_address": "0x67b725d7e342d7b611fa85e859df9697d9378b2e",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sandbox.game"
+        ]
     },
     {
         "contract_address": "0x440758df68a045db3f2517257f27330a12438656",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.froggiestoken.com"
+        ]
     },
     {
         "contract_address": "0x9f6651f7147c4ec16357d0a56122e52c3c804b50",
@@ -15099,19 +15111,31 @@
     },
     {
         "contract_address": "0xa0b5e20202428896303bef1341a3351a848fdc99",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "novadao.io"
+        ]
     },
     {
         "contract_address": "0xd2e7b964770fcf51df088a5f0bb2d33a3c60cccf",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ispolink.com"
+        ]
     },
     {
         "contract_address": "0x7d4984490c4c68f8ead9dddca6d04c514ef77324",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "goldeninutoken.org"
+        ]
     },
     {
         "contract_address": "0x44ec807ce2f4a6f2737a92e985f318d035883e47",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hashflow.com"
+        ]
     },
     {
         "contract_address": "0xb85a873b48424024539bc68bc0d7b367ed5ca922",
@@ -15140,7 +15164,10 @@
     },
     {
         "contract_address": "0xe4ca1f75eca6214393fce1c1b316c237664eaa8e",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "orionprotocol.io"
+        ]
     },
     {
         "contract_address": "0x865daccd3d6c9313194a0e27f40e2b968af26077",
