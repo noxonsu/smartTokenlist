@@ -13425,14 +13425,18 @@
         "sourceScanned": "processed",
         "web_domains": [
             "realio.network"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa1320f2a3c662c54d471ec70028b632bf201c835",
         "sourceScanned": "processed",
         "web_domains": [
             "thedividendtracker.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x14220f5893e945eed36389905b991d6b972e04f0",
@@ -13451,14 +13455,21 @@
         "sourceScanned": "processed",
         "web_domains": [
             "optionroom.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xfdc66a08b0d0dc44c17bbd471b88f49f50cdd20f",
         "sourceScanned": "processed",
         "web_domains": [
             "smardex.io"
-        ]
+        ],
+        "telegram_groups": [
+            "realSmarDex",
+            "realSmarDexChat"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4e2434294a722329b6b64e0c2fca51b2533d7015",
@@ -13485,7 +13496,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "ecotechnologysystem.io"
-        ]
+        ],
+        "telegram_groups": [
+            "ETSTOKEN"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x53ae8d29bcb29b47cc74a3e33472c0f2448696ec",
@@ -13496,28 +13511,39 @@
         "sourceScanned": "processed",
         "web_domains": [
             "tribalisland.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2fa6ee42bacf983f050210a1ca42f88686327fc9",
         "sourceScanned": "processed",
         "web_domains": [
             "w3.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x30b5e345c79255101b8af22a19805a6fb96ddebb",
         "sourceScanned": "processed",
         "web_domains": [
             "rev3al.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x1d3c26cf2388dc923cfc7dd309bc7fbf85d1fa2a",
         "sourceScanned": "processed",
         "web_domains": [
             "www.pricegap.ai"
-        ]
+        ],
+        "telegram_groups": [
+            "pricegaplivesupport",
+            "pricegap_ann"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2decddc46ba26fd0d038f4b63280cee0dcc8b670",
@@ -13540,25 +13566,31 @@
         "sourceScanned": "processed",
         "web_domains": [
             "bbkperformance.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe8d4b842901a1123d0f4f45a1f313875976cdd67",
         "sourceScanned": "processed",
         "telegram_groups": [
+            "joinchat",
             "WPC_BSC",
-            "WPC_BSC"
+            "PEACEINU_BSC"
         ],
         "web_domains": [
             "worldpeacecoin.io"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x169bd8c47611aa06a46972bde5ce36f568832c60",
         "sourceScanned": "processed",
         "web_domains": [
             "pacmate.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7d7e2fbd5f62288c46e095caa2c7480b332d8919",
@@ -13588,21 +13620,30 @@
         "sourceScanned": "processed",
         "web_domains": [
             "zeroswap.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa90da9e3c71ddfcc2d793f80029acbd21a4a0db6",
         "sourceScanned": "processed",
         "web_domains": [
             "gagarin.world"
-        ]
+        ],
+        "telegram_groups": [
+            "GAGARIN_World_Support_Bot",
+            "gagarin_launchpad"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xcbe26335751158a102e32fc2dee68ec2bd861247",
         "sourceScanned": "processed",
         "web_domains": [
             "radiantride.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x066aee69d93dee28b32a57febd1878a2d94f6b0c",
@@ -13621,7 +13662,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "frax.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "fraxfinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd1bdfd8f597d1e5368af3fcc37a363d276f6f0b1",
@@ -13632,14 +13677,28 @@
         "sourceScanned": "processed",
         "web_domains": [
             "treedefi.com"
-        ]
+        ],
+        "telegram_groups": [
+            "treedefi"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb7b1f938a5639b57563515ef1a7b8d25ada188bd",
         "sourceScanned": "processed",
         "web_domains": [
             "dogeboo.com"
-        ]
+        ],
+        "telegram_groups": [
+            "dogeboochannel",
+            "Benyparker",
+            "lewishunt89",
+            "bootoshinakamoto",
+            "dogeboogroup",
+            "dogeboogroupchn",
+            "dogeboogroupid"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2ce4ae0e7d05bc6ec0c22cdf87ff899872c2cf7f",
@@ -13670,7 +13729,10 @@
     },
     {
         "contract_address": "0xf307910a4c7bbc79691fd374889b36d8531b08e3",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ankr.com"
+        ]
     },
     {
         "contract_address": "0xae76f4d0f3cdf4833606a47ba4e248b77ed78603",
@@ -13686,11 +13748,17 @@
     },
     {
         "contract_address": "0xa865197a84e780957422237b5d152772654341f3",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "openleverage.finance"
+        ]
     },
     {
         "contract_address": "0x45fe7c734480fcdf4dddb6b1a87a53ebf58bf898",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "starlproject.com"
+        ]
     },
     {
         "contract_address": "0xac68931b666e086e9de380cfdb0fb5704a35dc2d",
@@ -13722,7 +13790,10 @@
     },
     {
         "contract_address": "0xe4ae305ebe1abe663f261bc00534067c80ad677c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "spartanprotocol.org"
+        ]
     },
     {
         "contract_address": "0xf7cf26c0f2c8c621b2c6f311811bcb69522d94ae",
@@ -13738,7 +13809,10 @@
     },
     {
         "contract_address": "0x5f4bde007dc06b867f86ebfe4802e34a1ffeed63",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "highstreet.market"
+        ]
     },
     {
         "contract_address": "0xa0e57d0b87a6fe057df2fa0ae228a02460a24e56",
@@ -13746,11 +13820,17 @@
     },
     {
         "contract_address": "0x028f461800e9187c5c9b6c75f539a989559ea6e0",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "islamiccoin.net"
+        ]
     },
     {
         "contract_address": "0x7c59c88fc352ccb7305212a8afd797cdd6a8a845",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "aerotymeind.com"
+        ]
     },
     {
         "contract_address": "0x595a67d180bae10314384265d56927c8ff073426",
@@ -13797,11 +13877,17 @@
     },
     {
         "contract_address": "0x8d047f4f57a190c96c8b9704b39a1379e999d82b",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "etherconnect.co"
+        ]
     },
     {
         "contract_address": "0xfa90a64f7c18a7de6c6c2e3822aea525ba115cac",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.jtrtoken.com"
+        ]
     },
     {
         "contract_address": "0xa4737e113abf4c9d110f28cfd3daa4d247ff69cb",
@@ -13829,7 +13915,10 @@
     },
     {
         "contract_address": "0xbc424fee216ed9a8c5cf6388b340eeeeeba99f7b",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fuckingthebanks.com"
+        ]
     },
     {
         "contract_address": "0xea8553ccbbf14a628750a56078aa7da425bdae08",
@@ -13837,7 +13926,10 @@
     },
     {
         "contract_address": "0xc9e3f85e5e7c91bb06b0b33e3fe9da85aa025924",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tether.to"
+        ]
     },
     {
         "contract_address": "0x437f3df56ecee512e407b6ec368523c911d4a283",
@@ -13854,7 +13946,10 @@
     },
     {
         "contract_address": "0x882c173bc7ff3b7786ca16dfed3dfffb9ee7847b",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "venus.io"
+        ]
     },
     {
         "contract_address": "0x5c10e4660ec45a89de85a1fd1b22355b0398fb66",
@@ -13882,19 +13977,31 @@
     },
     {
         "contract_address": "0xdbc9a0c33aebcb03972b8584333151c2b2c9b5da",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mpex.co"
+        ]
     },
     {
         "contract_address": "0xc6cab691522ab751a4edadb9078e38378c6fa17c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.bitbestdex.com"
+        ]
     },
     {
         "contract_address": "0x755cb120289cf9752597c7b2d46e943301ad9742",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "holo.host"
+        ]
     },
     {
         "contract_address": "0x00eeb631199d2f86c6a2a896125803efbfb6cb88",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "memeworld.world"
+        ]
     },
     {
         "contract_address": "0x39222ae7544e47b1db5433c1b9e6a7217e171606",
@@ -13902,7 +14009,10 @@
     },
     {
         "contract_address": "0x766afcf83fd5eaf884b3d529b432ca27a6d84617",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bolide.fi"
+        ]
     },
     {
         "contract_address": "0x6c8c858edc3e14312be23b6b39487c2cef757aa1",
@@ -13922,11 +14032,21 @@
     },
     {
         "contract_address": "0x64048a7eecf3a2f1ba9e144aac3d7db6e58f555e",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "frax.finance"
+        ],
+        "telegram_groups": [
+            "fraxfinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0315415ed3e1725bf1df77fa442c07ccb2bb82b3",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "binance.com"
+        ]
     },
     {
         "contract_address": "0xd2acfb42bf7e46324f153d138c2981b714489519",
@@ -13958,7 +14078,10 @@
     },
     {
         "contract_address": "0x64abc441f2d011c64f0118f44debbe3e56958ffe",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "en.haseecomputer.com"
+        ]
     },
     {
         "contract_address": "0x5fe2d2539cf8c8dd04af95541cec227c7623be1a",
@@ -13970,11 +14093,17 @@
     },
     {
         "contract_address": "0x9f46ecf92e7f6ee8c03f393adf04c2e17b8cd0b0",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "trustxgaming.io"
+        ]
     },
     {
         "contract_address": "0x9cf7511241b3857ba14ff3bf4b1b3fa663e01da3",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.visionainet.it"
+        ]
     },
     {
         "contract_address": "0xfd660185a105704238c6fb8f161b07481cb023b9",
