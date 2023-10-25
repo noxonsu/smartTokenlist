@@ -17680,7 +17680,11 @@
         },
         "web_domains": [
             "bitrivals.gg"
-        ]
+        ],
+        "telegram_groups": [
+            "bitrivals"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x550d7984b7adfff88815e5528e12e322df6d3b9b",
@@ -17753,7 +17757,9 @@
         },
         "web_domains": [
             "www.littlepepe.es"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb72723e36a83fb5fe1793f06b436f4720f5de4f9",
@@ -17808,7 +17814,11 @@
         },
         "web_domains": [
             "frogtoken.net"
-        ]
+        ],
+        "telegram_groups": [
+            "frogecosystem"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x13b65c258de7035b9de3edb11b56bf9bcaa9df3f",
@@ -18015,7 +18025,11 @@
         },
         "web_domains": [
             "byron.network"
-        ]
+        ],
+        "telegram_groups": [
+            "byron_network"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x628a491bd4984d59cd7023e4cb0e8919ae942a3b",
@@ -18179,7 +18193,9 @@
         },
         "web_domains": [
             "squid2.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xce77df37bc660f75952adc518b79ef087449e24e",
@@ -18248,7 +18264,9 @@
         },
         "web_domains": [
             "sotwe.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x112a95dda6e0dbc81e66ed843abd44d8e2a21493",
