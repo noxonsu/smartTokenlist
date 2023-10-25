@@ -15589,7 +15589,10 @@
     },
     {
         "contract_address": "0x7feb2baffc3d53621632e26ae42a51ee646652dc",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zealcoin.io"
+        ]
     },
     {
         "contract_address": "0x2bc86cf8b0d723934d5a48789e2aee1212039673",
@@ -15597,7 +15600,10 @@
     },
     {
         "contract_address": "0xbc7a566b85ef73f935e640a06b5a8b031cd975df",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blockasset.co"
+        ]
     },
     {
         "contract_address": "0xfa2d613adc9d9fbfc60365a659c0102b7bace952",
@@ -15605,7 +15611,10 @@
     },
     {
         "contract_address": "0x2406dce4da5ab125a18295f4fb9fd36a0f7879a2",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "coinspaid.com"
+        ]
     },
     {
         "contract_address": "0x7e80e76cd0d6eefd49b33f6815a326423f38c7c0",
@@ -15625,7 +15634,10 @@
     },
     {
         "contract_address": "0x9d97e1b22a4a8c8075fc3b4daed6700a59f9c869",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mound.finance"
+        ]
     },
     {
         "contract_address": "0x778682c19797d985c595429fbc51d67736013a86",
@@ -15645,11 +15657,17 @@
     },
     {
         "contract_address": "0xec15a508a187e8ddfe572a5423faa82bbdd65120",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "babylons.io"
+        ]
     },
     {
         "contract_address": "0xd62f11baa2f07857b9d83389002b7e3cab325a9b",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "docs.bitdao.io"
+        ]
     },
     {
         "contract_address": "0xe889a1650bdaffb6645806bfe41aeb944173e404",
@@ -15660,6 +15678,9 @@
         "sourceScanned": "processed",
         "telegram_groups": [
             "BitcoinCoreToken"
+        ],
+        "web_domains": [
+            "btcdao.vip"
         ]
     },
     {
