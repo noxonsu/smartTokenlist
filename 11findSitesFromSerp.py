@@ -23,7 +23,7 @@ def findOfficialDomain(serp, project_name):
     
     chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-0613")
     messages = [
-        SystemMessage(content="Analyse SERP and find the official domain of the crypto token "+project_name+". Blacklist domains: livecoinwatch.com, coincodex.com, coinmooner.com, binance.com, coinbase.com, coinlore.com, crypto.com, coinpaprika.com, coinlore.com, btcc.com. Return only domain name. Return only domain name without quotes etc. Or not found"),
+        SystemMessage(content="Analyse SERP and find the official domain of the crypto token "+project_name+". we are only looking for new small projects. skip known domains of popular projects. Return only domain name. Return only domain name without quotes etc. Or 'not found'"),
         HumanMessage(content=f" {serp} \n\n The official domain is: ")
     ]
 
