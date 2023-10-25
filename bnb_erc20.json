@@ -19615,7 +19615,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 33
-        }
+        },
+        "web_domains": [
+            "btcu.world"
+        ]
     },
     {
         "contract_address": "0x20de22029ab63cf9a7cf5feb2b737ca1ee4c82a6",
@@ -19636,7 +19639,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 281
-        }
+        },
+        "web_domains": [
+            "wazirx.com"
+        ]
     },
     {
         "contract_address": "0xa0a2ee912caf7921eaabc866c6ef6fec8f7e90a4",
@@ -19657,7 +19663,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 56
-        }
+        },
+        "web_domains": [
+            "bitcoinclassic.com"
+        ]
     },
     {
         "contract_address": "0x1f5732847164a42a01c59a7928c922ab4bfdbbd5",
@@ -19840,7 +19849,10 @@
         ],
         "holders": {
             "bsc": 47
-        }
+        },
+        "web_domains": [
+            "makepepegreat.com"
+        ]
     },
     {
         "contract_address": "0xed8c8aa8299c10f067496bb66f8cc7fb338a3405",
@@ -19908,7 +19920,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 40
-        }
+        },
+        "web_domains": [
+            "www.masternft.org"
+        ]
     },
     {
         "contract_address": "0xfb6115445bff7b52feb98650c87f44907e58f802",
