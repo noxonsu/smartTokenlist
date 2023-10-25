@@ -98,7 +98,7 @@ def main():
     filter_contracts = [contract for contract in filter_contracts if 
                         contract["contract_address"].lower() not in scanned_contracts and
                         contract.get('holders') and 
-                        contract['holders'].get('bsc', float('inf')) < 500
+                        contract['holders'].get('bsc', float('inf')) < 300
                         ]
     print("11.py . contracts to scan:")
     print (len(filter_contracts))
