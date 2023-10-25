@@ -13758,7 +13758,10 @@
     },
     {
         "contract_address": "0x7c59c88fc352ccb7305212a8afd797cdd6a8a845",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "aerotymeind.com"
+        ]
     },
     {
         "contract_address": "0x595a67d180bae10314384265d56927c8ff073426",
@@ -13805,11 +13808,17 @@
     },
     {
         "contract_address": "0x8d047f4f57a190c96c8b9704b39a1379e999d82b",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "etherconnect.co"
+        ]
     },
     {
         "contract_address": "0xfa90a64f7c18a7de6c6c2e3822aea525ba115cac",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.jtrtoken.com"
+        ]
     },
     {
         "contract_address": "0xa4737e113abf4c9d110f28cfd3daa4d247ff69cb",
@@ -13837,7 +13846,10 @@
     },
     {
         "contract_address": "0xbc424fee216ed9a8c5cf6388b340eeeeeba99f7b",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fuckingthebanks.com"
+        ]
     },
     {
         "contract_address": "0xea8553ccbbf14a628750a56078aa7da425bdae08",
