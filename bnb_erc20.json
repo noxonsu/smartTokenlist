@@ -13748,7 +13748,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "ankr.com"
-        ]
+        ],
+        "telegram_groups": [
+            "ankrnetwork"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xae76f4d0f3cdf4833606a47ba4e248b77ed78603",
@@ -13767,14 +13771,20 @@
         "sourceScanned": "processed",
         "web_domains": [
             "openleverage.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x45fe7c734480fcdf4dddb6b1a87a53ebf58bf898",
         "sourceScanned": "processed",
         "web_domains": [
             "starlproject.com"
-        ]
+        ],
+        "telegram_groups": [
+            "starlinkofficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xac68931b666e086e9de380cfdb0fb5704a35dc2d",
@@ -13809,7 +13819,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "spartanprotocol.org"
-        ]
+        ],
+        "telegram_groups": [
+            "SpartanProtocolOrg"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf7cf26c0f2c8c621b2c6f311811bcb69522d94ae",
@@ -13828,7 +13842,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "highstreet.market"
-        ]
+        ],
+        "telegram_groups": [
+            "highstreetworld"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa0e57d0b87a6fe057df2fa0ae228a02460a24e56",
@@ -13839,7 +13857,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "islamiccoin.net"
-        ]
+        ],
+        "telegram_groups": [
+            "islamiccoin_int"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7c59c88fc352ccb7305212a8afd797cdd6a8a845",
