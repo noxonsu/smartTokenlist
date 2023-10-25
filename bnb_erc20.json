@@ -15066,7 +15066,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.citizenconflict.com"
-        ]
+        ],
+        "telegram_groups": [
+            "citizenconflictnews"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x56bccaedcdba9ca2b1ca1ae51f80dcf68f7afa83",
@@ -15081,7 +15085,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "persistence.one"
-        ]
+        ],
+        "telegram_groups": [
+            "PersistenceOne"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x970df17b9298f9bc9bf2b53570df9aae9411b8f2",
@@ -15099,21 +15107,27 @@
         "sourceScanned": "processed",
         "web_domains": [
             "alphafinancecorp.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x67b725d7e342d7b611fa85e859df9697d9378b2e",
         "sourceScanned": "processed",
         "web_domains": [
             "sandbox.game"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x440758df68a045db3f2517257f27330a12438656",
         "sourceScanned": "processed",
         "web_domains": [
             "www.froggiestoken.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9f6651f7147c4ec16357d0a56122e52c3c804b50",
@@ -15136,7 +15150,12 @@
         "sourceScanned": "processed",
         "web_domains": [
             "novadao.io"
-        ]
+        ],
+        "telegram_groups": [
+            "Nova",
+            "nova"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd2e7b964770fcf51df088a5f0bb2d33a3c60cccf",
