@@ -14033,28 +14033,38 @@
         "sourceScanned": "processed",
         "web_domains": [
             "mpex.co"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc6cab691522ab751a4edadb9078e38378c6fa17c",
         "sourceScanned": "processed",
         "web_domains": [
             "www.bitbestdex.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x755cb120289cf9752597c7b2d46e943301ad9742",
         "sourceScanned": "processed",
         "web_domains": [
             "holo.host"
-        ]
+        ],
+        "telegram_groups": [
+            "channelHolo"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x00eeb631199d2f86c6a2a896125803efbfb6cb88",
         "sourceScanned": "processed",
         "web_domains": [
             "memeworld.world"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x39222ae7544e47b1db5433c1b9e6a7217e171606",
@@ -14065,7 +14075,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "bolide.fi"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6c8c858edc3e14312be23b6b39487c2cef757aa1",
@@ -14099,7 +14111,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "binance.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd2acfb42bf7e46324f153d138c2981b714489519",
