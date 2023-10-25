@@ -14565,7 +14565,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "minelab.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9bddb4d340c48504bd55bb6d00ee1322e3224f38",
@@ -14580,7 +14582,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "ecpscop.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0ba3b4f7d018481cc06f0592c9289c44b6bb0823",
@@ -14662,7 +14666,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "hapi.dev"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6f8768ae9273473fc067943c55974cbfd2a8b6be",
@@ -14688,7 +14694,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "plearnclub.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe171d7b98a417dff859dbd7e57e6ac4b40990315",
@@ -14699,7 +14707,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "veed.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd4461661862943107fcc5c5f77ed9e74a76c7fa3",
@@ -14727,7 +14737,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "bloxmove.com"
-        ]
+        ],
+        "telegram_groups": [
+            "bloXmoveCommunity"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3db1bab27007349ccf55524f8ec20748bb1ce646",
