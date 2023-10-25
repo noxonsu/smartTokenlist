@@ -13412,11 +13412,17 @@
     },
     {
         "contract_address": "0x8c49a510756224e887b3d99d00d959f2d86dda1c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "realio.network"
+        ]
     },
     {
         "contract_address": "0xa1320f2a3c662c54d471ec70028b632bf201c835",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "thedividendtracker.com"
+        ]
     },
     {
         "contract_address": "0x14220f5893e945eed36389905b991d6b972e04f0",
@@ -13432,11 +13438,17 @@
     },
     {
         "contract_address": "0x3c45a24d36ab6fc1925533c1f57bc7e1b6fba8a4",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "optionroom.finance"
+        ]
     },
     {
         "contract_address": "0xfdc66a08b0d0dc44c17bbd471b88f49f50cdd20f",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "smardex.io"
+        ]
     },
     {
         "contract_address": "0x4e2434294a722329b6b64e0c2fca51b2533d7015",
@@ -13460,7 +13472,10 @@
     },
     {
         "contract_address": "0xb4d32d8a133d793a6c0e8dc6ca6e8f32137bd421",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ecotechnologysystem.io"
+        ]
     },
     {
         "contract_address": "0x53ae8d29bcb29b47cc74a3e33472c0f2448696ec",
@@ -13468,19 +13483,31 @@
     },
     {
         "contract_address": "0x9abdcdacf6ab51b9daf10fd38cf166749f1a447a",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tribalisland.io"
+        ]
     },
     {
         "contract_address": "0x2fa6ee42bacf983f050210a1ca42f88686327fc9",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "w3.org"
+        ]
     },
     {
         "contract_address": "0x30b5e345c79255101b8af22a19805a6fb96ddebb",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "rev3al.io"
+        ]
     },
     {
         "contract_address": "0x1d3c26cf2388dc923cfc7dd309bc7fbf85d1fa2a",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.pricegap.ai"
+        ]
     },
     {
         "contract_address": "0x2decddc46ba26fd0d038f4b63280cee0dcc8b670",
