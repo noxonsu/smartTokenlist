@@ -16007,7 +16007,10 @@
     },
     {
         "contract_address": "0x3cae11667c57f14a751e154c19fcc6e5c264589a",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pancakeswap.finance"
+        ]
     },
     {
         "contract_address": "0x37407d1cabc422155a148bc7a3a0587c64225ea2",
@@ -16022,7 +16025,10 @@
     },
     {
         "contract_address": "0xe0e514c71282b6f4e823703a39374cf58dc3ea4f",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "belt.fi"
+        ]
     },
     {
         "contract_address": "0xa7ed793cc99b5e52c2cadd632a95a1f76747bd14",
@@ -16037,7 +16043,10 @@
     },
     {
         "contract_address": "0x50feeabe8b0fb1af8652012931ac637cc0b614f7",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "setgame.com"
+        ]
     },
     {
         "contract_address": "0x52babdff8808a97bcecfa6921ea5640616699c47",
@@ -16053,15 +16062,24 @@
     },
     {
         "contract_address": "0x0864c156b3c5f69824564dec60c629ae6401bf2a",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "streamr.network"
+        ]
     },
     {
         "contract_address": "0x2ed9a5c8c13b93955103b9a7c167b67ef4d568a3",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mask.io"
+        ]
     },
     {
         "contract_address": "0x7cd392a37a36152f5b3afe086a9832ad2ef8d145",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "weaverstoken.com"
+        ]
     },
     {
         "contract_address": "0xd39f45b6a0a8f1db7efacb17c186d4b39a34f644",
@@ -16069,15 +16087,24 @@
     },
     {
         "contract_address": "0xdaacb0ab6fb34d24e8a67bfa14bf4d95d4c7af92",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "p.network"
+        ]
     },
     {
         "contract_address": "0x3f82a9d457faf7690a872c46573153097c1abf09",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "boomcoin.live"
+        ]
     },
     {
         "contract_address": "0xf264f966f8998a620295fcefb60e7868c27eae01",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "niobiumcoin.io"
+        ]
     },
     {
         "contract_address": "0xefdcac889a1f4d1e4313c30785ae0a68d9e09fa0",
@@ -16091,6 +16118,9 @@
         "sourceScanned": "processed",
         "telegram_groups": [
             "BitcoinCoreToken"
+        ],
+        "web_domains": [
+            "btcbr.info"
         ]
     },
     {
