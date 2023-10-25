@@ -16553,7 +16553,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 20
-        }
+        },
+        "web_domains": [
+            "pepeai.org"
+        ]
     },
     {
         "contract_address": "0x2e74ee4fc4466d0883ef5e12a0ce344bfe15be8d",
