@@ -21625,7 +21625,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 129
-        }
+        },
+        "web_domains": [
+            "flokimusk.ai"
+        ]
     },
     {
         "contract_address": "0x8774300986ff0bc9a9d5739548333907cff2c543",
@@ -21802,7 +21805,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 49
-        }
+        },
+        "web_domains": [
+            "podcastai.com"
+        ]
     },
     {
         "contract_address": "0x47b90a990ce8e6951a11aff83ec7ee8875776353",
@@ -21844,7 +21850,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 44
-        }
+        },
+        "web_domains": [
+            "redex.finance"
+        ]
     },
     {
         "contract_address": "0x779defce97825d3b141085fc221c5665670bf1a4",
