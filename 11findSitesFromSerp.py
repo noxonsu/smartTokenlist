@@ -100,10 +100,10 @@ def main():
                         contract.get('holders') and 
                         contract['holders'].get('bsc', float('inf')) < 300
                         ]
-    filter_contracts = filter_contracts[:20]
+    
     print("11.py . contracts to scan:")
     print (len(filter_contracts))
- 
+    filter_contracts = filter_contracts[:30]
     
     
 
