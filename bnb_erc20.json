@@ -14319,14 +14319,18 @@
         "sourceScanned": "processed",
         "web_domains": [
             "bestftso.xyz"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xee9801669c6138e84bd50deb500827b776777d28",
         "sourceScanned": "processed",
         "web_domains": [
             "o3swap.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0173295183685f27c84db046b5f0bea3e683c24b",
@@ -14365,7 +14369,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.giant.ai"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x12be75eef561c18722a9664a48476ac36d7a7bf5",
@@ -14387,7 +14393,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "mgcoin.net"
-        ]
+        ],
+        "telegram_groups": [
+            "MetaGlobal_MG"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xfcb97ed0c0146f63e4a9a58b10a18d9b87eeb1a1",
@@ -14410,14 +14420,23 @@
         "sourceScanned": "processed",
         "web_domains": [
             "pancakegames.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "projectxenoglb",
+            "PancakeGames"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1f3af095cda17d63cad238358837321e95fc5915",
         "sourceScanned": "processed",
         "web_domains": [
             "mint.club"
-        ]
+        ],
+        "telegram_groups": [
+            "mint_club"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x09e889bb4d5b474f561db0491c38702f367a4e4d",
