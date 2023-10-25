@@ -8,6 +8,8 @@ import os
 from langchain.chat_models import ChatOpenAI
 from bs4 import BeautifulSoup
 import re
+from utils import *
+
 
 def load_data_from_file(filename):
     with open(filename, "r") as f:

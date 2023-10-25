@@ -3,7 +3,7 @@ import os
 import requests
 from langchain.chat_models import ChatOpenAI
 from langchain.schema import SystemMessage, HumanMessage
-
+from utils import *
 #p8 - 8prepareProposal.py
 #p6 - 6prepareSummary.py
 def filter_sites_without_proposal(data):
@@ -19,19 +19,6 @@ def load_system_message(filename):
     with open(filename, 'r') as file:
         return file.read()
 
-def get_holders_count(contract_address):
-    url = f'https://api.chainbase.online/v1/token/holders?chain_id=56&contract_address={contract_address}&page=1&limit=20'
-    headers = {
-        'accept': 'application/json',
-        'x-api-key': os.environ['CHAINBASE_API']
-    }
-    response = requests.get(url, headers=headers)
-    if response.status_code == 200:
-        data = response.json()
-        # Assuming the count of holders is contained in a field named 'count' in the response data
-        return data['count']
-    else:
-        raise Exception(f'Failed to retrieve holders count: {response.text}')
 
 def generate_message(targetSummary):
     chat = ChatOpenAI(temperature=0.5, model_name="gpt-4")
