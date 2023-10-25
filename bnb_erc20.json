@@ -17701,7 +17701,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 51
-        }
+        },
+        "web_domains": [
+            "www.littlepepe.es"
+        ]
     },
     {
         "contract_address": "0xb72723e36a83fb5fe1793f06b436f4720f5de4f9",
@@ -17753,7 +17756,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 126
-        }
+        },
+        "web_domains": [
+            "frogtoken.net"
+        ]
     },
     {
         "contract_address": "0x13b65c258de7035b9de3edb11b56bf9bcaa9df3f",
@@ -17957,7 +17963,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 279
-        }
+        },
+        "web_domains": [
+            "byron.network"
+        ]
     },
     {
         "contract_address": "0x628a491bd4984d59cd7023e4cb0e8919ae942a3b",
@@ -18118,7 +18127,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 196
-        }
+        },
+        "web_domains": [
+            "squid2.io"
+        ]
     },
     {
         "contract_address": "0xce77df37bc660f75952adc518b79ef087449e24e",
@@ -18184,7 +18196,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 66
-        }
+        },
+        "web_domains": [
+            "sotwe.com"
+        ]
     },
     {
         "contract_address": "0x112a95dda6e0dbc81e66ed843abd44d8e2a21493",
