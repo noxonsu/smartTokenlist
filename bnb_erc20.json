@@ -15378,15 +15378,24 @@
     },
     {
         "contract_address": "0xf4bafaeae73a4a7c8b6479970075e91e641fb1fc",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "stafi.io"
+        ]
     },
     {
         "contract_address": "0xa2e3356610840701bdf5611a53974510ae27e2e1",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "binance.com"
+        ]
     },
     {
         "contract_address": "0x9fe28d11ce29e340b7124c493f59607cbab9ce48",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "abracadabra.money"
+        ]
     },
     {
         "contract_address": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b",
@@ -15394,15 +15403,24 @@
     },
     {
         "contract_address": "0xfa4ba88cf97e282c505bea095297786c16070129",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "coin98.com"
+        ]
     },
     {
         "contract_address": "0x0a3bb08b3a15a19b4de82f8acfc862606fb69a2d",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "docs.izumi.finance"
+        ]
     },
     {
         "contract_address": "0x4c882ec256823ee773b25b414d36f92ef58a7c0c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "app.pstake.finance"
+        ]
     },
     {
         "contract_address": "0x879d239bcc0356cf9df8c90442488bce99554c66",
@@ -15440,7 +15458,10 @@
     },
     {
         "contract_address": "0xd8047afecb86e44eff3add991b9f063ed4ca716b",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "goodgamesguild.com"
+        ]
     },
     {
         "contract_address": "0x961ffbb1a2f0ef86d598e87daf408ade91304711",
@@ -15473,6 +15494,9 @@
         "telegram_groups": [
             "BUBU30Official",
             "BUBU30Official"
+        ],
+        "web_domains": [
+            "bubu30official.space"
         ]
     },
     {
@@ -15481,7 +15505,10 @@
     },
     {
         "contract_address": "0x3b0e967ce7712ec68131a809db4f78ce9490e779",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "souni.io"
+        ]
     },
     {
         "contract_address": "0xbb3ccca02a616b5fcd16d4eca533ead3828d90bb",
