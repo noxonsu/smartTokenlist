@@ -15274,14 +15274,20 @@
         "sourceScanned": "processed",
         "web_domains": [
             "unabot.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x53006dd45e9bcb3edd7432bc004f9a7b8b2a65e7",
         "sourceScanned": "processed",
         "web_domains": [
             "shibmutualaidlp.com"
-        ]
+        ],
+        "telegram_groups": [
+            "shibmutualaid"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb8927b3ee00e9aded1431feea6975795403873ef",
@@ -15309,7 +15315,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "pulsepad.io"
-        ]
+        ],
+        "telegram_groups": [
+            "pulsepadann"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf049fce1b935f79c334ceae9bdf9857660e27dcf",
@@ -15356,7 +15366,8 @@
         ],
         "web_domains": [
             "www.catceotoken.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xee7abac1839137ae666ee0a5d7c58be5147657b5",
@@ -15367,14 +15378,20 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.iotechnik.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc0eff7749b125444953ef89682201fb8c6a917cd",
         "sourceScanned": "processed",
         "web_domains": [
             "horizonprotocol.com"
-        ]
+        ],
+        "telegram_groups": [
+            "HorizonProtocol"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf4bafaeae73a4a7c8b6479970075e91e641fb1fc",
