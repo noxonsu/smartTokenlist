@@ -18399,7 +18399,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 255
-        }
+        },
+        "web_domains": [
+            "landslideprotocol.com"
+        ]
     },
     {
         "contract_address": "0x95fa4103d7498ab4684124a7e4a822021ce8c844",
@@ -18416,7 +18419,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 182
-        }
+        },
+        "web_domains": [
+            "cubiswap.finance"
+        ]
     },
     {
         "contract_address": "0x15a94876de1d1c59198a0760b2ecbbef1d0410fe",
