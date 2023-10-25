@@ -14747,7 +14747,10 @@
     },
     {
         "contract_address": "0x051a66a7750098fb1ec6548d36e275bb23749a78",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "securechain.ai"
+        ]
     },
     {
         "contract_address": "0x8f08027f6ffae84fa384d67fae90ed50073b68ba",
@@ -14763,7 +14766,10 @@
     },
     {
         "contract_address": "0xe06e81e217231905e9e3e6a341ec82a9e6b64e8c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "opbnb.bnbchain.org"
+        ]
     },
     {
         "contract_address": "0xcec59cba2dad0b4a9719876e536e3d229ca56c95",
@@ -14771,7 +14777,10 @@
     },
     {
         "contract_address": "0x87e0ce18ce0ce0a86b22537b48c15e03a519b112",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "shinjiruinu.com"
+        ]
     },
     {
         "contract_address": "0x27348c55a6ca17f0d3cb75049c21a04e08cf6e78",
@@ -14791,11 +14800,17 @@
     },
     {
         "contract_address": "0xcab6edbd63894070d4e99e4b58d92dea7d333820",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "armourreit.com"
+        ]
     },
     {
         "contract_address": "0x870fc1e5875b2837c350d26c4abc481c51529851",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "phaver.com"
+        ]
     },
     {
         "contract_address": "0x0ab01eb455fd1fb0751c9a86fdaf28f82f79bbb0",
@@ -14803,7 +14818,10 @@
     },
     {
         "contract_address": "0xa805c2a431a30ddaa16afbda2e2d3230c0fcb509",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "parsec.app"
+        ]
     },
     {
         "contract_address": "0xe7b482559d5ea2ab78732474ff3303dbcd3acbf9",
@@ -14824,7 +14842,10 @@
     },
     {
         "contract_address": "0x80262f604acac839724f66846f290a2cc8b48662",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ari10.com"
+        ]
     },
     {
         "contract_address": "0x5308147fbecf29b829768d9fad2420eb27c0f917",
@@ -14840,7 +14861,10 @@
     },
     {
         "contract_address": "0x3317f98895a22d6467bd516c5116051f8300cb17",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "docs.liquity.org"
+        ]
     },
     {
         "contract_address": "0xff0d95cb302e4143d5d70df77fe8efeb6e15498e",
