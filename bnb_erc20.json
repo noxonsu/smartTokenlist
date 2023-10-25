@@ -14162,15 +14162,24 @@
     },
     {
         "contract_address": "0x9f3bcbe48e8b754f331dfc694a894e8e686ac31d",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "acet.finance"
+        ]
     },
     {
         "contract_address": "0x37eb7a69048c7460986d2ba43878725b79de993f",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pinkereum.io"
+        ]
     },
     {
         "contract_address": "0x5c23b79fcc2f18de54e844031b57d7fcd8efe99e",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "multi-ai.pro"
+        ]
     },
     {
         "contract_address": "0xd0549476aaa4468bbd1312d4f1bf2cfd62ecd6b7",
@@ -14223,11 +14232,17 @@
     },
     {
         "contract_address": "0x38d008f99a5e7c9cf17649fa95ee60b1e35f1bb1",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bestftso.xyz"
+        ]
     },
     {
         "contract_address": "0xee9801669c6138e84bd50deb500827b776777d28",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "o3swap.com"
+        ]
     },
     {
         "contract_address": "0x0173295183685f27c84db046b5f0bea3e683c24b",
@@ -14263,7 +14278,10 @@
     },
     {
         "contract_address": "0xaa6b17204096ae1c7700ec37ccf8af0c58b3e338",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.giant.ai"
+        ]
     },
     {
         "contract_address": "0x12be75eef561c18722a9664a48476ac36d7a7bf5",
