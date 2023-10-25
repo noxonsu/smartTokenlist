@@ -130,12 +130,25 @@ def main():
         save_scanned_contract(addr)
         # Check if a valid domain is found and save it to the original data
         if domain != "not found" and is_valid_domain(domain):
-            entry["web_domains"] = [domain]
-            # Find the original entry in data and update it
+            # Check if domain already exists in the original data
+            domain_exists = False
             for orig_entry in data:
-                if orig_entry["contract_address"] == entry["contract_address"]:
-                    orig_entry["web_domains"] = [domain]
-                    break
+                # Check if 'web_domains' key exists in orig_entry
+                if 'web_domains' in orig_entry:
+                    # Check if domain is in the list of domains for this entry
+                    if domain in orig_entry["web_domains"]:
+                        domain_exists = True
+                        print("Domain already exists:", domain)  # Added print statement here
+                        break
+                        
+            if not domain_exists:
+                entry["web_domains"] = [domain]
+                # Find the original entry in data and update it
+                for orig_entry in data:
+                    if orig_entry["contract_address"] == entry["contract_address"]:
+                        orig_entry["web_domains"] = [domain]
+                        break
+
 
 
     # Save the updated data back to the JSON file
