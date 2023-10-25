@@ -18402,7 +18402,11 @@
         },
         "web_domains": [
             "landslideprotocol.com"
-        ]
+        ],
+        "telegram_groups": [
+            "landslideprotocol"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x95fa4103d7498ab4684124a7e4a822021ce8c844",
@@ -18422,7 +18426,9 @@
         },
         "web_domains": [
             "cubiswap.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x15a94876de1d1c59198a0760b2ecbbef1d0410fe",
@@ -18784,7 +18790,9 @@
         },
         "web_domains": [
             "ztx.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xde27c2c13d1eeb87744bf3c2a9168c1cbd62ee81",
@@ -18878,7 +18886,9 @@
         },
         "web_domains": [
             "rocketpepe.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xcff71c3b9219aa63df6d6564600e837b7049a25d",
@@ -19078,7 +19088,9 @@
         },
         "web_domains": [
             "docs.bakedbeansv3.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc029a12e4a002c6858878fd9d3cc74e227cc2dda",
@@ -19213,7 +19225,11 @@
         },
         "web_domains": [
             "liquiyield.com"
-        ]
+        ],
+        "telegram_groups": [
+            "LiquiYield"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0005fd45281d89042965acbaf645ecc86bc5ec5c",
