@@ -7529,24 +7529,24 @@
         "contract_address": "0x398c60ca4d4c40b79ea2ff95b9879f2bd40de157",
         "sourceScanned": "processed",
         "telegram_groups": [
-            "BitcoinBR_News",
-            "BitcoinBR_Info",
-            "BitcoinBRchat",
-            "BitcoinCoreToken",
             "BitcoinWorldCommunity",
-            "BitcoinCoreGroup",
-            "BitcoinNetworkGlobal",
-            "CryptoWorldCommunity",
-            "BitcoinAltcoinsGroup",
-            "GueddyFinance",
-            "SchirleyFinance",
             "ZFIUniverseFinance",
-            "EthereumPoSGroup",
-            "BitcoinFinanceGlobal",
             "BitcoinTradeToken",
-            "EtheriaToken",
+            "BitcoinFinanceGlobal",
+            "BitcoinBRchat",
+            "GueddyFinance",
+            "BitcoinCoreGroup",
+            "BitcoinBR_News",
+            "CryptoWorldCommunity",
+            "BitcoinCoreToken",
             "EthereumPowETHW",
-            "BitcoinCapitalGlobal"
+            "BitcoinNetworkGlobal",
+            "BitcoinBR_Info",
+            "EthereumPoSGroup",
+            "EtheriaToken",
+            "BitcoinAltcoinsGroup",
+            "BitcoinCapitalGlobal",
+            "SchirleyFinance"
         ],
         "web_domains": [
             "btcbr.info"
@@ -16124,21 +16124,29 @@
         "sourceScanned": "processed",
         "web_domains": [
             "p.network"
-        ]
+        ],
+        "telegram_groups": [
+            "pNetworkDefi"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3f82a9d457faf7690a872c46573153097c1abf09",
         "sourceScanned": "processed",
         "web_domains": [
             "boomcoin.live"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf264f966f8998a620295fcefb60e7868c27eae01",
         "sourceScanned": "processed",
         "web_domains": [
             "niobiumcoin.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xefdcac889a1f4d1e4313c30785ae0a68d9e09fa0",
@@ -16151,11 +16159,29 @@
         "contract_address": "0x92393f3a009e957fa80cdafcbe44d54f65c4dd55",
         "sourceScanned": "processed",
         "telegram_groups": [
+            "EthereumPowETHW",
+            "BitcoinNetworkGlobal",
+            "BitcoinBR_Info",
+            "BitcoinWorldCommunity",
+            "SchirleyFinance",
+            "EthereumPoSGroup",
+            "EtheriaToken",
+            "ZFIUniverseFinance",
+            "BitcoinTradeToken",
+            "BitcoinFinanceGlobal",
+            "BitcoinBR_News",
+            "BitcoinBRchat",
+            "CryptoWorldCommunity",
+            "BitcoinAltcoinsGroup",
+            "BitcoinCapitalGlobal",
+            "GueddyFinance",
+            "BitcoinCoreGroup",
             "BitcoinCoreToken"
         ],
         "web_domains": [
             "btcbr.info"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8bf9fa365be3fdeed2147e4fdcc208f3a8766666",
