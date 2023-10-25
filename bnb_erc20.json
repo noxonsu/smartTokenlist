@@ -18781,7 +18781,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 152
-        }
+        },
+        "web_domains": [
+            "ztx.io"
+        ]
     },
     {
         "contract_address": "0xde27c2c13d1eeb87744bf3c2a9168c1cbd62ee81",
@@ -18872,7 +18875,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 18
-        }
+        },
+        "web_domains": [
+            "rocketpepe.com"
+        ]
     },
     {
         "contract_address": "0xcff71c3b9219aa63df6d6564600e837b7049a25d",
@@ -19069,7 +19075,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 2
-        }
+        },
+        "web_domains": [
+            "docs.bakedbeansv3.io"
+        ]
     },
     {
         "contract_address": "0xc029a12e4a002c6858878fd9d3cc74e227cc2dda",
@@ -19201,7 +19210,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 122
-        }
+        },
+        "web_domains": [
+            "liquiyield.com"
+        ]
     },
     {
         "contract_address": "0x0005fd45281d89042965acbaf645ecc86bc5ec5c",
@@ -19285,7 +19297,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 50
-        }
+        },
+        "web_domains": [
+            "doggydoge.com"
+        ]
     },
     {
         "contract_address": "0x7d220240cf958c5c47f2daac821db965f9837e82",
@@ -19358,7 +19373,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 10
-        }
+        },
+        "web_domains": [
+            "peerwallet.com"
+        ]
     },
     {
         "contract_address": "0x06278743169ec1d910c0a8bb5a6d3b522a425dd1",
@@ -19393,7 +19411,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 23
-        }
+        },
+        "web_domains": [
+            "token.bullieverse.com"
+        ]
     },
     {
         "contract_address": "0x0b165ed2633e08fe5e778e085e95c1c9b52e300d",
