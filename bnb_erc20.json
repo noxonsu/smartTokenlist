@@ -12245,10 +12245,12 @@
             "tidex.com"
         ],
         "telegram_groups": [
-            "Tidex_News",
+            "tidex_official",
             "tidex_official"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xb823746401d03ce7b4d748bb3e9c7a4912c68377",
@@ -12279,7 +12281,9 @@
         "telegram_groups": [
             "peakdefi_official"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x1c2619d4496a7eee4cd2a3b99b634c0691ca8a15",
@@ -12444,7 +12448,9 @@
         "telegram_groups": [
             "CreamdotFinance"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xd3ab8287c03a6cf8655264c6749cdb5fccee0260",
@@ -12456,7 +12462,9 @@
             "bankp2pgold1",
             "bankp2pgold"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xf91d6e71f6d9e6dbffe92597ce0fdd76058c49a7",
@@ -12493,7 +12501,9 @@
         "telegram_groups": [
             "btdotfinance"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xd7686389a2de8fce13dc262e6bca11480c8f6434",
