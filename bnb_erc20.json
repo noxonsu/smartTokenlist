@@ -13023,7 +13023,9 @@
         "telegram_groups": [
             "tateERC20"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x4ec59bbe3d46473c4fccecaf7ddbe8d80d1767a8",
@@ -13056,7 +13058,9 @@
             "thor_infobot",
             "thorchain_org"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by \"channels.JoinChannel\")"
     },
     {
         "contract_address": "0x4ca1a6e896899d6a5ad6ed321583d6711694e312",
@@ -13079,7 +13083,9 @@
         "telegram_groups": [
             "thesinverse"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xa852135979dc9f19f7f68ec467f3dd02559cff85",
@@ -13129,7 +13135,9 @@
             "cryptotanksio",
             "cryptotankscom"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xebd49b26169e1b52c04cfd19fcf289405df55f80",
@@ -13148,7 +13156,9 @@
         "telegram_groups": [
             "btcweb3"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x42981d0bfbaf196529376ee702f2a9eb9092fcb5",
