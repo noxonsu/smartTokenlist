@@ -19618,7 +19618,9 @@
         },
         "web_domains": [
             "btcu.world"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x20de22029ab63cf9a7cf5feb2b737ca1ee4c82a6",
@@ -19642,7 +19644,9 @@
         },
         "web_domains": [
             "wazirx.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa0a2ee912caf7921eaabc866c6ef6fec8f7e90a4",
@@ -19666,7 +19670,9 @@
         },
         "web_domains": [
             "bitcoinclassic.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x1f5732847164a42a01c59a7928c922ab4bfdbbd5",
@@ -19845,6 +19851,7 @@
         "contract_address": "0x18cff6b836da2a65a1bf4b905066fd479a256ec5",
         "sourceScanned": "processed",
         "telegram_groups": [
+            "makepepegreat_portal",
             "makepepegreatagainbsc"
         ],
         "holders": {
@@ -19852,7 +19859,8 @@
         },
         "web_domains": [
             "makepepegreat.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xed8c8aa8299c10f067496bb66f8cc7fb338a3405",
@@ -19923,7 +19931,9 @@
         },
         "web_domains": [
             "www.masternft.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xfb6115445bff7b52feb98650c87f44907e58f802",
@@ -20169,7 +20179,9 @@
         },
         "web_domains": [
             "ufc.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2f34e700031281873b8dd7557bc14b1e247beb62",
