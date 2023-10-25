@@ -15162,21 +15162,33 @@
         "sourceScanned": "processed",
         "web_domains": [
             "ispolink.com"
-        ]
+        ],
+        "telegram_groups": [
+            "ispolink"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7d4984490c4c68f8ead9dddca6d04c514ef77324",
         "sourceScanned": "processed",
         "web_domains": [
             "goldeninutoken.org"
-        ]
+        ],
+        "telegram_groups": [
+            "goldenhorde"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x44ec807ce2f4a6f2737a92e985f318d035883e47",
         "sourceScanned": "processed",
         "web_domains": [
             "hashflow.com"
-        ]
+        ],
+        "telegram_groups": [
+            "hashflowdex"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb85a873b48424024539bc68bc0d7b367ed5ca922",
@@ -15208,7 +15220,13 @@
         "sourceScanned": "processed",
         "web_domains": [
             "orionprotocol.io"
-        ]
+        ],
+        "telegram_groups": [
+            "orionprotocol",
+            "web3newsbyorion",
+            "orion_dao"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x865daccd3d6c9313194a0e27f40e2b968af26077",
