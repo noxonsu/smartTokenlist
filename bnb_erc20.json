@@ -17194,7 +17194,9 @@
         },
         "web_domains": [
             "bigai.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa12e575ce92c82128ce28d8a6bde98fa904b9801",
@@ -17358,7 +17360,11 @@
         },
         "web_domains": [
             "haruinvest.com"
-        ]
+        ],
+        "telegram_groups": [
+            "HaruInvest"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3b248cefa87f836a4e6f6d6c9b42991b88dc1d58",
@@ -17411,14 +17417,16 @@
         "contract_address": "0x841ab454c61b17282c11685ee2f45ca173dc08b0",
         "sourceScanned": "processed",
         "telegram_groups": [
-            "DragonCEO_Bep20"
+            "DragonCEO_Bep20",
+            "dragonceo_bsc"
         ],
         "holders": {
             "bsc": 50
         },
         "web_domains": [
             "dragonceo.world"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x052775cf897b3ec894f26b8d801c514123c305d1",
@@ -17449,7 +17457,9 @@
         },
         "web_domains": [
             "smartchain-poker.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x070a9867ea49ce7afc4505817204860e823489fe",
@@ -17474,17 +17484,32 @@
         "contract_address": "0x18b5dffabc4723c741d67b871a51c059630227d2",
         "sourceScanned": "processed",
         "telegram_groups": [
-            "BitcoinBR_Info",
-            "BitcoinBR_News",
+            "BitcoinCoreToken",
+            "BitcoinBRchat",
             "BitcoinWorldCommunity",
-            "BitcoinCoreGroup"
+            "BitcoinCoreGroup",
+            "BitcoinTradeToken",
+            "BitcoinAltcoinsGroup",
+            "EtheriaToken",
+            "BitcoinCapitalGlobal",
+            "CryptoWorldCommunity",
+            "SchirleyFinance",
+            "BitcoinFinanceGlobal",
+            "BitcoinNetworkGlobal",
+            "EthereumPowETHW",
+            "GueddyFinance",
+            "ZFIUniverseFinance",
+            "EthereumPoSGroup",
+            "BitcoinBR_Info",
+            "BitcoinBR_News"
         ],
         "holders": {
             "bsc": 23
         },
         "web_domains": [
             "www.btcbr.info"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x528cae1d80aea6fe5b84b3ebcd631e1e6331d382",
@@ -17514,7 +17539,9 @@
         },
         "web_domains": [
             "easyvest.net"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x24802247bd157d771b7effa205237d8e9269ba8a",
