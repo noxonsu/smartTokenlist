@@ -15883,14 +15883,22 @@
         "sourceScanned": "processed",
         "web_domains": [
             "sdbn-token.com"
-        ]
+        ],
+        "telegram_groups": [
+            "smartdigitalbusinessnetwork"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x35bedbf9291b22218a0da863170dcc9329ef2563",
         "sourceScanned": "processed",
         "web_domains": [
             "www.withtap.com"
-        ]
+        ],
+        "telegram_groups": [
+            "officialtapngo"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7ed73d80909e4b88c231e8d330c4a0bffed5501d",
@@ -15913,7 +15921,12 @@
         "sourceScanned": "processed",
         "web_domains": [
             "cremat.io"
-        ]
+        ],
+        "telegram_groups": [
+            "matthewcremationcoin",
+            "cremationcoin"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xff16f15504949d7527a8a2e0014970b50ad14f36",
@@ -15936,7 +15949,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "thedividendtracker.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7a7aa2bb0d553619715bc660566e24a3a6955555",
@@ -15971,14 +15986,20 @@
         "sourceScanned": "processed",
         "web_domains": [
             "www.ainexus.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8f02a8b03afd7cd968230c5b8db0dfd7eaea1b8f",
         "sourceScanned": "processed",
         "web_domains": [
             "loomx.io"
-        ]
+        ],
+        "telegram_groups": [
+            "loomnetwork"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc375d6cdbe8a7a463631a29767b9d743ff391558",
