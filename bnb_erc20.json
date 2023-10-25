@@ -15696,7 +15696,10 @@
     },
     {
         "contract_address": "0xb46584e0efde3092e04010a13f2eae62adb3b9f0",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pepecoin.io"
+        ]
     },
     {
         "contract_address": "0x1b9dec855e98d1c01426a3ed615dd25d2947290e",
@@ -15716,11 +15719,17 @@
     },
     {
         "contract_address": "0x18e37f96628db3037d633fe4d469fb1933a63c5b",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.moviebloc.com"
+        ]
     },
     {
         "contract_address": "0x45b0152aa7dccc9de5a591dad746cfe0e09eb416",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cryptopirates.wtf"
+        ]
     },
     {
         "contract_address": "0xa88387ae06d407698e26cbe1ca5a1619718f55dd",
@@ -15728,23 +15737,38 @@
     },
     {
         "contract_address": "0x2481823c52a7dd9db51f1105bef48bc77a1feb98",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ruby.xyz"
+        ]
     },
     {
         "contract_address": "0x4398e9415bab56073936bc800fb68ac0d7f715f4",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pancakeswap.finance"
+        ]
     },
     {
         "contract_address": "0x08aaee41977a733d5849494a8d8b46f5a650619a",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pancakeswap.finance"
+        ]
     },
     {
         "contract_address": "0x012a6a39eec345a0ea2b994b17875e721d17ee45",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "1rt.io"
+        ]
     },
     {
         "contract_address": "0x0034719300501b06e10ebb1d07ea5967301f0941",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "folks.finance"
+        ]
     },
     {
         "contract_address": "0x1ef72a1df5e4d165f84fc43b20d56caa7dad46e1",
