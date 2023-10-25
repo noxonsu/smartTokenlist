@@ -13963,11 +13963,17 @@
     },
     {
         "contract_address": "0x64048a7eecf3a2f1ba9e144aac3d7db6e58f555e",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "frax.finance"
+        ]
     },
     {
         "contract_address": "0x0315415ed3e1725bf1df77fa442c07ccb2bb82b3",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "binance.com"
+        ]
     },
     {
         "contract_address": "0xd2acfb42bf7e46324f153d138c2981b714489519",
@@ -13999,7 +14005,10 @@
     },
     {
         "contract_address": "0x64abc441f2d011c64f0118f44debbe3e56958ffe",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "en.haseecomputer.com"
+        ]
     },
     {
         "contract_address": "0x5fe2d2539cf8c8dd04af95541cec227c7623be1a",
@@ -14011,11 +14020,17 @@
     },
     {
         "contract_address": "0x9f46ecf92e7f6ee8c03f393adf04c2e17b8cd0b0",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "trustxgaming.io"
+        ]
     },
     {
         "contract_address": "0x9cf7511241b3857ba14ff3bf4b1b3fa663e01da3",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.visionainet.it"
+        ]
     },
     {
         "contract_address": "0xfd660185a105704238c6fb8f161b07481cb023b9",
