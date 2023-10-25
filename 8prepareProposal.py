@@ -58,7 +58,7 @@ def process_sites(data, sites_without_proposal):
             targetSummary = ""
         HOLDERS_COUNT = get_holders_count(contract_address)  # Get holders count
         # Concat "HOLDERSCOUNT" to targetSummary
-        targetSummary = f"{targetSummary} . Amount of holders on BSC network: {HOLDERS_COUNT}"
+        targetSummary = f"{targetSummary} . Amount of holders in BSC network: {HOLDERS_COUNT}"
         proposal = generate_message(targetSummary)
         if proposal:
             print(proposal)
