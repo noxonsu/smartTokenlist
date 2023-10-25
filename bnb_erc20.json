@@ -13660,7 +13660,10 @@
     },
     {
         "contract_address": "0xf307910a4c7bbc79691fd374889b36d8531b08e3",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ankr.com"
+        ]
     },
     {
         "contract_address": "0xae76f4d0f3cdf4833606a47ba4e248b77ed78603",
@@ -13676,11 +13679,17 @@
     },
     {
         "contract_address": "0xa865197a84e780957422237b5d152772654341f3",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "openleverage.finance"
+        ]
     },
     {
         "contract_address": "0x45fe7c734480fcdf4dddb6b1a87a53ebf58bf898",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "starlproject.com"
+        ]
     },
     {
         "contract_address": "0xac68931b666e086e9de380cfdb0fb5704a35dc2d",
@@ -13712,7 +13721,10 @@
     },
     {
         "contract_address": "0xe4ae305ebe1abe663f261bc00534067c80ad677c",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "spartanprotocol.org"
+        ]
     },
     {
         "contract_address": "0xf7cf26c0f2c8c621b2c6f311811bcb69522d94ae",
@@ -13728,7 +13740,10 @@
     },
     {
         "contract_address": "0x5f4bde007dc06b867f86ebfe4802e34a1ffeed63",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "highstreet.market"
+        ]
     },
     {
         "contract_address": "0xa0e57d0b87a6fe057df2fa0ae228a02460a24e56",
@@ -13736,7 +13751,10 @@
     },
     {
         "contract_address": "0x028f461800e9187c5c9b6c75f539a989559ea6e0",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "islamiccoin.net"
+        ]
     },
     {
         "contract_address": "0x7c59c88fc352ccb7305212a8afd797cdd6a8a845",
