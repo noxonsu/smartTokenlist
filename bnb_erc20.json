@@ -15592,7 +15592,9 @@
         "sourceScanned": "processed",
         "web_domains": [
             "zealcoin.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2bc86cf8b0d723934d5a48789e2aee1212039673",
@@ -15603,7 +15605,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "blockasset.co"
-        ]
+        ],
+        "telegram_groups": [
+            "blockassetofficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xfa2d613adc9d9fbfc60365a659c0102b7bace952",
@@ -15614,7 +15620,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "coinspaid.com"
-        ]
+        ],
+        "telegram_groups": [
+            "CoinsPaid_Official"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7e80e76cd0d6eefd49b33f6815a326423f38c7c0",
@@ -15637,7 +15647,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "mound.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "pancakebunny_fin"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x778682c19797d985c595429fbc51d67736013a86",
@@ -15660,14 +15674,18 @@
         "sourceScanned": "processed",
         "web_domains": [
             "babylons.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd62f11baa2f07857b9d83389002b7e3cab325a9b",
         "sourceScanned": "processed",
         "web_domains": [
             "docs.bitdao.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe889a1650bdaffb6645806bfe41aeb944173e404",
