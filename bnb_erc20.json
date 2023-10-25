@@ -15398,21 +15398,29 @@
         "sourceScanned": "processed",
         "web_domains": [
             "stafi.io"
-        ]
+        ],
+        "telegram_groups": [
+            "stafi_protocol"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa2e3356610840701bdf5611a53974510ae27e2e1",
         "sourceScanned": "processed",
         "web_domains": [
             "binance.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9fe28d11ce29e340b7124c493f59607cbab9ce48",
         "sourceScanned": "processed",
         "web_domains": [
             "abracadabra.money"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b",
@@ -15423,21 +15431,32 @@
         "sourceScanned": "processed",
         "web_domains": [
             "coin98.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0a3bb08b3a15a19b4de82f8acfc862606fb69a2d",
         "sourceScanned": "processed",
         "web_domains": [
             "docs.izumi.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "iZUMi_Finance_CN",
+            "izumifinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4c882ec256823ee773b25b414d36f92ef58a7c0c",
         "sourceScanned": "processed",
         "web_domains": [
             "app.pstake.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "pstakefinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x879d239bcc0356cf9df8c90442488bce99554c66",
