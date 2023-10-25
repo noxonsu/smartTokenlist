@@ -13353,7 +13353,9 @@
         "telegram_groups": [
             "affinitydefi"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x703c51ee931888b3861de76779cdc5725956553e",
@@ -22746,7 +22748,9 @@
             "Ellipsis_CN",
             "ellipsisfinance"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "needhuman"
     },
     {
         "contract_address": "0xc323bab041b61333312699a44724ef0c58f1a4fc",
@@ -22827,7 +22831,9 @@
         "emails": [
             "team@bullrun.today"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x2306479508f62622339556ba6582528f3f79b044",
@@ -22864,7 +22870,9 @@
             "DexVaultNetwork",
             "antnmiid"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by \"channels.JoinChannel\")"
     },
     {
         "contract_address": "0xecfde422b804d1ce3ec6f984ea64283b2ae416be",
@@ -22879,7 +22887,9 @@
         "telegram_groups": [
             "oskBSC_fist"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6003957640,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0xa87584cfeb892c33a1c9a233e4a733b45c4160e6",
