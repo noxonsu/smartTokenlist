@@ -43,8 +43,16 @@ def subscribe_to_chat_with_retries(app, chat_link, linked=False) -> types.Chat |
     linked_str = "linked chat " if linked else ""
     try:
         print(f'Subscribing to {linked_str}{chat_link}')
+
+        count = app.get_chat_members_count(chat_link)
+        
+        if count > 1000:
+            raise ValueError('Chat is too large')
+        
         chat = app.join_chat(chat_link)
+
         print(chat)
+        
         print(f'Successfully subscribed to {linked_str}{chat.title}')
         
         # Write to chats_success.txt
@@ -88,6 +96,9 @@ def main():
         chat_link = entry["telegram_groups"][0]
         try:
             entry["myuser"] = me.id
+            # If successful, update the status
+            
+
             chat = subscribe_to_chat_with_retries(app, chat_link)
             if SUBSCRIBE_TO_LINKED_CHAT and chat.type.value != "supergroup" and chat.type.value != "group":
                 linked_chat = chat.linked_chat
@@ -104,9 +115,9 @@ def main():
                 entry["tgGroupJoined"] = "error: Can't send messages"
                 continue
 
-            # If successful, update the status
-            entry["tgGroupJoined"] = "success"
             
+
+            entry['mCount'] = 0; 
             sleep(3)
             telegram_group = entry["telegram_groups"][0] if entry["telegram_groups"][0] is not None else "Unknown"
             contract_address = entry["contract_address"] if entry["contract_address"] is not None else "Unknown"
