@@ -13610,21 +13610,30 @@
         "sourceScanned": "processed",
         "web_domains": [
             "zeroswap.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa90da9e3c71ddfcc2d793f80029acbd21a4a0db6",
         "sourceScanned": "processed",
         "web_domains": [
             "gagarin.world"
-        ]
+        ],
+        "telegram_groups": [
+            "GAGARIN_World_Support_Bot",
+            "gagarin_launchpad"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xcbe26335751158a102e32fc2dee68ec2bd861247",
         "sourceScanned": "processed",
         "web_domains": [
             "radiantride.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x066aee69d93dee28b32a57febd1878a2d94f6b0c",
@@ -13643,7 +13652,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "frax.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "fraxfinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd1bdfd8f597d1e5368af3fcc37a363d276f6f0b1",
@@ -13654,14 +13667,28 @@
         "sourceScanned": "processed",
         "web_domains": [
             "treedefi.com"
-        ]
+        ],
+        "telegram_groups": [
+            "treedefi"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb7b1f938a5639b57563515ef1a7b8d25ada188bd",
         "sourceScanned": "processed",
         "web_domains": [
             "dogeboo.com"
-        ]
+        ],
+        "telegram_groups": [
+            "dogeboochannel",
+            "Benyparker",
+            "lewishunt89",
+            "bootoshinakamoto",
+            "dogeboogroup",
+            "dogeboogroupchn",
+            "dogeboogroupid"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2ce4ae0e7d05bc6ec0c22cdf87ff899872c2cf7f",
@@ -13998,7 +14025,11 @@
         "sourceScanned": "processed",
         "web_domains": [
             "frax.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "fraxfinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0315415ed3e1725bf1df77fa442c07ccb2bb82b3",
