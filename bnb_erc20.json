@@ -14578,7 +14578,10 @@
     },
     {
         "contract_address": "0xd9c2d319cd7e6177336b0a9c93c21cb48d84fb54",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hapi.dev"
+        ]
     },
     {
         "contract_address": "0x6f8768ae9273473fc067943c55974cbfd2a8b6be",
@@ -14601,7 +14604,10 @@
     },
     {
         "contract_address": "0xbe0d3526fc797583dada3f30bc390013062a048b",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "plearnclub.com"
+        ]
     },
     {
         "contract_address": "0xe171d7b98a417dff859dbd7e57e6ac4b40990315",
@@ -14609,7 +14615,10 @@
     },
     {
         "contract_address": "0x16fdd1edb14ac4012395a0617a682d81595db486",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "veed.io"
+        ]
     },
     {
         "contract_address": "0xd4461661862943107fcc5c5f77ed9e74a76c7fa3",
@@ -14634,7 +14643,10 @@
     },
     {
         "contract_address": "0x40e51e0ec04283e300f12f6bb98da157bb22036e",
-        "sourceScanned": "processed"
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bloxmove.com"
+        ]
     },
     {
         "contract_address": "0x3db1bab27007349ccf55524f8ec20748bb1ce646",
