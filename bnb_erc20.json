@@ -8009,7 +8009,8 @@
         },
         "myuser": 6676616556,
         "mCount": 0,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "error: Telegram says: Telegram says: [400 USER_BANNED_IN_CHANNEL] - You are limited from sending messages in supergroups/channels, check @SpamBot for details (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0x3ac580e34f2f31bb605a116810b849eb015a2bf1",
@@ -9273,7 +9274,8 @@
             "bsc": 66596
         },
         "myuser": 6676616556,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "error: Proposal already sent to GGGDOG_ZH, skipping..."
     },
     {
         "contract_address": "0xde3dbbe30cfa9f437b293294d1fd64b26045c71a",
@@ -9321,7 +9323,8 @@
             "bsc": 253
         },
         "myuser": 6676616556,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "error: Telegram says: Telegram says: [400 USER_BANNED_IN_CHANNEL] - You are limited from sending messages in supergroups/channels, check @SpamBot for details (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0x4c2f1091bed7aecf208189538a64c6f75e5fd67f",
@@ -9550,7 +9553,8 @@
             "bsc": 277
         },
         "myuser": 6676616556,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "error: Telegram says: Telegram says: [400 USER_BANNED_IN_CHANNEL] - You are limited from sending messages in supergroups/channels, check @SpamBot for details (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0xfe2d3c882b4c0a76a2c34260fa4e079e3741919e",
@@ -9592,7 +9596,8 @@
             "bsc": 620
         },
         "myuser": 6676616556,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "error: Telegram says: Telegram says: [403 CHAT_WRITE_FORBIDDEN] - You don't have rights to send messages in this chat (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0xf766d7b73b221445b60e5187edbdb86ff1a4191e",
@@ -10071,7 +10076,8 @@
             "bsc": 5300
         },
         "myuser": 6676616556,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "tgProposalSent": "error: Telegram says: Telegram says: [403 CHAT_WRITE_FORBIDDEN] - You don't have rights to send messages in this chat (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0x3bb8b75ae92b16a6428962dd891a07974422a2a3",
@@ -21879,7 +21885,8 @@
         "processedGpt": true,
         "tgGroupJoined": "success",
         "p6": true,
-        "p8": true
+        "p8": true,
+        "tgProposalSent": "error: Telegram says: Telegram says: [400 USER_BANNED_IN_CHANNEL] - You are limited from sending messages in supergroups/channels, check @SpamBot for details (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0x752ef1f84e684f002bf7889364346eb70565dbf6",

@@ -2,7 +2,7 @@ name: 7 JoinTgGroups
 
 on:
   schedule:
-    - cron: '20 * * * *'  #run Temporary disabled this because we need to check something.
+    - cron: '0 0 1 * *'  #run Temporary disabled this because we need to check something.
   workflow_dispatch:  # Allows manual run
 
 jobs:
