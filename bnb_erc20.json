@@ -24377,7 +24377,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 53
-        }
+        },
+        "web_domains": [
+            "xpepe.site"
+        ]
     },
     {
         "contract_address": "0xf9d2a23798b428bd4bc43486ea8c49d6b49684d9",
@@ -24619,7 +24622,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 282
-        }
+        },
+        "web_domains": [
+            "openfort.xyz"
+        ]
     },
     {
         "contract_address": "0xdbe5110b85485c0c783ddd71e9efa45eeb43c677",
@@ -24804,7 +24810,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 64
-        }
+        },
+        "web_domains": [
+            "betswap.gg"
+        ]
     },
     {
         "contract_address": "0x7d608c468eb55c649d9d8d57e71bf8ca47e39ba3",
