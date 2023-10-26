@@ -75,7 +75,7 @@ def main():
     print(f"Found {len(chats_to_subscribe)} chats to subscribe to")
 
     # Limit to processing only 6 groups
-    chats_to_subscribe = chats_to_subscribe[:5]
+    chats_to_subscribe = chats_to_subscribe[:10]
     TELEGRAM_SESSION_STRING = os.environ.get('TELEGRAM_SESSION_STRING')
     
     if TELEGRAM_SESSION_STRING is None:
@@ -145,11 +145,13 @@ def main():
             print(f'Uncaught exception: {e}')
             entry["tgGroupJoined"] = f"error: {e}"
 
+        # Save the updated results
+        with open('bnb_erc20.json', 'w') as f:
+            json.dump(data, f, indent=4)
+
     app.stop()
 
-    # Save the updated results
-    with open('bnb_erc20.json', 'w') as f:
-        json.dump(data, f, indent=4)
+    
 
     print('All done!')
 
