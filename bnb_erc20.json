@@ -25754,7 +25754,9 @@
         },
         "web_domains": [
             "www.dripcommunity.website"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa2327da1c8a264561db1eae0ae4f2379da9c8dff",
@@ -25962,7 +25964,12 @@
         },
         "web_domains": [
             "bancor.network"
-        ]
+        ],
+        "telegram_groups": [
+            "bancor",
+            "BancorDevelopers"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x55905612d61ab880672900c413f28c50b2bea74b",
@@ -26389,7 +26396,11 @@
         },
         "web_domains": [
             "www.noku.io"
-        ]
+        ],
+        "telegram_groups": [
+            "nokuofficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x574a691d05eee825299024b2de584b208647e073",
@@ -26484,7 +26495,9 @@
         },
         "web_domains": [
             "youtube.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2bfa828ebb427ac0de0a86b6520e7ed6a85741d0",
@@ -26680,7 +26693,12 @@
         },
         "web_domains": [
             "soln.tech"
-        ]
+        ],
+        "telegram_groups": [
+            "Awakeningzs",
+            "soln_tech_token"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa4e57ea75f48d770e0a484921364d58653b56da8",
@@ -26964,7 +26982,9 @@
         },
         "web_domains": [
             "place-network.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3f8a14f5a3ee2f4a3ed61ccf5eea3c9535c090c8",
