@@ -30470,7 +30470,11 @@
         },
         "web_domains": [
             "venom.foundation"
-        ]
+        ],
+        "telegram_groups": [
+            "VenomFoundationOfficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc5c672df41c77d282d43b3b997102ebe2fc3d844",
@@ -30786,7 +30790,39 @@
         },
         "web_domains": [
             "gate.io"
-        ]
+        ],
+        "telegram_groups": [
+            "gateiokr",
+            "gateio_liquiditymining_cn",
+            "gateioapi",
+            "gateioUkrainian",
+            "gateio_copytrading",
+            "gateiohindi",
+            "Gateio_Brazil_Portugal",
+            "gateio_futures",
+            "Gateio_Turkiye",
+            "GateioJapanese",
+            "gateio_en",
+            "GateioOfficialNews",
+            "Gateio_Espanol",
+            "gateio_hodl_en",
+            "Gateio_Arabic",
+            "Gateio_Portuguese_chat",
+            "gateioetf",
+            "Gateio_Nigeria",
+            "GateioSpotMargin_Loan",
+            "Gateio_Bengal",
+            "gateio_vietnam",
+            "gate_zh",
+            "Gateio_Indonesia",
+            "gatethailand",
+            "Gateio_Indonesian",
+            "Gateio_Bengali",
+            "gateiorussiachat",
+            "gateiovietnamchat",
+            "Gateio_French"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xcb3346ad40c947a2228b2e224c3931a5224ba7ad",
@@ -31010,7 +31046,9 @@
         },
         "web_domains": [
             "wagmi.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x276e8f2a9d8ecb875af19b3c5313a60ac10506a7",
@@ -31020,7 +31058,9 @@
         },
         "web_domains": [
             "okratoken.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8ea43e15b1a616a19903f6a87498f7dca1efae0f",
@@ -31037,7 +31077,9 @@
         },
         "web_domains": [
             "pikachuinu.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x990e7154bb999faa9b2fa5ed29e822703311ea85",
