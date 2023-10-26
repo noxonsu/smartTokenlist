@@ -26334,7 +26334,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 211
-        }
+        },
+        "web_domains": [
+            "www.noku.io"
+        ]
     },
     {
         "contract_address": "0x574a691d05eee825299024b2de584b208647e073",
