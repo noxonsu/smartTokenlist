@@ -30467,7 +30467,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 128
-        }
+        },
+        "web_domains": [
+            "venom.foundation"
+        ]
     },
     {
         "contract_address": "0xc5c672df41c77d282d43b3b997102ebe2fc3d844",
@@ -30780,7 +30783,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 138
-        }
+        },
+        "web_domains": [
+            "gate.io"
+        ]
     },
     {
         "contract_address": "0xcb3346ad40c947a2228b2e224c3931a5224ba7ad",
