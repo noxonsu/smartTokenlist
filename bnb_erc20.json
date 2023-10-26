@@ -22513,7 +22513,12 @@
         },
         "web_domains": [
             "tradetomato.com"
-        ]
+        ],
+        "telegram_groups": [
+            "Tradetomatochat",
+            "tradetomato"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x83b34f3c7e13a3c70977701cea202fc2330c4e47",
@@ -22609,7 +22614,11 @@
         },
         "web_domains": [
             "layerzero.network"
-        ]
+        ],
+        "telegram_groups": [
+            "joinchat"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xab37bc3407f053f3f3e414c84781dcfdf546c695",
@@ -22622,7 +22631,8 @@
         },
         "web_domains": [
             "doge2k23.org"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa21f575e430044677bfbdff419f6855752883787",
@@ -22723,7 +22733,9 @@
         },
         "web_domains": [
             "themirrorprotocol.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xefb9d12407fce3744d157100614cc868f8e0a6d4",
@@ -22754,7 +22766,43 @@
         },
         "web_domains": [
             "moontok.io"
-        ]
+        ],
+        "telegram_groups": [
+            "moontok_group",
+            "BlastarPortal",
+            "HPOP8Inu",
+            "BorzoiETH",
+            "skull_doot_doot",
+            "PepeBarPortal",
+            "AnonSHIBA",
+            "dog_eth",
+            "rtx40020",
+            "memegangnamstyleeth",
+            "wallst_memes",
+            "DorkLordToken",
+            "RobloxOof",
+            "nullsocialfi",
+            "Moontok_Listing",
+            "lucky7_bsc",
+            "pepecoineth",
+            "cassiebsc",
+            "Doge1satellite",
+            "Moontok_Channel",
+            "BTCBTCBTCERC",
+            "haycoinerc",
+            "safepump_portal",
+            "babydogearmy",
+            "PokeBetsETH",
+            "dragun69bot",
+            "joecoinportal",
+            "BNB_Whales_Official",
+            "THEBULLRUNerc20",
+            "babydogecoin",
+            "OpiumERC",
+            "wenbullportal",
+            "TifaInuToken"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd9d2c0d861fb681f0c9479d2006a1a967db75a43",
@@ -22927,7 +22975,11 @@
         },
         "web_domains": [
             "moonpepe.xyz"
-        ]
+        ],
+        "telegram_groups": [
+            "moonpepearb"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x764af20983d0633957cdd2bfce5d8f6be765ca35",
