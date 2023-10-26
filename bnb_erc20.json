@@ -29917,7 +29917,9 @@
         },
         "web_domains": [
             "leasecake.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf35f1e3b0c7a8749c15e7cf567c223332adcf779",
@@ -29927,7 +29929,9 @@
         },
         "web_domains": [
             "sarahmeyohas.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe7a657fe082cd0ce7217c3572f013b37bd3503f0",
@@ -29986,7 +29990,11 @@
         },
         "web_domains": [
             "hechain.org"
-        ]
+        ],
+        "telegram_groups": [
+            "hechainportal"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9e6e263f8e94ba8cacc6ab6a15aec77d23d747bb",
@@ -30010,7 +30018,11 @@
         },
         "web_domains": [
             "blitzlabs.io"
-        ]
+        ],
+        "telegram_groups": [
+            "BlitzLabs"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xfb2c085a8b266b264ff0a38b9687ae14ef8a67fb",
@@ -30158,7 +30170,11 @@
         },
         "web_domains": [
             "doniinu.com"
-        ]
+        ],
+        "telegram_groups": [
+            "DoniInu"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9d1d1e6289ff160ebe6d52d498211b5cfe10803a",
