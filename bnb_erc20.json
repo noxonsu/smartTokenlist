@@ -22046,21 +22046,30 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 23
-        }
+        },
+        "web_domains": [
+            "pepa2.com"
+        ]
     },
     {
         "contract_address": "0xdce8f4bc298554193f2cc5acad0413cffad0f0ad",
         "sourceScanned": "processed",
         "holders": {
             "bsc": 59
-        }
+        },
+        "web_domains": [
+            "decentralx.io"
+        ]
     },
     {
         "contract_address": "0x64e4caf91e60b7258b18c397f1e0e1ec66507709",
         "sourceScanned": "processed",
         "holders": {
             "bsc": 219
-        }
+        },
+        "web_domains": [
+            "zebedee.io"
+        ]
     },
     {
         "contract_address": "0x2dbc6f5600b804e0229bfa31a31b4001e65aa494",
@@ -22144,7 +22153,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 40
-        }
+        },
+        "web_domains": [
+            "btcsmash.io"
+        ]
     },
     {
         "contract_address": "0x5a6a3d75aa7ad137ebf6e5c9f111fc7f05c804a4",
@@ -22323,7 +22335,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 34
-        }
+        },
+        "web_domains": [
+            "memebank-app.com"
+        ]
     },
     {
         "contract_address": "0xc17c30e98541188614df99239cabd40280810ca3",
@@ -22462,7 +22477,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 7
-        }
+        },
+        "web_domains": [
+            "thebittimes.com"
+        ]
     },
     {
         "contract_address": "0xe635325d4514ab49fdd0d7793603b3f46ce19008",
@@ -22476,7 +22494,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 232
-        }
+        },
+        "web_domains": [
+            "tradetomato.com"
+        ]
     },
     {
         "contract_address": "0x83b34f3c7e13a3c70977701cea202fc2330c4e47",
