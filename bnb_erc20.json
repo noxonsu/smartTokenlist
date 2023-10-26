@@ -27067,7 +27067,12 @@
         },
         "web_domains": [
             "vechain.org"
-        ]
+        ],
+        "telegram_groups": [
+            "VeChainDevCommunity",
+            "vechain_official_english"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6f9a57afdab2c14a4679508cf4d994061650ff31",
