@@ -31007,14 +31007,20 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 242
-        }
+        },
+        "web_domains": [
+            "wagmi.com"
+        ]
     },
     {
         "contract_address": "0x276e8f2a9d8ecb875af19b3c5313a60ac10506a7",
         "sourceScanned": "processed",
         "holders": {
             "bsc": 250
-        }
+        },
+        "web_domains": [
+            "okratoken.com"
+        ]
     },
     {
         "contract_address": "0x8ea43e15b1a616a19903f6a87498f7dca1efae0f",
@@ -31028,7 +31034,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 187
-        }
+        },
+        "web_domains": [
+            "pikachuinu.com"
+        ]
     },
     {
         "contract_address": "0x990e7154bb999faa9b2fa5ed29e822703311ea85",
