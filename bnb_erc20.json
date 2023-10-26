@@ -29590,7 +29590,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 244
-        }
+        },
+        "web_domains": [
+            "www.gamesverse.io"
+        ]
     },
     {
         "contract_address": "0x84c97300a190676a19d1e13115629a11f8482bd1",
@@ -29682,7 +29685,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 17
-        }
+        },
+        "web_domains": [
+            "oggyinus.com"
+        ]
     },
     {
         "contract_address": "0xeee21f698c0156931df22e51574fb64f6f240795",
@@ -29717,7 +29723,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 132
-        }
+        },
+        "web_domains": [
+            "memecoin.org"
+        ]
     },
     {
         "contract_address": "0xdeee31fdd659c56e671f390fccd5f8d30f10c450",
@@ -29827,14 +29836,20 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 44
-        }
+        },
+        "web_domains": [
+            "novacoin.org"
+        ]
     },
     {
         "contract_address": "0xc710863cff0c9721e5d992d00da8e169c1bf2103",
         "sourceScanned": "processed",
         "holders": {
             "bsc": 64
-        }
+        },
+        "web_domains": [
+            "cakebot.org"
+        ]
     },
     {
         "contract_address": "0xa5b75770ffbcac62aac621d57d7ce9f4ea60d7e7",
