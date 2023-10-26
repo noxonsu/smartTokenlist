@@ -26481,7 +26481,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 7
-        }
+        },
+        "web_domains": [
+            "youtube.com"
+        ]
     },
     {
         "contract_address": "0x2bfa828ebb427ac0de0a86b6520e7ed6a85741d0",
@@ -26674,7 +26677,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 43
-        }
+        },
+        "web_domains": [
+            "soln.tech"
+        ]
     },
     {
         "contract_address": "0xa4e57ea75f48d770e0a484921364d58653b56da8",
@@ -26955,7 +26961,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 225
-        }
+        },
+        "web_domains": [
+            "place-network.org"
+        ]
     },
     {
         "contract_address": "0x3f8a14f5a3ee2f4a3ed61ccf5eea3c9535c090c8",
