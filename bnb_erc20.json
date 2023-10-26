@@ -29851,7 +29851,9 @@
         },
         "web_domains": [
             "novacoin.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc710863cff0c9721e5d992d00da8e169c1bf2103",
@@ -29861,7 +29863,9 @@
         },
         "web_domains": [
             "cakebot.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa5b75770ffbcac62aac621d57d7ce9f4ea60d7e7",
