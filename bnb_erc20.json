@@ -23841,7 +23841,9 @@
         },
         "web_domains": [
             "radiancetoken.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x45084d4a76cccd805ed6a4909c6ef3612e964b70",
@@ -23921,7 +23923,11 @@
         },
         "web_domains": [
             "spreadai.it"
-        ]
+        ],
+        "telegram_groups": [
+            "spreadAI"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0ebd9537a25f56713e34c45b38f421a1e7191469",
@@ -24247,7 +24253,11 @@
         },
         "web_domains": [
             "magicyearn.io"
-        ]
+        ],
+        "telegram_groups": [
+            "magicyearn"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x29a5daf6e3fdf964def07706ea1abee7ec03d021",
@@ -24380,7 +24390,9 @@
         },
         "web_domains": [
             "xpepe.site"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf9d2a23798b428bd4bc43486ea8c49d6b49684d9",
@@ -24625,7 +24637,9 @@
         },
         "web_domains": [
             "openfort.xyz"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xdbe5110b85485c0c783ddd71e9efa45eeb43c677",
@@ -24813,7 +24827,9 @@
         },
         "web_domains": [
             "betswap.gg"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7d608c468eb55c649d9d8d57e71bf8ca47e39ba3",
