@@ -25103,7 +25103,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 69
-        }
+        },
+        "web_domains": [
+            "spookyz.org"
+        ]
     },
     {
         "contract_address": "0x519d50f32ae1c848bd7a13e2ee8db959d56a87e6",
@@ -25146,7 +25149,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 211
-        }
+        },
+        "web_domains": [
+            "www.popsocial.io"
+        ]
     },
     {
         "contract_address": "0xe8b6e636ac668376f8c956629965c262e563d6b7",
@@ -25181,7 +25187,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 230
-        }
+        },
+        "web_domains": [
+            "pixeldogsrock.com"
+        ]
     },
     {
         "contract_address": "0x6c4c4ab39eb128fc613dbb5c61b913d645b9d735",
@@ -25321,7 +25330,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 254
-        }
+        },
+        "web_domains": [
+            "gptdao.ai"
+        ]
     },
     {
         "contract_address": "0x5efe0d32f7129497cce3e371223f9aa569e023a9",
@@ -25349,21 +25361,30 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 118
-        }
+        },
+        "web_domains": [
+            "realsmurfpepe.fun"
+        ]
     },
     {
         "contract_address": "0xf11975d57acfc5b5a1a267a9fd1de282b31099ae",
         "sourceScanned": "processed",
         "holders": {
             "bsc": 177
-        }
+        },
+        "web_domains": [
+            "kevatpay.com"
+        ]
     },
     {
         "contract_address": "0x1f56c6f91d1155fa596cde36cbf0b2068b411bb4",
         "sourceScanned": "processed",
         "holders": {
             "bsc": 103
-        }
+        },
+        "web_domains": [
+            "epic.tech"
+        ]
     },
     {
         "contract_address": "0xb1ced2e320e3f4c8e3511b1dc59203303493f382",
