@@ -23159,7 +23159,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 43
-        }
+        },
+        "web_domains": [
+            "damri.org"
+        ]
     },
     {
         "contract_address": "0xda0c9c5a3440d2b839d1495a2723e51e1a93039e",
@@ -23232,7 +23235,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 123
-        }
+        },
+        "web_domains": [
+            "djpepe.tv"
+        ]
     },
     {
         "contract_address": "0x52e62e00f9f711877af723f4343ce5ee4694b360",
@@ -23333,7 +23339,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 161
-        }
+        },
+        "web_domains": [
+            "explorer.bhct.co.kr"
+        ]
     },
     {
         "contract_address": "0xb52575ce47c4534f7b0ba88acfba7546350197d8",
@@ -23375,7 +23384,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 70
-        }
+        },
+        "web_domains": [
+            "survivetheark.com"
+        ]
     },
     {
         "contract_address": "0xddffa49ba563be1fd69a535d9300c6977737f4a8",
@@ -23424,7 +23436,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 48
-        }
+        },
+        "web_domains": [
+            "twittok.com"
+        ]
     },
     {
         "contract_address": "0xcd33636a3543d3f539c353bc7eb79be0af54bebe",
