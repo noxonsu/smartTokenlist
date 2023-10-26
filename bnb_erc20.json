@@ -22590,7 +22590,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 9
-        }
+        },
+        "web_domains": [
+            "layerzero.network"
+        ]
     },
     {
         "contract_address": "0xab37bc3407f053f3f3e414c84781dcfdf546c695",
@@ -22600,7 +22603,10 @@
         ],
         "holders": {
             "bsc": 40
-        }
+        },
+        "web_domains": [
+            "doge2k23.org"
+        ]
     },
     {
         "contract_address": "0xa21f575e430044677bfbdff419f6855752883787",
@@ -22698,7 +22704,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 182
-        }
+        },
+        "web_domains": [
+            "themirrorprotocol.com"
+        ]
     },
     {
         "contract_address": "0xefb9d12407fce3744d157100614cc868f8e0a6d4",
@@ -22726,7 +22735,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 9
-        }
+        },
+        "web_domains": [
+            "moontok.io"
+        ]
     },
     {
         "contract_address": "0xd9d2c0d861fb681f0c9479d2006a1a967db75a43",
@@ -22896,7 +22908,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 45
-        }
+        },
+        "web_domains": [
+            "moonpepe.xyz"
+        ]
     },
     {
         "contract_address": "0x764af20983d0633957cdd2bfce5d8f6be765ca35",
@@ -22945,7 +22960,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 201
-        }
+        },
+        "web_domains": [
+            "www.marseillecoin.fr"
+        ]
     },
     {
         "contract_address": "0x609e17b8d6b084780f93ec69531a5e0238836aef",
