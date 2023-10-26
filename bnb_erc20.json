@@ -28814,7 +28814,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 129
-        }
+        },
+        "web_domains": [
+            "blablablock.com"
+        ]
     },
     {
         "contract_address": "0x47fb260e384c807c7f365f754239408cd1ff34f2",
@@ -29069,7 +29072,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 8
-        }
+        },
+        "web_domains": [
+            "xtrx.finance"
+        ]
     },
     {
         "contract_address": "0xa275fa12b1dad35b1a025634b6de9c90deb5b4d1",
@@ -29083,7 +29089,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 31
-        }
+        },
+        "web_domains": [
+            "atpbot.com"
+        ]
     },
     {
         "contract_address": "0xd2c28b57e7d825471be41216d0b6584826968231",
