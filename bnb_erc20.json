@@ -22049,7 +22049,11 @@
         },
         "web_domains": [
             "pepa2.com"
-        ]
+        ],
+        "telegram_groups": [
+            "pepa2global"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdce8f4bc298554193f2cc5acad0413cffad0f0ad",
@@ -22059,7 +22063,9 @@
         },
         "web_domains": [
             "decentralx.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x64e4caf91e60b7258b18c397f1e0e1ec66507709",
@@ -22069,7 +22075,9 @@
         },
         "web_domains": [
             "zebedee.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2dbc6f5600b804e0229bfa31a31b4001e65aa494",
@@ -22156,7 +22164,9 @@
         },
         "web_domains": [
             "btcsmash.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x5a6a3d75aa7ad137ebf6e5c9f111fc7f05c804a4",
@@ -22338,7 +22348,9 @@
         },
         "web_domains": [
             "memebank-app.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc17c30e98541188614df99239cabd40280810ca3",
@@ -22480,7 +22492,11 @@
         },
         "web_domains": [
             "thebittimes.com"
-        ]
+        ],
+        "telegram_groups": [
+            "thebittimeschannel"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe635325d4514ab49fdd0d7793603b3f46ce19008",
