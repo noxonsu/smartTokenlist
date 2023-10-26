@@ -27044,7 +27044,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 165
-        }
+        },
+        "web_domains": [
+            "vechain.org"
+        ]
     },
     {
         "contract_address": "0x6f9a57afdab2c14a4679508cf4d994061650ff31",
