@@ -47,7 +47,7 @@ def subscribe_to_chat_with_retries(app, chat_link, linked=False) -> types.Chat |
         count = app.get_chat_members_count(chat_link)
         
         if count > 1000:
-            raise ValueError('Chat is too large')
+            raise ValueError('Chat is too large'+str(count))
         
         chat = app.join_chat(chat_link)
 
@@ -81,8 +81,7 @@ def main():
     if TELEGRAM_SESSION_STRING is None:
         app = Client("TgSession", in_memory=True, api_id=TELEGRAM_API_ID, api_hash=TELEGRAM_API_HASH)
         app.start()
-        print("save TELEGRAM_SESSION_STRING session string to env: ")
-        print(app.export_session_string())
+        print("save TELEGRAM_SESSION_STRING="+app.export_session_string())
         return False
 
     app = Client('TgSession', session_string=TELEGRAM_SESSION_STRING, api_id=TELEGRAM_API_ID, api_hash=TELEGRAM_API_HASH)
@@ -116,8 +115,7 @@ def main():
                 continue
 
             
-
-            entry['mCount'] = 0; 
+            entry["tgGroupJoined"] = "success"    
             sleep(3)
             telegram_group = entry["telegram_groups"][0] if entry["telegram_groups"][0] is not None else "Unknown"
             contract_address = entry["contract_address"] if entry["contract_address"] is not None else "Unknown"
