@@ -25468,14 +25468,20 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 44
-        }
+        },
+        "web_domains": [
+            "cleantheworld.org"
+        ]
     },
     {
         "contract_address": "0x82b8135a610ccdaa62e433946283cbef2407625e",
         "sourceScanned": "processed",
         "holders": {
             "bsc": 248
-        }
+        },
+        "web_domains": [
+            "www.kine.io"
+        ]
     },
     {
         "contract_address": "0x78748df2e11a84e0d105af82dbf0160e999d3f55",
@@ -25510,7 +25516,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 35
-        }
+        },
+        "web_domains": [
+            "www.webai.com"
+        ]
     },
     {
         "contract_address": "0x3fab5d674b9f9e745ac0710bb612209acebbd74d",
@@ -25524,7 +25533,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 48
-        }
+        },
+        "web_domains": [
+            "baseconnect.com"
+        ]
     },
     {
         "contract_address": "0xd600e5cd8de52e492facfa511b87b02a67d93b7e",
@@ -25619,7 +25631,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 44
-        }
+        },
+        "web_domains": [
+            "hackclub.com"
+        ]
     },
     {
         "contract_address": "0xeede267e14b5b389778148c1a22375ae55f8de71",
@@ -25684,7 +25699,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 2
-        }
+        },
+        "web_domains": [
+            "www.dripcommunity.website"
+        ]
     },
     {
         "contract_address": "0xa2327da1c8a264561db1eae0ae4f2379da9c8dff",
@@ -25889,7 +25907,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 194
-        }
+        },
+        "web_domains": [
+            "bancor.network"
+        ]
     },
     {
         "contract_address": "0x55905612d61ab880672900c413f28c50b2bea74b",
