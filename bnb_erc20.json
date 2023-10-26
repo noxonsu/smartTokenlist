@@ -27855,7 +27855,11 @@
         },
         "web_domains": [
             "evereth.net"
-        ]
+        ],
+        "telegram_groups": [
+            "EverETHofficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x53030e9142d852f5b07443e485b2e42bc3603779",
@@ -27934,7 +27938,9 @@
         },
         "web_domains": [
             "forge.gg"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb83a221bb676c6a6b2ef0c4e9e8ecf972485c51b",
@@ -28102,7 +28108,12 @@
         },
         "web_domains": [
             "anonshiba.xyz"
-        ]
+        ],
+        "telegram_groups": [
+            "anonsniper_bot",
+            "AnonSHIBA"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x445693441bf842deaa447a01294ab347e5c895bb",
@@ -28276,7 +28287,18 @@
         },
         "web_domains": [
             "nomiswap.io"
-        ]
+        ],
+        "telegram_groups": [
+            "nominex_announcements",
+            "nominex_news_spanish",
+            "NominexExchange",
+            "NominexIndian",
+            "NominexSpanish",
+            "nominex_news_ru",
+            "NominexRussian",
+            "NominexTurkish"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x11fea412f4cad3baaaceddac44d73abaf0dd4485",
