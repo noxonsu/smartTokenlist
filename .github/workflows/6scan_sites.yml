@@ -2,7 +2,7 @@ name: 6load summaries and tg
 
 on:
   schedule:
-    - cron: '10 * * * *'  #run 
+    - cron: '10 */2 * 1 1'  #run 
   workflow_dispatch:  # Allows manual run
 
 jobs:
