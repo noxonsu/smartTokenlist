@@ -43,8 +43,16 @@ def subscribe_to_chat_with_retries(app, chat_link, linked=False) -> types.Chat |
     linked_str = "linked chat " if linked else ""
     try:
         print(f'Subscribing to {linked_str}{chat_link}')
+
+        count = app.get_chat_members_count(chat_link)
+        
+        if count > 1000:
+            raise ValueError('Chat is too large'+str(count))
+        
         chat = app.join_chat(chat_link)
+
         print(chat)
+        
         print(f'Successfully subscribed to {linked_str}{chat.title}')
         
         # Write to chats_success.txt
@@ -67,14 +75,13 @@ def main():
     print(f"Found {len(chats_to_subscribe)} chats to subscribe to")
 
     # Limit to processing only 6 groups
-    chats_to_subscribe = chats_to_subscribe[:5]
+    chats_to_subscribe = chats_to_subscribe[:10]
     TELEGRAM_SESSION_STRING = os.environ.get('TELEGRAM_SESSION_STRING')
     
     if TELEGRAM_SESSION_STRING is None:
         app = Client("TgSession", in_memory=True, api_id=TELEGRAM_API_ID, api_hash=TELEGRAM_API_HASH)
         app.start()
-        print("save TELEGRAM_SESSION_STRING session string to env: ")
-        print(app.export_session_string())
+        print("save TELEGRAM_SESSION_STRING="+app.export_session_string())
         return False
 
     app = Client('TgSession', session_string=TELEGRAM_SESSION_STRING, api_id=TELEGRAM_API_ID, api_hash=TELEGRAM_API_HASH)
@@ -88,6 +95,9 @@ def main():
         chat_link = entry["telegram_groups"][0]
         try:
             entry["myuser"] = me.id
+            # If successful, update the status
+            
+
             chat = subscribe_to_chat_with_retries(app, chat_link)
             if SUBSCRIBE_TO_LINKED_CHAT and chat.type.value != "supergroup" and chat.type.value != "group":
                 linked_chat = chat.linked_chat
@@ -104,9 +114,8 @@ def main():
                 entry["tgGroupJoined"] = "error: Can't send messages"
                 continue
 
-            # If successful, update the status
-            entry["tgGroupJoined"] = "success"
             
+            entry["tgGroupJoined"] = "success"    
             sleep(3)
             telegram_group = entry["telegram_groups"][0] if entry["telegram_groups"][0] is not None else "Unknown"
             contract_address = entry["contract_address"] if entry["contract_address"] is not None else "Unknown"
@@ -136,11 +145,13 @@ def main():
             print(f'Uncaught exception: {e}')
             entry["tgGroupJoined"] = f"error: {e}"
 
+        # Save the updated results
+        with open('bnb_erc20.json', 'w') as f:
+            json.dump(data, f, indent=4)
+
     app.stop()
 
-    # Save the updated results
-    with open('bnb_erc20.json', 'w') as f:
-        json.dump(data, f, indent=4)
+    
 
     print('All done!')
 

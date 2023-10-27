@@ -3,7 +3,7 @@ import json
 import re
 import time
 from requests import get
-
+from utils import *
 BNBSCAN_API_KEY = os.environ.get("BNBSCAN_API_KEY")
 BNBSCAN_BASE_URL = "https://api.bscscan.com/api"
 
@@ -75,6 +75,9 @@ def main():
                 
                 # Update the contract data
                 contract["sourceScanned"] = "processed"
+
+                
+
                 contract.update(extracted_data)
 
                 if "web_domains" in extracted_data:
@@ -83,6 +86,10 @@ def main():
             # If there was an error or no source code
             else:
                 contract["sourceScanned"] = "failed"
+
+            holders_count = get_holders_count(contract['contract_address'])
+
+            contract['holders'] = {"bsc": holders_count}
 
             # Save the updated data in each iteration
             with open("bnb_erc20.json", "w") as f:

@@ -8,13 +8,23 @@ import os
 from langchain.chat_models import ChatOpenAI
 from bs4 import BeautifulSoup
 import re
+from utils import *
+
 
 def load_data_from_file(filename):
     with open(filename, "r") as f:
         return json.load(f)
 
 def filter_sites_without_summary(data):
-    return [(entry['web_domains'][0], entry['contract_address']) for entry in data if not entry.get('processedGpt') and not entry.get('p6') and entry.get('web_domains')]
+    return [
+        (entry['web_domains'][0], entry['contract_address'])
+        for entry in data 
+        if not entry.get('processedGpt') and 
+        not entry.get('p6') and 
+        entry.get('web_domains') and
+        entry.get('holders') and 
+        entry['holders'].get('bsc', float('inf')) < 1000  # This line ensures the 'bsc' count is less than 1000
+    ]
 
 def extract_content(site):
     loader = AsyncChromiumLoader(["https://"+site])

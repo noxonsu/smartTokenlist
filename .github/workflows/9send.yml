@@ -1,0 +1,46 @@
+name: 9sendProposal.py
+
+on:
+  schedule:
+    - cron: '35 0 1 * *'  #run 
+  workflow_dispatch:  # Allows manual run
+
+jobs:
+  run-scripts:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+    - name: Check if TELEGRAM_SESSION_STRING is set
+      run: |
+        if [ -z "${{ secrets.TELEGRAM_SESSION_STRING }}" ]; then
+          echo "TELEGRAM_SESSION_STRING is not set!"
+          exit 1
+        else
+          echo "TELEGRAM_SESSION_STRING is set!"
+        fi
+    - name: Install dependencies
+      run: |
+        pip install pyrogram
+
+    - name: Run join python script
+      env:
+        TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
+        TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
+        TELEGRAM_SESSION_STRING: ${{ secrets.TELEGRAM_SESSION_STRING }}
+      run: python 9sendProposal.py
+      
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "GitHub Action"
+        git config --global user.email "action@github.com"
+        git pull
+        git add -A
+        git diff --cached --exit-code || git commit -m "Automated update from GitHub Actions ($GITHUB_WORKFLOW)"
+        git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git || echo "No changes to commit"

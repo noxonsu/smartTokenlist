@@ -2,7 +2,7 @@ name: Search Bnb20 tokens and scan source for sites
 
 on:
   schedule:
-    - cron: '0 */2 * 1 1' # 
+    - cron: '0 */2 * * *' # 
   workflow_dispatch:  # Allows manual run
 
 jobs:
@@ -23,7 +23,7 @@ jobs:
         pip install requests
 
     - name: Run searchErcFromLastTransfers3.py
-      run: DUNE_API_KEY=${{ secrets.DUNE_API_KEY }} python searchErcFromLastTransfers3.py
+      run: DUNE_API_KEY=${{ secrets.DUNE_API_KEY }} python 4searchErcFromLastTransfers3.py
  
     - name: Run ScanBnberc20.py
       run: BNBSCAN_API_KEY=${{ secrets.BNBSCAN_API_KEY }} python 4ScanBnberc20.py
