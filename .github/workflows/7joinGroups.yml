@@ -2,7 +2,7 @@ name: 7 JoinTgGroups
 
 on:
   schedule:
-    - cron: '20 */2 * 1 1'  #run Temporary disabled this because we need to check something.
+    - cron: '20 */2 * * *'  #run Temporary disabled this because we need to check something.
   workflow_dispatch:  # Allows manual run
 
 jobs:
@@ -16,7 +16,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.x'
+        python-version: '3.11.6'
     - name: Check if TELEGRAM_SESSION_STRING is set
       run: |
         if [ -z "${{ secrets.TELEGRAM_SESSION_STRING }}" ]; then

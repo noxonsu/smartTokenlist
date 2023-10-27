@@ -2,7 +2,7 @@ name: 8 prepare proposals
 
 on:
   schedule:
-    - cron: '30 */2 * 1 1'  #run 
+    - cron: '30 * * * *'  #run 
   workflow_dispatch:  # Allows manual run
 
 jobs:
@@ -16,7 +16,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.x'
+        python-version: '3.11.6'
     - name: Check if OPENAI_API_KEY is set
       run: |
         if [ -z "${{ secrets.OPENAI_API_KEY }}" ]; then
