@@ -28385,7 +28385,9 @@
         "p8": true,
         "holders": {
             "bsc": 209
-        }
+        },
+        "myuser": 6676616556,
+        "tgGroupJoined": "error: Chat is too large1370"
     },
     {
         "contract_address": "0x69a3bc126395d0cdbec8b3562a9e35e77e6fd8a9",
@@ -28505,7 +28507,9 @@
             "anonsniper_bot",
             "AnonSHIBA"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6676616556,
+        "tgGroupJoined": "error: The chat_id \"anonsniper_bot\" belongs to a user"
     },
     {
         "contract_address": "0x445693441bf842deaa447a01294ab347e5c895bb",
@@ -28528,7 +28532,9 @@
         "p8": true,
         "holders": {
             "bsc": 3034
-        }
+        },
+        "myuser": 6676616556,
+        "tgGroupJoined": "error: Chat is too large1908"
     },
     {
         "contract_address": "0xb695be19d2e3bda1e0d23e80e3e67fc9bdc89c7f",
@@ -28690,7 +28696,9 @@
             "NominexRussian",
             "NominexTurkish"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6676616556,
+        "tgGroupJoined": "error: Chat is too large5139"
     },
     {
         "contract_address": "0x11fea412f4cad3baaaceddac44d73abaf0dd4485",
@@ -28892,7 +28900,9 @@
         "p8": true,
         "holders": {
             "bsc": 1059
-        }
+        },
+        "myuser": 6676616556,
+        "tgGroupJoined": "error: Chat is too large11520"
     },
     {
         "contract_address": "0xec7147d1a703615b3f4a48157f0bcb6245cd741f",
@@ -28991,7 +29001,9 @@
         "p8": true,
         "holders": {
             "bsc": 1141
-        }
+        },
+        "myuser": 6676616556,
+        "tgGroupJoined": "error: Chat is too large21963"
     },
     {
         "contract_address": "0x77edfae59a7948d66e9911a30cc787d2172343d4",
@@ -30011,7 +30023,9 @@
         "telegram_groups": [
             "solidearn_org"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6676616556,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0xaaaafdc2e08371b956be515b3f3ff735ab9c9d74",
@@ -30023,7 +30037,9 @@
             "azbit_com",
             "azbit_news"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6676616556,
+        "tgGroupJoined": "error: Chat is too large21766"
     },
     {
         "contract_address": "0xf6a3d7fdb93825b0e137dccbd0ead8ce4f169b34",
@@ -30191,7 +30207,9 @@
             "Ellipsis_CN",
             "ellipsisfinance"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6676616556,
+        "tgGroupJoined": "needhuman"
     },
     {
         "contract_address": "0x9f5ed0310631a19187b53591a5b9b26c6da91329",
