@@ -13069,7 +13069,8 @@
             "accu.org"
         ],
         "telegram_groups": [],
-        "processedGpt": true
+        "processedGpt": true,
+        "p6": true
     },
     {
         "contract_address": "0x78f5d389f5cdccfc41594abab4b0ed02f31398b3",
@@ -32991,7 +32992,8 @@
         ],
         "holders": {
             "bsc": 635
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xeecd101725b89b66f3e04f953ae0bb647c23fb8d",
@@ -33008,7 +33010,9 @@
         },
         "web_domains": [
             "shardeumai.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9103a4d877243e11616db50998270db37fd96ab7",
@@ -33087,7 +33091,9 @@
         },
         "web_domains": [
             "uptober.fun"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb47e066d7bf5676caf2b34cbec9175c040733c26",
@@ -33097,7 +33103,9 @@
         ],
         "holders": {
             "bsc": 4
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa3870fbbeb730ba99e4107051612af3465ca9f5e",
