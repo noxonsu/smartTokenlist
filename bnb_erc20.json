@@ -32417,7 +32417,9 @@
         },
         "web_domains": [
             "aibonk.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xad69bba2b511be5ba1862fb1cc44e04d38666666",
@@ -32479,7 +32481,8 @@
         ],
         "holders": {
             "bsc": 124
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7ec6531378f47ee7af544638a028e4f1d98ac53f",
