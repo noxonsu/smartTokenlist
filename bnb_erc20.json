@@ -32792,14 +32792,20 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 47
-        }
+        },
+        "web_domains": [
+            "thecoolcatcooler.com"
+        ]
     },
     {
         "contract_address": "0x0ac53d88be34d139dffdd5b875bb23744cbb132c",
         "sourceScanned": "processed",
         "holders": {
             "bsc": 135
-        }
+        },
+        "web_domains": [
+            "ameta.games"
+        ]
     },
     {
         "contract_address": "0x5150404c61706b6874cf43dc34c9ca88daa5f9e3",
@@ -32850,7 +32856,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 37
-        }
+        },
+        "web_domains": [
+            "dexscreener.com"
+        ]
     },
     {
         "contract_address": "0x6a67b5d14b19828f36db5c128da2a1826d2618de",
