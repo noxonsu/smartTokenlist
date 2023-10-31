@@ -26,7 +26,10 @@ jobs:
       run: DUNE_API_KEY=${{ secrets.DUNE_API_KEY }} python 4searchErcFromLastTransfers3.py
  
     - name: Run ScanBnberc20.py
-      run: BNBSCAN_API_KEY=${{ secrets.BNBSCAN_API_KEY }} python 4ScanBnberc20.py
+      env:
+        BNBSCAN_API_KEY: ${{ secrets.BNBSCAN_API_KEY }}
+        CHAINBASE_API: ${{ secrets.CHAINBASE_API }}
+      run: python 4ScanBnberc20.py
       
     - name: Commit and push changes
       run: |
