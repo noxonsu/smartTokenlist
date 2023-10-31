@@ -8833,7 +8833,8 @@
             "www.metacrypt.org"
         ],
         "telegram_groups": [],
-        "processedGpt": true
+        "processedGpt": true,
+        "p6": true
     },
     {
         "contract_address": "0x5f320c3b8f82acfe8f2bb1c85d63aa66a7ff524f",
@@ -15608,7 +15609,8 @@
             "www.createmytoken.com"
         ],
         "telegram_groups": [],
-        "processedGpt": true
+        "processedGpt": true,
+        "p6": true
     },
     {
         "contract_address": "0xe4ca1f75eca6214393fce1c1b316c237664eaa8e",
@@ -32611,7 +32613,8 @@
         ],
         "holders": {
             "bsc": 55
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc2f5bee51ba7244cbbcb304d8e723761817b34af",
@@ -32658,7 +32661,9 @@
         ],
         "holders": {
             "bsc": 114
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xbb368656efa67361b0063fe0f11cb08bd460246d",
@@ -32699,7 +32704,8 @@
         ],
         "holders": {
             "bsc": 5
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa57cb2a066b3922cbe5f2787fa8cda7ccce283f5",
@@ -32737,6 +32743,11 @@
         },
         "web_domains": [
             "wesendit.io"
-        ]
+        ],
+        "telegram_groups": [
+            "wesenditde",
+            "wesenditcom"
+        ],
+        "p6": true
     }
 ]
