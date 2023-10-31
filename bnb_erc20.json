@@ -32795,7 +32795,9 @@
         },
         "web_domains": [
             "thecoolcatcooler.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0ac53d88be34d139dffdd5b875bb23744cbb132c",
@@ -32805,7 +32807,9 @@
         },
         "web_domains": [
             "ameta.games"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x5150404c61706b6874cf43dc34c9ca88daa5f9e3",
@@ -32832,7 +32836,9 @@
         ],
         "holders": {
             "bsc": 46
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x856c178069837adef807200b4f80c9c06cf61c1a",
@@ -32859,7 +32865,9 @@
         },
         "web_domains": [
             "dexscreener.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6a67b5d14b19828f36db5c128da2a1826d2618de",
@@ -32886,7 +32894,8 @@
         ],
         "holders": {
             "bsc": 111
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7e2a35c746f2f7c240b664f1da4dd100141ae71f",
