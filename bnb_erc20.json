@@ -32414,7 +32414,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 18
-        }
+        },
+        "web_domains": [
+            "aibonk.com"
+        ]
     },
     {
         "contract_address": "0xad69bba2b511be5ba1862fb1cc44e04d38666666",
