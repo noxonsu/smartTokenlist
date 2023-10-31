@@ -31936,7 +31936,11 @@
         },
         "web_domains": [
             "fasttoken.com"
-        ]
+        ],
+        "telegram_groups": [
+            "fasttoken_eng"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xfb76ea75b3eadbdc1ccd589928cbdeaf3a2317b8",
@@ -31981,7 +31985,9 @@
         },
         "web_domains": [
             "docs.biswap.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8a8cd4a8aec7563400be156e2499f85a81b4dccc",
