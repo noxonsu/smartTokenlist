@@ -32339,7 +32339,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 272
-        }
+        },
+        "web_domains": [
+            "swashapp.io"
+        ]
     },
     {
         "contract_address": "0xacfc95585d80ab62f67a14c566c1b7a49fe91167",
