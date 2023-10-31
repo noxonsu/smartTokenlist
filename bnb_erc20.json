@@ -31933,7 +31933,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 126
-        }
+        },
+        "web_domains": [
+            "fasttoken.com"
+        ]
     },
     {
         "contract_address": "0xfb76ea75b3eadbdc1ccd589928cbdeaf3a2317b8",
@@ -31975,7 +31978,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 34
-        }
+        },
+        "web_domains": [
+            "docs.biswap.org"
+        ]
     },
     {
         "contract_address": "0x8a8cd4a8aec7563400be156e2499f85a81b4dccc",
