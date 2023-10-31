@@ -31688,7 +31688,9 @@
         "holders": {
             "bsc": 260
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xbf11caa0d9856c82198e0b5c8af4e5212e7550cc",
@@ -31807,7 +31809,9 @@
         "holders": {
             "bsc": 172
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x0505a21caab04b6f82aefcc7f63694c3031bd77c",
@@ -31940,7 +31944,9 @@
         "telegram_groups": [
             "fasttoken_eng"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large24486"
     },
     {
         "contract_address": "0xfb76ea75b3eadbdc1ccd589928cbdeaf3a2317b8",
