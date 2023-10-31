@@ -32079,7 +32079,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 209
-        }
+        },
+        "web_domains": [
+            "kangaroocommunity.com"
+        ]
     },
     {
         "contract_address": "0x82de648b71825ad3bc1347c39ee13daa74ff80a5",
