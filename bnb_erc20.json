@@ -33005,7 +33005,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 20
-        }
+        },
+        "web_domains": [
+            "shardeumai.com"
+        ]
     },
     {
         "contract_address": "0x9103a4d877243e11616db50998270db37fd96ab7",
@@ -33081,7 +33084,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 106
-        }
+        },
+        "web_domains": [
+            "uptober.fun"
+        ]
     },
     {
         "contract_address": "0xb47e066d7bf5676caf2b34cbec9175c040733c26",
