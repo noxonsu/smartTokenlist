@@ -31687,7 +31687,8 @@
         ],
         "holders": {
             "bsc": 260
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xbf11caa0d9856c82198e0b5c8af4e5212e7550cc",
@@ -31805,7 +31806,8 @@
         ],
         "holders": {
             "bsc": 172
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0505a21caab04b6f82aefcc7f63694c3031bd77c",
