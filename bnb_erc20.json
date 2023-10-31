@@ -32055,7 +32055,8 @@
         ],
         "holders": {
             "bsc": 907
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2c98b11d0822ddd1c6105a984b1c0c4479bb5fbd",
@@ -32082,7 +32083,11 @@
         },
         "web_domains": [
             "kangaroocommunity.com"
-        ]
+        ],
+        "telegram_groups": [
+            "kangaroo_kroo"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x82de648b71825ad3bc1347c39ee13daa74ff80a5",
@@ -32179,7 +32184,9 @@
         ],
         "holders": {
             "bsc": 8
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb683343b6983ec9e984d41d774c4fac06487aef8",
