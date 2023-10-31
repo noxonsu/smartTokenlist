@@ -32484,7 +32484,9 @@
         "holders": {
             "bsc": 124
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x7ec6531378f47ee7af544638a028e4f1d98ac53f",
@@ -32614,7 +32616,9 @@
         "holders": {
             "bsc": 55
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xc2f5bee51ba7244cbbcb304d8e723761817b34af",
@@ -32705,7 +32709,9 @@
         "holders": {
             "bsc": 5
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xa57cb2a066b3922cbe5f2787fa8cda7ccce283f5",
@@ -32748,6 +32754,8 @@
             "wesenditde",
             "wesenditcom"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large3073"
     }
 ]
