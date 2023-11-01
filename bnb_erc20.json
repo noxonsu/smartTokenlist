@@ -33978,7 +33978,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 24
-        }
+        },
+        "web_domains": [
+            "gamerhub.io"
+        ]
     },
     {
         "contract_address": "0x7a613837e09c3aeec8e13b01d4ec38c0b96a4086",
