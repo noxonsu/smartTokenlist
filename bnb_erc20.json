@@ -34442,7 +34442,9 @@
         ],
         "holders": {
             "bsc": 36
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x75d2c42a748c59e96a29584202bb035cd01f3ea0",
@@ -34455,15 +34457,16 @@
         "contract_address": "0xb90b91633e43c15d4e339122ea9f5f5354330c76",
         "sourceScanned": "processed",
         "telegram_groups": [
-            "GGGDOG_EN",
-            "GGGDOG_ZH"
+            "GGGDOG_ZH",
+            "GGGDOG_EN"
         ],
         "holders": {
             "bsc": 160
         },
         "web_domains": [
             "tokenzilla.xyz"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9c4a515cd72d27a4710571aca94858a53d9278d5",
@@ -34511,7 +34514,8 @@
         ],
         "holders": {
             "bsc": 541
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x465e283f25a297c2ac1a171e6d068be9d4eb57c4",
@@ -34561,11 +34565,13 @@
             "boostscoregames.com"
         ],
         "telegram_groups": [
+            "boostscoregamesportal",
             "Boostscoregamesportal"
         ],
         "holders": {
             "bsc": 113
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd39a0fc1bce46db79a466320b5bc662ac4ba5628",
@@ -34589,13 +34595,16 @@
             "bullsprotocol.com"
         ],
         "telegram_groups": [
-            "ConfinamentoTokenOficial",
+            "confinamentotopicos",
+            "italo_blockchain",
+            "confinamentotokenoficial",
             "HenriqueLA",
-            "italo_blockchain"
+            "ConfinamentoTokenOficial"
         ],
         "holders": {
             "bsc": 367
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf86932bdb9fb94752d08b2653b000501d6cfd819",
