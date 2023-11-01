@@ -33192,7 +33192,9 @@
         "telegram_groups": [
             "spookypepeBSC"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xcfbe1c0514cfee3e3730f6b8aeec76cf11577777",
@@ -33272,7 +33274,9 @@
         "telegram_groups": [
             "metadogeinu_en"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't find chat"
     },
     {
         "contract_address": "0xe4192e5b07f0aba7f1b250e9e24d5eb7802f4e1e",
@@ -33302,12 +33306,14 @@
             "athreum.com"
         ],
         "telegram_groups": [
-            "Athreum"
+            null
         ],
         "holders": {
             "bsc": 316
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: '<' not supported between instances of 'NoneType' and 'int'"
     },
     {
         "contract_address": "0x3b66457ae9410cb07e631a8a20f49d53a567dc29",
