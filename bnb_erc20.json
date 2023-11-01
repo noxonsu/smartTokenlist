@@ -33354,7 +33354,11 @@
         },
         "web_domains": [
             "firmseed.io"
-        ]
+        ],
+        "telegram_groups": [
+            "Firmseed"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9e7a9221985e89f20d307e8110dbafedb0b4c322",
@@ -33444,7 +33448,9 @@
         ],
         "holders": {
             "bsc": 24
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xbcb24afb019be7e93ea9c43b7e22bb55d5b7f45d",
