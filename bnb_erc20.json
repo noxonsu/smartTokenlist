@@ -34684,7 +34684,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 93
-        }
+        },
+        "web_domains": [
+            "pepejohnsbsc.io"
+        ]
     },
     {
         "contract_address": "0x3ade350e05f631f946b6d2b1a2deaaf95dcb243a",
