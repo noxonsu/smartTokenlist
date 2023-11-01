@@ -33748,7 +33748,9 @@
         "telegram_groups": [
             "babykittencoin"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x8443f091997f06a61670b735ed92734f5628692f",
@@ -33861,7 +33863,9 @@
         "telegram_groups": [
             "Ethereum_Express_Group"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large193127"
     },
     {
         "contract_address": "0x85e7566e1b527ef2c9eb6414eba27865b6c0bfee",
@@ -33924,7 +33928,9 @@
         "holders": {
             "bsc": 5858
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large6194"
     },
     {
         "contract_address": "0x9e4143f0cd510cbfed3597885e349309f029bc7b",
@@ -33938,7 +33944,9 @@
         "holders": {
             "bsc": 488
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large6194"
     },
     {
         "contract_address": "0x99f9e74dad34c5a7f7dd13acfe6491f88c9d5870",
@@ -34062,7 +34070,9 @@
         "holders": {
             "bsc": 992
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large1880"
     },
     {
         "contract_address": "0x7bbd911adc3084782f61b886714d35d99d1539f7",
