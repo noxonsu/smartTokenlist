@@ -33744,7 +33744,11 @@
         },
         "web_domains": [
             "babykittencoin.com"
-        ]
+        ],
+        "telegram_groups": [
+            "babykittencoin"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8443f091997f06a61670b735ed92734f5628692f",
@@ -33853,7 +33857,11 @@
         },
         "web_domains": [
             "www.ethereumexpress.net"
-        ]
+        ],
+        "telegram_groups": [
+            "Ethereum_Express_Group"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x85e7566e1b527ef2c9eb6414eba27865b6c0bfee",
