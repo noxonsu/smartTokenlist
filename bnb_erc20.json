@@ -34837,7 +34837,8 @@
         ],
         "holders": {
             "bsc": 115
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xca39370ab6cf858343cea824a1c784964e5bf247",
@@ -34853,7 +34854,8 @@
         ],
         "holders": {
             "bsc": 161
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6293db05d4a66bf1712e134f714fd9b9780b87b4",
@@ -34894,7 +34896,8 @@
         ],
         "holders": {
             "bsc": 1037
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7961ade0a767c0e5b67dd1a1f78ba44f727642ed",
@@ -34914,14 +34917,17 @@
         "contract_address": "0x3e3ae9f1c8905b026ea069e4d238e05731c96be2",
         "sourceScanned": "processed",
         "telegram_groups": [
-            "InuKishuBsc"
+            "InuKishuBsc",
+            "KishuInuCommunity",
+            "kishuinucommunity"
         ],
         "holders": {
             "bsc": 34
         },
         "web_domains": [
             "kishu.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9cd9c5a44cb8fab39b2ee3556f5c439e65e4fddd",
@@ -34938,7 +34944,13 @@
         },
         "web_domains": [
             "defilabsfarm.com"
-        ]
+        ],
+        "telegram_groups": [
+            "defilabsofficial_en",
+            "defilabs_farm",
+            "DFLFARM"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa79b1dea0d35d39003630ba3e10e5ba2d7318082",
@@ -34978,7 +34990,8 @@
         ],
         "holders": {
             "bsc": 296
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x016cf83732f1468150d87dcc5bdf67730b3934d3",
