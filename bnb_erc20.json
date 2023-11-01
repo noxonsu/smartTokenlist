@@ -33923,7 +33923,8 @@
         ],
         "holders": {
             "bsc": 5858
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9e4143f0cd510cbfed3597885e349309f029bc7b",
@@ -33936,7 +33937,8 @@
         ],
         "holders": {
             "bsc": 488
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x99f9e74dad34c5a7f7dd13acfe6491f88c9d5870",
@@ -33981,7 +33983,9 @@
         },
         "web_domains": [
             "gamerhub.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7a613837e09c3aeec8e13b01d4ec38c0b96a4086",
@@ -34039,11 +34043,26 @@
             "artyfacts.online"
         ],
         "telegram_groups": [
-            "ArtyfactChat"
+            "artyfactnewsturkey",
+            "artyfactsupport",
+            "artyfactnewsfrance",
+            "artyfactnewsspain",
+            "artyfactnewskorea",
+            "ArtyfactAirdropBot",
+            "artyfactnewsitaly",
+            "artyfactnewsrussia",
+            "artyfactnewsjapan",
+            "artyfactnewsptbr",
+            "artyfactnewschina",
+            "artyfactvietnamese",
+            "artyfactnewsuae",
+            "ArtyfactChat",
+            "artyfactnewsgermany"
         ],
         "holders": {
             "bsc": 992
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7bbd911adc3084782f61b886714d35d99d1539f7",
