@@ -34288,7 +34288,8 @@
         ],
         "holders": {
             "bsc": 70
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6e7be9d8215fb14323157304f5614e6af79a2125",
@@ -34340,7 +34341,9 @@
         },
         "web_domains": [
             "prismafinance.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb74d7caf72b81e98115a5bc6dde7ce871c8806d6",
@@ -34362,7 +34365,9 @@
         },
         "web_domains": [
             "dragonpepe.tech"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4c85a38f6eefc7e1efc8e86a7d045d7bde067283",
@@ -34421,6 +34426,8 @@
         },
         "web_domains": [
             "udao.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
