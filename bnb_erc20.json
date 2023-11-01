@@ -33677,7 +33677,9 @@
         },
         "web_domains": [
             "bitstarters.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x1ac274317023646895bf112f9ab6b0696374347f",
