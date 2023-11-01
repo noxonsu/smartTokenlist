@@ -34918,7 +34918,10 @@
         ],
         "holders": {
             "bsc": 34
-        }
+        },
+        "web_domains": [
+            "kishu.com"
+        ]
     },
     {
         "contract_address": "0x9cd9c5a44cb8fab39b2ee3556f5c439e65e4fddd",
@@ -34932,7 +34935,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 145
-        }
+        },
+        "web_domains": [
+            "defilabsfarm.com"
+        ]
     },
     {
         "contract_address": "0xa79b1dea0d35d39003630ba3e10e5ba2d7318082",
