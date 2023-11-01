@@ -34337,7 +34337,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 111
-        }
+        },
+        "web_domains": [
+            "prismafinance.com"
+        ]
     },
     {
         "contract_address": "0xb74d7caf72b81e98115a5bc6dde7ce871c8806d6",
@@ -34356,7 +34359,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 9
-        }
+        },
+        "web_domains": [
+            "dragonpepe.tech"
+        ]
     },
     {
         "contract_address": "0x4c85a38f6eefc7e1efc8e86a7d045d7bde067283",
@@ -34412,6 +34418,9 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 196
-        }
+        },
+        "web_domains": [
+            "udao.org"
+        ]
     }
 ]
