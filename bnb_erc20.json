@@ -34139,7 +34139,9 @@
         "holders": {
             "bsc": 95
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xe81ec7a54e7a58c797a25f58d46de16b1fd468cf",
@@ -34284,12 +34286,14 @@
             "zintechchain.org"
         ],
         "telegram_groups": [
-            "zintechchain"
+            null
         ],
         "holders": {
             "bsc": 70
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: '<' not supported between instances of 'NoneType' and 'int'"
     },
     {
         "contract_address": "0x6e7be9d8215fb14323157304f5614e6af79a2125",
