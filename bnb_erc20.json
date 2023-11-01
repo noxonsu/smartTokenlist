@@ -33188,7 +33188,11 @@
         },
         "web_domains": [
             "spookypepe.com"
-        ]
+        ],
+        "telegram_groups": [
+            "spookypepeBSC"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xcfbe1c0514cfee3e3730f6b8aeec76cf11577777",
@@ -33219,7 +33223,9 @@
         },
         "web_domains": [
             "btc121.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x211b97b2f2c46f25954d1cef90554fea062d39f2",
@@ -33236,7 +33242,9 @@
         },
         "web_domains": [
             "btc123.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x37fe635d1e25b2f7276c1b9dbbcc7b087f80c050",
@@ -33260,7 +33268,11 @@
         },
         "web_domains": [
             "metadogeinu.dog"
-        ]
+        ],
+        "telegram_groups": [
+            "metadogeinu_en"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe4192e5b07f0aba7f1b250e9e24d5eb7802f4e1e",
@@ -33294,7 +33306,8 @@
         ],
         "holders": {
             "bsc": 316
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3b66457ae9410cb07e631a8a20f49d53a567dc29",
