@@ -33351,7 +33351,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 28
-        }
+        },
+        "web_domains": [
+            "firmseed.io"
+        ]
     },
     {
         "contract_address": "0x9e7a9221985e89f20d307e8110dbafedb0b4c322",
