@@ -33741,7 +33741,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 211
-        }
+        },
+        "web_domains": [
+            "babykittencoin.com"
+        ]
     },
     {
         "contract_address": "0x8443f091997f06a61670b735ed92734f5628692f",
@@ -33847,7 +33850,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 70
-        }
+        },
+        "web_domains": [
+            "www.ethereumexpress.net"
+        ]
     },
     {
         "contract_address": "0x85e7566e1b527ef2c9eb6414eba27865b6c0bfee",
