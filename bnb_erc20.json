@@ -35050,7 +35050,9 @@
         ],
         "holders": {
             "bsc": 26
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x256be284fea694f1bb11f76d556a28ecb496eee9",
