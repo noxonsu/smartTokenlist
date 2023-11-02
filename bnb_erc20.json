@@ -35321,11 +35321,13 @@
             "vaultz.tech"
         ],
         "telegram_groups": [
-            "vaultztechAI"
+            "vaultztechAI",
+            "VaultEscrowBot"
         ],
         "holders": {
             "bsc": 102
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2b3f34e9d4b127797ce6244ea341a83733ddd6e4",
@@ -35376,7 +35378,11 @@
         },
         "web_domains": [
             "zkdoge.xyz"
-        ]
+        ],
+        "telegram_groups": [
+            "zkDoge_Official"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9755ac467bee2e7558b89988df3de4ca4f16b123",
