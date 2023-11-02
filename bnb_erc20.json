@@ -35373,7 +35373,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 130
-        }
+        },
+        "web_domains": [
+            "zkdoge.xyz"
+        ]
     },
     {
         "contract_address": "0x9755ac467bee2e7558b89988df3de4ca4f16b123",
