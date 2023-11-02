@@ -36109,11 +36109,14 @@
             "pawstar.io"
         ],
         "telegram_groups": [
+            "PawstarPortal",
+            "pawsniper_bot",
             "pawstarcoin"
         ],
         "holders": {
             "bsc": 706
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd107cb53cd61094997fad4bb87dffd6d9c836af8",
@@ -36133,7 +36136,8 @@
         },
         "web_domains": [
             "devenv.pro"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4d51f5856d9c97aff217fa08bb46e460d948e4a0",
@@ -36174,7 +36178,8 @@
         ],
         "holders": {
             "bsc": 92
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5604e98e726e80d50aa45f75b6767b8789f76681",
@@ -36236,7 +36241,9 @@
         },
         "web_domains": [
             "plaentz.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9abdba20edfba06b782126b4d8d72a5853918fd0",
@@ -36265,7 +36272,8 @@
         ],
         "holders": {
             "bsc": 29
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x18d3ec620928116ff2329dd2f3697e2fd2cf267b",
@@ -36285,7 +36293,8 @@
         ],
         "holders": {
             "bsc": 76
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6b4570a4452cec85aeb5de8b6883b17c4f638460",
