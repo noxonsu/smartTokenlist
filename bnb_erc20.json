@@ -35664,7 +35664,9 @@
         "holders": {
             "bsc": 318
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x892f23e32b82ef0d5394cf33dcd4dff7f4b274b0",
@@ -36007,7 +36009,9 @@
         "telegram_groups": [
             "AlienPepe_lol"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large6508"
     },
     {
         "contract_address": "0xd2740aa0fc4bbf63ed40d5b34e8a695338b0b23f",
@@ -36065,7 +36069,9 @@
         "web_domains": [
             "www.underdogbsc.online"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xaf329a957653675613d0d98f49fc93326aeb36fc",
