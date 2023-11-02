@@ -36346,5 +36346,105 @@
         "holders": {
             "bsc": 10266
         }
+    },
+    {
+        "contract_address": "0xa1e2b9d2e40304a6217d4760ca72d0984f0c6ad6",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 74
+        }
+    },
+    {
+        "contract_address": "0x8c9bfcaeacd5535d51a76df27e5db5d1d2efd74e",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 92
+        }
+    },
+    {
+        "contract_address": "0xb20e33c22964b7387a7ad0a1cc3e18ec22f37fd5",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 16
+        }
+    },
+    {
+        "contract_address": "0xd71e37bec6a6645de87f3946613f93e21e02849d",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 20
+        }
+    },
+    {
+        "contract_address": "0xfcffa935719dd9b13241542d9f2f95cb53d1364a",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 3
+        }
+    },
+    {
+        "contract_address": "0xf7fbbf76f8e14b6295a92085777a55cdfbc6fd64",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 2768
+        }
+    },
+    {
+        "contract_address": "0xca6d678e74f553f0e59cccc03ae644a3c2c5ee7d",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 11315
+        }
+    },
+    {
+        "contract_address": "0x24b650bd6e362d3da17a3700672f23a755898d95",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 42
+        }
+    },
+    {
+        "contract_address": "0x759bd4ed07a34b9ea761f8f2ed9f0e102675a29c",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 3493
+        }
+    },
+    {
+        "contract_address": "0xd6d1662a9ab18740aafe97e76b2e099e563a4402",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "memenetwork.pro"
+        ],
+        "telegram_groups": [
+            "MemeNetworkBsc"
+        ],
+        "holders": {
+            "bsc": 272
+        }
+    },
+    {
+        "contract_address": "0x00f97c17f4dc4f3bfd2dd9ce5e67f3a339a8a261",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 25101
+        }
+    },
+    {
+        "contract_address": "0x4f0350a981e48a9f8f5fc1d1f52632d23870be13",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "pitbullbsccommunity"
+        ],
+        "holders": {
+            "bsc": 100
+        }
+    },
+    {
+        "contract_address": "0xeeab1bf1e3614385b63d5cd9e1a726b4d5061ae9",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 52
+        }
     }
 ]
