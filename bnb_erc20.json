@@ -35261,7 +35261,9 @@
         },
         "web_domains": [
             "www.orangecat.info"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6892180d30f3468cdba339279e994fdc864672da",
