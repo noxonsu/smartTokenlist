@@ -36130,7 +36130,10 @@
         ],
         "holders": {
             "bsc": 171
-        }
+        },
+        "web_domains": [
+            "devenv.pro"
+        ]
     },
     {
         "contract_address": "0x4d51f5856d9c97aff217fa08bb46e460d948e4a0",
@@ -36230,7 +36233,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 102
-        }
+        },
+        "web_domains": [
+            "plaentz.com"
+        ]
     },
     {
         "contract_address": "0x9abdba20edfba06b782126b4d8d72a5853918fd0",
@@ -36310,7 +36316,10 @@
         ],
         "holders": {
             "bsc": 50
-        }
+        },
+        "web_domains": [
+            "babytokenfi.tech"
+        ]
     },
     {
         "contract_address": "0x449aed32c1685dbeca28d1ae45462b6156a6096d",
