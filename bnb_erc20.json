@@ -35571,7 +35571,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 128
-        }
+        },
+        "web_domains": [
+            "memeland.com"
+        ]
     },
     {
         "contract_address": "0x8352c71cc4c167ba316df8ee4eed165db9954a87",
@@ -35585,7 +35588,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 31
-        }
+        },
+        "web_domains": [
+            "cybershib.xyz"
+        ]
     },
     {
         "contract_address": "0x7ea32bd081922ff5a65492fcc9bf237f0f12e5f5",
@@ -35613,7 +35619,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 51
-        }
+        },
+        "web_domains": [
+            "cryptopreneurfund.com"
+        ]
     },
     {
         "contract_address": "0x73b9b04fdf29e5cfe4fe97fba7202804c26d550b",
