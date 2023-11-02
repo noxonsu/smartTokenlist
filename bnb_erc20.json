@@ -35327,7 +35327,9 @@
         "holders": {
             "bsc": 102
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large1049"
     },
     {
         "contract_address": "0x2b3f34e9d4b127797ce6244ea341a83733ddd6e4",
@@ -35382,7 +35384,9 @@
         "telegram_groups": [
             "zkDoge_Official"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large1541"
     },
     {
         "contract_address": "0x9755ac467bee2e7558b89988df3de4ca4f16b123",
