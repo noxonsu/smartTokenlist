@@ -35974,7 +35974,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 23
-        }
+        },
+        "web_domains": [
+            "safedoge.com"
+        ]
     },
     {
         "contract_address": "0x4953d28b12d862250cc96163a9c46ae2b8ef52c5",
@@ -36036,7 +36039,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 113
-        }
+        },
+        "web_domains": [
+            "mochiswap.io"
+        ]
     },
     {
         "contract_address": "0x77056571ccd3172fc69674ed0e8903139d2076e1",
@@ -36046,7 +36052,10 @@
         ],
         "holders": {
             "bsc": 65
-        }
+        },
+        "web_domains": [
+            "www.underdogbsc.online"
+        ]
     },
     {
         "contract_address": "0xaf329a957653675613d0d98f49fc93326aeb36fc",
