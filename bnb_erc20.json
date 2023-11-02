@@ -35977,7 +35977,9 @@
         },
         "web_domains": [
             "safedoge.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4953d28b12d862250cc96163a9c46ae2b8ef52c5",
@@ -36001,7 +36003,11 @@
         ],
         "holders": {
             "bsc": 798
-        }
+        },
+        "telegram_groups": [
+            "AlienPepe_lol"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd2740aa0fc4bbf63ed40d5b34e8a695338b0b23f",
@@ -36042,12 +36048,15 @@
         },
         "web_domains": [
             "mochiswap.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x77056571ccd3172fc69674ed0e8903139d2076e1",
         "sourceScanned": "processed",
         "telegram_groups": [
+            "BSCUnderDogX",
             "BSCUnderDog"
         ],
         "holders": {
@@ -36055,7 +36064,8 @@
         },
         "web_domains": [
             "www.underdogbsc.online"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xaf329a957653675613d0d98f49fc93326aeb36fc",
