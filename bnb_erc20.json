@@ -35038,5 +35038,101 @@
         "holders": {
             "bsc": 7
         }
+    },
+    {
+        "contract_address": "0x7e0e0368ee60f2f0435d59b9fb804d4b18efa5ef",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "linksdao.io",
+            "eips.LINKSereum.org",
+            "eips.LINKSereum.org",
+            "eips.LINKSereum.org"
+        ],
+        "holders": {
+            "bsc": 26
+        }
+    },
+    {
+        "contract_address": "0x256be284fea694f1bb11f76d556a28ecb496eee9",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 8683
+        }
+    },
+    {
+        "contract_address": "0xcfefa64b0ddd611b125157c41cd3827f2e8e8615",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 8511
+        }
+    },
+    {
+        "contract_address": "0xfc914ecb4e4cbeea1fcf5315129c6cdb398cd465",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 769
+        }
+    },
+    {
+        "contract_address": "0x0c88392a39342c10fc15a7af8759dd152c0ed169",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 696
+        }
+    },
+    {
+        "contract_address": "0x20aad79e5c61c09b2ce6bde5ee376f9e3825522e",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 48
+        }
+    },
+    {
+        "contract_address": "0x607aa3bf324fd77751dd6b4fc2b57aa30bcdb602",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 150
+        }
+    },
+    {
+        "contract_address": "0xa39964d6212c3753c3ef8dada0d46311504ea18b",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 475
+        }
+    },
+    {
+        "contract_address": "0x4dcaaa68170053afbbde15774931adba09272a55",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 3127
+        }
+    },
+    {
+        "contract_address": "0x301f02cbd81c2653bcd72a9d443da136d3b1b1b1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fatsale.finance"
+        ],
+        "telegram_groups": [
+            "fatsale"
+        ],
+        "holders": {
+            "bsc": 1381
+        }
+    },
+    {
+        "contract_address": "0x2c8711721560867d57522429ebac55af0e111111",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 1506
+        }
+    },
+    {
+        "contract_address": "0x8b303d5bbfbbf46f1a4d9741e491e06986894e18",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 16159
+        }
     }
 ]
