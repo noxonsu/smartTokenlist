@@ -36305,7 +36305,9 @@
         "holders": {
             "bsc": 76
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x6b4570a4452cec85aeb5de8b6883b17c4f638460",
@@ -36340,7 +36342,9 @@
         "web_domains": [
             "babytokenfi.tech"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x449aed32c1685dbeca28d1ae45462b6156a6096d",
@@ -36424,7 +36428,9 @@
         "holders": {
             "bsc": 272
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x00f97c17f4dc4f3bfd2dd9ce5e67f3a339a8a261",
@@ -36879,6 +36885,8 @@
         "telegram_groups": [
             "pepepad"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't find chat"
     }
 ]
