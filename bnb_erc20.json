@@ -37144,7 +37144,8 @@
         ],
         "holders": {
             "bsc": 74
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x04d6115703b0127888323f142b8046c7c13f857d",
@@ -37206,7 +37207,9 @@
         ],
         "holders": {
             "bsc": 12
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7979f6c54eba05e18ded44c4f986f49a5de551c2",
@@ -37230,7 +37233,11 @@
         },
         "web_domains": [
             "propbase.app"
-        ]
+        ],
+        "telegram_groups": [
+            "Propbase"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x42c0cdbc53bff50920a5719ffdea067dc81ab3ff",
@@ -37240,6 +37247,10 @@
         },
         "web_domains": [
             "wallstmemes.com"
-        ]
+        ],
+        "telegram_groups": [
+            "wallst_memes"
+        ],
+        "p6": true
     }
 ]
