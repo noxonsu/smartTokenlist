@@ -37413,7 +37413,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 19
-        }
+        },
+        "web_domains": [
+            "www.egtoken.io"
+        ]
     },
     {
         "contract_address": "0x1eaffd6b9ef0f45d663f3fbf402226c98609600e",
