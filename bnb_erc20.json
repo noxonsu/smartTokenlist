@@ -37519,7 +37519,9 @@
         },
         "web_domains": [
             "highlandertoken.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x789c5ddf51ee31b1686b79e79f09896350c2411d",
@@ -37529,7 +37531,9 @@
         },
         "web_domains": [
             "hypr.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x650f223aa2342fb5b9d8714be12a279828cc5ba3",
@@ -37553,7 +37557,9 @@
         },
         "web_domains": [
             "worldmobile.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x88bac9a7399550dcb42e53bded2e6104f0df3e7d",
