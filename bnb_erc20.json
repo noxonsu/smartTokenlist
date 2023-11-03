@@ -36832,7 +36832,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 23
-        }
+        },
+        "web_domains": [
+            "meme-coin-binance.com"
+        ]
     },
     {
         "contract_address": "0x509389d8bec9a42c1a2d3c4a18ec3cd0e82b0c9f",
@@ -36867,6 +36870,9 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 297
-        }
+        },
+        "web_domains": [
+            "pepepad.finance"
+        ]
     }
 ]
