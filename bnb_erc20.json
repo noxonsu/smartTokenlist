@@ -37023,7 +37023,9 @@
         "holders": {
             "bsc": 362
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xfebbd6c37a89521d12618b720470607cd8c6f0fb",
@@ -37145,7 +37147,9 @@
         "holders": {
             "bsc": 74
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x04d6115703b0127888323f142b8046c7c13f857d",
@@ -37237,7 +37241,9 @@
         "telegram_groups": [
             "Propbase"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large10322"
     },
     {
         "contract_address": "0x42c0cdbc53bff50920a5719ffdea067dc81ab3ff",
@@ -37251,6 +37257,8 @@
         "telegram_groups": [
             "wallst_memes"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large34861"
     }
 ]
