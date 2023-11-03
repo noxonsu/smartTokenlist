@@ -38066,7 +38066,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 68
-        }
+        },
+        "web_domains": [
+            "www.paintai.com"
+        ]
     },
     {
         "contract_address": "0x7c51084561b370e5d1cf7d1697ff0d690607750f",
