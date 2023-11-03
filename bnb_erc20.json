@@ -37624,7 +37624,8 @@
         ],
         "holders": {
             "bsc": 118
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x51baa3f61a24d59ef9239009a899b7a65de04ae0",
@@ -37634,7 +37635,9 @@
         },
         "web_domains": [
             "bob.ai"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2c717059b366714d267039af8f59125cadce6d8c",
@@ -37675,7 +37678,8 @@
         ],
         "holders": {
             "bsc": 28
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3d49d6f854620057fd4408b8daa8c0b15c48fce0",
@@ -37741,7 +37745,9 @@
         },
         "web_domains": [
             "swisblue.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x716811fdb691aea8c6f8a9bd5df614b4a905ce20",
@@ -37751,7 +37757,9 @@
         },
         "web_domains": [
             "talos.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x71d49e0375f9f26b0d8a820c8cf56c233ae43c7b",
