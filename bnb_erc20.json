@@ -37682,7 +37682,9 @@
         "holders": {
             "bsc": 28
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x3d49d6f854620057fd4408b8daa8c0b15c48fce0",
@@ -37817,7 +37819,9 @@
             "mini_BTC",
             "TelegramName"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large1559"
     },
     {
         "contract_address": "0x0288d3e353fe2299f11ea2c2e1696b4a648ecc07",
@@ -37866,7 +37870,9 @@
         "telegram_groups": [
             "btcbulldogofficial"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xf54c4f213305efc3ef04d39a1328a6b06b0720c5",
@@ -37918,7 +37924,9 @@
         "holders": {
             "bsc": 85
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large4645"
     },
     {
         "contract_address": "0x531780face85306877d7e1f05d713d1b50a37f7a",
