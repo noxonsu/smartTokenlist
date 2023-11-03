@@ -38069,7 +38069,9 @@
         },
         "web_domains": [
             "www.paintai.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7c51084561b370e5d1cf7d1697ff0d690607750f",
@@ -38117,7 +38119,8 @@
         ],
         "holders": {
             "bsc": 871
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x264387ad73d19408e34b5d5e13a93174a35cea33",
