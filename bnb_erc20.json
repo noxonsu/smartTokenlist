@@ -37965,7 +37965,9 @@
         "holders": {
             "bsc": 256
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xba3d751288d43e1430f3b640e60e2b81d5ee40cf",
@@ -38120,7 +38122,9 @@
         "holders": {
             "bsc": 871
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large4480"
     },
     {
         "contract_address": "0x264387ad73d19408e34b5d5e13a93174a35cea33",
