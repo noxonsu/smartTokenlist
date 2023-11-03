@@ -36634,5 +36634,134 @@
         "holders": {
             "bsc": 364
         }
+    },
+    {
+        "contract_address": "0x3d6d5d3fd4687511258b4fac669f086fd3732be5",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 5
+        }
+    },
+    {
+        "contract_address": "0x11f8823bb34f965e5b0d896d84b969bb4dd150a6",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 1
+        }
+    },
+    {
+        "contract_address": "0xa5522ae272b74b014bc20ef7ef2e2b87af0787d8",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 505
+        }
+    },
+    {
+        "contract_address": "0xe48d46743111e031248fe6b2d3e516004865002f",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 13
+        }
+    },
+    {
+        "contract_address": "0xcde28b1f43dfdd1510c8981ea939f2db343056d3",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 954
+        }
+    },
+    {
+        "contract_address": "0x4799c398bf0c202a985149796524c34043d62df9",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 11267
+        }
+    },
+    {
+        "contract_address": "0x69e0523ce31735ef6e74ffcf89cd69832fd0cb21",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 507
+        }
+    },
+    {
+        "contract_address": "0x8f18db84e3b8ca260f5f6d03a187585ee8372337",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 13
+        }
+    },
+    {
+        "contract_address": "0xc2ed68a614760bfe65e932329199d2f703219b8c",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 1680
+        }
+    },
+    {
+        "contract_address": "0x075e794f631ee81df1aadb510ac6ec8803b0fa35",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 8
+        }
+    },
+    {
+        "contract_address": "0x2f5ee1b0d49130889de409b2fd6cb68a52c53cfb",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 8
+        }
+    },
+    {
+        "contract_address": "0xad0f25d86507a4a56a80a3158364608bf5016591",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 147
+        }
+    },
+    {
+        "contract_address": "0x10fa15192a4c2616df2c2084e44ba6be5532774f",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 34
+        }
+    },
+    {
+        "contract_address": "0x7bd7a468b508c49041c5f5d4c3d5a01640535371",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 5
+        }
+    },
+    {
+        "contract_address": "0xa2d9b953d25fa72e367efc95b28699713558446b",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 2580
+        }
+    },
+    {
+        "contract_address": "0x4e3f17ea3af79e6870e024f8f6c915f1eed6ee1c",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "KittyBscInu"
+        ],
+        "holders": {
+            "bsc": 30
+        }
+    },
+    {
+        "contract_address": "0xa885c6913f054f41ccfc9b343ccc1c63c3fa6b44",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 201
+        }
+    },
+    {
+        "contract_address": "0x1f769a59ff66d6a2d62d5f56cc63e01ade86d2bc",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 18
+        }
     }
 ]
