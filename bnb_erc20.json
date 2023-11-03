@@ -36835,7 +36835,9 @@
         },
         "web_domains": [
             "meme-coin-binance.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x509389d8bec9a42c1a2d3c4a18ec3cd0e82b0c9f",
@@ -36873,6 +36875,10 @@
         },
         "web_domains": [
             "pepepad.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "pepepad"
+        ],
+        "p6": true
     }
 ]
