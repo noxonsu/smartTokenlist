@@ -34359,7 +34359,9 @@
         ],
         "holders": {
             "bsc": 1749
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd76f4a009c566ca22bbbd15f684a3dd4bf6fac70",
@@ -36528,6 +36530,8 @@
         ],
         "holders": {
             "bsc": 386
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     }
 ]
