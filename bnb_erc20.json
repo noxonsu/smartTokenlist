@@ -37516,14 +37516,20 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 128
-        }
+        },
+        "web_domains": [
+            "highlandertoken.com"
+        ]
     },
     {
         "contract_address": "0x789c5ddf51ee31b1686b79e79f09896350c2411d",
         "sourceScanned": "processed",
         "holders": {
             "bsc": 84
-        }
+        },
+        "web_domains": [
+            "hypr.com"
+        ]
     },
     {
         "contract_address": "0x650f223aa2342fb5b9d8714be12a279828cc5ba3",
@@ -37544,7 +37550,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 297
-        }
+        },
+        "web_domains": [
+            "worldmobile.io"
+        ]
     },
     {
         "contract_address": "0x88bac9a7399550dcb42e53bded2e6104f0df3e7d",
