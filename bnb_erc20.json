@@ -37227,13 +37227,19 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 268
-        }
+        },
+        "web_domains": [
+            "propbase.app"
+        ]
     },
     {
         "contract_address": "0x42c0cdbc53bff50920a5719ffdea067dc81ab3ff",
         "sourceScanned": "processed",
         "holders": {
             "bsc": 39
-        }
+        },
+        "web_domains": [
+            "wallstmemes.com"
+        ]
     }
 ]
