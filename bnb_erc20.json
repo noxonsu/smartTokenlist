@@ -37797,14 +37797,20 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 206
-        }
+        },
+        "web_domains": [
+            "www.synthetic-realities.com"
+        ]
     },
     {
         "contract_address": "0x57ecd114359bb64bc0a3524cceff714ec24f5b42",
         "sourceScanned": "processed",
         "holders": {
             "bsc": 288
-        }
+        },
+        "web_domains": [
+            "minibitcoin.xyz"
+        ]
     },
     {
         "contract_address": "0x0288d3e353fe2299f11ea2c2e1696b4a648ecc07",
@@ -37846,7 +37852,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 184
-        }
+        },
+        "web_domains": [
+            "btcbulldog.io"
+        ]
     },
     {
         "contract_address": "0xf54c4f213305efc3ef04d39a1328a6b06b0720c5",
