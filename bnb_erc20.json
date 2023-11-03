@@ -37800,7 +37800,9 @@
         },
         "web_domains": [
             "www.synthetic-realities.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x57ecd114359bb64bc0a3524cceff714ec24f5b42",
@@ -37810,7 +37812,12 @@
         },
         "web_domains": [
             "minibitcoin.xyz"
-        ]
+        ],
+        "telegram_groups": [
+            "mini_BTC",
+            "TelegramName"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0288d3e353fe2299f11ea2c2e1696b4a648ecc07",
@@ -37855,7 +37862,11 @@
         },
         "web_domains": [
             "btcbulldog.io"
-        ]
+        ],
+        "telegram_groups": [
+            "btcbulldogofficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf54c4f213305efc3ef04d39a1328a6b06b0720c5",
@@ -37906,7 +37917,8 @@
         ],
         "holders": {
             "bsc": 85
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x531780face85306877d7e1f05d713d1b50a37f7a",
@@ -37939,11 +37951,13 @@
             "www.Lexiachain.com"
         ],
         "telegram_groups": [
+            "LexiaChain",
             "Lexiachain"
         ],
         "holders": {
             "bsc": 256
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xba3d751288d43e1430f3b640e60e2b81d5ee40cf",
