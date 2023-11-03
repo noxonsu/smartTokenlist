@@ -36917,7 +36917,9 @@
         },
         "web_domains": [
             "orbiter.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6b2a6461faf2fe705d6e1c34e168788ef81d6c28",
@@ -36971,7 +36973,9 @@
         },
         "web_domains": [
             "memecommunity.xyz"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa4b318399675235537d3db99b4ff06f30e215b5d",
@@ -37008,7 +37012,8 @@
         ],
         "holders": {
             "bsc": 362
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xfebbd6c37a89521d12618b720470607cd8c6f0fb",
@@ -37083,7 +37088,9 @@
         ],
         "holders": {
             "bsc": 1
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xecf312cd52f668cf4c5ab613c7913a1794350624",
