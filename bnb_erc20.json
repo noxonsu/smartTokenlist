@@ -12016,12 +12016,17 @@
             "dx.app"
         ],
         "telegram_groups": [
+            "merafyyy",
+            "gamufyy",
+            "shieldexx",
             "DxSale",
-            "dxsale"
+            "dxsale",
+            "defiixxx"
         ],
         "processedGpt": true,
         "tgGroupJoined": "success",
-        "tgProposalSent": "error: Telegram says: [403 CHAT_WRITE_FORBIDDEN] - You don't have rights to send messages in this chat (caused by \"messages.SendMessage\")"
+        "tgProposalSent": "error: Telegram says: [403 CHAT_WRITE_FORBIDDEN] - You don't have rights to send messages in this chat (caused by \"messages.SendMessage\")",
+        "p6": true
     },
     {
         "contract_address": "0x18956c6fb8923aec6acd993dec0ce64df306b4d4",
@@ -38763,7 +38768,16 @@
         ],
         "holders": {
             "bsc": 258
-        }
+        },
+        "telegram_groups": [
+            "merafyyy",
+            "gamufyy",
+            "shieldexx",
+            "DxSale",
+            "dxsale",
+            "defiixxx"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd7cc063b1b781ef3e888563353aded5f3569edf9",
@@ -38822,7 +38836,9 @@
         },
         "web_domains": [
             "willowbbows.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xae8bed52f39374f5b59e3c737488eddf13d7735b",
