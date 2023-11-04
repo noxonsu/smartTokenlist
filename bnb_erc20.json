@@ -39398,7 +39398,11 @@
         },
         "web_domains": [
             "hydtprotocol.com"
-        ]
+        ],
+        "telegram_groups": [
+            "hydtprotocolgroup"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6163ffba81de6bac5db519fa8979b3c010637cbb",
