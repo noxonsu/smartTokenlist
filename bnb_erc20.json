@@ -961,9 +961,9 @@
             "apeswap.finance"
         ],
         "telegram_groups": [
-            "ape_swap",
             "ape_swap_news",
-            "ape_bond"
+            "ape_bond",
+            "ape_swap"
         ],
         "processedGpt": true,
         "tgGroupJoined": "success",
@@ -6890,9 +6890,9 @@
             "apeswap.finance"
         ],
         "telegram_groups": [
-            "ape_swap",
             "ape_swap_news",
-            "ape_bond"
+            "ape_bond",
+            "ape_swap"
         ],
         "processedGpt": true,
         "tgGroupJoined": "success",
@@ -11218,9 +11218,9 @@
             "apeswap.finance"
         ],
         "telegram_groups": [
-            "ape_swap",
             "ape_swap_news",
-            "ape_bond"
+            "ape_bond",
+            "ape_swap"
         ],
         "p6": true,
         "myuser": 6003957640,
@@ -20797,9 +20797,9 @@
             "apeswap.finance"
         ],
         "telegram_groups": [
-            "ape_swap",
             "ape_swap_news",
-            "ape_bond"
+            "ape_bond",
+            "ape_swap"
         ],
         "processedGpt": true,
         "tgGroupJoined": "error: Username not occupied",
@@ -21544,9 +21544,9 @@
             "ape-swap.medium.com"
         ],
         "telegram_groups": [
-            "ape_swap",
             "ape_swap_news",
-            "ape_bond"
+            "ape_bond",
+            "ape_swap"
         ],
         "processedGpt": true,
         "tgGroupJoined": "error: Username not occupied",
@@ -22164,9 +22164,9 @@
             "apeswap.finance"
         ],
         "telegram_groups": [
-            "ape_swap",
             "ape_swap_news",
-            "ape_bond"
+            "ape_bond",
+            "ape_swap"
         ],
         "processedGpt": true,
         "tgGroupJoined": "success",
@@ -38874,24 +38874,14 @@
             "apeswap.finance"
         ],
         "telegram_groups": [
-            "ape_swap",
             "ape_swap_news",
-            "ape_swap",
-            "ape_swap_news",
-            "ape_swap",
-            "ape_swap_news",
-            "ape_swap",
-            "ape_swap_news",
-            "ape_swap",
-            "ape_swap_news",
-            "ape_swap",
-            "ape_swap_news",
-            "ape_swap",
-            "ape_swap_news"
+            "ape_bond",
+            "ape_swap"
         ],
         "holders": {
             "bsc": 732
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x33df68230bb3d457a806e92aa4edad6de0744931",
@@ -38974,7 +38964,8 @@
         ],
         "holders": {
             "bsc": 498
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb93ee4522c44ef4cd7ee8c83b9fe1a421b4b42c3",
