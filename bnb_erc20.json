@@ -12026,7 +12026,8 @@
         "processedGpt": true,
         "tgGroupJoined": "success",
         "tgProposalSent": "error: Telegram says: [403 CHAT_WRITE_FORBIDDEN] - You don't have rights to send messages in this chat (caused by \"messages.SendMessage\")",
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x18956c6fb8923aec6acd993dec0ce64df306b4d4",
@@ -38779,7 +38780,8 @@
         ],
         "p6": true,
         "myuser": 6761555344,
-        "tgGroupJoined": "success"
+        "tgGroupJoined": "success",
+        "p8": true
     },
     {
         "contract_address": "0xd7cc063b1b781ef3e888563353aded5f3569edf9",
