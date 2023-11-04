@@ -39663,7 +39663,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 204
-        }
+        },
+        "web_domains": [
+            "nexadapp.com"
+        ]
     },
     {
         "contract_address": "0xccb63641e1cb0c1dd22ca94fc0f247ef860b9ea4",
@@ -39748,7 +39751,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 47
-        }
+        },
+        "web_domains": [
+            "boredpepe.org"
+        ]
     },
     {
         "contract_address": "0xc4e6d2a6faa15480eb6118dde2bd3f3a35d458ca",
