@@ -39142,5 +39142,106 @@
         "holders": {
             "bsc": 121
         }
+    },
+    {
+        "contract_address": "0xcc0eb6d2768c8f56398e8625f63840c68f999999",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 1281
+        }
+    },
+    {
+        "contract_address": "0xf0556d179d2e5faaf30e474a997ce2bed025bb9e",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 16
+        }
+    },
+    {
+        "contract_address": "0xf3507baf70838b815bdf63ade783f53b13aea676",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 422
+        }
+    },
+    {
+        "contract_address": "0x136bfcdec5db31b565052451ad806014ab9f2b38",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 56172
+        }
+    },
+    {
+        "contract_address": "0x98b42410f3ba1f4a89ecc55a63837413b45b66a5",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 6192
+        }
+    },
+    {
+        "contract_address": "0xb7699287fd46f2109cac9e0215263ca84f4aa48b",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 340
+        }
+    },
+    {
+        "contract_address": "0x366d71ab095735b7dae83ce2b82d5262ef655f10",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 3704
+        }
+    },
+    {
+        "contract_address": "0xa64da37bfd8aeead38b29316582c5afd0a98fbe9",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 2763
+        }
+    },
+    {
+        "contract_address": "0x6f9a043460f638e74146251a909f27081a315e92",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 4
+        }
+    },
+    {
+        "contract_address": "0xb10d3adeeea35e95374ef042d93d532438a6dda2",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 5
+        }
+    },
+    {
+        "contract_address": "0xbd337250eaf0987e5f30993c5feddffd9dbd810b",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "GROKBEP20"
+        ],
+        "holders": {
+            "bsc": 40
+        }
+    },
+    {
+        "contract_address": "0xbb38f4b6e289aa900505c92bd9743bd4d3c8d2de",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 1731
+        }
+    },
+    {
+        "contract_address": "0x94f9f57bb80e38b7402ade9aa0a3ddaddb48dc14",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 488
+        }
+    },
+    {
+        "contract_address": "0xe703bcd08af361b3de09a617fb74f98520954fca",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 247
+        }
     }
 ]
