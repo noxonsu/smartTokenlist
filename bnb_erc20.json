@@ -38210,7 +38210,8 @@
         ],
         "holders": {
             "bsc": 954
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xcfb24d3c3767364391340a2e6d99c64f1cbd7a3d",
@@ -38240,11 +38241,15 @@
             "www.wallycoin.org"
         ],
         "telegram_groups": [
-            "wallybscportal"
+            "wallybscportal",
+            "wallyerc",
+            "WallyCoinERC",
+            "robertsisbased"
         ],
         "holders": {
             "bsc": 46
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x189d471bb717da37799667fd37485ecd1cfb16ec",
@@ -38312,6 +38317,7 @@
         ],
         "holders": {
             "bsc": 123
-        }
+        },
+        "p6": true
     }
 ]
