@@ -39395,7 +39395,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 20
-        }
+        },
+        "web_domains": [
+            "hydtprotocol.com"
+        ]
     },
     {
         "contract_address": "0x6163ffba81de6bac5db519fa8979b3c010637cbb",
