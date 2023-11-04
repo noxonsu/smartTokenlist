@@ -38654,7 +38654,9 @@
         },
         "web_domains": [
             "www.bitcoindiamond.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xfc07bba2c27a6c3a1e5898d9c7b574ff4c466b00",
@@ -38677,11 +38679,13 @@
             "pixoverse.org"
         ],
         "telegram_groups": [
-            "pixoverse"
+            "pixoverse",
+            "Pixoverse_"
         ],
         "holders": {
             "bsc": 420
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x398935e79fd165475213b5ef4093bf8e276783c6",
