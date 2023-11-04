@@ -39402,7 +39402,9 @@
         "telegram_groups": [
             "hydtprotocolgroup"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large1254"
     },
     {
         "contract_address": "0x6163ffba81de6bac5db519fa8979b3c010637cbb",
