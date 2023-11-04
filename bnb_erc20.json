@@ -39586,7 +39586,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 113
-        }
+        },
+        "web_domains": [
+            "geckoterminal.com"
+        ]
     },
     {
         "contract_address": "0xa1ccd6982c111d3fe5bf348044335ba0fefca688",
