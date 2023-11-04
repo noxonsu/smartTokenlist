@@ -38651,7 +38651,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 289
-        }
+        },
+        "web_domains": [
+            "www.bitcoindiamond.org"
+        ]
     },
     {
         "contract_address": "0xfc07bba2c27a6c3a1e5898d9c7b574ff4c466b00",
