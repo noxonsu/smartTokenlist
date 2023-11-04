@@ -38479,7 +38479,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 120
-        }
+        },
+        "web_domains": [
+            "xage.com"
+        ]
     },
     {
         "contract_address": "0x29f24a20ca6233e176151df5ee01160039df36ba",
