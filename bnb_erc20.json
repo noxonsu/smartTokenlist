@@ -39461,7 +39461,9 @@
         ],
         "holders": {
             "bsc": 509
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2ba64efb7a4ec8983e22a49c81fa216ac33f383a",
@@ -39589,7 +39591,11 @@
         },
         "web_domains": [
             "geckoterminal.com"
-        ]
+        ],
+        "telegram_groups": [
+            "geckoterminal"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa1ccd6982c111d3fe5bf348044335ba0fefca688",
