@@ -38819,7 +38819,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 3
-        }
+        },
+        "web_domains": [
+            "willowbbows.com"
+        ]
     },
     {
         "contract_address": "0xae8bed52f39374f5b59e3c737488eddf13d7735b",
