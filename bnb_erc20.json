@@ -38482,7 +38482,9 @@
         },
         "web_domains": [
             "xage.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x29f24a20ca6233e176151df5ee01160039df36ba",
@@ -38509,7 +38511,8 @@
         ],
         "holders": {
             "bsc": 9
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x511cdbcb0ac3a813c57b7c90c759bbf07c57578b",
