@@ -39869,7 +39869,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 236
-        }
+        },
+        "web_domains": [
+            "sheikhshibatoken.com"
+        ]
     },
     {
         "contract_address": "0x7e52a123ed6db6ac872a875552935fbbd2544c86",
