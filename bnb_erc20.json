@@ -39666,7 +39666,11 @@
         },
         "web_domains": [
             "nexadapp.com"
-        ]
+        ],
+        "telegram_groups": [
+            "NexaDApp"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xccb63641e1cb0c1dd22ca94fc0f247ef860b9ea4",
@@ -39754,7 +39758,9 @@
         },
         "web_domains": [
             "boredpepe.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc4e6d2a6faa15480eb6118dde2bd3f3a35d458ca",
