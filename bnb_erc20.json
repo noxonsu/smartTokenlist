@@ -39872,7 +39872,11 @@
         },
         "web_domains": [
             "sheikhshibatoken.com"
-        ]
+        ],
+        "telegram_groups": [
+            "SheikhShibaBSC"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7e52a123ed6db6ac872a875552935fbbd2544c86",
