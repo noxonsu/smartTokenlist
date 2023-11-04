@@ -35139,7 +35139,8 @@
         ],
         "holders": {
             "bsc": 1381
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2c8711721560867d57522429ebac55af0e111111",
@@ -39014,7 +39015,9 @@
         },
         "web_domains": [
             "app.acryptos.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x407fd25c579c96f1a4c634c21cecc726a8563019",
@@ -39058,7 +39061,8 @@
         ],
         "holders": {
             "bsc": 189
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xae42db5e2ceb757cb7875abe6ecd6be9b1c12903",
@@ -39103,7 +39107,9 @@
         },
         "web_domains": [
             "gemini.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xbfc1efa766dafac0392559b14569e2541fc20705",
