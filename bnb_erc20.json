@@ -39011,7 +39011,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 6
-        }
+        },
+        "web_domains": [
+            "app.acryptos.com"
+        ]
     },
     {
         "contract_address": "0x407fd25c579c96f1a4c634c21cecc726a8563019",
@@ -39097,7 +39100,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 13
-        }
+        },
+        "web_domains": [
+            "gemini.com"
+        ]
     },
     {
         "contract_address": "0xbfc1efa766dafac0392559b14569e2541fc20705",
