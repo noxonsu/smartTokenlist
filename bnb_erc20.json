@@ -40182,5 +40182,82 @@
         "holders": {
             "bsc": 3857
         }
+    },
+    {
+        "contract_address": "0x50bb1abc801e6fdadeb01d5ee7c1f82d4f965523",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 37
+        }
+    },
+    {
+        "contract_address": "0xe2a59d5e33c6540e18aaa46bf98917ac3158db0d",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 4636
+        }
+    },
+    {
+        "contract_address": "0xb062a839a8db1d25f605b2be67e84b72b822f072",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 68
+        }
+    },
+    {
+        "contract_address": "0xe733caff0791b0e519214e93549f7686984e4a44",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 1
+        }
+    },
+    {
+        "contract_address": "0x27eb86023b522d4ad2da11fd06a8f5d7e3a9252e",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 5935
+        }
+    },
+    {
+        "contract_address": "0xa1184492ebd5353449d08e28703e7b647837ac93",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 16
+        }
+    },
+    {
+        "contract_address": "0x7d18f3fe6e638fad0adacc5db1a47f871a2c2cc4",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 4087
+        }
+    },
+    {
+        "contract_address": "0x6ec31efda9208c57f2e9ede93a0af627dcb76aa8",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 80
+        }
+    },
+    {
+        "contract_address": "0x6a684b3578f5b07c0aa02fafc33ed248ae0c2db2",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 53424
+        }
+    },
+    {
+        "contract_address": "0x0104f019c8889bdabc62ae6c7b84f6f2ed351133",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 640
+        }
+    },
+    {
+        "contract_address": "0x725a11b9fd4dcbb2d5a00b60c4a72dfec9d984f8",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 373
+        }
     }
 ]
