@@ -40226,7 +40226,9 @@
         },
         "web_domains": [
             "www.reyanfinance.com.au"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7d18f3fe6e638fad0adacc5db1a47f871a2c2cc4",
