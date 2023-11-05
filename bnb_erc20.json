@@ -40838,7 +40838,9 @@
         "holders": {
             "bsc": 134
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: The chat_id \"RedCoinUtilityBot\" belongs to a user"
     },
     {
         "contract_address": "0x7f11290e06bfeda487a8ce23d86cfd7e8f5e66c8",
