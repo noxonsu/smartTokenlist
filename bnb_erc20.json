@@ -41406,7 +41406,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 150
-        }
+        },
+        "web_domains": [
+            "firo.org"
+        ]
     },
     {
         "contract_address": "0xd3366475b652f8375fa39326b4bda4aebc3cb0d0",
