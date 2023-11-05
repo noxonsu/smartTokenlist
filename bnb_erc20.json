@@ -39876,7 +39876,9 @@
         "telegram_groups": [
             "SheikhShibaBSC"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x7e52a123ed6db6ac872a875552935fbbd2544c86",
@@ -39974,7 +39976,9 @@
         "holders": {
             "bsc": 44
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xd52085f72b28fa237da23b88c867749af7304282",
@@ -40122,7 +40126,9 @@
         "telegram_groups": [
             "timemium"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x270ad620a4aa80d851286da7b3e8f387a854969d",
