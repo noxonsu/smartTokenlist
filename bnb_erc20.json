@@ -41050,5 +41050,268 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x1c400c00c80d7fcc76489899e09d567061321021",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fcltoken.xyz"
+        ],
+        "telegram_groups": [
+            "Fclbsc"
+        ],
+        "holders": {
+            "bsc": 1031
+        }
+    },
+    {
+        "contract_address": "0x9b0c4182b88c036e70ae06095b1c05de67af6bc4",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 47
+        }
+    },
+    {
+        "contract_address": "0x9951a5b7b958e46918fba5fe568a258a60c6f263",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 46
+        }
+    },
+    {
+        "contract_address": "0x2ba66777265733827aa472bc965baa1362b796e0",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 113
+        }
+    },
+    {
+        "contract_address": "0xfa160f26ae82c92ab0c583bc1ae46a25512c9f87",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 179
+        }
+    },
+    {
+        "contract_address": "0x4ef285c8cbe52267c022c39da98b97ca4b7e2ff9",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 1203
+        }
+    },
+    {
+        "contract_address": "0x35b05df70975f0d62764bbea44cd13df5eec051f",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 52
+        }
+    },
+    {
+        "contract_address": "0x224674c0e17b2b1776cfb4e88dc779fc0282dda2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "altheabsc.xyz"
+        ],
+        "telegram_groups": [
+            "altheaportal"
+        ],
+        "holders": {
+            "bsc": 227
+        }
+    },
+    {
+        "contract_address": "0x2f0c6e147974bfbf7da557b88643d74c324053a2",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 24820
+        }
+    },
+    {
+        "contract_address": "0x64da67a12a46f1ddf337393e2da12ed0a507ad3d",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 2693
+        }
+    },
+    {
+        "contract_address": "0x2724358279dc913bef672771cd7b96c4c26a9bf5",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 3
+        }
+    },
+    {
+        "contract_address": "0x0c8b8ef4f0a7086ab79b17d615ac4afd9b91103a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "botex.app"
+        ],
+        "telegram_groups": [
+            "BOTeX_app"
+        ],
+        "holders": {
+            "bsc": 126
+        }
+    },
+    {
+        "contract_address": "0x41d31a57fec6d6cbd0a128e5b206df182b62e3d7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pikakitty.site"
+        ],
+        "telegram_groups": [
+            "PikaKittyBSC"
+        ],
+        "holders": {
+            "bsc": 44
+        }
+    },
+    {
+        "contract_address": "0x68bdcca10905a3ef6c8c3ed2918174805ef67b48",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bibitoken.net"
+        ],
+        "telegram_groups": [
+            "BibiTokenBSC"
+        ],
+        "holders": {
+            "bsc": 657
+        }
+    },
+    {
+        "contract_address": "0x3491deadb3d46c9d396d72dc4208ee0e5b86cf7e",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 397
+        }
+    },
+    {
+        "contract_address": "0xec5d9522ebb7497707cb09e98eb22654ce7b5f92",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 377
+        }
+    },
+    {
+        "contract_address": "0xe6eb0485b6095c9b8ec9d612b16388ec39c09385",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 450
+        }
+    },
+    {
+        "contract_address": "0xf22a73cf5e9fc16cccef60b92771191fb74668df",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 55
+        }
+    },
+    {
+        "contract_address": "0xc70a6fdfad544f68505f7b5805a716cb7e90dc02",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 7
+        }
+    },
+    {
+        "contract_address": "0x319b1f19657eda70e6462e165dd36a1bdf2cfcc3",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 39
+        }
+    },
+    {
+        "contract_address": "0x863a02b83b4b49c242abd925321d19cd202a1559",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 638
+        }
+    },
+    {
+        "contract_address": "0xcaf5191fc480f43e4df80106c7695eca56e48b18",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 7350
+        }
+    },
+    {
+        "contract_address": "0x95ee03e1e2c5c4877f9a298f1c0d6c98698fab7b",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 10870
+        }
+    },
+    {
+        "contract_address": "0x6a04a775a961ce3e619686942c2879942bf1e824",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 113
+        }
+    },
+    {
+        "contract_address": "0x9a3e2ff1d64a65be0048d6da2bb88b11a15bdb81",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "thehahatoken"
+        ],
+        "holders": {
+            "bsc": 127
+        }
+    },
+    {
+        "contract_address": "0x87374baef80590f5274bae9c2533e10b6a3a79b8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.rockettothemoon.io"
+        ],
+        "telegram_groups": [
+            "rocketcoinportal"
+        ],
+        "holders": {
+            "bsc": 613
+        }
+    },
+    {
+        "contract_address": "0x725dfc2084d6672d541a91196312083ebbf97439",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 3
+        }
+    },
+    {
+        "contract_address": "0xaa076b62efc6f357882e07665157a271ab46a063",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 514
+        }
+    },
+    {
+        "contract_address": "0x061e64f1293bc49402a867cc6411987148bcdb1b",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 556
+        }
+    },
+    {
+        "contract_address": "0x151b1e2635a717bcdc836ecd6fbb62b674fe3e1d",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 10929
+        }
+    },
+    {
+        "contract_address": "0x5fa86f0dafddbdfd66becd9dce040673c7eda11e",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 23
+        }
+    },
+    {
+        "contract_address": "0x55671114d774ee99d653d6c12460c780a67f1d18",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 11722
+        }
     }
 ]
