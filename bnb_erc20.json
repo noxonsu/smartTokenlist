@@ -40852,7 +40852,10 @@
         ],
         "holders": {
             "bsc": 30
-        }
+        },
+        "web_domains": [
+            "babybibi.com"
+        ]
     },
     {
         "contract_address": "0x71009d9e0b032d75d6e7513ff962409b07d5ed45",
