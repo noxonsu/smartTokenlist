@@ -40476,7 +40476,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 57
-        }
+        },
+        "web_domains": [
+            "noahswap.io"
+        ]
     },
     {
         "contract_address": "0x24dcd565ba10c64daf1e9faedb0f09a9053c6d07",
@@ -40511,7 +40514,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 6
-        }
+        },
+        "web_domains": [
+            "worldcoin.org"
+        ]
     },
     {
         "contract_address": "0xd73f4509d8dcf5d5a7337bedd3a879cd0dcf41d5",
