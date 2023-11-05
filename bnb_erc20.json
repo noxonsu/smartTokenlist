@@ -41083,7 +41083,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 113
-        }
+        },
+        "web_domains": [
+            "makiswap.com"
+        ]
     },
     {
         "contract_address": "0xfa160f26ae82c92ab0c583bc1ae46a25512c9f87",
@@ -41247,7 +41250,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 113
-        }
+        },
+        "web_domains": [
+            "abc.bi"
+        ]
     },
     {
         "contract_address": "0x9a3e2ff1d64a65be0048d6da2bb88b11a15bdb81",
