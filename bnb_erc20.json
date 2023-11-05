@@ -41345,5 +41345,101 @@
         "holders": {
             "bsc": 11722
         }
+    },
+    {
+        "contract_address": "0x26734add0650719ea29087fe5cc0aab81b4f237d",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 3521
+        }
+    },
+    {
+        "contract_address": "0x6c619006043eab742355395690c7b42d3411e8c0",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 1617
+        }
+    },
+    {
+        "contract_address": "0x6e2adf245832f7afe3a2a4276a8b0a4203d2b50b",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 53
+        }
+    },
+    {
+        "contract_address": "0x620801044426b32fa9dfb24c1412e0ea158e090f",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 400
+        }
+    },
+    {
+        "contract_address": "0xe73cb7749dab362e69b48e3de54a646c078d264b",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 21444
+        }
+    },
+    {
+        "contract_address": "0x30391b5a1fbfc3ccafc16acfc4aacec01b09ce8a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "BNBSnake.dog"
+        ],
+        "telegram_groups": [
+            "istokenair"
+        ],
+        "holders": {
+            "bsc": 1249
+        }
+    },
+    {
+        "contract_address": "0x48c6b2a82a21230347b70ceada249208c0920412",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 11596
+        }
+    },
+    {
+        "contract_address": "0x434f29ed978cfc37434ae2c718e46d7098e66d80",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 150
+        }
+    },
+    {
+        "contract_address": "0xd3366475b652f8375fa39326b4bda4aebc3cb0d0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "scryptos.net"
+        ],
+        "telegram_groups": [
+            "Scrypt0chat"
+        ],
+        "holders": {
+            "bsc": 1020
+        }
+    },
+    {
+        "contract_address": "0xa3ed02eb78b70fadcf9195ab2cdf0866d88113a0",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 328
+        }
+    },
+    {
+        "contract_address": "0x6c25d7d23b4d8d55cc1cf2164709050c80ae127d",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 20
+        }
+    },
+    {
+        "contract_address": "0xe9259955f7aeb0887747da42e4373cd1137721b7",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 49
+        }
     }
 ]
