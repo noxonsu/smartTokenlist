@@ -40775,5 +40775,111 @@
         "holders": {
             "bsc": 2077
         }
+    },
+    {
+        "contract_address": "0xb32ac3c79a94ac1eb258f3c830bbdbc676483c93",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 2831
+        }
+    },
+    {
+        "contract_address": "0x290c77af3fe41bae4531bd12de6906a4046e531d",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 166
+        }
+    },
+    {
+        "contract_address": "0x91dc92be0bfc47db50790949f423b62282887292",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 432
+        }
+    },
+    {
+        "contract_address": "0x6674286b6db58bc0ad30d87f957607290176813f",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "BabyHotdogeBsc"
+        ],
+        "holders": {
+            "bsc": 21
+        }
+    },
+    {
+        "contract_address": "0x420134d72296655c8aa7e5d10a54876a84e9fb18",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 51
+        }
+    },
+    {
+        "contract_address": "0x2a913fac5177c6e00d6428f278559e0df472d4a1",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "bscbabygrok"
+        ],
+        "holders": {
+            "bsc": 5
+        }
+    },
+    {
+        "contract_address": "0xaffae8024a86e4848b06b9bcf9172196e05e6246",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.redcoin.site"
+        ],
+        "telegram_groups": [
+            "RedCoinCommunityBsc"
+        ],
+        "holders": {
+            "bsc": 134
+        }
+    },
+    {
+        "contract_address": "0x7f11290e06bfeda487a8ce23d86cfd7e8f5e66c8",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 2937
+        }
+    },
+    {
+        "contract_address": "0xb1d1f65713527cee012fc7d24a56426fb333c18a",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "BabyBibibep20"
+        ],
+        "holders": {
+            "bsc": 30
+        }
+    },
+    {
+        "contract_address": "0x71009d9e0b032d75d6e7513ff962409b07d5ed45",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 23
+        }
+    },
+    {
+        "contract_address": "0x591e08aa36446aa6daec095844f8e0816074390f",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 6
+        }
+    },
+    {
+        "contract_address": "0xb1a1d06d42a43a8fcfdc7fdcd744f7ef03e8ad1a",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 24748
+        }
+    },
+    {
+        "contract_address": "0xe0d836c902dde2afa0e0f911b24124fdcfd7ae5e",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 23
+        }
     }
 ]
