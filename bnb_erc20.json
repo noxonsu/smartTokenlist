@@ -41086,7 +41086,12 @@
         },
         "web_domains": [
             "makiswap.com"
-        ]
+        ],
+        "telegram_groups": [
+            "MakiSwapPriceTalk",
+            "makiswap"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xfa160f26ae82c92ab0c583bc1ae46a25512c9f87",
@@ -41120,7 +41125,8 @@
         ],
         "holders": {
             "bsc": 227
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2f0c6e147974bfbf7da557b88643d74c324053a2",
@@ -41154,7 +41160,8 @@
         ],
         "holders": {
             "bsc": 126
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x41d31a57fec6d6cbd0a128e5b206df182b62e3d7",
@@ -41167,7 +41174,8 @@
         ],
         "holders": {
             "bsc": 44
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x68bdcca10905a3ef6c8c3ed2918174805ef67b48",
@@ -41180,7 +41188,8 @@
         ],
         "holders": {
             "bsc": 657
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3491deadb3d46c9d396d72dc4208ee0e5b86cf7e",
@@ -41253,7 +41262,9 @@
         },
         "web_domains": [
             "abc.bi"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9a3e2ff1d64a65be0048d6da2bb88b11a15bdb81",
