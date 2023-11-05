@@ -40944,7 +40944,10 @@
         ],
         "holders": {
             "bsc": 48
-        }
+        },
+        "web_domains": [
+            "vanetchain.live"
+        ]
     },
     {
         "contract_address": "0x813cc0a6353e1123fa4ac83ea8ee2835350886e2",
@@ -41033,6 +41036,9 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 58
-        }
+        },
+        "web_domains": [
+            "bscs.org"
+        ]
     }
 ]
