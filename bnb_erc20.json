@@ -41409,7 +41409,12 @@
         },
         "web_domains": [
             "firo.org"
-        ]
+        ],
+        "telegram_groups": [
+            "fironews",
+            "firoorg"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd3366475b652f8375fa39326b4bda4aebc3cb0d0",
