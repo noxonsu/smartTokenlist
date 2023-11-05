@@ -40831,11 +40831,14 @@
             "www.redcoin.site"
         ],
         "telegram_groups": [
-            "RedCoinCommunityBsc"
+            "RedCoinUtilityBot",
+            "RedCoinCommunityBsc",
+            "maestro"
         ],
         "holders": {
             "bsc": 134
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7f11290e06bfeda487a8ce23d86cfd7e8f5e66c8",
@@ -40855,7 +40858,8 @@
         },
         "web_domains": [
             "babybibi.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x71009d9e0b032d75d6e7513ff962409b07d5ed45",
