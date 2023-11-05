@@ -41466,11 +41466,13 @@
             "flokisafemoon.org"
         ],
         "telegram_groups": [
+            "flokisafemoonbsc",
             "FlokiSafeMoonbsc"
         ],
         "holders": {
             "bsc": 791
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x46ce90fd8bc56a3e0b84d11c81f7d97f7d1fd2b5",
@@ -41532,7 +41534,11 @@
         },
         "web_domains": [
             "pestfreetoken.co.nz"
-        ]
+        ],
+        "telegram_groups": [
+            "pestfreetoken"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x17fd3caa66502c6f1cbd5600d8448f3af8f2aba1",
@@ -41569,11 +41575,12 @@
         ],
         "telegram_groups": [
             "Rixow_Ai",
-            "Rixow_Ai"
+            "Freedomxll"
         ],
         "holders": {
             "bsc": 70
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x47cc5334f65611ea6be9e933c49485c88c17f5f0",
