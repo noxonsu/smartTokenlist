@@ -41529,7 +41529,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 195
-        }
+        },
+        "web_domains": [
+            "pestfreetoken.co.nz"
+        ]
     },
     {
         "contract_address": "0x17fd3caa66502c6f1cbd5600d8448f3af8f2aba1",
