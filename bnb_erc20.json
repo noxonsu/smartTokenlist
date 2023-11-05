@@ -40861,7 +40861,9 @@
         "web_domains": [
             "babybibi.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x71009d9e0b032d75d6e7513ff962409b07d5ed45",
@@ -40949,7 +40951,9 @@
         "web_domains": [
             "vanetchain.live"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x813cc0a6353e1123fa4ac83ea8ee2835350886e2",
@@ -40993,7 +40997,9 @@
         "holders": {
             "bsc": 350
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large3519"
     },
     {
         "contract_address": "0x33854f5f98ccc9ee7507539c807950d8c1a0dae2",
