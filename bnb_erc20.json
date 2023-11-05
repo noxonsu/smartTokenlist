@@ -40037,7 +40037,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 249
-        }
+        },
+        "web_domains": [
+            "nfl.rivals.game"
+        ]
     },
     {
         "contract_address": "0x9d7c580e0bc4ea441db96eebc7e1440d264bce51",
@@ -40110,7 +40113,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 25
-        }
+        },
+        "web_domains": [
+            "timemium.com"
+        ]
     },
     {
         "contract_address": "0x270ad620a4aa80d851286da7b3e8f387a854969d",
