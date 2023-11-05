@@ -40479,7 +40479,9 @@
         },
         "web_domains": [
             "noahswap.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x24dcd565ba10c64daf1e9faedb0f09a9053c6d07",
@@ -40517,7 +40519,11 @@
         },
         "web_domains": [
             "worldcoin.org"
-        ]
+        ],
+        "telegram_groups": [
+            "worldcoin"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd73f4509d8dcf5d5a7337bedd3a879cd0dcf41d5",
