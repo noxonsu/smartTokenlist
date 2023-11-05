@@ -40040,7 +40040,9 @@
         },
         "web_domains": [
             "nfl.rivals.game"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9d7c580e0bc4ea441db96eebc7e1440d264bce51",
@@ -40116,7 +40118,11 @@
         },
         "web_domains": [
             "timemium.com"
-        ]
+        ],
+        "telegram_groups": [
+            "timemium"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x270ad620a4aa80d851286da7b3e8f387a854969d",
