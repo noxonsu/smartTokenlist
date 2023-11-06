@@ -42096,7 +42096,9 @@
             "FunFundDaoOfficial",
             "FunFundDaoChannel"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: The chat_id \"FunFundDaoOfficial\" belongs to a user"
     },
     {
         "contract_address": "0x769c6f0c5c2bcd1b76638bd58e5350f5c94128f3",
