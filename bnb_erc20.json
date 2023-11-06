@@ -41818,7 +41818,9 @@
         "holders": {
             "bsc": 783
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large1004"
     },
     {
         "contract_address": "0x61dc650c10ec3c758d251cd2d1ab45af1a43e941",
@@ -41846,7 +41848,9 @@
         "telegram_groups": [
             "lendrnetwork"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large11980"
     },
     {
         "contract_address": "0x1e2b832edd325e85eac987d3e6a95861f6280c46",
