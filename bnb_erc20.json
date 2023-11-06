@@ -41713,7 +41713,9 @@
         },
         "web_domains": [
             "grokzilla.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9b73d18b1f963f11e086479b5327ae7d1742d5ed",
@@ -41765,7 +41767,11 @@
         },
         "web_domains": [
             "davos.xyz"
-        ]
+        ],
+        "telegram_groups": [
+            "davosprotocol"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9fa5c3d4a89f25efa7922b2cfb0d2f3532b0ead8",
