@@ -42387,7 +42387,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 177
-        }
+        },
+        "web_domains": [
+            "gow39.com"
+        ]
     },
     {
         "contract_address": "0x0436f4d1e21e294cb1c48365322890bfcfbb8e0e",
