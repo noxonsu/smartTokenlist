@@ -41472,7 +41472,9 @@
         "holders": {
             "bsc": 791
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x46ce90fd8bc56a3e0b84d11c81f7d97f7d1fd2b5",
@@ -41538,7 +41540,9 @@
         "telegram_groups": [
             "pestfreetoken"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x17fd3caa66502c6f1cbd5600d8448f3af8f2aba1",
@@ -41580,7 +41584,9 @@
         "holders": {
             "bsc": 70
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x47cc5334f65611ea6be9e933c49485c88c17f5f0",
@@ -41771,7 +41777,9 @@
         "telegram_groups": [
             "davosprotocol"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large10155"
     },
     {
         "contract_address": "0x9fa5c3d4a89f25efa7922b2cfb0d2f3532b0ead8",
