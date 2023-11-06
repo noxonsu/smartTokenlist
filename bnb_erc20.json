@@ -41710,7 +41710,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 1
-        }
+        },
+        "web_domains": [
+            "grokzilla.com"
+        ]
     },
     {
         "contract_address": "0x9b73d18b1f963f11e086479b5327ae7d1742d5ed",
@@ -41759,7 +41762,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 113
-        }
+        },
+        "web_domains": [
+            "davos.xyz"
+        ]
     },
     {
         "contract_address": "0x9fa5c3d4a89f25efa7922b2cfb0d2f3532b0ead8",
