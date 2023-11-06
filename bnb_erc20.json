@@ -42390,7 +42390,11 @@
         },
         "web_domains": [
             "gow39.com"
-        ]
+        ],
+        "telegram_groups": [
+            "gow39_portal"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0436f4d1e21e294cb1c48365322890bfcfbb8e0e",
