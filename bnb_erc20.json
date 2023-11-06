@@ -42072,7 +42072,9 @@
         },
         "web_domains": [
             "www.fxst.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xae6f43f0a21ec9fe86da022cddb897a81c7f5e56",
@@ -42089,7 +42091,12 @@
         },
         "web_domains": [
             "funfunddao.io"
-        ]
+        ],
+        "telegram_groups": [
+            "FunFundDaoOfficial",
+            "FunFundDaoChannel"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x769c6f0c5c2bcd1b76638bd58e5350f5c94128f3",
@@ -42100,7 +42107,9 @@
         ],
         "holders": {
             "bsc": 626
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x39ea355dd0d4da4d82e2629ef74c416bb15b9ccb",
