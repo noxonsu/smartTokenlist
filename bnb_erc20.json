@@ -42069,7 +42069,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 116
-        }
+        },
+        "web_domains": [
+            "www.fxst.io"
+        ]
     },
     {
         "contract_address": "0xae6f43f0a21ec9fe86da022cddb897a81c7f5e56",
@@ -42083,7 +42086,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 299
-        }
+        },
+        "web_domains": [
+            "funfunddao.io"
+        ]
     },
     {
         "contract_address": "0x769c6f0c5c2bcd1b76638bd58e5350f5c94128f3",
