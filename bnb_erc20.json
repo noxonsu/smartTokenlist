@@ -41812,11 +41812,13 @@
             "babypepe.pet"
         ],
         "telegram_groups": [
-            "BabyPepeOfficial"
+            "BabyPepeOfficial",
+            "BabyPEPEEntire"
         ],
         "holders": {
             "bsc": 783
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x61dc650c10ec3c758d251cd2d1ab45af1a43e941",
@@ -41840,7 +41842,11 @@
         ],
         "holders": {
             "bsc": 106
-        }
+        },
+        "telegram_groups": [
+            "lendrnetwork"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1e2b832edd325e85eac987d3e6a95861f6280c46",
