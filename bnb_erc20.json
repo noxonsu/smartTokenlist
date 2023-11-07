@@ -42549,7 +42549,11 @@
         },
         "web_domains": [
             "coinmooner.com"
-        ]
+        ],
+        "telegram_groups": [
+            "CoinMoonerAds"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x17a39482e7f42ebb0f65d2978dcb1423e399d07a",
@@ -42566,7 +42570,11 @@
         },
         "web_domains": [
             "perpetualwlt.pro"
-        ]
+        ],
+        "telegram_groups": [
+            "Perpetualwalletofficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x015b6ecb00159c35ee2311085e7c3fcf364da39e",
@@ -42576,7 +42584,11 @@
         },
         "web_domains": [
             "nimbusplatform.io"
-        ]
+        ],
+        "telegram_groups": [
+            "nmbplatform"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb4f2b142a92823e11be9d48dd017933ee35472b3",
@@ -42596,7 +42608,9 @@
         },
         "web_domains": [
             "glginsights.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc21a348088c2f187fd00c8a6a5f14afbb40f0a38",
@@ -42613,7 +42627,11 @@
         },
         "web_domains": [
             "armordoge.com"
-        ]
+        ],
+        "telegram_groups": [
+            "armordoge"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7f82d3ff5274833d0b9da7692bb94bca134e14c3",
@@ -42630,7 +42648,11 @@
         },
         "web_domains": [
             "babymeme.fun"
-        ]
+        ],
+        "telegram_groups": [
+            "babymemeeth"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbbca42c60b5290f2c48871a596492f93ff0ddc82",
