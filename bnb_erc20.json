@@ -44127,7 +44127,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 161
-        }
+        },
+        "web_domains": [
+            "mondayclub.io"
+        ]
     },
     {
         "contract_address": "0x63f79d1de735c922cfce240b6c1cc30a00214f8c",
