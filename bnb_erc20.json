@@ -43514,5 +43514,130 @@
         "holders": {
             "bsc": 1010
         }
+    },
+    {
+        "contract_address": "0xe2bea6e78cbecb02c26a827362782488ce470f2a",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 14
+        }
+    },
+    {
+        "contract_address": "0x7893697cf75ba52841cf8e4c40f37be6d1dd5074",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 1
+        }
+    },
+    {
+        "contract_address": "0x0301dfd175335d56d0ebf3fd5c87a3feb7c7981f",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 181
+        }
+    },
+    {
+        "contract_address": "0xfd6c6985def9bf584daf7c8980046dc8fc492690",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 1571
+        }
+    },
+    {
+        "contract_address": "0xca577300fae3e4cd3001f453936093d7b1b68d10",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 867
+        }
+    },
+    {
+        "contract_address": "0xba0c88bd9b2f0f5593f0c850bcccf78820f5d604",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 6356
+        }
+    },
+    {
+        "contract_address": "0xd012fa1139db80db7f84d404be83da8ef5691626",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 392
+        }
+    },
+    {
+        "contract_address": "0xf091d47f985b06ccec6daf2075f86553a97da231",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 234
+        }
+    },
+    {
+        "contract_address": "0x6421282c7f14670d738f4651311c5a1286e46484",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "breeze.foundation"
+        ],
+        "holders": {
+            "bsc": 225
+        }
+    },
+    {
+        "contract_address": "0x9cff54cf6dcfcdfac7387f0d6aa47ec14b032646",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pawstars.org"
+        ],
+        "telegram_groups": [
+            "PawstarCommunity"
+        ],
+        "holders": {
+            "bsc": 415
+        }
+    },
+    {
+        "contract_address": "0x6fe14c5921c3dbf78df21c31bb00c4646c588888",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "GGGDOG_EN",
+            "GGGDOG_ZH"
+        ],
+        "holders": {
+            "bsc": 2135
+        }
+    },
+    {
+        "contract_address": "0x959229d94c9060552daea25ac17193bca65d7884",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 2970
+        }
+    },
+    {
+        "contract_address": "0xb001f1e7c8bda414ac7cf7ecba5469fe8d24b6de",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 1317
+        }
+    },
+    {
+        "contract_address": "0x7980d84ffcb623f492273b4fbd9289aa32dc62d2",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 802
+        }
+    },
+    {
+        "contract_address": "0x66592b510fe0217364208b4ad9894925f5212a63",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 5233
+        }
+    },
+    {
+        "contract_address": "0x552ceb4330ea92c66cdaa457d26524766b7c32da",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 5138
+        }
     }
 ]
