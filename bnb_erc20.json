@@ -44130,7 +44130,9 @@
         },
         "web_domains": [
             "mondayclub.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x63f79d1de735c922cfce240b6c1cc30a00214f8c",
@@ -44150,7 +44152,8 @@
         ],
         "holders": {
             "bsc": 162
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc83b91bd9722e0972f3bed6517a0815e1fb5287a",
