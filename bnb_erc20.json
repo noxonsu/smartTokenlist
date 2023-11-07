@@ -43297,7 +43297,9 @@
         "holders": {
             "bsc": 616
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large2093"
     },
     {
         "contract_address": "0x41d915625253d92fa9bde69b3115f89f4ce60481",
@@ -43705,7 +43707,9 @@
         "telegram_groups": [
             "tipmeacoffee"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large4184"
     },
     {
         "contract_address": "0x9cff54cf6dcfcdfac7387f0d6aa47ec14b032646",
@@ -43720,7 +43724,9 @@
         "holders": {
             "bsc": 415
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x6fe14c5921c3dbf78df21c31bb00c4646c588888",
@@ -43801,7 +43807,9 @@
         "web_domains": [
             "snoopy-coin.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x9ffe2221d30d91e4b0fdd9c191278193038a7b62",
@@ -43872,7 +43880,9 @@
         "telegram_groups": [
             "DiamondLaunch"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large16824"
     },
     {
         "contract_address": "0xf4196172911e47074f8f601339438e4a50075153",
@@ -44148,12 +44158,14 @@
             "neoxiecosystem.com"
         ],
         "telegram_groups": [
-            "Neoxiecosystemofficial"
+            null
         ],
         "holders": {
             "bsc": 162
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: '<' not supported between instances of 'NoneType' and 'int'"
     },
     {
         "contract_address": "0xc83b91bd9722e0972f3bed6517a0815e1fb5287a",
