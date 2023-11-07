@@ -44305,7 +44305,9 @@
         "web_domains": [
             "santafloki.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x826d6b3326bd9c09cf1a40437629207d366c8abb",
@@ -44438,7 +44440,9 @@
         "holders": {
             "bsc": 717
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large2248"
     },
     {
         "contract_address": "0xc5b69f5e4b6eb0911b845c3874717c394dcb2016",
