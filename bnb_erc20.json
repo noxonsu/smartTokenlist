@@ -43868,7 +43868,11 @@
         },
         "web_domains": [
             "diamondlaunch.io"
-        ]
+        ],
+        "telegram_groups": [
+            "DiamondLaunch"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf4196172911e47074f8f601339438e4a50075153",
@@ -43941,7 +43945,9 @@
         },
         "web_domains": [
             "xvpn.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x92812f8522073218b2e2fb3169fd448322bf3a50",
