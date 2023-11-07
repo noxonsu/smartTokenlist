@@ -42688,11 +42688,13 @@
             "bypass-exchange.com"
         ],
         "telegram_groups": [
+            "bypass_exchange_bot",
             "BypassCommunity"
         ],
         "holders": {
             "bsc": 952
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x866e7b8f76cf2435fde81dea9fb4693ba002df8f",
@@ -43038,7 +43040,8 @@
         ],
         "holders": {
             "bsc": 57
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xeceb24a37e70d9fd29c30513050cd87f5d77e7b7",
@@ -43168,7 +43171,8 @@
         ],
         "holders": {
             "bsc": 49
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9b9549ac0fd28bb1c096dceb8a1f3ff190451564",
@@ -43191,11 +43195,13 @@
             "babymeme.vip"
         ],
         "telegram_groups": [
-            "babymemecoingroupglobal"
+            "babymemecoingroupglobal",
+            "babymemecoinchanel"
         ],
         "holders": {
             "bsc": 616
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x41d915625253d92fa9bde69b3115f89f4ce60481",
@@ -43579,7 +43585,11 @@
         ],
         "holders": {
             "bsc": 225
-        }
+        },
+        "telegram_groups": [
+            "tipmeacoffee"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9cff54cf6dcfcdfac7387f0d6aa47ec14b032646",
@@ -43588,11 +43598,13 @@
             "pawstars.org"
         ],
         "telegram_groups": [
-            "PawstarCommunity"
+            "PawstarCommunity",
+            "pawsniper_bot"
         ],
         "holders": {
             "bsc": 415
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6fe14c5921c3dbf78df21c31bb00c4646c588888",
