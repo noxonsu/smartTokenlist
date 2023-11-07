@@ -42546,7 +42546,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 63
-        }
+        },
+        "web_domains": [
+            "coinmooner.com"
+        ]
     },
     {
         "contract_address": "0x17a39482e7f42ebb0f65d2978dcb1423e399d07a",
@@ -42560,14 +42563,20 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 7
-        }
+        },
+        "web_domains": [
+            "perpetualwlt.pro"
+        ]
     },
     {
         "contract_address": "0x015b6ecb00159c35ee2311085e7c3fcf364da39e",
         "sourceScanned": "processed",
         "holders": {
             "bsc": 116
-        }
+        },
+        "web_domains": [
+            "nimbusplatform.io"
+        ]
     },
     {
         "contract_address": "0xb4f2b142a92823e11be9d48dd017933ee35472b3",
@@ -42584,7 +42593,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 43
-        }
+        },
+        "web_domains": [
+            "glginsights.com"
+        ]
     },
     {
         "contract_address": "0xc21a348088c2f187fd00c8a6a5f14afbb40f0a38",
@@ -42598,7 +42610,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 74
-        }
+        },
+        "web_domains": [
+            "armordoge.com"
+        ]
     },
     {
         "contract_address": "0x7f82d3ff5274833d0b9da7692bb94bca134e14c3",
@@ -42612,7 +42627,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 50
-        }
+        },
+        "web_domains": [
+            "babymeme.fun"
+        ]
     },
     {
         "contract_address": "0xbbca42c60b5290f2c48871a596492f93ff0ddc82",
@@ -42872,7 +42890,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 99
-        }
+        },
+        "web_domains": [
+            "wp.forestpepe.io"
+        ]
     },
     {
         "contract_address": "0x6c46422a0f7dbbad9bec3bbbc1189bfaf9794b05",
@@ -42900,7 +42921,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 2
-        }
+        },
+        "web_domains": [
+            "www.nofraud.com"
+        ]
     },
     {
         "contract_address": "0x793999aac7ee28888e3ce37f6695a2e28b2aea4e",
@@ -42921,7 +42945,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 20
-        }
+        },
+        "web_domains": [
+            "polymesh.network"
+        ]
     },
     {
         "contract_address": "0x55a633b3fce52144222e468a326105aa617cc1cc",
