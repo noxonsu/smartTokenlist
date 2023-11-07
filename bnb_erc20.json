@@ -43067,5 +43067,107 @@
         "holders": {
             "bsc": 1179
         }
+    },
+    {
+        "contract_address": "0x16eee14af2d2f3ed32f6b8db718cc858b8332899",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 42
+        }
+    },
+    {
+        "contract_address": "0xa0d79ff0416b0098286458124d4ddd137c708ef3",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 130
+        }
+    },
+    {
+        "contract_address": "0x30c42a79516ed34cf9fd3d67f966c46464e9f628",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.grokbsc.xyz"
+        ],
+        "telegram_groups": [
+            "GROKBSC8"
+        ],
+        "holders": {
+            "bsc": 2806
+        }
+    },
+    {
+        "contract_address": "0x49c38105c777d61b3a658114fa7ca7f9d3aaa792",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 52
+        }
+    },
+    {
+        "contract_address": "0xec8f7f159efdb0617fe0cec65e474a6b2c5e1dc4",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 50
+        }
+    },
+    {
+        "contract_address": "0xf78d2e7936f5fe18308a3b2951a93b6c4a41f5e2",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 2641
+        }
+    },
+    {
+        "contract_address": "0x279dd332330683f2c5c147f0e022756484aa7001",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 2055
+        }
+    },
+    {
+        "contract_address": "0xade0801e35b947a849d6f050ab2d6ccce4c3c48f",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "corgibsc00"
+        ],
+        "holders": {
+            "bsc": 150
+        }
+    },
+    {
+        "contract_address": "0xccdea4ee5d4ada8a772260073a6a77b933bb2fbe",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "MemecoinTG"
+        ],
+        "holders": {
+            "bsc": 67
+        }
+    },
+    {
+        "contract_address": "0xffaa85705ae216363e4e843b67ff3c238fcf0de2",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 22455
+        }
+    },
+    {
+        "contract_address": "0x1b0805f1b20d3b147d515e9b9d3c9c689b390870",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 719
+        }
+    },
+    {
+        "contract_address": "0x44938aacb1b29bdc425f2032bac847e2c604fa63",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "play.google.com"
+        ],
+        "telegram_groups": [
+            "infinitumwalletbsc"
+        ],
+        "holders": {
+            "bsc": 49
+        }
     }
 ]
