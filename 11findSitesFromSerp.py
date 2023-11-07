@@ -21,7 +21,7 @@ def load_and_filter_contracts():
 
 def findOfficialDomain(serp, project_name):
     
-    chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo-0613")
+    chat = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo")
     messages = [
         SystemMessage(content="Analyse SERP and find the official domain of the crypto token "+project_name+". we are only looking for new small projects. skip known domains of popular projects. Return only domain name if found. Return only domain name without quotes etc."),
         HumanMessage(content=f" {serp} \n\n The official domain is: ")

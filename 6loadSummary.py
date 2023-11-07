@@ -59,7 +59,7 @@ def process_sites(data, sites_without_summary):
         "required": ["news_article_title", "news_article_summary"],
     }
 
-    llm = ChatOpenAI(temperature=0, model="gpt-3.5-turbo-0613")
+    llm = ChatOpenAI(temperature=0, model="gpt-3.5-turbo")
 
     for site, contract in sites_without_summary:
         try:
