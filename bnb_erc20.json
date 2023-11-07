@@ -44301,7 +44301,10 @@
         ],
         "holders": {
             "bsc": 104
-        }
+        },
+        "web_domains": [
+            "santafloki.com"
+        ]
     },
     {
         "contract_address": "0x826d6b3326bd9c09cf1a40437629207d366c8abb",
@@ -44439,7 +44442,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 212
-        }
+        },
+        "web_domains": [
+            "thelittleguy.net"
+        ]
     },
     {
         "contract_address": "0xb2aa63f363196caba3154d4187949283f085a488",
