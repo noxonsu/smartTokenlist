@@ -43593,7 +43593,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 70
-        }
+        },
+        "web_domains": [
+            "upbnb.finance"
+        ]
     },
     {
         "contract_address": "0x456b1049ba12f906326891486b2ba93e46ae0369",
@@ -43628,7 +43631,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 14
-        }
+        },
+        "web_domains": [
+            "myneogroup.myneo.org"
+        ]
     },
     {
         "contract_address": "0x7893697cf75ba52841cf8e4c40f37be6d1dd5074",
@@ -43783,7 +43789,10 @@
         ],
         "holders": {
             "bsc": 16
-        }
+        },
+        "web_domains": [
+            "snoopy-coin.com"
+        ]
     },
     {
         "contract_address": "0x9ffe2221d30d91e4b0fdd9c191278193038a7b62",
@@ -43804,7 +43813,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 187
-        }
+        },
+        "web_domains": [
+            "ordinals.com"
+        ]
     },
     {
         "contract_address": "0x135f8d745226bff320cebc6053973932b25a1890",
@@ -43842,7 +43854,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 126
-        }
+        },
+        "web_domains": [
+            "diamondlaunch.io"
+        ]
     },
     {
         "contract_address": "0xf4196172911e47074f8f601339438e4a50075153",
@@ -43912,7 +43927,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 2
-        }
+        },
+        "web_domains": [
+            "xvpn.io"
+        ]
     },
     {
         "contract_address": "0x92812f8522073218b2e2fb3169fd448322bf3a50",
