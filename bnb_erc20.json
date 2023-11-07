@@ -43384,7 +43384,9 @@
         },
         "web_domains": [
             "npgnexplaygame.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf6a2287c1636e6279f7a6e93c9d895676902bd35",
@@ -43464,7 +43466,9 @@
         },
         "web_domains": [
             "groktheworld.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x39c42d59e9d5c241fef15cb714829cfd7e748c2b",
@@ -43596,7 +43600,9 @@
         },
         "web_domains": [
             "upbnb.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x456b1049ba12f906326891486b2ba93e46ae0369",
@@ -43634,7 +43640,9 @@
         },
         "web_domains": [
             "myneogroup.myneo.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7893697cf75ba52841cf8e4c40f37be6d1dd5074",
@@ -43792,7 +43800,8 @@
         },
         "web_domains": [
             "snoopy-coin.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9ffe2221d30d91e4b0fdd9c191278193038a7b62",
@@ -43816,7 +43825,9 @@
         },
         "web_domains": [
             "ordinals.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x135f8d745226bff320cebc6053973932b25a1890",
