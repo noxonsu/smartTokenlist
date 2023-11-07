@@ -44517,7 +44517,9 @@
         ],
         "holders": {
             "bsc": 157
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2466858ab5edad0bb597fe9f008f568b00d25fe3",
@@ -44559,7 +44561,8 @@
         ],
         "holders": {
             "bsc": 178
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2fdf2aaca8a7d8eccb7ceaa6d093c9d817627891",
@@ -44631,6 +44634,8 @@
         },
         "web_domains": [
             "coinsniper.net"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
