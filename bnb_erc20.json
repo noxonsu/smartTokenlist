@@ -44304,7 +44304,8 @@
         },
         "web_domains": [
             "santafloki.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x826d6b3326bd9c09cf1a40437629207d366c8abb",
@@ -44431,11 +44432,13 @@
             "bnbfrog.top"
         ],
         "telegram_groups": [
+            "BNBFrog",
             "bnbfrog"
         ],
         "holders": {
             "bsc": 717
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc5b69f5e4b6eb0911b845c3874717c394dcb2016",
@@ -44445,7 +44448,11 @@
         },
         "web_domains": [
             "thelittleguy.net"
-        ]
+        ],
+        "telegram_groups": [
+            "thelittleguy2023"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb2aa63f363196caba3154d4187949283f085a488",
