@@ -44664,7 +44664,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 22
-        }
+        },
+        "web_domains": [
+            "www.ankaiglobal.com"
+        ]
     },
     {
         "contract_address": "0x5fe8c4a1c12fdee3441a1426a41bdc02206fa2d8",
