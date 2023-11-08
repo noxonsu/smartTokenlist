@@ -45799,7 +45799,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 224
-        }
+        },
+        "web_domains": [
+            "thelastworld.io"
+        ]
     },
     {
         "contract_address": "0x3651947eddcf3a0de7fedb7c4e29eb97d2ca1159",
