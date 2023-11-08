@@ -45202,5 +45202,121 @@
         "holders": {
             "bsc": 564
         }
+    },
+    {
+        "contract_address": "0xf1566911e52e1144f0337d45968036cd37fca983",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 209
+        }
+    },
+    {
+        "contract_address": "0xe5cfffa83a7a204e297df0ee16f777f139c365f7",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 44
+        }
+    },
+    {
+        "contract_address": "0x3d62ee9a3c47255815c11a39e85411c18d8841cf",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 42
+        }
+    },
+    {
+        "contract_address": "0x1e6dcd8559c4cdbc0044ed00383a08b69f462a06",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 4997
+        }
+    },
+    {
+        "contract_address": "0x095317bb7e4a68ef3e211e6076eba3beeacbc404",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "bnbdragonportal",
+            "FreezyDev"
+        ],
+        "holders": {
+            "bsc": 998
+        }
+    },
+    {
+        "contract_address": "0xfcf0c51e5d41ae0648a9c03327b9958f71ddd13e",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 260
+        }
+    },
+    {
+        "contract_address": "0x13c4ae361ad60847b58440aa9c23e87dddb2f7dc",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 251
+        }
+    },
+    {
+        "contract_address": "0x723cae313f6e40f0d502a7e41d3ddaa9d4c18ddb",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 341
+        }
+    },
+    {
+        "contract_address": "0xa2dd9651f54320022af562ce5b25aea69b3b444c",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 3720
+        }
+    },
+    {
+        "contract_address": "0xe1262189a55613baa3b689a0934ea1534e2013b4",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 349
+        }
+    },
+    {
+        "contract_address": "0xbfc65148179c49b2acf6fec1a947f9df3577cf4c",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 114
+        }
+    },
+    {
+        "contract_address": "0x569f4957176ffa0dff76c507604f6a66d4b9c578",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 15669
+        }
+    },
+    {
+        "contract_address": "0xdf0b9b59e92a2554dedb6f6f4af6918d79dd54c4",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 166
+        }
+    },
+    {
+        "contract_address": "0xf331c7c299ae062fe4e2b6c7a591d6b5e32137ef",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 798
+        }
+    },
+    {
+        "contract_address": "0xe35dcaa77310900aedafb2eac9f664baf3f271dd",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 3
+        }
+    },
+    {
+        "contract_address": "0xbddbf0c9c3468c033922bcb6468f134428d6194c",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 2
+        }
     }
 ]
