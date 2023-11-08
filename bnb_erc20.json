@@ -45211,7 +45211,11 @@
         },
         "web_domains": [
             "www.memeai.world"
-        ]
+        ],
+        "telegram_groups": [
+            "MemeAI_Official"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe5cfffa83a7a204e297df0ee16f777f139c365f7",
