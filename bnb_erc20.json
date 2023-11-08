@@ -44637,5 +44637,89 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x89035eb6dc4d3bb504c39e05f6cf25a7c8f68bbc",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 126
+        }
+    },
+    {
+        "contract_address": "0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 4019
+        }
+    },
+    {
+        "contract_address": "0xe384eb46f1dc9b383f476204de65ecd15a32da73",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 16
+        }
+    },
+    {
+        "contract_address": "0x2eef2ad0d2d15e662a6443e234250bd8c0cc503b",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 22
+        }
+    },
+    {
+        "contract_address": "0x5fe8c4a1c12fdee3441a1426a41bdc02206fa2d8",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 39
+        }
+    },
+    {
+        "contract_address": "0x654b6d8014ba8690ac4142041c689af462a7f4dd",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 47
+        }
+    },
+    {
+        "contract_address": "0xaf839f4d3620a1eed00ccc21ddc01119c26a75e1",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 95
+        }
+    },
+    {
+        "contract_address": "0x0df62a36c86eda40e187914b3f3389a304bbd9fb",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 952
+        }
+    },
+    {
+        "contract_address": "0xd7e81c66502e19cefc44a4bce4c0b4fb7a5f144a",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 952
+        }
+    },
+    {
+        "contract_address": "0x4f2a8b7fa6df178726a4dc6f35529eeba57cd3b1",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 82
+        }
+    },
+    {
+        "contract_address": "0x822f1eb2d27fe76a0deb5ab362d87385b6878888",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 2996
+        }
+    },
+    {
+        "contract_address": "0xf0a5c3fd890ba52b0af1f6b62819b2e37596874c",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 4
+        }
     }
 ]
