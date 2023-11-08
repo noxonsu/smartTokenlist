@@ -45618,5 +45618,132 @@
         "p6": true,
         "myuser": 6761555344,
         "tgGroupJoined": "error: Username not occupied"
+    },
+    {
+        "contract_address": "0x6fb5f5aedfa2b24bdd9ee8cc07dc7ae92d800efc",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 514
+        }
+    },
+    {
+        "contract_address": "0x6643e391ee5e5f8a5bb9cf7e63652fd77dec6e43",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 1091
+        }
+    },
+    {
+        "contract_address": "0x5f4cb4c0eca79c1211939fc9ba98e86ebb742479",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 476
+        }
+    },
+    {
+        "contract_address": "0x9e795305a71acc06a0f174c201ff72ba908a259b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.grokbsc.xyz"
+        ],
+        "telegram_groups": [
+            "GROKBSC8"
+        ],
+        "holders": {
+            "bsc": 2918
+        }
+    },
+    {
+        "contract_address": "0xab942415d4af5a80eb226664300e164d2bffe04f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.grokbsc.xyz"
+        ],
+        "telegram_groups": [
+            "GROKBSC8"
+        ],
+        "holders": {
+            "bsc": 1703
+        }
+    },
+    {
+        "contract_address": "0x0cdf48a044f7b401eac6c7f4b5b876ef747afdf4",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 437
+        }
+    },
+    {
+        "contract_address": "0x396ac8a4092450df1cdd7f37f502a96f84e5c819",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 23
+        }
+    },
+    {
+        "contract_address": "0x87bb7c683d82aea0f16b14cf524d13bd6a84a2d3",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 2147
+        }
+    },
+    {
+        "contract_address": "0x0efcf1737b81ce89325b17eafae2686a8afe8bd4",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 1110
+        }
+    },
+    {
+        "contract_address": "0x6ba7a8f9063c712c1c8cabc776b1da7126805f3b",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 552
+        }
+    },
+    {
+        "contract_address": "0x63776ce5d00d7766a88810717e286538ec010c4e",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 1
+        }
+    },
+    {
+        "contract_address": "0xe3524a21e78057406cb1727585cb1e8183663e16",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 2
+        }
+    },
+    {
+        "contract_address": "0x91829779e4a3c23f96f006e5e47a995985adab05",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 4502
+        }
+    },
+    {
+        "contract_address": "0x198abb2d13faa2e52e577d59209b5c23c20cd6b3",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 1678
+        }
+    },
+    {
+        "contract_address": "0xadf37f7e5c002d643b028a015ff729d2aaadb223",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "SANTASHIBA"
+        ],
+        "holders": {
+            "bsc": 64
+        }
+    },
+    {
+        "contract_address": "0x9988379a946cba7c821fe200cf1d5f7234bca290",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 207
+        }
     }
 ]
