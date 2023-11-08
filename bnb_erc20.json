@@ -45060,7 +45060,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 91
-        }
+        },
+        "web_domains": [
+            "www.t2t2.com"
+        ]
     },
     {
         "contract_address": "0x22068a5ef447a1d1e8815b27fc1260d9d440b1b3",
