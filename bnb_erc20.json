@@ -45483,7 +45483,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 144
-        }
+        },
+        "web_domains": [
+            "safe.global"
+        ]
     },
     {
         "contract_address": "0x4da34b5102180c003bae2e3353b8bb25167fe0a7",
@@ -45504,14 +45507,20 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 19
-        }
+        },
+        "web_domains": [
+            "gelato.finance"
+        ]
     },
     {
         "contract_address": "0x696969a4320a84e385e5e371f9c2bd3cadf80cd4",
         "sourceScanned": "processed",
         "holders": {
             "bsc": 196
-        }
+        },
+        "web_domains": [
+            "peercoin.net"
+        ]
     },
     {
         "contract_address": "0x4823a096382f4fa583b55d563afb9f9a58c72fc0",
