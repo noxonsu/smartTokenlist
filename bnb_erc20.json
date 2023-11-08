@@ -45585,7 +45585,9 @@
         "holders": {
             "bsc": 132
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x3a76304c62719e059a05ce1b6360da24b9919352",
@@ -45613,6 +45615,8 @@
         "holders": {
             "bsc": 50
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Username not occupied"
     }
 ]
