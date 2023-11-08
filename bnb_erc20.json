@@ -45208,7 +45208,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 209
-        }
+        },
+        "web_domains": [
+            "www.memeai.world"
+        ]
     },
     {
         "contract_address": "0xe5cfffa83a7a204e297df0ee16f777f139c365f7",
