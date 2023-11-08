@@ -44667,7 +44667,9 @@
         },
         "web_domains": [
             "www.ankaiglobal.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x5fe8c4a1c12fdee3441a1426a41bdc02206fa2d8",
