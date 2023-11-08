@@ -44960,7 +44960,8 @@
         ],
         "holders": {
             "bsc": 681
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf2faa12fd669e17c2ec3a7d35b2df2dbb3d11428",
@@ -44984,7 +44985,16 @@
         },
         "web_domains": [
             "safeonechain.com"
-        ]
+        ],
+        "telegram_groups": [
+            "mike_safeone",
+            "safeone_services",
+            "SafeOnechain",
+            "safeonechain",
+            "Mathias_SafeOne",
+            "Trunkzx"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd856d3f741bae1c4616379de167e106301935b63",
@@ -44994,7 +45004,9 @@
         },
         "web_domains": [
             "polyhedra.network"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xcff6f60c09e0bd22fc8cfeb9de5f9de218677407",
