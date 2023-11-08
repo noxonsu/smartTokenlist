@@ -45757,7 +45757,8 @@
         ],
         "holders": {
             "bsc": 345
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6a7e9aaebb816338bc18dac0328a1e94c733cdb5",
@@ -45802,7 +45803,9 @@
         },
         "web_domains": [
             "thelastworld.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3651947eddcf3a0de7fedb7c4e29eb97d2ca1159",
