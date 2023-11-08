@@ -45463,5 +45463,139 @@
         "holders": {
             "bsc": 95
         }
+    },
+    {
+        "contract_address": "0x1e0e2f7948e3247ad1806d3f97afc0a5cbf547c6",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 0
+        }
+    },
+    {
+        "contract_address": "0x0557a288a93ed0df218785f2787dac1cd077f8f3",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 6808
+        }
+    },
+    {
+        "contract_address": "0x14fcf3c5abe4f9ee6e2744ea50c47abf1fb3e605",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 144
+        }
+    },
+    {
+        "contract_address": "0x4da34b5102180c003bae2e3353b8bb25167fe0a7",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 184
+        }
+    },
+    {
+        "contract_address": "0xadc07591244b571f80902ccc7e923e6c52b721b2",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 0
+        }
+    },
+    {
+        "contract_address": "0xf49c73b0f4292524e2ca3bb9b9b3d22e6f97f963",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 19
+        }
+    },
+    {
+        "contract_address": "0x696969a4320a84e385e5e371f9c2bd3cadf80cd4",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 196
+        }
+    },
+    {
+        "contract_address": "0x4823a096382f4fa583b55d563afb9f9a58c72fc0",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 2351
+        }
+    },
+    {
+        "contract_address": "0x6743665257c429605aa344ed04dff7a183a50296",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 8959
+        }
+    },
+    {
+        "contract_address": "0xb5b1eea2e2a3b02ea74b2d61205e8ce9a868eb8d",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 2128
+        }
+    },
+    {
+        "contract_address": "0xce430ab950efc95d626fbe19ef0a88120ae9f02f",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 97
+        }
+    },
+    {
+        "contract_address": "0x9b72c0b57797e849eaaaeae89c4ba7491e6c2c2b",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "bnbcorgiofficial"
+        ],
+        "holders": {
+            "bsc": 36
+        }
+    },
+    {
+        "contract_address": "0x54523d5fb56803bac758e8b10b321748a77ae9e9",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 6231
+        }
+    },
+    {
+        "contract_address": "0x24a841e98b3a4535eb79fb68926b8a0d88b36852",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bnbdragontiger.com"
+        ],
+        "telegram_groups": [
+            "bnbdragontiger"
+        ],
+        "holders": {
+            "bsc": 132
+        }
+    },
+    {
+        "contract_address": "0x3a76304c62719e059a05ce1b6360da24b9919352",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 2
+        }
+    },
+    {
+        "contract_address": "0x6ec1c3c53797c39b87bb3b388de9f4d296d15a6c",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 8
+        }
+    },
+    {
+        "contract_address": "0xbd0204dff6042d692503d318004044592f5c2f19",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pulsboy.com"
+        ],
+        "telegram_groups": [
+            "pulsboy"
+        ],
+        "holders": {
+            "bsc": 50
+        }
     }
 ]
