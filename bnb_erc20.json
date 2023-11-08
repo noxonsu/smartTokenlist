@@ -45486,7 +45486,9 @@
         },
         "web_domains": [
             "safe.global"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4da34b5102180c003bae2e3353b8bb25167fe0a7",
@@ -45510,7 +45512,9 @@
         },
         "web_domains": [
             "gelato.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x696969a4320a84e385e5e371f9c2bd3cadf80cd4",
@@ -45520,7 +45524,9 @@
         },
         "web_domains": [
             "peercoin.net"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4823a096382f4fa583b55d563afb9f9a58c72fc0",
@@ -45578,7 +45584,8 @@
         ],
         "holders": {
             "bsc": 132
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3a76304c62719e059a05ce1b6360da24b9919352",
@@ -45605,6 +45612,7 @@
         ],
         "holders": {
             "bsc": 50
-        }
+        },
+        "p6": true
     }
 ]
