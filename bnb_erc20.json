@@ -44981,14 +44981,20 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 143
-        }
+        },
+        "web_domains": [
+            "safeonechain.com"
+        ]
     },
     {
         "contract_address": "0xd856d3f741bae1c4616379de167e106301935b63",
         "sourceScanned": "processed",
         "holders": {
             "bsc": 54
-        }
+        },
+        "web_domains": [
+            "polyhedra.network"
+        ]
     },
     {
         "contract_address": "0xcff6f60c09e0bd22fc8cfeb9de5f9de218677407",
