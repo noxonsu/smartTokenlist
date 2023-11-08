@@ -44456,7 +44456,9 @@
         "telegram_groups": [
             "thelittleguy2023"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xb2aa63f363196caba3154d4187949283f085a488",
@@ -44562,7 +44564,9 @@
         "holders": {
             "bsc": 178
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x2fdf2aaca8a7d8eccb7ceaa6d093c9d817627891",
@@ -44961,7 +44965,9 @@
         "holders": {
             "bsc": 681
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xf2faa12fd669e17c2ec3a7d35b2df2dbb3d11428",
@@ -44994,7 +45000,9 @@
             "Mathias_SafeOne",
             "Trunkzx"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0xd856d3f741bae1c4616379de167e106301935b63",
