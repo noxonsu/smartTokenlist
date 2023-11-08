@@ -44767,7 +44767,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 20
-        }
+        },
+        "web_domains": [
+            "mutantpepe.com"
+        ]
     },
     {
         "contract_address": "0xfbe82f9d5d7112abf9da407a0c1bfb34a32347d8",
