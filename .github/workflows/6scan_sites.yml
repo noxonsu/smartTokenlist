@@ -59,7 +59,7 @@ jobs:
         WEB3_RPC: ${{ secrets.WEB3_RPC }}
         SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
         NETWORK: ${{ secrets.NETWORK }}
-        MAINFILE: "${{ secrets.MAINFILE }}"
+        MAINFILE: ${{ secrets.MAINFILE }}
         DUNE_QUERY: ${{ secrets.DUNE_QUERY }}
         DUNE_API_KEY: ${{ secrets.DUNE_API_KEY }}
         CHAINBASE_API_URL: ${{ secrets.CHAINBASE_API_URL }}
