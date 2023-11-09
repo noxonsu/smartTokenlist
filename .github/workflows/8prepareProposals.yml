@@ -32,8 +32,20 @@ jobs:
 
     - name: Run python script 8prepareProposal
       env:
+        TELEGRAM_API_HASH: ${{ secrets.TELEGRAM_API_HASH }}
+        TELEGRAM_API_ID: ${{ secrets.TELEGRAM_API_ID }}
+        TELEGRAM_SESSION_STRING: ${{ secrets.TELEGRAM_SESSION_STRING }}
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        BNBSCAN_API_KEY: ${{ secrets.BNBSCAN_API_KEY }}
         CHAINBASE_API: ${{ secrets.CHAINBASE_API }}
+        WEB3_RPC: ${{ secrets.WEB3_RPC }}
+        SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+        NETWORK: ${{ secrets.NETWORK }}
+        MAINFILE: ${{ secrets.MAINFILE }}
+        DUNE_QUERY: ${{ secrets.DUNE_QUERY }}
+        DUNE_API_KEY: ${{ secrets.DUNE_API_KEY }}
+        CHAINBASE_API_URL: ${{ secrets.CHAINBASE_API_URL }}
+        BNBSCAN_BASE_URL: ${{ secrets.BNBSCAN_BASE_URL }}
       run: python 8prepareProposal.py
 
     - name: Commit and push changes
