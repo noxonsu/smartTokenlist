@@ -45758,7 +45758,9 @@
         "holders": {
             "bsc": 345
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x6a7e9aaebb816338bc18dac0328a1e94c733cdb5",
@@ -45896,7 +45898,9 @@
             "grok20_portal",
             "GrokGrokBot"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large3123"
     },
     {
         "contract_address": "0x5ab4842fe892a865e67b649bf2d48160e6a7825b",
@@ -45910,7 +45914,9 @@
         "web_domains": [
             "0x.org"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x407fb6b2ac60e5882ede4aa7cc0c5f848eb0bdb1",
