@@ -46501,5 +46501,120 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x4556cbc2aca9a5c3e957ff39dc50ecab6eeb83d9",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 71
+        }
+    },
+    {
+        "contract_address": "0x7544350e214022b32cf4cab4c94cbf83bf87901e",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 509
+        }
+    },
+    {
+        "contract_address": "0xae2cb1fab788aa20e5cbd4309882500a8626a21b",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 289
+        }
+    },
+    {
+        "contract_address": "0x6e402bb1fa25d3ad11affff99c09dd01571928d0",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 327
+        }
+    },
+    {
+        "contract_address": "0xcb3ae3099dc997616b907cefc9af5c850a067a4b",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 1
+        }
+    },
+    {
+        "contract_address": "0x89dae5c531ca1047061125822472e898c2f5a2b2",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 771
+        }
+    },
+    {
+        "contract_address": "0xf8ccedc381374c66ed77b5a66238013a26c587e5",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "HotpepeeBSC"
+        ],
+        "holders": {
+            "bsc": 10
+        }
+    },
+    {
+        "contract_address": "0xb5489d935be23f1e6acc02766971936045f05b57",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 7034
+        }
+    },
+    {
+        "contract_address": "0xdf8308e6e8e657c51146993e140a391d5dcca913",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 1070
+        }
+    },
+    {
+        "contract_address": "0x3a2927e68749dd6ad0a568d7c05b587863c0bc10",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 3244
+        }
+    },
+    {
+        "contract_address": "0x014a087b646bd90e7dcead3993f49eb1f4b5f30a",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 61484
+        }
+    },
+    {
+        "contract_address": "0xc10358f062663448a3489fc258139944534592ac",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 30159
+        }
+    },
+    {
+        "contract_address": "0x7503a62bd9b24f47d40ff4269020920c23d2d7b8",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 1
+        }
+    },
+    {
+        "contract_address": "0x75d01cd822e4f2e67361fa25cef5922908cedf7c",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 144
+        }
+    },
+    {
+        "contract_address": "0x16890f830805303af23c9f4654e6658e65b5e9e3",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 85
+        }
+    },
+    {
+        "contract_address": "0x9c083b622a55543eb6a3d242675355472c653373",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 119
+        }
     }
 ]
