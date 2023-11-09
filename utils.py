@@ -3,6 +3,7 @@ import os
 import requests
 from time import sleep
 CHAINBASE_API_URL= os.environ.get("CHAINBASE_API_URL") 
+MAINFILE= os.environ.get("MAINFILE") 
 def get_unique_domains():
     # Load bnb_erc20.json and find only domains
     with open(MAINFILE, "r") as f:
