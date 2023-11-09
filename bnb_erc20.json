@@ -46495,6 +46495,9 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 3
-        }
+        },
+        "web_domains": [
+            "fbstoken.com"
+        ]
     }
 ]
