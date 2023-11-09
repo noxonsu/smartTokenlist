@@ -9,7 +9,8 @@ from langchain.chat_models import ChatOpenAI
 from bs4 import BeautifulSoup
 import re
 from utils import *
-
+MAINFILE = os.environ.get("MAINFILE")
+NETWORK = os.environ.get("NETWORK")
 
 def load_data_from_file(filename):
     with open(filename, "r") as f:
@@ -23,7 +24,7 @@ def filter_sites_without_summary(data):
         not entry.get('p6') and 
         entry.get('web_domains') and
         entry.get('holders') and 
-        entry['holders'].get('bsc', float('inf')) < 1000  # This line ensures the 'bsc' count is less than 1000
+        entry['holders'].get(NETWORK, float('inf')) < 1000  # This line ensures the 'bsc' count is less than 1000
     ]
 
 def extract_content(site):
@@ -100,7 +101,7 @@ def save_updated_data(filename, data):
 
 
 def main():
-    data = load_data_from_file("bnb_erc20.json")
+    data = load_data_from_file(MAINFILE)
     sites_without_summary = filter_sites_without_summary(data)
     print(f"Found {len(sites_without_summary)} sites without summary")
     sites_without_summary = sites_without_summary[:6]
@@ -108,7 +109,7 @@ def main():
         print("All sites processed")
     else:
         process_sites(data, sites_without_summary)
-        save_updated_data("bnb_erc20.json", data)
+        save_updated_data(MAINFILE, data)
 
 
 if __name__ == "__main__":

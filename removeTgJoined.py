@@ -2,7 +2,7 @@ import json
 
 def filter_domains_from_json():
     # Load bnb_erc20.json
-    with open("bnb_erc20.json", "r", encoding='utf-8') as f:
+    with open(MAINFILE, "r", encoding='utf-8') as f:
         existing_data = json.load(f)
 
     # Load ignored domains from ignoredomains.txt
@@ -19,7 +19,7 @@ def filter_domains_from_json():
             del existing_data["tgGroupJoined"]
 
     # Save the modified data back to bnb_erc20.json
-    with open("bnb_erc20.json", "w", encoding='utf-8') as f:
+    with open(MAINFILE, "w", encoding='utf-8') as f:
         json.dump(existing_data, f, indent=4, ensure_ascii=False)
 
 filter_domains_from_json()

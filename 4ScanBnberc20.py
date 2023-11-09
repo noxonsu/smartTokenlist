@@ -5,8 +5,11 @@ import time
 from requests import get
 from utils import *
 BNBSCAN_API_KEY = os.environ.get("BNBSCAN_API_KEY")
-BNBSCAN_BASE_URL = "https://api.bscscan.com/api"
-
+BNBSCAN_BASE_URL = os.environ.get("BNBSCAN_BASE_URL")
+MAINFILE = os.environ.get("MAINFILE")
+CHAINBASE_API_URL= os.environ.get("CHAINBASE_API_URL")
+DUNE_QUERY= os.environ.get("DUNE_QUERY")
+NETWORK= os.environ.get("NETWORK")
 def get_contract_source(address):
     params = {
         "module": "contract",
@@ -51,7 +54,7 @@ def extract_data_from_source(source_code):
 def main():
     # Load existing data
     try:
-        with open("bnb_erc20.json", "r") as f:
+        with open(MAINFILE, "r") as f:
             contracts = json.load(f)
     except FileNotFoundError:
         contracts = []
@@ -89,10 +92,10 @@ def main():
 
             holders_count = get_holders_count(contract['contract_address'])
 
-            contract['holders'] = {"bsc": holders_count}
+            contract['holders'] = {f"{NETWORK}": holders_count}
 
             # Save the updated data in each iteration
-            with open("bnb_erc20.json", "w") as f:
+            with open(MAINFILE, "w") as f:
                 json.dump(contracts, f, indent=4)
 
             #time.sleep(1)  # Avoid hitting the API rate limit

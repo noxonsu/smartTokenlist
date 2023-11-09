@@ -11,6 +11,8 @@ from pyrogram import errors
 TELEGRAM_API_ID = int(os.environ.get('TELEGRAM_API_ID'))
 TELEGRAM_API_HASH = os.environ.get('TELEGRAM_API_HASH')
 TELEGRAM_SESSION_STRING = os.environ.get('TELEGRAM_SESSION_STRING')
+MAINFILE = os.environ.get("MAINFILE")
+
 def catch_flood_wait(func):
     def wrapper(*args, **kwargs):
         try:
@@ -24,7 +26,7 @@ def catch_flood_wait(func):
 
 
 def load_and_filter_chats():
-    with open('bnb_erc20.json', 'r') as f:
+    with open(MAINFILE, 'r') as f:
         data = json.load(f)
         # Filtering based on given conditions
         filtered_data = [
@@ -82,7 +84,7 @@ def main():
             txt_file.write(f"{chat_id}\n")
 
     # Save the updated data back to bnb_erc20.json
-    with open('bnb_erc20.json', 'w') as file:
+    with open(MAINFILE, 'w') as file:
         json.dump(all_data, file, indent=2)
 
 if __name__ == '__main__':

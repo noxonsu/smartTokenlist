@@ -8,14 +8,16 @@ from langchain.schema import SystemMessage, HumanMessage
 from utils import *
 
 SERPAPI_KEY = os.environ.get('SERPAPI_KEY')
-
+MAINFILE = os.environ.get("MAINFILE")
+WEB3_RPC = os.environ.get("WEB3_RPC")
+NETWORK = os.environ.get("NETWORK")
 if not SERPAPI_KEY:
     print("Please set the SERPAPI_KEY environment variable.")
     exit()
 
 
 def load_and_filter_contracts():
-    with open('bnb_erc20.json', 'r') as f:
+    with open(MAINFILE, 'r') as f:
         data = json.load(f)
         return data, [entry for entry in data if "web_domains" not in entry]
 
@@ -44,7 +46,7 @@ def findOfficialDomain(serp, project_name):
 
 
 def initialize_web3():
-    w3 = Web3(Web3.HTTPProvider('https://bsc-dataseed1.binance.org/'))
+    w3 = Web3(Web3.HTTPProvider(WEB3_RPC))
     if not w3.is_connected():
         print("Not connected to Binance Smart Chain network!")
         exit()
@@ -98,7 +100,7 @@ def main():
     filter_contracts = [contract for contract in filter_contracts if 
                         contract["contract_address"].lower() not in scanned_contracts and
                         contract.get('holders') and 
-                        contract['holders'].get('bsc', float('inf')) < 300
+                        contract['holders'].get(NETWORK, float('inf')) < 300
                         ]
     
     print("11.py . contracts to scan:")
@@ -113,7 +115,7 @@ def main():
         addr = Web3.to_checksum_address(entry["contract_address"])
         
         contract = w3.eth.contract(address=addr, abi=abi)
-        name_project = " " + contract.functions.symbol().call() + " " + contract.functions.name().call()+"  -pancakeswap.finance -tokenview.io -bscscan.com -t.me -youtube.com -facebook.com -github.com -beaconcha.in -abc.bi -medium.com -ethplorer.io -blockchair.com -site:etherscan.io -coinmarketcap.com -site:binance.com -site:coinmarcetcap.com "
+        name_project = " " + contract.functions.symbol().call() + " " + contract.functions.name().call()+"  -tokenview.io -t.me -youtube.com -facebook.com -github.com -beaconcha.in -abc.bi -medium.com -ethplorer.io -blockchair.com -coinmarketcap.com -site:binance.com -site:coinmarcetcap.com "
         print(name_project+"\n")
         organic_results = search_google(name_project)
         print(organic_results)
@@ -153,7 +155,7 @@ def main():
 
 
     # Save the updated data back to the JSON file
-    with open('bnb_erc20.json', 'w') as f:
+    with open(MAINFILE, 'w') as f:
         json.dump(data, f, indent=4)
 
 if __name__ == '__main__':

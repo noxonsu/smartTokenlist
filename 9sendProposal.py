@@ -7,7 +7,7 @@ TELEGRAM_API_ID = int(os.environ.get('TELEGRAM_API_ID'))
 TELEGRAM_API_HASH = os.environ.get('TELEGRAM_API_HASH')
 DEBUG_CHAT_ID = 'testonoutgroup'  # replace with your test chat username or ID
 DEBUG_MODE = False  # Set to False for live mode
-
+MAINFILE = os.environ.get("MAINFILE")
 
 def catch_flood_wait(func):
     def wrapper(*args, **kwargs):
@@ -73,7 +73,7 @@ def send_proposal(app, chat_id, contract_address):
 
 
 def main():
-    with open('bnb_erc20.json', 'r') as f:
+    with open(MAINFILE, 'r') as f:
         data = json.load(f)
     
     groups_to_send_proposal = [entry for entry in data if entry.get("tgGroupJoined") == "success"and entry.get("p8") == True and "tgProposalSent" not in entry]
@@ -105,7 +105,7 @@ def main():
                 entry["tgProposalSent"] = f"error: {e}"
 
         
-        with open('bnb_erc20.json', 'w') as f:
+        with open(MAINFILE, 'w') as f:
             json.dump(data, f, indent=4)
 
     print('All done!')

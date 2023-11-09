@@ -6,10 +6,11 @@ from requests import get, post
 
 # API Key from Environment Variable
 API_KEY = os.environ.get("DUNE_API_KEY")
-
+DUNE_QUERY = os.environ.get("DUNE_QUERY")
 # Base URL
 BASE_URL = "https://api.dune.com/api/v1/"
-
+MAINFILE = os.environ.get("MAINFILE")
+CHAINBASE_API_URL= os.environ.get("CHAINBASE_API_URL")
 def execute_query(query_id):
     url = f"{BASE_URL}query/{query_id}/execute"
     params = {"api_key": API_KEY}
@@ -30,7 +31,7 @@ def get_query_results(query_id):
         return None
 
 def main():
-    query_id = "3099609"
+    query_id = DUNE_QUERY
     execute_query(query_id)  # Trigger the query execution
     time.sleep(5)  # Wait for 5 seconds (note: you mentioned 15 seconds in the comment, but the sleep time is set to 5)
 
@@ -42,7 +43,7 @@ def main():
 
     # Load existing data
     try:
-        with open("bnb_erc20.json", "r") as f:
+        with open(MAINFILE, "r") as f:
             existing_data = json.load(f)
     except FileNotFoundError:
         existing_data = []
@@ -63,7 +64,7 @@ def main():
             new_contracts_count += 1  # Increment the counter
 
     # Save to JSON file
-    with open("bnb_erc20.json", "w") as f:
+    with open(MAINFILE, "w") as f:
         json.dump(existing_data, f, indent=4)
 
     # Print the total number of new contracts added

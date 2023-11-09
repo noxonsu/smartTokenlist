@@ -2,9 +2,10 @@ import json
 import os
 import requests
 from time import sleep
+CHAINBASE_API_URL= os.environ.get("CHAINBASE_API_URL") 
 def get_unique_domains():
     # Load bnb_erc20.json and find only domains
-    with open("bnb_erc20.json", "r") as f:
+    with open(MAINFILE, "r") as f:
         existing_data = json.load(f)
 
     # Extract all domains
@@ -22,7 +23,7 @@ def get_unique_domains():
 
 
 def get_holders_count(contract_address):
-    url = f'https://api.chainbase.online/v1/token/holders?chain_id=56&contract_address={contract_address}&page=1&limit=20'
+    url = f'{CHAINBASE_API_URL}{contract_address}&page=1&limit=20'
     headers = {
         'accept': 'application/json',
         'x-api-key': os.environ['CHAINBASE_API']

@@ -6,13 +6,13 @@ from time import sleep
 from pyrogram import Client, errors, types
 TELEGRAM_API_ID = int(os.environ.get('TELEGRAM_API_ID'))
 TELEGRAM_API_HASH = os.environ.get('TELEGRAM_API_HASH')
-
+MAINFILE = os.environ.get("MAINFILE")
 print(TELEGRAM_API_ID)
 
 SUBSCRIBE_TO_LINKED_CHAT = 'true'
 
 def load_and_filter_chats():
-    with open('bnb_erc20.json', 'r') as f:
+    with open(MAINFILE, 'r') as f:
         data = json.load(f)
         # Filtering based on given conditions
         return data, [
@@ -146,7 +146,7 @@ def main():
             entry["tgGroupJoined"] = f"error: {e}"
 
         # Save the updated results
-        with open('bnb_erc20.json', 'w') as f:
+        with open(MAINFILE, 'w') as f:
             json.dump(data, f, indent=4)
 
     app.stop()

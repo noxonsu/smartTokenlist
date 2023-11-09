@@ -6,6 +6,10 @@ from langchain.schema import SystemMessage, HumanMessage
 from utils import *
 #p8 - 8prepareProposal.py
 #p6 - 6prepareSummary.py
+
+CHAINBASE_API_URL= os.environ.get("CHAINBASE_API_URL")
+NETWORK= os.environ.get("NETWORK")
+MAINFILE = os.environ.get("MAINFILE")
 def filter_sites_without_proposal(data):
     return [(entry['web_domains'][0], entry['contract_address']) for entry in data if not entry.get('p8') and entry.get('p6') and entry.get('tgGroupJoined') and entry.get('tgGroupJoined') == "success" and entry.get('web_domains')]
 
@@ -45,7 +49,7 @@ def process_sites(data, sites_without_proposal):
             targetSummary = ""
         HOLDERS_COUNT = get_holders_count(contract_address)  # Get holders count
         # Concat "HOLDERSCOUNT" to targetSummary
-        targetSummary = f"{targetSummary} . Amount of holders in BSC network: {HOLDERS_COUNT}"
+        targetSummary = f"{targetSummary} . Amount of holders in {NETWORK} network: {HOLDERS_COUNT}"
         proposal = generate_message(targetSummary)
         if proposal:
             print(proposal)
@@ -66,7 +70,7 @@ def load_data_from_file(filename):
         return json.load(file)
 
 def main():
-    data = load_data_from_file("bnb_erc20.json")  # load data from file
+    data = load_data_from_file(MAINFILE)  # load data from file
     sites_without_proposal = filter_sites_without_proposal(data)
     print(f"Found {len(sites_without_proposal)} sites without proposal")
     
@@ -77,7 +81,7 @@ def main():
     else:
         process_sites(data, sites_without_proposal)
 
-        with open("bnb_erc20.json", "w") as f:
+        with open(MAINFILE, "w") as f:
             json.dump(data, f, indent=4)
 
 if __name__ == "__main__":
