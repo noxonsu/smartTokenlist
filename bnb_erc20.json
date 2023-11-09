@@ -45882,5 +45882,99 @@
         "holders": {
             "bsc": 66
         }
+    },
+    {
+        "contract_address": "0x95eee2a642230a0b2f04ea7730eae1b1087268f6",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 3
+        }
+    },
+    {
+        "contract_address": "0x5ab4842fe892a865e67b649bf2d48160e6a7825b",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ZRX_Token"
+        ],
+        "holders": {
+            "bsc": 51
+        }
+    },
+    {
+        "contract_address": "0x407fb6b2ac60e5882ede4aa7cc0c5f848eb0bdb1",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 59
+        }
+    },
+    {
+        "contract_address": "0x6ba824ef87fbc401a4acb3c9d801ac999aa04c0e",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 118
+        }
+    },
+    {
+        "contract_address": "0xec90cbcb1ebc9f3f906cd250f1c9ba496c90716b",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 5412
+        }
+    },
+    {
+        "contract_address": "0xd9d990ecc4be180e0151038682edd243cbe46d98",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 472
+        }
+    },
+    {
+        "contract_address": "0x573f7c0b8eced0af4c7a35702a31eb26173bd43f",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "realblueberrycat_portal"
+        ],
+        "holders": {
+            "bsc": 25
+        }
+    },
+    {
+        "contract_address": "0x2f619816e53ff65ba2c336ae3e19a4e2bdeaf8a3",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 1367
+        }
+    },
+    {
+        "contract_address": "0x264561cfad123538c1c99964646981244925a4c0",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "GGGDOG_EN",
+            "GGGDOG_ZH"
+        ],
+        "holders": {
+            "bsc": 87
+        }
+    },
+    {
+        "contract_address": "0xc1df7341d93112f4db4169924ca34a18d71a81dc",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 392
+        }
+    },
+    {
+        "contract_address": "0x851944049dfdd189725b136c5ae3fb83cc62b28d",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 405
+        }
+    },
+    {
+        "contract_address": "0xa9cb51c666d2af451d87442be50747b31bb7d805",
+        "sourceScanned": "processed",
+        "holders": {
+            "bsc": 63
+        }
     }
 ]
