@@ -45891,7 +45891,12 @@
         },
         "web_domains": [
             "grok20.tech"
-        ]
+        ],
+        "telegram_groups": [
+            "grok20_portal",
+            "GrokGrokBot"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5ab4842fe892a865e67b649bf2d48160e6a7825b",
@@ -45904,7 +45909,8 @@
         },
         "web_domains": [
             "0x.org"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x407fb6b2ac60e5882ede4aa7cc0c5f848eb0bdb1",
