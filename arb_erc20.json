@@ -196,7 +196,9 @@
         "holders": {
             "Arbitrum": 236
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large1133"
     },
     {
         "contract_address": "0x806e8538fc05774ea83d9428f778e423f6492475",
@@ -511,7 +513,9 @@
             "AlphaFinanceLab",
             "AlphaAnnouncement"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x3d9907f9a368ad0a51be60f7da3b97cf940982d8",
