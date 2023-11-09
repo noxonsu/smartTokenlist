@@ -46147,7 +46147,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 33
-        }
+        },
+        "web_domains": [
+            "docs.paalai.io"
+        ]
     },
     {
         "contract_address": "0x44c20e6001a17b72fb6a05bdf4a1abe70a1bc033",
@@ -46241,7 +46244,10 @@
         "sourceScanned": "processed",
         "holders": {
             "bsc": 127
-        }
+        },
+        "web_domains": [
+            "vsl.finance"
+        ]
     },
     {
         "contract_address": "0x2b3559c3dbdb294cbb71f2b30a693f4c6be6132d",
