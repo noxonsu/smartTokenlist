@@ -126,7 +126,11 @@
         },
         "web_domains": [
             "www.mxc.org"
-        ]
+        ],
+        "telegram_groups": [
+            "mxcfoundation"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x17fc002b466eec40dae837fc4be5c67993ddbd6f",
@@ -271,7 +275,11 @@
         },
         "web_domains": [
             "kyberswap.com"
-        ]
+        ],
+        "telegram_groups": [
+            "kybernetwork"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbb6d72147280a2147a23ce196326e0547eaec401",
@@ -321,7 +329,9 @@
         },
         "web_domains": [
             "sgmx.mx"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf42ae1d54fd613c9bb14810b0588faaa09a426ca",
@@ -758,7 +768,9 @@
         ],
         "holders": {
             "Arbitrum": 29
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb6cfcf89a7b22988bfc96632ac2a9d6dab60d641",
@@ -775,7 +787,11 @@
         },
         "web_domains": [
             "angle.money"
-        ]
+        ],
+        "telegram_groups": [
+            "AngleAnnouncements"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5979d7b546e38e414f7e9822514be443a4800529",
