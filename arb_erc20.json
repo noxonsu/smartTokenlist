@@ -130,7 +130,9 @@
         "telegram_groups": [
             "mxcfoundation"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large8591"
     },
     {
         "contract_address": "0x17fc002b466eec40dae837fc4be5c67993ddbd6f",
@@ -279,7 +281,9 @@
         "telegram_groups": [
             "kybernetwork"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large12115"
     },
     {
         "contract_address": "0xbb6d72147280a2147a23ce196326e0547eaec401",
