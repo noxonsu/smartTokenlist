@@ -1418,7 +1418,10 @@
         ],
         "holders": {
             "Arbitrum": 104
-        }
+        },
+        "web_domains": [
+            "silo.finance"
+        ]
     },
     {
         "contract_address": "0x30590c0e26aeb5043cf31cb47b8445657b78f791",
