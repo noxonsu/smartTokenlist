@@ -560,7 +560,11 @@
         ],
         "holders": {
             "Arbitrum": 4144
-        }
+        },
+        "telegram_groups": [
+            "PoisonFinancePortal"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x45f6a3e1fcdb24c3e5097324872a8f5cf4602d48",
@@ -1670,7 +1674,11 @@
         ],
         "holders": {
             "Arbitrum": 597
-        }
+        },
+        "telegram_groups": [
+            "PoisonFinancePortal"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x51a80238b5738725128d3a3e06ab41c1d4c05c74",
