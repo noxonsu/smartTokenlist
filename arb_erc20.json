@@ -840,7 +840,10 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 27
-        }
+        },
+        "web_domains": [
+            "www.dsu.money"
+        ]
     },
     {
         "contract_address": "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f",
@@ -868,7 +871,10 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 3
-        }
+        },
+        "web_domains": [
+            "fluidity.money"
+        ]
     },
     {
         "contract_address": "0x7b5eb3940021ec0e8e463d5dbb4b7b09a89ddf96",
@@ -975,7 +981,10 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 0
-        }
+        },
+        "web_domains": [
+            "mirror.xyz"
+        ]
     },
     {
         "contract_address": "0xf19547f9ed24aa66b03c3a552d181ae334fbb8db",
