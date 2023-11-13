@@ -1769,7 +1769,10 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 105
-        }
+        },
+        "web_domains": [
+            "launchpad.kommunitas.net"
+        ]
     },
     {
         "contract_address": "0xd0f7ec675f7d29bcf58fb1ea793cba42644d05c4",
@@ -1825,13 +1828,19 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 4
-        }
+        },
+        "web_domains": [
+            "altitudedefi.com"
+        ]
     },
     {
         "contract_address": "0xfd421d60905d2f7cabd49e6a5703a3499367b8f4",
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 153
-        }
+        },
+        "web_domains": [
+            "snowtrace.io"
+        ]
     }
 ]
