@@ -112,7 +112,9 @@ def main():
             if chat and (not chat.permissions or not chat.permissions.can_send_messages):
                 print(f"Can't send messages to {chat_link}")
                 entry["tgGroupJoined"] = "error: Can't send messages"
-                continue
+                raise Exception("Can't send messages")
+            
+
 
             
             entry["tgGroupJoined"] = "success"    
