@@ -1772,7 +1772,16 @@
         },
         "web_domains": [
             "launchpad.kommunitas.net"
-        ]
+        ],
+        "telegram_groups": [
+            "metalinkannounce",
+            "bitgainai1",
+            "bitgainai",
+            "metalinkgroup",
+            "Kommunitas_Ann",
+            "monocerusworld"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd0f7ec675f7d29bcf58fb1ea793cba42644d05c4",
@@ -1831,7 +1840,9 @@
         },
         "web_domains": [
             "altitudedefi.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xfd421d60905d2f7cabd49e6a5703a3499367b8f4",
@@ -1841,6 +1852,8 @@
         },
         "web_domains": [
             "snowtrace.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
