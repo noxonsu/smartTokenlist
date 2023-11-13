@@ -1870,7 +1870,10 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 211
-        }
+        },
+        "web_domains": [
+            "curve.fi"
+        ]
     },
     {
         "contract_address": "0xe474fcee7666f4b4754ef26d3f6bd18ffc1f7051",
@@ -1926,14 +1929,20 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 0
-        }
+        },
+        "web_domains": [
+            "weth.io"
+        ]
     },
     {
         "contract_address": "0x908194859f95bfc2384f23e541f73fe68cd615f2",
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 108
-        }
+        },
+        "web_domains": [
+            "arbiscan.io"
+        ]
     },
     {
         "contract_address": "0x621b66224bb6165c6809c6f515d3acad197d6c6d",
