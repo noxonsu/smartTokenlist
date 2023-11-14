@@ -2613,7 +2613,10 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 1
-        }
+        },
+        "web_domains": [
+            "plutusdao.io"
+        ]
     },
     {
         "contract_address": "0x0f0be120ca4abe6adecba7033a9699d9a53c01d1",
