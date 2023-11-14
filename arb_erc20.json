@@ -2911,7 +2911,9 @@
         },
         "web_domains": [
             "docs.uniwhale.co"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xad435674417520aeeed6b504bbe654d4f556182f",
@@ -2921,7 +2923,9 @@
         },
         "web_domains": [
             "jarvis.network"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x07fad68fe1f516b31eb32acd598112a779d5e00d",
