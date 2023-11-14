@@ -2327,7 +2327,10 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 52
-        }
+        },
+        "web_domains": [
+            "weth.fi"
+        ]
     },
     {
         "contract_address": "0x90e266b0a74fcb02f62c60482ca3a60885139cb5",
