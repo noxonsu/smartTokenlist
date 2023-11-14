@@ -2402,5 +2402,51 @@
         "p6": true,
         "myuser": 6761555344,
         "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0x75d4bc47c9054f6bc02b7da3a7cd15a2c32ed990",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 256
+        }
+    },
+    {
+        "contract_address": "0x431402e8b9de9aa016c743880e04e517074d8cec",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 1855
+        }
+    },
+    {
+        "contract_address": "0x5ecb93b3ef882bf42fee65541942d50a7dab4b33",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 37
+        }
+    },
+    {
+        "contract_address": "0xe8a3bf796ca5a13283ec6b1c5b645b91d7cfef5d",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 452
+        }
+    },
+    {
+        "contract_address": "0x4b072c6ea5a232079ae760ff77304d9d5511b8da",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 702
+        }
+    },
+    {
+        "contract_address": "0xa138b2fab524e94aef1d6a961b9b0a3ab09d321f",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@silo.finance",
+            "security@silo.finance"
+        ],
+        "holders": {
+            "Arbitrum": 86
+        }
     }
 ]
