@@ -2616,7 +2616,9 @@
         },
         "web_domains": [
             "plutusdao.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0f0be120ca4abe6adecba7033a9699d9a53c01d1",
@@ -2647,7 +2649,9 @@
         ],
         "holders": {
             "Arbitrum": 140
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8d6b9d796289ffe2b7061b2ff56d459380db2355",
