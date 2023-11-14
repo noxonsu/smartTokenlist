@@ -2524,7 +2524,10 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 36
-        }
+        },
+        "web_domains": [
+            "tarot.to"
+        ]
     },
     {
         "contract_address": "0xa135d7f10545e3a45e24e79ecd4e4c3c78cf56bf",
