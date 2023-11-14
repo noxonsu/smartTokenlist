@@ -2527,7 +2527,9 @@
         },
         "web_domains": [
             "tarot.to"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa135d7f10545e3a45e24e79ecd4e4c3c78cf56bf",
