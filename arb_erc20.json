@@ -2304,5 +2304,92 @@
         "holders": {
             "Arbitrum": 1730
         }
+    },
+    {
+        "contract_address": "0xddbfbd5dc3ba0feb96cb513b689966b2176d4c09",
+        "sourceScanned": "processed",
+        "emails": [
+            "goncalo.sa@consensys.net"
+        ],
+        "holders": {
+            "Arbitrum": 5076
+        }
+    },
+    {
+        "contract_address": "0xeaced2e6f3ee6019ed6e245046330bfea7160f1c",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 134
+        }
+    },
+    {
+        "contract_address": "0x000000f5281f4c78c2e4874eca6c0e7327ff1b35",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 52
+        }
+    },
+    {
+        "contract_address": "0x90e266b0a74fcb02f62c60482ca3a60885139cb5",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 15228
+        }
+    },
+    {
+        "contract_address": "0x43ab8f7d2a8dd4102ccea6b438f6d747b1b9f034",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 2213
+        }
+    },
+    {
+        "contract_address": "0xb64e280e9d1b5dbec4accedb2257a87b400db149",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 5462
+        }
+    },
+    {
+        "contract_address": "0x4987782da9a63bc3abace48648b15546d821c720",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 48
+        }
+    },
+    {
+        "contract_address": "0xd5ee12fb0ff3a35f247eee9c833cdde5f38e2988",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 5380
+        }
+    },
+    {
+        "contract_address": "0x072158926c22478781068ab2b70e2a9dabb13e1c",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 10
+        }
+    },
+    {
+        "contract_address": "0xc5b2d9fda8a82e8dcecd5e9e6e99b78a9188eb05",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 1195
+        }
+    },
+    {
+        "contract_address": "0x154388a4650d63acc823e06ef9e47c1eddd3cbb2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "senecaprotocol.com",
+            "linktr.ee"
+        ],
+        "emails": [
+            "goncalo.sa@consensys.net"
+        ],
+        "holders": {
+            "Arbitrum": 863
+        }
     }
 ]
