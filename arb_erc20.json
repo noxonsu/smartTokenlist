@@ -1972,5 +1972,134 @@
         "holders": {
             "Arbitrum": 33
         }
+    },
+    {
+        "contract_address": "0xfa392dbefd2d5ec891ef5aeb87397a89843a8260",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 38
+        }
+    },
+    {
+        "contract_address": "0xa68ec98d7ca870cf1dd0b00ebbb7c4bf60a8e74d",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 530
+        }
+    },
+    {
+        "contract_address": "0x7cbaf5a14d953ff896e5b3312031515c858737c8",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 486
+        }
+    },
+    {
+        "contract_address": "0x0caadd427a6feb5b5fc1137eb05aa7ddd9c08ce9",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 1802
+        }
+    },
+    {
+        "contract_address": "0x95b3f9797077ddca971ab8524b439553a220eb2a",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 434
+        }
+    },
+    {
+        "contract_address": "0xd3934a2e428e31ffc14b1f69b0bec79db3e0c614",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "concentric.fi"
+        ],
+        "holders": {
+            "Arbitrum": 405
+        }
+    },
+    {
+        "contract_address": "0x2ada5779759b164bee3f35392033f2ea213de436",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 4
+        }
+    },
+    {
+        "contract_address": "0xdc1b3f63944e0ff11dbad513fe4175fc0466ce2e",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 813
+        }
+    },
+    {
+        "contract_address": "0xeeac5e75216571773c0064b3b591a86253791db6",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 580
+        }
+    },
+    {
+        "contract_address": "0x2bcc6d6cdbbdc0a4071e48bb3b969b06b3330c07",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 419
+        }
+    },
+    {
+        "contract_address": "0xfcecc1b000918dd2fc963f00f301bbb45dc7c523",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 7562
+        }
+    },
+    {
+        "contract_address": "0xec8da1bace73b413ff024d6d42e2a1624e353983",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 42
+        }
+    },
+    {
+        "contract_address": "0x9d2f299715d94d8a7e6f5eaa8e654e8c74a988a7",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 5796
+        }
+    },
+    {
+        "contract_address": "0x9045ae36f963b7184861bdce205ea8b08913b48c",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 310
+        }
+    },
+    {
+        "contract_address": "0xfb08dac00da5e400915af269245c722718293111",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 861
+        }
+    },
+    {
+        "contract_address": "0x295b97012945bd4a1a79ec7f679e16761a437e5c",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 1797
+        }
+    },
+    {
+        "contract_address": "0x9365181a7df82a1cc578eae443efd89f00dbb643",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 124
+        }
+    },
+    {
+        "contract_address": "0xda661fa59320b808c5a6d23579fcfedf1fd3cf36",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 2276
+        }
     }
 ]
