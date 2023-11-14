@@ -2330,7 +2330,9 @@
         },
         "web_domains": [
             "weth.fi"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x90e266b0a74fcb02f62c60482ca3a60885139cb5",
@@ -2393,6 +2395,10 @@
         ],
         "holders": {
             "Arbitrum": 863
-        }
+        },
+        "telegram_groups": [
+            "seneca_protocol"
+        ],
+        "p6": true
     }
 ]
