@@ -2016,7 +2016,9 @@
         ],
         "holders": {
             "Arbitrum": 405
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2ada5779759b164bee3f35392033f2ea213de436",
