@@ -3623,7 +3623,10 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 29
-        }
+        },
+        "web_domains": [
+            "pancakeswap.finance"
+        ]
     },
     {
         "contract_address": "0x8a8e7f62acd44244f1c9a36993e7d9b9f21ec0fa",
@@ -3637,7 +3640,10 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 114
-        }
+        },
+        "web_domains": [
+            "decenliquid.io"
+        ]
     },
     {
         "contract_address": "0x15b2fb8f08e4ac1ce019eadae02ee92aedf06851",
