@@ -3552,7 +3552,9 @@
         "telegram_groups": [
             "connectfinancial"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x1e95a37be8a17328fbf4b25b9ce3ce81e271beb3",
