@@ -3335,7 +3335,9 @@
         },
         "web_domains": [
             "app.firebird.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x95fe2ec2c1797cae5210abd9cc9f061d5bd1583e",
@@ -3354,7 +3356,9 @@
         ],
         "holders": {
             "Arbitrum": 6
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf322c51564c4cad637495b13369bc5475d4467a9",
@@ -3378,6 +3382,8 @@
         },
         "web_domains": [
             "riseworks.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
