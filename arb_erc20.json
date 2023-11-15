@@ -3692,5 +3692,100 @@
         "holders": {
             "Arbitrum": 229
         }
+    },
+    {
+        "contract_address": "0xe7cf5b533d95a9d489ae966d3acebc2a326d9e5c",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 2
+        }
+    },
+    {
+        "contract_address": "0xebd6ab02cdbc1399c7512974816889546a11d66b",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 2
+        }
+    },
+    {
+        "contract_address": "0x4e12faac1b8f38ffe82142d54db8b3ad6a23ac5f",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 2
+        }
+    },
+    {
+        "contract_address": "0x0ed8992e7af2b553ff66f47677335ac7af2b2420",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 13
+        }
+    },
+    {
+        "contract_address": "0x3cdca7d41430f53bfe2fa6303b4e2ce2c81048b3",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 10
+        }
+    },
+    {
+        "contract_address": "0x9cfa58dde77412f3cd5eca8e021fd8c4302d9c69",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 6
+        }
+    },
+    {
+        "contract_address": "0xf1a82bfa7fceb8b8741e7e04a6b8efd348ca6393",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 68945
+        }
+    },
+    {
+        "contract_address": "0x8929e9dbd2785e3ba16175e596cdd61520fee0d1",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 3939
+        }
+    },
+    {
+        "contract_address": "0x0efe65b6f24d46af9ce261ee01b1f1a32202e22f",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@silo.finance",
+            "security@silo.finance"
+        ],
+        "holders": {
+            "Arbitrum": 836
+        }
+    },
+    {
+        "contract_address": "0xa6d7d0e650aa40ffa42d845a354c12c2bc0ab15f",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 4871
+        }
+    },
+    {
+        "contract_address": "0x35e6a59f786d9266c7961ea28c7b768b33959cbb",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 1058
+        }
+    },
+    {
+        "contract_address": "0x1605bbdab3b38d10fa23a7ed0d0e8f4fea5bff59",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 722
+        }
+    },
+    {
+        "contract_address": "0x002721278011294cd6b6814895db01e2351367f5",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 11
+        }
     }
 ]
