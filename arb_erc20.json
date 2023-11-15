@@ -3715,7 +3715,12 @@
         },
         "web_domains": [
             "dopex.io"
-        ]
+        ],
+        "telegram_groups": [
+            "dopexofficial",
+            "dopexnews"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0ed8992e7af2b553ff66f47677335ac7af2b2420",
@@ -3732,7 +3737,9 @@
         },
         "web_domains": [
             "mockrdpx.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9cfa58dde77412f3cd5eca8e021fd8c4302d9c69",
