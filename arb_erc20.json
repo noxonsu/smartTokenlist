@@ -1177,7 +1177,9 @@
         ],
         "holders": {
             "Arbitrum": 3831
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x13ad51ed4f1b7e9dc168d8a00cb3f4ddd85efa60",
@@ -3609,7 +3611,9 @@
         ],
         "holders": {
             "Arbitrum": 6
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x953a573793604af8d41f306feb8274190db4ae0e",
@@ -3626,7 +3630,26 @@
         },
         "web_domains": [
             "pancakeswap.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "pancakeswapFR",
+            "pancakeswapturkiye",
+            "pancakeswapIndonesia",
+            "pancakeswapPortuguese",
+            "pancakeswap_ru",
+            "pancakeswap_DE",
+            "pancakeswap_CN",
+            "pancakeswap_PH",
+            "pancakeswapJP",
+            "PancakeSwapVN",
+            "pancakeswapES",
+            "pancakeswap_Ita",
+            "pancakeswapGeorgia",
+            "pancakeswap",
+            "pancakeswap_INDIA",
+            "PancakeSwapAnn"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8a8e7f62acd44244f1c9a36993e7d9b9f21ec0fa",
@@ -3643,7 +3666,9 @@
         },
         "web_domains": [
             "decenliquid.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x15b2fb8f08e4ac1ce019eadae02ee92aedf06851",
