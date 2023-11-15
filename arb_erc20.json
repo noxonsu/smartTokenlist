@@ -3022,7 +3022,9 @@
         },
         "web_domains": [
             "equilibria.fi"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x1b8d516e2146d7a32aca0fcbf9482db85fd42c3a",
@@ -3045,7 +3047,9 @@
         ],
         "holders": {
             "Arbitrum": 1
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc8ccbd97b96834b976c995a67bf46e5754e2c48e",
