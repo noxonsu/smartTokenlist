@@ -3332,7 +3332,10 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 61
-        }
+        },
+        "web_domains": [
+            "app.firebird.finance"
+        ]
     },
     {
         "contract_address": "0x95fe2ec2c1797cae5210abd9cc9f061d5bd1583e",
@@ -3372,6 +3375,9 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 286
-        }
+        },
+        "web_domains": [
+            "riseworks.io"
+        ]
     }
 ]
