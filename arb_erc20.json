@@ -3548,7 +3548,11 @@
         },
         "web_domains": [
             "connect.financial"
-        ]
+        ],
+        "telegram_groups": [
+            "connectfinancial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1e95a37be8a17328fbf4b25b9ce3ce81e271beb3",
