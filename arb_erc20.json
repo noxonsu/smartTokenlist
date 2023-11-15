@@ -3326,5 +3326,52 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x82be2d7a15756ecd0dec6d27c4ea7b7924b9b241",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 61
+        }
+    },
+    {
+        "contract_address": "0x95fe2ec2c1797cae5210abd9cc9f061d5bd1583e",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 27
+        }
+    },
+    {
+        "contract_address": "0xab6c37355d6c06fcf73ab0e049d9cf922f297573",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "license.coupon.finance",
+            "docs.aave.com",
+            "docs.aave.com"
+        ],
+        "holders": {
+            "Arbitrum": 6
+        }
+    },
+    {
+        "contract_address": "0xf322c51564c4cad637495b13369bc5475d4467a9",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 1
+        }
+    },
+    {
+        "contract_address": "0xe4177c1400a8eee1799835dcde2489c6f0d5d616",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 3173
+        }
+    },
+    {
+        "contract_address": "0x1b34bcc581d535d33c895fabce3c85f1bf3bdb33",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 286
+        }
     }
 ]
