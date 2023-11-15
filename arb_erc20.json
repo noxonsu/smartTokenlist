@@ -3385,5 +3385,73 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xd5954c3084a1ccd70b4da011e67760b8e78aee84",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 1471
+        }
+    },
+    {
+        "contract_address": "0x6d038130b9b379a373b1d33a29d5904ed1bb9026",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "quickintel.io"
+        ],
+        "telegram_groups": [
+            "Quicky_TG"
+        ],
+        "holders": {
+            "Arbitrum": 1174
+        }
+    },
+    {
+        "contract_address": "0x6c01242b5e039ab0cd20d7e7e249920fe03c3cfa",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 5
+        }
+    },
+    {
+        "contract_address": "0x7a2c1b8e26c48a5b73816b7ec826fd4053f5f34b",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 8067
+        }
+    },
+    {
+        "contract_address": "0x46ae9bab8cea96610807a275ebd36f8e916b5c61",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 1362
+        }
+    },
+    {
+        "contract_address": "0x61a1ff55c5216b636a294a07d77c6f4df10d3b56",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 1100
+        }
+    },
+    {
+        "contract_address": "0xb688ba096b7bb75d7841e47163cd12d18b36a5bf",
+        "sourceScanned": "processed",
+        "emails": [
+            "goncalo.sa@consensys.net"
+        ],
+        "holders": {
+            "Arbitrum": 1138
+        }
+    },
+    {
+        "contract_address": "0x70d95587d40a2caf56bd97485ab3eec10bee6336",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blog.soliditylang.org"
+        ],
+        "holders": {
+            "Arbitrum": 1289
+        }
     }
 ]
