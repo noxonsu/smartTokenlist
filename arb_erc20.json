@@ -3239,7 +3239,10 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 201
-        }
+        },
+        "web_domains": [
+            "fantom.foundation"
+        ]
     },
     {
         "contract_address": "0xc628534100180582e43271448098cb2c185795bd",
@@ -3260,6 +3263,9 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 1
-        }
+        },
+        "web_domains": [
+            "thegraph.com"
+        ]
     }
 ]
