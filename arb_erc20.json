@@ -3173,5 +3173,51 @@
         "holders": {
             "Arbitrum": 330
         }
+    },
+    {
+        "contract_address": "0xf236ea74b515ef96a9898f5a4ed4aa591f253ce1",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 9897
+        }
+    },
+    {
+        "contract_address": "0x403b1405d8caffc1cc5032cc82aa135d2481d0cf",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 3497
+        }
+    },
+    {
+        "contract_address": "0x6c35ec8df04d1417d3b02f2476c02e65b6d3b94c",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 137
+        }
+    },
+    {
+        "contract_address": "0x2a9a8c1b17c24262a7c76e1ab6ddf31cf6bd9cb0",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@silo.finance",
+            "security@silo.finance"
+        ],
+        "holders": {
+            "Arbitrum": 2433
+        }
+    },
+    {
+        "contract_address": "0x8ab1774a6fc5ee51559964e13ecd54155340c116",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 1
+        }
+    },
+    {
+        "contract_address": "0x816e21c33fa5f8440ebcdf6e01d39314541bea72",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 149
+        }
     }
 ]
