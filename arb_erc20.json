@@ -3006,5 +3006,70 @@
         "holders": {
             "Arbitrum": 3
         }
+    },
+    {
+        "contract_address": "0x32eb7902d4134bf98a28b963d26de779af92a212",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 58275
+        }
+    },
+    {
+        "contract_address": "0xd4848211b699503c772aa1bc7d33b433c4242ac3",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 285
+        }
+    },
+    {
+        "contract_address": "0x1b8d516e2146d7a32aca0fcbf9482db85fd42c3a",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 1283
+        }
+    },
+    {
+        "contract_address": "0xa10f0c9ead97149a1bb57543c2837fa31e05610b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "holograph.xyz",
+            "holograph.xyz",
+            "holograph.xyz",
+            "holograph.xyz",
+            "holograph.xyz",
+            "holograph.xyz",
+            "holograph.xyz"
+        ],
+        "holders": {
+            "Arbitrum": 1
+        }
+    },
+    {
+        "contract_address": "0xc8ccbd97b96834b976c995a67bf46e5754e2c48e",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 691
+        }
+    },
+    {
+        "contract_address": "0x5694abf323ea8aa0af514f588b0ec727816f2611",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 4
+        }
+    },
+    {
+        "contract_address": "0x8619d80fb0141ba7f184cbf22fd724116d9f7ffc",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 26166
+        }
+    },
+    {
+        "contract_address": "0xd9d25c67d0caf9b8d8df60c5038a18ec951f92c9",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 124
+        }
     }
 ]
