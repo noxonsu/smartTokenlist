@@ -3019,7 +3019,10 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 285
-        }
+        },
+        "web_domains": [
+            "equilibria.fi"
+        ]
     },
     {
         "contract_address": "0x1b8d516e2146d7a32aca0fcbf9482db85fd42c3a",
