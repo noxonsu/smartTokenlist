@@ -3275,5 +3275,51 @@
         "p6": true,
         "myuser": 6761555344,
         "tgGroupJoined": "error: Chat is too large22129"
+    },
+    {
+        "contract_address": "0x40abc7a356cb220a5e3e3bd3b12a1852dac5f1ee",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 334
+        }
+    },
+    {
+        "contract_address": "0x7fd52da78f579db67cdd09e5d8981ecfccfc8bc9",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@silo.finance",
+            "security@silo.finance"
+        ],
+        "holders": {
+            "Arbitrum": 171
+        }
+    },
+    {
+        "contract_address": "0x460c2c075340ebc19cf4af68e5d83c194e7d21d0",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 21
+        }
+    },
+    {
+        "contract_address": "0x43c25f828390de5a3648864eb485cc523e039e67",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 126486
+        }
+    },
+    {
+        "contract_address": "0xa6c5c7d189fa4eb5af8ba34e63dcdd3a635d433f",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 140
+        }
+    },
+    {
+        "contract_address": "0xa6eed46496673018dfc867679234218a654a9a96",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 8
+        }
     }
 ]
