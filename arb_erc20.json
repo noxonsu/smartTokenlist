@@ -3242,7 +3242,9 @@
         },
         "web_domains": [
             "fantom.foundation"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc628534100180582e43271448098cb2c185795bd",
@@ -3266,6 +3268,10 @@
         },
         "web_domains": [
             "thegraph.com"
-        ]
+        ],
+        "telegram_groups": [
+            "graphprotocol"
+        ],
+        "p6": true
     }
 ]
