@@ -3525,5 +3525,64 @@
         "holders": {
             "Arbitrum": 24
         }
+    },
+    {
+        "contract_address": "0xf8b645c32f660f5c997ed250f264ca4a0e7a5967",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 3
+        }
+    },
+    {
+        "contract_address": "0x4993e9d7c2c76760ac1cbd1674d44152a59daaed",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 453
+        }
+    },
+    {
+        "contract_address": "0x6f5401c53e2769c858665621d22ddbf53d8d27c5",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 105
+        }
+    },
+    {
+        "contract_address": "0x1e95a37be8a17328fbf4b25b9ce3ce81e271beb3",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 309
+        }
+    },
+    {
+        "contract_address": "0x4307fbdcd9ec7aea5a1c2958decaa6f316952bab",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 105
+        }
+    },
+    {
+        "contract_address": "0xc25cef6061cf5de5eb761b50e4743c1f5d7e5407",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blog.soliditylang.org"
+        ],
+        "holders": {
+            "Arbitrum": 1099
+        }
+    },
+    {
+        "contract_address": "0x739fe1be8cbbeaea96fea55c4052cd87796c0a89",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 108
+        }
+    },
+    {
+        "contract_address": "0x12e59c59d282d2c00f3166915bed6dc2f5e2b5c7",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 15288
+        }
     }
 ]
