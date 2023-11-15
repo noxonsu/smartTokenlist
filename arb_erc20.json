@@ -3453,5 +3453,75 @@
         "holders": {
             "Arbitrum": 1289
         }
+    },
+    {
+        "contract_address": "0x96c4a48abdf781e9c931cfa92ec0167ba219ad8e",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 519
+        }
+    },
+    {
+        "contract_address": "0x794075aef95d9bd7e5cfd0ea8a1e68493b7e0e23",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 550
+        }
+    },
+    {
+        "contract_address": "0xff9bd42211f12e2de6599725895f37b4ce654ab2",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 866
+        }
+    },
+    {
+        "contract_address": "0xc47d9753f3b32aa9548a7c3f30b6aec3b2d2798c",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 2484
+        }
+    },
+    {
+        "contract_address": "0xc5888f8d3663a6c27e4a2767a20c0cf347b2bb0e",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 311
+        }
+    },
+    {
+        "contract_address": "0x6aa395f06986ea4efe0a4630c7865c1eb08d5e7e",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 423
+        }
+    },
+    {
+        "contract_address": "0x035d9815ae5af78d568721fa118bb93428c91f51",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 12
+        }
+    },
+    {
+        "contract_address": "0x2389f6a46562ae5f1557db8562c39ef553f3832b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "kerc.gitbook.io"
+        ],
+        "holders": {
+            "Arbitrum": 279
+        }
+    },
+    {
+        "contract_address": "0x5318e434e8adc7c8b2810cbb0981e4c3416b6504",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@silo.finance",
+            "security@silo.finance"
+        ],
+        "holders": {
+            "Arbitrum": 24
+        }
     }
 ]
