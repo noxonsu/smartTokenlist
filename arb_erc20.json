@@ -524,8 +524,8 @@
             "Arbitrum": 18
         },
         "telegram_groups": [
-            "AlphaFinanceLab",
-            "AlphaAnnouncement"
+            "AlphaAnnouncement",
+            "AlphaFinanceLab"
         ],
         "p6": true,
         "myuser": 6761555344,
@@ -4218,7 +4218,12 @@
         ],
         "holders": {
             "Arbitrum": 36
-        }
+        },
+        "telegram_groups": [
+            "AlphaAnnouncement",
+            "AlphaFinanceLab"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa3bedb2885bf23e9b8f72e38bbd9fddd1b50e1d6",
