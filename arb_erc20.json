@@ -4372,7 +4372,9 @@
         "telegram_groups": [
             "ferrum_network"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large12462"
     },
     {
         "contract_address": "0x96b9d7bad14268e36038e8ffdb86fdbd94ce7428",
@@ -4386,7 +4388,9 @@
         "web_domains": [
             "schlop.io"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x3251f402cc06b33e742f08e1adbe0d2e4c1ea2fa",
@@ -4428,7 +4432,9 @@
         "telegram_groups": [
             "wombex"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large10013"
     },
     {
         "contract_address": "0x0a85087c774584140e29f3d955eba17d7f7b5c68",
