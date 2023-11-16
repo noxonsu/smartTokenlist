@@ -4335,5 +4335,29 @@
         "holders": {
             "Arbitrum": 21616
         }
+    },
+    {
+        "contract_address": "0x9f7c232f23ae38b732f6fc325a05b3e04aee6921",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 10
+        }
+    },
+    {
+        "contract_address": "0x20547341e58fb558637fa15379c92e11f7b7f710",
+        "sourceScanned": "processed",
+        "emails": [
+            "goncalo.sa@consensys.net"
+        ],
+        "holders": {
+            "Arbitrum": 1359
+        }
+    },
+    {
+        "contract_address": "0xe85b662fe97e8562f4099d8a1d5a92d4b453bf30",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 762
+        }
     }
 ]
