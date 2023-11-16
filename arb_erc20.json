@@ -4091,7 +4091,9 @@
         },
         "web_domains": [
             "recentcoin.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd3f0ba7e2752031ecc944a4751be18c40d3978d9",
@@ -4100,11 +4102,15 @@
             "PandaTool.org"
         ],
         "telegram_groups": [
-            "PandaTool"
+            "PandaTool",
+            "cryptodriving6",
+            "btc6540",
+            "pandatool"
         ],
         "holders": {
             "Arbitrum": 4
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1cc128a5d977b3ba7d598f01db20a2116f59ef68",
@@ -4114,7 +4120,9 @@
         },
         "web_domains": [
             "radpiexyz.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xfd8aee8fcc10aac1897f8d5271d112810c79e022",
@@ -4131,7 +4139,11 @@
         },
         "web_domains": [
             "etherkey.fi"
-        ]
+        ],
+        "telegram_groups": [
+            "EtherKEYS_Lab"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6099a25967257c857811dea9b501eb804b87da89",
