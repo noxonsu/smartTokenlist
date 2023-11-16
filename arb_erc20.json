@@ -4088,7 +4088,10 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 150
-        }
+        },
+        "web_domains": [
+            "recentcoin.com"
+        ]
     },
     {
         "contract_address": "0xd3f0ba7e2752031ecc944a4751be18c40d3978d9",
@@ -4108,7 +4111,10 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 33
-        }
+        },
+        "web_domains": [
+            "radpiexyz.io"
+        ]
     },
     {
         "contract_address": "0xfd8aee8fcc10aac1897f8d5271d112810c79e022",
@@ -4122,7 +4128,10 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 297
-        }
+        },
+        "web_domains": [
+            "etherkey.fi"
+        ]
     },
     {
         "contract_address": "0x6099a25967257c857811dea9b501eb804b87da89",
