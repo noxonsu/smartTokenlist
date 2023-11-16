@@ -3557,7 +3557,8 @@
         "p6": true,
         "myuser": 6761555344,
         "tgGroupJoined": "success",
-        "p8": true
+        "p8": true,
+        "tgProposalSent": "error: Telegram says: Telegram says: [403 CHAT_WRITE_FORBIDDEN] - You don't have rights to send messages in this chat (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0x1e95a37be8a17328fbf4b25b9ce3ce81e271beb3",
