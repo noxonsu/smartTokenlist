@@ -4368,7 +4368,11 @@
         },
         "web_domains": [
             "ferrum.network"
-        ]
+        ],
+        "telegram_groups": [
+            "ferrum_network"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x96b9d7bad14268e36038e8ffdb86fdbd94ce7428",
@@ -4381,7 +4385,8 @@
         },
         "web_domains": [
             "schlop.io"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3251f402cc06b33e742f08e1adbe0d2e4c1ea2fa",
@@ -4419,7 +4424,11 @@
         },
         "web_domains": [
             "wombex.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "wombex"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0a85087c774584140e29f3d955eba17d7f7b5c68",
