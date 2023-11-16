@@ -4365,7 +4365,10 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 79
-        }
+        },
+        "web_domains": [
+            "ferrum.network"
+        ]
     },
     {
         "contract_address": "0x96b9d7bad14268e36038e8ffdb86fdbd94ce7428",
@@ -4375,7 +4378,10 @@
         ],
         "holders": {
             "Arbitrum": 41
-        }
+        },
+        "web_domains": [
+            "schlop.io"
+        ]
     },
     {
         "contract_address": "0x3251f402cc06b33e742f08e1adbe0d2e4c1ea2fa",
@@ -4410,7 +4416,10 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 17
-        }
+        },
+        "web_domains": [
+            "wombex.finance"
+        ]
     },
     {
         "contract_address": "0x0a85087c774584140e29f3d955eba17d7f7b5c68",
