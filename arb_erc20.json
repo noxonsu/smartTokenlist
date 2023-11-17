@@ -4626,5 +4626,43 @@
         },
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x7c2e0f792ea5b4a4dbd7fa7f949cf39a5c0ba185",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 19198
+        }
+    },
+    {
+        "contract_address": "0x1debd73e752beaf79865fd6446b0c970eae7732f",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 323
+        }
+    },
+    {
+        "contract_address": "0xd3188e0df68559c0b63361f6160c57ad88b239d8",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 3378
+        }
+    },
+    {
+        "contract_address": "0xe086022290444bcd279d22c56925cc5eda389999",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 38636
+        }
+    },
+    {
+        "contract_address": "0x188fb5f5ae5bbe4154d5778f2bbb2fb985c94d25",
+        "sourceScanned": "processed",
+        "emails": [
+            "goncalo.sa@consensys.net"
+        ],
+        "holders": {
+            "Arbitrum": 914
+        }
     }
 ]
