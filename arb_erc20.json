@@ -4881,5 +4881,97 @@
         "holders": {
             "Arbitrum": 1074
         }
+    },
+    {
+        "contract_address": "0xfe5a433bcee3ac8147695521aa383f41c116a10d",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 1052
+        }
+    },
+    {
+        "contract_address": "0x9c4ec768c28520b50860ea7a15bd7213a9ff58bf",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 219
+        }
+    },
+    {
+        "contract_address": "0xcd8a5ea5c44a231cb42f13056f55c65af32cb565",
+        "sourceScanned": "processed",
+        "emails": [
+            "mikhail.vladimirov@gmail.com"
+        ],
+        "holders": {
+            "Arbitrum": 3
+        }
+    },
+    {
+        "contract_address": "0x2b28e826b55e399f4d4699b85f68666ac51e6f70",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 23
+        }
+    },
+    {
+        "contract_address": "0xb5b74deec021516948de173fb1b1779a2b3d2b52",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "token-cdn-domain",
+            "token-cdn-domain",
+            "token-cdn-domain"
+        ],
+        "holders": {
+            "Arbitrum": 10
+        }
+    },
+    {
+        "contract_address": "0x7d89a94e486b6081e8683fbb879aa0fdafd1702d",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 2
+        }
+    },
+    {
+        "contract_address": "0x27696ff8fcbffd5db7c9e3ebdbfc37b02e2f4f84",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 48
+        }
+    },
+    {
+        "contract_address": "0xa55d07c323b5b1889a341418be03e60a849b398f",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 637
+        }
+    },
+    {
+        "contract_address": "0x84a87d273107db6301d6c5d6667a374ff05427bb",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 8
+        }
+    },
+    {
+        "contract_address": "0x29f836d5ef86d170862247785b7afbdd917e4b36",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 31
+        }
+    },
+    {
+        "contract_address": "0xea5794107e78b2452988078d2ed9d56622f20dc2",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 6
+        }
+    },
+    {
+        "contract_address": "0x482ad74ad32a3721e18ca2b2d656eed78b067db9",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 2
+        }
     }
 ]
