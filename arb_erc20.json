@@ -4544,5 +4544,85 @@
         "p6": true,
         "myuser": 6761555344,
         "tgGroupJoined": "error: Chat is too large4992"
+    },
+    {
+        "contract_address": "0x8939b652836472c4ceec8c6db62edc0c63e9c9bc",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 3
+        }
+    },
+    {
+        "contract_address": "0x33f580784b8f9d27e2700f1aad812f9d4ea9fe53",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 6
+        }
+    },
+    {
+        "contract_address": "0x1dec89c87f0d959b0331a56c893cf7bae0cc53ca",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 1
+        }
+    },
+    {
+        "contract_address": "0x20e7410ff61c1f30028dcb104b9f19be71f3d05b",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 2
+        }
+    },
+    {
+        "contract_address": "0x6882f3d46b83416e6bafaab3e0258a9cf86e9a7f",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 2
+        }
+    },
+    {
+        "contract_address": "0xe1663cd048c97ffb1894d1cb1e73bc00458757a1",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 2
+        }
+    },
+    {
+        "contract_address": "0x51318b7d00db7acc4026c88c3952b66278b6a67f",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 266984
+        }
+    },
+    {
+        "contract_address": "0x602eb0d99a5e3e76d1510372c4d2020e12eaea8a",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 2500
+        }
+    },
+    {
+        "contract_address": "0xfa4bed6cb4af084cf4c5636bf535a4e1bece2661",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 3
+        }
+    },
+    {
+        "contract_address": "0x01a4af444f54feb70c3e2d17ac208129d793974d",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 183
+        }
+    },
+    {
+        "contract_address": "0xe6b7ab9ebcfbf1a72e489ff00cdf9c6473ff6224",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "docs.connext.network"
+        ],
+        "holders": {
+            "Arbitrum": 0
+        }
     }
 ]
