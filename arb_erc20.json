@@ -4904,7 +4904,10 @@
         ],
         "holders": {
             "Arbitrum": 3
-        }
+        },
+        "web_domains": [
+            "dfx.finance"
+        ]
     },
     {
         "contract_address": "0x2b28e826b55e399f4d4699b85f68666ac51e6f70",
