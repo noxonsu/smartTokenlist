@@ -4847,5 +4847,39 @@
         "holders": {
             "Arbitrum": 3
         }
+    },
+    {
+        "contract_address": "0xe041e3bff8b5f51b545b973818fffd47f284f229",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "BaseOfGrok"
+        ],
+        "holders": {
+            "Arbitrum": 6
+        }
+    },
+    {
+        "contract_address": "0x468a2f749c1003ff57936ed03bf91741bbc2eef8",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 3
+        }
+    },
+    {
+        "contract_address": "0x5806aa266013d733db093f8a74da733a081f989a",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "TheWildWestWILD"
+        ],
+        "holders": {
+            "Arbitrum": 189
+        }
+    },
+    {
+        "contract_address": "0x1428cc68c38f370c911a537981b75b0e3c650c33",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 1074
+        }
     }
 ]
