@@ -4699,5 +4699,78 @@
         "holders": {
             "Arbitrum": 92
         }
+    },
+    {
+        "contract_address": "0x655a6beebf2361a19549a99486ff65f709bd2646",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "lilai.co"
+        ],
+        "telegram_groups": [
+            "lilAIAnn"
+        ],
+        "holders": {
+            "Arbitrum": 443
+        }
+    },
+    {
+        "contract_address": "0xeb950dd1f0a91ad9306dbe948fd8b497fee0121a",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 15
+        }
+    },
+    {
+        "contract_address": "0x69eb4fa4a2fbd498c257c57ea8b7655a2559a581",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 12064
+        }
+    },
+    {
+        "contract_address": "0xb743ea03919493723f1710f8d3778aa523b3d41b",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 4
+        }
+    },
+    {
+        "contract_address": "0xc1ca1e745b09a36c86905b62a168e1b4cd4b9c56",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 2059
+        }
+    },
+    {
+        "contract_address": "0xe492e012afc2a04f8fc1f13fb1ab1a8d44270f99",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 181
+        }
+    },
+    {
+        "contract_address": "0x4f588493a7c28b8cfe4050183db57c0dd8aecde0",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@silo.finance",
+            "security@silo.finance"
+        ],
+        "holders": {
+            "Arbitrum": 17
+        }
+    },
+    {
+        "contract_address": "0x25c9ef9bdb3d06acd8720eae4e52d48ffbcafdd4",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 207
+        }
+    },
+    {
+        "contract_address": "0x2066a650af4b6895f72e618587aad5e8120b7790",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 35
+        }
     }
 ]
