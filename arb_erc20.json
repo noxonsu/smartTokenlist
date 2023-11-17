@@ -4984,5 +4984,78 @@
         "holders": {
             "Arbitrum": 2
         }
+    },
+    {
+        "contract_address": "0x1509706a6c66ca549ff0cb464de88231ddbe213b",
+        "sourceScanned": "processed",
+        "emails": [
+            "goncalo.sa@consensys.net"
+        ],
+        "holders": {
+            "Arbitrum": 811
+        }
+    },
+    {
+        "contract_address": "0x06552310ae0534ab07093354a8af6f3cda863459",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 1
+        }
+    },
+    {
+        "contract_address": "0xcea42bf6bb23a7180da36da12d8b463580a17e3b",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 3
+        }
+    },
+    {
+        "contract_address": "0x8b7e5d16ea7fc0a130940fcdec092bfa02a461c2",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 48
+        }
+    },
+    {
+        "contract_address": "0x2e516ba5bf3b7ee47fb99b09eadb60bde80a82e0",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 2244
+        }
+    },
+    {
+        "contract_address": "0xf7728582002ef82908c8242cf552e969ba863ffa",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 533
+        }
+    },
+    {
+        "contract_address": "0x77ca01483f379e58174739308945f044e1a764dc",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 310
+        }
+    },
+    {
+        "contract_address": "0x2d0b7b8d2cb9a0445e2f2bfa12a5c0c459bc94f4",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 2
+        }
+    },
+    {
+        "contract_address": "0x63ca14963fcadb3daf2f7d7d18e5f27207547e57",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 4
+        }
+    },
+    {
+        "contract_address": "0xae0a4bc64aa389e3fbc6922b76777f12003d858f",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 5
+        }
     }
 ]
