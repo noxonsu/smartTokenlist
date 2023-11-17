@@ -4664,5 +4664,40 @@
         "holders": {
             "Arbitrum": 914
         }
+    },
+    {
+        "contract_address": "0xce5f24b7a95e9cba7df4b54e911b4a3dc8cdaf6f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "resources.curve.fi"
+        ],
+        "holders": {
+            "Arbitrum": 11697
+        }
+    },
+    {
+        "contract_address": "0x3ae5285e7fc52d7a09457784eece8ecb40d461b7",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 3
+        }
+    },
+    {
+        "contract_address": "0x2a6cd33ae19e078c3dd0d77d976c451658330392",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@silo.finance",
+            "security@silo.finance"
+        ],
+        "holders": {
+            "Arbitrum": 155
+        }
+    },
+    {
+        "contract_address": "0x7fb7ede54259cb3d4e1eaf230c7e2b1ffc951e9a",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 92
+        }
     }
 ]
