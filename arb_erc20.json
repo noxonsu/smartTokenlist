@@ -4707,11 +4707,13 @@
             "lilai.co"
         ],
         "telegram_groups": [
+            "lilAICommunity",
             "lilAIAnn"
         ],
         "holders": {
             "Arbitrum": 443
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xeb950dd1f0a91ad9306dbe948fd8b497fee0121a",
@@ -4721,7 +4723,9 @@
         },
         "web_domains": [
             "cryptoassetpool.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x69eb4fa4a2fbd498c257c57ea8b7655a2559a581",
