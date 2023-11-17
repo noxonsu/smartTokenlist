@@ -4907,7 +4907,11 @@
         },
         "web_domains": [
             "dfx.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "DFX_Finance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2b28e826b55e399f4d4699b85f68666ac51e6f70",
@@ -4926,7 +4930,9 @@
         ],
         "holders": {
             "Arbitrum": 10
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7d89a94e486b6081e8683fbb879aa0fdafd1702d",
