@@ -4537,6 +4537,10 @@
         },
         "web_domains": [
             "threshold.network"
-        ]
+        ],
+        "telegram_groups": [
+            "thresholdnetwork"
+        ],
+        "p6": true
     }
 ]
