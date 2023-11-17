@@ -4510,5 +4510,30 @@
         "holders": {
             "Arbitrum": 107
         }
+    },
+    {
+        "contract_address": "0xefd5a713c5bd85e9ced46070b2532e4a47a18102",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 6849
+        }
+    },
+    {
+        "contract_address": "0xc66f90da5f51f6b925449cf9f4e07100dc954d17",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@silo.finance",
+            "security@silo.finance"
+        ],
+        "holders": {
+            "Arbitrum": 15
+        }
+    },
+    {
+        "contract_address": "0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 162
+        }
     }
 ]
