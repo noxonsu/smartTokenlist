@@ -4534,6 +4534,9 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 162
-        }
+        },
+        "web_domains": [
+            "threshold.network"
+        ]
     }
 ]
