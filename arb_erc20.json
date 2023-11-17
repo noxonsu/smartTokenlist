@@ -4718,7 +4718,10 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 15
-        }
+        },
+        "web_domains": [
+            "cryptoassetpool.com"
+        ]
     },
     {
         "contract_address": "0x69eb4fa4a2fbd498c257c57ea8b7655a2559a581",
