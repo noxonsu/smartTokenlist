@@ -5275,7 +5275,9 @@
         ],
         "holders": {
             "Arbitrum": 3
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7f6ad1525f702c75e6286617c9948602b451a0d2",
