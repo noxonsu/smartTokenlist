@@ -3458,7 +3458,9 @@
         ],
         "holders": {
             "Arbitrum": 1289
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x96c4a48abdf781e9c931cfa92ec0167ba219ad8e",
@@ -3586,7 +3588,9 @@
         ],
         "holders": {
             "Arbitrum": 1099
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x739fe1be8cbbeaea96fea55c4052cd87796c0a89",
@@ -5602,7 +5606,9 @@
         },
         "web_domains": [
             "aura.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x47c031236e19d024b42f8ae6780e44a573170703",
@@ -5612,7 +5618,9 @@
         ],
         "holders": {
             "Arbitrum": 933
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6ab61f7541968322711a6810fd71915341aa7eb8",
@@ -5622,7 +5630,12 @@
         },
         "web_domains": [
             "yieldyak.com"
-        ]
+        ],
+        "telegram_groups": [
+            "yakdevs",
+            "yieldyak"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6688b00f0c23a4a546beaae51a7c90c439895d48",
