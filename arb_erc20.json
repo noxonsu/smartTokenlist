@@ -5105,7 +5105,10 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 2
-        }
+        },
+        "web_domains": [
+            "uniswap.org"
+        ]
     },
     {
         "contract_address": "0xe1e01f31389a47f6d4f8cd8d1ce364140fd1d8d3",
