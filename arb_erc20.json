@@ -5303,5 +5303,71 @@
         "holders": {
             "Arbitrum": 672
         }
+    },
+    {
+        "contract_address": "0xde70aed3d14d39b4955147efcf272334bdb75ab5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "yachtingverse.io",
+            "whitepaper.yachtingverse.io"
+        ],
+        "telegram_groups": [
+            "YachtingVerse_Chat"
+        ],
+        "holders": {
+            "Arbitrum": 1414
+        }
+    },
+    {
+        "contract_address": "0x07789a7c489788fd23ee599386859d9c32aaaaaa",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 122
+        }
+    },
+    {
+        "contract_address": "0xb49b6a3fd1f4bb510ef776de7a88a9e65904478a",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 6768
+        }
+    },
+    {
+        "contract_address": "0x254eaede62ad856ff892379a1a547213a355afdb",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 2501
+        }
+    },
+    {
+        "contract_address": "0x5f4ced6237bbb278b693a2b46d3ef1f45ba27ea9",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 7
+        }
+    },
+    {
+        "contract_address": "0x561877b6b3dd7651313794e5f2894b2f18be0766",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 4660
+        }
+    },
+    {
+        "contract_address": "0xcbed801b4162bf2a19b06968663438b5165a6a93",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.apache.org"
+        ],
+        "holders": {
+            "Arbitrum": 19
+        }
+    },
+    {
+        "contract_address": "0x8991d64fe388fa79a4f7aa7826e8da09f0c3c96a",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 254
+        }
     }
 ]
