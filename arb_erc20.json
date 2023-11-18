@@ -5253,5 +5253,35 @@
         "holders": {
             "Arbitrum": 345
         }
+    },
+    {
+        "contract_address": "0x972539e9d340a915775c004715f286a166f067fd",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 3
+        }
+    },
+    {
+        "contract_address": "0x85ec6ae01624ae0d2a04d0ffaad3a25884c7d0f3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi"
+        ],
+        "holders": {
+            "Arbitrum": 3
+        }
+    },
+    {
+        "contract_address": "0x7f6ad1525f702c75e6286617c9948602b451a0d2",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 1
+        }
     }
 ]
