@@ -5057,5 +5057,85 @@
         "holders": {
             "Arbitrum": 5
         }
+    },
+    {
+        "contract_address": "0xfb00ac187a8eb5afae4eace434f493eb62672df7",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 4741
+        }
+    },
+    {
+        "contract_address": "0x8fd68006d23df27fc36d3e3eda1fdcc4f0baa8c6",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 4
+        }
+    },
+    {
+        "contract_address": "0x55ff62567f09906a85183b866df84bf599a4bf70",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 1463
+        }
+    },
+    {
+        "contract_address": "0x4b6e42407db855fb101b9d39e084e36c90a52652",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 4
+        }
+    },
+    {
+        "contract_address": "0x78e30dfd5ef67fd414002ec6b4136a7a687c3c03",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 3
+        }
+    },
+    {
+        "contract_address": "0x5b904f19fb9ccf493b623e5c8ce91603665788b0",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 252
+        }
+    },
+    {
+        "contract_address": "0x8c09a7104ec5f59bb716e40aee97fcfb9c6255e1",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 2
+        }
+    },
+    {
+        "contract_address": "0xe1e01f31389a47f6d4f8cd8d1ce364140fd1d8d3",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 20
+        }
+    },
+    {
+        "contract_address": "0x22043fddf353308b4f2e7da2e5284e4d087449e1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "api.defi.saphirstein.com"
+        ],
+        "holders": {
+            "Arbitrum": 1726
+        }
+    },
+    {
+        "contract_address": "0xcac9d4df6c98da614639f71400145f163b5f77c5",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 1
+        }
+    },
+    {
+        "contract_address": "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 1146
+        }
     }
 ]
