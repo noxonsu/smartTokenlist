@@ -5538,7 +5538,10 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 285
-        }
+        },
+        "web_domains": [
+            "vanitytron.io"
+        ]
     },
     {
         "contract_address": "0xe3f2ec31a35c86c5e230cd6259259910aa992e03",
