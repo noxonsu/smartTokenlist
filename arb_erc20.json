@@ -5209,7 +5209,10 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 11
-        }
+        },
+        "web_domains": [
+            "aave.com"
+        ]
     },
     {
         "contract_address": "0x64343594ab9b56e99087bfa6f2335db24c2d1f17",
@@ -5223,7 +5226,10 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 24
-        }
+        },
+        "web_domains": [
+            "docs.wusd.fi"
+        ]
     },
     {
         "contract_address": "0xe80772eaf6e2e18b651f160bc9158b2a5cafca65",
