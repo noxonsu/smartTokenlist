@@ -5158,7 +5158,11 @@
         },
         "web_domains": [
             "chain.link"
-        ]
+        ],
+        "telegram_groups": [
+            "chainlinkofficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe73394f6a157a0fa656da2b73bbeda85c38dfdec",
