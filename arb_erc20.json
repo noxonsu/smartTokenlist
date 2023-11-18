@@ -5459,7 +5459,9 @@
         },
         "web_domains": [
             "alchemix.fi"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x175995159ca4f833794c88f7873b3e7fb12bb1b6",
