@@ -5108,7 +5108,9 @@
         },
         "web_domains": [
             "uniswap.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe1e01f31389a47f6d4f8cd8d1ce364140fd1d8d3",
