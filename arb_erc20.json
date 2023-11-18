@@ -5285,5 +5285,23 @@
         "holders": {
             "Arbitrum": 1
         }
+    },
+    {
+        "contract_address": "0xb1d88848e0a6a29e6d333c5625cde476d6e96786",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@silo.finance",
+            "security@silo.finance"
+        ],
+        "holders": {
+            "Arbitrum": 9
+        }
+    },
+    {
+        "contract_address": "0x0706905b2b21574defcf00b5fc48068995fcdcdf",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 672
+        }
     }
 ]
