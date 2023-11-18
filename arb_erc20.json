@@ -5411,14 +5411,20 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 8
-        }
+        },
+        "web_domains": [
+            "hiddenhand.finance"
+        ]
     },
     {
         "contract_address": "0xf31b528d724354575c0c65ab17d6decde29d2900",
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 24
-        }
+        },
+        "web_domains": [
+            "debank.com"
+        ]
     },
     {
         "contract_address": "0x4b3f79ce3d5d752064288fd2be968a1c21b3ba37",
