@@ -5212,7 +5212,9 @@
         },
         "web_domains": [
             "aave.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x64343594ab9b56e99087bfa6f2335db24c2d1f17",
@@ -5229,7 +5231,11 @@
         },
         "web_domains": [
             "docs.wusd.fi"
-        ]
+        ],
+        "telegram_groups": [
+            "wusd_fi"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe80772eaf6e2e18b651f160bc9158b2a5cafca65",
