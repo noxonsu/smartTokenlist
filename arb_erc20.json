@@ -5599,7 +5599,10 @@
         ],
         "holders": {
             "Arbitrum": 51
-        }
+        },
+        "web_domains": [
+            "aura.finance"
+        ]
     },
     {
         "contract_address": "0x47c031236e19d024b42f8ae6780e44a573170703",
@@ -5616,7 +5619,10 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 7
-        }
+        },
+        "web_domains": [
+            "yieldyak.com"
+        ]
     },
     {
         "contract_address": "0x6688b00f0c23a4a546beaae51a7c90c439895d48",
