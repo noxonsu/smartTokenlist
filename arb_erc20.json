@@ -5706,5 +5706,34 @@
         "holders": {
             "Arbitrum": 5
         }
+    },
+    {
+        "contract_address": "0x50e401255275dc405a99d3281f396cca681eea9d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.kortanalegacy.com",
+            "www.kortanalegacy.com"
+        ],
+        "holders": {
+            "Arbitrum": 10142
+        }
+    },
+    {
+        "contract_address": "0xbfd344c1f8664b5e1a8be936ce9ae2dfd1073661",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 4
+        }
+    },
+    {
+        "contract_address": "0x73b819e53d4f64aa51c1ee3ad40c7d769f35036a",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@silo.finance",
+            "security@silo.finance"
+        ],
+        "holders": {
+            "Arbitrum": 139
+        }
     }
 ]
