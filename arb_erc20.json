@@ -6010,7 +6010,9 @@
         ],
         "holders": {
             "Arbitrum": 10
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x1cd29a42882c163bad7a7c0124c3195a0584c518",
@@ -6026,7 +6028,9 @@
         ],
         "holders": {
             "Arbitrum": 1
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2f27118e3d2332afb7d165140cf1bb127ea6975d",
