@@ -5993,5 +5993,60 @@
         "holders": {
             "Arbitrum": 1756
         }
+    },
+    {
+        "contract_address": "0xb766039cc6db368759c1e56b79affe831d0cc507",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 2390
+        }
+    },
+    {
+        "contract_address": "0xceaf1cbf0cfdd1f7ea4c1c850c0bc032a60431db",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hackmd.io",
+            "code4rena.com"
+        ],
+        "holders": {
+            "Arbitrum": 10
+        }
+    },
+    {
+        "contract_address": "0x1cd29a42882c163bad7a7c0124c3195a0584c518",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hackmd.io",
+            "tinyurl.com",
+            "tinyurl.com",
+            "hackmd.io",
+            "hackmd.io",
+            "hackmd.io",
+            "hackmd.io"
+        ],
+        "holders": {
+            "Arbitrum": 1
+        }
+    },
+    {
+        "contract_address": "0x2f27118e3d2332afb7d165140cf1bb127ea6975d",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 12846
+        }
+    },
+    {
+        "contract_address": "0x068def65b9dbaff02b4ee54572a9fa7dfb188ea3",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 99
+        }
+    },
+    {
+        "contract_address": "0x7d180a4f451fc15b543b5d1ba7dda6b3014a4c49",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 23588
+        }
     }
 ]
