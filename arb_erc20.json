@@ -5769,14 +5769,20 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 139
-        }
+        },
+        "web_domains": [
+            "euroe.com"
+        ]
     },
     {
         "contract_address": "0x54355cc6913b26a15cca1f820cf17d362fa65db5",
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 196
-        }
+        },
+        "web_domains": [
+            "solidlizard.finance"
+        ]
     },
     {
         "contract_address": "0x7e141940932e3d13bfa54b224cb4a16510519308",
