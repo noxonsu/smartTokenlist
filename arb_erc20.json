@@ -5887,5 +5887,109 @@
         "holders": {
             "Arbitrum": 1128
         }
+    },
+    {
+        "contract_address": "0x1c61b0d3e925bee058b82876c5c9eb65ea71d145",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 69
+        }
+    },
+    {
+        "contract_address": "0x25d887ce7a35172c62febfd67a1856f20faebb00",
+        "sourceScanned": "processed",
+        "emails": [
+            "goncalo.sa@consensys.net"
+        ],
+        "holders": {
+            "Arbitrum": 2986
+        }
+    },
+    {
+        "contract_address": "0x5d878e9bfab130398c5944d328b3fa7dd97a2bcf",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@silo.finance",
+            "security@silo.finance"
+        ],
+        "holders": {
+            "Arbitrum": 33
+        }
+    },
+    {
+        "contract_address": "0x810cf1757b51963102e0b4fe9fdfcdf749dea98a",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 245
+        }
+    },
+    {
+        "contract_address": "0x0341c0c0ec423328621788d4854119b97f44e391",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 1362
+        }
+    },
+    {
+        "contract_address": "0x7d353420b3eb3cd9e7c819b4fea369686fd26b32",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@silo.finance",
+            "security@silo.finance"
+        ],
+        "holders": {
+            "Arbitrum": 79
+        }
+    },
+    {
+        "contract_address": "0xfbdf26822ef68912a7b18ae2d212e890b8a1517c",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 7
+        }
+    },
+    {
+        "contract_address": "0x13a8cf137b86cb2f5dd4223d53dc1b74533119a8",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 6
+        }
+    },
+    {
+        "contract_address": "0x901079a908fd3a228a1dc7548dd67e10a911e580",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 115
+        }
+    },
+    {
+        "contract_address": "0x88e2c969e2a1c69c16d1dcd9f8acde4c6ab3838a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi"
+        ],
+        "holders": {
+            "Arbitrum": 4
+        }
+    },
+    {
+        "contract_address": "0x4d010dbe0c6cdc0571bba026d6dfabbf40c9af28",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 355
+        }
+    },
+    {
+        "contract_address": "0x73ed68b834e44096eb4bea6edead038c945722f1",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 1756
+        }
     }
 ]
