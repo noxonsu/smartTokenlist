@@ -5828,7 +5828,10 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 139
-        }
+        },
+        "web_domains": [
+            "fi.woo.org"
+        ]
     },
     {
         "contract_address": "0x9321785d257b3f0ef7ff75436a87141c683dc99d",
