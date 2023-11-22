@@ -5831,7 +5831,11 @@
         },
         "web_domains": [
             "fi.woo.org"
-        ]
+        ],
+        "telegram_groups": [
+            "woo_english"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9321785d257b3f0ef7ff75436a87141c683dc99d",
