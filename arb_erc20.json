@@ -5801,5 +5801,54 @@
         "holders": {
             "Arbitrum": 2
         }
+    },
+    {
+        "contract_address": "0x6931b7953ed7c1d4904540e6d159d924c4af8cea",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 1
+        }
+    },
+    {
+        "contract_address": "0x9d721265534793285de46bf9de5327f101032b93",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 3
+        }
+    },
+    {
+        "contract_address": "0x1ae27d9068dadf10f611367332d162d184ed3414",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 201
+        }
+    },
+    {
+        "contract_address": "0x7f3f2a499c00c2d7018300f99a232896fd295bb1",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 139
+        }
+    },
+    {
+        "contract_address": "0x9321785d257b3f0ef7ff75436a87141c683dc99d",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 1378
+        }
+    },
+    {
+        "contract_address": "0x4900767e4f61c9b6e0d3199f27c84569bca77034",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 3
+        }
+    },
+    {
+        "contract_address": "0xc9b8a3fdecb9d5b218d02555a8baf332e5b740d5",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 77
+        }
     }
 ]
