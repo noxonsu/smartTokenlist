@@ -5772,7 +5772,9 @@
         },
         "web_domains": [
             "euroe.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x54355cc6913b26a15cca1f820cf17d362fa65db5",
@@ -5782,7 +5784,9 @@
         },
         "web_domains": [
             "solidlizard.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7e141940932e3d13bfa54b224cb4a16510519308",
