@@ -6377,7 +6377,9 @@
         ],
         "holders": {
             "Arbitrum": 2423
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9f66fc15483c9947e39360aff17d0d27e4f709ac",
@@ -6483,7 +6485,9 @@
         ],
         "holders": {
             "Arbitrum": 874
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0cbd6fadcf8096cc9a43d90b45f65826102e3ece",
@@ -6500,7 +6504,9 @@
         },
         "web_domains": [
             "gemini.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x01ec17d90d4f4e4cce1b602d461c8d4d52e96f46",
