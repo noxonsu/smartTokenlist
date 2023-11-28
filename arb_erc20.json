@@ -6111,7 +6111,9 @@
         },
         "web_domains": [
             "circle.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x40e6e76af1a06fbabac8d0d4ea2effd557ac668b",
