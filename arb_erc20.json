@@ -6191,5 +6191,75 @@
         "holders": {
             "Arbitrum": 2
         }
+    },
+    {
+        "contract_address": "0xa954a31137fbe5c2d384a0067de042baa58b3403",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 412
+        }
+    },
+    {
+        "contract_address": "0xe2035f04040a135c4da2f96aca742143c57c79f9",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 5704
+        }
+    },
+    {
+        "contract_address": "0xd56734d7f9979dd94fae3d67c7e928234e71cd4c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.optimism.io",
+            "community.optimism.io",
+            "www.optimism.io",
+            "community.optimism.io",
+            "book.wormhole.com"
+        ],
+        "holders": {
+            "Arbitrum": 265
+        }
+    },
+    {
+        "contract_address": "0x4406509b532b111bd39b5b579561001cbf0d7acf",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 3395
+        }
+    },
+    {
+        "contract_address": "0x745d68faded92574d0db571953c3f0b8d1b54d4e",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 6
+        }
+    },
+    {
+        "contract_address": "0xdca4e88c00a8800ebcebad63abdbaaaa755557f9",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 485
+        }
+    },
+    {
+        "contract_address": "0x727ed4ef04bb2a96ec77e44c1a91dbb01b605e42",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 265
+        }
+    },
+    {
+        "contract_address": "0x32e4d98d3010ac12d75019c484caa78665b03986",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 735
+        }
+    },
+    {
+        "contract_address": "0x0e9fa491b5327500e2cb4f21dd6852c0edf21c10",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 125
+        }
     }
 ]
