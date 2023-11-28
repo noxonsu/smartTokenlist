@@ -6218,7 +6218,9 @@
         ],
         "holders": {
             "Arbitrum": 265
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4406509b532b111bd39b5b579561001cbf0d7acf",
@@ -6263,6 +6265,8 @@
         },
         "web_domains": [
             "esgbot.net"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
