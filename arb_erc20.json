@@ -6108,7 +6108,10 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 65
-        }
+        },
+        "web_domains": [
+            "circle.com"
+        ]
     },
     {
         "contract_address": "0x40e6e76af1a06fbabac8d0d4ea2effd557ac668b",
