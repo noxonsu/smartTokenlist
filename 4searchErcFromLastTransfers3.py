@@ -3,9 +3,17 @@ import json
 import datetime
 import time
 from requests import get, post
-
+import random
 # API Key from Environment Variable
-API_KEY = os.environ.get("DUNE_API_KEY")
+
+#use random DUNE_API_KEY or DUNE_API_KEY2 
+rand = random.randint(1,2)
+if rand == 1:
+    print("DUNE_API_KEY")
+    API_KEY = os.environ.get("DUNE_API_KEY")
+else:
+    print("DUNE_API_KEY2")
+    API_KEY = os.environ.get("DUNE_API_KEY2")
 DUNE_QUERY = os.environ.get("DUNE_QUERY")
 # Base URL
 BASE_URL = "https://api.dune.com/api/v1/"
