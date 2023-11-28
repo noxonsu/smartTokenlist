@@ -6497,7 +6497,10 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 19
-        }
+        },
+        "web_domains": [
+            "gemini.com"
+        ]
     },
     {
         "contract_address": "0x01ec17d90d4f4e4cce1b602d461c8d4d52e96f46",
