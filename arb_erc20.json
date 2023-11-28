@@ -6351,5 +6351,92 @@
         "myuser": 6761555344,
         "tgGroupJoined": "success",
         "p8": true
+    },
+    {
+        "contract_address": "0x88f3c911190a2b6459345872c363371f3dfa72b6",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 1114
+        }
+    },
+    {
+        "contract_address": "0xe66998533a1992ece9ea99cdf47686f4fc8458e0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.jonesdao.io",
+            "www.jonesdao.io",
+            "www.jonesdao.io",
+            "www.jonesdao.io",
+            "www.jonesdao.io",
+            "www.jonesdao.io",
+            "www.jonesdao.io",
+            "www.jonesdao.io",
+            "www.jonesdao.io",
+            "www.jonesdao.io",
+            "www.jonesdao.io"
+        ],
+        "holders": {
+            "Arbitrum": 2423
+        }
+    },
+    {
+        "contract_address": "0x9f66fc15483c9947e39360aff17d0d27e4f709ac",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 3
+        }
+    },
+    {
+        "contract_address": "0x54eacc1f908833ab2a0d8075600ddde577870464",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 5
+        }
+    },
+    {
+        "contract_address": "0x792809841c16cfcc5228d8b2ae9673c0521d64f6",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 4
+        }
+    },
+    {
+        "contract_address": "0xf757bfe018485dd82191e84caacd1b06acb8e1c4",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 7
+        }
+    },
+    {
+        "contract_address": "0x0e239e4c865e21e28f53dde754d085726728e1d2",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 4
+        }
+    },
+    {
+        "contract_address": "0x5db91a5c9741d07f07d823e45ff97cc937dd4773",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 7
+        }
+    },
+    {
+        "contract_address": "0x837c2e349681e27dc4285419da13f8bef4e47326",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 2
+        }
+    },
+    {
+        "contract_address": "0xbb59f5324fea11e538fc7f46c3c7bfe5ad36e8b9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "developers.aave.com",
+            "docs.uniswap.org"
+        ],
+        "holders": {
+            "Arbitrum": 363
+        }
     }
 ]
