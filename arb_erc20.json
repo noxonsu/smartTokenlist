@@ -6260,6 +6260,9 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 125
-        }
+        },
+        "web_domains": [
+            "esgbot.net"
+        ]
     }
 ]
