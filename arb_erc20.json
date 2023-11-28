@@ -6440,5 +6440,70 @@
         },
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x244ae62439c1ef3187f244d8604ac2c391ef2b53",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 590
+        }
+    },
+    {
+        "contract_address": "0x788d86e00ab31db859c3d6b80d5a9375801d7f2a",
+        "sourceScanned": "processed",
+        "emails": [
+            "goncalo.sa@consensys.net"
+        ],
+        "holders": {
+            "Arbitrum": 1734
+        }
+    },
+    {
+        "contract_address": "0x66ecf47f3ba62a93670dcef1cce36234c782e0a3",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 14
+        }
+    },
+    {
+        "contract_address": "0x7241bc8035b65865156ddb5edef3eb32874a3af6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.jonesdao.io",
+            "www.jonesdao.io",
+            "www.jonesdao.io",
+            "www.jonesdao.io",
+            "www.jonesdao.io",
+            "www.jonesdao.io",
+            "www.jonesdao.io",
+            "www.jonesdao.io",
+            "www.jonesdao.io",
+            "www.jonesdao.io",
+            "www.jonesdao.io"
+        ],
+        "holders": {
+            "Arbitrum": 874
+        }
+    },
+    {
+        "contract_address": "0x0cbd6fadcf8096cc9a43d90b45f65826102e3ece",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 100
+        }
+    },
+    {
+        "contract_address": "0x031085fe56551b2b1d481c19861e53ff990e67fd",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 19
+        }
+    },
+    {
+        "contract_address": "0x01ec17d90d4f4e4cce1b602d461c8d4d52e96f46",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 731
+        }
     }
 ]
