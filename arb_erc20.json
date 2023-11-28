@@ -6279,7 +6279,10 @@
         ],
         "holders": {
             "Arbitrum": 76
-        }
+        },
+        "web_domains": [
+            "locuschain.com"
+        ]
     },
     {
         "contract_address": "0x6f28cafe12bd97e474a52bcbfea6f2c18ae0f53d",
@@ -6335,6 +6338,9 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 7
-        }
+        },
+        "web_domains": [
+            "metaland.game"
+        ]
     }
 ]
