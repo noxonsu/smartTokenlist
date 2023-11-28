@@ -6268,5 +6268,73 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xe1d3495717f9534db67a6a8d4940dd17435b6a9e",
+        "sourceScanned": "processed",
+        "emails": [
+            "nick@perfectabstractions.com",
+            "nick@perfectabstractions.com",
+            "nick@perfectabstractions.com"
+        ],
+        "holders": {
+            "Arbitrum": 76
+        }
+    },
+    {
+        "contract_address": "0x6f28cafe12bd97e474a52bcbfea6f2c18ae0f53d",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 71
+        }
+    },
+    {
+        "contract_address": "0x5190f06eacefa2c552dc6bd5e763b81c73293293",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 772
+        }
+    },
+    {
+        "contract_address": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 3449
+        }
+    },
+    {
+        "contract_address": "0x2887e4d22ea86ec3973c0093ffa13aeeb4416973",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 1
+        }
+    },
+    {
+        "contract_address": "0xa8669021776bc142dfca87c21b4a52595bcbb40a",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 304
+        }
+    },
+    {
+        "contract_address": "0xfe14f790da92971131544d915c4ada6f1abce3bd",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 47
+        }
+    },
+    {
+        "contract_address": "0xfe8e5879b2b01a3459e6a4ca6a0da99bd32a41c9",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 610
+        }
+    },
+    {
+        "contract_address": "0x673d6d2da0b1b477464f16267cefc7a8d27bf53f",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 7
+        }
     }
 ]
