@@ -6282,7 +6282,9 @@
         },
         "web_domains": [
             "locuschain.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6f28cafe12bd97e474a52bcbfea6f2c18ae0f53d",
@@ -6341,6 +6343,10 @@
         },
         "web_domains": [
             "metaland.game"
-        ]
+        ],
+        "telegram_groups": [
+            "Metaland_Game"
+        ],
+        "p6": true
     }
 ]
