@@ -6768,5 +6768,58 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x0d2ebf71afdfafe8e3fde3eaf9c502896f9e3718",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 4
+        }
+    },
+    {
+        "contract_address": "0x0597c60bd1230a040953cb1c54d0e854cd522932",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 1
+        }
+    },
+    {
+        "contract_address": "0xe5538bfccba7456a66d4c5f9019988c1e5f09e91",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 1
+        }
+    },
+    {
+        "contract_address": "0x1622bf67e6e5747b81866fe0b85178a93c7f86e3",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 272513
+        }
+    },
+    {
+        "contract_address": "0x0032f5e1520a66c6e572e96a11fbf54aea26f9be",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 145
+        }
+    },
+    {
+        "contract_address": "0xbcf8c124975de6277d8397a3cad26e2333620226",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 232
+        }
+    },
+    {
+        "contract_address": "0xb629ef34358395e2e68756dc1bb4ebb99a943d7d",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@silo.finance",
+            "security@silo.finance"
+        ],
+        "holders": {
+            "Arbitrum": 3
+        }
     }
 ]
