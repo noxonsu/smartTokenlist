@@ -6697,7 +6697,11 @@
         },
         "web_domains": [
             "babybonkcoin.com"
-        ]
+        ],
+        "telegram_groups": [
+            "BabyBonkGlobal"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x077bc655c8d81b7de71c79318d0eb8f987e12820",
@@ -6726,6 +6730,8 @@
         ],
         "holders": {
             "Arbitrum": 5
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     }
 ]
