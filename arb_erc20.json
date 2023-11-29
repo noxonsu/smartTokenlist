@@ -6735,5 +6735,33 @@
         },
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xb67c014fa700e69681a673876eb8bafaa36bff71",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 162692
+        }
+    },
+    {
+        "contract_address": "0xd92eab7bb07925c2ccef9969756316ebc656df2b",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 1
+        }
+    },
+    {
+        "contract_address": "0x48147ef2d24532279ca2221e6c1716e382d73a6c",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 0
+        }
+    },
+    {
+        "contract_address": "0x9e3fffae113633128f055432c7c8e1074377b72f",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 9
+        }
     }
 ]
