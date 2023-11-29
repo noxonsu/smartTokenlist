@@ -6694,7 +6694,10 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 0
-        }
+        },
+        "web_domains": [
+            "babybonkcoin.com"
+        ]
     },
     {
         "contract_address": "0x077bc655c8d81b7de71c79318d0eb8f987e12820",
