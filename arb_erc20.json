@@ -6602,14 +6602,20 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 124
-        }
+        },
+        "web_domains": [
+            "nash.io"
+        ]
     },
     {
         "contract_address": "0xf712ee1c45c84aec0bfa1581f34b9dc9a54d7e60",
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 2
-        }
+        },
+        "web_domains": [
+            "vedao.com"
+        ]
     },
     {
         "contract_address": "0x98b2c9757dd18d3fd1f435bd0aa8daa2412b135d",
