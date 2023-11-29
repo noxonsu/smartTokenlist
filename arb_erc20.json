@@ -6849,7 +6849,10 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 0
-        }
+        },
+        "web_domains": [
+            "kap.gg"
+        ]
     },
     {
         "contract_address": "0x0081772fd29e4838372cbccdd020f53954f5ecde",
