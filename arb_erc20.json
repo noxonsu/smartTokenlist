@@ -6835,7 +6835,9 @@
         ],
         "holders": {
             "Arbitrum": 1
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x85c3e9546e1bd65cae10b69c49b8c331b29d17a3",
@@ -6852,7 +6854,9 @@
         },
         "web_domains": [
             "kap.gg"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0081772fd29e4838372cbccdd020f53954f5ecde",
