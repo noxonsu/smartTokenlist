@@ -6821,5 +6821,41 @@
         "holders": {
             "Arbitrum": 3
         }
+    },
+    {
+        "contract_address": "0x17ff154a329e37282eb9a76c3ae848fc277f24c7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.jonesdao.io",
+            "www.jonesdao.io",
+            "www.jonesdao.io",
+            "www.jonesdao.io",
+            "www.jonesdao.io",
+            "www.jonesdao.io"
+        ],
+        "holders": {
+            "Arbitrum": 1
+        }
+    },
+    {
+        "contract_address": "0x85c3e9546e1bd65cae10b69c49b8c331b29d17a3",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 546
+        }
+    },
+    {
+        "contract_address": "0x42d20624bbf5dca71783b551d3c8704f2209169d",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 0
+        }
+    },
+    {
+        "contract_address": "0x0081772fd29e4838372cbccdd020f53954f5ecde",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 249
+        }
     }
 ]
