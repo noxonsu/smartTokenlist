@@ -6605,7 +6605,11 @@
         },
         "web_domains": [
             "nash.io"
-        ]
+        ],
+        "telegram_groups": [
+            "nashsocial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf712ee1c45c84aec0bfa1581f34b9dc9a54d7e60",
@@ -6615,7 +6619,11 @@
         },
         "web_domains": [
             "vedao.com"
-        ]
+        ],
+        "telegram_groups": [
+            "veDAO_EN"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x98b2c9757dd18d3fd1f435bd0aa8daa2412b135d",
