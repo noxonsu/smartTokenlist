@@ -6547,5 +6547,54 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x1722b8f51ee392b1f301bdde0b66ca0ba9b95e11",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 2
+        }
+    },
+    {
+        "contract_address": "0xd61ba67f32ad5e0d997458f68326e0842977659e",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 765
+        }
+    },
+    {
+        "contract_address": "0x674958e2546ece45304bf65b742e562911134aa8",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 4
+        }
+    },
+    {
+        "contract_address": "0x695a69e76c97f5708e5d0fd113df8ec1459233b3",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 1
+        }
+    },
+    {
+        "contract_address": "0x8a30a94b7c384607246eb74e5a88eb7e9ad581ee",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 1
+        }
+    },
+    {
+        "contract_address": "0x22f4730e21e40dc751c08826d93010a64185e53f",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 1279
+        }
+    },
+    {
+        "contract_address": "0xc3882b132011ff3cea4da81f3303138368dd5d75",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 80
+        }
     }
 ]
