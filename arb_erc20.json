@@ -6656,5 +6656,73 @@
         "holders": {
             "Arbitrum": 3
         }
+    },
+    {
+        "contract_address": "0x153516904bc7e28ae7c526e8aee4ec5eae878edb",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 4955
+        }
+    },
+    {
+        "contract_address": "0xfc77b86f3ade71793e1eec1e7944db074922856e",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 2644
+        }
+    },
+    {
+        "contract_address": "0x4e873117631835524cda0c3cab936f1cd01ecf33",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@silo.finance",
+            "security@silo.finance"
+        ],
+        "holders": {
+            "Arbitrum": 99
+        }
+    },
+    {
+        "contract_address": "0x434496250078881cb2c48234f3575a1410744810",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 1
+        }
+    },
+    {
+        "contract_address": "0x73c7cade1c946181bdcf04d3c73f0ef0f118b740",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 0
+        }
+    },
+    {
+        "contract_address": "0x077bc655c8d81b7de71c79318d0eb8f987e12820",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 15443
+        }
+    },
+    {
+        "contract_address": "0xdb0e1d1872202a81eb0cb655137f4a937873e02f",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 96
+        }
+    },
+    {
+        "contract_address": "0xa485a0bc44988b95245d5f20497ccaff58a73e99",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.jonesdao.io",
+            "www.jonesdao.io",
+            "www.jonesdao.io",
+            "www.jonesdao.io",
+            "www.jonesdao.io",
+            "www.jonesdao.io"
+        ],
+        "holders": {
+            "Arbitrum": 5
+        }
     }
 ]
