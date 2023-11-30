@@ -6944,7 +6944,10 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 6
-        }
+        },
+        "web_domains": [
+            "hop.exchange"
+        ]
     },
     {
         "contract_address": "0xb76e673ebc922b1e8f10303d0d513a9e710f5c4c",
