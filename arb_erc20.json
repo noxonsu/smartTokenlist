@@ -7001,7 +7001,11 @@
         },
         "web_domains": [
             "pulsechain.com"
-        ]
+        ],
+        "telegram_groups": [
+            "PulseChainCom"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x343cb09877e600612abffff6079bb185e072b287",
