@@ -6998,7 +6998,10 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 1
-        }
+        },
+        "web_domains": [
+            "pulsechain.com"
+        ]
     },
     {
         "contract_address": "0x343cb09877e600612abffff6079bb185e072b287",
