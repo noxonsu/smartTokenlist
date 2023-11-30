@@ -6938,5 +6938,33 @@
         "holders": {
             "Arbitrum": 0
         }
+    },
+    {
+        "contract_address": "0x163a9e12787dbfa2836caa549ae02ed67f73e7c2",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 6
+        }
+    },
+    {
+        "contract_address": "0xb76e673ebc922b1e8f10303d0d513a9e710f5c4c",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 4
+        }
+    },
+    {
+        "contract_address": "0x562365a4f0eebe87f05a3c8e7b3176ddae0b309b",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 2258
+        }
+    },
+    {
+        "contract_address": "0xcf17664006851a27d5bd93d497f30853ac558792",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 15195
+        }
     }
 ]
