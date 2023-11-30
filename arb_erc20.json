@@ -7035,21 +7035,30 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 9
-        }
+        },
+        "web_domains": [
+            "xpet.tech"
+        ]
     },
     {
         "contract_address": "0x29262ce4d039350913c98cdb45a5acf723bd3595",
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 0
-        }
+        },
+        "web_domains": [
+            "revolutionpopuli.com"
+        ]
     },
     {
         "contract_address": "0xeca14f81085e5b8d1c9d32dcb596681574723561",
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 189
-        }
+        },
+        "web_domains": [
+            "spool.fi"
+        ]
     },
     {
         "contract_address": "0xf6d58e0cc337556b14ae0ec4170edde4577a1d44",
@@ -7070,7 +7079,10 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 32
-        }
+        },
+        "web_domains": [
+            "optimistic.etherscan.io"
+        ]
     },
     {
         "contract_address": "0xc0cf4b266be5b3229c49590b59e67a09c15b22f4",
