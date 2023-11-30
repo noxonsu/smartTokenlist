@@ -6864,5 +6864,75 @@
         "holders": {
             "Arbitrum": 249
         }
+    },
+    {
+        "contract_address": "0x068485a0f964b4c3d395059a19a05a8741c48b4e",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 619
+        }
+    },
+    {
+        "contract_address": "0xf80d589b3dbe130c270a69f1a69d050f268786df",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.apache.org"
+        ],
+        "holders": {
+            "Arbitrum": 142
+        }
+    },
+    {
+        "contract_address": "0x48e455852669adb747b3d16f2bd8b541d696b697",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "developers.aave.com",
+            "docs.uniswap.org"
+        ],
+        "holders": {
+            "Arbitrum": 177
+        }
+    },
+    {
+        "contract_address": "0x12004552afc2dcd01d6f7263df0e8eabdb452780",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 2
+        }
+    },
+    {
+        "contract_address": "0x39f487b9c770b8955f60ea0b9c8ac602a7a36350",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 2
+        }
+    },
+    {
+        "contract_address": "0x413db7ef5c27050155f52d94013b78f50224bf3d",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 2
+        }
+    },
+    {
+        "contract_address": "0xf421a1c9c4c8f38fa22f74e1a2d1d0594f3ba4af",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 3
+        }
+    },
+    {
+        "contract_address": "0xd6eaf23738c868dc9cf1b00c737e69df2737ff22",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 2
+        }
+    },
+    {
+        "contract_address": "0xfa481a061f354b5295f3f643e9107769025255b7",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 0
+        }
     }
 ]
