@@ -6947,7 +6947,9 @@
         },
         "web_domains": [
             "hop.exchange"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb76e673ebc922b1e8f10303d0d513a9e710f5c4c",
