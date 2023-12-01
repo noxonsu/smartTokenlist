@@ -7393,7 +7393,10 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 30
-        }
+        },
+        "web_domains": [
+            "ethwater.com"
+        ]
     },
     {
         "contract_address": "0xee32ed3ac2a431a0f0e1dbba46ba27ae8d072902",
@@ -7414,6 +7417,9 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 0
-        }
+        },
+        "web_domains": [
+            "oddeven.wtf"
+        ]
     }
 ]
