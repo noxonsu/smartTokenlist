@@ -7339,7 +7339,11 @@
         },
         "web_domains": [
             "www.secondcitystudio.xyz"
-        ]
+        ],
+        "telegram_groups": [
+            "SecondCityStudio"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0ea09babb09407d0948facf5897fd174639c8c76",
@@ -7356,7 +7360,9 @@
         },
         "web_domains": [
             "thedividendtracker.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf76d53de08c53b891e291d870e543bf8a0f6d314",
