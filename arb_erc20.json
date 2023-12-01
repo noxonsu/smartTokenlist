@@ -7277,5 +7277,58 @@
         "p6": true,
         "myuser": 6761555344,
         "tgGroupJoined": "error: Chat is too large1559"
+    },
+    {
+        "contract_address": "0x6bb7a17acc227fd1f6781d1eedeae01b42047ee0",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 741
+        }
+    },
+    {
+        "contract_address": "0xccd3891c1452b7cb0e4632774b9365dc4ee24f20",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 1705
+        }
+    },
+    {
+        "contract_address": "0x27b58d226fe8f792730a795764945cf146815aa7",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 64
+        }
+    },
+    {
+        "contract_address": "0x9a3fba8a0870fb9765023681daa5390c7919c916",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 37
+        }
+    },
+    {
+        "contract_address": "0x8fe3842e0b7472a57f2a2d56cf6bce08517a1de0",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 123
+        }
+    },
+    {
+        "contract_address": "0x538137e239d776dfff11699fce1bf69612cc417f",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@silo.finance",
+            "security@silo.finance"
+        ],
+        "holders": {
+            "Arbitrum": 60
+        }
+    },
+    {
+        "contract_address": "0x77d4c54faa955044b62c996cb6063e7cc56db674",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 1119
+        }
     }
 ]
