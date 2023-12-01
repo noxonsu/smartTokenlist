@@ -7270,6 +7270,10 @@
         },
         "web_domains": [
             "tokenview.io"
-        ]
+        ],
+        "telegram_groups": [
+            "tokenview"
+        ],
+        "p6": true
     }
 ]
