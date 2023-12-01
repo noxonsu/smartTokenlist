@@ -7336,7 +7336,10 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 94
-        }
+        },
+        "web_domains": [
+            "www.secondcitystudio.xyz"
+        ]
     },
     {
         "contract_address": "0x0ea09babb09407d0948facf5897fd174639c8c76",
@@ -7350,7 +7353,10 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 0
-        }
+        },
+        "web_domains": [
+            "thedividendtracker.com"
+        ]
     },
     {
         "contract_address": "0xf76d53de08c53b891e291d870e543bf8a0f6d314",
