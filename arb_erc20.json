@@ -7396,7 +7396,9 @@
         },
         "web_domains": [
             "ethwater.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xee32ed3ac2a431a0f0e1dbba46ba27ae8d072902",
@@ -7420,6 +7422,8 @@
         },
         "web_domains": [
             "oddeven.wtf"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
