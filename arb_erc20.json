@@ -7624,9 +7624,6 @@
             "xenify.io"
         ],
         "telegram_groups": [
-            "xenify_io",
-            "xenify_io",
-            "xenify_io",
             "xenify_io"
         ],
         "emails": [
@@ -7645,7 +7642,8 @@
         ],
         "holders": {
             "Arbitrum": 0
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf8db42107f69d5e11483872ab65394414168eda3",
