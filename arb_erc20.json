@@ -7514,5 +7514,46 @@
         "holders": {
             "Arbitrum": 267468
         }
+    },
+    {
+        "contract_address": "0x894a3abb764a0ef5da69c62336ac3c15b88bf106",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 3684
+        }
+    },
+    {
+        "contract_address": "0x30dcba0405004cf124045793e1933c798af9e66a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "yieldification.com",
+            "api.yieldification.com",
+            "api.yieldification.com",
+            "yieldification.com",
+            "yieldification.com",
+            "yieldification.com",
+            "yieldification.com",
+            "yieldification.com",
+            "ipfs.io",
+            "docs.opensea.io"
+        ],
+        "telegram_groups": [
+            "yieldification",
+            "yieldification",
+            "yieldification",
+            "yieldification",
+            "yieldification",
+            "yieldification"
+        ],
+        "holders": {
+            "Arbitrum": 938
+        }
+    },
+    {
+        "contract_address": "0x74912f00bda1c2030cf33e7194803259426e64a4",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 430
+        }
     }
 ]
