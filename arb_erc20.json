@@ -7538,16 +7538,12 @@
             "docs.opensea.io"
         ],
         "telegram_groups": [
-            "yieldification",
-            "yieldification",
-            "yieldification",
-            "yieldification",
-            "yieldification",
             "yieldification"
         ],
         "holders": {
             "Arbitrum": 938
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x74912f00bda1c2030cf33e7194803259426e64a4",
