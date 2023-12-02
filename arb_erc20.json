@@ -7553,5 +7553,43 @@
         "holders": {
             "Arbitrum": 430
         }
+    },
+    {
+        "contract_address": "0x4645e6476d3a5595be9efd39426cc10586a8393d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "resources.curve.fi"
+        ],
+        "holders": {
+            "Arbitrum": 10
+        }
+    },
+    {
+        "contract_address": "0xb34a7d1444a707349bc7b981b7f2e1f20f81f013",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 5
+        }
+    },
+    {
+        "contract_address": "0x59385f56e74489398f3f340d511445ab4557afe3",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 205
+        }
+    },
+    {
+        "contract_address": "0x456a5d70f5e1f23ec5b074144477817447551439",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 0
+        }
+    },
+    {
+        "contract_address": "0xf8ec0f87036565d6b2b19780a54996c3b03e91ea",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 4432
+        }
     }
 ]
