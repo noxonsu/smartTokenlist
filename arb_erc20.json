@@ -2969,7 +2969,11 @@
         ],
         "holders": {
             "Arbitrum": 5867
-        }
+        },
+        "telegram_groups": [
+            "curvefi"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7afdd87fba836c7862ad7b90bcf50440bf878a3c",
@@ -4684,7 +4688,11 @@
         ],
         "holders": {
             "Arbitrum": 11697
-        }
+        },
+        "telegram_groups": [
+            "curvefi"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3ae5285e7fc52d7a09457784eece8ecb40d461b7",
@@ -7562,7 +7570,11 @@
         ],
         "holders": {
             "Arbitrum": 10
-        }
+        },
+        "telegram_groups": [
+            "curvefi"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb34a7d1444a707349bc7b981b7f2e1f20f81f013",
