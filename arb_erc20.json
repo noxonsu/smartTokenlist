@@ -7499,7 +7499,11 @@
         },
         "web_domains": [
             "locus.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "locusfinancedao"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa684cd057951541187f288294a1e1c2646aa2d24",
