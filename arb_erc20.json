@@ -7709,6 +7709,9 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 0
-        }
+        },
+        "web_domains": [
+            "orbs.com"
+        ]
     }
 ]
