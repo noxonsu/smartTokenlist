@@ -7483,5 +7483,26 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xc53a53552191bee184557a15f114a87a757e5b6f",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 68
+        }
+    },
+    {
+        "contract_address": "0x0f094f6deb056af1fa1299168188fd8c78542a07",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 19
+        }
+    },
+    {
+        "contract_address": "0xa684cd057951541187f288294a1e1c2646aa2d24",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 267468
+        }
     }
 ]
