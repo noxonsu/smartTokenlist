@@ -7609,5 +7609,84 @@
         "holders": {
             "Arbitrum": 4432
         }
+    },
+    {
+        "contract_address": "0xf5db7c04bcec3bea25bd4fdc501cff0864f726e7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "xenify.io",
+            "xenify.io",
+            "book.wormhole.com",
+            "book.wormhole.com",
+            "book.wormhole.com",
+            "book.wormhole.com",
+            "xenify.io",
+            "xenify.io"
+        ],
+        "telegram_groups": [
+            "xenify_io",
+            "xenify_io",
+            "xenify_io",
+            "xenify_io"
+        ],
+        "emails": [
+            "simran@xenify.io",
+            "hardev@xenify.io",
+            "dayana@xenify.io",
+            "simran@xenify.io",
+            "hardev@xenify.io",
+            "dayana@xenify.io",
+            "simran@xenify.io",
+            "hardev@xenify.io",
+            "dayana@xenify.io",
+            "simran@xenify.io",
+            "hardev@xenify.io",
+            "dayana@xenify.io"
+        ],
+        "holders": {
+            "Arbitrum": 0
+        }
+    },
+    {
+        "contract_address": "0xf8db42107f69d5e11483872ab65394414168eda3",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 0
+        }
+    },
+    {
+        "contract_address": "0xcb9295ac65de60373a25c18d2044d517ed5da8a9",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 1
+        }
+    },
+    {
+        "contract_address": "0x373217e8daee6744d4470e2b8955f4f86e70ecf3",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 58
+        }
+    },
+    {
+        "contract_address": "0x53541ddc41da98f330721d7f9f7dc12d015553df",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 4
+        }
+    },
+    {
+        "contract_address": "0x55589fb8487786b13f0fe6a5a93d9b02ec527a21",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 0
+        }
+    },
+    {
+        "contract_address": "0xb4bbfe92702730ef7f1d28e4b9e42381182f48a5",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 30543
+        }
     }
 ]
