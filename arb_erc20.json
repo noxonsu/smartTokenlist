@@ -7496,7 +7496,10 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 19
-        }
+        },
+        "web_domains": [
+            "locus.finance"
+        ]
     },
     {
         "contract_address": "0xa684cd057951541187f288294a1e1c2646aa2d24",
