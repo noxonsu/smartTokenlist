@@ -8052,7 +8052,11 @@
         ],
         "holders": {
             "Arbitrum": 53
-        }
+        },
+        "telegram_groups": [
+            "curvefi"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x60f7116d7c451ac5a5159f60fc5fc36336b742c4",
