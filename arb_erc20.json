@@ -8029,5 +8029,36 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x971e732b5c91a59aea8aa5b0c763e6d648362cf8",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 105
+        }
+    },
+    {
+        "contract_address": "0xf8b2a4d2ff7ff072d5cef267159b465480faf3f1",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 4
+        }
+    },
+    {
+        "contract_address": "0x95285ea6ff14f80a2fd3989a6bab993bd6b5fa13",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "resources.curve.fi"
+        ],
+        "holders": {
+            "Arbitrum": 53
+        }
+    },
+    {
+        "contract_address": "0x60f7116d7c451ac5a5159f60fc5fc36336b742c4",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 4
+        }
     }
 ]
