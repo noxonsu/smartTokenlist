@@ -7752,10 +7752,6 @@
             "xenify.io"
         ],
         "telegram_groups": [
-            "xenify_io",
-            "xenify_io",
-            "xenify_io",
-            "xenify_io",
             "xenify_io"
         ],
         "emails": [
@@ -7777,7 +7773,8 @@
         ],
         "holders": {
             "Arbitrum": 0
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1bebd15adbc64f2f1eea7c3604d7a4b13a28c89c",
