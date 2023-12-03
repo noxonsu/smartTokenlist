@@ -7719,5 +7719,91 @@
         "p6": true,
         "myuser": 6761555344,
         "tgGroupJoined": "error: Chat is too large9044"
+    },
+    {
+        "contract_address": "0x9bc62257ffe7d0f7c52a019e6fc0af3102f8f44e",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 77
+        }
+    },
+    {
+        "contract_address": "0x641ab2b93b957ca5acec991c1a9e253ccea707ef",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 80
+        }
+    },
+    {
+        "contract_address": "0x3344a88855e8242ded86af2f874c8928f6ad7bba",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 34
+        }
+    },
+    {
+        "contract_address": "0xc84fae1141b92fa5bf847276828f69caf651cb7f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "xenify.io",
+            "xenify.io",
+            "xenify.io",
+            "xenify.io",
+            "xenify.io"
+        ],
+        "telegram_groups": [
+            "xenify_io",
+            "xenify_io",
+            "xenify_io",
+            "xenify_io",
+            "xenify_io"
+        ],
+        "emails": [
+            "simran@xenify.io",
+            "hardev@xenify.io",
+            "dayana@xenify.io",
+            "simran@xenify.io",
+            "hardev@xenify.io",
+            "dayana@xenify.io",
+            "simran@xenify.io",
+            "hardev@xenify.io",
+            "dayana@xenify.io",
+            "simran@xenify.io",
+            "hardev@xenify.io",
+            "dayana@xenify.io",
+            "simran@xenify.io",
+            "hardev@xenify.io",
+            "dayana@xenify.io"
+        ],
+        "holders": {
+            "Arbitrum": 0
+        }
+    },
+    {
+        "contract_address": "0x1bebd15adbc64f2f1eea7c3604d7a4b13a28c89c",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 411
+        }
+    },
+    {
+        "contract_address": "0x4dad357726b41bb8932764340ee9108cc5ad33a0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nitroshiba.xyz"
+        ],
+        "telegram_groups": [
+            "NitroShibaPortal"
+        ],
+        "holders": {
+            "Arbitrum": 3218
+        }
+    },
+    {
+        "contract_address": "0xc04d58efdf361caf7e370f29ccd8e32685851a59",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 4
+        }
     }
 ]
