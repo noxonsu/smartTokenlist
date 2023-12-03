@@ -8010,5 +8010,19 @@
         "p6": true,
         "myuser": 6761555344,
         "tgGroupJoined": "error: Chat is too large15310"
+    },
+    {
+        "contract_address": "0x192977aa4a022dce1e6c68ac19129bbeefaba987",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 0
+        }
+    },
+    {
+        "contract_address": "0xdfb8be6f8c87f74295a87de951974362cedcfa30",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 123
+        }
     }
 ]
