@@ -7805,5 +7805,43 @@
         "holders": {
             "Arbitrum": 4
         }
+    },
+    {
+        "contract_address": "0x9c779b0cbb42531027e2ec995e97c787125013d0",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 2
+        }
+    },
+    {
+        "contract_address": "0xa17492d89cb2d0be1ddbd0008f8585edc5b0acf3",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 44
+        }
+    },
+    {
+        "contract_address": "0xfe65e0dc61615fb1b3665896f3d9cf46b4fa8923",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 30
+        }
+    },
+    {
+        "contract_address": "0x60955a190dec0db9a45abe553ad2994126efdfcc",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 13
+        }
+    },
+    {
+        "contract_address": "0xc79d8a2aa6d769138e599d4dbc30569c9870a6ee",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blog.alphaventuredao.io"
+        ],
+        "holders": {
+            "Arbitrum": 58
+        }
     }
 ]
