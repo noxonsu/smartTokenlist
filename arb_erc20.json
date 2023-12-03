@@ -7850,5 +7850,19 @@
         "p6": true,
         "myuser": 6761555344,
         "tgGroupJoined": "error: Username not occupied"
+    },
+    {
+        "contract_address": "0xeac77d6611d89dc4e3c7e69611db7080968f2b9d",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 9
+        }
+    },
+    {
+        "contract_address": "0x1e9b8542617757c71b045444b19104ad75560ec1",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 113
+        }
     }
 ]
