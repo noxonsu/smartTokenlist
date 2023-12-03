@@ -7888,11 +7888,6 @@
             "xenify.io"
         ],
         "telegram_groups": [
-            "xenify_io",
-            "xenify_io",
-            "xenify_io",
-            "xenify_io",
-            "xenify_io",
             "xenify_io"
         ],
         "emails": [
@@ -7917,7 +7912,8 @@
         ],
         "holders": {
             "Arbitrum": 0
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x403d8348624690eb0ec86716cd6624169a41f0b9",
@@ -7934,7 +7930,11 @@
         },
         "web_domains": [
             "abastoken.org"
-        ]
+        ],
+        "telegram_groups": [
+            "ABASToken"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x16cba9a6a9bb38e339d4250da0afd919c6bdbdfe",
@@ -7951,7 +7951,11 @@
         },
         "web_domains": [
             "monopoly.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "monopolyfinancechat_duo"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x34772c4d12f288368aa35ae7bc527a6b2b3e8906",
@@ -7961,7 +7965,12 @@
         },
         "web_domains": [
             "docs.monopoly.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "MonopolyFinanceANN",
+            "monopolyfinancechat_duo"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x97d81162b96d57476ccf170595a39c1dc76676c9",
@@ -7985,6 +7994,10 @@
         },
         "web_domains": [
             "runblox.io"
-        ]
+        ],
+        "telegram_groups": [
+            "openblox_eng"
+        ],
+        "p6": true
     }
 ]
