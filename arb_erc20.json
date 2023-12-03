@@ -7864,5 +7864,115 @@
         "holders": {
             "Arbitrum": 113
         }
+    },
+    {
+        "contract_address": "0xf9dfedb4f4d02c66ec0cb1047e821f48b8abff90",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 0
+        }
+    },
+    {
+        "contract_address": "0x37bb209b118a22f233dea252a5d7f56455765b4d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "xenify.io",
+            "xenify.io",
+            "xenify.io",
+            "xenify.io",
+            "xenify.io",
+            "book.wormhole.com",
+            "book.wormhole.com",
+            "book.wormhole.com",
+            "book.wormhole.com",
+            "xenify.io"
+        ],
+        "telegram_groups": [
+            "xenify_io",
+            "xenify_io",
+            "xenify_io",
+            "xenify_io",
+            "xenify_io",
+            "xenify_io"
+        ],
+        "emails": [
+            "simran@xenify.io",
+            "hardev@xenify.io",
+            "dayana@xenify.io",
+            "simran@xenify.io",
+            "hardev@xenify.io",
+            "dayana@xenify.io",
+            "simran@xenify.io",
+            "hardev@xenify.io",
+            "dayana@xenify.io",
+            "simran@xenify.io",
+            "hardev@xenify.io",
+            "dayana@xenify.io",
+            "simran@xenify.io",
+            "hardev@xenify.io",
+            "dayana@xenify.io",
+            "simran@xenify.io",
+            "hardev@xenify.io",
+            "dayana@xenify.io"
+        ],
+        "holders": {
+            "Arbitrum": 0
+        }
+    },
+    {
+        "contract_address": "0x403d8348624690eb0ec86716cd6624169a41f0b9",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 0
+        }
+    },
+    {
+        "contract_address": "0x0b549125fbea37e52ee05fa388a3a0a7df792fa7",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 44
+        }
+    },
+    {
+        "contract_address": "0x16cba9a6a9bb38e339d4250da0afd919c6bdbdfe",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 2
+        }
+    },
+    {
+        "contract_address": "0xf30489adb76745bfb201023403b5e1bccb216354",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 101
+        }
+    },
+    {
+        "contract_address": "0x34772c4d12f288368aa35ae7bc527a6b2b3e8906",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 217
+        }
+    },
+    {
+        "contract_address": "0x97d81162b96d57476ccf170595a39c1dc76676c9",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 2
+        }
+    },
+    {
+        "contract_address": "0x1f06df59a5b5b6bfa6e167ebd2bcb8b370c8c075",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 491
+        }
+    },
+    {
+        "contract_address": "0xc701f86e6d242b97d3035f6c2cecaf8e7087e898",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 218
+        }
     }
 ]
