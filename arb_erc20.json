@@ -7931,7 +7931,10 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 44
-        }
+        },
+        "web_domains": [
+            "abastoken.org"
+        ]
     },
     {
         "contract_address": "0x16cba9a6a9bb38e339d4250da0afd919c6bdbdfe",
@@ -7945,14 +7948,20 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 101
-        }
+        },
+        "web_domains": [
+            "monopoly.finance"
+        ]
     },
     {
         "contract_address": "0x34772c4d12f288368aa35ae7bc527a6b2b3e8906",
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 217
-        }
+        },
+        "web_domains": [
+            "docs.monopoly.finance"
+        ]
     },
     {
         "contract_address": "0x97d81162b96d57476ccf170595a39c1dc76676c9",
@@ -7973,6 +7982,9 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 218
-        }
+        },
+        "web_domains": [
+            "runblox.io"
+        ]
     }
 ]
