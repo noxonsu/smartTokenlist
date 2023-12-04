@@ -8191,7 +8191,10 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 233
-        }
+        },
+        "web_domains": [
+            "vpls.io"
+        ]
     },
     {
         "contract_address": "0x4284a92471832d08bf82ab93dcd2d604bcfaa5ca",
