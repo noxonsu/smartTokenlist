@@ -7358,7 +7358,8 @@
         "p6": true,
         "myuser": 6761555344,
         "tgGroupJoined": "success",
-        "p8": true
+        "p8": true,
+        "tgProposalSent": "error: Telegram says: Telegram says: [403 CHAT_WRITE_FORBIDDEN] - You don't have rights to send messages in this chat (caused by \"messages.SendMessage\")"
     },
     {
         "contract_address": "0x0ea09babb09407d0948facf5897fd174639c8c76",
@@ -7518,7 +7519,8 @@
         "p6": true,
         "myuser": 6761555344,
         "tgGroupJoined": "success",
-        "p8": true
+        "p8": true,
+        "tgProposalSent": "4170"
     },
     {
         "contract_address": "0xa684cd057951541187f288294a1e1c2646aa2d24",
@@ -7646,7 +7648,8 @@
         "p6": true,
         "myuser": 6761555344,
         "tgGroupJoined": "success",
-        "p8": true
+        "p8": true,
+        "tgProposalSent": "8977"
     },
     {
         "contract_address": "0xf8db42107f69d5e11483872ab65394414168eda3",
@@ -7777,7 +7780,8 @@
         "p6": true,
         "myuser": 6761555344,
         "tgGroupJoined": "success",
-        "p8": true
+        "p8": true,
+        "tgProposalSent": "error: Proposal already sent to xenify_io, skipping..."
     },
     {
         "contract_address": "0x1bebd15adbc64f2f1eea7c3604d7a4b13a28c89c",
@@ -7916,7 +7920,8 @@
         "p6": true,
         "myuser": 6761555344,
         "tgGroupJoined": "success",
-        "p8": true
+        "p8": true,
+        "tgProposalSent": "error: Proposal already sent to xenify_io, skipping..."
     },
     {
         "contract_address": "0x403d8348624690eb0ec86716cd6624169a41f0b9",
