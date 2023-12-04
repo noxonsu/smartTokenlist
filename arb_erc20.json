@@ -8071,5 +8071,19 @@
         "holders": {
             "Arbitrum": 4
         }
+    },
+    {
+        "contract_address": "0x15b6ec24f59fea164c6e235941aa00fb0d4a32f6",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 0
+        }
+    },
+    {
+        "contract_address": "0x6ee1621aa1b3eb17826253933b2819327c1690e7",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 4
+        }
     }
 ]
