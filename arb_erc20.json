@@ -8177,7 +8177,9 @@
         ],
         "holders": {
             "Arbitrum": 438
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x17176a9868f321411b15ccb9b934cf95597e89c4",
@@ -8194,7 +8196,9 @@
         },
         "web_domains": [
             "vpls.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4284a92471832d08bf82ab93dcd2d604bcfaa5ca",
