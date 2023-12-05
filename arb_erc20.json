@@ -8270,14 +8270,20 @@
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 243
-        }
+        },
+        "web_domains": [
+            "abc.bi"
+        ]
     },
     {
         "contract_address": "0xb45a382e6c50c71376fc54f902eb6c4c57436b68",
         "sourceScanned": "processed",
         "holders": {
             "Arbitrum": 5
-        }
+        },
+        "web_domains": [
+            "sushiswap.fi"
+        ]
     },
     {
         "contract_address": "0xfb6de7d8ca3ec3396bb1cc53addef1f26468055b",
