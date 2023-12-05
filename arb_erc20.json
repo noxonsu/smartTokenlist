@@ -8306,5 +8306,58 @@
         "holders": {
             "Arbitrum": 386
         }
+    },
+    {
+        "contract_address": "0xfb930d1a28990820c98144201637c99bea8cb91c",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 3
+        }
+    },
+    {
+        "contract_address": "0x542f16da0efb162d20bf4358efa095b70a100f9e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi"
+        ],
+        "holders": {
+            "Arbitrum": 13
+        }
+    },
+    {
+        "contract_address": "0xfcc94454061b7fdf0b03b0d2107ecd9c6c74ddfd",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 19
+        }
+    },
+    {
+        "contract_address": "0xb438c6cc53315ffa3fcd1bc8b27d6c3155b0b56a",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 20
+        }
+    },
+    {
+        "contract_address": "0xf80cf4aa1228c6cfa863c2ffe303cc9e05322b1f",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 1
+        }
+    },
+    {
+        "contract_address": "0xbdf4e730ed5152a7ac646bb7b514ed624e1147c4",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 72
+        }
     }
 ]
