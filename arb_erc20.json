@@ -8330,7 +8330,9 @@
         ],
         "holders": {
             "Arbitrum": 13
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xfcc94454061b7fdf0b03b0d2107ecd9c6c74ddfd",
