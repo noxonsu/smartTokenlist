@@ -8361,5 +8361,22 @@
         "holders": {
             "Arbitrum": 72
         }
+    },
+    {
+        "contract_address": "0xc7abb2c5f3bf3ceb389df0eecd6120d451170b50",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blog.soliditylang.org"
+        ],
+        "holders": {
+            "Arbitrum": 141
+        }
+    },
+    {
+        "contract_address": "0xc51eaed242ee3e002c3a268d9799bd6b80e00da7",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 30
+        }
     }
 ]
