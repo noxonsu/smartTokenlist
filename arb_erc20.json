@@ -8387,5 +8387,19 @@
         "holders": {
             "Arbitrum": 2391
         }
+    },
+    {
+        "contract_address": "0x33ecc05a09a84af2153c208ee7e61a31c6b1adf1",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 3
+        }
+    },
+    {
+        "contract_address": "0x3b4f2f525e76772cf8e78a7ffc1c0409f55446d7",
+        "sourceScanned": "processed",
+        "holders": {
+            "Arbitrum": 0
+        }
     }
 ]
