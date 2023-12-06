@@ -2226,7 +2226,8 @@
         ],
         "holders": {
             "ETH": 270
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x251ac0397f3ab8f3b1894e34ab7b9288309eb341",
@@ -2255,7 +2256,8 @@
         ],
         "holders": {
             "ETH": 324
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb14ebf566511b9e6002bb286016ab2497b9b9c9d",
@@ -2542,7 +2544,9 @@
         ],
         "holders": {
             "ETH": 284
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf411903cbc70a74d22900a5de66a2dda66507255",
@@ -2632,13 +2636,19 @@
             "contractdevai.com"
         ],
         "telegram_groups": [
+            "SkromniDevAi",
+            "Jake_prince",
+            "ContractDevAI",
             "contractdevai",
+            "snow_investergram",
             "contractdevai_bot",
-            "ContractDevAI"
+            "ContractDEVAI_bot",
+            "onlymoonwithadam"
         ],
         "holders": {
             "ETH": 581
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x276e84edc5bd94731b65c207dc1512fc5391572f",
@@ -2652,7 +2662,8 @@
         ],
         "holders": {
             "ETH": 201
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1bbf25e71ec48b84d773809b4ba55b6f4be946fb",
@@ -2682,7 +2693,8 @@
         ],
         "holders": {
             "ETH": 120
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3a4f40631a4f906c2bad353ed06de7a5d3fcb430",
