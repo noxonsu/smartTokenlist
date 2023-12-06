@@ -24,9 +24,9 @@ def execute_query(query_id):
     params = {"api_key": API_KEY}
     response = post(url, params=params)
     if response.status_code == 200:
-        print("Query execution triggered.")
+        print("dune Query execution triggered.")
     else:
-        print(f"Error in query execution: {response.json().get('error')}")
+        print(f"dune Error in query execution: {response.json().get('error')}")
 
 def get_query_results(query_id):
     url = f"{BASE_URL}query/{query_id}/results"

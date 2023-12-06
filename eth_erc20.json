@@ -1,0 +1,48 @@
+[
+    {
+        "contract_address": "0xdc0327d50e6c73db2f8117760592c8bbf1cdcf38",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 31084
+        }
+    },
+    {
+        "contract_address": "0x251f48fdf1a4736de096d2e77e724b34c8dc8773",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.dex-ai.ai",
+            "dex-ai.app",
+            "dex-ai.gitbook.io"
+        ],
+        "telegram_groups": [
+            "dexaierc"
+        ],
+        "holders": {
+            "ETH": 696
+        }
+    },
+    {
+        "contract_address": "0xd91bf741430439e17da5ddb7848512688b9c5559",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "OrdiTracker"
+        ],
+        "holders": {
+            "ETH": 382
+        }
+    },
+    {
+        "contract_address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 702633
+        }
+    },
+    {
+        "contract_address": "0xddf7fd345d54ff4b40079579d4c4670415dbfd0a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 21455
+        }
+    }
+]
