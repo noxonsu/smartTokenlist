@@ -338,7 +338,8 @@
         ],
         "holders": {
             "ETH": 199
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa0ef786bf476fe0810408caba05e536ac800ff86",
@@ -379,7 +380,8 @@
         ],
         "holders": {
             "ETH": 104
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x320623b8e4ff03373931769a31fc52a4e78b5d70",
@@ -459,7 +461,9 @@
         ],
         "holders": {
             "ETH": 98
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6a6bfdd2174ade27258fe96b9afae3758dec14f2",
@@ -498,7 +502,8 @@
         ],
         "holders": {
             "ETH": 189
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x661ecf29b533e7d09f67f597af77eeaf3cc6b1e7",
@@ -508,11 +513,13 @@
             "docs.0xnude.io"
         ],
         "telegram_groups": [
+            "Nude_0x",
             "nude_0x"
         ],
         "holders": {
             "ETH": 944
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
@@ -612,7 +619,9 @@
         },
         "web_domains": [
             "gemini.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xed04915c23f00a313a544955524eb7dbd823143d",
