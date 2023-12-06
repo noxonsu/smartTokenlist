@@ -3558,7 +3558,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 5
-        }
+        },
+        "web_domains": [
+            "bitcoinminetrix.com"
+        ]
     },
     {
         "contract_address": "0x77fba179c79de5b7653f68b5039af940ada60ce0",
@@ -3640,14 +3643,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 28
-        }
+        },
+        "web_domains": [
+            "vesync.finance"
+        ]
     },
     {
         "contract_address": "0xa41d2f8ee4f47d3b860a149765a7df8c3287b7f0",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 293
-        }
+        },
+        "web_domains": [
+            "syncus.fi"
+        ]
     },
     {
         "contract_address": "0x25f8087ead173b73d6e8b84329989a8eea16cf73",
@@ -3757,7 +3766,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 276
-        }
+        },
+        "web_domains": [
+            "kanga.exchange"
+        ]
     },
     {
         "contract_address": "0xac1419ee74f203c6b9daa3635ad7169b7ebb5c1a",
