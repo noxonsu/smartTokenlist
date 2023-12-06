@@ -24,7 +24,7 @@ def filter_sites_without_summary(data):
         not entry.get('p6') and 
         entry.get('web_domains') and
         entry.get('holders') and 
-        entry['holders'].get(NETWORK, float('inf')) < 1000  # This line ensures the 'bsc' count is less than 1000
+        entry['holders'].get(NETWORK, float('inf')) < 500  # This line ensures the 'holders' count is less than 
     ]
 
 def extract_content(site):
