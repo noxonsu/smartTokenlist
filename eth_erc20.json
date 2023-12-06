@@ -1752,7 +1752,11 @@
         ],
         "holders": {
             "ETH": 498
-        }
+        },
+        "telegram_groups": [
+            "flashmev"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb17548c7b510427baac4e267bea62e800b247173",
@@ -1901,7 +1905,11 @@
         ],
         "holders": {
             "ETH": 676
-        }
+        },
+        "telegram_groups": [
+            "reflect_finance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2e9d63788249371f1dfc918a52f8d799f4a38c94",
@@ -1928,7 +1936,8 @@
         ],
         "holders": {
             "ETH": 131
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0496dd810fd977098cccd32a80bec90a9e03f9bf",
@@ -2011,7 +2020,8 @@
         ],
         "holders": {
             "ETH": 46
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2e95cea14dd384429eb3c4331b776c4cfbb6fcd9",
@@ -2042,7 +2052,9 @@
         },
         "web_domains": [
             "circle.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x24d73bca2bd9c3a61e99dfc7cb86d3c379ebded7",
@@ -2134,7 +2146,11 @@
         },
         "web_domains": [
             "trava.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "trava_finance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6123b0049f904d730db3c36a31167d9d4121fa6b",
