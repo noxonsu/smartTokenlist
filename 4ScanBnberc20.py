@@ -5,7 +5,7 @@ import time
 from requests import get
 from utils import *
 BNBSCAN_API_KEY = os.environ.get("BNBSCAN_API_KEY")
-BNBSCAN_BASE_URL = os.environ.get("BNBSCAN_BASE_URL")
+ETHSCAN_BASE_URL = os.environ.get("ETHSCAN_BASE_URL")
 MAINFILE = os.environ.get("MAINFILE")
 CHAINBASE_API_URL= os.environ.get("CHAINBASE_API_URL")
 DUNE_QUERY= os.environ.get("DUNE_QUERY")
@@ -17,7 +17,7 @@ def get_contract_source(address):
         "address": address,
         "apikey": BNBSCAN_API_KEY
     }
-    response = get(BNBSCAN_BASE_URL, params=params)
+    response = get(ETHSCAN_BASE_URL, params=params)
     if response.status_code == 200:
         # Parse rate limit headers
         rate_limit = response.headers.get('X-RateLimit-Limit')
