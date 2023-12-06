@@ -57,7 +57,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 94
-        }
+        },
+        "web_domains": [
+            "geminiai-coin.com"
+        ]
     },
     {
         "contract_address": "0xd9adfb67381d392c6e9671f64cdd9014bfcd74f2",
@@ -594,7 +597,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 79
-        }
+        },
+        "web_domains": [
+            "gemini.com"
+        ]
     },
     {
         "contract_address": "0xed04915c23f00a313a544955524eb7dbd823143d",
@@ -1045,7 +1051,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 4
-        }
+        },
+        "web_domains": [
+            "looksrare.org"
+        ]
     },
     {
         "contract_address": "0x000000000077ee1fcfe351df1ff22736e995806b",
@@ -1280,7 +1289,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 0
-        }
+        },
+        "web_domains": [
+            "tether.to"
+        ]
     },
     {
         "contract_address": "0xb9098d3669a78e9afe8b94a97290407400d9da31",
@@ -1606,7 +1618,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 11
-        }
+        },
+        "web_domains": [
+            "curve.fi"
+        ]
     },
     {
         "contract_address": "0x046eee2cc3188071c02bfc1745a6b17c656e3f3d",
@@ -1955,7 +1970,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "circle.com"
+        ]
     },
     {
         "contract_address": "0x24d73bca2bd9c3a61e99dfc7cb86d3c379ebded7",
@@ -2044,7 +2062,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 81
-        }
+        },
+        "web_domains": [
+            "trava.finance"
+        ]
     },
     {
         "contract_address": "0x6123b0049f904d730db3c36a31167d9d4121fa6b",
