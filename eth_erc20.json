@@ -939,7 +939,9 @@
         ],
         "holders": {
             "ETH": 112
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x54dd1c7faeea59f05a3ab2bd3c116c4ccd2617c7",
@@ -966,7 +968,9 @@
         ],
         "holders": {
             "ETH": 106
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7ca5af5ba3472af6049f63c1abc324475d44efc1",
@@ -1084,7 +1088,9 @@
         },
         "web_domains": [
             "looksrare.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x000000000077ee1fcfe351df1ff22736e995806b",
@@ -1107,11 +1113,14 @@
             "washer.finance"
         ],
         "telegram_groups": [
-            "Washerportal"
+            "washersbot",
+            "Washerportal",
+            "washerportal"
         ],
         "holders": {
             "ETH": 664
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd3e4ba569045546d09cf021ecc5dfe42b1d7f6e4",
@@ -1173,7 +1182,8 @@
         ],
         "holders": {
             "ETH": 829
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc6d91b6e84d4d9f468a416a3d237dcb56fcdbb40",
@@ -1201,7 +1211,8 @@
         ],
         "holders": {
             "ETH": 57
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xaaaaaa20d9e0e2461697782ef11675f668207961",
