@@ -19,7 +19,8 @@
         ],
         "holders": {
             "ETH": 696
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd91bf741430439e17da5ddb7848512688b9c5559",
@@ -60,7 +61,11 @@
         },
         "web_domains": [
             "geminiai-coin.com"
-        ]
+        ],
+        "telegram_groups": [
+            "GeminiAI_ERC"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd9adfb67381d392c6e9671f64cdd9014bfcd74f2",
@@ -70,7 +75,9 @@
         ],
         "holders": {
             "ETH": 2130
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb954562066c71b3e6e7b2ac330b03c74c0dcd5ae",
@@ -114,7 +121,8 @@
         ],
         "holders": {
             "ETH": 252
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0ebe16fdda617619cb6b6755084914c3a17c70c1",
@@ -161,7 +169,8 @@
         ],
         "holders": {
             "ETH": 42
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f",
@@ -261,11 +270,13 @@
             "docs.ordinscription.vip"
         ],
         "telegram_groups": [
+            "oibportal",
             "OrdinalInscriptionBot"
         ],
         "holders": {
             "ETH": 806
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xbddc20ed7978b7d59ef190962f441cd18c14e19f",
@@ -285,7 +296,8 @@
         ],
         "holders": {
             "ETH": 571
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x30a4aa1d14d44f0f5bfe887447ab6facc94a549f",
