@@ -7,7 +7,7 @@ import random
 # API Key from Environment Variable
 
 #use random DUNE_API_KEY or DUNE_API_KEY2 
-rand = random.randint(1,2)
+rand = random.randint(1,1)
 if rand == 1:
     print("DUNE_API_KEY")
     API_KEY = os.environ.get("DUNE_API_KEY")
