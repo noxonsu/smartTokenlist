@@ -215,7 +215,9 @@
         ],
         "holders": {
             "ETH": 15638
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x614da3b37b6f66f7ce69b4bbbcf9a55ce6168707",
@@ -2733,7 +2735,9 @@
         ],
         "holders": {
             "ETH": 617
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xee1dc6bcf1ee967a350e9ac6caaaa236109002ea",
@@ -2778,7 +2782,9 @@
         ],
         "holders": {
             "ETH": 428
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x320ed4c7243e35a00f9ca30a1ae60929d15eae37",
@@ -2829,7 +2835,8 @@
         ],
         "holders": {
             "ETH": 19
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x02aa05c5c0b726267c4ffa2579e899653054e705",
@@ -2838,12 +2845,13 @@
             "brcinscribebot.xyz"
         ],
         "telegram_groups": [
-            "biberc20",
-            "biberc20_bot"
+            "biberc20_bot",
+            "biberc20"
         ],
         "holders": {
             "ETH": 130
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x765674b353d23bfba59067d1c5ed6c2dbf938d65",
@@ -2852,11 +2860,13 @@
             "blocksafe.live"
         ],
         "telegram_groups": [
-            "blocksafe"
+            "blocksafe",
+            "Blocksafe"
         ],
         "holders": {
             "ETH": 201
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x617ead3c59ded3ea1bb17881118cf310144b450f",
@@ -2912,7 +2922,8 @@
         ],
         "holders": {
             "ETH": 527
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9bd2177027edee300dc9f1fb88f24db6e5e1edc6",
