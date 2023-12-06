@@ -2953,7 +2953,9 @@
         ],
         "holders": {
             "ETH": 16
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x38b0e3a59183814957d83df2a97492aed1f003e2",
@@ -3018,7 +3020,8 @@
         ],
         "holders": {
             "ETH": 47
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7236a7ad67976ee07961ab26ed6f4cd23f7a9bd1",
@@ -3056,11 +3059,13 @@
             "graphxai.net"
         ],
         "telegram_groups": [
+            "graphxai",
             "graphxai_bot"
         ],
         "holders": {
             "ETH": 206
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe9ab7a6141dc50d5be59ceac06f5ac38a0f2fead",
@@ -3070,11 +3075,13 @@
             "docs.hybridchain.ai"
         ],
         "telegram_groups": [
-            "HybridChainPortal"
+            "HybridChainPortal",
+            "HybridChainAnnouncement"
         ],
         "holders": {
             "ETH": 377
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8788560e98a351bca9f21478c6364539e406959c",
@@ -3173,7 +3180,8 @@
         ],
         "holders": {
             "ETH": 2
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd26114cd6ee289accf82350c8d8487fedb8a0c07",
@@ -3227,7 +3235,8 @@
         ],
         "holders": {
             "ETH": 2
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2a98656cef8eb9e5cf9162c8be972195c5e6f647",
