@@ -3301,7 +3301,8 @@
         ],
         "holders": {
             "ETH": 257
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x201b5b64438843553e3c3671810ae671c93c685c",
@@ -3380,7 +3381,8 @@
         ],
         "holders": {
             "ETH": 179
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4754c5c773e8e59c9325b01d110306031f666136",
@@ -3421,7 +3423,11 @@
         ],
         "holders": {
             "ETH": 126
-        }
+        },
+        "telegram_groups": [
+            "OuroborosTokenS"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x667210a731447f8b385e068205759be2311b86d4",
@@ -3498,7 +3504,9 @@
         ],
         "holders": {
             "ETH": 58
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x989be34b64d01b4f1c8ba89c5e353ba019c11834",
@@ -3549,7 +3557,8 @@
         ],
         "holders": {
             "ETH": 274
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0a638f07acc6969abf392bb009f216d22adea36d",
@@ -3603,7 +3612,8 @@
         ],
         "holders": {
             "ETH": 99
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb11db272ebfabedf611a07684e82165db60dc70e",
