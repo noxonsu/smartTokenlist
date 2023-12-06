@@ -705,7 +705,8 @@
         ],
         "holders": {
             "ETH": 768
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x46b812c3716e2249138505aeadda5fa822bc8231",
@@ -718,7 +719,8 @@
         ],
         "holders": {
             "ETH": 70
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x54d1c019c53501f76361bb656542fec427bf13aa",
@@ -727,11 +729,14 @@
             "peertopeer.pro"
         ],
         "telegram_groups": [
+            "peertopeerETH",
+            "peer_to_peerbot",
             "peertopeereth"
         ],
         "holders": {
             "ETH": 914
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf25304e75026e6a35fedca3b0889ae5c4d3c55d8",
@@ -807,12 +812,13 @@
             "checkmate.tools"
         ],
         "telegram_groups": [
-            "official_checkmate_portal",
-            "CheckmateTools_Bot"
+            "CheckmateTools_Bot",
+            "official_checkmate_portal"
         ],
         "holders": {
             "ETH": 539
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb69753c06bb5c366be51e73bfc0cc2e3dc07e371",
@@ -879,11 +885,13 @@
             "docs.arcade.money"
         ],
         "telegram_groups": [
+            "arcadeportal",
             "ArcadePortal"
         ],
         "holders": {
             "ETH": 214
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x38e382f74dfb84608f3c1f10187f6bef5951de93",
@@ -903,7 +911,8 @@
         ],
         "holders": {
             "ETH": 364
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4919bebf6d4b8825c2df8abf5a6be850b9255456",
