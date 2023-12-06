@@ -1259,7 +1259,8 @@
         ],
         "holders": {
             "ETH": 706
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1ce270557c1f68cfb577b856766310bf8b47fd9c",
@@ -1353,7 +1354,9 @@
         },
         "web_domains": [
             "tether.to"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb9098d3669a78e9afe8b94a97290407400d9da31",
@@ -1387,7 +1390,8 @@
         ],
         "holders": {
             "ETH": 600
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc55126051b22ebb829d00368f4b12bde432de5da",
@@ -1506,12 +1510,13 @@
             "BRCBOT.io"
         ],
         "telegram_groups": [
-            "BRCBOTPortal",
-            "BRC20_BTC_Bot"
+            "BRC20_BTC_Bot",
+            "BRCBOTPortal"
         ],
         "holders": {
             "ETH": 430
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x748ec9c3c5386053b5d2523df5125b539ccab778",
@@ -1531,7 +1536,8 @@
         ],
         "holders": {
             "ETH": 163
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1aa5d9291d8eaa3962c00afd7337455e4785acd0",
@@ -1682,7 +1688,9 @@
         },
         "web_domains": [
             "curve.fi"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x046eee2cc3188071c02bfc1745a6b17c656e3f3d",
