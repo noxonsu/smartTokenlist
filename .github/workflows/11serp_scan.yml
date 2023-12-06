@@ -42,12 +42,12 @@ jobs:
         CHAINBASE_API: ${{ secrets.CHAINBASE_API }}
         WEB3_RPC: ${{ secrets.WEB3_RPC }}
         SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
-        NETWORK: ${{ env.NETWORK }}
-        MAINFILE: ${{ env.MAINFILE }}
+        NETWORK: ${{ vars.NETWORK }}
+        MAINFILE: ${{ vars.MAINFILE }}
         DUNE_QUERY: ${{ secrets.DUNE_QUERY }}
         DUNE_API_KEY: ${{ secrets.DUNE_API_KEY }}
-        CHAINBASE_API_URL: ${{ env.CHAINBASE_API_URL }}
-        ETHSCAN_BASE_URL: ${{ env.ETHSCAN_BASE_URL }}
+        CHAINBASE_API_URL: ${{ vars.CHAINBASE_API_URL }}
+        ETHSCAN_BASE_URL: ${{ vars.ETHSCAN_BASE_URL }}
       run: python 11findSitesFromSerp.py
 
     - name: Commit and push changes
@@ -67,12 +67,12 @@ jobs:
         CHAINBASE_API: ${{ secrets.CHAINBASE_API }}
         WEB3_RPC: ${{ secrets.WEB3_RPC }}
         SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
-        NETWORK: ${{ env.NETWORK }}
-        MAINFILE: ${{ env.MAINFILE }}
+        NETWORK: ${{ vars.NETWORK }}
+        MAINFILE: ${{ vars.MAINFILE }}
         DUNE_QUERY: ${{ secrets.DUNE_QUERY }}
         DUNE_API_KEY: ${{ secrets.DUNE_API_KEY }}
-        CHAINBASE_API_URL: ${{ env.CHAINBASE_API_URL }}
-        ETHSCAN_BASE_URL: ${{ env.ETHSCAN_BASE_URL }}
+        CHAINBASE_API_URL: ${{ vars.CHAINBASE_API_URL }}
+        ETHSCAN_BASE_URL: ${{ vars.ETHSCAN_BASE_URL }}
       run: python 11findSitesFromSerp.py
 
     - name: Commit and push changes
