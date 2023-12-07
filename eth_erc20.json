@@ -19,7 +19,10 @@
         ],
         "holders": {
             "ETH": 696
-        }
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xd91bf741430439e17da5ddb7848512688b9c5559",
@@ -57,7 +60,16 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 94
-        }
+        },
+        "web_domains": [
+            "geminiai-coin.com"
+        ],
+        "telegram_groups": [
+            "GeminiAI_ERC"
+        ],
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xd9adfb67381d392c6e9671f64cdd9014bfcd74f2",
@@ -67,7 +79,9 @@
         ],
         "holders": {
             "ETH": 2130
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb954562066c71b3e6e7b2ac330b03c74c0dcd5ae",
@@ -111,7 +125,10 @@
         ],
         "holders": {
             "ETH": 252
-        }
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x0ebe16fdda617619cb6b6755084914c3a17c70c1",
@@ -158,7 +175,10 @@
         ],
         "holders": {
             "ETH": 42
-        }
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f",
@@ -195,7 +215,9 @@
         ],
         "holders": {
             "ETH": 15638
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x614da3b37b6f66f7ce69b4bbbcf9a55ce6168707",
@@ -258,11 +280,15 @@
             "docs.ordinscription.vip"
         ],
         "telegram_groups": [
+            "oibportal",
             "OrdinalInscriptionBot"
         ],
         "holders": {
             "ETH": 806
-        }
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xbddc20ed7978b7d59ef190962f441cd18c14e19f",
@@ -282,7 +308,10 @@
         ],
         "holders": {
             "ETH": 571
-        }
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x30a4aa1d14d44f0f5bfe887447ab6facc94a549f",
@@ -323,7 +352,10 @@
         ],
         "holders": {
             "ETH": 199
-        }
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xa0ef786bf476fe0810408caba05e536ac800ff86",
@@ -364,7 +396,10 @@
         ],
         "holders": {
             "ETH": 104
-        }
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large1029"
     },
     {
         "contract_address": "0x320623b8e4ff03373931769a31fc52a4e78b5d70",
@@ -444,7 +479,9 @@
         ],
         "holders": {
             "ETH": 98
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6a6bfdd2174ade27258fe96b9afae3758dec14f2",
@@ -483,7 +520,10 @@
         ],
         "holders": {
             "ETH": 189
-        }
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x661ecf29b533e7d09f67f597af77eeaf3cc6b1e7",
@@ -493,11 +533,15 @@
             "docs.0xnude.io"
         ],
         "telegram_groups": [
+            "Nude_0x",
             "nude_0x"
         ],
         "holders": {
             "ETH": 944
-        }
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
@@ -594,7 +638,12 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 79
-        }
+        },
+        "web_domains": [
+            "gemini.com"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xed04915c23f00a313a544955524eb7dbd823143d",
@@ -678,7 +727,10 @@
         ],
         "holders": {
             "ETH": 768
-        }
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x46b812c3716e2249138505aeadda5fa822bc8231",
@@ -691,7 +743,10 @@
         ],
         "holders": {
             "ETH": 70
-        }
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x54d1c019c53501f76361bb656542fec427bf13aa",
@@ -700,11 +755,16 @@
             "peertopeer.pro"
         ],
         "telegram_groups": [
+            "peertopeerETH",
+            "peer_to_peerbot",
             "peertopeereth"
         ],
         "holders": {
             "ETH": 914
-        }
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xf25304e75026e6a35fedca3b0889ae5c4d3c55d8",
@@ -780,12 +840,15 @@
             "checkmate.tools"
         ],
         "telegram_groups": [
-            "official_checkmate_portal",
-            "CheckmateTools_Bot"
+            "CheckmateTools_Bot",
+            "official_checkmate_portal"
         ],
         "holders": {
             "ETH": 539
-        }
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: The chat_id \"CheckmateTools_Bot\" belongs to a user"
     },
     {
         "contract_address": "0xb69753c06bb5c366be51e73bfc0cc2e3dc07e371",
@@ -852,11 +915,15 @@
             "docs.arcade.money"
         ],
         "telegram_groups": [
+            "arcadeportal",
             "ArcadePortal"
         ],
         "holders": {
             "ETH": 214
-        }
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x38e382f74dfb84608f3c1f10187f6bef5951de93",
@@ -876,7 +943,10 @@
         ],
         "holders": {
             "ETH": 364
-        }
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x4919bebf6d4b8825c2df8abf5a6be850b9255456",
@@ -903,7 +973,9 @@
         ],
         "holders": {
             "ETH": 112
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x54dd1c7faeea59f05a3ab2bd3c116c4ccd2617c7",
@@ -930,7 +1002,9 @@
         ],
         "holders": {
             "ETH": 106
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7ca5af5ba3472af6049f63c1abc324475d44efc1",
@@ -1045,7 +1119,12 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 4
-        }
+        },
+        "web_domains": [
+            "looksrare.org"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x000000000077ee1fcfe351df1ff22736e995806b",
@@ -1068,11 +1147,16 @@
             "washer.finance"
         ],
         "telegram_groups": [
-            "Washerportal"
+            "washersbot",
+            "Washerportal",
+            "washerportal"
         ],
         "holders": {
             "ETH": 664
-        }
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: The chat_id \"washersbot\" belongs to a user"
     },
     {
         "contract_address": "0xd3e4ba569045546d09cf021ecc5dfe42b1d7f6e4",
@@ -1134,7 +1218,10 @@
         ],
         "holders": {
             "ETH": 829
-        }
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xc6d91b6e84d4d9f468a416a3d237dcb56fcdbb40",
@@ -1162,7 +1249,10 @@
         ],
         "holders": {
             "ETH": 57
-        }
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xaaaaaa20d9e0e2461697782ef11675f668207961",
@@ -1189,7 +1279,10 @@
         ],
         "holders": {
             "ETH": 706
-        }
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x1ce270557c1f68cfb577b856766310bf8b47fd9c",
@@ -1280,7 +1373,12 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 0
-        }
+        },
+        "web_domains": [
+            "tether.to"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb9098d3669a78e9afe8b94a97290407400d9da31",
@@ -1314,7 +1412,10 @@
         ],
         "holders": {
             "ETH": 600
-        }
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xc55126051b22ebb829d00368f4b12bde432de5da",
@@ -1433,12 +1534,15 @@
             "BRCBOT.io"
         ],
         "telegram_groups": [
-            "BRCBOTPortal",
-            "BRC20_BTC_Bot"
+            "BRC20_BTC_Bot",
+            "BRCBOTPortal"
         ],
         "holders": {
             "ETH": 430
-        }
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: The chat_id \"BRC20_BTC_Bot\" belongs to a user"
     },
     {
         "contract_address": "0x748ec9c3c5386053b5d2523df5125b539ccab778",
@@ -1458,7 +1562,10 @@
         ],
         "holders": {
             "ETH": 163
-        }
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x1aa5d9291d8eaa3962c00afd7337455e4785acd0",
@@ -1606,7 +1713,12 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 11
-        }
+        },
+        "web_domains": [
+            "curve.fi"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x046eee2cc3188071c02bfc1745a6b17c656e3f3d",
@@ -1668,7 +1780,13 @@
         ],
         "holders": {
             "ETH": 498
-        }
+        },
+        "telegram_groups": [
+            "flashmev"
+        ],
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xb17548c7b510427baac4e267bea62e800b247173",
@@ -1817,7 +1935,13 @@
         ],
         "holders": {
             "ETH": 676
-        }
+        },
+        "telegram_groups": [
+            "reflect_finance"
+        ],
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x2e9d63788249371f1dfc918a52f8d799f4a38c94",
@@ -1844,7 +1968,10 @@
         ],
         "holders": {
             "ETH": 131
-        }
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x0496dd810fd977098cccd32a80bec90a9e03f9bf",
@@ -1927,7 +2054,10 @@
         ],
         "holders": {
             "ETH": 46
-        }
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x2e95cea14dd384429eb3c4331b776c4cfbb6fcd9",
@@ -1955,7 +2085,12 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "circle.com"
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x24d73bca2bd9c3a61e99dfc7cb86d3c379ebded7",
@@ -2044,7 +2179,16 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 81
-        }
+        },
+        "web_domains": [
+            "trava.finance"
+        ],
+        "telegram_groups": [
+            "trava_finance"
+        ],
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large27082"
     },
     {
         "contract_address": "0x6123b0049f904d730db3c36a31167d9d4121fa6b",
@@ -2120,7 +2264,10 @@
         ],
         "holders": {
             "ETH": 270
-        }
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x251ac0397f3ab8f3b1894e34ab7b9288309eb341",
@@ -2149,7 +2296,10 @@
         ],
         "holders": {
             "ETH": 324
-        }
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xb14ebf566511b9e6002bb286016ab2497b9b9c9d",
@@ -2208,7 +2358,9 @@
         ],
         "holders": {
             "ETH": 284
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf411903cbc70a74d22900a5de66a2dda66507255",
@@ -2276,5 +2428,1459 @@
         "holders": {
             "ETH": 1381
         }
+    },
+    {
+        "contract_address": "0x33e07f5055173cf8febede8b21b12d1e2b523205",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1406
+        }
+    },
+    {
+        "contract_address": "0xcc8fa225d80b9c7d42f96e9570156c65d6caaa25",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 58783
+        }
+    },
+    {
+        "contract_address": "0xf7498c98789957f4ee53b3e37ff5b7ef8a6cfc7b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "contractdevai.com"
+        ],
+        "telegram_groups": [
+            "SkromniDevAi",
+            "Jake_prince",
+            "ContractDevAI",
+            "contractdevai",
+            "snow_investergram",
+            "contractdevai_bot",
+            "ContractDEVAI_bot",
+            "onlymoonwithadam"
+        ],
+        "holders": {
+            "ETH": 581
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: The chat_id \"SkromniDevAi\" belongs to a user"
+    },
+    {
+        "contract_address": "0x276e84edc5bd94731b65c207dc1512fc5391572f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "potion.exchange",
+            "potioneth.gitbook.io"
+        ],
+        "telegram_groups": [
+            "Potionofficial"
+        ],
+        "holders": {
+            "ETH": 201
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0x1bbf25e71ec48b84d773809b4ba55b6f4be946fb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 25693
+        }
+    },
+    {
+        "contract_address": "0x2d9d7c64f6c00e16c28595ec4ebe4065ef3a250b",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "gofuckyourselfcoin"
+        ],
+        "holders": {
+            "ETH": 4675
+        }
+    },
+    {
+        "contract_address": "0xc2e10a8d823af8cc3bc7cf02e23c9f55839cd354",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.ordinalns.net"
+        ],
+        "telegram_groups": [
+            "OrdinaNameService"
+        ],
+        "holders": {
+            "ETH": 120
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0x3a4f40631a4f906c2bad353ed06de7a5d3fcb430",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2881
+        }
+    },
+    {
+        "contract_address": "0xd33526068d116ce69f19a9ee46f0bd304f21a51f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "rocketpool.net",
+            "rocketpool.net",
+            "rocketpool.net",
+            "rocketpool.net",
+            "rocketpool.net",
+            "rocketpool.net"
+        ],
+        "holders": {
+            "ETH": 10056
+        }
+    },
+    {
+        "contract_address": "0x1a4b46696b2bb4794eb3d4c26f1c55f9170fa4c5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 21521
+        }
+    },
+    {
+        "contract_address": "0xd48cf6c4c547347e369952f1772320e36448ff6e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "otcbot-whitepaper.gitbook.io"
+        ],
+        "holders": {
+            "ETH": 617
+        },
+        "telegram_groups": [],
+        "p6": true
+    },
+    {
+        "contract_address": "0xee1dc6bcf1ee967a350e9ac6caaaa236109002ea",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x1abaea1f7c830bd89acc67ec4af516284b1bc33c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2034
+        }
+    },
+    {
+        "contract_address": "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2422
+        }
+    },
+    {
+        "contract_address": "0x3231cb76718cdef2155fc47b5286d82e6eda273f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org"
+        ],
+        "holders": {
+            "ETH": 428
+        },
+        "telegram_groups": [],
+        "p6": true
+    },
+    {
+        "contract_address": "0x320ed4c7243e35a00f9ca30a1ae60929d15eae37",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2583
+        }
+    },
+    {
+        "contract_address": "0xf31e792917826acf9ddba50b4a0cba9d9ff2bdce",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8
+        }
+    },
+    {
+        "contract_address": "0x00979e83c3c2a0bdab9606b52590583653943c51",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 17
+        }
+    },
+    {
+        "contract_address": "0x38e68a37e401f7271568cecaac63c6b1e19130b4",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Banana_Gun_Portal"
+        ],
+        "holders": {
+            "ETH": 7720
+        }
+    },
+    {
+        "contract_address": "0x3c3a81e81dc49a522a592e7622a7e711c06bf354",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9237
+        }
+    },
+    {
+        "contract_address": "0x94d18873469159adf41d5163a11a186ad5d83b85",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.popsiclecoin.xyz"
+        ],
+        "telegram_groups": [
+            "PopsiclePortal"
+        ],
+        "holders": {
+            "ETH": 19
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0x02aa05c5c0b726267c4ffa2579e899653054e705",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "brcinscribebot.xyz"
+        ],
+        "telegram_groups": [
+            "biberc20_bot",
+            "biberc20"
+        ],
+        "holders": {
+            "ETH": 130
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: The chat_id \"biberc20_bot\" belongs to a user"
+    },
+    {
+        "contract_address": "0x765674b353d23bfba59067d1c5ed6c2dbf938d65",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blocksafe.live"
+        ],
+        "telegram_groups": [
+            "blocksafe",
+            "Blocksafe"
+        ],
+        "holders": {
+            "ETH": 201
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0x617ead3c59ded3ea1bb17881118cf310144b450f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 399
+        }
+    },
+    {
+        "contract_address": "0x2ed1fd90c60556b95ace00a0bcadf5eac8a7e8ac",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 173
+        }
+    },
+    {
+        "contract_address": "0x19f8ed44aa2f5580d44ca6ed2a0e9bb33a08922d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 558
+        }
+    },
+    {
+        "contract_address": "0xd9016a907dc0ecfa3ca425ab20b6b785b42f2373",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4471
+        }
+    },
+    {
+        "contract_address": "0xdae6d9662c4904026ac311a5fdc8917fdc51971a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 514
+        }
+    },
+    {
+        "contract_address": "0x3d658390460295fb963f54dc0899cfb1c30776df",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8842
+        }
+    },
+    {
+        "contract_address": "0x94dd3247a6936d2552ce1eedbaf6890575c2bd0d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "majik.bot",
+            "dapp.majik.bot"
+        ],
+        "telegram_groups": [
+            "majikportal"
+        ],
+        "holders": {
+            "ETH": 527
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0x9bd2177027edee300dc9f1fb88f24db6e5e1edc6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ipor-labs.gitbook.io"
+        ],
+        "holders": {
+            "ETH": 16
+        },
+        "telegram_groups": [],
+        "p6": true
+    },
+    {
+        "contract_address": "0x38b0e3a59183814957d83df2a97492aed1f003e2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1358
+        }
+    },
+    {
+        "contract_address": "0x69af81e73a73b40adf4f3d4223cd9b1ece623074",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12990
+        }
+    },
+    {
+        "contract_address": "0x96add417293a49e80f024734e96cfd8b355bcc14",
+        "sourceScanned": "processed",
+        "emails": [
+            "info@liquidlayer.network"
+        ],
+        "holders": {
+            "ETH": 3392
+        }
+    },
+    {
+        "contract_address": "0xfb7b4564402e5500db5bb6d63ae671302777c75a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 17226
+        }
+    },
+    {
+        "contract_address": "0x34be5b8c30ee4fde069dc878989686abe9884470",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 15441
+        }
+    },
+    {
+        "contract_address": "0xbe6be64e9e5042b6e84e4c27956cce6353efa5f5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1551
+        }
+    },
+    {
+        "contract_address": "0xcedefe438860d2789da6419b3a19cece2a41038d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13482
+        }
+    },
+    {
+        "contract_address": "0x96886751c7ecc46e92e169b483cce43851da2f69",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "year-dragon.com"
+        ],
+        "telegram_groups": [
+            "year_dragon_portal"
+        ],
+        "holders": {
+            "ETH": 47
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0x7236a7ad67976ee07961ab26ed6f4cd23f7a9bd1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 882
+        }
+    },
+    {
+        "contract_address": "0x9506d37f70eb4c3d79c398d326c871abbf10521d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5157
+        }
+    },
+    {
+        "contract_address": "0x207e14389183a94343942de7afbc607f57460618",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@angelblock.io",
+            "marcin@angelblock.io",
+            "piotr@angelblock.io",
+            "mikolaj@angelblock.io",
+            "sebastian@angelblock.io",
+            "domenico@angelblock.io"
+        ],
+        "holders": {
+            "ETH": 749
+        }
+    },
+    {
+        "contract_address": "0x13f49970abf14a1dca8f12777ed04fb0639fd4d8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "graphxai.net"
+        ],
+        "telegram_groups": [
+            "graphxai",
+            "graphxai_bot"
+        ],
+        "holders": {
+            "ETH": 206
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0xe9ab7a6141dc50d5be59ceac06f5ac38a0f2fead",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hybridchain.ai",
+            "docs.hybridchain.ai"
+        ],
+        "telegram_groups": [
+            "HybridChainPortal",
+            "HybridChainAnnouncement"
+        ],
+        "holders": {
+            "ETH": 377
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0x8788560e98a351bca9f21478c6364539e406959c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x47a33d54e66105859700677389a66ed82187cc5a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xa2ea5cb0614f6428421a39ec09b013cc3336efbe",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1135
+        }
+    },
+    {
+        "contract_address": "0x738865301a9b7dd80dc3666dd48cf034ec42bdda",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3131
+        }
+    },
+    {
+        "contract_address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 291582
+        }
+    },
+    {
+        "contract_address": "0xab85fc558d722a2b7c040ffb77db676bd9e7d322",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "morosnet.com"
+        ],
+        "telegram_groups": [
+            "morosnet"
+        ],
+        "holders": {
+            "ETH": 1225
+        }
+    },
+    {
+        "contract_address": "0x44971abf0251958492fee97da3e5c5ada88b9185",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "TheBasedProject"
+        ],
+        "holders": {
+            "ETH": 379
+        }
+    },
+    {
+        "contract_address": "0x41d5d79431a913c4ae7d69a668ecdfe5ff9dfb68",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3597
+        }
+    },
+    {
+        "contract_address": "0xad038eb671c44b853887a7e32528fab35dc5d710",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 295
+        }
+    },
+    {
+        "contract_address": "0x1a3496c18d558bd9c6c8f609e1b129f67ab08163",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 22697
+        }
+    },
+    {
+        "contract_address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 120099
+        }
+    },
+    {
+        "contract_address": "0xff51f8c96b2da5eb0daa1b008951f4b37295d3e7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "joi.cool"
+        ],
+        "telegram_groups": [
+            "joi_ai"
+        ],
+        "holders": {
+            "ETH": 2
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0xd26114cd6ee289accf82350c8d8487fedb8a0c07",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 687613
+        }
+    },
+    {
+        "contract_address": "0x9ab7bb7fdc60f4357ecfef43986818a2a3569c62",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7217
+        }
+    },
+    {
+        "contract_address": "0x0590cc9232ebf68d81f6707a119898219342ecb9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.bananacateth.com"
+        ],
+        "telegram_groups": [
+            "bananacat_community"
+        ],
+        "holders": {
+            "ETH": 1649
+        }
+    },
+    {
+        "contract_address": "0x33ba0f96980314cf962bd6224b5c3befa5946202",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 675
+        }
+    },
+    {
+        "contract_address": "0x8113a86f365909d421e7c4b9f9323464161c222e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0xecd9e9fb8a3d80ff5cff69446a700441d6660d37",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "eyesof-medusa.com"
+        ],
+        "telegram_groups": [
+            "EyesOfMedusaPortal"
+        ],
+        "holders": {
+            "ETH": 2
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Username not occupied"
+    },
+    {
+        "contract_address": "0x2a98656cef8eb9e5cf9162c8be972195c5e6f647",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x3ba925fdeae6b46d0bb4d424d829982cb2f7309e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2245
+        }
+    },
+    {
+        "contract_address": "0xdfdb7f72c1f195c5951a234e8db9806eb0635346",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4793
+        }
+    },
+    {
+        "contract_address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "solidifier.coina.ge"
+        ],
+        "holders": {
+            "ETH": 87652
+        }
+    },
+    {
+        "contract_address": "0x774b3a2d2a7b7096875485c7a0e14e113cce90a2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x0abdace70d3790235af448c88547603b945604ea",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 44331
+        }
+    },
+    {
+        "contract_address": "0x5ee5bf7ae06d1be5997a1a72006fe6c607ec6de8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1793
+        }
+    },
+    {
+        "contract_address": "0x7f5270bd6e15b1c7369cf762a23c08919ee76ac5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fuckmylife.xyz"
+        ],
+        "telegram_groups": [
+            null
+        ],
+        "holders": {
+            "ETH": 257
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: '<' not supported between instances of 'NoneType' and 'int'"
+    },
+    {
+        "contract_address": "0x201b5b64438843553e3c3671810ae671c93c685c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1382
+        }
+    },
+    {
+        "contract_address": "0xa6ec49e06c25f63292bac1abc1896451a0f4cfb7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5372
+        }
+    },
+    {
+        "contract_address": "0x0c572544a4ee47904d54aaa6a970af96b6f00e1b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6235
+        }
+    },
+    {
+        "contract_address": "0xbcd1eeedeacb575686ef396ef0cfe3e9f5aceee5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 157
+        }
+    },
+    {
+        "contract_address": "0x32a7c02e79c4ea1008dd6564b35f131428673c41",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7365
+        }
+    },
+    {
+        "contract_address": "0xff44b937788215eca197baaf9af69dbdc214aa04",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1980
+        }
+    },
+    {
+        "contract_address": "0x45b6d1cfcc0218f4d57db1a2895c0f14c8c3cf96",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 378
+        }
+    },
+    {
+        "contract_address": "0x0f7b3f5a8fed821c5eb60049538a548db2d479ce",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "AirTorEntry"
+        ],
+        "holders": {
+            "ETH": 14226
+        }
+    },
+    {
+        "contract_address": "0xa7480aafa8ad2af3ce24ac6853f960ae6ac7f0c4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x87da587cc68df434e03dfe25fa4841e78a5dcf1f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.thesourceai.co"
+        ],
+        "telegram_groups": [
+            "SourceAIPortal"
+        ],
+        "holders": {
+            "ETH": 179
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0x4754c5c773e8e59c9325b01d110306031f666136",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "bellsDOGECOIN"
+        ],
+        "holders": {
+            "ETH": 381
+        }
+    },
+    {
+        "contract_address": "0x423f4e6138e475d85cf7ea071ac92097ed631eea",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13662
+        }
+    },
+    {
+        "contract_address": "0x017e9db34fc69af0dc7c7b4b33511226971cddc7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2907
+        }
+    },
+    {
+        "contract_address": "0x66761fa41377003622aee3c7675fc7b5c1c2fac5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3565
+        }
+    },
+    {
+        "contract_address": "0x9e42900af9a7d0a67ad0f2295051f6011e63b6b8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "Ouroboros.Bot"
+        ],
+        "holders": {
+            "ETH": 126
+        },
+        "telegram_groups": [
+            "OuroborosTokenS"
+        ],
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0x667210a731447f8b385e068205759be2311b86d4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "etf.live"
+        ],
+        "telegram_groups": [
+            "bet_etf"
+        ],
+        "holders": {
+            "ETH": 1591
+        }
+    },
+    {
+        "contract_address": "0x7d51888c5abb7cdfa9cdd6a50673c7f8afaccd7f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 596
+        }
+    },
+    {
+        "contract_address": "0x9e46a38f5daabe8683e10793b06749eef7d733d1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7929
+        }
+    },
+    {
+        "contract_address": "0x32353a6c91143bfd6c7d363b546e62a9a2489a20",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13049
+        }
+    },
+    {
+        "contract_address": "0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 24356
+        }
+    },
+    {
+        "contract_address": "0xb3ce971a55b1c3f03314bce2dd81d0c1cd69bd96",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 225
+        }
+    },
+    {
+        "contract_address": "0x8290333cef9e6d528dd5618fb97a76f268f3edd4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 46575
+        }
+    },
+    {
+        "contract_address": "0x40e9187078032afe1a30cfcf76e4fe3d7ab5c6c5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "aigentx.xyz",
+            "aigentx.gitbook.io",
+            "dev.to"
+        ],
+        "holders": {
+            "ETH": 5145
+        }
+    },
+    {
+        "contract_address": "0x57abc66edd05b27c08aaffa6dccbe889ca8b6ef8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dopamine.support"
+        ],
+        "holders": {
+            "ETH": 58
+        },
+        "telegram_groups": [],
+        "p6": true
+    },
+    {
+        "contract_address": "0x989be34b64d01b4f1c8ba89c5e353ba019c11834",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "MKUltraETH"
+        ],
+        "holders": {
+            "ETH": 275
+        }
+    },
+    {
+        "contract_address": "0xf0d33beda4d734c72684b5f9abbebf715d0a7935",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8673
+        }
+    },
+    {
+        "contract_address": "0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5066
+        }
+    },
+    {
+        "contract_address": "0x50327c6c5a14dcade707abad2e27eb517df87ab5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4514
+        }
+    },
+    {
+        "contract_address": "0x5d7ba3b98457fc1fade1f23bb00d2fe1574f63b2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 307
+        }
+    },
+    {
+        "contract_address": "0x6a4f9a1372235c3fea4fb07170a635b26417382b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wonderland.capital"
+        ],
+        "telegram_groups": [
+            "wonderlandportal"
+        ],
+        "holders": {
+            "ETH": 274
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0x0a638f07acc6969abf392bb009f216d22adea36d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 651
+        }
+    },
+    {
+        "contract_address": "0xf6b6235f6725f84457f5d6f0b0aa3c962a079977",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1341
+        }
+    },
+    {
+        "contract_address": "0x03ee5026c07d85ff8ae791370dd0f4c1ae6c97fc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2810
+        }
+    },
+    {
+        "contract_address": "0x723f967e353c0cdaccc67c4783cebb2612dad149",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "applemlx"
+        ],
+        "holders": {
+            "ETH": 230
+        }
+    },
+    {
+        "contract_address": "0xccccb68e1a848cbdb5b60a974e07aae143ed40c3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "topia.gg"
+        ],
+        "holders": {
+            "ETH": 3364
+        }
+    },
+    {
+        "contract_address": "0xebbe7fc76592a7cacd0db30694374f094412857f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.algoaitools.io"
+        ],
+        "telegram_groups": [
+            "AlgoAIEntry"
+        ],
+        "holders": {
+            "ETH": 99
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0xb11db272ebfabedf611a07684e82165db60dc70e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        },
+        "web_domains": [
+            "bitcoinminetrix.com"
+        ],
+        "telegram_groups": [
+            "bitcoinminetrix"
+        ],
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large6206"
+    },
+    {
+        "contract_address": "0x77fba179c79de5b7653f68b5039af940ada60ce0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 26243
+        }
+    },
+    {
+        "contract_address": "0x967da4048cd07ab37855c090aaf366e4ce1b9f48",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 53173
+        }
+    },
+    {
+        "contract_address": "0xe9641d7b0ae4b16d45c55d14909379fffc214e3d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x3106a0a076bedae847652f42ef07fd58589e001f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4217
+        }
+    },
+    {
+        "contract_address": "0x650ff050cea237e4db1a3c02ce014dfb9a361a7e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "FlokiSanta.vip"
+        ],
+        "telegram_groups": [
+            "FlokiSanta_Eth"
+        ],
+        "holders": {
+            "ETH": 220
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0xd084944d3c05cd115c09d072b9f44ba3e0e45921",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3743
+        }
+    },
+    {
+        "contract_address": "0x7a29fb472f0e62bce6127f125e8d5ad2a9fa3839",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 234
+        }
+    },
+    {
+        "contract_address": "0xbdba1b44b84281c8b700b24a62e351f9547c08d6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "007verse.app"
+        ],
+        "telegram_groups": [
+            "Erc007Verse"
+        ],
+        "holders": {
+            "ETH": 38
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0x3a429a151ad985e678a834f9db057163181f58e8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 225
+        }
+    },
+    {
+        "contract_address": "0x216c9bb7380cde431662e37e30098d838d7e1dc8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 28
+        },
+        "web_domains": [
+            "vesync.finance"
+        ],
+        "telegram_groups": [],
+        "p6": true
+    },
+    {
+        "contract_address": "0xa41d2f8ee4f47d3b860a149765a7df8c3287b7f0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 293
+        },
+        "web_domains": [
+            "syncus.fi"
+        ],
+        "telegram_groups": [],
+        "p6": true
+    },
+    {
+        "contract_address": "0x25f8087ead173b73d6e8b84329989a8eea16cf73",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 20700
+        }
+    },
+    {
+        "contract_address": "0xa8b919680258d369114910511cc87595aec0be6d",
+        "sourceScanned": "processed",
+        "emails": [
+            "micky@binarzone.com"
+        ],
+        "holders": {
+            "ETH": 14267
+        }
+    },
+    {
+        "contract_address": "0x853d955acef822db058eb8505911ed77f175b99e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "compound.finance"
+        ],
+        "holders": {
+            "ETH": 8368
+        }
+    },
+    {
+        "contract_address": "0x0eb1e72204c42de2263d37db606fb25c21d649b8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "Astro-X.io"
+        ],
+        "telegram_groups": [
+            "AstroX_Bot_ERC"
+        ],
+        "holders": {
+            "ETH": 369
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0x144805be43c48ef85435c94e0da4cb4efb1ab4f3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "metablox.games",
+            "metadrop.com."
+        ],
+        "holders": {
+            "ETH": 1695
+        }
+    },
+    {
+        "contract_address": "0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 145746
+        }
+    },
+    {
+        "contract_address": "0x5f21be2baeaaa30876b464b7e6d8b9cb68d58c9f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x3ac81633a291f342b62e7de5d00eb02924032e06",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1068
+        }
+    },
+    {
+        "contract_address": "0x4c0f743928ca8fa7fb24ad89669c8a7838f34917",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 852
+        }
+    },
+    {
+        "contract_address": "0x3b604747ad1720c01ded0455728b62c0d2f100f0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.wagmigame.io"
+        ],
+        "holders": {
+            "ETH": 8586
+        }
+    },
+    {
+        "contract_address": "0xaaee1a9723aadb7afa2810263653a34ba2c21c7a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5319
+        }
+    },
+    {
+        "contract_address": "0x35fa164735182de50811e8e2e824cfb9b6118ac2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3040
+        }
+    },
+    {
+        "contract_address": "0x471d113059324321749e097705197a2b44a070fc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 276
+        },
+        "web_domains": [
+            "kanga.exchange"
+        ],
+        "telegram_groups": [
+            "KangaExchangeChat"
+        ],
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large5612"
+    },
+    {
+        "contract_address": "0xac1419ee74f203c6b9daa3635ad7169b7ebb5c1a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2500
+        }
+    },
+    {
+        "contract_address": "0x056fd409e1d7a124bd7017459dfea2f387b6d5cd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18138
+        }
+    },
+    {
+        "contract_address": "0x295b42684f90c77da7ea46336001010f2791ec8c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3933
+        }
+    },
+    {
+        "contract_address": "0x92cc36d66e9d739d50673d1f27929a371fb83a67",
+        "sourceScanned": "processed",
+        "emails": [
+            "goncalo.sa@consensys.net"
+        ],
+        "holders": {
+            "ETH": 900
+        }
+    },
+    {
+        "contract_address": "0xc52d791fc3bccf56268a450590552f70a27c325a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 317
+        }
+    },
+    {
+        "contract_address": "0xb50721bcf8d664c30412cfbc6cf7a15145234ad1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 17153
+        }
+    },
+    {
+        "contract_address": "0xd101dcc414f310268c37eeb4cd376ccfa507f571",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3847
+        }
+    },
+    {
+        "contract_address": "0x1a2eb478fa07125c9935a77b3c03a82470801e30",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5847
+        }
+    },
+    {
+        "contract_address": "0x037a54aab062628c9bbae1fdb1583c195585fe41",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 21281
+        }
+    },
+    {
+        "contract_address": "0x4f9254c83eb525f9fcf346490bbb3ed28a81c667",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 20719
+        }
+    },
+    {
+        "contract_address": "0x491604c0fdf08347dd1fa4ee062a822a5dd06b5d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 20114
+        }
+    },
+    {
+        "contract_address": "0x95962fd492c3f38a632f0875db25398db2c29174",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "bardentry"
+        ],
+        "holders": {
+            "ETH": 139
+        }
+    },
+    {
+        "contract_address": "0x291d8dddfa983c0f85c7f033c593da77a032e78c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.blackelon.com"
+        ],
+        "telegram_groups": [
+            "elonblacketh"
+        ],
+        "holders": {
+            "ETH": 319
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0x560363bda52bc6a44ca6c8c9b4a5fadbda32fa60",
+        "sourceScanned": "processed",
+        "emails": [
+            "goncalo.sa@consensys.net"
+        ],
+        "holders": {
+            "ETH": 1125
+        }
+    },
+    {
+        "contract_address": "0x7f9b09f4717072cf4dc18b95d1b09e2b30c76790",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4979
+        }
+    },
+    {
+        "contract_address": "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 22061
+        }
+    },
+    {
+        "contract_address": "0x1fe24f25b1cf609b9c4e7e12d802e3640dfa5e43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9553
+        }
+    },
+    {
+        "contract_address": "0xa2cd3d43c775978a96bdbf12d733d5a1ed94fb18",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12271
+        }
+    },
+    {
+        "contract_address": "0x292fe9d6adc882ae2cbd7b5dbf4576dee08a7751",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "XcorpEntry"
+        ],
+        "holders": {
+            "ETH": 229
+        }
+    },
+    {
+        "contract_address": "0xbd713f15673b9861b6123840f6e0eba03d6aae51",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.eye-bot.io",
+            "the-eyebot.gitbook.io",
+            "eye-bot.app"
+        ],
+        "telegram_groups": [
+            "eyebotportal"
+        ],
+        "holders": {
+            "ETH": 1381
+        }
+    },
+    {
+        "contract_address": "0xddb3422497e61e13543bea06989c0789117555c5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 24575
+        }
+    },
+    {
+        "contract_address": "0x80d55c03180349fff4a229102f62328220a96444",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3267
+        }
+    },
+    {
+        "contract_address": "0x344d6117ae0984f3afdd23e593f92d95a83dcd0e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.skibiditoilet.vip"
+        ],
+        "telegram_groups": [
+            "SkibidiToilERC"
+        ],
+        "holders": {
+            "ETH": 483
+        },
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     }
 ]
