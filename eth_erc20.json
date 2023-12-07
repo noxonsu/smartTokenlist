@@ -3623,7 +3623,11 @@
         },
         "web_domains": [
             "bitcoinminetrix.com"
-        ]
+        ],
+        "telegram_groups": [
+            "bitcoinminetrix"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x77fba179c79de5b7653f68b5039af940ada60ce0",
@@ -3664,7 +3668,8 @@
         ],
         "holders": {
             "ETH": 220
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd084944d3c05cd115c09d072b9f44ba3e0e45921",
@@ -3691,7 +3696,8 @@
         ],
         "holders": {
             "ETH": 38
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3a429a151ad985e678a834f9db057163181f58e8",
@@ -3708,7 +3714,9 @@
         },
         "web_domains": [
             "vesync.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa41d2f8ee4f47d3b860a149765a7df8c3287b7f0",
@@ -3718,7 +3726,9 @@
         },
         "web_domains": [
             "syncus.fi"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x25f8087ead173b73d6e8b84329989a8eea16cf73",
@@ -3758,7 +3768,8 @@
         ],
         "holders": {
             "ETH": 369
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x144805be43c48ef85435c94e0da4cb4efb1ab4f3",
