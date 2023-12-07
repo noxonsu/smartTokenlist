@@ -44,6 +44,13 @@ def extract_telegram_links(html_content):
     telegram_groups = [regex.search(link['href']).group(1) for link in links]
     return telegram_groups
 
+def extract_email(html_content):
+    soup = BeautifulSoup(html_content, 'html.parser')
+    regex = re.compile(r"[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}")
+    links = soup.find_all('a', href=regex)
+    email = [regex.search(link['href']).group(1) for link in links]
+    return email
+
 def save_summary_and_proposal(contract_address, summary):
     if not os.path.exists('summaries'):
         os.makedirs('summaries')
@@ -89,6 +96,7 @@ def process_sites(data, sites_without_summary):
                     existing_telegram_groups = set(entry.get('telegram_groups', []))
                     telegram_links = list(existing_telegram_groups.union(telegram_links))
                     entry['telegram_groups'] = telegram_links
+                    entry['email'] = extract_email(docs_transformed)
                     entry['p6'] = True
         except Exception as e:
             print(f"Failed to process site {site} due to error: {str(e)}")

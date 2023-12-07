@@ -3869,7 +3869,7 @@
     },
     {
         "contract_address": "0x344d6117ae0984f3afdd23e593f92d95a83dcd0e",
-        "sourceScanned": "processed",
+        "processed": true,
         "web_domains": [
             "www.skibiditoilet.vip"
         ],
@@ -3879,7 +3879,6 @@
         "holders": {
             "ETH": 483
         },
-        "p6": true,
         "myuser": 6761555344,
         "tgGroupJoined": "error: Can't send messages"
     }
