@@ -3877,13 +3877,14 @@
             "SkibidiToilERC"
         ],
         "holders": {
-            "ETH": 483
+            "ETH": 485
         },
         "myuser": 6761555344,
         "tgGroupJoined": "error: Can't send messages",
         "emails": [
             "support@skibiditoilet.vip"
         ],
-        "p6": true
+        "p6": true,
+        "sourceScanned": "processed"
     }
 ]
