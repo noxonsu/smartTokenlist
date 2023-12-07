@@ -3877,9 +3877,10 @@
             "SkibidiToilERC"
         ],
         "holders": {
-            "ETH": 483
+            "ETH": 485
         },
         "myuser": 6761555344,
-        "tgGroupJoined": "error: Can't send messages"
+        "tgGroupJoined": "error: Can't send messages",
+        "sourceScanned": "processed"
     }
 ]
