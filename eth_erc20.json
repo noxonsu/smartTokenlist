@@ -3221,7 +3221,9 @@
         "holders": {
             "ETH": 2
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xd26114cd6ee289accf82350c8d8487fedb8a0c07",
@@ -3276,7 +3278,9 @@
         "holders": {
             "ETH": 2
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x2a98656cef8eb9e5cf9162c8be972195c5e6f647",
@@ -3337,12 +3341,14 @@
             "fuckmylife.xyz"
         ],
         "telegram_groups": [
-            "fuckmylifeEthChannel"
+            null
         ],
         "holders": {
             "ETH": 257
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: '<' not supported between instances of 'NoneType' and 'int'"
     },
     {
         "contract_address": "0x201b5b64438843553e3c3671810ae671c93c685c",
@@ -3422,7 +3428,9 @@
         "holders": {
             "ETH": 179
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x4754c5c773e8e59c9325b01d110306031f666136",
@@ -3467,7 +3475,9 @@
         "telegram_groups": [
             "OuroborosTokenS"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x667210a731447f8b385e068205759be2311b86d4",
@@ -3598,7 +3608,9 @@
         "holders": {
             "ETH": 274
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x0a638f07acc6969abf392bb009f216d22adea36d",
@@ -3653,7 +3665,9 @@
         "holders": {
             "ETH": 99
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xb11db272ebfabedf611a07684e82165db60dc70e",
@@ -3667,7 +3681,9 @@
         "telegram_groups": [
             "bitcoinminetrix"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large6206"
     },
     {
         "contract_address": "0x77fba179c79de5b7653f68b5039af940ada60ce0",
@@ -3709,7 +3725,9 @@
         "holders": {
             "ETH": 220
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xd084944d3c05cd115c09d072b9f44ba3e0e45921",
@@ -3737,7 +3755,9 @@
         "holders": {
             "ETH": 38
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x3a429a151ad985e678a834f9db057163181f58e8",
