@@ -1413,7 +1413,9 @@
         "holders": {
             "ETH": 600
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xc55126051b22ebb829d00368f4b12bde432de5da",
@@ -1538,7 +1540,9 @@
         "holders": {
             "ETH": 430
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: The chat_id \"BRC20_BTC_Bot\" belongs to a user"
     },
     {
         "contract_address": "0x748ec9c3c5386053b5d2523df5125b539ccab778",
@@ -1559,7 +1563,9 @@
         "holders": {
             "ETH": 163
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x1aa5d9291d8eaa3962c00afd7337455e4785acd0",
@@ -1778,7 +1784,9 @@
         "telegram_groups": [
             "flashmev"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xb17548c7b510427baac4e267bea62e800b247173",
@@ -1931,7 +1939,9 @@
         "telegram_groups": [
             "reflect_finance"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x2e9d63788249371f1dfc918a52f8d799f4a38c94",
@@ -1959,7 +1969,9 @@
         "holders": {
             "ETH": 131
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x0496dd810fd977098cccd32a80bec90a9e03f9bf",
@@ -2043,7 +2055,9 @@
         "holders": {
             "ETH": 46
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x2e95cea14dd384429eb3c4331b776c4cfbb6fcd9",
@@ -2172,7 +2186,9 @@
         "telegram_groups": [
             "trava_finance"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large27082"
     },
     {
         "contract_address": "0x6123b0049f904d730db3c36a31167d9d4121fa6b",
@@ -2249,7 +2265,9 @@
         "holders": {
             "ETH": 270
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x251ac0397f3ab8f3b1894e34ab7b9288309eb341",
@@ -2279,7 +2297,9 @@
         "holders": {
             "ETH": 324
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xb14ebf566511b9e6002bb286016ab2497b9b9c9d",
