@@ -3829,7 +3829,9 @@
         "holders": {
             "ETH": 369
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x144805be43c48ef85435c94e0da4cb4efb1ab4f3",
@@ -3906,7 +3908,9 @@
         "telegram_groups": [
             "KangaExchangeChat"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large5612"
     },
     {
         "contract_address": "0xac1419ee74f203c6b9daa3635ad7169b7ebb5c1a",
@@ -4010,7 +4014,9 @@
         "holders": {
             "ETH": 319
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x560363bda52bc6a44ca6c8c9b4a5fadbda32fa60",
@@ -4101,6 +4107,8 @@
         "holders": {
             "ETH": 483
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     }
 ]
