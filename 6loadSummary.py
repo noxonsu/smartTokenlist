@@ -31,11 +31,12 @@ def extract_content(site):
     loader = AsyncChromiumLoader(["https://"+site])
     docs = loader.load()
     telegram_links = extract_telegram_links(docs[0].page_content)
+    email = exctract_email(docs[0].page_content)
     html2text = Html2TextTransformer()
     text_content = html2text.transform_documents(docs)
     if not text_content:
         return "Failed to extract content for site {site}", telegram_links
-    return text_content, telegram_links
+    return text_content, telegram_links, email
 
 def extract_telegram_links(html_content):
     soup = BeautifulSoup(html_content, 'html.parser')
@@ -44,11 +45,10 @@ def extract_telegram_links(html_content):
     telegram_groups = [regex.search(link['href']).group(1) for link in links]
     return telegram_groups
 
-def extract_email(html_content):
+def exctract_email(html_content):
     soup = BeautifulSoup(html_content, 'html.parser')
     regex = re.compile(r"[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}")
-    links = soup.find_all('a', href=regex)
-    email = [regex.search(link['href']).group(1) for link in links]
+    email = soup.find(string=regex)
     return email
 
 def save_summary_and_proposal(contract_address, summary):
@@ -63,15 +63,16 @@ def process_sites(data, sites_without_summary):
         "properties": {
             "news_article_title": {"type": "string"},
             "news_article_summary": {"type": "string"},
+            "email": {"type": "string"}
         },
-        "required": ["news_article_title", "news_article_summary"],
+        "required": ["news_article_title", "news_article_summary", "email"],
     }
 
     llm = ChatOpenAI(temperature=0, model="gpt-3.5-turbo")
 
     for site, contract in sites_without_summary:
         try:
-            docs_transformed, telegram_links = extract_content(site)
+            docs_transformed, telegram_links, email = extract_content(site)
             splitter = RecursiveCharacterTextSplitter.from_tiktoken_encoder(chunk_size=2000, chunk_overlap=0)
             splits = splitter.split_documents(docs_transformed)
             if not splits or splits[0].page_content == "":
@@ -96,8 +97,12 @@ def process_sites(data, sites_without_summary):
                     existing_telegram_groups = set(entry.get('telegram_groups', []))
                     telegram_links = list(existing_telegram_groups.union(telegram_links))
                     entry['telegram_groups'] = telegram_links
-                    entry['email'] = extract_email(docs_transformed)
-                    entry['p6'] = True
+
+                    # Combine existing and new email addresses, ensuring no duplicates
+                    existing_emails = set(entry.get('emails', []))
+                    existing_emails.add(email)
+                    entry['emails'] = list(existing_emails)
+                    entry['p6'] = True       
         except Exception as e:
             print(f"Failed to process site {site} due to error: {str(e)}")
 
