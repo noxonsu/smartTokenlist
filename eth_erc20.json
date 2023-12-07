@@ -3842,7 +3842,11 @@
         },
         "web_domains": [
             "kanga.exchange"
-        ]
+        ],
+        "telegram_groups": [
+            "KangaExchangeChat"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xac1419ee74f203c6b9daa3635ad7169b7ebb5c1a",
@@ -3945,7 +3949,8 @@
         ],
         "holders": {
             "ETH": 319
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x560363bda52bc6a44ca6c8c9b4a5fadbda32fa60",
@@ -4035,6 +4040,7 @@
         ],
         "holders": {
             "ETH": 483
-        }
+        },
+        "p6": true
     }
 ]
