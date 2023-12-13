@@ -4619,7 +4619,6 @@
             "fasb.org"
         ],
         "telegram_groups": [],
-        
         "p6": true
     },
     {
@@ -4812,7 +4811,6 @@
         "holders": {
             "ETH": 339
         },
-        
         "p6": true,
         "myuser": 6761555344,
         "tgGroupJoined": "success",
@@ -4842,7 +4840,6 @@
             "ethereum.org"
         ],
         "telegram_groups": [],
-        
         "p6": true
     },
     {
@@ -4864,7 +4861,6 @@
         "holders": {
             "ETH": 96
         },
-        
         "p6": true,
         "myuser": 6761555344,
         "tgGroupJoined": "error: '<' not supported between instances of 'NoneType' and 'int'"
