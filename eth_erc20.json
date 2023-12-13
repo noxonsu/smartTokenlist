@@ -4595,14 +4595,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 21
-        }
+        },
+        "web_domains": [
+            "avatly.com"
+        ]
     },
     {
         "contract_address": "0x29c1af106acb007de4977af254af77939250f6bb",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 16
-        }
+        },
+        "web_domains": [
+            "fasb.org"
+        ]
     },
     {
         "contract_address": "0x7824ab1b912dcb5fe7a8b8116dc6c8fdb6e75cae",
@@ -4711,7 +4717,10 @@
         ],
         "holders": {
             "ETH": 242
-        }
+        },
+        "web_domains": [
+            "polygon.technology"
+        ]
     },
     {
         "contract_address": "0x024a4e79996394533f5695dca00dcf929449f83b",
@@ -4779,7 +4788,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 177
-        }
+        },
+        "web_domains": [
+            "ethereum.org"
+        ]
     },
     {
         "contract_address": "0xdc8af07a7861bedd104b8093ae3e9376fc8596d2",
