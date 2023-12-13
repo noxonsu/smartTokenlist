@@ -6424,7 +6424,8 @@
         ],
         "holders": {
             "ETH": 439
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4096fc7119040175589387656f7c6073265f4096",
@@ -6437,7 +6438,8 @@
         ],
         "holders": {
             "ETH": 299
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2fc878c8df3e5f0646469370ad1482a5680d8d85",
@@ -6450,7 +6452,11 @@
         ],
         "holders": {
             "ETH": 107
-        }
+        },
+        "emails": [
+            "support@wrappedpepe.lol"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xddb067f566d280fc5ba4bd35a375cc7970cad573",
@@ -6460,7 +6466,12 @@
         },
         "web_domains": [
             "xguru.tech"
-        ]
+        ],
+        "telegram_groups": [
+            "XGURUAI_PORTAL",
+            "XGuruAi_bot"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb4a81261b16b92af0b9f7c4a83f1e885132d81e4",
@@ -6518,7 +6529,8 @@
         ],
         "holders": {
             "ETH": 51
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x48c3399719b582dd63eb5aadf12a40b4c3f52fa2",
