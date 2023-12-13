@@ -26,7 +26,10 @@ def execute_query(query_id):
     if response.status_code == 200:
         print("dune Query execution triggered.")
     else:
+
         print(f"dune Error in query execution: {response.json().get('error')}")
+        #throw exception
+        raise Exception("dune Error in query execution")
 
 def get_query_results(query_id):
     url = f"{BASE_URL}query/{query_id}/results"
