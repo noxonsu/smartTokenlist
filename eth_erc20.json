@@ -6320,7 +6320,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 105
-        }
+        },
+        "web_domains": [
+            "masterdex.xyz"
+        ]
     },
     {
         "contract_address": "0xfe1b621235227bfa14ed81be2ba4e5e4447b52c0",
@@ -6434,7 +6437,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 22
-        }
+        },
+        "web_domains": [
+            "xguru.tech"
+        ]
     },
     {
         "contract_address": "0xb4a81261b16b92af0b9f7c4a83f1e885132d81e4",
