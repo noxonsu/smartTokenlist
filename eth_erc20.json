@@ -3924,7 +3924,11 @@
         ],
         "holders": {
             "ETH": 128
-        }
+        },
+        "emails": [
+            null
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf951e335afb289353dc249e82926178eac7ded78",
@@ -4109,11 +4113,16 @@
             "www.musicgpt.info"
         ],
         "telegram_groups": [
+            "MusicGPTbot",
             "MusicGPT_ERC"
         ],
         "holders": {
             "ETH": 99
-        }
+        },
+        "emails": [
+            null
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x30f7c830e0c2f4bec871df809d73e27ef19eb151",
@@ -4171,11 +4180,16 @@
             "pepeofficial.com"
         ],
         "telegram_groups": [
+            "alphadesignercrypto",
             "pepeofficialcommunity"
         ],
         "holders": {
             "ETH": 480
-        }
+        },
+        "emails": [
+            "support@pepeofficial.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1151cb3d861920e07a38e03eead12c32178567f6",
@@ -4209,7 +4223,11 @@
         ],
         "holders": {
             "ETH": 439
-        }
+        },
+        "emails": [
+            null
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbede0b8b6141856ea0d311f3b8908c91b30e1ca6",
@@ -4233,7 +4251,14 @@
         },
         "web_domains": [
             "bitkubchain.com"
-        ]
+        ],
+        "telegram_groups": [
+            "BitkubChainOfficial"
+        ],
+        "emails": [
+            null
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x111111111117dc0aa78b770fa6a738034120c302",
@@ -4285,11 +4310,16 @@
             "ai-scan.gitbook.io"
         ],
         "telegram_groups": [
-            "AiScanEth"
+            "AiScanEth",
+            "Aiscaneth_bot"
         ],
         "holders": {
             "ETH": 362
-        }
+        },
+        "emails": [
+            null
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4cc19356f2d37338b9802aa8e8fc58b0373296e7",
