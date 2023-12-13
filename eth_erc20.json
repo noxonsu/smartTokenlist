@@ -5715,7 +5715,8 @@
         ],
         "holders": {
             "ETH": 347
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x72e4f9f808c49a2a61de9c5896298920dc4eeea9",
@@ -5776,7 +5777,14 @@
         },
         "web_domains": [
             "memekombat.io"
-        ]
+        ],
+        "telegram_groups": [
+            "MemeKombatToken"
+        ],
+        "emails": [
+            "contact@memekombat.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc221b7e65ffc80de234bbb6667abdd46593d34f0",
@@ -5838,11 +5846,13 @@
             "www.blendprotocol.io"
         ],
         "telegram_groups": [
+            "blendprotocolbot",
             "blendportal"
         ],
         "holders": {
             "ETH": 445
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xebc85965959b1ec3bbbf8bf0825447fe36097eaf",
@@ -5855,7 +5865,8 @@
         ],
         "holders": {
             "ETH": 187
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9c354503c38481a7a7a51629142963f98ecc12d0",
@@ -5893,7 +5904,8 @@
         ],
         "holders": {
             "ETH": 106
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xcceaf628c24b8d0e9cb2d9595420d633e921b9d6",
@@ -5970,7 +5982,8 @@
         ],
         "holders": {
             "ETH": 212
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4c893c9a3f67f39d2946908b4f7fad717aafc43b",
