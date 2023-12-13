@@ -5178,7 +5178,10 @@
         ],
         "holders": {
             "ETH": 7
-        }
+        },
+        "web_domains": [
+            "tokenlabot.xyz"
+        ]
     },
     {
         "contract_address": "0x967de5e40a0c501276c73967d046d981dbd5128c",
@@ -5401,7 +5404,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 136
-        }
+        },
+        "web_domains": [
+            "glitch.com"
+        ]
     },
     {
         "contract_address": "0xade00c28244d5ce17d72e40330b1c318cd12b7c3",
