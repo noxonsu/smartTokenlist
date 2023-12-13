@@ -47,9 +47,16 @@ def extract_telegram_links(html_content):
 
 def exctract_email(html_content):
     soup = BeautifulSoup(html_content, 'html.parser')
-    regex = re.compile(r"[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}")
-    email = soup.find(string=regex)
-    return email
+    # Regex to match email addresses
+    regex = re.compile(r"\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}\b")
+
+    # Searching only within certain tags
+    for tag in soup.find_all(['p', 'div', 'a']):
+        email = tag.find(string=regex)
+        if email:
+            return email
+
+    return None
 
 def save_summary_and_proposal(contract_address, summary):
     if not os.path.exists('summaries'):
@@ -101,7 +108,8 @@ def process_sites(data, sites_without_summary):
                     # Combine existing and new email addresses, ensuring no duplicates
                     existing_emails = set(entry.get('emails', []))
                     existing_emails.add(email)
-                    entry['emails'] = list(existing_emails)
+                    if email != None and len(email) > 0 and len(email) < 60:
+                        entry['emails'] = list(existing_emails)
                     entry['p6'] = True       
         except Exception as e:
             print(f"Failed to process site {site} due to error: {str(e)}")
