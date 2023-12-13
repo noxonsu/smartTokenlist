@@ -6217,7 +6217,15 @@
         ],
         "holders": {
             "ETH": 217
-        }
+        },
+        "telegram_groups": [
+            "SolSniper_bot",
+            "SolSniperPortal"
+        ],
+        "emails": [
+            "Team@SolSniperBot.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x41a3dba3d677e573636ba691a70ff2d606c29666",
@@ -6279,7 +6287,8 @@
         ],
         "holders": {
             "ETH": 240
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x37ac5730cfb1549715647828a05b3a8ed781134b",
@@ -6292,7 +6301,8 @@
         ],
         "holders": {
             "ETH": 356
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0af55d5ff28a3269d69b98680fd034f115dd53ac",
@@ -6323,7 +6333,11 @@
         },
         "web_domains": [
             "masterdex.xyz"
-        ]
+        ],
+        "telegram_groups": [
+            "masterdex_xyz"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xfe1b621235227bfa14ed81be2ba4e5e4447b52c0",
@@ -6333,7 +6347,9 @@
         ],
         "holders": {
             "ETH": 288
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xaaa9214f675316182eaa21c85f0ca99160cc3aaa",
@@ -6353,7 +6369,11 @@
         ],
         "holders": {
             "ETH": 468
-        }
+        },
+        "emails": [
+            "info@aggregatorai.org"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xeb953eda0dc65e3246f43dc8fa13f35623bdd5ed",
