@@ -4598,7 +4598,14 @@
         },
         "web_domains": [
             "avatly.com"
-        ]
+        ],
+        "telegram_groups": [
+            "avatly_com"
+        ],
+        "emails": [
+            "designers@avatly.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x29c1af106acb007de4977af254af77939250f6bb",
@@ -4608,7 +4615,12 @@
         },
         "web_domains": [
             "fasb.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "\n        var S3BucketBaseUrl = 'https://d2x0djib3vzbzj.cloudfront.net',\n            FAF_AF_Environment = 'https://accountingfoundation.org',\n            gasbBaseUrl = 'gasb.org',\n            fasbBaseUrl = 'fasb.org',\n            fafBaseUrl = 'accountingfoundation.org';\n            ascBaseUrl = 'asc.fasb.org';\n        garsBaseUrl = 'gars.gasb.org';\n         var feedbackSubmitEmailId = 'webmaster@fasb.org';\n\n    "
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7824ab1b912dcb5fe7a8b8116dc6c8fdb6e75cae",
@@ -4677,7 +4689,11 @@
         ],
         "holders": {
             "ETH": 437
-        }
+        },
+        "emails": [
+            null
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0741cbaaa398be1e3a2c5bb21f77e89c2e24b4d5",
@@ -4700,7 +4716,11 @@
         ],
         "holders": {
             "ETH": 2
-        }
+        },
+        "emails": [
+            null
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1e241521f4767853b376c2fe795a222a07d588ee",
@@ -4713,14 +4733,19 @@
         "contract_address": "0xa07d22fc2987a32a3e0dd416740d741621fbef62",
         "sourceScanned": "processed",
         "telegram_groups": [
-            "ZKEVMERC"
+            "ZKEVMERC",
+            "polygonofficial"
         ],
         "holders": {
             "ETH": 242
         },
         "web_domains": [
             "polygon.technology"
-        ]
+        ],
+        "emails": [
+            null
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x024a4e79996394533f5695dca00dcf929449f83b",
@@ -4734,7 +4759,11 @@
         ],
         "holders": {
             "ETH": 7
-        }
+        },
+        "emails": [
+            null
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x726b16a1e4629415fd039becd63fd5d6b3f0cddd",
