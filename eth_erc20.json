@@ -5431,7 +5431,9 @@
         },
         "web_domains": [
             "glitch.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xade00c28244d5ce17d72e40330b1c318cd12b7c3",
@@ -5496,7 +5498,8 @@
         ],
         "holders": {
             "ETH": 83
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1623f6d72eac65fdf215b801e12cd0a3de00f89b",
@@ -5569,7 +5572,8 @@
         ],
         "holders": {
             "ETH": 21
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1985365e9f78359a9b6ad760e32412f4a445e862",
