@@ -3909,7 +3909,11 @@
         ],
         "holders": {
             "ETH": 1239
-        }
+        },
+        "telegram_groups": [
+            "PeapodsFinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xcc22a1aac30d7042dd9cf3664e7b4e389ef394c0",
@@ -5174,6 +5178,7 @@
         "contract_address": "0x0737f34c5c591dd9d6c2b8797f5f9d75ea44efb1",
         "sourceScanned": "processed",
         "telegram_groups": [
+            "TokenLab_Bot",
             "TokenlabErc"
         ],
         "holders": {
@@ -5181,7 +5186,8 @@
         },
         "web_domains": [
             "tokenlabot.xyz"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x967de5e40a0c501276c73967d046d981dbd5128c",
@@ -5201,7 +5207,13 @@
         ],
         "holders": {
             "ETH": 109
-        }
+        },
+        "telegram_groups": [
+            "JRNY_Ai_Bot",
+            "JRNY_SNIPER_BOT",
+            "JourneyAiPortal"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdd7819eb2370d3f58b9435a5dd7738679ea72171",
@@ -5210,11 +5222,13 @@
             "ribbita.com"
         ],
         "telegram_groups": [
-            "Ribbita_Eth"
+            "Ribbita_Eth",
+            "Ribbita_eth"
         ],
         "holders": {
             "ETH": 126
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9e5c080a17b8ba3713f76384cd3f6825d8f97ec3",
@@ -5267,11 +5281,13 @@
             "anonymchain.live"
         ],
         "telegram_groups": [
+            "anonymbot_abe",
             "anonym_chain"
         ],
         "holders": {
             "ETH": 360
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
@@ -5295,7 +5311,11 @@
         ],
         "holders": {
             "ETH": 80
-        }
+        },
+        "emails": [
+            "info@NeuralNetizan.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdbb20a979a92cccce15229e41c9b082d5b5d7e31",
@@ -5305,7 +5325,11 @@
         ],
         "holders": {
             "ETH": 66
-        }
+        },
+        "telegram_groups": [
+            "PeapodsFinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xcc4304a31d09258b0029ea7fe63d032f52e44efe",
