@@ -4352,11 +4352,16 @@
             "aimage.tools"
         ],
         "telegram_groups": [
+            "AiMageToolsBot",
             "AiMageTools"
         ],
         "holders": {
             "ETH": 450
-        }
+        },
+        "emails": [
+            null
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x373c2042f33f80e0c3a051c1fa3a660ec979f350",
