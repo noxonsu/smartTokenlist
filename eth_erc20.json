@@ -5773,7 +5773,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 3
-        }
+        },
+        "web_domains": [
+            "memekombat.io"
+        ]
     },
     {
         "contract_address": "0xc221b7e65ffc80de234bbb6667abdd46593d34f0",
@@ -6111,7 +6114,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 0
-        }
+        },
+        "web_domains": [
+            "metapunk.to"
+        ]
     },
     {
         "contract_address": "0xa2fe5e51729be71261bcf42854012827bc44c044",
@@ -6141,7 +6147,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 76
-        }
+        },
+        "web_domains": [
+            "larvalabs.com"
+        ]
     },
     {
         "contract_address": "0x0a0157979312a9975acdd1b0b4597a51c7d78323",
