@@ -6130,7 +6130,9 @@
         },
         "web_domains": [
             "metapunk.to"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa2fe5e51729be71261bcf42854012827bc44c044",
@@ -6163,7 +6165,9 @@
         },
         "web_domains": [
             "larvalabs.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0a0157979312a9975acdd1b0b4597a51c7d78323",
