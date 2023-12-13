@@ -3913,7 +3913,9 @@
         "telegram_groups": [
             "PeapodsFinance"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xcc22a1aac30d7042dd9cf3664e7b4e389ef394c0",
@@ -5187,7 +5189,9 @@
         "web_domains": [
             "tokenlabot.xyz"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: The chat_id \"TokenLab_Bot\" belongs to a user"
     },
     {
         "contract_address": "0x967de5e40a0c501276c73967d046d981dbd5128c",
@@ -5213,7 +5217,9 @@
             "JRNY_SNIPER_BOT",
             "JourneyAiPortal"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: The chat_id \"JRNY_Ai_Bot\" belongs to a user"
     },
     {
         "contract_address": "0xdd7819eb2370d3f58b9435a5dd7738679ea72171",
@@ -5228,7 +5234,9 @@
         "holders": {
             "ETH": 126
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x9e5c080a17b8ba3713f76384cd3f6825d8f97ec3",
@@ -5287,7 +5295,9 @@
         "holders": {
             "ETH": 360
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
@@ -5315,7 +5325,9 @@
         "emails": [
             "info@NeuralNetizan.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0xdbb20a979a92cccce15229e41c9b082d5b5d7e31",
@@ -5329,7 +5341,9 @@
         "telegram_groups": [
             "PeapodsFinance"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xcc4304a31d09258b0029ea7fe63d032f52e44efe",
@@ -5499,7 +5513,9 @@
         "holders": {
             "ETH": 83
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x1623f6d72eac65fdf215b801e12cd0a3de00f89b",
@@ -5573,7 +5589,9 @@
         "holders": {
             "ETH": 21
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x1985365e9f78359a9b6ad760e32412f4a445e862",
