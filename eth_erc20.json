@@ -9058,7 +9058,8 @@
         ],
         "holders": {
             "ETH": 74
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x83fa5ec4aa9841845a58a1ba052a735e0c726f8b",
@@ -9071,7 +9072,8 @@
         ],
         "holders": {
             "ETH": 80
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb5acef11b4530a0dfe1b5c53d0e3aeac23e6f307",
@@ -9081,7 +9083,11 @@
         ],
         "holders": {
             "ETH": 38
-        }
+        },
+        "telegram_groups": [
+            "lendrnetwork"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x886f29b6e0a0461cb5ac6baf55ae0033cffc48eb",
@@ -9091,7 +9097,11 @@
         ],
         "holders": {
             "ETH": 258
-        }
+        },
+        "telegram_groups": [
+            "lendrnetwork"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe0c8b298db4cffe05d1bea0bb1ba414522b33c1b",
@@ -9158,10 +9168,15 @@
             "bitnex.tech"
         ],
         "telegram_groups": [
-            "bitnex_portal"
+            "bitnex_portal",
+            "bitnexai_bot"
         ],
         "holders": {
             "ETH": 356
-        }
+        },
+        "emails": [
+            "Bitnex AI \u00a9 2023. marketing@bitnex.tech"
+        ],
+        "p6": true
     }
 ]
