@@ -9210,7 +9210,8 @@
         ],
         "holders": {
             "ETH": 428
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1a6658f40e51b372e593b7d2144c1402d5cf33e8",
@@ -9230,7 +9231,9 @@
         ],
         "holders": {
             "ETH": 29
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9fa69536d1cda4a04cfb50688294de75b505a9ae",
@@ -9295,7 +9298,8 @@
         ],
         "holders": {
             "ETH": 46
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2f109021afe75b949429fe30523ee7c0d5b27207",
@@ -9335,7 +9339,8 @@
         ],
         "holders": {
             "ETH": 194
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5a3e6a77ba2f983ec0d371ea3b475f8bc0811ad5",
@@ -9396,7 +9401,9 @@
         ],
         "holders": {
             "ETH": 114
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc4d52454f8c0679f4f5ff32b7a41c1d67a357508",
@@ -9439,7 +9446,11 @@
         ],
         "holders": {
             "ETH": 101
-        }
+        },
+        "emails": [
+            "support@betafi.online"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7beaa31dd480ba1af4b3ce2b0eebcf6e4f15f461",
