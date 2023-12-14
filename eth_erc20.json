@@ -8509,7 +8509,9 @@
         "telegram_groups": [
             "joinchat"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't find chat"
     },
     {
         "contract_address": "0x016c4225ae87fec52a5230158fb9df7f93b87921",
@@ -8526,7 +8528,9 @@
         "emails": [
             "venturaerc20@ventura-chain.tech"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x425257b59a884c472fd255d663b1d80f7cc9da9b",
@@ -8567,12 +8571,14 @@
             "dadaerc.com"
         ],
         "telegram_groups": [
-            "DADA_ERC"
+            "DADA_ERC20"
         ],
         "holders": {
             "ETH": 179
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x42bbfa2e77757c645eeaad1655e0911a7553efbc",
@@ -8594,7 +8600,9 @@
         "holders": {
             "ETH": 66
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xa65e154b3080a1776754a76ce02dfcb48a8593c4",
@@ -8612,7 +8620,9 @@
         "holders": {
             "ETH": 328
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xb627a1bf727f578384ba18b2a2b46f4fb924ab3b",
@@ -8646,7 +8656,9 @@
         "emails": [
             "contact@saitamaclassic.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large1261"
     },
     {
         "contract_address": "0xba5bde662c17e2adff1075610382b9b691296350",
@@ -8694,7 +8706,9 @@
         "telegram_groups": [
             "rainicornchat"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large1408"
     },
     {
         "contract_address": "0xf4979e81acbe821c29555d6d555f809d0d1119e8",
