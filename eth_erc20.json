@@ -7425,7 +7425,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 49
-        }
+        },
+        "web_domains": [
+            "aboutmfers.com"
+        ]
     },
     {
         "contract_address": "0xdf4f3749bb4e96bf91a67c7e873d9c04198d924a",
@@ -7598,7 +7601,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 182
-        }
+        },
+        "web_domains": [
+            "velocemediagroup.com"
+        ]
     },
     {
         "contract_address": "0xf9ac789984560cedc0d74982c81f8091da7a3887",
