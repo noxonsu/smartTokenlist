@@ -5874,7 +5874,10 @@
         },
         "p6": true,
         "myuser": 6761555344,
-        "tgGroupJoined": "error: Can't send messages"
+        "tgGroupJoined": "error: Can't send messages",
+        "emails": [
+            "mail@poodle.com."
+        ]
     },
     {
         "contract_address": "0x9c354503c38481a7a7a51629142963f98ecc12d0",
@@ -9944,7 +9947,8 @@
         ],
         "holders": {
             "ETH": 90
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe574c0c33a7a67d9b09f9f0addbb3dca71a8f3e0",
@@ -9972,11 +9976,16 @@
             "youtube.com"
         ],
         "telegram_groups": [
+            "OrdinalsFiBot",
             "OrdinalsFi"
         ],
         "holders": {
             "ETH": 341
-        }
+        },
+        "emails": [
+            "admin@ordinalsfi.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb56bc57eba2f5f4808162326575e9af63c759bcd",
@@ -9989,7 +9998,8 @@
         ],
         "holders": {
             "ETH": 362
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa187927c9185108458647aeec193ef4a62d3bd80",
@@ -9999,7 +10009,14 @@
         },
         "web_domains": [
             "metaminigames.com"
-        ]
+        ],
+        "telegram_groups": [
+            "MetaMinigames"
+        ],
+        "emails": [
+            "admin@metaminigames.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3d6bc3c7e9436f9f2ee5b3f567d24cdaa44953fd",
@@ -10009,7 +10026,9 @@
         },
         "web_domains": [
             "etherscan.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8d4d1baca960aa9ee2329ece1e61298fff6f3d18",
@@ -10022,7 +10041,11 @@
         ],
         "holders": {
             "ETH": 195
-        }
+        },
+        "emails": [
+            "mail@poodle.com."
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf1182229b71e79e504b1d2bf076c15a277311e05",
