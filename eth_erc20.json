@@ -8502,7 +8502,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 47
-        }
+        },
+        "web_domains": [
+            "layerzero.network"
+        ]
     },
     {
         "contract_address": "0x016c4225ae87fec52a5230158fb9df7f93b87921",
@@ -8542,7 +8545,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 13
-        }
+        },
+        "web_domains": [
+            "avive.life"
+        ]
     },
     {
         "contract_address": "0x56e49db030852bd274f7cd9c4d76d30cf63f474f",
@@ -8659,7 +8665,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 88
-        }
+        },
+        "web_domains": [
+            "raini.io"
+        ]
     },
     {
         "contract_address": "0xf4979e81acbe821c29555d6d555f809d0d1119e8",
@@ -8687,7 +8696,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 93
-        }
+        },
+        "web_domains": [
+            "ring.exchange"
+        ]
     },
     {
         "contract_address": "0x1e4746dc744503b53b4a082cb3607b169a289090",
@@ -8743,6 +8755,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 57
-        }
+        },
+        "web_domains": [
+            "prismafinance.app"
+        ]
     }
 ]
