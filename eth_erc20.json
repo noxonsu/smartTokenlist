@@ -6895,12 +6895,13 @@
             "DreamGen.app"
         ],
         "telegram_groups": [
-            "DreamGenPortal",
-            "DreamGenETHBot"
+            "DreamGenETHBot",
+            "DreamGenPortal"
         ],
         "holders": {
             "ETH": 124
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7f1eefe4c1f9b170de65e1982f2281cb743f7f42",
@@ -6916,11 +6917,13 @@
             "paca.digital"
         ],
         "telegram_groups": [
+            "pacacentral",
             "pacacoineth"
         ],
         "holders": {
             "ETH": 164
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x12b6893ce26ea6341919fe289212ef77e51688c8",
@@ -6943,11 +6946,13 @@
             "theglitcheth.com"
         ],
         "telegram_groups": [
-            "TheGlitchEntry"
+            "TheGlitchEntry",
+            "TheGlitchAIBot"
         ],
         "holders": {
             "ETH": 73
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x607f4c5bb672230e8672085532f7e901544a7375",
