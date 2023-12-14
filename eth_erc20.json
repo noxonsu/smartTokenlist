@@ -9996,14 +9996,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 260
-        }
+        },
+        "web_domains": [
+            "metaminigames.com"
+        ]
     },
     {
         "contract_address": "0x3d6bc3c7e9436f9f2ee5b3f567d24cdaa44953fd",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 17
-        }
+        },
+        "web_domains": [
+            "etherscan.io"
+        ]
     },
     {
         "contract_address": "0x8d4d1baca960aa9ee2329ece1e61298fff6f3d18",
@@ -10171,7 +10177,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 250
-        }
+        },
+        "web_domains": [
+            "bonk.io"
+        ]
     },
     {
         "contract_address": "0x08389495d7456e1951ddf7c3a1314a4bfb646d8b",
