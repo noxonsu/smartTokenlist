@@ -6986,11 +6986,16 @@
             "olaf-erc.com"
         ],
         "telegram_groups": [
-            "olaferc20"
+            "olaferc20",
+            "OLAF"
         ],
         "holders": {
             "ETH": 129
-        }
+        },
+        "emails": [
+            "dev@olaf-erc.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xfc355558272a97403fe89edd1831d64ad2e94088",
@@ -7003,7 +7008,8 @@
         ],
         "holders": {
             "ETH": 175
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5dcd6272c3cbb250823f0b7e6c618bce11b21f90",
@@ -7030,7 +7036,11 @@
         ],
         "holders": {
             "ETH": 39
-        }
+        },
+        "emails": [
+            "admin@sparkai.life"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xeb55ad3f84c75960aba35143bc7128f0bcdfc0ef",
@@ -7141,7 +7151,14 @@
         ],
         "holders": {
             "ETH": 114
-        }
+        },
+        "telegram_groups": [
+            "PROOFPlatform"
+        ],
+        "emails": [
+            "hi@proofplatform.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9360c489056b64d5003bf22f4f31458e31cc8028",
@@ -7161,7 +7178,11 @@
         ],
         "holders": {
             "ETH": 210
-        }
+        },
+        "emails": [
+            "iswe@istandwithelonmusk.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc7f950271d118a5bdf250dffc39128dcced8472c",
@@ -7194,7 +7215,8 @@
         ],
         "holders": {
             "ETH": 202
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xbd2949f67dcdc549c6ebe98696449fa79d988a9f",
