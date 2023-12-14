@@ -6655,7 +6655,8 @@
         ],
         "holders": {
             "ETH": 181
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x12ef3803d6b0c037acdb33adb7240a2347135fec",
@@ -6668,7 +6669,8 @@
         ],
         "holders": {
             "ETH": 260
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9aab071b4129b083b01cb5a0cb513ce7eca26fa5",
@@ -6708,7 +6710,11 @@
         ],
         "holders": {
             "ETH": 82
-        }
+        },
+        "emails": [
+            "INFO@PEPECHRISTMAS.VIP"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd2bdaaf2b9cc6981fd273dcb7c04023bfbe0a7fe",
@@ -6756,7 +6762,8 @@
         ],
         "holders": {
             "ETH": 1
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc1dd3f011290f212227170f0d02f511ebf57e433",
@@ -6776,7 +6783,8 @@
         ],
         "holders": {
             "ETH": 130
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3cbb7f5d7499af626026e96a2f05df806f2200dc",
@@ -6872,12 +6880,13 @@
             "dapp.offthechart.app"
         ],
         "telegram_groups": [
-            "OffTheChartERC",
-            "offthechartbot"
+            "offthechartbot",
+            "OffTheChartERC"
         ],
         "holders": {
             "ETH": 231
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x125e4a43e5a4d310aff04b77a6b19cc238454b36",
