@@ -9563,7 +9563,9 @@
         "holders": {
             "ETH": 364
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large1472"
     },
     {
         "contract_address": "0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5",
@@ -9619,7 +9621,9 @@
         "holders": {
             "ETH": 259
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x6226e00bcac68b0fe55583b90a1d727c14fab77f",
@@ -9689,7 +9693,9 @@
         "holders": {
             "ETH": 12
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x720cd16b011b987da3518fbf38c3071d4f0d1495",
@@ -9753,7 +9759,9 @@
         "holders": {
             "ETH": 213
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x20121fa4244cdac7e5ee56d781c672f1dc09a461",
@@ -9767,7 +9775,9 @@
         "holders": {
             "ETH": 349
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0xccc8cb5229b0ac8069c51fd58367fd1e622afd97",
@@ -9849,7 +9859,9 @@
         "emails": [
             "Team@paladinai.xyz"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: The chat_id \"PaladinAI_Bot\" belongs to a user"
     },
     {
         "contract_address": "0x4a527d8fc13c5203ab24ba0944f4cb14658d1db6",
