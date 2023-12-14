@@ -8222,7 +8222,9 @@
         ],
         "holders": {
             "ETH": 17
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x76e222b07c53d28b89b0bac18602810fc22b49a8",
@@ -8248,7 +8250,8 @@
         ],
         "holders": {
             "ETH": 27
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xedadeb5faa413e6c8623461849dfd0b7c3790c32",
@@ -8298,7 +8301,9 @@
         ],
         "holders": {
             "ETH": 59
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x396de8bb0a1745b531bf5cd5952539a1b5fe66e0",
@@ -8332,12 +8337,14 @@
             "whois-ai-search.gitbook.io"
         ],
         "telegram_groups": [
-            "WHOISPortal",
-            "WHOIS_AI_Search_Bot"
+            "WHOIS_AI_Search_Bot",
+            "WHOISPortalNew",
+            "WHOISPortal"
         ],
         "holders": {
             "ETH": 153
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x070e984fda37dd942f5c953f6b2375339adac308",
@@ -8380,11 +8387,16 @@
             "www.sentiment-ai.xyz"
         ],
         "telegram_groups": [
-            "Sentiment_AI_portal"
+            "Sentiment_AI_portal",
+            "sentimentaiportal"
         ],
         "holders": {
             "ETH": 450
-        }
+        },
+        "emails": [
+            "Sentimentaixyz@proton.me"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4c601dc69affb0d4fc8de1ac303705e432a4a27e",
