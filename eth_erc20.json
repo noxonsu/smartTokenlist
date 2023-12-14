@@ -8052,7 +8052,11 @@
         },
         "web_domains": [
             "dfx.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "DFX_Finance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xee309d1c4dcd289ee93ebd456e491d51539503e4",
@@ -8065,7 +8069,9 @@
         },
         "web_domains": [
             "hiddenhand.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x888888435fde8e7d4c54cab67f206e4199454c60",
@@ -8113,7 +8119,8 @@
         ],
         "holders": {
             "ETH": 348
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd767f539778dac02719207a05783252f20c32624",
@@ -8126,7 +8133,8 @@
         ],
         "holders": {
             "ETH": 110
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x12e2dbdfb3be6f0d70d4c20a2d250a70c2917eb1",
@@ -8153,7 +8161,11 @@
         ],
         "holders": {
             "ETH": 20
-        }
+        },
+        "telegram_groups": [
+            "PeapodsFinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3bb1be14b122edec3f10356298e9b3276d93caf6",
@@ -8183,11 +8195,13 @@
             "hackertdog.vip"
         ],
         "telegram_groups": [
-            "HackerTDogEth"
+            "HackerTDogEth",
+            "hackertdogeth"
         ],
         "holders": {
             "ETH": 452
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6103e0c7b377e69f9e2aa70c5177f8e21ce5b8d8",
