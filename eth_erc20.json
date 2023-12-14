@@ -9211,7 +9211,9 @@
         "holders": {
             "ETH": 428
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x1a6658f40e51b372e593b7d2144c1402d5cf33e8",
@@ -9299,7 +9301,9 @@
         "holders": {
             "ETH": 46
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x2f109021afe75b949429fe30523ee7c0d5b27207",
@@ -9340,7 +9344,9 @@
         "holders": {
             "ETH": 194
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x5a3e6a77ba2f983ec0d371ea3b475f8bc0811ad5",
@@ -9450,7 +9456,9 @@
         "emails": [
             "support@betafi.online"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x7beaa31dd480ba1af4b3ce2b0eebcf6e4f15f461",
@@ -9466,7 +9474,9 @@
         "holders": {
             "ETH": 206
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xce0bd0de35a39508916e1f63fbdaf15221c66d18",
@@ -9497,7 +9507,9 @@
         "telegram_groups": [
             "StakeStone"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large1024"
     },
     {
         "contract_address": "0xbf1733b324734f89ac7cacb0d62f0706c8bdde97",
