@@ -7428,7 +7428,9 @@
         },
         "web_domains": [
             "aboutmfers.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xdf4f3749bb4e96bf91a67c7e873d9c04198d924a",
@@ -7448,7 +7450,8 @@
         ],
         "holders": {
             "ETH": 17
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xfad45e47083e4607302aa43c65fb3106f1cd7607",
@@ -7468,7 +7471,8 @@
         ],
         "holders": {
             "ETH": 35
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x81db1949d0e888557bc632f7c0f6698b1f8c9106",
@@ -7519,7 +7523,8 @@
         ],
         "holders": {
             "ETH": 137
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x580e933d90091b9ce380740e3a4a39c67eb85b4c",
@@ -7577,7 +7582,11 @@
         ],
         "holders": {
             "ETH": 232
-        }
+        },
+        "emails": [
+            "admin@blacklatexfist.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x239015de0f0121f2c80134558decbba75ea056c6",
@@ -7587,7 +7596,9 @@
         ],
         "holders": {
             "ETH": 448
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa35b1b31ce002fbf2058d22f30f95d405200a15b",
