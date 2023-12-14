@@ -8505,7 +8505,11 @@
         },
         "web_domains": [
             "layerzero.network"
-        ]
+        ],
+        "telegram_groups": [
+            "joinchat"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x016c4225ae87fec52a5230158fb9df7f93b87921",
@@ -8518,7 +8522,11 @@
         ],
         "holders": {
             "ETH": 319
-        }
+        },
+        "emails": [
+            "venturaerc20@ventura-chain.tech"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x425257b59a884c472fd255d663b1d80f7cc9da9b",
@@ -8548,7 +8556,9 @@
         },
         "web_domains": [
             "avive.life"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x56e49db030852bd274f7cd9c4d76d30cf63f474f",
@@ -8561,7 +8571,8 @@
         ],
         "holders": {
             "ETH": 179
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x42bbfa2e77757c645eeaad1655e0911a7553efbc",
@@ -8582,7 +8593,8 @@
         ],
         "holders": {
             "ETH": 66
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa65e154b3080a1776754a76ce02dfcb48a8593c4",
@@ -8593,11 +8605,14 @@
             "app.PokeCards.live"
         ],
         "telegram_groups": [
+            "pokecardsitems",
+            "PokeCardsDexBot",
             "PokeCardsERC"
         ],
         "holders": {
             "ETH": 328
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb627a1bf727f578384ba18b2a2b46f4fb924ab3b",
