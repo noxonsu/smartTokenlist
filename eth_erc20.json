@@ -7675,7 +7675,9 @@
         "holders": {
             "ETH": 95
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x78a0a62fba6fb21a83fe8a3433d44c73a4017a6f",
@@ -7805,7 +7807,9 @@
         "holders": {
             "ETH": 139
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xe8e8127dec298a7004c52ce9a6397618b18764ac",
@@ -7829,7 +7833,9 @@
         "holders": {
             "ETH": 91
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xf2ec4a773ef90c58d98ea734c0ebdb538519b988",
@@ -7856,7 +7862,9 @@
         "holders": {
             "ETH": 152
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x71e50dc4817b4b9e9525e0b12f10bc36cebe7a33",
@@ -7986,7 +7994,9 @@
         "holders": {
             "ETH": 146
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x3597bfd533a99c9aa083587b074434e61eb0a258",
