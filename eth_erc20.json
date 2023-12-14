@@ -7615,7 +7615,12 @@
         },
         "web_domains": [
             "velocemediagroup.com"
-        ]
+        ],
+        "telegram_groups": [
+            "vextoken_community",
+            "vextoken"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf9ac789984560cedc0d74982c81f8091da7a3887",
@@ -7624,11 +7629,13 @@
             "victusfi.site"
         ],
         "telegram_groups": [
+            "dtechportal",
             "VictusFi"
         ],
         "holders": {
             "ETH": 44
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xcdf7028ceab81fa0c6971208e83fa7872994bee5",
