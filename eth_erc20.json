@@ -8817,7 +8817,9 @@
         "holders": {
             "ETH": 112
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x7b37a55ffb30c11d95f943672ae98f28cfb7b087",
@@ -8925,7 +8927,9 @@
         "holders": {
             "ETH": 57
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xc1c146e09640fe9e5d670288cc43c6269949d9a1",
@@ -8974,7 +8978,9 @@
         "telegram_groups": [
             "aiisdev"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x455e53cbb86018ac2b8092fdcd39d8444affc3f6",
@@ -9002,7 +9008,9 @@
         "telegram_groups": [
             "ape_bond"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large18604"
     },
     {
         "contract_address": "0x439b151fc1d2900be53c82867d2adf75538945f0",
@@ -9017,7 +9025,9 @@
         "holders": {
             "ETH": 52
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xfa14fa6958401314851a17d6c5360ca29f74b57b",
@@ -9059,7 +9069,9 @@
         "holders": {
             "ETH": 74
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x83fa5ec4aa9841845a58a1ba052a735e0c726f8b",
@@ -9073,7 +9085,9 @@
         "holders": {
             "ETH": 80
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xb5acef11b4530a0dfe1b5c53d0e3aeac23e6f307",
@@ -9087,7 +9101,9 @@
         "telegram_groups": [
             "lendrnetwork"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large10901"
     },
     {
         "contract_address": "0x886f29b6e0a0461cb5ac6baf55ae0033cffc48eb",
@@ -9101,7 +9117,9 @@
         "telegram_groups": [
             "lendrnetwork"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Chat is too large10901"
     },
     {
         "contract_address": "0xe0c8b298db4cffe05d1bea0bb1ba414522b33c1b",
@@ -9177,6 +9195,8 @@
         "emails": [
             "Bitnex AI \u00a9 2023. marketing@bitnex.tech"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6761555344,
+        "tgGroupJoined": "error: Can't send messages"
     }
 ]
