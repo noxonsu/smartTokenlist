@@ -9465,7 +9465,8 @@
         ],
         "holders": {
             "ETH": 206
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xce0bd0de35a39508916e1f63fbdaf15221c66d18",
@@ -9492,7 +9493,11 @@
         },
         "web_domains": [
             "stakestone.io"
-        ]
+        ],
+        "telegram_groups": [
+            "StakeStone"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbf1733b324734f89ac7cacb0d62f0706c8bdde97",
