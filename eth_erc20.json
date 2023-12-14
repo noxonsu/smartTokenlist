@@ -9198,5 +9198,300 @@
         "p6": true,
         "myuser": 6761555344,
         "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0x2ef8a2ccb058915e00e16aa13cc6e36f19d8893b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "validao.xyz"
+        ],
+        "telegram_groups": [
+            "validao_official"
+        ],
+        "holders": {
+            "ETH": 428
+        }
+    },
+    {
+        "contract_address": "0x1a6658f40e51b372e593b7d2144c1402d5cf33e8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 210
+        }
+    },
+    {
+        "contract_address": "0xb286b140018247740aafb0e9019ad933ad7ef161",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools"
+        ],
+        "holders": {
+            "ETH": 29
+        }
+    },
+    {
+        "contract_address": "0x9fa69536d1cda4a04cfb50688294de75b505a9ae",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11874
+        }
+    },
+    {
+        "contract_address": "0xa3c31927a092bd54eb9a0b5dfe01d9db5028bd4f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "espressobot.xyz",
+            "espressobot.gitbook.io"
+        ],
+        "telegram_groups": [
+            "espressoTGbot"
+        ],
+        "holders": {
+            "ETH": 2107
+        }
+    },
+    {
+        "contract_address": "0x137ddb47ee24eaa998a535ab00378d6bfa84f893",
+        "sourceScanned": "processed",
+        "emails": [
+            "goncalo.sa@consensys.net"
+        ],
+        "holders": {
+            "ETH": 557
+        }
+    },
+    {
+        "contract_address": "0xcb84d72e61e383767c4dfeb2d8ff7f4fb89abc6e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5645
+        }
+    },
+    {
+        "contract_address": "0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 153
+        }
+    },
+    {
+        "contract_address": "0xdb0f18081b505a7de20b18ac41856bcb4ba86a1a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 441
+        }
+    },
+    {
+        "contract_address": "0x5c5eecd7b2fedb14f9ab81b37436a101ecb1dbd9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "rereerc20.xyz"
+        ],
+        "telegram_groups": [
+            "RERE_Portal"
+        ],
+        "holders": {
+            "ETH": 46
+        }
+    },
+    {
+        "contract_address": "0x2f109021afe75b949429fe30523ee7c0d5b27207",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9036
+        }
+    },
+    {
+        "contract_address": "0xd7efb00d12c2c13131fd319336fdf952525da2af",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13960
+        }
+    },
+    {
+        "contract_address": "0xc8168d5665f4418353728ac970713e09c0b7c20e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "monkecoin.fun"
+        ],
+        "telegram_groups": [
+            "MonkeCoin69"
+        ],
+        "holders": {
+            "ETH": 1121
+        }
+    },
+    {
+        "contract_address": "0x863aa4a95e9967c87f09b84392780bc8dd376fd7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.ordinal-grok.com"
+        ],
+        "telegram_groups": [
+            "OrdinalGrok_Portal"
+        ],
+        "holders": {
+            "ETH": 194
+        }
+    },
+    {
+        "contract_address": "0x5a3e6a77ba2f983ec0d371ea3b475f8bc0811ad5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "0x0.ai"
+        ],
+        "telegram_groups": [
+            "Portal0x0"
+        ],
+        "holders": {
+            "ETH": 15079
+        }
+    },
+    {
+        "contract_address": "0xed1273928ba97eed7b49e82c2f39d512d7591112",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1574
+        }
+    },
+    {
+        "contract_address": "0xa0e7626287bd02cbe3531c65148261bf0c0ed98b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 180
+        }
+    },
+    {
+        "contract_address": "0xa02120696c7b8fe16c09c749e4598819b2b0e915",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 950
+        }
+    },
+    {
+        "contract_address": "0x3684b581db1f94b721ee0022624329feb16ab653",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7078
+        }
+    },
+    {
+        "contract_address": "0xe0eaf6a1e7f82d041eaff1e6df2155426d92146a",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "digitamazonsrobotcoin"
+        ],
+        "holders": {
+            "ETH": 43
+        }
+    },
+    {
+        "contract_address": "0x6422542365d8c2a22ce32c1c21d1aa14e861ff7d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.createmytoken.com"
+        ],
+        "holders": {
+            "ETH": 114
+        }
+    },
+    {
+        "contract_address": "0xc4d52454f8c0679f4f5ff32b7a41c1d67a357508",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "JunichiSugiuraCoin"
+        ],
+        "holders": {
+            "ETH": 52
+        }
+    },
+    {
+        "contract_address": "0x2162f572b25f7358db9376ab58a947a4e45cede1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 469
+        }
+    },
+    {
+        "contract_address": "0xa965550df0aff0dbc7747ff3e29baab46f8b271c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "TravalaAI.com"
+        ],
+        "telegram_groups": [
+            "TravalaAI"
+        ],
+        "holders": {
+            "ETH": 566
+        }
+    },
+    {
+        "contract_address": "0x1591ec5b515a2a8d8f131431978a53273cae6d93",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.betafi.online"
+        ],
+        "telegram_groups": [
+            "betafiecosystem"
+        ],
+        "holders": {
+            "ETH": 101
+        }
+    },
+    {
+        "contract_address": "0x7beaa31dd480ba1af4b3ce2b0eebcf6e4f15f461",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "swingboterc.com",
+            "swingboterc.gitbook.io",
+            "swingboterc.gitbook.io"
+        ],
+        "telegram_groups": [
+            "swingbotaiportal"
+        ],
+        "holders": {
+            "ETH": 206
+        }
+    },
+    {
+        "contract_address": "0xce0bd0de35a39508916e1f63fbdaf15221c66d18",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0xba100000625a3754423978a60c9317c58a424e3d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 47254
+        }
+    },
+    {
+        "contract_address": "0x7122985656e38bdc0302db86685bb972b145bd3c",
+        "sourceScanned": "processed",
+        "emails": [
+            "goncalo.sa@consensys.net"
+        ],
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0xbf1733b324734f89ac7cacb0d62f0706c8bdde97",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 100
+        }
+    },
+    {
+        "contract_address": "0x343cf59a43bd7ddd38b7236a478139a86a26222b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 551
+        }
     }
 ]
