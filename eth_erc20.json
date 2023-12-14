@@ -8989,7 +8989,10 @@
         ],
         "holders": {
             "ETH": 59
-        }
+        },
+        "web_domains": [
+            "ape.bond"
+        ]
     },
     {
         "contract_address": "0x439b151fc1d2900be53c82867d2adf75538945f0",
@@ -9024,7 +9027,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 262
-        }
+        },
+        "web_domains": [
+            "rebase.ai"
+        ]
     },
     {
         "contract_address": "0x1d763e484bec045c0c7fcf106698229e708f983f",
