@@ -9478,7 +9478,10 @@
         ],
         "holders": {
             "ETH": 18
-        }
+        },
+        "web_domains": [
+            "stakestone.io"
+        ]
     },
     {
         "contract_address": "0xbf1733b324734f89ac7cacb0d62f0706c8bdde97",
