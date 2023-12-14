@@ -8639,7 +8639,14 @@
         ],
         "holders": {
             "ETH": 193
-        }
+        },
+        "telegram_groups": [
+            "saitamaclassicwolfpack"
+        ],
+        "emails": [
+            "contact@saitamaclassic.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xba5bde662c17e2adff1075610382b9b691296350",
@@ -8683,7 +8690,11 @@
         },
         "web_domains": [
             "raini.io"
-        ]
+        ],
+        "telegram_groups": [
+            "rainicornchat"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf4979e81acbe821c29555d6d555f809d0d1119e8",
@@ -8714,7 +8725,9 @@
         },
         "web_domains": [
             "ring.exchange"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x1e4746dc744503b53b4a082cb3607b169a289090",
@@ -8773,6 +8786,8 @@
         },
         "web_domains": [
             "prismafinance.app"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
