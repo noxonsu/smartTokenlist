@@ -8816,7 +8816,8 @@
         ],
         "holders": {
             "ETH": 112
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7b37a55ffb30c11d95f943672ae98f28cfb7b087",
@@ -8923,7 +8924,8 @@
         ],
         "holders": {
             "ETH": 57
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc1c146e09640fe9e5d670288cc43c6269949d9a1",
@@ -8968,7 +8970,11 @@
         ],
         "holders": {
             "ETH": 240
-        }
+        },
+        "telegram_groups": [
+            "aiisdev"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x455e53cbb86018ac2b8092fdcd39d8444affc3f6",
@@ -8992,7 +8998,11 @@
         },
         "web_domains": [
             "ape.bond"
-        ]
+        ],
+        "telegram_groups": [
+            "ape_bond"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x439b151fc1d2900be53c82867d2adf75538945f0",
@@ -9006,7 +9016,8 @@
         ],
         "holders": {
             "ETH": 52
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xfa14fa6958401314851a17d6c5360ca29f74b57b",
@@ -9030,7 +9041,9 @@
         },
         "web_domains": [
             "rebase.ai"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x1d763e484bec045c0c7fcf106698229e708f983f",
