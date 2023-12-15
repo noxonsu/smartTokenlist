@@ -12182,7 +12182,9 @@
         },
         "web_domains": [
             "swellnetwork.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xac440d0ee23fa69632aa731322c2a480dd1376e4",
@@ -12209,7 +12211,12 @@
         ],
         "holders": {
             "ETH": 218
-        }
+        },
+        "telegram_groups": [],
+        "emails": [
+            "contact@smartsettoken.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb1f1ee126e9c96231cc3d3fad7c08b4cf873b1f1",
@@ -12219,7 +12226,11 @@
         },
         "web_domains": [
             "beefy.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "beefyfinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb1f131437e314614313aab3a3016fa05c1b0e087",
@@ -12259,7 +12270,11 @@
         ],
         "holders": {
             "ETH": 67
-        }
+        },
+        "emails": [
+            " Email: team@mayemuskmeme.xyz\n      "
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x58e912c8cdcb2c5a357e7de2307650349d7982b5",
@@ -12295,11 +12310,13 @@
             "www.axailaunch.tech"
         ],
         "telegram_groups": [
-            "AXAI_ERC20"
+            "AXAI_ERC20",
+            "AXAI_ERC"
         ],
         "holders": {
             "ETH": 34
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0f3dee7f3221d64cfb1bf62636e96bbf5ad9a1db",
@@ -12432,7 +12449,9 @@
         },
         "web_domains": [
             "mandoxgem.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x5957c351946d45f74d1a6f034cd9b6ac6654e0d7",
