@@ -10670,7 +10670,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 243
-        }
+        },
+        "web_domains": [
+            "hotelium.io"
+        ]
     },
     {
         "contract_address": "0xa636ee3f2c24748e9fc7fd8b577f7a629e879b45",
@@ -10680,7 +10683,10 @@
         ],
         "holders": {
             "ETH": 283
-        }
+        },
+        "web_domains": [
+            "sybilzero.net"
+        ]
     },
     {
         "contract_address": "0x6d2300d854e6fa6bd053da41468bcdf424869c92",
@@ -10819,7 +10825,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 37
-        }
+        },
+        "web_domains": [
+            "convexfinance.com"
+        ]
     },
     {
         "contract_address": "0xfa87db3eaa93b7293021e38416650d2e666bc483",
