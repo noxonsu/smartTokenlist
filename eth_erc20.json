@@ -12461,7 +12461,14 @@
         ],
         "holders": {
             "ETH": 358
-        }
+        },
+        "telegram_groups": [
+            "unibotsniper_bot",
+            "BananaGunSniper_bot",
+            "CRPortal",
+            "MaestroSniperBot"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x10633216e7e8281e33c86f02bf8e565a635d9770",
