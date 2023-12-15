@@ -10698,7 +10698,11 @@
         },
         "web_domains": [
             "sybilzero.net"
-        ]
+        ],
+        "telegram_groups": [
+            "SybilZero"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6d2300d854e6fa6bd053da41468bcdf424869c92",
@@ -10809,7 +10813,14 @@
         ],
         "holders": {
             "ETH": 236
-        }
+        },
+        "telegram_groups": [
+            "taopad"
+        ],
+        "emails": [
+            "taopadX@proton.me"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x579cea1889991f68acc35ff5c3dd0621ff29b0c9",
@@ -10826,11 +10837,13 @@
             "marksman-app.gitbook.io"
         ],
         "telegram_groups": [
-            "MarksmanPortal"
+            "MarksmanPortal",
+            "BananaGunSniper_bot"
         ],
         "holders": {
             "ETH": 310
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa2847348b58ced0ca58d23c7e9106a49f1427df6",
@@ -10840,7 +10853,14 @@
         },
         "web_domains": [
             "convexfinance.com"
-        ]
+        ],
+        "telegram_groups": [
+            "convexEth"
+        ],
+        "emails": [
+            "contact@convexfinance.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xfa87db3eaa93b7293021e38416650d2e666bc483",
