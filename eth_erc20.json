@@ -10521,7 +10521,8 @@
         ],
         "holders": {
             "ETH": 154
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf49311af05a4ffb1dbf33d61e9b2d4f0a7d4a71c",
@@ -10540,11 +10541,13 @@
             "dogwifhat-xyz.preview-domain.com"
         ],
         "telegram_groups": [
-            "dogwifhatERC"
+            "dogwifhatERC",
+            "dogwifhaterc"
         ],
         "holders": {
             "ETH": 219
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x44aad22afbb2606d7828ca1f8f9e5af00e779ae1",
@@ -10564,7 +10567,8 @@
         ],
         "holders": {
             "ETH": 37
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2e1cfd242e756274a14a29b96cf3bfc9e58301fb",
@@ -10636,11 +10640,13 @@
             "docs.neboola.Ai"
         ],
         "telegram_groups": [
-            "neboolaAi"
+            "neboolaAi",
+            "neboolaai"
         ],
         "holders": {
             "ETH": 307
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc73b2abf61a6ac5a642855beb72adf54ddddb80c",
@@ -10663,7 +10669,8 @@
         ],
         "holders": {
             "ETH": 186
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xfd1c027190418982eeade3a8a091556ae8f0a8c9",
@@ -10673,7 +10680,12 @@
         },
         "web_domains": [
             "hotelium.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "support@planetprogram.pro"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa636ee3f2c24748e9fc7fd8b577f7a629e879b45",
