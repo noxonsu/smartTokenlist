@@ -13272,7 +13272,11 @@
         ],
         "holders": {
             "ETH": 146
-        }
+        },
+        "emails": [
+            "CContac@chipichipichapachapa.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4ff8d76a37d67c53a42b19aadfb8d294e4f1dd98",
@@ -13285,7 +13289,8 @@
         ],
         "holders": {
             "ETH": 372
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb96c7d90eb0d362da23e37223f5817816e4ac240",
@@ -13314,7 +13319,8 @@
         ],
         "holders": {
             "ETH": 74
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7b4328c127b85369d9f82ca0503b000d09cf9180",
