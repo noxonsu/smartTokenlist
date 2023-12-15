@@ -10933,7 +10933,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 2
-        }
+        },
+        "web_domains": [
+            "metafire.one"
+        ]
     },
     {
         "contract_address": "0x0daddb1729a846a75cc89e610eef590ad8b9f7ca",
