@@ -11679,7 +11679,8 @@
         ],
         "holders": {
             "ETH": 46
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7d63644230412e4dc3a2cb9b39056fde05bf383e",
@@ -11740,7 +11741,8 @@
         ],
         "holders": {
             "ETH": 80
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc9ee1c52819fd4ccb5ff727532b2c3b2b6ec0a68",
@@ -11764,7 +11766,21 @@
         },
         "web_domains": [
             "catcoin.io"
-        ]
+        ],
+        "telegram_groups": [
+            "DannyBoy_Cat",
+            "TheCryptoBlast",
+            "solidproof",
+            "im_holding_4lyfe_DHN_CATS",
+            "catcoin_bsc",
+            "acostiofficial",
+            "Reallyethical",
+            "CertiKCommunity"
+        ],
+        "emails": [
+            "team@catcoincrypto.me"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x846c66cf71c43f80403b51fe3906b3599d63336f",
@@ -11917,7 +11933,8 @@
         ],
         "holders": {
             "ETH": 40
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x55eb5823ab84ec1706f1a6964439989718d54f7f",
