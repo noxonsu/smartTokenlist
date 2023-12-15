@@ -12179,7 +12179,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 39
-        }
+        },
+        "web_domains": [
+            "swellnetwork.io"
+        ]
     },
     {
         "contract_address": "0xac440d0ee23fa69632aa731322c2a480dd1376e4",
@@ -12213,7 +12216,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 221
-        }
+        },
+        "web_domains": [
+            "beefy.finance"
+        ]
     },
     {
         "contract_address": "0xb1f131437e314614313aab3a3016fa05c1b0e087",
@@ -12423,7 +12429,10 @@
         ],
         "holders": {
             "ETH": 94
-        }
+        },
+        "web_domains": [
+            "mandoxgem.com"
+        ]
     },
     {
         "contract_address": "0x5957c351946d45f74d1a6f034cd9b6ac6654e0d7",
