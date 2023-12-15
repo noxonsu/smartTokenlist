@@ -12574,7 +12574,11 @@
         ],
         "holders": {
             "ETH": 241
-        }
+        },
+        "emails": [
+            "support@mubinu.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x882f4f48e773b76446a4f2e57fcf35141d4a0eba",
@@ -12589,7 +12593,8 @@
         ],
         "holders": {
             "ETH": 58
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6b431b8a964bfcf28191b07c91189ff4403957d0",
