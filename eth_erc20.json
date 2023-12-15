@@ -10259,7 +10259,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 198
-        }
+        },
+        "web_domains": [
+            "ordiswap.gitbook.io"
+        ]
     },
     {
         "contract_address": "0xe71a0a81681dd1b8147b388b85f40410ced18436",
