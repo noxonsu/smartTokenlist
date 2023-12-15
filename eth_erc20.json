@@ -11233,7 +11233,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 2
-        }
+        },
+        "web_domains": [
+            "decrypt.co"
+        ]
     },
     {
         "contract_address": "0x2c82c73d5b34aa015989462b2948cd616a37641f",
@@ -11333,7 +11336,10 @@
         ],
         "holders": {
             "ETH": 79
-        }
+        },
+        "web_domains": [
+            "celsius.network"
+        ]
     },
     {
         "contract_address": "0xbdab72602e9ad40fc6a6852caf43258113b8f7a5",
