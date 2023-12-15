@@ -5153,11 +5153,13 @@
             "linktr.ee"
         ],
         "telegram_groups": [
-            "CybertruckETH"
+            "CybertruckETH",
+            "JesterBotEth"
         ],
         "holders": {
             "ETH": 2829
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xfe6ed1a0bde1d7181a0343998ae47f3993ff3a77",
@@ -5608,7 +5610,12 @@
         ],
         "holders": {
             "ETH": 5828
-        }
+        },
+        "telegram_groups": [
+            "CybertruckETH",
+            "JesterBotEth"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xfc1c93a2507975e98b9d0e9260ded61a00152bf1",
@@ -10163,7 +10170,12 @@
         ],
         "holders": {
             "ETH": 1181
-        }
+        },
+        "telegram_groups": [
+            "CybertruckETH",
+            "JesterBotEth"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x13196187a1c3e57ae419befbc9632f158d272628",
@@ -13070,7 +13082,8 @@
         ],
         "holders": {
             "ETH": 175
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x304645590f197d99fad9fa1d05e7bcdc563e1378",
@@ -13083,7 +13096,11 @@
         ],
         "holders": {
             "ETH": 307
-        }
+        },
+        "emails": [
+            "support@guardianai.tech"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x609e02e0406cff995ae435ae0a073b1e3ade4c33",
@@ -13124,7 +13141,8 @@
         ],
         "holders": {
             "ETH": 317
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7ae1d57b58fa6411f32948314badd83583ee0e8c",
@@ -13148,7 +13166,12 @@
         ],
         "holders": {
             "ETH": 355
-        }
+        },
+        "telegram_groups": [
+            "CybertruckETH",
+            "JesterBotEth"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4b520c812e8430659fc9f12f6d0c39026c83588d",
@@ -13214,7 +13237,12 @@
         ],
         "holders": {
             "ETH": 28
-        }
+        },
+        "telegram_groups": [
+            "aidevethbot",
+            "aideveth"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8f1278ebb1279a136e3f7a7e10747888c4d767dc",
@@ -13227,7 +13255,11 @@
         ],
         "holders": {
             "ETH": 68
-        }
+        },
+        "emails": [
+            "team@finalpepe.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdf88040d606b096f52efd4a30a3858c964e04049",
