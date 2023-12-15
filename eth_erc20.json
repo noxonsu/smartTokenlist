@@ -10262,7 +10262,9 @@
         },
         "web_domains": [
             "ordiswap.gitbook.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe71a0a81681dd1b8147b388b85f40410ced18436",
@@ -10299,7 +10301,8 @@
         ],
         "holders": {
             "ETH": 188
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf995771a957c19319a7d8d58b4082b049420340f",
@@ -10326,7 +10329,8 @@
         ],
         "holders": {
             "ETH": 67
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8e870d67f660d95d5be530380d0ec0bd388289e1",
@@ -10384,7 +10388,11 @@
         ],
         "holders": {
             "ETH": 132
-        }
+        },
+        "emails": [
+            "Team@catcoin-og.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7da2641000cbb407c329310c461b2cb9c70c3046",
@@ -10404,7 +10412,8 @@
         ],
         "holders": {
             "ETH": 161
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x419c4db4b9e25d6db2ad9691ccb832c8d9fda05e",
