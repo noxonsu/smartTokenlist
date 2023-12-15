@@ -10936,7 +10936,9 @@
         },
         "web_domains": [
             "metafire.one"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0daddb1729a846a75cc89e610eef590ad8b9f7ca",
@@ -10997,7 +10999,8 @@
         ],
         "holders": {
             "ETH": 68
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd985d40e54cf717f9c24e241761a4015c8a41a75",
@@ -11010,7 +11013,8 @@
         ],
         "holders": {
             "ETH": 115
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9e32b13ce7f2e80a01932b42553652e053d6ed8e",
@@ -11051,7 +11055,8 @@
         ],
         "holders": {
             "ETH": 397
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x451fd37983d494bce294295f78a426832376b7df",
@@ -11112,7 +11117,8 @@
         ],
         "holders": {
             "ETH": 110
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa93034817d73065de2466e7fd8fc40f89305e720",
@@ -11137,11 +11143,13 @@
             "ucsniper.gitbook.io"
         ],
         "telegram_groups": [
+            "UCSniperBot",
             "ucsniper"
         ],
         "holders": {
             "ETH": 217
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xccdb064a41afcd432bcea6f6d0d1e7c371d0b002",
