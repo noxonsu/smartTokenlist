@@ -11236,7 +11236,11 @@
         },
         "web_domains": [
             "decrypt.co"
-        ]
+        ],
+        "telegram_groups": [
+            "DecryptNews"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2c82c73d5b34aa015989462b2948cd616a37641f",
@@ -11339,7 +11343,11 @@
         },
         "web_domains": [
             "celsius.network"
-        ]
+        ],
+        "emails": [
+            " celsiusinquiries@stretto.com "
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbdab72602e9ad40fc6a6852caf43258113b8f7a5",
@@ -11373,7 +11381,8 @@
         ],
         "holders": {
             "ETH": 40
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5c2975269e74cb3a8514e5b800a1e66c694d4df8",
