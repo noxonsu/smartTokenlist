@@ -11961,7 +11961,9 @@
         ],
         "holders": {
             "ETH": 128
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb5c23f694810a8a6a37fede38004150ee0dd3821",
@@ -11971,12 +11973,13 @@
         ],
         "telegram_groups": [
             "bribesniperbot",
-            "bribesniperbot",
+            "OxTools_Bots",
             "OxMixer_bot"
         ],
         "holders": {
             "ETH": 450
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x86734d3819db5525f0bc25e3593a9f3cfc3bb0d5",
