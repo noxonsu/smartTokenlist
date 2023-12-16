@@ -13667,7 +13667,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 36
-        }
+        },
+        "web_domains": [
+            "coinmooner.com"
+        ]
     },
     {
         "contract_address": "0xdfef6416ea3e6ce587ed42aa7cb2e586362cbbfa",
@@ -13739,7 +13742,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 187
-        }
+        },
+        "web_domains": [
+            "wfca.io"
+        ]
     },
     {
         "contract_address": "0x60be1e1fe41c1370adaf5d8e66f07cf1c2df2268",
@@ -13802,7 +13808,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 28
-        }
+        },
+        "web_domains": [
+            "renzoprotocol.com"
+        ]
     },
     {
         "contract_address": "0x319bcf115e35c18035bf1a405fe3c40c8b24533e",
