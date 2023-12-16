@@ -13499,7 +13499,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 89
-        }
+        },
+        "web_domains": [
+            "www.zenithcoins.com"
+        ]
     },
     {
         "contract_address": "0xb056c38f6b7dc4064367403e26424cd2c60655e1",
