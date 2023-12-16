@@ -13614,7 +13614,8 @@
         ],
         "holders": {
             "ETH": 323
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x33d0568941c0c64ff7e0fb4fba0b11bd37deed9f",
@@ -13646,7 +13647,9 @@
         ],
         "holders": {
             "ETH": 10
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x11c76cb9c4e5da05cdc4d297686b90b9999e4d4e",
@@ -13670,7 +13673,14 @@
         },
         "web_domains": [
             "coinmooner.com"
-        ]
+        ],
+        "telegram_groups": [
+            "CoinMoonerAds"
+        ],
+        "emails": [
+            " - contact@coinmooner.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdfef6416ea3e6ce587ed42aa7cb2e586362cbbfa",
@@ -13686,11 +13696,13 @@
             "dogwifshoes.com"
         ],
         "telegram_groups": [
-            "DOGWIFSHOESPORTAL"
+            "DOGWIFSHOESPORTAL",
+            "Dogwifshoes"
         ],
         "holders": {
             "ETH": 3
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe25284a49e7176776d7fc47716de852b1fadfd1e",
@@ -13703,7 +13715,8 @@
         ],
         "holders": {
             "ETH": 323
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x56bef437200b29310ff012956da4509b74067612",
@@ -13745,7 +13758,12 @@
         },
         "web_domains": [
             "wfca.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "info@wfca.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x60be1e1fe41c1370adaf5d8e66f07cf1c2df2268",
