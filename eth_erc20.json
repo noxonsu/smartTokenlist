@@ -13862,11 +13862,16 @@
             "www.omni-bot.app"
         ],
         "telegram_groups": [
-            "OmnibotERC"
+            "OmnibotERC",
+            "omni_crypto_bot"
         ],
         "holders": {
             "ETH": 367
-        }
+        },
+        "emails": [
+            "team@omni-bot.app"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x20c28c0f23729849ee7d814816d8ee173fa48ab2",
@@ -13938,7 +13943,9 @@
         },
         "web_domains": [
             "iocoin.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x84f9edbc0599961d9223eee4903ad45648b73536",
@@ -13952,7 +13959,8 @@
         ],
         "holders": {
             "ETH": 432
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5e8422345238f34275888049021821e8e08caa1f",
@@ -14012,11 +14020,13 @@
             "betitapp.com"
         ],
         "telegram_groups": [
+            "BetIT_tgBot",
             "betitportal"
         ],
         "holders": {
             "ETH": 439
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa1d65e8fb6e87b60feccbc582f7f97804b725521",
@@ -14054,7 +14064,12 @@
         },
         "web_domains": [
             "smardex.io"
-        ]
+        ],
+        "telegram_groups": [
+            "realSmarDexChat",
+            "realSmarDex"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4dfae3690b93c47470b03036a17b23c1be05127c",
@@ -14078,7 +14093,12 @@
         },
         "web_domains": [
             "ledger.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "media@ledger.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x04f2694c8fcee23e8fd0dfea1d4f5bb8c352111f",
