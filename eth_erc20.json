@@ -14729,7 +14729,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 285
-        }
+        },
+        "web_domains": [
+            "republik.gg"
+        ]
     },
     {
         "contract_address": "0x565907ab528731075e985177172f43d2001b33e6",
@@ -14781,13 +14784,19 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 33
-        }
+        },
+        "web_domains": [
+            "gspoon.net"
+        ]
     },
     {
         "contract_address": "0xed0294dbd2a0e52a09c3f38a09f6e03de2c44fcf",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 102
-        }
+        },
+        "web_domains": [
+            "chainge.finance"
+        ]
     }
 ]
