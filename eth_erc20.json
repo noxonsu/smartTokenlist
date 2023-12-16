@@ -14688,7 +14688,8 @@
         ],
         "holders": {
             "ETH": 69
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xddffe6e5aacb250e9987e68f619aad5266ba25de",
@@ -14701,7 +14702,11 @@
         ],
         "holders": {
             "ETH": 231
-        }
+        },
+        "emails": [
+            "Copyright \u00a9 2023 BITCAT | bitcaterc@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x728f30fa2f100742c7949d1961804fa8e0b1387d",
@@ -14732,7 +14737,11 @@
         },
         "web_domains": [
             "republik.gg"
-        ]
+        ],
+        "telegram_groups": [
+            "officialrepublik"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x565907ab528731075e985177172f43d2001b33e6",
@@ -14787,7 +14796,9 @@
         },
         "web_domains": [
             "gspoon.net"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xed0294dbd2a0e52a09c3f38a09f6e03de2c44fcf",
@@ -14797,6 +14808,8 @@
         },
         "web_domains": [
             "chainge.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
