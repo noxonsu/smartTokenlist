@@ -15047,7 +15047,8 @@
         ],
         "holders": {
             "ETH": 19
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2c540c3c7be7af98278dc6963e092cd450009d1f",
@@ -15064,7 +15065,11 @@
         },
         "web_domains": [
             "msporttoken.io"
-        ]
+        ],
+        "telegram_groups": [
+            "metaversesportg"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb770661939a490db22e387523b78f0a7de42ca2d",
@@ -15077,7 +15082,8 @@
         },
         "web_domains": [
             "cheems.co"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x79783c22cf6dba2d40d093154e80f70769ca46c7",
@@ -15091,13 +15097,14 @@
             "dex.wisetools.io"
         ],
         "telegram_groups": [
-            "Wisetools_Portal",
+            "WiseChecker_Bot",
             "WiseSniper_bot",
-            "WiseChecker_Bot"
+            "Wisetools_Portal"
         ],
         "holders": {
             "ETH": 139
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1ce1b8e28e4d4c1c4da01b69f5434a9fb7be023d",
@@ -15107,7 +15114,14 @@
         },
         "web_domains": [
             "thebittimes.com"
-        ]
+        ],
+        "telegram_groups": [
+            "thebittimeschannel"
+        ],
+        "emails": [
+            "Contact out to us at thebittimes@thebitfinance.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x940a2db1b7008b6c776d4faaca729d6d4a4aa551",
@@ -15141,7 +15155,11 @@
         ],
         "holders": {
             "ETH": 219
-        }
+        },
+        "emails": [
+            "admin@thebull.run"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe4815ae53b124e7263f08dcdbbb757d41ed658c6",
