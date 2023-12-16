@@ -14811,5 +14811,190 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xc058c1f3e71f7a5746bee8a922bdd55ab66f0e66",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bonk0point5.com"
+        ],
+        "telegram_groups": [
+            "Bonk0Point5ERC"
+        ],
+        "holders": {
+            "ETH": 66
+        }
+    },
+    {
+        "contract_address": "0x15b543e986b8c34074dfc9901136d9355a537e7e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12095
+        }
+    },
+    {
+        "contract_address": "0x005d1123878fc55fbd56b54c73963b234a64af3c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5095
+        }
+    },
+    {
+        "contract_address": "0x333000333b26ee30214b4af6419d9ab07a450400",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 841
+        }
+    },
+    {
+        "contract_address": "0x24289e2f9cdc03787e24997df5438ba8045bc9b2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1597
+        }
+    },
+    {
+        "contract_address": "0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 229
+        }
+    },
+    {
+        "contract_address": "0x26cc136e9b8fd65466f193a8e5710661ed9a9827",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi"
+        ],
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x56a44b709406eef8fca56ae566ce7ef6f522e145",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 108
+        }
+    },
+    {
+        "contract_address": "0x81f8f0bb1cb2a06649e51913a151f0e7ef6fa321",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3119
+        }
+    },
+    {
+        "contract_address": "0xf8ebf4849f1fa4faf0dff2106a173d3a6cb2eb3a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1948
+        }
+    },
+    {
+        "contract_address": "0xcacc1504557983bf3e8a6a17aa318fd0ce7fc5cf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 94
+        }
+    },
+    {
+        "contract_address": "0xdebe620609674f21b1089042527f420372ea98a5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5188
+        }
+    },
+    {
+        "contract_address": "0xd076c4ba62c57b3fa10800bcfd8da66742110e0e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 375
+        }
+    },
+    {
+        "contract_address": "0xbb3b0473562a5f11e751e350e64aec67b93f1b91",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ContractDevAI"
+        ],
+        "holders": {
+            "ETH": 67
+        }
+    },
+    {
+        "contract_address": "0x0cf0ee63788a0849fe5297f3407f701e122cc023",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blog.aragon.one"
+        ],
+        "holders": {
+            "ETH": 443488
+        }
+    },
+    {
+        "contract_address": "0x38cf6cea814aefd01027a0bbf8a78b7aa95a698e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bypass.exchange"
+        ],
+        "telegram_groups": [
+            "bypass_exchange_bot",
+            "bypassERC20"
+        ],
+        "holders": {
+            "ETH": 1420
+        }
+    },
+    {
+        "contract_address": "0x1aa51bc7eb181ce48ce626bf62f8956fa9555136",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2764
+        }
+    },
+    {
+        "contract_address": "0x7a253799b239833d7a5e590e752a063bfa0bff59",
+        "sourceScanned": "processed",
+        "emails": [
+            "info@kinkbnb.com"
+        ],
+        "holders": {
+            "ETH": 352
+        }
+    },
+    {
+        "contract_address": "0x70401dfd142a16dc7031c56e862fc88cb9537ce0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3765
+        }
+    },
+    {
+        "contract_address": "0x19a71179fd41c19f8dfb1f38343482bec0271e3c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.spectrummarket.io",
+            "linktr.ee"
+        ],
+        "telegram_groups": [
+            "Spectrum_Market"
+        ],
+        "holders": {
+            "ETH": 970
+        }
+    },
+    {
+        "contract_address": "0x9f9c8ec3534c3ce16f928381372bfbfbfb9f4d24",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5017
+        }
     }
 ]
