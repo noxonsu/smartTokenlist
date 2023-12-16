@@ -13389,7 +13389,8 @@
         ],
         "holders": {
             "ETH": 303
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8a7b7b9b2f7d0c63f66171721339705a6188a7d5",
@@ -13423,7 +13424,8 @@
         ],
         "holders": {
             "ETH": 82
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9f1fd757f85676e0c9517ee68707e38afe19ac11",
@@ -13471,7 +13473,8 @@
         ],
         "holders": {
             "ETH": 318
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1afb69dbc9f54d08dab1bd3436f8da1af819e647",
@@ -13502,7 +13505,12 @@
         },
         "web_domains": [
             "www.zenithcoins.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "contact@zenithcoins.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb056c38f6b7dc4064367403e26424cd2c60655e1",
