@@ -13829,7 +13829,11 @@
         },
         "web_domains": [
             "renzoprotocol.com"
-        ]
+        ],
+        "telegram_groups": [
+            "RenzoProtocolChat"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x319bcf115e35c18035bf1a405fe3c40c8b24533e",
