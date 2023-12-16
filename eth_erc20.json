@@ -13935,7 +13935,10 @@
         ],
         "holders": {
             "ETH": 152
-        }
+        },
+        "web_domains": [
+            "iocoin.io"
+        ]
     },
     {
         "contract_address": "0x84f9edbc0599961d9223eee4903ad45648b73536",
@@ -14048,7 +14051,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 33
-        }
+        },
+        "web_domains": [
+            "smardex.io"
+        ]
     },
     {
         "contract_address": "0x4dfae3690b93c47470b03036a17b23c1be05127c",
@@ -14069,7 +14075,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 13
-        }
+        },
+        "web_domains": [
+            "ledger.com"
+        ]
     },
     {
         "contract_address": "0x04f2694c8fcee23e8fd0dfea1d4f5bb8c352111f",
