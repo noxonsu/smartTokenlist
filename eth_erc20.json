@@ -14823,7 +14823,11 @@
         ],
         "holders": {
             "ETH": 66
-        }
+        },
+        "emails": [
+            "email@mailservice.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x15b543e986b8c34074dfc9901136d9355a537e7e",
@@ -14861,7 +14865,9 @@
         },
         "web_domains": [
             "betswirl.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x26cc136e9b8fd65466f193a8e5710661ed9a9827",
@@ -14877,7 +14883,9 @@
         ],
         "holders": {
             "ETH": 3
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x56a44b709406eef8fca56ae566ce7ef6f522e145",
