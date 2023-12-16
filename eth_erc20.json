@@ -14125,7 +14125,9 @@
         },
         "web_domains": [
             "asymetrix.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa21af1050f7b26e0cff45ee51548254c41ed6b5c",
@@ -14151,11 +14153,18 @@
             "safescriptai.tech"
         ],
         "telegram_groups": [
-            "SafeScript_Ai"
+            "safescript_ai",
+            "sapcescript_ai",
+            "safescriptaibot",
+            "xentdev",
+            "safescriptai",
+            "SafeScript_Ai",
+            "cashieERC"
         ],
         "holders": {
             "ETH": 3
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xaa7fe5c1b2af196ccd20b2fcbe80b5a81f7e98c2",
@@ -14165,7 +14174,12 @@
         },
         "web_domains": [
             "www.aibot.ai"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "info@aibot.ai"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x86862445f58f50382c421a7bcecbcd971cc25367",
@@ -14289,7 +14303,9 @@
         },
         "web_domains": [
             "dineroismoney.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc3d2b3e23855001508e460a6dbe9f9e3116201af",
@@ -14309,7 +14325,11 @@
         ],
         "holders": {
             "ETH": 176
-        }
+        },
+        "telegram_groups": [
+            "wonka_portal"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1ffefd8036409cb6d652bd610de465933b226917",
@@ -14319,7 +14339,9 @@
         },
         "web_domains": [
             "wrappedever.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb7569933d5a4b0ff02641cf03354120f646651f9",
