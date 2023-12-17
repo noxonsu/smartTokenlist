@@ -15814,7 +15814,8 @@
         ],
         "holders": {
             "ETH": 121
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2b89bf8ba858cd2fcee1fada378d5cd6936968be",
@@ -15834,7 +15835,8 @@
         ],
         "holders": {
             "ETH": 40
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe820b994e940ea6482a67225155befdc26e50317",
@@ -15845,11 +15847,13 @@
             "docs.magicbox.capital"
         ],
         "telegram_groups": [
-            "magicbox_protocol"
+            "magicbox_protocol",
+            "Magicbox_protocol"
         ],
         "holders": {
             "ETH": 143
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb51e69dbe7f1ba26bb239cd8e386c182714ba3bf",
@@ -15872,7 +15876,9 @@
         ],
         "holders": {
             "ETH": 70
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xdf1e9234d4f10ef9fed26a7ae0ef43e5e03bfc31",
@@ -15882,7 +15888,11 @@
         },
         "web_domains": [
             "radiant.capital"
-        ]
+        ],
+        "telegram_groups": [
+            "radiantcapitalofficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd9187466c4a20963fe2d1cd0eed70db623a13528",
@@ -15906,7 +15916,9 @@
         },
         "web_domains": [
             "yearn.fi"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb48eb8368c9c6e9b0734de1ef4ceb9f484b80b9c",
