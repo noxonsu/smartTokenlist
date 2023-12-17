@@ -16249,7 +16249,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 18
-        }
+        },
+        "web_domains": [
+            "xcom.com"
+        ]
     },
     {
         "contract_address": "0x4c5cb5d87709387f8821709f7a6664f00dcf0c93",
