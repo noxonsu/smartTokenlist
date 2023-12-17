@@ -15536,7 +15536,9 @@
         },
         "web_domains": [
             "schawk.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xda5662afd87f8db517b85e207ab368f3b4a85486",
@@ -15558,10 +15560,16 @@
             "groki.world"
         ],
         "telegram_groups": [
-            "GROKI_TOKEN"
+            "GROKI_TOKEN",
+            "groki_token",
+            "GenesisBinaryBot"
         ],
         "holders": {
             "ETH": 135
-        }
+        },
+        "emails": [
+            "team@groki.world"
+        ],
+        "p6": true
     }
 ]
