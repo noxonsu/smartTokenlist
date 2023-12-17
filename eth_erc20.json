@@ -16991,7 +16991,9 @@
         },
         "web_domains": [
             "dovu.earth"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc434268603ca8854e0be1a3ff15cad73bd6ec49a",
@@ -17021,7 +17023,8 @@
         ],
         "holders": {
             "ETH": 43
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc89d9aa9d9e54bb196319c6195aea1038d2bc936",
