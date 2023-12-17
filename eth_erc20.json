@@ -15879,7 +15879,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 70
-        }
+        },
+        "web_domains": [
+            "radiant.capital"
+        ]
     },
     {
         "contract_address": "0xd9187466c4a20963fe2d1cd0eed70db623a13528",
@@ -15900,7 +15903,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 2
-        }
+        },
+        "web_domains": [
+            "yearn.fi"
+        ]
     },
     {
         "contract_address": "0xb48eb8368c9c6e9b0734de1ef4ceb9f484b80b9c",
@@ -15917,7 +15923,10 @@
         ],
         "holders": {
             "ETH": 228
-        }
+        },
+        "web_domains": [
+            "mymyro.com"
+        ]
     },
     {
         "contract_address": "0xecbf566944250dde88322581024e611419715f7a",
