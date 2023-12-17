@@ -15533,7 +15533,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 137
-        }
+        },
+        "web_domains": [
+            "schawk.com"
+        ]
     },
     {
         "contract_address": "0xda5662afd87f8db517b85e207ab368f3b4a85486",
