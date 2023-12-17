@@ -15596,7 +15596,9 @@
         ],
         "holders": {
             "ETH": 11
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0ff534801e98a4976246d1f418e441783fc9aa15",
@@ -15642,11 +15644,16 @@
             "coinmarketcap.com"
         ],
         "telegram_groups": [
+            "siriusnet_mcl",
             "SiriusNetV2"
         ],
         "holders": {
             "ETH": 80
-        }
+        },
+        "emails": [
+            "info@website.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf4cc8237fc85f54b64975142ec71a9554ecf4c61",
@@ -15663,7 +15670,9 @@
         },
         "web_domains": [
             "manta.network"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x20cd2e7ec8f5d8b337fe46a4f565ccef1561b9a9",
@@ -15697,7 +15706,8 @@
         ],
         "holders": {
             "ETH": 197
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x986894454a190e4e64547390c98ff8fcdc3751cc",
