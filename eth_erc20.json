@@ -16540,5 +16540,433 @@
         "holders": {
             "ETH": 1214
         }
+    },
+    {
+        "contract_address": "0x40181862dabe0651dd4aa0ae29bd7c9b48eb6559",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2120
+        }
+    },
+    {
+        "contract_address": "0x5016878159e84dadb05bb04135f3eac339ae201f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1403
+        }
+    },
+    {
+        "contract_address": "0xe2cfbbedbce1bd59b1b799c44282e6396d692b84",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2040
+        }
+    },
+    {
+        "contract_address": "0x2ba592f78db6436527729929aaf6c908497cb200",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9039
+        }
+    },
+    {
+        "contract_address": "0xff3ac80c1caa08cbd43a7e90d20c398d54c7342f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1758
+        }
+    },
+    {
+        "contract_address": "0xf16e81dce15b08f326220742020379b855b87df9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4038
+        }
+    },
+    {
+        "contract_address": "0x3301ee63fb29f863f2333bd4466acb46cd8323e6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 59982
+        }
+    },
+    {
+        "contract_address": "0xfc4913214444af5c715cc9f7b52655e788a569ed",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "api.icosa.pro"
+        ],
+        "holders": {
+            "ETH": 6467
+        }
+    },
+    {
+        "contract_address": "0x5732046a883704404f284ce41ffadd5b007fd668",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.enuma.io",
+            "www.enuma.io",
+            "www.enuma.io",
+            "www.enuma.io",
+            "www.enuma.io",
+            "www.enuma.io",
+            "www.enuma.io",
+            "www.bluzelle.com",
+            "www.bluzelle.com"
+        ],
+        "holders": {
+            "ETH": 27830
+        }
+    },
+    {
+        "contract_address": "0x9e5bd9d9fad182ff0a93ba8085b664bcab00fa68",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6991
+        }
+    },
+    {
+        "contract_address": "0x6e5970dbd6fc7eb1f29c6d2edf2bc4c36124c0c1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1121
+        }
+    },
+    {
+        "contract_address": "0x2a039b1d9bbdccbb91be28691b730ca893e5e743",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1072
+        }
+    },
+    {
+        "contract_address": "0x84d549f0052b33d7d2a9ed33d17f91a266bc3933",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 55
+        }
+    },
+    {
+        "contract_address": "0xf94b5c5651c888d928439ab6514b93944eee6f48",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7229
+        }
+    },
+    {
+        "contract_address": "0x92464c77a8f74db2c41c176482ff529fe4d4ddb0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3425
+        }
+    },
+    {
+        "contract_address": "0x3e34eabf5858a126cb583107e643080cee20ca64",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.linqgroup.io",
+            "linktr.ee"
+        ],
+        "telegram_groups": [
+            "LINQ_GROUP"
+        ],
+        "holders": {
+            "ETH": 3487
+        }
+    },
+    {
+        "contract_address": "0xa8a837e2bf0c37fef5c495951a0dfc33aaead57a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1613
+        }
+    },
+    {
+        "contract_address": "0x39fbbabf11738317a448031930706cd3e612e1b9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5988
+        }
+    },
+    {
+        "contract_address": "0x657cf08c2c9650cb478b907784aa9cd7c2b06f9d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 239
+        }
+    },
+    {
+        "contract_address": "0x6a091a3406e0073c3cd6340122143009adac0eda",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 903
+        }
+    },
+    {
+        "contract_address": "0x85b51b8d2bb2d97df2733288ae4aaaebb041dea6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 38
+        }
+    },
+    {
+        "contract_address": "0x325a0e5c84b4d961b19161956f57ae8ba5bb3c26",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dgld.ch",
+            "dgld.ch",
+            "uniswap.org",
+            "uniswap.org",
+            "uniswap.org",
+            "compound.finance"
+        ],
+        "emails": [
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "rainbreak@riseup.net",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "council@enzyme.finance",
+            "council@enzyme.finance",
+            "council@enzyme.finance",
+            "council@enzyme.finance",
+            "council@enzyme.finance",
+            "council@enzyme.finance",
+            "council@enzyme.finance",
+            "council@enzyme.finance",
+            "council@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "council@enzyme.finance",
+            "council@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "council@enzyme.finance",
+            "council@enzyme.finance",
+            "council@enzyme.finance",
+            "council@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "council@enzyme.finance",
+            "council@enzyme.finance",
+            "council@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance",
+            "council@enzyme.finance",
+            "council@enzyme.finance",
+            "council@enzyme.finance",
+            "security@enzyme.finance"
+        ],
+        "holders": {
+            "ETH": 540
+        }
+    },
+    {
+        "contract_address": "0x27054b13b1b798b345b591a4d22e6562d47ea75a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13268
+        }
+    },
+    {
+        "contract_address": "0x14ca41eecd7d81d5d13098586c0d2314eba285be",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 187
+        }
     }
 ]
