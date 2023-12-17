@@ -15571,5 +15571,188 @@
             "team@groki.world"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "vyper.readthedocs.io"
+        ],
+        "holders": {
+            "ETH": 9246
+        }
+    },
+    {
+        "contract_address": "0x8bd4a1e74a27182d23b98c10fd21d4fbb0ed4ba0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi"
+        ],
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0x0ff534801e98a4976246d1f418e441783fc9aa15",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 589
+        }
+    },
+    {
+        "contract_address": "0x24ae2da0f361aa4be46b48eb19c91e02c5e4f27e",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@manifoldfinance.com",
+            "security@manifoldfinance.com",
+            "security@manifoldfinance.com",
+            "security@manifoldfinance.com",
+            "security@manifoldfinance.com"
+        ],
+        "holders": {
+            "ETH": 360
+        }
+    },
+    {
+        "contract_address": "0xb244b3574a5627849fca2057e3854340def63071",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "veil.exchange",
+            "docs.veil.exchange"
+        ],
+        "telegram_groups": [
+            "VeilExchange"
+        ],
+        "holders": {
+            "ETH": 3043
+        }
+    },
+    {
+        "contract_address": "0xb4cfc084843f32e061bfe21a2c7c3d1ab3d85a62",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "siriusnet.io",
+            "chainlist.org",
+            "coinmarketcap.com"
+        ],
+        "telegram_groups": [
+            "SiriusNetV2"
+        ],
+        "holders": {
+            "ETH": 80
+        }
+    },
+    {
+        "contract_address": "0xf4cc8237fc85f54b64975142ec71a9554ecf4c61",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 250
+        }
+    },
+    {
+        "contract_address": "0x45cf420035e4f3a7024989c2bb6b9c76de6661c1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 42
+        }
+    },
+    {
+        "contract_address": "0x20cd2e7ec8f5d8b337fe46a4f565ccef1561b9a9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3496
+        }
+    },
+    {
+        "contract_address": "0xcaeda9650ccd356af7776057a105f9e6ffe68213",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 845
+        }
+    },
+    {
+        "contract_address": "0xd10c315293872851184f484e9431daf4de6aa992",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 135
+        }
+    },
+    {
+        "contract_address": "0xe0a370dd1ce29c7bbd8f6e08f872b7f594268626",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "boge.meme"
+        ],
+        "telegram_groups": [
+            "bonkdogeerc"
+        ],
+        "holders": {
+            "ETH": 197
+        }
+    },
+    {
+        "contract_address": "0x986894454a190e4e64547390c98ff8fcdc3751cc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 34
+        }
+    },
+    {
+        "contract_address": "0xbe77212a6c7f55567470c2c95aff7b0b0e0c3ef5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1731
+        }
+    },
+    {
+        "contract_address": "0xa9944c550a5a463045d7955d3ad505c107a37008",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0x24bcec1afda63e622a97f17cff9a61ffcfd9b735",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 327
+        }
+    },
+    {
+        "contract_address": "0x03b4bf2002811106690fd805435e1e229ae233e2",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "shibtechportal"
+        ],
+        "holders": {
+            "ETH": 347
+        }
+    },
+    {
+        "contract_address": "0xb888feeffa5b6a307c9c5ef0f00d1fcee79b2ae2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 101
+        }
+    },
+    {
+        "contract_address": "0x1796ae0b0fa4862485106a0de9b654efe301d0b2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 16003
+        }
+    },
+    {
+        "contract_address": "0x5c8190b76e90b4dd0702740cf6eb0f7ee01ab5e9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 650
+        }
     }
 ]
