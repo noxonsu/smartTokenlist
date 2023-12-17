@@ -12552,7 +12552,9 @@
         ],
         "holders": {
             "ETH": 1123
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3407f39df63ca276fb1f22072b1fd06adde74ed5",
@@ -16252,7 +16254,9 @@
         },
         "web_domains": [
             "xcom.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4c5cb5d87709387f8821709f7a6664f00dcf0c93",
@@ -16269,7 +16273,9 @@
         ],
         "holders": {
             "ETH": 53
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2599c37d38b411ce0776a42aefcdd7f2f5f6eba3",
@@ -16282,7 +16288,9 @@
         ],
         "holders": {
             "ETH": 228
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7ab7d54f8cb054141142f04ba0b3d41ac4c4d61c",
