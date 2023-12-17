@@ -17118,7 +17118,9 @@
         ],
         "holders": {
             "ETH": 14
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd137eb9233bf1cfcd77367f7e070a8ea7de031d6",
@@ -17131,7 +17133,8 @@
         ],
         "holders": {
             "ETH": 51
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa00db4042b9537b8958289c7c68c5c74e341f766",
@@ -17180,7 +17183,11 @@
         ],
         "holders": {
             "ETH": 409
-        }
+        },
+        "emails": [
+            "crew@larrythellama.vip"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x34dfa783538d796cebec25ff345be92adbd22586",
@@ -17201,7 +17208,11 @@
         ],
         "holders": {
             "ETH": 227
-        }
+        },
+        "emails": [
+            "Email Support@blastgun.org \u00a9 2023"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9078deb4736b7e2181beb8db276dfbfa7f21f821",
@@ -17239,6 +17250,10 @@
         ],
         "holders": {
             "ETH": 336
-        }
+        },
+        "emails": [
+            "dev@dexlist.app"
+        ],
+        "p6": true
     }
 ]
