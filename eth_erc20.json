@@ -17088,5 +17088,157 @@
         "holders": {
             "ETH": 443
         }
+    },
+    {
+        "contract_address": "0x8929e9dbd2785e3ba16175e596cdd61520fee0d1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 295
+        }
+    },
+    {
+        "contract_address": "0x00d46727c2e4a6e358a8c0d638137a3d91b19be6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1925
+        }
+    },
+    {
+        "contract_address": "0x7199b5a15c7fb79aa861780230adc65fff99ec73",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 551
+        }
+    },
+    {
+        "contract_address": "0xc5745357ff7b40439aeefb7689940efde4d8f89a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "discord.com"
+        ],
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0xd137eb9233bf1cfcd77367f7e070a8ea7de031d6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blacksanta.fun"
+        ],
+        "telegram_groups": [
+            "BLACKSANTA_ERC20"
+        ],
+        "holders": {
+            "ETH": 51
+        }
+    },
+    {
+        "contract_address": "0xa00db4042b9537b8958289c7c68c5c74e341f766",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 91
+        }
+    },
+    {
+        "contract_address": "0x96c645d3d3706f793ef52c19bbace441900ed47d",
+        "sourceScanned": "processed",
+        "emails": [
+            "cyril.lapinte@mtpelerin.com",
+            "cyril.lapinte@mtpelerin.com",
+            "cyril.lapinte@mtpelerin.com",
+            "cyril.lapinte@mtpelerin.com",
+            "cyril.lapinte@mtpelerin.com",
+            "cyril.lapinte@mtpelerin.com",
+            "cyril.lapinte@mtpelerin.com",
+            "cyril.lapinte@mtpelerin.com",
+            "cyril.lapinte@mtpelerin.com",
+            "cyril.lapinte@mtpelerin.com",
+            "cyril.lapinte@mtpelerin.com",
+            "cyril.lapinte@mtpelerin.com",
+            "cyril.lapinte@mtpelerin.com",
+            "cyril.lapinte@mtpelerin.com",
+            "cyril.lapinte@mtpelerin.com",
+            "cyril.lapinte@mtpelerin.com",
+            "cyril.lapinte@mtpelerin.com",
+            "cyril.lapinte@mtpelerin.com",
+            "cyril.lapinte@mtpelerin.com",
+            "cyril.lapinte@mtpelerin.com"
+        ],
+        "holders": {
+            "ETH": 1018
+        }
+    },
+    {
+        "contract_address": "0x5c99a6c14f8dc0c2c3655c64a2cef68ff9f771ba",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "larrythellama.vip"
+        ],
+        "telegram_groups": [
+            "LarryLlamaPortal"
+        ],
+        "holders": {
+            "ETH": 409
+        }
+    },
+    {
+        "contract_address": "0x34dfa783538d796cebec25ff345be92adbd22586",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 141
+        }
+    },
+    {
+        "contract_address": "0x041e62d01d236f30668f5957d7e91b34f8ac30de",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blastgun.org",
+            "blast-gun.gitbook.io"
+        ],
+        "telegram_groups": [
+            "blastgun"
+        ],
+        "holders": {
+            "ETH": 227
+        }
+    },
+    {
+        "contract_address": "0x9078deb4736b7e2181beb8db276dfbfa7f21f821",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 698
+        }
+    },
+    {
+        "contract_address": "0x2de509bf0014ddf697b220be628213034d320ece",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "dontbuyinu"
+        ],
+        "holders": {
+            "ETH": 3134
+        }
+    },
+    {
+        "contract_address": "0xd04e772bc0d591fbd288f2e2a86afa3d3cb647f8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3923
+        }
+    },
+    {
+        "contract_address": "0xdda22dc9175d5e70c1820c611c5ba9e37297207c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dexlist.app",
+            "dexlist.app"
+        ],
+        "telegram_groups": [
+            "Dexlistcoin"
+        ],
+        "holders": {
+            "ETH": 336
+        }
     }
 ]
