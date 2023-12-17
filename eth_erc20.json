@@ -16988,7 +16988,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 14
-        }
+        },
+        "web_domains": [
+            "dovu.earth"
+        ]
     },
     {
         "contract_address": "0xc434268603ca8854e0be1a3ff15cad73bd6ec49a",
