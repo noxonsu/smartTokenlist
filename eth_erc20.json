@@ -17458,7 +17458,8 @@
         ],
         "holders": {
             "ETH": 81
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8b39b70e39aa811b69365398e0aace9bee238aeb",
@@ -17525,7 +17526,9 @@
         ],
         "holders": {
             "ETH": 92
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x561cf9121e89926c27fa1cfc78dfcc4c422937a4",
@@ -17549,11 +17552,17 @@
             "defipal.gitbook.io"
         ],
         "telegram_groups": [
-            "defipal_portal"
+            "justindevv",
+            "defipal_portal",
+            "HomerrCallss"
         ],
         "holders": {
             "ETH": 128
-        }
+        },
+        "emails": [
+            "support@defipal.net"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x01e56ab8359ceb7ecf41d9023a2aa4c05d0c16c7",
@@ -17597,7 +17606,9 @@
         },
         "web_domains": [
             "moonbasealliance.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x912684363934b7119ca86c949cbb76c3c9d08a1d",
