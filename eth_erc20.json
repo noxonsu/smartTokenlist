@@ -17594,7 +17594,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 33
-        }
+        },
+        "web_domains": [
+            "moonbasealliance.com"
+        ]
     },
     {
         "contract_address": "0x912684363934b7119ca86c949cbb76c3c9d08a1d",
