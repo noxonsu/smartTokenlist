@@ -16043,7 +16043,12 @@
         },
         "web_domains": [
             "ittakes22tango.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "mail@demolink.org"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xef27252b567f6b3fe35b34a85be322917abe524a",
@@ -16127,7 +16132,14 @@
         },
         "web_domains": [
             "chainport.io"
-        ]
+        ],
+        "telegram_groups": [
+            "chainport_news"
+        ],
+        "emails": [
+            "Hello@chainport.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3acfc40a19520d97648eb7c0891e747b7f2b0283",
