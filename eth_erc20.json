@@ -16968,5 +16968,119 @@
         "holders": {
             "ETH": 187
         }
+    },
+    {
+        "contract_address": "0xe276bd40f5c3d58371eb78b19fe7a149f1431fb9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 764
+        }
+    },
+    {
+        "contract_address": "0xde075d9adbd0240b4462f124af926452ad0bac91",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3054
+        }
+    },
+    {
+        "contract_address": "0x2aeabde1ab736c59e9a19bed67681869eef39526",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0xc434268603ca8854e0be1a3ff15cad73bd6ec49a",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "zapicorn"
+        ],
+        "holders": {
+            "ETH": 1099
+        }
+    },
+    {
+        "contract_address": "0x97d0cfeb4fde54b430307c9482d6f79c761fe9b6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 471
+        }
+    },
+    {
+        "contract_address": "0xa2e8fa374ba23ff573b5bd5e0b9888bae4b8c1fe",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "optiminnie.pro"
+        ],
+        "telegram_groups": [
+            "OPTIMINNIE"
+        ],
+        "holders": {
+            "ETH": 43
+        }
+    },
+    {
+        "contract_address": "0xc89d9aa9d9e54bb196319c6195aea1038d2bc936",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 593
+        }
+    },
+    {
+        "contract_address": "0x173e552bf97bbd50b455514ac52991ef639ba703",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2022
+        }
+    },
+    {
+        "contract_address": "0xc44b090a5ec6dcf7b0a3bfd3d34d3a12732b27df",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x50d1c8e131dca8b9226c0a0f78947557497374b3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bridgebot.pro"
+        ],
+        "telegram_groups": [
+            "BridgeBot_portal",
+            "BridgeTG_Bot"
+        ],
+        "holders": {
+            "ETH": 1462
+        }
+    },
+    {
+        "contract_address": "0xb2089a7069861c8d90c8da3aacab8e9188c0c531",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8218
+        }
+    },
+    {
+        "contract_address": "0x8b937af714ac7e2129bd33d93641f52b665ca352",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1404
+        }
+    },
+    {
+        "contract_address": "0xd2ba23de8a19316a638dc1e7a9adda1d74233368",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 331
+        }
+    },
+    {
+        "contract_address": "0x2dc917b722184ece1dcb9bb9dddfb1d63ccd25eb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 443
+        }
     }
 ]
