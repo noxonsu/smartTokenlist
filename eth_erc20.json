@@ -17274,7 +17274,11 @@
         ],
         "holders": {
             "ETH": 151
-        }
+        },
+        "emails": [
+            "dev@8192.cash"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xff8c479134a18918059493243943150776cf8cf2",
@@ -17302,7 +17306,11 @@
         ],
         "holders": {
             "ETH": 160
-        }
+        },
+        "emails": [
+            "2023 - Autumn Contact us support@autumnfinance.org."
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe9a95d175a5f4c9369f3b74222402eb1b837693b",
@@ -17329,11 +17337,13 @@
             "massprotocol.net"
         ],
         "telegram_groups": [
-            "massprotocol"
+            "massprotocol",
+            "share"
         ],
         "holders": {
             "ETH": 304
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x03049b395147713ae53c0617093675b4b86dde78",
@@ -17388,7 +17398,8 @@
         ],
         "holders": {
             "ETH": 172
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x13947303f63b363876868d070f14dc865c36463b",
