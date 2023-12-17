@@ -16212,5 +16212,156 @@
         "holders": {
             "ETH": 34
         }
+    },
+    {
+        "contract_address": "0x40fd72257597aa14c7231a7b1aaa29fce868f677",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.apache.org"
+        ],
+        "holders": {
+            "ETH": 12492
+        }
+    },
+    {
+        "contract_address": "0xa23c1194d421f252b4e6d5edcc3205f7650a4ebe",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1158
+        }
+    },
+    {
+        "contract_address": "0xdc6104b7993e997ca5f08acab7d3ae86e13d20a6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1368
+        }
+    },
+    {
+        "contract_address": "0xa3c22370de5f9544f0c4de126b1e46ceadf0a51b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 195
+        }
+    },
+    {
+        "contract_address": "0xf22de0060b6d0dd701a443ab4e8af9f2c8258dd3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0x4c5cb5d87709387f8821709f7a6664f00dcf0c93",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 388
+        }
+    },
+    {
+        "contract_address": "0x04580928ba71f261dadb89b029de9473d9fc5806",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "grokinu.network"
+        ],
+        "holders": {
+            "ETH": 53
+        }
+    },
+    {
+        "contract_address": "0x2599c37d38b411ce0776a42aefcdd7f2f5f6eba3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools"
+        ],
+        "holders": {
+            "ETH": 228
+        }
+    },
+    {
+        "contract_address": "0x7ab7d54f8cb054141142f04ba0b3d41ac4c4d61c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 304
+        }
+    },
+    {
+        "contract_address": "0xfd0205066521550d7d7ab19da8f72bb004b4c341",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 873
+        }
+    },
+    {
+        "contract_address": "0x03042482d64577a7bdb282260e2ea4c8a89c064b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2714
+        }
+    },
+    {
+        "contract_address": "0x19ae49b9f38dd836317363839a5f6bfbfa7e319a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 295
+        }
+    },
+    {
+        "contract_address": "0xfc5e6cf4a3c574f4186dd21e26f7ed24bb1c32f2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1193
+        }
+    },
+    {
+        "contract_address": "0x64d91f12ece7362f91a6f8e7940cd55f05060b92",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10564
+        }
+    },
+    {
+        "contract_address": "0x3ef3b555842cdaff0f4f0b79c9dd65096d60ba63",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 14651
+        }
+    },
+    {
+        "contract_address": "0xe4ab0be415e277d82c38625b72bd7dea232c2e7d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5754
+        }
+    },
+    {
+        "contract_address": "0xc91b523a59acc63a64f61fc7bbfb4bfc82dd25f2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1573
+        }
+    },
+    {
+        "contract_address": "0x26805021988f1a45dc708b5fb75fc75f21747d8c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 705
+        }
+    },
+    {
+        "contract_address": "0x82dc5826c2ab25a21ec669700bb140f9da581a41",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fortunaai-erc.com"
+        ],
+        "telegram_groups": [
+            "FortunaAIERC"
+        ],
+        "holders": {
+            "ETH": 596
+        }
     }
 ]
