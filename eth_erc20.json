@@ -16383,7 +16383,9 @@
         },
         "web_domains": [
             "apes-united.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc9eb61ffb66d5815d643bbb8195e17c49687ae1e",
@@ -16410,7 +16412,8 @@
         ],
         "holders": {
             "ETH": 44
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4fadc7a98f2dc96510e42dd1a74141eeae0c1543",
@@ -16437,7 +16440,8 @@
         ],
         "holders": {
             "ETH": 65
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xccbb5ec0149e04f7887d312dff8901afe3fc32d1",
@@ -16489,7 +16493,11 @@
         },
         "web_domains": [
             "claystack.com"
-        ]
+        ],
+        "telegram_groups": [
+            "claystack"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xcc48fd8e0507c010b8e94735b329575418b1bf13",
@@ -16512,11 +16520,13 @@
             "xai-bot.pro"
         ],
         "telegram_groups": [
-            "X_AiPortal"
+            "X_AiPortal",
+            "XAI_iBot"
         ],
         "holders": {
             "ETH": 255
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8254e26e453eb5abd29b3c37ac9e8da32e5d3299",
