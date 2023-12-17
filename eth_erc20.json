@@ -17255,5 +17255,170 @@
             "dev@dexlist.app"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x377de38159bf87111c1523055b4a8c3a1a971722",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 167
+        }
+    },
+    {
+        "contract_address": "0x8192fa63d7553369412bfead779b2e91a9808192",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "8192.cash"
+        ],
+        "telegram_groups": [
+            "ETH8192"
+        ],
+        "holders": {
+            "ETH": 151
+        }
+    },
+    {
+        "contract_address": "0xff8c479134a18918059493243943150776cf8cf2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "renq.io"
+        ],
+        "telegram_groups": [
+            "renqfinance"
+        ],
+        "holders": {
+            "ETH": 10988
+        }
+    },
+    {
+        "contract_address": "0x92fcdff28ba0b0ccdc9dbc1a91d40265e0fac653",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.autumnfinance.org",
+            "app.autumnfinance.org",
+            "docs.autumnfinance.org"
+        ],
+        "telegram_groups": [
+            "autumnfinance_org"
+        ],
+        "holders": {
+            "ETH": 160
+        }
+    },
+    {
+        "contract_address": "0xe9a95d175a5f4c9369f3b74222402eb1b837693b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13577
+        }
+    },
+    {
+        "contract_address": "0x46547b023bd608370d540acf3f10c8c5fc1031c5",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ballzientry"
+        ],
+        "holders": {
+            "ETH": 87
+        }
+    },
+    {
+        "contract_address": "0xa52b7ea0365310ca87ab73aef4f2f75c9a999af3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "social.massprotocol.net",
+            "massprotocol.net"
+        ],
+        "telegram_groups": [
+            "massprotocol"
+        ],
+        "holders": {
+            "ETH": 304
+        }
+    },
+    {
+        "contract_address": "0x03049b395147713ae53c0617093675b4b86dde78",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 342
+        }
+    },
+    {
+        "contract_address": "0x285db79fa7e0e89e822786f48a7c98c6c1dc1c7d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "magicinternetcash.wtf"
+        ],
+        "telegram_groups": [
+            "micportal"
+        ],
+        "holders": {
+            "ETH": 1015
+        }
+    },
+    {
+        "contract_address": "0xd87d72248093597df8d56d2a53c1ab7c1a0cc8da",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2407
+        }
+    },
+    {
+        "contract_address": "0xb504035a11e672e12a099f32b1672b9c4a78b22f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3694
+        }
+    },
+    {
+        "contract_address": "0xc3f279090a47e80990fe3a9c30d24cb117ef91a8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 199
+        }
+    },
+    {
+        "contract_address": "0x929b3f5569197939c7ab6619e14645c4f1112fc5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sitdao.com",
+            "sitdao.gitbook.io"
+        ],
+        "telegram_groups": [
+            "sitdao"
+        ],
+        "holders": {
+            "ETH": 172
+        }
+    },
+    {
+        "contract_address": "0x13947303f63b363876868d070f14dc865c36463b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 68
+        }
+    },
+    {
+        "contract_address": "0x5c3d2ed4bff357e749ad45560fdc3c4dd2f68aff",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "DeathrollERC"
+        ],
+        "holders": {
+            "ETH": 305
+        }
+    },
+    {
+        "contract_address": "0xbfb2b6870501a6ff17121d676a0a45a38c9eed1e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1980
+        }
+    },
+    {
+        "contract_address": "0x9f4909cc95fb870bf48c128c1fdbb5f482797632",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4137
+        }
     }
 ]
