@@ -18894,7 +18894,11 @@
         ],
         "holders": {
             "ETH": 233
-        }
+        },
+        "emails": [
+            "\n\t\t\t\tOur Email-\tzuzuzuzalu@proton.me\n\t\t\t\t\t"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x60a584e3636f4f5a716be1f9d864c4f52fbd902c",
@@ -18921,7 +18925,8 @@
         ],
         "holders": {
             "ETH": 58
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe3e24b4ea87935e15bbe99a24e9ace9998e4614d",
@@ -18931,7 +18936,14 @@
         ],
         "holders": {
             "ETH": 417
-        }
+        },
+        "telegram_groups": [
+            "yuriyprudnikov",
+            "kikiwash",
+            "aidi_official",
+            "Davebrevere"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xeed0974404f635aa5e5f6e4793d1a417798f164e",
@@ -18968,7 +18980,8 @@
         ],
         "holders": {
             "ETH": 87
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc04652032048e7420cdba519898e733fbe6efe49",
@@ -18981,7 +18994,11 @@
         ],
         "holders": {
             "ETH": 184
-        }
+        },
+        "emails": [
+            "Contact Us: team@delrey.vip"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x888cd5d22854b03d5250e54ac3dbc1d413717213",
