@@ -19510,5 +19510,129 @@
         "holders": {
             "ETH": 170
         }
+    },
+    {
+        "contract_address": "0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6035
+        }
+    },
+    {
+        "contract_address": "0xcc9e0bd9438ca0056653d134de794abeaff8c676",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "Lesliecoin.com"
+        ],
+        "telegram_groups": [
+            "LeslieCoin"
+        ],
+        "holders": {
+            "ETH": 900
+        }
+    },
+    {
+        "contract_address": "0xc781743fe2523f829b8a0fb47a3e0951beb2c398",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "blazeAiOfficial"
+        ],
+        "holders": {
+            "ETH": 327
+        }
+    },
+    {
+        "contract_address": "0xdf55670e27be5cde7228dd0a6849181891c9eba1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 73
+        }
+    },
+    {
+        "contract_address": "0x34fd21a9da0912abd142f4d6c3629abec5159916",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sasquatch.money"
+        ],
+        "telegram_groups": [
+            "proofofsasquatch"
+        ],
+        "holders": {
+            "ETH": 76
+        }
+    },
+    {
+        "contract_address": "0x97872eafd79940c7b24f7bcc1eadb1457347adc9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1371
+        }
+    },
+    {
+        "contract_address": "0xea9b9aa678e79666712493b7f35475eff96db3fb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0xabd601423a2cd5723cb546acc5c40fb01c3422cf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1123
+        }
+    },
+    {
+        "contract_address": "0x53cf9d888135ddec4c2c1ec286b87913ef31f1c9",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "IETHPORTAL"
+        ],
+        "holders": {
+            "ETH": 283
+        }
+    },
+    {
+        "contract_address": "0xd794dd1cada4cf79c9eebaab8327a1b0507ef7d4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3238
+        }
+    },
+    {
+        "contract_address": "0x1ae7e1d0ce06364ced9ad58225a1705b3e5db92b",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "lmeow_lmeow"
+        ],
+        "holders": {
+            "ETH": 659
+        }
+    },
+    {
+        "contract_address": "0xd721706581d97ecd202bbab5c71b5a85f0f78e69",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.doge1mission.com"
+        ],
+        "telegram_groups": [
+            "Doge1MissionERC20"
+        ],
+        "holders": {
+            "ETH": 889
+        }
+    },
+    {
+        "contract_address": "0x1f5e7a3f1146a1de67a362c5856c1a2e24a33929",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "thefrogcoin.net"
+        ],
+        "telegram_groups": [
+            "FrogCoinEntry"
+        ],
+        "holders": {
+            "ETH": 90
+        }
     }
 ]
