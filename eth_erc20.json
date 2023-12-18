@@ -19364,5 +19364,139 @@
         "holders": {
             "ETH": 667
         }
+    },
+    {
+        "contract_address": "0x0ebe30595a44e5288c24161ddfc1e9fa08e33a0c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1667
+        }
+    },
+    {
+        "contract_address": "0x74d2d73b455540b037298c0e0925bc702aedbe4a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "theschrodinger.com"
+        ],
+        "holders": {
+            "ETH": 137
+        }
+    },
+    {
+        "contract_address": "0x977b6fc5de62598b08c85ac8cf2b745874e8b78c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 166
+        }
+    },
+    {
+        "contract_address": "0xc05c3af62f5f3663f2c415473aa4d5ad69200033",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sellpepebuypirb.com"
+        ],
+        "telegram_groups": [
+            "PIRB_ERC20"
+        ],
+        "holders": {
+            "ETH": 442
+        }
+    },
+    {
+        "contract_address": "0x8b3192f5eebd8579568a2ed41e6feb402f93f73f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 369335
+        }
+    },
+    {
+        "contract_address": "0xf1c9acdc66974dfb6decb12aa385b9cd01190e38",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 159
+        }
+    },
+    {
+        "contract_address": "0xc9da65931abf0ed1b74ce5ad8c041c4220940368",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 192
+        }
+    },
+    {
+        "contract_address": "0x71465c74bebef8311db6e2ab74575a197887345f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 157
+        }
+    },
+    {
+        "contract_address": "0x848896470d989f30503d8f883c331f63b73b66ea",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 113
+        }
+    },
+    {
+        "contract_address": "0x600000000a36f3cd48407e35eb7c5c910dc1f7a8",
+        "sourceScanned": "processed",
+        "emails": [
+            "frankie@paradigm.xyz",
+            "t11s@paradigm.xyz"
+        ],
+        "holders": {
+            "ETH": 753
+        }
+    },
+    {
+        "contract_address": "0x8888888837f84a7a82668e0320ac454f5945d0b9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 46
+        }
+    },
+    {
+        "contract_address": "0x22da1dc08ebe55b51c522a1fc125cac41d4893dc",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "no_better_erc20"
+        ],
+        "holders": {
+            "ETH": 296
+        }
+    },
+    {
+        "contract_address": "0x799ebfabe77a6e34311eeee9825190b9ece32824",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4691
+        }
+    },
+    {
+        "contract_address": "0xfffb3adcf82f6d282a6378bb6767d06e286844c1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dev.to"
+        ],
+        "holders": {
+            "ETH": 313
+        }
+    },
+    {
+        "contract_address": "0x37fc4b48ce93469dbea9918468993c735049642a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8313
+        }
+    },
+    {
+        "contract_address": "0x6ead9a977624d16961823e07e55cd2b748ae3ba0",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "HobbesPortal"
+        ],
+        "holders": {
+            "ETH": 170
+        }
     }
 ]
