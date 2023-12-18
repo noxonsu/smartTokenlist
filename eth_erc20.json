@@ -18742,7 +18742,9 @@
         },
         "web_domains": [
             "fidiumfiber.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5c",
@@ -18831,7 +18833,9 @@
         },
         "web_domains": [
             "mintstargram.tech"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa58a83361936471b50e2d1c7f99d422e6d73d397",
@@ -18841,7 +18845,12 @@
         },
         "web_domains": [
             "xrise.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "hello@xrise.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd05e3cfe984a00f5d6a1e5b75dee43d7e9ab63c8",
