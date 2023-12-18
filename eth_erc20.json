@@ -18567,5 +18567,153 @@
         "holders": {
             "ETH": 2297
         }
+    },
+    {
+        "contract_address": "0x0f2223dd323afeceba01a83e6ac7519534450ca3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 51
+        }
+    },
+    {
+        "contract_address": "0x6d11df4ce65213f765e2764a586c29f45fef3060",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.0xdefi.pro",
+            "app.0xdefi.pro"
+        ],
+        "telegram_groups": [
+            "zeroxdefi_erc"
+        ],
+        "holders": {
+            "ETH": 152
+        }
+    },
+    {
+        "contract_address": "0x5f190f9082878ca141f858c1c90b4c59fe2782c5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5351
+        }
+    },
+    {
+        "contract_address": "0x40e7f51798705b591413ee7556b0970ac0589530",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xcc6279efb2471aaf2358611febec8571df43b853",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ElsaPortal"
+        ],
+        "holders": {
+            "ETH": 238
+        }
+    },
+    {
+        "contract_address": "0x3250577e12b9469915c1fa3a71c22817ca44c4d9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 74
+        }
+    },
+    {
+        "contract_address": "0x93c9175e26f57d2888c7df8b470c9eea5c0b0a93",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1324
+        }
+    },
+    {
+        "contract_address": "0x24da31e7bb182cb2cabfef1d88db19c2ae1f5572",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tokenmint.io"
+        ],
+        "holders": {
+            "ETH": 5593
+        }
+    },
+    {
+        "contract_address": "0xb551b43af192965f74e3dfaa476c890b403cad95",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "databotERC"
+        ],
+        "holders": {
+            "ETH": 286
+        }
+    },
+    {
+        "contract_address": "0xd585aaafa2b58b1cd75092b51ade9fa4ce52f247",
+        "sourceScanned": "processed",
+        "emails": [
+            "goncalo.sa@consensys.net"
+        ],
+        "holders": {
+            "ETH": 407
+        }
+    },
+    {
+        "contract_address": "0x23debb97bebcd2762c07a87973fd7695e1839983",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0x3affcca64c2a6f4e3b6bd9c64cd2c969efd1ecbe",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9697
+        }
+    },
+    {
+        "contract_address": "0x62b9c7356a2dc64a1969e19c23e4f579f9810aa7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4092
+        }
+    },
+    {
+        "contract_address": "0xb55ee890426341fe45ee6dc788d2d93d25b59063",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "supertoken.xyz"
+        ],
+        "holders": {
+            "ETH": 1362
+        }
+    },
+    {
+        "contract_address": "0x235b429ae4f550f2a40bd428c6646fc912482d23",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 36
+        }
+    },
+    {
+        "contract_address": "0xae788f80f2756a86aa2f410c651f2af83639b95b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 538
+        }
+    },
+    {
+        "contract_address": "0xc7a2572fa8fdb0f7e81d6d3c4e3ccf78fb0dc374",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1879
+        }
+    },
+    {
+        "contract_address": "0xa1d6df714f91debf4e0802a542e13067f31b8262",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11097
+        }
     }
 ]
