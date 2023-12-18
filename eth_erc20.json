@@ -17847,14 +17847,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 54
-        }
+        },
+        "web_domains": [
+            "restakefinance.com"
+        ]
     },
     {
         "contract_address": "0x5f80fa28e879d0334d240990550ebedb2ff231df",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 192
-        }
+        },
+        "web_domains": [
+            "0xgrok.tech"
+        ]
     },
     {
         "contract_address": "0x115ec79f1de567ec68b7ae7eda501b406626478e",
@@ -17933,14 +17939,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 49
-        }
+        },
+        "web_domains": [
+            "realio.fund"
+        ]
     },
     {
         "contract_address": "0x42ecf9bde9078d659663da66b97c4823f762005e",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "kiln.fi"
+        ]
     },
     {
         "contract_address": "0x00a0be1bbc0c99898df7e6524bf16e893c1e3bb9",
