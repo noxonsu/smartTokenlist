@@ -18071,7 +18071,8 @@
         ],
         "holders": {
             "ETH": 58
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x42a7797351dfd281a80807196c8508eb70bb2af9",
@@ -18126,7 +18127,9 @@
         },
         "web_domains": [
             "tangotango.net"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xdaa58a1851672a6490e2bb9fdc8868918cdd86e6",
