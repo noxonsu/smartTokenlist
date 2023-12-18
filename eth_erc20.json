@@ -19380,7 +19380,11 @@
         ],
         "holders": {
             "ETH": 137
-        }
+        },
+        "telegram_groups": [
+            "Schrodingercommunity"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x977b6fc5de62598b08c85ac8cf2b745874e8b78c",
@@ -19396,11 +19400,17 @@
             "sellpepebuypirb.com"
         ],
         "telegram_groups": [
-            "PIRB_ERC20"
+            "PIRB_ERC20",
+            "PIRBViewPROBot",
+            "PIRBViewBot"
         ],
         "holders": {
             "ETH": 442
-        }
+        },
+        "emails": [
+            "contact@pirb.tech"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8b3192f5eebd8579568a2ed41e6feb402f93f73f",
@@ -19480,7 +19490,9 @@
         ],
         "holders": {
             "ETH": 313
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x37fc4b48ce93469dbea9918468993c735049642a",
