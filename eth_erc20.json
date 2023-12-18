@@ -17850,7 +17850,9 @@
         },
         "web_domains": [
             "restakefinance.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x5f80fa28e879d0334d240990550ebedb2ff231df",
@@ -17860,7 +17862,14 @@
         },
         "web_domains": [
             "0xgrok.tech"
-        ]
+        ],
+        "telegram_groups": [
+            "OxGrok"
+        ],
+        "emails": [
+            " 0xGrokERC@hotmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x115ec79f1de567ec68b7ae7eda501b406626478e",
@@ -17942,7 +17951,9 @@
         },
         "web_domains": [
             "realio.fund"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x42ecf9bde9078d659663da66b97c4823f762005e",
@@ -17952,7 +17963,9 @@
         },
         "web_domains": [
             "kiln.fi"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x00a0be1bbc0c99898df7e6524bf16e893c1e3bb9",
@@ -17975,11 +17988,16 @@
             "2048.foundation"
         ],
         "telegram_groups": [
-            "ERC_2048"
+            "ERC_2048",
+            "ERC2048"
         ],
         "holders": {
             "ETH": 158
-        }
+        },
+        "emails": [
+            "2048@2048.foundation"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x835d6d94b5b936aec79d52b5ea8c54a8e606c410",
