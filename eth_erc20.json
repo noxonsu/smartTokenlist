@@ -18386,7 +18386,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 165
-        }
+        },
+        "web_domains": [
+            "lakeviewmeta.com"
+        ]
     },
     {
         "contract_address": "0x5a713b087519fbc56e6262fa77943d77ae3da7ee",
@@ -18523,7 +18526,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 205
-        }
+        },
+        "web_domains": [
+            "santarally.club"
+        ]
     },
     {
         "contract_address": "0x6992efa26f7617dda2f436d13a03af168c86fe39",
