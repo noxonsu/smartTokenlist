@@ -18726,5 +18726,129 @@
         "holders": {
             "ETH": 11097
         }
+    },
+    {
+        "contract_address": "0x68749665ff8d2d112fa859aa293f07a622782f38",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1409
+        }
+    },
+    {
+        "contract_address": "0x1294f4183763743c7c9519bec51773fb3acd78fd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2291
+        }
+    },
+    {
+        "contract_address": "0x96cd40c57499d71b4eb7bc34f2d3e4b42a0695d1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0x70462a2751bd6ee1b542966454f0c0b32d61cd7c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x4cce605ed955295432958d8951d0b176c10720d5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 115
+        }
+    },
+    {
+        "contract_address": "0x8e0e57dcb1ce8d9091df38ec1bfc3b224529754a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 669
+        }
+    },
+    {
+        "contract_address": "0xea26c4ac16d4a5a106820bc8aee85fd0b7b2b664",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10107
+        }
+    },
+    {
+        "contract_address": "0x557b933a7c2c45672b610f8954a3deb39a51a8ca",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "buidler.dev"
+        ],
+        "holders": {
+            "ETH": 9242
+        }
+    },
+    {
+        "contract_address": "0x5c147e74d63b1d31aa3fd78eb229b65161983b2b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 870
+        }
+    },
+    {
+        "contract_address": "0x788d86e00ab31db859c3d6b80d5a9375801d7f2a",
+        "sourceScanned": "processed",
+        "emails": [
+            "goncalo.sa@consensys.net"
+        ],
+        "holders": {
+            "ETH": 474
+        }
+    },
+    {
+        "contract_address": "0xca5b0ae1d104030a9b8f879523508efd86c14483",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "swcregistry.io"
+        ],
+        "holders": {
+            "ETH": 565
+        }
+    },
+    {
+        "contract_address": "0xb82386da1fce533a56fb59bebdb323ae3cfe4826",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 36
+        }
+    },
+    {
+        "contract_address": "0xa58a83361936471b50e2d1c7f99d422e6d73d397",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 283
+        }
+    },
+    {
+        "contract_address": "0xd05e3cfe984a00f5d6a1e5b75dee43d7e9ab63c8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1035
+        }
+    },
+    {
+        "contract_address": "0x3d5fa1cf7d356474f72c8cb24f7a6117b40f8c40",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "saintbot_deployer_bot"
+        ],
+        "holders": {
+            "ETH": 633
+        }
     }
 ]
