@@ -18221,5 +18221,118 @@
         "holders": {
             "ETH": 1522
         }
+    },
+    {
+        "contract_address": "0x50b275a15e4f5004aa96f972a30e6a9c718b203f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 559
+        }
+    },
+    {
+        "contract_address": "0xf1290473e210b2108a85237fbcd7b6eb42cc654f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2406
+        }
+    },
+    {
+        "contract_address": "0x2c59caa7362df681a8cb316ac2a719d4792650ea",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 270
+        }
+    },
+    {
+        "contract_address": "0x69e71c32524067b967d3cb3d345ccadc5ef63bfb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0x19f5d973335480d26270dc498459e2f39cf2da53",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 382
+        }
+    },
+    {
+        "contract_address": "0xfb14434cab5ec006a562ef9ed7ad8610866da65a",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "TigraPortal"
+        ],
+        "holders": {
+            "ETH": 232
+        }
+    },
+    {
+        "contract_address": "0xdd26ad7d8a5d8b5573c07681d3e2f096b7ea1399",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ByteBark_Portal"
+        ],
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0xe44aa0354341f02d51c14fe2248b005b2e3372d4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 282
+        }
+    },
+    {
+        "contract_address": "0x6b87bdc4b6a6235f5a6e19188ac9014f6e52a9fa",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "secretsantabox.com"
+        ],
+        "telegram_groups": [
+            "SecretSantaBox"
+        ],
+        "holders": {
+            "ETH": 37
+        }
+    },
+    {
+        "contract_address": "0x24c487fc99f31181ffdc3b7664b7471ee0506518",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "samuraisaga.com"
+        ],
+        "holders": {
+            "ETH": 2548
+        }
+    },
+    {
+        "contract_address": "0xb3e075fcda865475a35aafa8a470cc04326686a0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 60
+        }
+    },
+    {
+        "contract_address": "0xcc6773f710b7f2a2357e228609c114f8fae04b61",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 152
+        }
+    },
+    {
+        "contract_address": "0xc2cb1040220768554cf699b0d863a3cd4324ce32",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 204
+        }
+    },
+    {
+        "contract_address": "0xe6354ed5bc4b393a5aad09f21c46e101e692d447",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 105
+        }
     }
 ]
