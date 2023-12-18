@@ -18123,7 +18123,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 15
-        }
+        },
+        "web_domains": [
+            "tangotango.net"
+        ]
     },
     {
         "contract_address": "0xdaa58a1851672a6490e2bb9fdc8868918cdd86e6",
