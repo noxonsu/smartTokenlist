@@ -18389,7 +18389,11 @@
         },
         "web_domains": [
             "lakeviewmeta.com"
-        ]
+        ],
+        "telegram_groups": [
+            "LakeView_Meta"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5a713b087519fbc56e6262fa77943d77ae3da7ee",
@@ -18445,7 +18449,8 @@
         ],
         "holders": {
             "ETH": 56
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x10da817b9b5311392ce21a9fbf198dac1d912f48",
@@ -18471,7 +18476,8 @@
         ],
         "holders": {
             "ETH": 28
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x595832f8fc6bf59c85c527fec3740a1b7a361269",
@@ -18529,7 +18535,11 @@
         },
         "web_domains": [
             "santarally.club"
-        ]
+        ],
+        "telegram_groups": [
+            "santaclaus_ann"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6992efa26f7617dda2f436d13a03af168c86fe39",
