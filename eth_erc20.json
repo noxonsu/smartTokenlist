@@ -18739,7 +18739,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 7
-        }
+        },
+        "web_domains": [
+            "fidiumfiber.com"
+        ]
     },
     {
         "contract_address": "0x98c23e9d8f34fefb1b7bd6a91b7ff122f4e16f5c",
@@ -18825,14 +18828,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 36
-        }
+        },
+        "web_domains": [
+            "mintstargram.tech"
+        ]
     },
     {
         "contract_address": "0xa58a83361936471b50e2d1c7f99d422e6d73d397",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 283
-        }
+        },
+        "web_domains": [
+            "xrise.io"
+        ]
     },
     {
         "contract_address": "0xd05e3cfe984a00f5d6a1e5b75dee43d7e9ab63c8",
