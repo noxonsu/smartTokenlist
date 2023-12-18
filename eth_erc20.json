@@ -18251,7 +18251,9 @@
         },
         "web_domains": [
             "ordinals.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x19f5d973335480d26270dc498459e2f39cf2da53",
@@ -18298,7 +18300,8 @@
         ],
         "holders": {
             "ETH": 37
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x24c487fc99f31181ffdc3b7664b7471ee0506518",
@@ -18332,7 +18335,9 @@
         },
         "web_domains": [
             "yearn.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe6354ed5bc4b393a5aad09f21c46e101e692d447",
