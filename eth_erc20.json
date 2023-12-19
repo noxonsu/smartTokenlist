@@ -21293,11 +21293,14 @@
             "blitzbots.io"
         ],
         "telegram_groups": [
-            "BlitzBots"
+            "BlitzSniper_Bot",
+            "BlitzBots",
+            "BlitzTracker_Bot"
         ],
         "holders": {
             "ETH": 238
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8990c80fe4713c45eefde3a92f4cc93c152223a9",
@@ -21306,12 +21309,13 @@
             "ordinalhub.world"
         ],
         "telegram_groups": [
-            "OrdinalHubBot",
-            "ORDIHUBERC"
+            "ORDIHUBERC",
+            "OrdinalHubBot"
         ],
         "holders": {
             "ETH": 131
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb1f871ae9462f1b2c6826e88a7827e76f86751d4",
@@ -21327,12 +21331,14 @@
             "0xnumber.io"
         ],
         "telegram_groups": [
+            "oxnumber_bot",
             "OxNumber_bot",
             "OxNumber"
         ],
         "holders": {
             "ETH": 302
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x93999d3fcab15cc052cf96b739580fc11e015944",
@@ -21362,11 +21368,17 @@
             "www.peer-coin.finance"
         ],
         "telegram_groups": [
+            "pcf_nexus_bot",
+            "pcf_p2p_bot",
             "peerportal"
         ],
         "holders": {
             "ETH": 134
-        }
+        },
+        "emails": [
+            "team@peer-coin.finance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xafb410cffb7309c7e32e4bbfc589ab6c214803bd",
@@ -21381,7 +21393,8 @@
         ],
         "holders": {
             "ETH": 37
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x275f5ad03be0fa221b4c6649b8aee09a42d9412a",
