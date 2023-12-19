@@ -19921,7 +19921,11 @@
         ],
         "holders": {
             "ETH": 1
-        }
+        },
+        "telegram_groups": [
+            "PeapodsFinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb5c578947de0fd71303f71f2c3d41767438bd0de",
@@ -19948,7 +19952,8 @@
         ],
         "holders": {
             "ETH": 245
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x02386d4d51bd899c4224329969bcfbf82723fc29",
@@ -19958,11 +19963,13 @@
             "catsington.pet"
         ],
         "telegram_groups": [
-            "catsington"
+            "catsington",
+            "CoinDeskGlobal"
         ],
         "holders": {
             "ETH": 137
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9b9647431632af44be02ddd22477ed94d14aacaa",
@@ -19996,7 +20003,8 @@
         ],
         "holders": {
             "ETH": 199
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x73e0ba1ef9f8b536da3492bbb1826a5f1cd65f16",
@@ -20009,7 +20017,8 @@
         ],
         "holders": {
             "ETH": 62
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1142866f451d9d5281c5c8349a332bd338e552a1",
@@ -20030,7 +20039,8 @@
         ],
         "holders": {
             "ETH": 6
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x14da230d6726c50f759bc1838717f8ce6373509c",
