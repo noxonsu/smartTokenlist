@@ -19669,7 +19669,11 @@
         ],
         "holders": {
             "ETH": 31
-        }
+        },
+        "emails": [
+            "dev@bullrun.money"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4d24bf2a02d2b09f4c4e7befa773dff11ed0c461",
@@ -19682,7 +19686,11 @@
         ],
         "holders": {
             "ETH": 175
-        }
+        },
+        "emails": [
+            "FEED@FEEDTHEVILLAGE.XYZ"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8a2021a9dfb43d655daeecf8865e4926825a4282",
@@ -19692,12 +19700,13 @@
             "docs.bridgebot.tech"
         ],
         "telegram_groups": [
-            "BridgeTechBot",
-            "BridgeBotPro"
+            "BridgeBotPro",
+            "BridgeTechBot"
         ],
         "holders": {
             "ETH": 144
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x521d2576bfa902dffa2642909021bc9a23a2b20b",
@@ -19775,11 +19784,13 @@
             "book.burners.bot"
         ],
         "telegram_groups": [
-            "burnersdotbot"
+            "burnersdotbot",
+            "Burners_bot"
         ],
         "holders": {
             "ETH": 151
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xca9d8ef4ba15ae66347b3d22afe2970b89980f88",
@@ -19806,7 +19817,8 @@
         ],
         "holders": {
             "ETH": 2
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf93bbef21e8dba3e2e116a7551a5c2cc3d5901f1",
@@ -19820,7 +19832,11 @@
         ],
         "holders": {
             "ETH": 70
-        }
+        },
+        "emails": [
+            " DYOR 2023 | contact@dyorpools.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xaa8330fb2b4d5d07abfe7a72262752a8505c6b37",
