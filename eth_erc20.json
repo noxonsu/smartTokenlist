@@ -20822,5 +20822,115 @@
             "SocialAIPortal"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x6595b8fd9c920c81500dca94e53cdc712513fb1f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3236
+        }
+    },
+    {
+        "contract_address": "0x1921b852f38bc68430780242b2628d0ca14cef83",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 59
+        }
+    },
+    {
+        "contract_address": "0xa00a4d5786a6e955e9539d01d78bf68f3271c050",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9562
+        }
+    },
+    {
+        "contract_address": "0x0e6a8071b97982ce123e57b3b1f21ec3d26437dd",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "LaunchTech.live"
+        ],
+        "telegram_groups": [
+            "LaunchTechPortal"
+        ],
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0x113c57bdfae9451f0223b5ea1ee9b70822aeb416",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.yumetoken.com"
+        ],
+        "telegram_groups": [
+            "YumePutinDog"
+        ],
+        "holders": {
+            "ETH": 181
+        }
+    },
+    {
+        "contract_address": "0x5245c0249e5eeb2a0838266800471fd32adb1089",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1065
+        }
+    },
+    {
+        "contract_address": "0x96e61422b6a9ba0e068b6c5add4ffabc6a4aae27",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 468
+        }
+    },
+    {
+        "contract_address": "0x1eca6f227e42f12883350f8841463cc073f4c4a6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 335
+        }
+    },
+    {
+        "contract_address": "0x66d4e39c355a911f6d19b3612785b63184a57c72",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1056
+        }
+    },
+    {
+        "contract_address": "0xed328e9c1179a30ddc1e7595e036aed8760c22af",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10274
+        }
+    },
+    {
+        "contract_address": "0xfc10cd3895f2c66d6639ec33ae6360d6cfca7d6d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1013
+        }
+    },
+    {
+        "contract_address": "0x8b0e42f366ba502d787bb134478adfae966c8798",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10726
+        }
+    },
+    {
+        "contract_address": "0x180c392fd6d9147602c5cf8a4cab8a331e9721c3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 42
+        }
+    },
+    {
+        "contract_address": "0x7a2bc711e19ba6aff6ce8246c546e8c4b4944dfd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1619
+        }
     }
 ]
