@@ -21481,7 +21481,11 @@
         ],
         "holders": {
             "ETH": 120
-        }
+        },
+        "telegram_groups": [
+            "EmeraldMinePortal"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x27460aac4b005de72e2326bd8391c27fb41780f8",
@@ -21544,7 +21548,8 @@
         ],
         "holders": {
             "ETH": 292
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe5ffb4c84c7f2e3c861369cff39b50dfebd218f9",
@@ -21584,7 +21589,9 @@
         ],
         "holders": {
             "ETH": 20
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xedcf86b8b407b4c33ee9b73a9494c58d6a70c1e4",
@@ -21614,11 +21621,13 @@
             "ico-navigator.io"
         ],
         "telegram_groups": [
-            "iconerc"
+            "iconerc",
+            "iconavigator_bot"
         ],
         "holders": {
             "ETH": 131
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd6d36c2f60ca0e2a606632b23024903183a45bec",
@@ -21627,12 +21636,20 @@
             "BlinkListings.com"
         ],
         "telegram_groups": [
+            "Dannyyooooo",
             "BlinkListings",
-            "BlinkAdBot"
+            "ErakErak23",
+            "BlinkAdBot",
+            "EmkoLomsky2",
+            "PopeSmokex"
         ],
         "holders": {
             "ETH": 215
-        }
+        },
+        "emails": [
+            "admin@blinklistings.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x569d0e52c3dbe95983bcc2434cb9f69d905be919",
@@ -21645,7 +21662,8 @@
         ],
         "holders": {
             "ETH": 116
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2328ae96c121426ca926e4d8d55b58895b1256e6",
