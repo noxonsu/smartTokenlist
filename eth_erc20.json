@@ -20283,7 +20283,11 @@
         ],
         "holders": {
             "ETH": 205
-        }
+        },
+        "emails": [
+            "TEAM@KABOCHAN.VIP"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x177209b0b55ead2774a9d7bd12d46239a7b36ec3",
@@ -20317,7 +20321,11 @@
         ],
         "holders": {
             "ETH": 398
-        }
+        },
+        "emails": [
+            "abe-erc@hotmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4dcda2274899d9bba3bb6f5a852c107dd6e4fe1c",
