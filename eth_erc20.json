@@ -20668,7 +20668,8 @@
         ],
         "holders": {
             "ETH": 107
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xbbaec992fc2d637151daf40451f160bf85f3c8c1",
@@ -20816,6 +20817,10 @@
         ],
         "holders": {
             "ETH": 294
-        }
+        },
+        "telegram_groups": [
+            "SocialAIPortal"
+        ],
+        "p6": true
     }
 ]
