@@ -20851,11 +20851,13 @@
             "LaunchTech.live"
         ],
         "telegram_groups": [
-            "LaunchTechPortal"
+            "LaunchTechPortal",
+            "Launchtechportal"
         ],
         "holders": {
             "ETH": 26
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x113c57bdfae9451f0223b5ea1ee9b70822aeb416",
@@ -20868,7 +20870,8 @@
         ],
         "holders": {
             "ETH": 181
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5245c0249e5eeb2a0838266800471fd32adb1089",
