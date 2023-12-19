@@ -21116,7 +21116,8 @@
         ],
         "holders": {
             "ETH": 130
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf332daad681de5e01a927855203c035e7c8f2b4f",
@@ -21164,7 +21165,8 @@
         ],
         "holders": {
             "ETH": 140
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa64e1b7705f832c61d948e70f0df8fc8ca2fb8ba",
@@ -21178,7 +21180,8 @@
         ],
         "holders": {
             "ETH": 41
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x76ff70dd2503f83154411fb743217a282575cda5",
@@ -21191,7 +21194,11 @@
         ],
         "holders": {
             "ETH": 116
-        }
+        },
+        "emails": [
+            "support@nemesisreblock.network"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x667102bd3413bfeaa3dffb48fa8288819e480a88",
@@ -21240,7 +21247,9 @@
         ],
         "holders": {
             "ETH": 38
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xdc756a0a5f333679f22fadf07a5a2b4df87bfd15",
