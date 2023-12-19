@@ -20525,7 +20525,8 @@
         ],
         "holders": {
             "ETH": 305
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd",
@@ -20554,7 +20555,8 @@
         ],
         "holders": {
             "ETH": 18
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd9c2d319cd7e6177336b0a9c93c21cb48d84fb54",
@@ -20601,7 +20603,8 @@
         ],
         "holders": {
             "ETH": 116
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9f15c09f1ebd1340fa518ade3ef7c74ecd4bf84b",
