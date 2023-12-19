@@ -21285,5 +21285,172 @@
         "holders": {
             "ETH": 0
         }
+    },
+    {
+        "contract_address": "0x03a0657fc10d7169305a0179eb80d4f568cda705",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blitzbots.io"
+        ],
+        "telegram_groups": [
+            "BlitzBots"
+        ],
+        "holders": {
+            "ETH": 238
+        }
+    },
+    {
+        "contract_address": "0x8990c80fe4713c45eefde3a92f4cc93c152223a9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ordinalhub.world"
+        ],
+        "telegram_groups": [
+            "OrdinalHubBot",
+            "ORDIHUBERC"
+        ],
+        "holders": {
+            "ETH": 131
+        }
+    },
+    {
+        "contract_address": "0xb1f871ae9462f1b2c6826e88a7827e76f86751d4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2763
+        }
+    },
+    {
+        "contract_address": "0x9012744b7a564623b6c3e40b144fc196bdedf1a9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "0xnumber.io"
+        ],
+        "telegram_groups": [
+            "OxNumber_bot",
+            "OxNumber"
+        ],
+        "holders": {
+            "ETH": 302
+        }
+    },
+    {
+        "contract_address": "0x93999d3fcab15cc052cf96b739580fc11e015944",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 237
+        }
+    },
+    {
+        "contract_address": "0xa29fe6ef9592b5d408cca961d0fb9b1faf497d6d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8
+        }
+    },
+    {
+        "contract_address": "0xc97a2e66fe5fd766ccac0d040d2c2f837580fcf2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 63
+        }
+    },
+    {
+        "contract_address": "0x624a26ceeec154f428f6fb6f2045da6e679f66c5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.peer-coin.finance"
+        ],
+        "telegram_groups": [
+            "peerportal"
+        ],
+        "holders": {
+            "ETH": 134
+        }
+    },
+    {
+        "contract_address": "0xafb410cffb7309c7e32e4bbfc589ab6c214803bd",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.sandglass.finance",
+            "app.sandglass.finance",
+            "docs.sandglass.finance"
+        ],
+        "telegram_groups": [
+            "sandglass_finance"
+        ],
+        "holders": {
+            "ETH": 37
+        }
+    },
+    {
+        "contract_address": "0x275f5ad03be0fa221b4c6649b8aee09a42d9412a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1425
+        }
+    },
+    {
+        "contract_address": "0x259ce0cb3581995d40cbb03fd4badeaaba1edaff",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 807
+        }
+    },
+    {
+        "contract_address": "0xe6fd75ff38adca4b97fbcd938c86b98772431867",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 915
+        }
+    },
+    {
+        "contract_address": "0x4deddf626bece45750d66ef0927372ddf80a0728",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0xfb130d93e49dca13264344966a611dc79a456bc5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7059
+        }
+    },
+    {
+        "contract_address": "0x29819c398ff599c15abb5cada60757a55ca2ab90",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x222c7df79ff8cd9bd85a9ed8d900723ce042d269",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xdf9dd386f7dde4d1ac29473936e109b675009885",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x96184d9c811ea0624fc30c80233b1d749b9e485b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4693
+        }
+    },
+    {
+        "contract_address": "0xe939f011a3d8fc0aa874c97e8156053a903d7176",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 817
+        }
     }
 ]
