@@ -22474,5 +22474,117 @@
         "holders": {
             "ETH": 32
         }
+    },
+    {
+        "contract_address": "0x30c084890fc07d78f3499ffc818b3225bc8812ea",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1760
+        }
+    },
+    {
+        "contract_address": "0xea60cd69f2b9fd6eb067bddbbf86a5bdeffbbc55",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 55
+        }
+    },
+    {
+        "contract_address": "0xb58e26ac9cc14c0422c2b419b0ca555ee4dcb7cb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 648
+        }
+    },
+    {
+        "contract_address": "0x94ef9c0d65f0cace2712ff2d05db482a2f809408",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.unilad.com",
+            "edition.cnn.com"
+        ],
+        "telegram_groups": [
+            "taterserc20"
+        ],
+        "holders": {
+            "ETH": 94
+        }
+    },
+    {
+        "contract_address": "0xc3761eb917cd790b30dad99f6cc5b4ff93c4f9ea",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 101904
+        }
+    },
+    {
+        "contract_address": "0x8189afbe7b0e81dae735ef027cd31371b3974feb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6637
+        }
+    },
+    {
+        "contract_address": "0xf251dc33f590a34fd35b6cecaa46b71f06bfc8dc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 41
+        }
+    },
+    {
+        "contract_address": "0x12bafcd4b3d947faa31bd2c0215049a0d595d47f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x9be89d2a4cd102d8fecc6bf9da793be995c22541",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 22894
+        }
+    },
+    {
+        "contract_address": "0xef76ee7ddaa8ef643ffa0e7d45efe524d499312b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x3d0f3a8dab6bda1ffdb345d174b611d6ff7a6f7c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1914
+        }
+    },
+    {
+        "contract_address": "0x8642a849d0dcb7a15a974794668adcfbe4794b56",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2743
+        }
+    },
+    {
+        "contract_address": "0xa0246c9032bc3a600820415ae600c6388619a14d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 14976
+        }
+    },
+    {
+        "contract_address": "0xfc98e825a2264d890f9a1e68ed50e1526abccacd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3671
+        }
+    },
+    {
+        "contract_address": "0x6a7e6518565ec68acf23830651f2e481d06b3652",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 199
+        }
     }
 ]
