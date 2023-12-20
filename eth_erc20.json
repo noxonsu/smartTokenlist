@@ -23107,5 +23107,186 @@
         "holders": {
             "ETH": 321
         }
+    },
+    {
+        "contract_address": "0x7c5a0ce9267ed19b22f8cae653f198e3e8daf098",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2993
+        }
+    },
+    {
+        "contract_address": "0x6bb61215298f296c55b19ad842d3df69021da2ef",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1795
+        }
+    },
+    {
+        "contract_address": "0x073750548a7080ff6a925747ef245f1fcc91675e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0x00c5ca160a968f47e7272a0cfcda36428f386cb6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 323
+        }
+    },
+    {
+        "contract_address": "0x51f2af161604f90ee5666517a6ae76d92863bdb6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 466
+        }
+    },
+    {
+        "contract_address": "0xc2fab88f215f62244d2e32c8a65e8f58da8415a5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "developer.offchainlabs.com"
+        ],
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0xe079abf6952c980c53de75c8bf3e4ff8e9f2d663",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.ecaibot.com",
+            "dapp.ecaibot.com",
+            "tokenerc20.gitbook.io"
+        ],
+        "telegram_groups": [
+            "ecaiofficial",
+            "ecaiverificationbot"
+        ],
+        "holders": {
+            "ETH": 203
+        }
+    },
+    {
+        "contract_address": "0xea51d7853eefb32b6ee06b1c12e6dcca88be0ffe",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 769
+        }
+    },
+    {
+        "contract_address": "0x7a8adcf432ebcc2311b955d176ee4bfed13bb9a7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.mandoxglobal.com",
+            "www.mandoxglobal.com"
+        ],
+        "holders": {
+            "ETH": 3206
+        }
+    },
+    {
+        "contract_address": "0x9ce8edbbd718050b8de6e16217ba2439a3038de0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 75
+        }
+    },
+    {
+        "contract_address": "0x0e0eac4fbb833c39c3d5f545f076126cffcd1449",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ripple-ai.cc"
+        ],
+        "telegram_groups": [
+            "rippleaierc"
+        ],
+        "holders": {
+            "ETH": 45
+        }
+    },
+    {
+        "contract_address": "0x1f735f84b07cc20e9ac471c291a87b5a2428d518",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 675
+        }
+    },
+    {
+        "contract_address": "0x62e948cd5eb5fbd23646f7d7bf76bff10ef4bbd5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.xmas.meme"
+        ],
+        "telegram_groups": [
+            "XmasTokenERC"
+        ],
+        "holders": {
+            "ETH": 133
+        }
+    },
+    {
+        "contract_address": "0x33d5ac1ae5b3d3aca28872601273531016dbd9a5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sandwich.bot",
+            "archives.sandwich.bot"
+        ],
+        "telegram_groups": [
+            "SandwichChat"
+        ],
+        "holders": {
+            "ETH": 173
+        }
+    },
+    {
+        "contract_address": "0xf7efc1f079f3aacd737bfffbcb5f58c30f64af87",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "quantumerc.com"
+        ],
+        "telegram_groups": [
+            "QuantumERC20"
+        ],
+        "holders": {
+            "ETH": 142
+        }
+    },
+    {
+        "contract_address": "0x36f8d0d0573ae92326827c4a82fe4ce4c244cab6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0x6c3c78838c761c6ac7be9f59fe808ea2a6e4379d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1932
+        }
+    },
+    {
+        "contract_address": "0x028171bca77440897b824ca71d1c56cac55b68a3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5414
+        }
+    },
+    {
+        "contract_address": "0xa5269a8e31b93ff27b887b56720a25f844db0529",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 17
+        }
+    },
+    {
+        "contract_address": "0xbcca60bb61934080951369a648fb03df4f96263c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8444
+        }
     }
 ]
