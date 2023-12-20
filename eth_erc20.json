@@ -22596,7 +22596,9 @@
         ],
         "holders": {
             "ETH": 53
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa3cb87080e68ad54d00573983d935fa85d168fde",
@@ -22632,11 +22634,16 @@
             "doggocoin.vip"
         ],
         "telegram_groups": [
-            "DOGGO_ERC20"
+            "DOGGO_ERC20",
+            "Doggo_ERC20"
         ],
         "holders": {
             "ETH": 61
-        }
+        },
+        "emails": [
+            "Email:doggoeth@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf4ac45a06e2e9dbbb79733f9f317b4c97e30a658",
@@ -22649,7 +22656,8 @@
         ],
         "holders": {
             "ETH": 242
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6d48206b97b164555c8fc7a40d59a7230e055166",
