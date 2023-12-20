@@ -22587,5 +22587,113 @@
         "holders": {
             "ETH": 199
         }
+    },
+    {
+        "contract_address": "0xd2ed01c4abf0e3bc7e0c9ed17f80f575c6ff84cc",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tokenmaker.eattheblocks.com"
+        ],
+        "holders": {
+            "ETH": 53
+        }
+    },
+    {
+        "contract_address": "0xa3cb87080e68ad54d00573983d935fa85d168fde",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "infinitybit.io"
+        ],
+        "telegram_groups": [
+            "infinitybit_io"
+        ],
+        "holders": {
+            "ETH": 1663
+        }
+    },
+    {
+        "contract_address": "0xddf688e96cb2531a69bf6347c02f069266c1aa81",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 14461
+        }
+    },
+    {
+        "contract_address": "0x995277e68d5a9eebdb52edbf4bca6468b33e7982",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 58
+        }
+    },
+    {
+        "contract_address": "0xcfe7e4bb19d41700920340f403d3df2b0b5350b1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "doggocoin.vip"
+        ],
+        "telegram_groups": [
+            "DOGGO_ERC20"
+        ],
+        "holders": {
+            "ETH": 61
+        }
+    },
+    {
+        "contract_address": "0xf4ac45a06e2e9dbbb79733f9f317b4c97e30a658",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bitcoindogs1dog.xyz"
+        ],
+        "telegram_groups": [
+            "BitcoinDogs1Dog"
+        ],
+        "holders": {
+            "ETH": 242
+        }
+    },
+    {
+        "contract_address": "0x6d48206b97b164555c8fc7a40d59a7230e055166",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 388
+        }
+    },
+    {
+        "contract_address": "0x11ffd70009f195cfb1fb908dae04b9ad6b5630dd",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Toshi_portal"
+        ],
+        "holders": {
+            "ETH": 55
+        }
+    },
+    {
+        "contract_address": "0xc56ec315db551315ed9857019fdb4c639ed9fd8c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xe831f96a7a1dce1aa2eb760b1e296c6a74caa9d5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1942
+        }
+    },
+    {
+        "contract_address": "0x50583dfa0fa5805712b1e6091a76515e8aae0ce0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 284
+        }
+    },
+    {
+        "contract_address": "0x9c9267d9c589e9efea5bfce762a33155dcf170e2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
