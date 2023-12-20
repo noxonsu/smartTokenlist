@@ -19,7 +19,7 @@ jobs:
         python-version: '3.11.6'
     - name: Check if TELEGRAM_SESSION_STRING is set
       run: |
-        if [ -z "${{ secrets.TELEGRAM_SESSION_STRING }}" ]; then
+        if [ -z "${{ vars.TELEGRAM_SESSION_STRING }}" ]; then
           echo "TELEGRAM_SESSION_STRING is not set!"
           exit 1
         else
