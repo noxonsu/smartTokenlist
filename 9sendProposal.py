@@ -8,7 +8,8 @@ TELEGRAM_API_HASH = os.environ.get('TELEGRAM_API_HASH')
 DEBUG_CHAT_ID = 'testonoutgroup'  # replace with your test chat username or ID
 DEBUG_MODE = False  # Set to False for live mode
 MAINFILE = os.environ.get("MAINFILE")
-
+TELEGRAM_SESSION_STRING2 = os.environ.get('TELEGRAM_SESSION_STRING2')
+TELEGRAM_SESSION_STRING = os.environ.get('TELEGRAM_SESSION_STRING')
 def catch_flood_wait(func):
     def wrapper(*args, **kwargs):
         try:
@@ -76,14 +77,22 @@ def main():
     with open(MAINFILE, 'r') as f:
         data = json.load(f)
     
-    groups_to_send_proposal = [entry for entry in data if entry.get("tgGroupJoined") == "success"and entry.get("p8") == True and "tgProposalSent" not in entry]
+    
+    
+    if random.randint(0, 1) == 0:
+        TELEGRAM_SESSION_STRING = os.environ.get('TELEGRAM_SESSION_STRING')
+    else:
+        TELEGRAM_SESSION_STRING = os.environ.get('TELEGRAM_SESSION_STRING2')
+        
+    
+    groups_to_send_proposal = [entry for entry in data if entry.get("tgGroupJoined") == "success"and entry.get("p8") == True and "tgProposalSent" not in entry and entry.get("myuser") is myuser]
     
     print(f"Found {len(groups_to_send_proposal)} groups to send proposal to")
     
     groups_to_send_proposal = groups_to_send_proposal[:10]
 
-    TELEGRAM_SESSION_STRING = os.environ.get('TELEGRAM_SESSION_STRING')
     
+
     if TELEGRAM_SESSION_STRING is None:
         print("save TELEGRAM_SESSION_STRING session string to env: ")
         return False
@@ -92,6 +101,11 @@ def main():
         print('Bot starting...')
         
         for entry in groups_to_send_proposal:
+            if (entry.get("myuser") != app.get_me().id):
+                print (f"skip {entry.get('myuser')}")
+                continue
+
+            print(f"Processing {entry['contract_address']}")
             chat_link = entry["telegram_groups"][0]  # Picking the first group to send the proposal
             ok=False
             try:

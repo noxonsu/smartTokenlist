@@ -78,12 +78,20 @@ def main():
     chats_to_subscribe = chats_to_subscribe[:10]
     TELEGRAM_SESSION_STRING = os.environ.get('TELEGRAM_SESSION_STRING')
     
+    
+
     if TELEGRAM_SESSION_STRING is None:
         app = Client("TgSession", in_memory=True, api_id=TELEGRAM_API_ID, api_hash=TELEGRAM_API_HASH)
         app.start()
         print("save TELEGRAM_SESSION_STRING="+app.export_session_string())
         return False
 
+    #rand select TELEGRAM_SESSION_STRING or TELEGRAM_SESSION_STRING2 
+    if random.randint(0, 1) == 0:
+        TELEGRAM_SESSION_STRING = os.environ.get('TELEGRAM_SESSION_STRING')
+    else:
+        TELEGRAM_SESSION_STRING = os.environ.get('TELEGRAM_SESSION_STRING2')
+        
     app = Client('TgSession', session_string=TELEGRAM_SESSION_STRING, api_id=TELEGRAM_API_ID, api_hash=TELEGRAM_API_HASH)
     print('Bot starting...')
     app.start()
