@@ -22206,5 +22206,117 @@
         "holders": {
             "ETH": 253
         }
+    },
+    {
+        "contract_address": "0x508e00d5cef397b02d260d035e5ee80775e4c821",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7709
+        }
+    },
+    {
+        "contract_address": "0xdd2f31ddeb5a3e9040f45b670ee2a62756c11dcd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2392
+        }
+    },
+    {
+        "contract_address": "0xa9a8377287ea9c6b8b4249dd502e75d34148fc5b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1270
+        }
+    },
+    {
+        "contract_address": "0x84ca8bc7997272c7cfb4d0cd3d55cd942b3c9419",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 22497
+        }
+    },
+    {
+        "contract_address": "0xd2ca93093e05366dbc2bf88c3bb189a5141fb6f6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "signai.tech",
+            "app.signai.tech"
+        ],
+        "telegram_groups": [
+            "SignAi_Eth",
+            "signAI_tgbot"
+        ],
+        "holders": {
+            "ETH": 153
+        }
+    },
+    {
+        "contract_address": "0x76eb2fe28b36b3ee97f3adae0c69606eedb2a37c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 311
+        }
+    },
+    {
+        "contract_address": "0x226bed56d215192bd439ba7ce07fd3cd729f7623",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x45af9bae7bf4a2535cf6403b2be377efd4c2299e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.ihasahat.com",
+            "www.reddit.com"
+        ],
+        "telegram_groups": [
+            "ihasahat_erc"
+        ],
+        "holders": {
+            "ETH": 36
+        }
+    },
+    {
+        "contract_address": "0x9559aaa82d9649c7a7b220e7c461d2e74c9a3593",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 485
+        }
+    },
+    {
+        "contract_address": "0x65f7ba4ec257af7c55fd5854e5f6356bbd0fb8ec",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dydx.community"
+        ],
+        "holders": {
+            "ETH": 2406
+        }
+    },
+    {
+        "contract_address": "0x5db5235b5c7e247488784986e58019fffd98fda4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2900
+        }
+    },
+    {
+        "contract_address": "0xdb9b418d3aa2916ca707b1db26b37f25e6f0886c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0x4b42f36c66e8537bf5798218a669ed763917da88",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "speedrunning_erc20"
+        ],
+        "holders": {
+            "ETH": 155
+        }
     }
 ]
