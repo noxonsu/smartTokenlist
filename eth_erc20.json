@@ -22905,7 +22905,11 @@
         ],
         "holders": {
             "ETH": 188
-        }
+        },
+        "emails": [
+            "info@technostech.finance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb0c7a3ba49c7a6eaba6cd4a96c55a1391070ac9a",
@@ -22930,12 +22934,16 @@
             "docs.ordiex.org"
         ],
         "telegram_groups": [
-            "ordiex",
-            "OrdiExBot"
+            "OrdiExBot",
+            "ordiex"
         ],
         "holders": {
             "ETH": 411
-        }
+        },
+        "emails": [
+            "contact@ordiex.org"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x23ff1466b8f5b3480ac8b608ef7bf3dbc0fd8359",
@@ -22945,7 +22953,14 @@
         ],
         "holders": {
             "ETH": 173
-        }
+        },
+        "telegram_groups": [
+            "IDBotERC"
+        ],
+        "emails": [
+            "Email: contact@idbot.tech"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x27f4cdf2e3970798ea1e61653c2c53044d22f616",
@@ -22954,12 +22969,13 @@
             "www.pvpbeteth.com"
         ],
         "telegram_groups": [
-            "pvpbeteth",
-            "PyApiTestUniqueBot"
+            "PyApiTestUniqueBot",
+            "pvpbeteth"
         ],
         "holders": {
             "ETH": 11
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1e917e764bc34d3bc313fe8159a6bd9d9ffd450d",
@@ -23032,7 +23048,8 @@
         ],
         "holders": {
             "ETH": 5
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x72e72a2b3766712b952df6e5bfcf5b67cfd8cafb",
