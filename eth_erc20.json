@@ -22180,7 +22180,11 @@
         ],
         "holders": {
             "ETH": 41
-        }
+        },
+        "emails": [
+            "hi@marlborocoin.vip"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8e5ee56e99462f7e08a490254a0ca58d2faacf9a",
