@@ -4,6 +4,7 @@ import json
 from time import sleep
 
 from pyrogram import Client, errors, types
+import random
 TELEGRAM_API_ID = int(os.environ.get('TELEGRAM_API_ID'))
 TELEGRAM_API_HASH = os.environ.get('TELEGRAM_API_HASH')
 MAINFILE = os.environ.get("MAINFILE")

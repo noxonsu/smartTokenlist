@@ -2,7 +2,7 @@ import os
 import json
 from time import sleep
 from pyrogram import Client, errors
-
+import random
 TELEGRAM_API_ID = int(os.environ.get('TELEGRAM_API_ID'))
 TELEGRAM_API_HASH = os.environ.get('TELEGRAM_API_HASH')
 DEBUG_CHAT_ID = 'testonoutgroup'  # replace with your test chat username or ID
