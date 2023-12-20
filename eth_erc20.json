@@ -21863,5 +21863,115 @@
         "holders": {
             "ETH": 1796
         }
+    },
+    {
+        "contract_address": "0xeee0fe52299f2de8e2ed5111cd521ab67dcf0faf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 153
+        }
+    },
+    {
+        "contract_address": "0xfe78a2e1f9d3edd20a4d45a7d8a9bc2154e7f5bd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 34
+        }
+    },
+    {
+        "contract_address": "0x19062190b1925b5b6689d7073fdfc8c2976ef8cb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 23915
+        }
+    },
+    {
+        "contract_address": "0x905e337c6c8645263d3521205aa37bf4d034e745",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.docademic.com"
+        ],
+        "holders": {
+            "ETH": 23279
+        }
+    },
+    {
+        "contract_address": "0xc0570b634c71c18aa3a6d8cd1345ca5312453032",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.beomniai.com"
+        ],
+        "telegram_groups": [
+            "BeomniAI"
+        ],
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0x63bd91ee1804e0e76e2d0536cda94bb6101a1126",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bandscrypto.com",
+            "t.co"
+        ],
+        "holders": {
+            "ETH": 68
+        }
+    },
+    {
+        "contract_address": "0x9dfad1b7102d46b1b197b90095b5c4e9f5845bba",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3651
+        }
+    },
+    {
+        "contract_address": "0x9ff68f61ca5eb0c6606dc517a9d44001e564bb66",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 93
+        }
+    },
+    {
+        "contract_address": "0xf776155e27fea213ab468ec1b34ecb8699ea6f6f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 248
+        }
+    },
+    {
+        "contract_address": "0x8f3470a7388c05ee4e7af3d01d8c722b0ff52374",
+        "sourceScanned": "processed",
+        "emails": [
+            "msg@rfv.io"
+        ],
+        "holders": {
+            "ETH": 26212
+        }
+    },
+    {
+        "contract_address": "0xd83ae04c9ed29d6d3e6bf720c71bc7beb424393e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 969
+        }
+    },
+    {
+        "contract_address": "0xa41f142b6eb2b164f8164cae0716892ce02f311f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "avocadodao.io"
+        ],
+        "holders": {
+            "ETH": 2698
+        }
+    },
+    {
+        "contract_address": "0x1bed97cbc3c24a4fb5c069c6e311a967386131f7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 35
+        }
     }
 ]
