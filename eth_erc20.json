@@ -5159,7 +5159,9 @@
         "holders": {
             "ETH": 2829
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xfe6ed1a0bde1d7181a0343998ae47f3993ff3a77",
@@ -5615,7 +5617,9 @@
             "CybertruckETH",
             "JesterBotEth"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xfc1c93a2507975e98b9d0e9260ded61a00152bf1",
@@ -10176,7 +10180,9 @@
             "CybertruckETH",
             "JesterBotEth"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x13196187a1c3e57ae419befbc9632f158d272628",
@@ -10535,7 +10541,9 @@
         "holders": {
             "ETH": 154
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xf49311af05a4ffb1dbf33d61e9b2d4f0a7d4a71c",
@@ -10560,7 +10568,9 @@
         "holders": {
             "ETH": 219
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x44aad22afbb2606d7828ca1f8f9e5af00e779ae1",
@@ -10581,7 +10591,9 @@
         "holders": {
             "ETH": 37
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x2e1cfd242e756274a14a29b96cf3bfc9e58301fb",
@@ -10659,7 +10671,9 @@
         "holders": {
             "ETH": 307
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xc73b2abf61a6ac5a642855beb72adf54ddddb80c",
@@ -10683,7 +10697,9 @@
         "holders": {
             "ETH": 186
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xfd1c027190418982eeade3a8a091556ae8f0a8c9",
@@ -10715,7 +10731,9 @@
         "telegram_groups": [
             "SybilZero"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x6d2300d854e6fa6bd053da41468bcdf424869c92",
@@ -10833,7 +10851,9 @@
         "emails": [
             "taopadX@proton.me"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large1005"
     },
     {
         "contract_address": "0x579cea1889991f68acc35ff5c3dd0621ff29b0c9",
