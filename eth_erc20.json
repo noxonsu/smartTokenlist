@@ -22243,12 +22243,13 @@
             "app.signai.tech"
         ],
         "telegram_groups": [
-            "SignAi_Eth",
-            "signAI_tgbot"
+            "signAI_tgbot",
+            "SignAi_Eth"
         ],
         "holders": {
             "ETH": 153
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x76eb2fe28b36b3ee97f3adae0c69606eedb2a37c",
@@ -22276,7 +22277,8 @@
         ],
         "holders": {
             "ETH": 36
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9559aaa82d9649c7a7b220e7c461d2e74c9a3593",
