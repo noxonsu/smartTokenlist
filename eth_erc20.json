@@ -23352,7 +23352,9 @@
         ],
         "holders": {
             "ETH": 190
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x1141de3f56e09ca34e0b0f625033ee276c93bcde",
@@ -23420,12 +23422,13 @@
             "www.incognitoai.live"
         ],
         "telegram_groups": [
-            "IncognitoAi_ETH",
-            "Incognitoai_bot"
+            "Incognitoai_bot",
+            "IncognitoAi_ETH"
         ],
         "holders": {
             "ETH": 102
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xfbd5fd3f85e9f4c5e8b40eec9f8b8ab1caaa146b",
