@@ -21745,12 +21745,14 @@
             "sword-bot.gitbook.io"
         ],
         "telegram_groups": [
-            "sword_portal",
-            "Sword_Robot"
+            "sword_announcements",
+            "Sword_Robot",
+            "sword_portal"
         ],
         "holders": {
             "ETH": 299
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xbb3d7f42c58abd83616ad7c8c72473ee46df2678",
@@ -21770,7 +21772,11 @@
         ],
         "holders": {
             "ETH": 219
-        }
+        },
+        "emails": [
+            "admin@highnoon.pro"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x71dc40668682a124231301414167e4cf7f55383c",
@@ -21797,7 +21803,8 @@
         ],
         "holders": {
             "ETH": 5
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2a2550e0a75acec6d811ae3930732f7f3ad67588",
@@ -21817,7 +21824,11 @@
         ],
         "holders": {
             "ETH": 472
-        }
+        },
+        "emails": [
+            " ceo@dogens.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc9a1f104fbbda8b8752946f7d56d59d28284037f",
