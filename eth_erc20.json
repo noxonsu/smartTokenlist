@@ -23151,7 +23151,9 @@
         ],
         "holders": {
             "ETH": 13
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe079abf6952c980c53de75c8bf3e4ff8e9f2d663",
@@ -23167,7 +23169,11 @@
         ],
         "holders": {
             "ETH": 203
-        }
+        },
+        "emails": [
+            "ecaibot@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xea51d7853eefb32b6ee06b1c12e6dcca88be0ffe",
@@ -23205,7 +23211,8 @@
         ],
         "holders": {
             "ETH": 45
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1f735f84b07cc20e9ac471c291a87b5a2428d518",
@@ -23225,7 +23232,8 @@
         ],
         "holders": {
             "ETH": 133
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x33d5ac1ae5b3d3aca28872601273531016dbd9a5",
@@ -23235,11 +23243,13 @@
             "archives.sandwich.bot"
         ],
         "telegram_groups": [
-            "SandwichChat"
+            "SandwichChat",
+            "SandwichBotLogs"
         ],
         "holders": {
             "ETH": 173
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf7efc1f079f3aacd737bfffbcb5f58c30f64af87",
@@ -23252,7 +23262,8 @@
         ],
         "holders": {
             "ETH": 142
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x36f8d0d0573ae92326827c4a82fe4ce4c244cab6",
