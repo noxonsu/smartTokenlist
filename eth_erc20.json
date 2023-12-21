@@ -24608,7 +24608,8 @@
         ],
         "holders": {
             "ETH": 87
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc5ad8cd1f59c33829ac4267d2325e0b73723704b",
@@ -24635,7 +24636,8 @@
         ],
         "holders": {
             "ETH": 79
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x897afbe7d49d050823b7ef76fb8403e920a07f7d",
@@ -24648,7 +24650,8 @@
         ],
         "holders": {
             "ETH": 48
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa4ef4b0b23c1fc81d3f9ecf93510e64f58a4a016",
