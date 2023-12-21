@@ -24428,5 +24428,122 @@
         "holders": {
             "ETH": 43
         }
+    },
+    {
+        "contract_address": "0x0d437ba4a2cdb86229117987cf59b05bd59d751f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "melody.money"
+        ],
+        "telegram_groups": [
+            "melodyswap"
+        ],
+        "holders": {
+            "ETH": 64
+        }
+    },
+    {
+        "contract_address": "0x4ad434b8cdc3aa5ac97932d6bd18b5d313ab0f6f",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "EverMoonERC"
+        ],
+        "holders": {
+            "ETH": 7589
+        }
+    },
+    {
+        "contract_address": "0x7162469321ae5880f077d250b626f3271b21b903",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0x25aaafec2caa21f314c5cc633fb97875a16f2184",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.minebase.org",
+            "app.minebase.org"
+        ],
+        "telegram_groups": [
+            "mbase_eth"
+        ],
+        "holders": {
+            "ETH": 97
+        }
+    },
+    {
+        "contract_address": "0x3c043e918a04d3ed016bf5e36c9c5027d7b4345b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "8a31a2.com",
+            "8a31a2.com",
+            "www.dextools.io",
+            "opensea.io",
+            "app.ens.domains"
+        ],
+        "telegram_groups": [
+            "YGN8A31A2"
+        ],
+        "holders": {
+            "ETH": 365
+        }
+    },
+    {
+        "contract_address": "0x8124bcc4483c18acbe89f082e4f395f7f95ddd84",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0xb44fbdf29520d3433d3b62722d48eb5bf77d87c0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x6a445e9f40e0b97c92d0b8a3366cef1d67f700bf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1898
+        }
+    },
+    {
+        "contract_address": "0x9b77bd0a665f05995b68e36fc1053afffaf0d4b5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x2e9045e7c001056cbcf5ed837f96a8630075a04d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 564
+        }
+    },
+    {
+        "contract_address": "0x8383b691ffe89ba6915d2458648bdd515de7202d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 737
+        }
+    },
+    {
+        "contract_address": "0xd03905c79fc39737963db6fa72f4c4eaee0ba422",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 23
+        }
+    },
+    {
+        "contract_address": "0xee573a945b01b788b9287ce062a0cfc15be9fd86",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11102
+        }
     }
 ]
