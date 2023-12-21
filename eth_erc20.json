@@ -25262,5 +25262,117 @@
         "holders": {
             "ETH": 0
         }
+    },
+    {
+        "contract_address": "0xb1894a124e247fb3b5fdef08275d1bfbc6d98004",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "analos.xyz"
+        ],
+        "telegram_groups": [
+            "analos_portal"
+        ],
+        "holders": {
+            "ETH": 44
+        }
+    },
+    {
+        "contract_address": "0xd94a8f9caed25e63ecc90edfefaf3635ea1e182a",
+        "sourceScanned": "processed",
+        "emails": [
+            "goncalo.sa@consensys.net"
+        ],
+        "holders": {
+            "ETH": 61
+        }
+    },
+    {
+        "contract_address": "0x85f17cf997934a597031b2e18a9ab6ebd4b9f6a4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1557
+        }
+    },
+    {
+        "contract_address": "0x032c3ec6d4c894844fd855874062a86592801cc9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.converge.bot"
+        ],
+        "telegram_groups": [
+            "TheConvergeBot",
+            "convergebot_eth"
+        ],
+        "holders": {
+            "ETH": 383
+        }
+    },
+    {
+        "contract_address": "0x44e922ecd60b0a647a569f6dd93cc4651e39a3bb",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "homealone.casa"
+        ],
+        "telegram_groups": [
+            "HomeAloneERC"
+        ],
+        "holders": {
+            "ETH": 21
+        }
+    },
+    {
+        "contract_address": "0xce246eea10988c495b4a90a905ee9237a0f91543",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 58
+        }
+    },
+    {
+        "contract_address": "0xd0cd466b34a24fcb2f87676278af2005ca8a78c4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6837
+        }
+    },
+    {
+        "contract_address": "0x08c937fb973226751c13c7cc862c819c09ea5dba",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.twitter.com",
+            "bazooka.club"
+        ],
+        "telegram_groups": [
+            "BazookaTools"
+        ],
+        "holders": {
+            "ETH": 434
+        }
+    },
+    {
+        "contract_address": "0x21e7f08795ebf12af43054752fc12c616e9e6fc6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "shamantokenofficial.io"
+        ],
+        "telegram_groups": [
+            "shamantokencommunity"
+        ],
+        "holders": {
+            "ETH": 37
+        }
+    },
+    {
+        "contract_address": "0x89fcb32f29e509cc42d0c8b6f058c993013a843f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3794
+        }
+    },
+    {
+        "contract_address": "0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4126
+        }
     }
 ]
