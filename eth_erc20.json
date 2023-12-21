@@ -25274,7 +25274,8 @@
         ],
         "holders": {
             "ETH": 44
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd94a8f9caed25e63ecc90edfefaf3635ea1e182a",
@@ -25300,12 +25301,17 @@
             "www.converge.bot"
         ],
         "telegram_groups": [
+            "grok_converge_bot",
             "TheConvergeBot",
             "convergebot_eth"
         ],
         "holders": {
             "ETH": 383
-        }
+        },
+        "emails": [
+            "CONVERGE@CONVERGE.BOT"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x44e922ecd60b0a647a569f6dd93cc4651e39a3bb",
@@ -25318,7 +25324,8 @@
         ],
         "holders": {
             "ETH": 21
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xce246eea10988c495b4a90a905ee9237a0f91543",
@@ -25346,7 +25353,8 @@
         ],
         "holders": {
             "ETH": 434
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x21e7f08795ebf12af43054752fc12c616e9e6fc6",
@@ -25359,7 +25367,11 @@
         ],
         "holders": {
             "ETH": 37
-        }
+        },
+        "emails": [
+            "Official Email: support@shamantokenofficial.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x89fcb32f29e509cc42d0c8b6f058c993013a843f",
