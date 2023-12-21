@@ -24126,7 +24126,8 @@
         ],
         "holders": {
             "ETH": 137
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x59c6766de1dc50a9c9db86cb0461b5ce07408ab7",
@@ -24166,11 +24167,13 @@
             "catisballin43.site"
         ],
         "telegram_groups": [
-            "CatisBallinHard"
+            "CatisBallinHard",
+            "catisballinHARD"
         ],
         "holders": {
             "ETH": 10
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7e8ba389e5dadda47c357fff6036145273e4706f",
@@ -24186,11 +24189,14 @@
             "artyfact.info"
         ],
         "telegram_groups": [
-            "artyfact_coin"
+            "artyfact_coin",
+            "ArtyfactOKXAirdropBot",
+            "artyfactnews"
         ],
         "holders": {
             "ETH": 15
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf980b4a4194694913af231de69ab4593f5e0fcdc",
