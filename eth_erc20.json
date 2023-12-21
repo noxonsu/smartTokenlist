@@ -7050,6 +7050,7 @@
             "chat.sparkai.life"
         ],
         "telegram_groups": [
+            "spark_ai_official",
             "sparkai_life_official"
         ],
         "holders": {
@@ -23903,11 +23904,16 @@
             "scomcoin.io"
         ],
         "telegram_groups": [
+            "scomcoin",
             "scom_coin"
         ],
         "holders": {
             "ETH": 238
-        }
+        },
+        "emails": [
+            "scom@scomcoin.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe80c0cd204d654cebe8dd64a4857cab6be8345a3",
@@ -23961,7 +23967,8 @@
         ],
         "holders": {
             "ETH": 57
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe6a6cb9a1100ac3a797b692596919cfb8809016d",
@@ -23974,7 +23981,8 @@
         ],
         "holders": {
             "ETH": 299
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xbe45bc2ffc89e51f44c58f864296ef81dfad6a6d",
@@ -24011,7 +24019,8 @@
         ],
         "holders": {
             "ETH": 19
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xae032f8e1572d05157b1afd88c012d9a0dad8cda",
@@ -24029,11 +24038,16 @@
             "apps.apple.com"
         ],
         "telegram_groups": [
-            "spark_ai_official"
+            "spark_ai_official",
+            "sparkai_life_official"
         ],
         "holders": {
             "ETH": 71
-        }
+        },
+        "emails": [
+            "admin@sparkai.life"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x354e514c135c8603f840ffadb4c33cde6d2a37e0",
