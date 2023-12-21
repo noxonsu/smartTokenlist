@@ -121,6 +121,9 @@ def main():
             if chat and (not chat.permissions or not chat.permissions.can_send_messages):
                 print(f"Can't send messages to {chat_link}")
                 entry["tgGroupJoined"] = "error: Can't send messages"
+                #unsubscribe from chat and print log about leave chat
+                app.leave_chat(chat.id)
+
                 raise Exception("Can't send messages")
             
 
