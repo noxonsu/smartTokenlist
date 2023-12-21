@@ -24184,7 +24184,14 @@
         ],
         "holders": {
             "ETH": 626
-        }
+        },
+        "telegram_groups": [
+            "PROOFPlatform"
+        ],
+        "emails": [
+            "hi@proofplatform.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xcf44fb2cd12efaf9511d9efce70679069fb407e3",
@@ -25134,7 +25141,14 @@
         ],
         "holders": {
             "ETH": 175
-        }
+        },
+        "telegram_groups": [
+            "PROOFPlatform"
+        ],
+        "emails": [
+            "hi@proofplatform.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdc9ac3c20d1ed0b540df9b1fedc10039df13f99c",
@@ -25215,12 +25229,12 @@
             "docs.kusatech.io"
         ],
         "telegram_groups": [
-            "KusaPortal",
             "KusaPortal"
         ],
         "holders": {
             "ETH": 184
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf64b5af0e3f1ffd7cc2a7e2f34d41e01164f28fa",
