@@ -21311,7 +21311,9 @@
         "holders": {
             "ETH": 56
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x01b524716dc35d400865f4eff573bd5e01b21f5e",
@@ -21339,7 +21341,9 @@
         "holders": {
             "ETH": 3
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xab97bf5fb097e503bba2c86b7c56c0059ac0dc06",
@@ -21353,7 +21357,9 @@
         "telegram_groups": [
             "chanalogerc20"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xde16ce60804a881e9f8c4ebb3824646edecd478d",
@@ -21395,7 +21401,9 @@
         "holders": {
             "ETH": 156
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x0a6c7d5b442ddf53d963581d87932f25743dd3a0",
@@ -21438,7 +21446,9 @@
         "holders": {
             "ETH": 130
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xf332daad681de5e01a927855203c035e7c8f2b4f",
@@ -21487,7 +21497,9 @@
         "holders": {
             "ETH": 140
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xa64e1b7705f832c61d948e70f0df8fc8ca2fb8ba",
@@ -21502,7 +21514,9 @@
         "holders": {
             "ETH": 41
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x76ff70dd2503f83154411fb743217a282575cda5",
@@ -21511,7 +21525,7 @@
             "nemesisreblock.network"
         ],
         "telegram_groups": [
-            "nemesis_erc20"
+            null
         ],
         "holders": {
             "ETH": 116
@@ -21519,7 +21533,9 @@
         "emails": [
             "support@nemesisreblock.network"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: '<' not supported between instances of 'NoneType' and 'int'"
     },
     {
         "contract_address": "0x667102bd3413bfeaa3dffb48fa8288819e480a88",
@@ -21621,7 +21637,9 @@
         "holders": {
             "ETH": 238
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: The chat_id \"BlitzSniper_Bot\" belongs to a user"
     },
     {
         "contract_address": "0x8990c80fe4713c45eefde3a92f4cc93c152223a9",
@@ -21636,7 +21654,9 @@
         "holders": {
             "ETH": 131
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xb1f871ae9462f1b2c6826e88a7827e76f86751d4",
