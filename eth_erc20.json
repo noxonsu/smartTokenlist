@@ -13183,7 +13183,9 @@
         "emails": [
             "support@guardianai.tech"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x609e02e0406cff995ae435ae0a073b1e3ade4c33",
@@ -13225,7 +13227,9 @@
         "holders": {
             "ETH": 317
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't find chat"
     },
     {
         "contract_address": "0x7ae1d57b58fa6411f32948314badd83583ee0e8c",
@@ -13254,7 +13258,9 @@
             "CybertruckETH",
             "JesterBotEth"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x4b520c812e8430659fc9f12f6d0c39026c83588d",
@@ -13325,7 +13331,9 @@
             "aidevethbot",
             "aideveth"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: The chat_id \"aidevethbot\" belongs to a user"
     },
     {
         "contract_address": "0x8f1278ebb1279a136e3f7a7e10747888c4d767dc",
@@ -13342,7 +13350,9 @@
         "emails": [
             "team@finalpepe.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xdf88040d606b096f52efd4a30a3858c964e04049",
@@ -13359,7 +13369,9 @@
         "emails": [
             "CContac@chipichipichapachapa.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x4ff8d76a37d67c53a42b19aadfb8d294e4f1dd98",
@@ -13368,12 +13380,14 @@
             "decentra-ai.xyz"
         ],
         "telegram_groups": [
-            "DecentraAI"
+            null
         ],
         "holders": {
             "ETH": 372
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: '<' not supported between instances of 'NoneType' and 'int'"
     },
     {
         "contract_address": "0xb96c7d90eb0d362da23e37223f5817816e4ac240",
@@ -13403,7 +13417,9 @@
         "holders": {
             "ETH": 74
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x7b4328c127b85369d9f82ca0503b000d09cf9180",
@@ -13473,7 +13489,9 @@
         "holders": {
             "ETH": 303
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large1181"
     },
     {
         "contract_address": "0x8a7b7b9b2f7d0c63f66171721339705a6188a7d5",
@@ -13508,7 +13526,9 @@
         "holders": {
             "ETH": 82
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x9f1fd757f85676e0c9517ee68707e38afe19ac11",
