@@ -24568,5 +24568,132 @@
         "holders": {
             "ETH": 11102
         }
+    },
+    {
+        "contract_address": "0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 971
+        }
+    },
+    {
+        "contract_address": "0x6b985d38b1fc891bb57bff59573626b1896d4aa1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.fido-erc.com"
+        ],
+        "telegram_groups": [
+            "Fido_Erc"
+        ],
+        "holders": {
+            "ETH": 1309
+        }
+    },
+    {
+        "contract_address": "0x6e0615a03ed9527a6013fcd5b556e36ef4dab1ff",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3385
+        }
+    },
+    {
+        "contract_address": "0x107596acf4a01f213e9147cbaa91fa62a201f246",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.titanfinance.org",
+            "docs.titanfinance.org"
+        ],
+        "telegram_groups": [
+            "titan_fi"
+        ],
+        "holders": {
+            "ETH": 87
+        }
+    },
+    {
+        "contract_address": "0xc5ad8cd1f59c33829ac4267d2325e0b73723704b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 309
+        }
+    },
+    {
+        "contract_address": "0xe46de2072ab1357d465134e2808581c9afa21a2a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0x9e3e3570ae3b8aadbe78da0afe5829fdc649e0aa",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.nodeai.pro"
+        ],
+        "telegram_groups": [
+            "ainode_eth"
+        ],
+        "holders": {
+            "ETH": 79
+        }
+    },
+    {
+        "contract_address": "0x897afbe7d49d050823b7ef76fb8403e920a07f7d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.teleportdao.xyz"
+        ],
+        "telegram_groups": [
+            "Teleport_DAO"
+        ],
+        "holders": {
+            "ETH": 48
+        }
+    },
+    {
+        "contract_address": "0xa4ef4b0b23c1fc81d3f9ecf93510e64f58a4a016",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 849
+        }
+    },
+    {
+        "contract_address": "0xfe1ef2b469846d1832b25095ff51b004f090e0c6",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "PepeErc20Portal",
+            "PepeErc20Portal"
+        ],
+        "holders": {
+            "ETH": 1437
+        }
+    },
+    {
+        "contract_address": "0xdc7da87115d4464e8aac99920a533d401bf72a50",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 763
+        }
+    },
+    {
+        "contract_address": "0x7626367d028b969a7930c28ee3ae18b20e83ecda",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1033
+        }
+    },
+    {
+        "contract_address": "0xd2b274cfbf9534f56b59ad0fb7e645e0354f4941",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1094
+        }
+    },
+    {
+        "contract_address": "0x397deb686c72384fad502a81f4d7fdb89e1f1280",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1228
+        }
     }
 ]
