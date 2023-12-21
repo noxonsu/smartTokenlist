@@ -23547,7 +23547,8 @@
         ],
         "holders": {
             "ETH": 433
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8d496b1319002376ed31d1494e66b578db1b09d7",
@@ -23560,7 +23561,8 @@
         ],
         "holders": {
             "ETH": 93
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xbdd8a1ef48415da84f255d2f11ab29221d4df58a",
@@ -23570,7 +23572,11 @@
         ],
         "holders": {
             "ETH": 2
-        }
+        },
+        "telegram_groups": [
+            "KoiBRC20"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbd769182e5d4a64f4620a91434071a83bdaba8db",
