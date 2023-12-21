@@ -13577,7 +13577,9 @@
         "holders": {
             "ETH": 318
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x1afb69dbc9f54d08dab1bd3436f8da1af819e647",
@@ -13718,7 +13720,9 @@
         "holders": {
             "ETH": 323
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x33d0568941c0c64ff7e0fb4fba0b11bd37deed9f",
@@ -13783,7 +13787,9 @@
         "emails": [
             " - contact@coinmooner.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: The chat_id \"CoinMoonerAds\" belongs to a user"
     },
     {
         "contract_address": "0xdfef6416ea3e6ce587ed42aa7cb2e586362cbbfa",
@@ -13805,7 +13811,9 @@
         "holders": {
             "ETH": 3
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xe25284a49e7176776d7fc47716de852b1fadfd1e",
@@ -13819,7 +13827,9 @@
         "holders": {
             "ETH": 323
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x56bef437200b29310ff012956da4509b74067612",
@@ -13936,7 +13946,9 @@
         "telegram_groups": [
             "RenzoProtocolChat"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x319bcf115e35c18035bf1a405fe3c40c8b24533e",
@@ -13974,7 +13986,9 @@
         "emails": [
             "team@omni-bot.app"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x20c28c0f23729849ee7d814816d8ee173fa48ab2",
@@ -14063,7 +14077,9 @@
         "holders": {
             "ETH": 432
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x5e8422345238f34275888049021821e8e08caa1f",
@@ -14129,7 +14145,9 @@
         "holders": {
             "ETH": 439
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: The chat_id \"BetIT_tgBot\" belongs to a user"
     },
     {
         "contract_address": "0xa1d65e8fb6e87b60feccbc582f7f97804b725521",
@@ -14172,7 +14190,9 @@
             "realSmarDexChat",
             "realSmarDex"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large4038"
     },
     {
         "contract_address": "0x4dfae3690b93c47470b03036a17b23c1be05127c",
