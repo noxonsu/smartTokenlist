@@ -25101,5 +25101,132 @@
         "holders": {
             "ETH": 2611
         }
+    },
+    {
+        "contract_address": "0x9355372396e3f6daf13359b7b607a3374cc638e0",
+        "sourceScanned": "processed",
+        "emails": [
+            "jake@jakegsy.com"
+        ],
+        "holders": {
+            "ETH": 3815
+        }
+    },
+    {
+        "contract_address": "0x2a5fa016ffb20c70e2ef36058c08547f344677aa",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 150
+        }
+    },
+    {
+        "contract_address": "0x5acc2276147e47a0624b84a9f0173ee9a7986dcf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 62
+        }
+    },
+    {
+        "contract_address": "0xbb54e2def4171d922fdddbacf3f4584ce121d21e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "proofplatform.io"
+        ],
+        "holders": {
+            "ETH": 175
+        }
+    },
+    {
+        "contract_address": "0xdc9ac3c20d1ed0b540df9b1fedc10039df13f99c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 22768
+        }
+    },
+    {
+        "contract_address": "0x6553565eac5daa9bfc5e2892b36291634c9b2ad6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 79
+        }
+    },
+    {
+        "contract_address": "0x3352eb2febca75e40ab8b028701473e2d7de680a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 493
+        }
+    },
+    {
+        "contract_address": "0x0c48dbcd22ed4b44d98f635972b1ed635e716894",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xbf0783e59c82d5c936e6e609da36aa542fc32df5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0xd2ef5de319e54d81a78a0fa27f8cd1cdd0a1f236",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0xc9b13667b5001a5732ec014c17473ccb23c83511",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 37
+        }
+    },
+    {
+        "contract_address": "0x2125f6ef70126412e3b0115e2d63ab36607d2cd7",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "PhantomPepeEth"
+        ],
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0x1e87d63d11d1c16052bbca06d43ba4ceb4ee686c",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "BRContheERC"
+        ],
+        "holders": {
+            "ETH": 360
+        }
+    },
+    {
+        "contract_address": "0x4bfe0fda2be589be51e7a9168d6652f642847e9e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.kusatech.io",
+            "docs.kusatech.io",
+            "www.kusatech.io",
+            "docs.kusatech.io"
+        ],
+        "telegram_groups": [
+            "KusaPortal",
+            "KusaPortal"
+        ],
+        "holders": {
+            "ETH": 184
+        }
+    },
+    {
+        "contract_address": "0xf64b5af0e3f1ffd7cc2a7e2f34d41e01164f28fa",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
     }
 ]
