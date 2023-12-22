@@ -26913,5 +26913,130 @@
         "holders": {
             "ETH": 393
         }
+    },
+    {
+        "contract_address": "0x61b34a012646cd7357f58ee9c0160c6d0021fa41",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 295
+        }
+    },
+    {
+        "contract_address": "0xd7c9f0e536dc865ae858b0c0453fe76d13c3beac",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 202
+        }
+    },
+    {
+        "contract_address": "0x05ac7aa29a029c71fc48bd5a6bf1ca1a10071c3e",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@silo.finance",
+            "security@silo.finance"
+        ],
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x001a8ffcb0f03e99141652ebcdecdb0384e3bd6c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4999
+        }
+    },
+    {
+        "contract_address": "0x485d17a6f1b8780392d53d64751824253011a260",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2256
+        }
+    },
+    {
+        "contract_address": "0x0954906da0bf32d5479e25f46056d22f08464cab",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5046
+        }
+    },
+    {
+        "contract_address": "0x13de35c875ef98ce741cc6baab769690fb011697",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 27
+        }
+    },
+    {
+        "contract_address": "0xc3b19502f8c02be75f3f77fd673503520deb51dd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x486419b8ed677d168a6dd2f19c8d053eeb98517e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.solanabot.io",
+            "solbot-1.gitbook.io"
+        ],
+        "telegram_groups": [
+            "solbot_portal",
+            "solana_deployerbot"
+        ],
+        "holders": {
+            "ETH": 272
+        }
+    },
+    {
+        "contract_address": "0xe0c99ed6950ccb38347154abd06e10eba5a1f89a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blui.io",
+            "remelife.io"
+        ],
+        "holders": {
+            "ETH": 1127
+        }
+    },
+    {
+        "contract_address": "0x03a1a279ed3325726f1784176f178431e41c6157",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "docs.ains.domains",
+            "www.ains.domains",
+            "opensea.io"
+        ],
+        "telegram_groups": [
+            "ainsportalbot"
+        ],
+        "holders": {
+            "ETH": 154
+        }
+    },
+    {
+        "contract_address": "0x2263a0f0ba7969bf679319389f2b91a8df6ddc6a",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "eXtremeWhaleGames8192"
+        ],
+        "holders": {
+            "ETH": 118
+        }
+    },
+    {
+        "contract_address": "0xb5b1b659da79a2507c27aad509f15b4874edc0cc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3473
+        }
+    },
+    {
+        "contract_address": "0x43e54c2e7b3e294de3a155785f52ab49d87b9922",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 191
+        }
     }
 ]
