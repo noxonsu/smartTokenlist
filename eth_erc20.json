@@ -25406,5 +25406,139 @@
         "holders": {
             "ETH": 4126
         }
+    },
+    {
+        "contract_address": "0x1ad8f12aa62dec265a98987bacd8019152b44e28",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0x7f791c8b4fd1aa6ef52157cca3436f7ce9844058",
+        "sourceScanned": "processed",
+        "emails": [
+            "jake@jakegsy.com"
+        ],
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x7933732a6c19e5b60da73e68e649943cac07f4bc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x66a0f676479cee1d7373f3dc2e2952778bff5bd6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6892
+        }
+    },
+    {
+        "contract_address": "0x7abf508c022d38f8ecae6258129a96545086fef6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "codifi.app",
+            "docs.codifi.app",
+            "codifi.medium.com"
+        ],
+        "telegram_groups": [
+            "codifiapp"
+        ],
+        "holders": {
+            "ETH": 87
+        }
+    },
+    {
+        "contract_address": "0xfac77a24e52b463ba9857d6b758ba41ae20e31ff",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 812
+        }
+    },
+    {
+        "contract_address": "0xb67718b98d52318240c52e71a898335da4a28c42",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tokenmint.io"
+        ],
+        "holders": {
+            "ETH": 2741
+        }
+    },
+    {
+        "contract_address": "0xc490be1d783ad4ef653a29a09d34bb79036e9340",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "comswap.io"
+        ],
+        "telegram_groups": [
+            "CommuneAI"
+        ],
+        "holders": {
+            "ETH": 64
+        }
+    },
+    {
+        "contract_address": "0xa1f7c9c6d19e2d0bf20729cb0bf03338a90bed9b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6416
+        }
+    },
+    {
+        "contract_address": "0xb347995c9f8c6c7197370bafe96967c14f9fdabe",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools"
+        ],
+        "holders": {
+            "ETH": 432
+        }
+    },
+    {
+        "contract_address": "0x8a854288a5976036a725879164ca3e91d30c6a1b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tokenmarket.net",
+            "tokenmarket.net",
+            "tokenmarket.net",
+            "tokenmarket.net",
+            "tokenmarket.net",
+            "tokenmarket.net",
+            "tokenmarket.net",
+            "blog.aragon.one",
+            "tokenmarket.net"
+        ],
+        "holders": {
+            "ETH": 14077
+        }
+    },
+    {
+        "contract_address": "0xd3a95d8363709fbd04e84c84809cd1589f6f2c50",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "scalastaker.cloud"
+        ],
+        "telegram_groups": [
+            "scalastaker"
+        ],
+        "holders": {
+            "ETH": 56
+        }
+    },
+    {
+        "contract_address": "0x8013266cb5c9dd48be3ad7d1ce832874d64b3ce1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13094
+        }
     }
 ]
