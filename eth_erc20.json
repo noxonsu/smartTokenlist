@@ -25725,7 +25725,11 @@
         ],
         "holders": {
             "ETH": 197
-        }
+        },
+        "telegram_groups": [
+            "Y3Kportal"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x975d633b3eeff42aab6deab85d97e0ce193caf1d",
