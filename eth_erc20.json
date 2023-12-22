@@ -23901,7 +23901,9 @@
         "holders": {
             "ETH": 93
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xbdd8a1ef48415da84f255d2f11ab29221d4df58a",
@@ -23915,7 +23917,9 @@
         "telegram_groups": [
             "KoiBRC20"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xbd769182e5d4a64f4620a91434071a83bdaba8db",
@@ -24086,7 +24090,9 @@
         "holders": {
             "ETH": 69
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't find chat"
     },
     {
         "contract_address": "0xdf45d4ddc91fb8652e3964b0b594f51be94af351",
@@ -24211,7 +24217,9 @@
         "emails": [
             "scom@scomcoin.io"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large1159"
     },
     {
         "contract_address": "0xe80c0cd204d654cebe8dd64a4857cab6be8345a3",
@@ -24266,7 +24274,9 @@
         "holders": {
             "ETH": 57
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xe6a6cb9a1100ac3a797b692596919cfb8809016d",
@@ -24280,7 +24290,9 @@
         "holders": {
             "ETH": 299
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xbe45bc2ffc89e51f44c58f864296ef81dfad6a6d",
@@ -24311,7 +24323,9 @@
         "emails": [
             "hi@proofplatform.io"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xcf44fb2cd12efaf9511d9efce70679069fb407e3",
@@ -24325,7 +24339,9 @@
         "holders": {
             "ETH": 19
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0xae032f8e1572d05157b1afd88c012d9a0dad8cda",
@@ -24352,7 +24368,9 @@
         "emails": [
             "admin@sparkai.life"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x354e514c135c8603f840ffadb4c33cde6d2a37e0",
@@ -24412,7 +24430,9 @@
         "holders": {
             "ETH": 137
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x59c6766de1dc50a9c9db86cb0461b5ce07408ab7",
