@@ -6605,7 +6605,9 @@
         ],
         "holders": {
             "ETH": 2707
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa3d4bee77b05d4a0c943877558ce21a763c4fa29",
@@ -7773,7 +7775,9 @@
         ],
         "holders": {
             "ETH": 195057
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x418d75f65a02b3d53b2418fb8e1fe493759c7605",
@@ -14363,7 +14367,9 @@
         ],
         "holders": {
             "ETH": 10932
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc40f23a3e9613e012944f7957edce97899fa920d",
@@ -16384,7 +16390,9 @@
         ],
         "holders": {
             "ETH": 17287
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc54ff26fd5564ff46b14d9825a2259a0d53bf7d9",
@@ -16411,7 +16419,9 @@
         ],
         "holders": {
             "ETH": 12492
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa23c1194d421f252b4e6d5edcc3205f7650a4ebe",
@@ -20847,7 +20857,9 @@
         ],
         "holders": {
             "ETH": 4031
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x891fe074ea3465f4efa22b1fccb7e51f05e11ed0",
@@ -26118,7 +26130,9 @@
         ],
         "holders": {
             "ETH": 28
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
@@ -26218,7 +26232,8 @@
         ],
         "holders": {
             "ETH": 355
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9a0242b7a33dacbe40edb927834f96eb39f8fbcb",
@@ -26245,7 +26260,11 @@
         ],
         "holders": {
             "ETH": 124
-        }
+        },
+        "emails": [
+            "info@santafloki.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd1eb4c61908e74ec942c7f2c435dc6be1dafc093",
