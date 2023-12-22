@@ -27070,7 +27070,11 @@
         ],
         "holders": {
             "ETH": 74
-        }
+        },
+        "emails": [
+            "   email@onebillioninu.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb226dc40b282020697fadbb2482bc879e5c7c6c8",
@@ -27111,7 +27115,8 @@
         ],
         "holders": {
             "ETH": 142
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x488e0369f9bc5c40c002ea7c1fe4fd01a198801c",
@@ -27165,7 +27170,8 @@
         ],
         "holders": {
             "ETH": 73
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xab135925b63deaea3a2fb61cf2eaf69aa4203d20",
@@ -27178,6 +27184,7 @@
         ],
         "holders": {
             "ETH": 122
-        }
+        },
+        "p6": true
     }
 ]
