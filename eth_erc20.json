@@ -26318,7 +26318,8 @@
         ],
         "holders": {
             "ETH": 179
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x795065dcc9f64b5614c407a6efdc400da6221fb0",
@@ -26376,7 +26377,9 @@
         ],
         "holders": {
             "ETH": 67
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xae384e27009f6bba0834f12e40e01ef0fde2a16e",
@@ -26389,11 +26392,12 @@
         ],
         "telegram_groups": [
             "funkyxlabs",
-            "funkyxlabs"
+            "funkpresale"
         ],
         "holders": {
             "ETH": 75
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0c77edaa31dbfc270d1edd4bfd4ae5b09ee89260",
@@ -26425,7 +26429,9 @@
         ],
         "holders": {
             "ETH": 33
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x5c0f23a5c1be65fa710d385814a7fd1bda480b1c",
