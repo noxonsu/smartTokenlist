@@ -27194,5 +27194,129 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0x9d948e1d104221653c14825256e33b40499fb52a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "0xwallet.site"
+        ],
+        "telegram_groups": [
+            "portal0xWallet",
+            "wallet0xbot"
+        ],
+        "holders": {
+            "ETH": 813
+        }
+    },
+    {
+        "contract_address": "0x3b79a28264fc52c7b4cea90558aa0b162f7faf57",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 361
+        }
+    },
+    {
+        "contract_address": "0x73b1988a3336208e55275c52fac7f5d3a7dfb89f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1803
+        }
+    },
+    {
+        "contract_address": "0xcfcdd44e889194f4ad3a6d9c2312094af1dbffb9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xd40e142d6c6f9583a800bf45a43a71e4f5113389",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xd5b98d8e2806f28442927150400647e6d14fd5bb",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "codextoken.com"
+        ],
+        "telegram_groups": [
+            "codex_coin"
+        ],
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0xace8cffd3d992126dced4eb29bc625cf81eae80d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ordiarb.xyz",
+            "metadrop.com."
+        ],
+        "telegram_groups": [
+            "Ordiarb"
+        ],
+        "holders": {
+            "ETH": 140
+        }
+    },
+    {
+        "contract_address": "0x36520f6336490088c2455279c59cefac66984b36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3072
+        }
+    },
+    {
+        "contract_address": "0xb353dbd6680e561ac9467cab2dae021dc102a157",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x0e29e5abbb5fd88e28b2d355774e73bd47de3bcd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4333
+        }
+    },
+    {
+        "contract_address": "0x2570f1bd5d2735314fc102eb12fc1afe9e6e7193",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x74588af8de14287e91d89758636d277d66f217b6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 257
+        }
+    },
+    {
+        "contract_address": "0xb2d2e1309db33b38a19ee2a7cd9cb5de39d76663",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 441
+        }
+    },
+    {
+        "contract_address": "0x9b636ee6715afbb4c5d1592b3d080493bad9f152",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "grabtool.credit"
+        ],
+        "telegram_groups": [
+            "grabtool"
+        ],
+        "holders": {
+            "ETH": 76
+        }
     }
 ]
