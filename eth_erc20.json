@@ -21679,7 +21679,9 @@
         "holders": {
             "ETH": 302
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: The chat_id \"oxnumber_bot\" belongs to a user"
     },
     {
         "contract_address": "0x93999d3fcab15cc052cf96b739580fc11e015944",
@@ -21719,7 +21721,9 @@
         "emails": [
             "team@peer-coin.finance"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: The chat_id \"pcf_nexus_bot\" belongs to a user"
     },
     {
         "contract_address": "0xafb410cffb7309c7e32e4bbfc589ab6c214803bd",
@@ -21735,7 +21739,9 @@
         "holders": {
             "ETH": 37
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x275f5ad03be0fa221b4c6649b8aee09a42d9412a",
@@ -21826,7 +21832,9 @@
         "telegram_groups": [
             "EmeraldMinePortal"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x27460aac4b005de72e2326bd8391c27fb41780f8",
@@ -21890,7 +21898,9 @@
         "holders": {
             "ETH": 292
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xe5ffb4c84c7f2e3c861369cff39b50dfebd218f9",
@@ -21968,7 +21978,9 @@
         "holders": {
             "ETH": 131
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xd6d36c2f60ca0e2a606632b23024903183a45bec",
@@ -21990,7 +22002,9 @@
         "emails": [
             "admin@blinklistings.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: The chat_id \"Dannyyooooo\" belongs to a user"
     },
     {
         "contract_address": "0x569d0e52c3dbe95983bcc2434cb9f69d905be919",
@@ -22004,7 +22018,9 @@
         "holders": {
             "ETH": 116
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x2328ae96c121426ca926e4d8d55b58895b1256e6",
@@ -22093,7 +22109,9 @@
         "holders": {
             "ETH": 299
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xbb3d7f42c58abd83616ad7c8c72473ee46df2678",
@@ -22117,7 +22135,9 @@
         "emails": [
             "admin@highnoon.pro"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x71dc40668682a124231301414167e4cf7f55383c",
