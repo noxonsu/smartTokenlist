@@ -25850,7 +25850,8 @@
         ],
         "holders": {
             "ETH": 66
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4903c947d5f6036d54e78028b9660c007b4ef98d",
@@ -25860,11 +25861,14 @@
             "privybot.gitbook.io"
         ],
         "telegram_groups": [
-            "PrivySuite"
+            "PrivySuite",
+            "PrivySniperBot",
+            "PrivyCheckBot"
         ],
         "holders": {
             "ETH": 56
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa62894d5196bc44e4c3978400ad07e7b30352372",
@@ -25947,7 +25951,8 @@
         ],
         "holders": {
             "ETH": 241
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0fbc0a9be1e87391ed2c7d2bb275bec02f53241f",
@@ -25963,11 +25968,23 @@
             "0xfreelance.io"
         ],
         "telegram_groups": [
-            "ZeroXFreelance"
+            "ZeroXFreelanceBot",
+            "zer0xtrading",
+            "zerolancer",
+            "ZeroXFreelance",
+            "crypt0tasker",
+            "KenzasTradingDiary",
+            "DreamCalls100x",
+            "maythouscalls",
+            "Cryptott123"
         ],
         "holders": {
             "ETH": 243
-        }
+        },
+        "emails": [
+            "hello@0xfreelance.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd33dad974b938744dac81fe00ac67cb5aa13958e",
@@ -26002,7 +26019,8 @@
         ],
         "holders": {
             "ETH": 71
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd31e53966bf212e860d48a3a8651a23d09a7fdc3",
