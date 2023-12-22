@@ -26743,5 +26743,143 @@
             "Contact: thesoltoken@proton.me"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x23da77203eead71e72d7326654c431ef563567a4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 16240
+        }
+    },
+    {
+        "contract_address": "0x56fcd9f2a8a5a6f3acbd4437aace09892da0e11e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.dogwifhatoneth.xyz"
+        ],
+        "telegram_groups": [
+            "Dogwifhat_Portal"
+        ],
+        "holders": {
+            "ETH": 188
+        }
+    },
+    {
+        "contract_address": "0xef3a930e1ffffacd2fc13434ac81bd278b0ecc8d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2617
+        }
+    },
+    {
+        "contract_address": "0xee7527841a932d2912224e20a405e1a1ff747084",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 604
+        }
+    },
+    {
+        "contract_address": "0xcfcecfe2bd2fed07a9145222e8a7ad9cf1ccd22a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1881
+        }
+    },
+    {
+        "contract_address": "0xfbdd747dee2fc96aec39d9a30adce887d8bd4de4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 17
+        }
+    },
+    {
+        "contract_address": "0x50739bd5b6aff093ba2371365727c48a420a060d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 42
+        }
+    },
+    {
+        "contract_address": "0x4e47951508fd4a4126f8ff9cf5e6fa3b7cc8e073",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fluid.trade"
+        ],
+        "holders": {
+            "ETH": 1072
+        }
+    },
+    {
+        "contract_address": "0x402831f79bcc5dabeb420201b3b0814c964d6eee",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "flowbots.tech",
+            "flowbots.tech"
+        ],
+        "telegram_groups": [
+            "flowbot_official",
+            "flowbot_official"
+        ],
+        "holders": {
+            "ETH": 86
+        }
+    },
+    {
+        "contract_address": "0xbfb72ce8bef03c22dc640798b4e07d9c8b0012d1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hawk.forex"
+        ],
+        "telegram_groups": [
+            "portalhawk"
+        ],
+        "holders": {
+            "ETH": 61
+        }
+    },
+    {
+        "contract_address": "0x85614a474dbeed440d5bbdb8ac50b0f22367f997",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1237
+        }
+    },
+    {
+        "contract_address": "0x61280f046e11d4d9bb1ac25944dd30516c47c5c6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.mammon.fun"
+        ],
+        "holders": {
+            "ETH": 121
+        }
+    },
+    {
+        "contract_address": "0x44c0270d7d94138f8ab413ed5cd4e756fdca26ed",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x4164048b6da7eb18321212f293bb62bcca70963c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x24914b6369c80206573fc7566e454b0654ef34ef",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x4992bf16899e1d90241b561c3e0820cd4bc12080",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 393
+        }
     }
 ]
