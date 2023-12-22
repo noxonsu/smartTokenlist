@@ -26700,7 +26700,9 @@
         "holders": {
             "ETH": 47
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large2251"
     },
     {
         "contract_address": "0xfeeeef4d7b4bf3cc8bd012d02d32ba5fd3d51e31",
@@ -26745,7 +26747,9 @@
         "holders": {
             "ETH": 144
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x48573c624712f90a25a4e840239601895224bb1c",
@@ -26762,7 +26766,9 @@
         "emails": [
             "Contact: thesoltoken@proton.me"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x23da77203eead71e72d7326654c431ef563567a4",
@@ -26783,7 +26789,9 @@
         "holders": {
             "ETH": 188
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xef3a930e1ffffacd2fc13434ac81bd278b0ecc8d",
@@ -26846,7 +26854,9 @@
         "holders": {
             "ETH": 86
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: The chat_id \"flowdefibot\" belongs to a user"
     },
     {
         "contract_address": "0xbfb72ce8bef03c22dc640798b4e07d9c8b0012d1",
@@ -26860,7 +26870,9 @@
         "holders": {
             "ETH": 61
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x85614a474dbeed440d5bbdb8ac50b0f22367f997",
@@ -26884,7 +26896,9 @@
         "emails": [
             "mammonerc20@proton.me"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x44c0270d7d94138f8ab413ed5cd4e756fdca26ed",
@@ -26988,7 +27002,9 @@
         "holders": {
             "ETH": 272
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: The chat_id \"solana_deployerbot\" belongs to a user"
     },
     {
         "contract_address": "0xe0c99ed6950ccb38347154abd06e10eba5a1f89a",
@@ -27015,7 +27031,9 @@
         "holders": {
             "ETH": 154
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: The chat_id \"ainsportalbot\" belongs to a user"
     },
     {
         "contract_address": "0x2263a0f0ba7969bf679319389f2b91a8df6ddc6a",
