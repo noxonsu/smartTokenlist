@@ -26570,7 +26570,9 @@
         ],
         "holders": {
             "ETH": 334
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x36be1e97ea98ab43b4debf92742517266f5731a3",
@@ -26586,7 +26588,9 @@
         ],
         "holders": {
             "ETH": 8
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xcc857f9a89c55de54f3d56961dcd48231c1bdd67",
@@ -26636,11 +26640,13 @@
             "docs.acebot.tech"
         ],
         "telegram_groups": [
+            "AceScanBot",
             "AceBot_Portal"
         ],
         "holders": {
             "ETH": 147
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x95132977cc65fceb7635af0d42175485243864b6",
@@ -26653,7 +26659,8 @@
         ],
         "holders": {
             "ETH": 47
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xfeeeef4d7b4bf3cc8bd012d02d32ba5fd3d51e31",
@@ -26697,7 +26704,8 @@
         ],
         "holders": {
             "ETH": 144
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x48573c624712f90a25a4e840239601895224bb1c",
@@ -26710,6 +26718,10 @@
         ],
         "holders": {
             "ETH": 150
-        }
+        },
+        "emails": [
+            "Contact: thesoltoken@proton.me"
+        ],
+        "p6": true
     }
 ]
