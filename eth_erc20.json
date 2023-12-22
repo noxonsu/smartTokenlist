@@ -24968,7 +24968,9 @@
         "holders": {
             "ETH": 113
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xc30769d445d1cbbc5f85fcdb4294b827bd3e7dda",
@@ -24991,12 +24993,14 @@
             "0xcitadel.co"
         ],
         "telegram_groups": [
-            "OxCitadel"
+            null
         ],
         "holders": {
             "ETH": 159
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: '<' not supported between instances of 'NoneType' and 'int'"
     },
     {
         "contract_address": "0xc59f4a906f39b65ba9e1968a39be76dff59b3948",
@@ -25133,7 +25137,9 @@
         "holders": {
             "ETH": 76
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x259bc212807f3d38883537293138099d8f398312",
@@ -25148,7 +25154,9 @@
         "holders": {
             "ETH": 40
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: The chat_id \"MizukiArtBot\" belongs to a user"
     },
     {
         "contract_address": "0xcd0cbdb3736fa34f15f30137b0e50c3f2d8e325d",
@@ -25162,7 +25170,9 @@
         "holders": {
             "ETH": 105
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x8a40c222996f9f3431f63bf80244c36822060f12",
@@ -25186,7 +25196,9 @@
         "emails": [
             "dev@bullrun.money"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x95640a134721475bc78594c8ea66c0182c7b9a50",
@@ -25258,7 +25270,9 @@
         "holders": {
             "ETH": 206
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x239fce1f766c6c2ed14e17ee3592d6ce7ab23ade",
@@ -25272,7 +25286,9 @@
         "holders": {
             "ETH": 244
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xd9fcd98c322942075a5c3860693e9f4f03aae07b",
@@ -25320,7 +25336,9 @@
         "emails": [
             "hi@proofplatform.io"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xdc9ac3c20d1ed0b540df9b1fedc10039df13f99c",
@@ -25406,7 +25424,9 @@
         "holders": {
             "ETH": 184
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xf64b5af0e3f1ffd7cc2a7e2f34d41e01164f28fa",
