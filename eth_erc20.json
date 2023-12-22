@@ -26762,7 +26762,8 @@
         ],
         "holders": {
             "ETH": 188
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xef3a930e1ffffacd2fc13434ac81bd278b0ecc8d",
@@ -26817,12 +26818,15 @@
             "flowbots.tech"
         ],
         "telegram_groups": [
-            "flowbot_official",
+            "flowdefibot",
+            "flowbot_announcements",
+            "FLOWBOT_official",
             "flowbot_official"
         ],
         "holders": {
             "ETH": 86
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xbfb72ce8bef03c22dc640798b4e07d9c8b0012d1",
@@ -26835,7 +26839,8 @@
         ],
         "holders": {
             "ETH": 61
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x85614a474dbeed440d5bbdb8ac50b0f22367f997",
@@ -26852,7 +26857,14 @@
         ],
         "holders": {
             "ETH": 121
-        }
+        },
+        "telegram_groups": [
+            "MammonErc20"
+        ],
+        "emails": [
+            "mammonerc20@proton.me"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x44c0270d7d94138f8ab413ed5cd4e756fdca26ed",
