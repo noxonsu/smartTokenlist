@@ -28005,5 +28005,144 @@
         },
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x48fb253446873234f2febbf9bdeaa72d9d387f94",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4134
+        }
+    },
+    {
+        "contract_address": "0xac0104cca91d167873b8601d2e71eb3d4d8c33e0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3680
+        }
+    },
+    {
+        "contract_address": "0x299698b4b44bd6d023981a7317798dee12860834",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 393
+        }
+    },
+    {
+        "contract_address": "0xf1967d80cd70427955c0e1c97d8f9d908283988b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 89
+        }
+    },
+    {
+        "contract_address": "0xdc860cbbf99db0b343fadce89405fe82e3ed97e5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 602
+        }
+    },
+    {
+        "contract_address": "0xbcee2657b37db70f9052637a5d801e87c260068f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 66
+        }
+    },
+    {
+        "contract_address": "0x00e2dde5a0e824740ed4bd2a27d6a6b0d92d8c99",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 754
+        }
+    },
+    {
+        "contract_address": "0xc75253291c312e9edd3bbeb5cc228eb50f2e2950",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 129
+        }
+    },
+    {
+        "contract_address": "0x9b0b23b35ad8136e6181f22b346134ce5f426090",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 557
+        }
+    },
+    {
+        "contract_address": "0x865377367054516e17014ccded1e7d814edc9ce4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 856
+        }
+    },
+    {
+        "contract_address": "0xcb79637aaffdc1e8db17761fa10367b46745ecb0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xbefb087d767c247c5f4c05e1eec4fee3279e4400",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x5f86558387293b6009d7896a61fcc86c17808d62",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 358
+        }
+    },
+    {
+        "contract_address": "0x18651549cce3480aea1b0ab07c65d240b3767b75",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.kabokutoken.com"
+        ],
+        "telegram_groups": [
+            "KabokuInu"
+        ],
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0x668d78571f124415581b38d32fa9a16f1aaa8417",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 225
+        }
+    },
+    {
+        "contract_address": "0x8396ad5feb207eabb6df9f5c19a3da771db47ce7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 61
+        }
+    },
+    {
+        "contract_address": "0xaa602de53347579f86b996d2add74bb6f79462b2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zipmex.com",
+            "openzeppelin.org"
+        ],
+        "emails": [
+            "radek@startonchain.com"
+        ],
+        "holders": {
+            "ETH": 1085
+        }
+    },
+    {
+        "contract_address": "0x759376ef5953eee50b9fc8564a4f0462cbea9093",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19
+        }
     }
 ]
