@@ -28180,7 +28180,8 @@
         ],
         "holders": {
             "ETH": 58
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6b3493481b599b649636005244ded291036cbf23",
@@ -28216,11 +28217,16 @@
             "thephoenix.vip"
         ],
         "telegram_groups": [
-            "ThePhoenixERC"
+            "ThePhoenixERC",
+            "thephoenixerc"
         ],
         "holders": {
             "ETH": 105
-        }
+        },
+        "emails": [
+            "support@thephoenix.vip"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc67b12049c2d0cf6e476bc64c7f82fc6c63cffc5",
