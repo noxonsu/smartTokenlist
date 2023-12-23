@@ -28299,11 +28299,19 @@
             "utopiabots.gitbook.io"
         ],
         "telegram_groups": [
-            "utopiabotportal"
+            "utopia_sniper_bot",
+            "utopiabotportal",
+            "UtopiaBotPortalChina",
+            "garfield_ub_dev",
+            "utopiabotdev"
         ],
         "holders": {
             "ETH": 399
-        }
+        },
+        "emails": [
+            "\n                                admin@utopiabot.app"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x71e8bdb7b98a50c52ed2f9d523c3eae3553eaf27",
