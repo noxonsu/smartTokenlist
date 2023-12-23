@@ -28147,5 +28147,93 @@
         "holders": {
             "ETH": 19
         }
+    },
+    {
+        "contract_address": "0xd1dd54ad8693cba4e2dc96469e7bdbd97b552d75",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1276
+        }
+    },
+    {
+        "contract_address": "0xa143ac515dca260a46c742c7251ef3b268639593",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 496
+        }
+    },
+    {
+        "contract_address": "0xf196c46a75b929193c6f372b28b8d22f21460819",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xabdd5389efaf41c44e61a0cd302ae81fb9706968",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "owlfi.vip"
+        ],
+        "telegram_groups": [
+            "owl_protocol"
+        ],
+        "holders": {
+            "ETH": 58
+        }
+    },
+    {
+        "contract_address": "0x6b3493481b599b649636005244ded291036cbf23",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0x69ef1a53c0bc94e285c5068aadebdd054894625d",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "TESLA_Entry"
+        ],
+        "holders": {
+            "ETH": 604
+        }
+    },
+    {
+        "contract_address": "0xbd356a39bff2cada8e9248532dd879147221cf76",
+        "sourceScanned": "processed",
+        "emails": [
+            "info@womprotocol.io"
+        ],
+        "holders": {
+            "ETH": 3068
+        }
+    },
+    {
+        "contract_address": "0xa295cf88b1018856cbe266b17859a9a6010bb9b7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "thephoenix.vip"
+        ],
+        "telegram_groups": [
+            "ThePhoenixERC"
+        ],
+        "holders": {
+            "ETH": 105
+        }
+    },
+    {
+        "contract_address": "0xc67b12049c2d0cf6e476bc64c7f82fc6c63cffc5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5081
+        }
+    },
+    {
+        "contract_address": "0xee1cea7665ba7aa97e982edeaecb26b59a04d035",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1343
+        }
     }
 ]
