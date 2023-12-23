@@ -27633,5 +27633,116 @@
         "holders": {
             "ETH": 2682
         }
+    },
+    {
+        "contract_address": "0x39a34c542b0204a1b49a4886c312be7cb2e2a008",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xd8f1460044925d2d5c723c7054cd9247027415b7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5251
+        }
+    },
+    {
+        "contract_address": "0x4ac1d7358613894543e8ae0e1c9638d5403c795b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 56
+        }
+    },
+    {
+        "contract_address": "0x745407c86df8db893011912d3ab28e68b62e49b0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4066
+        }
+    },
+    {
+        "contract_address": "0x328a268b191ef593b72498a9e8a481c086eb21be",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "metazero.gg"
+        ],
+        "emails": [
+            "goncalo.sa@consensys.net"
+        ],
+        "holders": {
+            "ETH": 968
+        }
+    },
+    {
+        "contract_address": "0x90de74265a416e1393a450752175aed98fe11517",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4495
+        }
+    },
+    {
+        "contract_address": "0x4f0c5042a11830feaba227840402e2409b0fc9dc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 423
+        }
+    },
+    {
+        "contract_address": "0x59f4f336bf3d0c49dbfba4a74ebd2a6ace40539a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 143
+        }
+    },
+    {
+        "contract_address": "0xe9f721e7419423f11863e83dbd710b5d6127b5b0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1619
+        }
+    },
+    {
+        "contract_address": "0x4e560553d9516b51a0128eeca31a56b481ae5b36",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.superfluid.cloud",
+            "app.superfluid.cloud"
+        ],
+        "telegram_groups": [
+            "SuperFluid_erc20"
+        ],
+        "holders": {
+            "ETH": 49
+        }
+    },
+    {
+        "contract_address": "0x9469d013805bffb7d3debe5e7839237e535ec483",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8772
+        }
+    },
+    {
+        "contract_address": "0x8b2368faf88a4dd5b61c52b5862952331293b349",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x04aebe2e4301cdf5e9c57b01ebdfe4ac4b48dd13",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x06a01a4d579479dd5d884ebf61a31727a3d8d442",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9545
+        }
     }
 ]
