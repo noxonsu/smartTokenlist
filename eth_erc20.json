@@ -28311,7 +28311,9 @@
         "emails": [
             "\n                                admin@utopiabot.app"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: The chat_id \"utopia_sniper_bot\" belongs to a user"
     },
     {
         "contract_address": "0x71e8bdb7b98a50c52ed2f9d523c3eae3553eaf27",
