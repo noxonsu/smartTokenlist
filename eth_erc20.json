@@ -27396,7 +27396,9 @@
         "holders": {
             "ETH": 106
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xa7f098116e0ec8087022a22608aae0a61dcf62ae",
@@ -27432,7 +27434,9 @@
         "holders": {
             "ETH": 208
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: The chat_id \"CodexServiceBot\" belongs to a user"
     },
     {
         "contract_address": "0x0d02755a5700414b26ff040e1de35d337df56218",
@@ -27497,6 +27501,8 @@
         "holders": {
             "ETH": 437
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     }
 ]
