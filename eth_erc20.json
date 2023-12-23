@@ -27596,7 +27596,11 @@
         ],
         "holders": {
             "ETH": 23
-        }
+        },
+        "emails": [
+            "info@mysite.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xabfd9db626efa18729920354cc888094a6c9e83d",
@@ -27609,7 +27613,8 @@
         ],
         "holders": {
             "ETH": 21
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd75f1f81b69bdd4df8efbb70e9c6f4609009d753",
