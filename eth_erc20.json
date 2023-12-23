@@ -27504,5 +27504,125 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0x299a1503e88433c0fd1bd68625c25c5a703eb64f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 817
+        }
+    },
+    {
+        "contract_address": "0x67280f5b630d34b3541f679ca6e922b7a9169390",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0xafd074f0f0ef80fea1f35414a4e57083ff4b792a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0xf8f18dc9e192a9bf9347da0e2107d05d5b67f38e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 120
+        }
+    },
+    {
+        "contract_address": "0x8a79cc7a90b592d1bcc6bbebe5c46cb8144c384d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xbe1a001fe942f96eea22ba08783140b9dcc09d28",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1828
+        }
+    },
+    {
+        "contract_address": "0xedaa2fa0fd153b78efde805b0a46225bb95e3ca1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 407
+        }
+    },
+    {
+        "contract_address": "0x7704c64f14a0b1a7cd4f228999b40724e0e58f94",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "santajesus_ERC20"
+        ],
+        "holders": {
+            "ETH": 43
+        }
+    },
+    {
+        "contract_address": "0x08875644ddf1ff244811042efd6c4be44edcd6a2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x25751853eab4d0eb3652b5eb6ecb102a2789644b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1725
+        }
+    },
+    {
+        "contract_address": "0x519c1001d550c0a1dae7d1fc220f7d14c2a521bb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9228
+        }
+    },
+    {
+        "contract_address": "0xb5502a39acd3a4d619c3f3ef27f223a2b3a00415",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.santa-ai.info"
+        ],
+        "telegram_groups": [
+            "SantaAI_Prtal"
+        ],
+        "holders": {
+            "ETH": 23
+        }
+    },
+    {
+        "contract_address": "0xabfd9db626efa18729920354cc888094a6c9e83d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.wiztai.com"
+        ],
+        "telegram_groups": [
+            "wiztai"
+        ],
+        "holders": {
+            "ETH": 21
+        }
+    },
+    {
+        "contract_address": "0xd75f1f81b69bdd4df8efbb70e9c6f4609009d753",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1713
+        }
+    },
+    {
+        "contract_address": "0x21381e026ad6d8266244f2a583b35f9e4413fa2a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2682
+        }
     }
 ]
