@@ -27982,11 +27982,15 @@
             "d1moon.com"
         ],
         "telegram_groups": [
+            "Scoutreal_D1moon",
+            "Turbo_D1MOON",
+            "CheekyNancy_real_D1moon",
             "doge1_to_the_moon"
         ],
         "holders": {
             "ETH": 65
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd5a51c0eae21ab831885e57662bdd2a811e6b23b",
@@ -27996,6 +28000,8 @@
         ],
         "holders": {
             "ETH": 61
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     }
 ]
