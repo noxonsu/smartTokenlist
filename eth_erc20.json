@@ -28245,5 +28245,92 @@
         "holders": {
             "ETH": 1343
         }
+    },
+    {
+        "contract_address": "0xb59490ab09a0f526cc7305822ac65f2ab12f9723",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6543
+        }
+    },
+    {
+        "contract_address": "0xdf15ad6cab5e00c0fc2fb5d9b7a1f295f43c453b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 193
+        }
+    },
+    {
+        "contract_address": "0x37092dbf8c26da9cc805683b4cc0b942e92de2fd",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "bdogenet"
+        ],
+        "holders": {
+            "ETH": 563
+        }
+    },
+    {
+        "contract_address": "0x5a66e2b44509817c0271a75e0f48e1693f867ee2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xfb2f545a9ad62f38fe600e24f75ecd790d30a7ba",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 135
+        }
+    },
+    {
+        "contract_address": "0x454ea94da3333b4333a8ff43fca4bf128522a53f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 88
+        }
+    },
+    {
+        "contract_address": "0x1783d3979038d986f3959adf7dbfc527f42c4269",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "utopia-bot.com",
+            "utopiabots.gitbook.io"
+        ],
+        "telegram_groups": [
+            "utopiabotportal"
+        ],
+        "holders": {
+            "ETH": 399
+        }
+    },
+    {
+        "contract_address": "0x71e8bdb7b98a50c52ed2f9d523c3eae3553eaf27",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 22
+        }
+    },
+    {
+        "contract_address": "0x3c74ed2b9575ff2fc996498e7721060e34f097a3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x2ccbff3a042c68716ed2a2cb0c544a9f1d1935e1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4912
+        }
+    },
+    {
+        "contract_address": "0x611e294adfa6a30385ed804aa77c6b9dc4cfa1de",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 279
+        }
     }
 ]
