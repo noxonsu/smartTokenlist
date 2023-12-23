@@ -28801,5 +28801,108 @@
         "holders": {
             "ETH": 17611
         }
+    },
+    {
+        "contract_address": "0x0099c668b1691fd74e1b3fa2b4f55985265f574b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 104
+        }
+    },
+    {
+        "contract_address": "0x726516b20c4692a6bea3900971a37e0ccf7a6bff",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3270
+        }
+    },
+    {
+        "contract_address": "0xb7d59805c72eeedd63763f712078373eacb923aa",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 149
+        }
+    },
+    {
+        "contract_address": "0x7a8946eda77817126ffe301249f6dc4c7df293c3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 479
+        }
+    },
+    {
+        "contract_address": "0x427a5941c5555e7284dcd3e579a850b3e7efc7eb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x42e70913b53cfcc38b18ffbd124e8f65c706deaf",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sally.gg"
+        ],
+        "telegram_groups": [
+            "SallyERC20Portal"
+        ],
+        "holders": {
+            "ETH": 1510
+        }
+    },
+    {
+        "contract_address": "0x011a4318e7a45927004018dc88bec93953476615",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 55
+        }
+    },
+    {
+        "contract_address": "0x2e182feb2491ff45a0306896f61791f53937ea36",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.gptbit.net",
+            "www.linkedin.com"
+        ],
+        "telegram_groups": [
+            "bitgpt_portal"
+        ],
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x7b2f685dfb8b60fede2231f7272de0d31518da15",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ancestoroffrog.xyz"
+        ],
+        "telegram_groups": [
+            "aof_erc"
+        ],
+        "holders": {
+            "ETH": 57
+        }
+    },
+    {
+        "contract_address": "0x4f27633e8b1cfd5e043c68cdcd81c0bbfdb1cf14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 75
+        }
+    },
+    {
+        "contract_address": "0x41a322b28d0ff354040e2cbc676f0320d8c8850d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1194
+        }
+    },
+    {
+        "contract_address": "0x8f524eaa27177a343e7940ad726d7b352dd196a9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 34
+        }
     }
 ]
