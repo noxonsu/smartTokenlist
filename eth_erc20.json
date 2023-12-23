@@ -27330,5 +27330,168 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0x7b0c06043468469967dba22d1af33d77d44056c8",
+        "sourceScanned": "processed",
+        "emails": [
+            "mikhail.vladimirov@gmail.com",
+            "mikhail.vladimirov@gmail.com"
+        ],
+        "holders": {
+            "ETH": 5110
+        }
+    },
+    {
+        "contract_address": "0x2a79324c19ef2b89ea98b23bc669b7e7c9f8a517",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2100
+        }
+    },
+    {
+        "contract_address": "0x7394374cc1aefcfa37919a3e305f16740ba15641",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 37
+        }
+    },
+    {
+        "contract_address": "0x37fe0f067fa808ffbdd12891c0858532cfe7361d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4186
+        }
+    },
+    {
+        "contract_address": "0xddb6f1fd54484db54e7285817225769dd6d8ea90",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 141
+        }
+    },
+    {
+        "contract_address": "0x73a83269b9bbafc427e76be0a2c1a1db2a26f4c2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 665
+        }
+    },
+    {
+        "contract_address": "0x0058a04548a318f988604c95c70405043e930395",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 215
+        }
+    },
+    {
+        "contract_address": "0x87777638a5579ab83e7d74659db4989fbc3d1462",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bonkwifhat.wtf"
+        ],
+        "telegram_groups": [
+            "bonkwifhaterc"
+        ],
+        "holders": {
+            "ETH": 106
+        }
+    },
+    {
+        "contract_address": "0xa7f098116e0ec8087022a22608aae0a61dcf62ae",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xcc19786f91bb1f3f3fd9a2ea9fd9a54f7743039e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 27
+        }
+    },
+    {
+        "contract_address": "0x49b4d1df40442f0c31b1bbaea3ede7c38e37e31a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 363
+        }
+    },
+    {
+        "contract_address": "0xfd26e39807772251c3bb90fb1fcd9ce5b80c5c24",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "codextoken.com"
+        ],
+        "telegram_groups": [
+            "codex_coin"
+        ],
+        "holders": {
+            "ETH": 208
+        }
+    },
+    {
+        "contract_address": "0x0d02755a5700414b26ff040e1de35d337df56218",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10375
+        }
+    },
+    {
+        "contract_address": "0xa16a831dbdbde65b46e315be7dedc382ddd9c60e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x21b8bfbbefc9e2b9a994871ecd742a5132b98aed",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 507
+        }
+    },
+    {
+        "contract_address": "0xc4c2614e694cf534d407ee49f8e44d125e4681c4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18109
+        }
+    },
+    {
+        "contract_address": "0x269616d549d7e8eaa82dfb17028d0b212d11232a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 478
+        }
+    },
+    {
+        "contract_address": "0x4e3a55cc04757af8d02026eacbf7d6eedfef0ce8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 365
+        }
+    },
+    {
+        "contract_address": "0x1bb9e8ea817d56eccc212ce63f7da95298f98719",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 245
+        }
+    },
+    {
+        "contract_address": "0x4a88ebf6f76b04f5e0e71a351a22e573f636affe",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.yoyomarket.io"
+        ],
+        "telegram_groups": [
+            "yoyomarket_portal",
+            "yoyomarketann"
+        ],
+        "holders": {
+            "ETH": 437
+        }
     }
 ]
