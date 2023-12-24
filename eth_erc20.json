@@ -29182,5 +29182,105 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0xc9cb16ac87c43697b838c64ee416d748817f2b77",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 988
+        }
+    },
+    {
+        "contract_address": "0x2a3f3ba49dffb98f619197198216a93be540caf1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0x6b4e7ccc149acc5b6c5fb508623cb069faf091c8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0xe296a93dc8a1cbaa4047723b02127574b88fb7aa",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x0258f474786ddfd37abce6df6bbb1dd5dfc4434a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10949
+        }
+    },
+    {
+        "contract_address": "0xcf3d0761f627d33e473aae6c92d4c66831c12d5e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zkfair.io"
+        ],
+        "telegram_groups": [
+            "zkfaircommunity"
+        ],
+        "holders": {
+            "ETH": 41
+        }
+    },
+    {
+        "contract_address": "0x6adb2e268de2aa1abf6578e4a8119b960e02928f",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ShibaDoge_Portal"
+        ],
+        "holders": {
+            "ETH": 29459
+        }
+    },
+    {
+        "contract_address": "0xd91fba4919b7bf3b757320ea48ba102f543de341",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 81
+        }
+    },
+    {
+        "contract_address": "0x62cf4541661ac31c667af22db3b9a5d272e0734d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x13e58c7b1147385d735a06d14f0456e54c2debc8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x3b21c2868b6028cfb38ff86127ef22e68d16d53b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0x437636e4b984eae19045626aa269a89f906cf96c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 666
+        }
+    },
+    {
+        "contract_address": "0xd87996ff3d06858bfc20989aef50cc5fcd4d84ca",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2007
+        }
     }
 ]
