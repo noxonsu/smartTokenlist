@@ -30148,5 +30148,124 @@
         "holders": {
             "ETH": 2022
         }
+    },
+    {
+        "contract_address": "0xac7945a20c3a6629749f40ad57aac77ad9c60fed",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "erc.casino",
+            "www.reddit.com",
+            "tiktok.com"
+        ],
+        "telegram_groups": [
+            "erccasinoportal"
+        ],
+        "holders": {
+            "ETH": 124
+        }
+    },
+    {
+        "contract_address": "0xf95117277000b36d2d055cd23b679e295827feec",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 50
+        }
+    },
+    {
+        "contract_address": "0x5d843fa9495d23de997c394296ac7b4d721e841c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 994
+        }
+    },
+    {
+        "contract_address": "0x8eef5a82e6aa222a60f009ac18c24ee12dbf4b41",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4694
+        }
+    },
+    {
+        "contract_address": "0x0477a9f1c9a3a983c27a80229fda21a01fd2e327",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x59f6b0ea66cd0e78fadb450940448bcf62ea04ba",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 215
+        }
+    },
+    {
+        "contract_address": "0xfa4baa6951b6ee382e9ff9af2d523278b99ca6d0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "HouseMoney.app"
+        ],
+        "telegram_groups": [
+            "housemoneyportal"
+        ],
+        "holders": {
+            "ETH": 1009
+        }
+    },
+    {
+        "contract_address": "0x0a913bead80f321e7ac35285ee10d9d922659cb7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9296
+        }
+    },
+    {
+        "contract_address": "0x44f5909e97e1cbf5fbbdf0fc92fd83cde5d5c58a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5391
+        }
+    },
+    {
+        "contract_address": "0x3f382dbd960e3a9bbceae22651e88158d2791550",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8239
+        }
+    },
+    {
+        "contract_address": "0x7908dd594df675aeb324110af388206a68be2138",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0xe8ec1b6954a9ba4606a6059b0d233a2c9b6d225f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 141
+        }
+    },
+    {
+        "contract_address": "0x517f9dd285e75b599234f7221227339478d0fcc8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0xb753428af26e81097e7fd17f40c88aaa3e04902c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13692
+        }
+    },
+    {
+        "contract_address": "0xfa5047c9c78b8877af97bdcb85db743fd7313d4a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 16459
+        }
     }
 ]
