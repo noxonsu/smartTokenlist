@@ -29810,7 +29810,9 @@
         "holders": {
             "ETH": 60
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large96486"
     },
     {
         "contract_address": "0xdbe606679faf8ebceaf7a9d6faee9abdbcceb60d",
@@ -29850,7 +29852,9 @@
         "holders": {
             "ETH": 143
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x39ea10e507720783c27edd5f96bf2d6e199579b8",
