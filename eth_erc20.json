@@ -29094,11 +29094,16 @@
             "www.santa-ai.info"
         ],
         "telegram_groups": [
+            "SantaAI_Prtal",
             "AISanta_Portal"
         ],
         "holders": {
             "ETH": 15
-        }
+        },
+        "emails": [
+            "info@mysite.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x013062189dc3dcc99e9cee714c513033b8d99e3c",
@@ -29171,6 +29176,7 @@
         ],
         "holders": {
             "ETH": 134
-        }
+        },
+        "p6": true
     }
 ]
