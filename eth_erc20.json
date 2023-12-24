@@ -29103,7 +29103,9 @@
         "emails": [
             "info@mysite.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x013062189dc3dcc99e9cee714c513033b8d99e3c",
@@ -29177,6 +29179,8 @@
         "holders": {
             "ETH": 134
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     }
 ]
