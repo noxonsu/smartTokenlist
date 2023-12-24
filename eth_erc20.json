@@ -29401,7 +29401,11 @@
         ],
         "holders": {
             "ETH": 24
-        }
+        },
+        "telegram_groups": [
+            "bonketherc"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x76072e935057a861cb6de093dc2b69c6f2361cf5",
@@ -29428,7 +29432,8 @@
         ],
         "holders": {
             "ETH": 21
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x600d601d8b9eb5de5ac90fefc68d0d08801bfd3f",
@@ -29458,11 +29463,13 @@
             "www.x.com"
         ],
         "telegram_groups": [
+            "loem_ai",
             "doge2rescue"
         ],
         "holders": {
             "ETH": 103
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x36880f14af2e85cae8e467827fa077d6bf12ea56",
