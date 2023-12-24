@@ -29578,5 +29578,118 @@
         "holders": {
             "ETH": 756
         }
+    },
+    {
+        "contract_address": "0x8c088775e4139af116ac1fa6f281bbf71e8c1c73",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1335
+        }
+    },
+    {
+        "contract_address": "0x850aab69f0e0171a9a49db8be3e71351c8247df4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6122
+        }
+    },
+    {
+        "contract_address": "0x8fc8f8269ebca376d046ce292dc7eac40c8d358a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3271
+        }
+    },
+    {
+        "contract_address": "0xb26631c6dda06ad89b93c71400d25692de89c068",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5040
+        }
+    },
+    {
+        "contract_address": "0xed5464bd5c477b7f71739ce1d741b43e932b97b0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2135
+        }
+    },
+    {
+        "contract_address": "0x7698136f5a4334d684bb9fe24cc5b0ce9eaf9b6d",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "OpiumERC"
+        ],
+        "holders": {
+            "ETH": 1000
+        }
+    },
+    {
+        "contract_address": "0x6e39a587691b8c9d4341ce0a960998ed6f537af6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6002
+        }
+    },
+    {
+        "contract_address": "0x977d2bdd8a59ec393ae9430ce619e01a91cfb990",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "OrdinalsKiller"
+        ],
+        "holders": {
+            "ETH": 132
+        }
+    },
+    {
+        "contract_address": "0xec67005c4e498ec7f55e092bd1d35cbc47c91892",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dapp.tools"
+        ],
+        "holders": {
+            "ETH": 7540
+        }
+    },
+    {
+        "contract_address": "0x238a1fcc2f65ed50c1e1797cf5857cba3e82a55b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "moetatoken.com"
+        ],
+        "telegram_groups": [
+            "MoetaERC"
+        ],
+        "holders": {
+            "ETH": 344
+        }
+    },
+    {
+        "contract_address": "0x528fc7341f43c13268bfb53fc095fa025044f286",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1115
+        }
+    },
+    {
+        "contract_address": "0x3f5dd1a1538a4f9f82e543098f01f22480b0a3a8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2203
+        }
+    },
+    {
+        "contract_address": "0x42f3875ca45751cd0bbedbccebb1dca748378b1b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 118
+        }
+    },
+    {
+        "contract_address": "0x755a80651f3bb1a580012181a542a65a65b50f6e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 23
+        }
     }
 ]
