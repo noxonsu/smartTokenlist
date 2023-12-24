@@ -30059,7 +30059,9 @@
         "emails": [
             "team@fetchai.app"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x60f5672a271c7e39e787427a18353ba59a4a3578",
@@ -30087,7 +30089,9 @@
         "holders": {
             "ETH": 10
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x51fe2e572e97bfeb1d719809d743ec2675924edc",
