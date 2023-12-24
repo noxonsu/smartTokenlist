@@ -29517,7 +29517,9 @@
         "holders": {
             "ETH": 64
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x0340aea64f6953923a9543cdb6c93990ec8b63f1",
@@ -29539,7 +29541,9 @@
             "Launch_Whatbot",
             "whatbotchat"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: The chat_id \"Launch_Whatbot\" belongs to a user"
     },
     {
         "contract_address": "0x3850952491606a0e420eb929b1a2e1a450d013f1",
