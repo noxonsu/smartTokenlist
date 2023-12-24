@@ -29504,5 +29504,69 @@
         "holders": {
             "ETH": 880
         }
+    },
+    {
+        "contract_address": "0x9af9fdeda6515642a3ce6188fbaa74a2536a0205",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pepegacrypto.tech"
+        ],
+        "telegram_groups": [
+            "PepegaCrypto"
+        ],
+        "holders": {
+            "ETH": 64
+        }
+    },
+    {
+        "contract_address": "0x0340aea64f6953923a9543cdb6c93990ec8b63f1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 94
+        }
+    },
+    {
+        "contract_address": "0xe1598d43844e1cff7144bf991185ac49c34954e7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.whatbot.vip"
+        ],
+        "holders": {
+            "ETH": 17
+        }
+    },
+    {
+        "contract_address": "0x3850952491606a0e420eb929b1a2e1a450d013f1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "thepanoramic.art"
+        ],
+        "telegram_groups": [
+            "PanoVerse"
+        ],
+        "holders": {
+            "ETH": 502
+        }
+    },
+    {
+        "contract_address": "0x5d285f735998f36631f678ff41fb56a10a4d0429",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10234
+        }
+    },
+    {
+        "contract_address": "0x4da27a545c0c5b758a6ba100e3a049001de870f5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 20496
+        }
+    },
+    {
+        "contract_address": "0x80122c6a83c8202ea365233363d3f4837d13e888",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 756
+        }
     }
 ]
