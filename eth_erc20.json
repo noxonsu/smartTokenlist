@@ -29392,5 +29392,104 @@
         "holders": {
             "ETH": 278
         }
+    },
+    {
+        "contract_address": "0x76790620a956f4b237faabfd3d0b7694d1eb7f73",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bonkinu.network"
+        ],
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0x76072e935057a861cb6de093dc2b69c6f2361cf5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 29
+        }
+    },
+    {
+        "contract_address": "0x5d259e3fbcadef1abfea5582e456bc7f0aebc2a1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 197
+        }
+    },
+    {
+        "contract_address": "0x6b5c4548422585cb2e6c44d4597e6db24b7645f5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "shibaku-inu.com"
+        ],
+        "telegram_groups": [
+            "ShibakuInuErc20"
+        ],
+        "holders": {
+            "ETH": 21
+        }
+    },
+    {
+        "contract_address": "0x600d601d8b9eb5de5ac90fefc68d0d08801bfd3f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1036
+        }
+    },
+    {
+        "contract_address": "0xe4039dbcd3779fde680a6e5353473e3abc7c2de4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 528
+        }
+    },
+    {
+        "contract_address": "0xad22f63404f7305e4713ccbd4f296f34770513f4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 47137
+        }
+    },
+    {
+        "contract_address": "0x1e390e21242088d1f4b7ea9118ecb189dd510d21",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.x.com"
+        ],
+        "telegram_groups": [
+            "doge2rescue"
+        ],
+        "holders": {
+            "ETH": 103
+        }
+    },
+    {
+        "contract_address": "0x36880f14af2e85cae8e467827fa077d6bf12ea56",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 604
+        }
+    },
+    {
+        "contract_address": "0x1cb8630bbb5d3d693a208d45c450dd6ea56c0d42",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x32d222e1f6386b3df7065d639870be0ef76d3599",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 198
+        }
+    },
+    {
+        "contract_address": "0x56fbb6112543e8e99402440f6f92ad6697b4f176",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 880
+        }
     }
 ]
