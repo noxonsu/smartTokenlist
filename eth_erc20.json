@@ -29405,7 +29405,9 @@
         "telegram_groups": [
             "bonketherc"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large2486"
     },
     {
         "contract_address": "0x76072e935057a861cb6de093dc2b69c6f2361cf5",
@@ -29433,7 +29435,9 @@
         "holders": {
             "ETH": 21
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x600d601d8b9eb5de5ac90fefc68d0d08801bfd3f",
@@ -29469,7 +29473,9 @@
         "holders": {
             "ETH": 103
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x36880f14af2e85cae8e467827fa077d6bf12ea56",
