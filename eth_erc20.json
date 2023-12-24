@@ -29797,5 +29797,86 @@
         "holders": {
             "ETH": 169
         }
+    },
+    {
+        "contract_address": "0x51230e10fa1b5ce1ebc22ebab68bced15df03cb6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.moonapp.io"
+        ],
+        "telegram_groups": [
+            "MoonAppChat"
+        ],
+        "holders": {
+            "ETH": 60
+        }
+    },
+    {
+        "contract_address": "0xdbe606679faf8ebceaf7a9d6faee9abdbcceb60d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "grokaitoken.com"
+        ],
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0x66de0f9f4ffdd93a6a1cfe83537d341bebdcf927",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 965
+        }
+    },
+    {
+        "contract_address": "0x4af328c52921706dcb739f25786210499169afe6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2873
+        }
+    },
+    {
+        "contract_address": "0x852d64be2c3336542262c33c61afbe740fbfe387",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ponkeoneth.vip"
+        ],
+        "telegram_groups": [
+            "PonkeETH"
+        ],
+        "holders": {
+            "ETH": 143
+        }
+    },
+    {
+        "contract_address": "0x39ea10e507720783c27edd5f96bf2d6e199579b8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 297
+        }
+    },
+    {
+        "contract_address": "0x60a26c05c5372dcded66940d2b56076bce925152",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1043
+        }
+    },
+    {
+        "contract_address": "0x93dfaf57d986b9ca77df9376c50878e013d9c7c8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "unique.one"
+        ],
+        "holders": {
+            "ETH": 1851
+        }
+    },
+    {
+        "contract_address": "0xa6dc21de6f721f50e558d27042c871401832b378",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 77
+        }
     }
 ]
