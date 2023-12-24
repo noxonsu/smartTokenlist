@@ -29658,11 +29658,16 @@
             "moetatoken.com"
         ],
         "telegram_groups": [
-            "MoetaERC"
+            "lpburn",
+            "MoetaERC",
+            "moetatracker",
+            "moetabot",
+            "burnitoburns"
         ],
         "holders": {
             "ETH": 344
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x528fc7341f43c13268bfb53fc095fa025044f286",
