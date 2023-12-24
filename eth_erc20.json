@@ -29698,5 +29698,98 @@
         "holders": {
             "ETH": 23
         }
+    },
+    {
+        "contract_address": "0xcafe001067cdef266afb7eb5a286dcfd277f3de5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5080
+        }
+    },
+    {
+        "contract_address": "0xcb0e14e96f2cefa8550ad8e4aea344f211e5061d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 150
+        }
+    },
+    {
+        "contract_address": "0x75430d0782a443bd4f1c92c69009599dea53a206",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2184
+        }
+    },
+    {
+        "contract_address": "0xa8258abc8f2811dd48eccd209db68f25e3e34667",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3232
+        }
+    },
+    {
+        "contract_address": "0x102203517ce35ac5cab9a2cda80df03f26c7419b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 117
+        }
+    },
+    {
+        "contract_address": "0x7529e78baa31813eb176fc52f8cbc86cf1d78d2f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cakevault.tech"
+        ],
+        "telegram_groups": [
+            "cakevault"
+        ],
+        "holders": {
+            "ETH": 59
+        }
+    },
+    {
+        "contract_address": "0x089004c9fd8c5f0c4166000aeedeac40914886be",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 61
+        }
+    },
+    {
+        "contract_address": "0x1bc55d0f2eb687deaef73c24dabb42970800e6af",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mysteries.digital",
+            "app.mysteries.digital"
+        ],
+        "telegram_groups": [
+            "mysteries_digital_official"
+        ],
+        "holders": {
+            "ETH": 69
+        }
+    },
+    {
+        "contract_address": "0x9b39897e99cacdbb7c6d7dcfa84938aa309c9dad",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 272
+        }
+    },
+    {
+        "contract_address": "0x35411c0867875bd45fc9ec1fa0e927eb7f53d72d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 37
+        }
+    },
+    {
+        "contract_address": "0x301e9f12faab3aabe81605bd71f952650fce0795",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "PONKEonETH"
+        ],
+        "holders": {
+            "ETH": 169
+        }
     }
 ]
