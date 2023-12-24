@@ -30050,11 +30050,16 @@
         ],
         "telegram_groups": [
             "FETCH_AI_ETH",
+            "Fetch_Ai_Bot",
             "fetchai_bot"
         ],
         "holders": {
             "ETH": 127
-        }
+        },
+        "emails": [
+            "team@fetchai.app"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x60f5672a271c7e39e787427a18353ba59a4a3578",
@@ -30081,7 +30086,8 @@
         ],
         "holders": {
             "ETH": 10
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x51fe2e572e97bfeb1d719809d743ec2675924edc",
