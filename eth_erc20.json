@@ -27976,7 +27976,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 112
-        }
+        },
+        "web_domains": [
+            "crystalsuite.com"
+        ]
     },
     {
         "contract_address": "0xb08885e6026bab4333a80024ec25a1a3e1ff2b8a",
@@ -28189,7 +28192,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "onecoinbuy.com"
+        ]
     },
     {
         "contract_address": "0x5f86558387293b6009d7896a61fcc86c17808d62",
@@ -28219,7 +28225,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 225
-        }
+        },
+        "web_domains": [
+            "1ex.com"
+        ]
     },
     {
         "contract_address": "0x8396ad5feb207eabb6df9f5c19a3da771db47ce7",
@@ -28359,7 +28368,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 193
-        }
+        },
+        "web_domains": [
+            "gladium.io"
+        ]
     },
     {
         "contract_address": "0x37092dbf8c26da9cc805683b4cc0b942e92de2fd",
@@ -28584,7 +28596,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 10
-        }
+        },
+        "web_domains": [
+            "muerehteeth.com"
+        ]
     },
     {
         "contract_address": "0x1e7a53220c128d100b56970ce88ee963a9511370",
