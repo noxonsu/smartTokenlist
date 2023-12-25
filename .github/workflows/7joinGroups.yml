@@ -39,7 +39,7 @@ jobs:
         OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         BNBSCAN_API_KEY: ${{ secrets.BNBSCAN_API_KEY }}
         CHAINBASE_API: ${{ secrets.CHAINBASE_API }}
-        WEB3_RPC: ${{ secrets.WEB3_RPC }}
+        WEB3_RPC: ${{ vars.WEB3_RPC }}
         SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
         NETWORK: ${{ vars.NETWORK }}
         MAINFILE: ${{ vars.MAINFILE }}
