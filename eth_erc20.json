@@ -30900,5 +30900,77 @@
         },
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x6dfaf52259d494c29596f5eb16573b105693e78f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x1bfffb738d69167d5592160a47d5404a3cf5a846",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0xfc5e4ed56153b57aa8ef769eba3e79e58e19be93",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 103
+        }
+    },
+    {
+        "contract_address": "0x6c936d4ae98e6d2172db18c16c4b601c99918ee6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3333
+        }
+    },
+    {
+        "contract_address": "0x68965db5cb860f2fbb75e2e81e1d94dbb34a925f",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "eelonmuskonmayo"
+        ],
+        "holders": {
+            "ETH": 97
+        }
+    },
+    {
+        "contract_address": "0x4ad6da9aae321c408794e0ca38b37b737484907d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 34
+        }
+    },
+    {
+        "contract_address": "0xaf8942831f3a096f708b8b31f191b8958cf176c5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 786
+        }
+    },
+    {
+        "contract_address": "0x878deb2ddb30e1ec3949e24f2a36edf34d80c5ca",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "BalooERC20.io"
+        ],
+        "telegram_groups": [
+            "BalooOnEth"
+        ],
+        "holders": {
+            "ETH": 17
+        }
+    },
+    {
+        "contract_address": "0xff4a68bb559e9ce1429e1e455b1d30564a7dd67f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 700
+        }
     }
 ]
