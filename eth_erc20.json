@@ -30270,5 +30270,136 @@
         "holders": {
             "ETH": 16459
         }
+    },
+    {
+        "contract_address": "0xe973e453977195422b48e1852a207b7ee9c913c7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11019
+        }
+    },
+    {
+        "contract_address": "0x8888801af4d980682e47f1a9036e589479e835c5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "api.myproject.com",
+            "www.apache.org",
+            "docs.aave.com",
+            "docs.aave.com",
+            "docs.aave.com",
+            "compound.finance",
+            "compound.finance",
+            "sips.synthetix.io"
+        ],
+        "emails": [
+            "zefram@baconlabs.dev"
+        ],
+        "holders": {
+            "ETH": 4548
+        }
+    },
+    {
+        "contract_address": "0x2ed9b1933a0f7c16f8b6aeceea1fd045986ae926",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "WagesErcPortal"
+        ],
+        "holders": {
+            "ETH": 83
+        }
+    },
+    {
+        "contract_address": "0x60a469f5d2d737934bf513d5d45375f3df2850c7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xab8a69e756155cf1e529a83f615d5e9a6fc36732",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "spillways.medium.com",
+            "spillways.finance"
+        ],
+        "telegram_groups": [
+            "SpillWaysJoin"
+        ],
+        "holders": {
+            "ETH": 39
+        }
+    },
+    {
+        "contract_address": "0x83d4927d060a7a33ad838bd7ea0ec128d58c9003",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fundedeth.com"
+        ],
+        "telegram_groups": [
+            "fundedportal"
+        ],
+        "holders": {
+            "ETH": 1058
+        }
+    },
+    {
+        "contract_address": "0xf51092fe93b4e9282f42c459f05d93d2d079549e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 446
+        }
+    },
+    {
+        "contract_address": "0xb2d1464ae4cc86856474a34d112b4a2efa326ed9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2045
+        }
+    },
+    {
+        "contract_address": "0x17c9493d50c42e647d7954cdcaa8d06c2729a37b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0x3b960e47784150f5a63777201ee2b15253d713e8",
+        "sourceScanned": "processed",
+        "emails": [
+            "goncalo.sa@consensys.net"
+        ],
+        "holders": {
+            "ETH": 3363
+        }
+    },
+    {
+        "contract_address": "0xa107f2aca8f5077e0e53e598283a20b446632ff5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xa130e3a33a4d84b04c3918c4e5762223ae252f80",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2121
+        }
+    },
+    {
+        "contract_address": "0x797885c0a6cfffcbc4d2e3c1ca0b4f07112db6a3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.ordinaldex.finance",
+            "app.ordinaldex.finance",
+            "docs.ordinaldex.finance"
+        ],
+        "telegram_groups": [
+            "ordinaldex"
+        ],
+        "holders": {
+            "ETH": 140
+        }
     }
 ]
