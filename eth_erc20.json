@@ -30410,5 +30410,132 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0xf2f86bf6a9920f9b152c5f7793404e9a92e480ac",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "popopopopopo.com"
+        ],
+        "telegram_groups": [
+            "popo_eth"
+        ],
+        "holders": {
+            "ETH": 112
+        }
+    },
+    {
+        "contract_address": "0xf0dc76c22139ab22618ddfb498be1283254612b1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 246
+        }
+    },
+    {
+        "contract_address": "0x743e11e3bb2fcf8539549fba0cefc5dbca12c18e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 228
+        }
+    },
+    {
+        "contract_address": "0xb0d47dd82fb8facb1bc4ba534a836b545ad97d2b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 281
+        }
+    },
+    {
+        "contract_address": "0xbccf02e1f54745c3d5d3486416ea2f594e7eaa36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x5a3493e13683b68919f0ea1297a2549450d96834",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "flameterminal.xyz"
+        ],
+        "telegram_groups": [
+            "flame_terminal"
+        ],
+        "holders": {
+            "ETH": 61
+        }
+    },
+    {
+        "contract_address": "0x8c08ac2f3c810848e75aa0abe4f31a1e624916a7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0x815d27c8025fd3c284beb52df8cc910eeb2df658",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0xe37246e936a58099c7fcb8a08fa72900c4faf991",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 297
+        }
+    },
+    {
+        "contract_address": "0x97ac4a2439a47c07ad535bb1188c989dae755341",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1285
+        }
+    },
+    {
+        "contract_address": "0x5d0ebc4ec5ac18d30512fb6287886245061b3dbd",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "linktr.ee"
+        ],
+        "holders": {
+            "ETH": 2229
+        }
+    },
+    {
+        "contract_address": "0x2602278ee1882889b946eb11dc0e810075650983",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6086
+        }
+    },
+    {
+        "contract_address": "0x665ff8faa06986bd6f1802fa6c1d2e7d780a7369",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2359
+        }
+    },
+    {
+        "contract_address": "0x9fd1d329bb687fef164f529f6f6dcd6f69e7b978",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1223
+        }
+    },
+    {
+        "contract_address": "0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6147
+        }
+    },
+    {
+        "contract_address": "0xdd4d117723c257cee402285d3acf218e9a8236e1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 409
+        }
     }
 ]
