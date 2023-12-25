@@ -115,9 +115,13 @@ def main():
         addr = Web3.to_checksum_address(entry["contract_address"])
         
         contract = w3.eth.contract(address=addr, abi=abi)
-        name_project = " " + contract.functions.symbol().call() + " " + contract.functions.name().call()+"  -tokenview.io -t.me -youtube.com -facebook.com -github.com -beaconcha.in -abc.bi -medium.com -ethplorer.io -blockchair.com -coinmarketcap.com -site:binance.com -site:coinmarcetcap.com "
+        try:
+            name_project = " " + contract.functions.symbol().call() + " " + contract.functions.name().call()
+        except:
+            name_project = " skip "+addr+" "    
+        
         print(name_project+"\n")
-        organic_results = search_google(name_project)
+        organic_results = search_google(name_project+"  -tokenview.io -t.me -youtube.com -facebook.com -github.com -beaconcha.in -abc.bi -medium.com -ethplorer.io -blockchair.com -coinmarketcap.com -site:binance.com -site:coinmarcetcap.com ")
         print(organic_results)
         
         serp=""
