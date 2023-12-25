@@ -31353,7 +31353,8 @@
         ],
         "holders": {
             "ETH": 299
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa2c2c937333165d4c5f2dc5f31a43e1239fecfeb",
@@ -31366,7 +31367,11 @@
         },
         "web_domains": [
             "hera.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "heraaggregator"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa52bffad02b1fe3f86a543a4e81962d3b3bb01a7",
