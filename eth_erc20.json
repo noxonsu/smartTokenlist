@@ -31140,5 +31140,119 @@
         "holders": {
             "ETH": 700
         }
+    },
+    {
+        "contract_address": "0xe86df1970055e9caee93dae9b7d5fd71595d0e18",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7259
+        }
+    },
+    {
+        "contract_address": "0x3bbb14e0d43f81e56628c62acc5aa97bfe418149",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "babydogeai.shop"
+        ],
+        "telegram_groups": [
+            "babydogeaieth"
+        ],
+        "holders": {
+            "ETH": 9
+        }
+    },
+    {
+        "contract_address": "0x93822e43a2b3d31f538b07d8a4e87125daee60d1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.nordfi.org",
+            "app.nordfi.org"
+        ],
+        "telegram_groups": [
+            "nord_eth"
+        ],
+        "holders": {
+            "ETH": 84
+        }
+    },
+    {
+        "contract_address": "0x3c8d2fce49906e11e71cb16fa0ffeb2b16c29638",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2922
+        }
+    },
+    {
+        "contract_address": "0x2481a5c73e06bffcb94f9279c062da39a209a824",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 733
+        }
+    },
+    {
+        "contract_address": "0x83f20f44975d03b1b09e64809b757c47f942beea",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 811
+        }
+    },
+    {
+        "contract_address": "0xe491c1a4150e9925e8427bea4cdcbd250b730e5c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0x473693ecdad05f5002ff5f63880cfa5901fb50e8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 51
+        }
+    },
+    {
+        "contract_address": "0x5f5166c4fdb9055efb24a7e75cc1a21ca8ca61a3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3425
+        }
+    },
+    {
+        "contract_address": "0x266b52e3ac93a31a1737a904d56393e3b8620c11",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.dope-coin.xyz"
+        ],
+        "telegram_groups": [
+            "DopeErc_Portal"
+        ],
+        "holders": {
+            "ETH": 299
+        }
+    },
+    {
+        "contract_address": "0xa2c2c937333165d4c5f2dc5f31a43e1239fecfeb",
+        "sourceScanned": "processed",
+        "emails": [
+            "goncalo.sa@consensys.net"
+        ],
+        "holders": {
+            "ETH": 23
+        }
+    },
+    {
+        "contract_address": "0xa52bffad02b1fe3f86a543a4e81962d3b3bb01a7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "duckereum.com",
+            "reddit.com",
+            "duckereum.medium.com"
+        ],
+        "telegram_groups": [
+            "duckereum"
+        ],
+        "holders": {
+            "ETH": 909
+        }
     }
 ]
