@@ -26332,7 +26332,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 155
-        }
+        },
+        "web_domains": [
+            "rektskulls.com"
+        ]
     },
     {
         "contract_address": "0xb03619e663b37d09cc205986052673db4e3b1148",
@@ -26372,7 +26375,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 203
-        }
+        },
+        "web_domains": [
+            "www.5ire.org"
+        ]
     },
     {
         "contract_address": "0xfdd8ebbe9cb303938767765d168abb4d3952d602",
@@ -26601,7 +26607,10 @@
         ],
         "holders": {
             "ETH": 42
-        }
+        },
+        "web_domains": [
+            "flipperpepe.vip"
+        ]
     },
     {
         "contract_address": "0xc578f9734c7e1904a10cafdf9988f8cd2295bd95",
@@ -26840,7 +26849,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 42
-        }
+        },
+        "web_domains": [
+            "www.cryptogpt.io"
+        ]
     },
     {
         "contract_address": "0x4e47951508fd4a4126f8ff9cf5e6fa3b7cc8e073",
@@ -26954,7 +26966,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 202
-        }
+        },
+        "web_domains": [
+            "silo.finance"
+        ]
     },
     {
         "contract_address": "0x05ac7aa29a029c71fc48bd5a6bf1ca1a10071c3e",
