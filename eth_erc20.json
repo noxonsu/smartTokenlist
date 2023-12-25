@@ -31277,8 +31277,8 @@
             "babydogeai.shop"
         ],
         "telegram_groups": [
-            "BabyDogeAiETH",
-            "babydogeaieth"
+            "babydogeaieth",
+            "BabyDogeAiETH"
         ],
         "holders": {
             "ETH": 9
@@ -31433,11 +31433,14 @@
             "babydoge-ai.shop"
         ],
         "telegram_groups": [
-            "BabyDogeAI_EN"
+            "BabyDogeAI_EN",
+            "babydogeaieth",
+            "BabyDogeAiETH"
         ],
         "holders": {
             "ETH": 10
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2c0e15190acb858bf74447928cbd8fb9709dcb19",
