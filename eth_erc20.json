@@ -29140,7 +29140,14 @@
         },
         "web_domains": [
             "dforce.network"
-        ]
+        ],
+        "telegram_groups": [
+            "dforcenet"
+        ],
+        "emails": [
+            "contact@dforce.network"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xac51066d7bec65dc4589368da368b212745d63e8",
@@ -29261,7 +29268,11 @@
         },
         "web_domains": [
             "bwarelabs.com"
-        ]
+        ],
+        "telegram_groups": [
+            "bwareLabs"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc9fe6e1c76210be83dc1b5b20ec7fd010b0b1d15",
@@ -29347,7 +29358,11 @@
         },
         "web_domains": [
             "orivium.io"
-        ]
+        ],
+        "telegram_groups": [
+            "orivium"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6b4e7ccc149acc5b6c5fb508623cb069faf091c8",
