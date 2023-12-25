@@ -30990,7 +30990,11 @@
         },
         "web_domains": [
             "stakedao.org"
-        ]
+        ],
+        "telegram_groups": [
+            "StakedaoHQ"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x752b4c6e92d96467fe9b9a2522ef07228e00f87c",
@@ -31000,7 +31004,9 @@
         },
         "web_domains": [
             "angle.money"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x63f88a2298a5c4aee3c216aa6d926b184a4b2437",
@@ -31056,7 +31062,9 @@
         },
         "web_domains": [
             "sushiswap.fi"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xcbc72d92b2dc8187414f6734718563898740c0bc",
@@ -31195,7 +31203,11 @@
         },
         "web_domains": [
             "solav.io"
-        ]
+        ],
+        "telegram_groups": [
+            "solav_official"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6c936d4ae98e6d2172db18c16c4b601c99918ee6",
@@ -31265,11 +31277,13 @@
             "babydogeai.shop"
         ],
         "telegram_groups": [
+            "BabyDogeAiETH",
             "babydogeaieth"
         ],
         "holders": {
             "ETH": 9
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x93822e43a2b3d31f538b07d8a4e87125daee60d1",
@@ -31283,7 +31297,8 @@
         ],
         "holders": {
             "ETH": 84
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3c8d2fce49906e11e71cb16fa0ffeb2b16c29638",
