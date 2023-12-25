@@ -29562,7 +29562,9 @@
         },
         "web_domains": [
             "shibbyinu.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x76790620a956f4b237faabfd3d0b7694d1eb7f73",
@@ -29595,7 +29597,9 @@
         },
         "web_domains": [
             "aicapital.ai"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6b5c4548422585cb2e6c44d4597e6db24b7645f5",
@@ -29673,7 +29677,9 @@
         },
         "web_domains": [
             "weth.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x56fbb6112543e8e99402440f6f92ad6697b4f176",
@@ -29912,7 +29918,14 @@
         },
         "web_domains": [
             "sumotex.co"
-        ]
+        ],
+        "telegram_groups": [
+            "SumoTex"
+        ],
+        "emails": [
+            "hello@sumotex.co"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7529e78baa31813eb176fc52f8cbc86cf1d78d2f",
@@ -29972,14 +29985,16 @@
         "contract_address": "0x301e9f12faab3aabe81605bd71f952650fce0795",
         "sourceScanned": "processed",
         "telegram_groups": [
-            "PONKEonETH"
+            "PONKEonETH",
+            "ponkesol"
         ],
         "holders": {
             "ETH": 169
         },
         "web_domains": [
             "ponke.xyz"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x51230e10fa1b5ce1ebc22ebab68bced15df03cb6",
@@ -30047,7 +30062,12 @@
         },
         "web_domains": [
             "deltaflare.gg"
-        ]
+        ],
+        "telegram_groups": [
+            "deltaflare",
+            "DeltaFlare"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x60a26c05c5372dcded66940d2b56076bce925152",
