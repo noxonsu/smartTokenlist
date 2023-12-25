@@ -27406,7 +27406,12 @@
         },
         "web_domains": [
             "soquest.xyz"
-        ]
+        ],
+        "telegram_groups": [
+            "port3network",
+            "Port3_Network"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x37fe0f067fa808ffbdd12891c0858532cfe7361d",
@@ -27579,7 +27584,9 @@
         },
         "web_domains": [
             "avinc.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf8f18dc9e192a9bf9347da0e2107d05d5b67f38e",
@@ -27589,7 +27596,9 @@
         },
         "web_domains": [
             "aura.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8a79cc7a90b592d1bcc6bbebe5c46cb8144c384d",
@@ -27714,7 +27723,9 @@
         },
         "web_domains": [
             "nimbl.tv"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x745407c86df8db893011912d3ab28e68b62e49b0",
@@ -27758,7 +27769,11 @@
         },
         "web_domains": [
             "catcoin.com"
-        ]
+        ],
+        "telegram_groups": [
+            "catcoincash"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe9f721e7419423f11863e83dbd710b5d6127b5b0",
@@ -27893,7 +27908,14 @@
         },
         "web_domains": [
             "prisma.convexfinance.com"
-        ]
+        ],
+        "telegram_groups": [
+            "convexEth"
+        ],
+        "emails": [
+            "contact@convexfinance.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3de254a0f838a844f727fee81040e0fa7884b935",
