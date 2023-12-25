@@ -30591,7 +30591,8 @@
         ],
         "holders": {
             "ETH": 117
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x30f271c9e86d2b7d00a6376cd96a1cfbd5f0b9b3",
@@ -30659,7 +30660,11 @@
         ],
         "holders": {
             "ETH": 44
-        }
+        },
+        "emails": [
+            "manager@digiversede.com.tr"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x249305682d8c00aa79c23e13ec8bb2ea0b861615",
