@@ -31387,5 +31387,77 @@
         "holders": {
             "ETH": 909
         }
+    },
+    {
+        "contract_address": "0xf11e437aa1b9b868068de63897ed75de3aeaac62",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 22
+        }
+    },
+    {
+        "contract_address": "0x89f8777f2965f84effa97c49e9d60bf428b53c8e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.trackifyerc.com",
+            "trackifyerc.app",
+            "trackify-1.gitbook.io"
+        ],
+        "telegram_groups": [
+            "trackifyportal"
+        ],
+        "holders": {
+            "ETH": 564
+        }
+    },
+    {
+        "contract_address": "0x4f640f2529ee0cf119a2881485845fa8e61a782a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1414
+        }
+    },
+    {
+        "contract_address": "0x6380d96d4fdc436c92d3d2374683f3f98169adca",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x3ee8a21e8c146eddf9a73b68a7301291acab3a8f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "babydogeai.shop",
+            "babydoge-ai.shop",
+            "babydoge-ai.shop"
+        ],
+        "telegram_groups": [
+            "BabyDogeAI_EN"
+        ],
+        "holders": {
+            "ETH": 10
+        }
+    },
+    {
+        "contract_address": "0x2c0e15190acb858bf74447928cbd8fb9709dcb19",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 45
+        }
+    },
+    {
+        "contract_address": "0xcfeaead4947f0705a14ec42ac3d44129e1ef3ed5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1618
+        }
+    },
+    {
+        "contract_address": "0xf970b8e36e23f7fc3fd752eea86f8be8d83375a6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 24177
+        }
     }
 ]
