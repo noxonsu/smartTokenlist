@@ -30764,5 +30764,136 @@
         "holders": {
             "ETH": 1520
         }
+    },
+    {
+        "contract_address": "0x3116d8af537e67f750dc14eaf2b4bfbe9675fe14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 41
+        }
+    },
+    {
+        "contract_address": "0x740865dd38e181a12c1f1d82c98cd9c32f78327e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 21
+        }
+    },
+    {
+        "contract_address": "0xdb06a76733528761eda47d356647297bc35a98bd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 39
+        }
+    },
+    {
+        "contract_address": "0xcbc72d92b2dc8187414f6734718563898740c0bc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 49
+        }
+    },
+    {
+        "contract_address": "0x7758896b6ac966bbabcf143efa963030f17d3edf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 109
+        }
+    },
+    {
+        "contract_address": "0xa0d3707c569ff8c87fa923d3823ec5d81c98be78",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 912
+        }
+    },
+    {
+        "contract_address": "0xbfa9f58a6aacf2197ce1c735acb0cf3539fad27d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2041
+        }
+    },
+    {
+        "contract_address": "0x9663677b81c2d427e81c01ef7315ea96546f5bb1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1162
+        }
+    },
+    {
+        "contract_address": "0x6495bf5f925fa839b753b0d9ef8223aaba749e1c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x00813e3421e1367353bfe7615c7f7f133c89df74",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 564
+        }
+    },
+    {
+        "contract_address": "0xe19f85c920b572ca48942315b06d6cac86585c87",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3492
+        }
+    },
+    {
+        "contract_address": "0x1f8a626883d7724dbd59ef51cbd4bf1cf2016d13",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9269
+        }
+    },
+    {
+        "contract_address": "0xad07fce543a59c392d436204e483074b27fa13f4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x337bb2771b5b067a437096bd9bb18e8d852092fb",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.richai.pro"
+        ],
+        "telegram_groups": [
+            "richai_erc"
+        ],
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x52284158e02425290f6b627aeb5fff65edf058ad",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5929
+        }
+    },
+    {
+        "contract_address": "0x0a3bb08b3a15a19b4de82f8acfc862606fb69a2d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0xa753beff7f719ba0658362d76db82274b51015c5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools"
+        ],
+        "holders": {
+            "ETH": 5
+        }
     }
 ]
