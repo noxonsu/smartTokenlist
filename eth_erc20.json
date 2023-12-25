@@ -31523,7 +31523,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 14
-        }
+        },
+        "web_domains": [
+            "lif3.com"
+        ]
     },
     {
         "contract_address": "0x263f84beb2fade02acbb71c5774f5c5841e32e7f",
