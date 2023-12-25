@@ -30676,5 +30676,93 @@
         "holders": {
             "ETH": 996
         }
+    },
+    {
+        "contract_address": "0x92868a5255c628da08f550a858a802f5351c5223",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 375
+        }
+    },
+    {
+        "contract_address": "0x6cfa91a622d3fca6952228785c8ce3a5e71d54be",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0xe07f9d810a48ab5c3c914ba3ca53af14e4491e8a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 160
+        }
+    },
+    {
+        "contract_address": "0xc2aa60465bffa1a88f5ba471a59ca0435c3ec5c1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 43
+        }
+    },
+    {
+        "contract_address": "0xb023be87a4f8a2256feeae9046970cc8b270903b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xf4b4eaf4faa9405a4271fbb0730d29eb648fec90",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0xe55843a90672f7d8218285e51ee8ff8e233f35d5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 158
+        }
+    },
+    {
+        "contract_address": "0x752b4c6e92d96467fe9b9a2522ef07228e00f87c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 68
+        }
+    },
+    {
+        "contract_address": "0x63f88a2298a5c4aee3c216aa6d926b184a4b2437",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.gamecredits.org",
+            "www.gamecredits.org",
+            "www.gamecredits.org",
+            "www.gamecredits.org",
+            "www.gamecredits.org",
+            "www.gamecredits.org"
+        ],
+        "holders": {
+            "ETH": 3166
+        }
+    },
+    {
+        "contract_address": "0x9f76ff3336597feab30f5a66a053ae4a4a7ebe13",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tokenmint.io"
+        ],
+        "holders": {
+            "ETH": 8672
+        }
+    },
+    {
+        "contract_address": "0x29fa1fee0f4f0ab0e36ef7ab8d7a35439ec6be75",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1520
+        }
     }
 ]
