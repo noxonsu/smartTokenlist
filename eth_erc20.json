@@ -30994,7 +30994,9 @@
         "telegram_groups": [
             "StakedaoHQ"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large2500"
     },
     {
         "contract_address": "0x752b4c6e92d96467fe9b9a2522ef07228e00f87c",
@@ -31207,7 +31209,9 @@
         "telegram_groups": [
             "solav_official"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large4164"
     },
     {
         "contract_address": "0x6c936d4ae98e6d2172db18c16c4b601c99918ee6",
@@ -31283,7 +31287,9 @@
         "holders": {
             "ETH": 9
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x93822e43a2b3d31f538b07d8a4e87125daee60d1",
@@ -31298,7 +31304,9 @@
         "holders": {
             "ETH": 84
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x3c8d2fce49906e11e71cb16fa0ffeb2b16c29638",
@@ -31354,7 +31362,9 @@
         "holders": {
             "ETH": 299
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xa2c2c937333165d4c5f2dc5f31a43e1239fecfeb",
@@ -31371,7 +31381,9 @@
         "telegram_groups": [
             "heraaggregator"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large2901"
     },
     {
         "contract_address": "0xa52bffad02b1fe3f86a543a4e81962d3b3bb01a7",
@@ -31440,7 +31452,9 @@
         "holders": {
             "ETH": 10
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x2c0e15190acb858bf74447928cbd8fb9709dcb19",
