@@ -19241,7 +19241,8 @@
             "flameterminal.xyz"
         ],
         "telegram_groups": [
-            "flameterminal"
+            "flameterminal",
+            "flame_terminal"
         ],
         "holders": {
             "ETH": 87
@@ -30422,7 +30423,8 @@
         ],
         "holders": {
             "ETH": 112
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf0dc76c22139ab22618ddfb498be1283254612b1",
@@ -30459,11 +30461,13 @@
             "flameterminal.xyz"
         ],
         "telegram_groups": [
-            "flame_terminal"
+            "flame_terminal",
+            "flameterminal"
         ],
         "holders": {
             "ETH": 61
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8c08ac2f3c810848e75aa0abe4f31a1e624916a7",
