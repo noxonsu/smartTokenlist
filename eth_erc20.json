@@ -30987,14 +30987,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 158
-        }
+        },
+        "web_domains": [
+            "stakedao.org"
+        ]
     },
     {
         "contract_address": "0x752b4c6e92d96467fe9b9a2522ef07228e00f87c",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 68
-        }
+        },
+        "web_domains": [
+            "angle.money"
+        ]
     },
     {
         "contract_address": "0x63f88a2298a5c4aee3c216aa6d926b184a4b2437",
@@ -31047,7 +31053,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 39
-        }
+        },
+        "web_domains": [
+            "sushiswap.fi"
+        ]
     },
     {
         "contract_address": "0xcbc72d92b2dc8187414f6734718563898740c0bc",
@@ -31183,7 +31192,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 103
-        }
+        },
+        "web_domains": [
+            "solav.io"
+        ]
     },
     {
         "contract_address": "0x6c936d4ae98e6d2172db18c16c4b601c99918ee6",
@@ -31336,7 +31348,10 @@
         ],
         "holders": {
             "ETH": 23
-        }
+        },
+        "web_domains": [
+            "hera.finance"
+        ]
     },
     {
         "contract_address": "0xa52bffad02b1fe3f86a543a4e81962d3b3bb01a7",
