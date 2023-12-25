@@ -30545,5 +30545,127 @@
         "holders": {
             "ETH": 409
         }
+    },
+    {
+        "contract_address": "0x88d8c80948bd9541b211e576e717348038bb3b10",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xd70d59f358830d5fd1cbab2c1d0bb50fda66ba55",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.wagmi-eth.com"
+        ],
+        "telegram_groups": [
+            "WAGMI_Portal"
+        ],
+        "holders": {
+            "ETH": 500
+        }
+    },
+    {
+        "contract_address": "0x470e8de2ebaef52014a47cb5e6af86884947f08c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1002
+        }
+    },
+    {
+        "contract_address": "0xb113c6cf239f60d380359b762e95c13817275277",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 391
+        }
+    },
+    {
+        "contract_address": "0xb80d13a543d07a3fcd20c7d2f2d65efdeb52e902",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.jinkoai.org"
+        ],
+        "telegram_groups": [
+            "jinkoai_erc"
+        ],
+        "holders": {
+            "ETH": 117
+        }
+    },
+    {
+        "contract_address": "0x30f271c9e86d2b7d00a6376cd96a1cfbd5f0b9b3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7212
+        }
+    },
+    {
+        "contract_address": "0x72953a5c32413614d24c29c84a66ae4b59581bbf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 484
+        }
+    },
+    {
+        "contract_address": "0x716fbc68e0c761684d9280484243ff094cc5ffab",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1086
+        }
+    },
+    {
+        "contract_address": "0x8acee0fcee91cedad1c5013f031762c814740587",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "saudipepecoin.com"
+        ],
+        "telegram_groups": [
+            "SAUDIPEPECOIN"
+        ],
+        "holders": {
+            "ETH": 1390
+        }
+    },
+    {
+        "contract_address": "0x8b3870df408ff4d7c3a26df852d41034eda11d81",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1902
+        }
+    },
+    {
+        "contract_address": "0x265f542c1e78068f13d87c6fe0df54f3e9562a48",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1229
+        }
+    },
+    {
+        "contract_address": "0x430ebff5e3e80a6c58e7e6ada1d90f5c28aa116d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 185
+        }
+    },
+    {
+        "contract_address": "0x6e7787e2eb35b664f8c3d9dfef544f9d9e38becc",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "digiversecrypto.com"
+        ],
+        "telegram_groups": [
+            "digiversepin"
+        ],
+        "holders": {
+            "ETH": 44
+        }
+    },
+    {
+        "contract_address": "0x249305682d8c00aa79c23e13ec8bb2ea0b861615",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 996
+        }
     }
 ]
