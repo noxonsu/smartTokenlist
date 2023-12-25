@@ -26335,7 +26335,9 @@
         },
         "web_domains": [
             "rektskulls.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb03619e663b37d09cc205986052673db4e3b1148",
@@ -26378,7 +26380,9 @@
         },
         "web_domains": [
             "www.5ire.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xfdd8ebbe9cb303938767765d168abb4d3952d602",
@@ -26603,14 +26607,16 @@
         "contract_address": "0x2c5f5158889631d02e0cf4d33f6d83fbc8846b9a",
         "sourceScanned": "processed",
         "telegram_groups": [
-            "FLIPPERPEPEETH"
+            "FLIPPERPEPEETH",
+            "flipperpepecoineth"
         ],
         "holders": {
             "ETH": 42
         },
         "web_domains": [
             "flipperpepe.vip"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc578f9734c7e1904a10cafdf9988f8cd2295bd95",
@@ -26852,7 +26858,12 @@
         },
         "web_domains": [
             "www.cryptogpt.io"
-        ]
+        ],
+        "telegram_groups": [
+            "OfficialCRGPT",
+            "Crypto_GPT"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4e47951508fd4a4126f8ff9cf5e6fa3b7cc8e073",
@@ -26969,7 +26980,9 @@
         },
         "web_domains": [
             "silo.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x05ac7aa29a029c71fc48bd5a6bf1ca1a10071c3e",
@@ -27338,7 +27351,11 @@
         },
         "web_domains": [
             "0xos.ai"
-        ]
+        ],
+        "telegram_groups": [
+            "Portal0xOS"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb2d2e1309db33b38a19ee2a7cd9cb5de39d76663",
