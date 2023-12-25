@@ -27979,7 +27979,11 @@
         },
         "web_domains": [
             "crystalsuite.com"
-        ]
+        ],
+        "telegram_groups": [
+            "EverdreamSoft"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb08885e6026bab4333a80024ec25a1a3e1ff2b8a",
@@ -28195,7 +28199,14 @@
         },
         "web_domains": [
             "onecoinbuy.com"
-        ]
+        ],
+        "telegram_groups": [
+            "onecoinbuy_official"
+        ],
+        "emails": [
+            "contact@onecoinbuy.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5f86558387293b6009d7896a61fcc86c17808d62",
@@ -28228,7 +28239,9 @@
         },
         "web_domains": [
             "1ex.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8396ad5feb207eabb6df9f5c19a3da771db47ce7",
@@ -28371,7 +28384,12 @@
         },
         "web_domains": [
             "gladium.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "info@gladium.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x37092dbf8c26da9cc805683b4cc0b942e92de2fd",
@@ -28599,7 +28617,9 @@
         },
         "web_domains": [
             "muerehteeth.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x1e7a53220c128d100b56970ce88ee963a9511370",
@@ -28893,7 +28913,9 @@
         },
         "web_domains": [
             "wencash.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x473f4068073cd5b2ab0e4cc8e146f9edc6fb52cc",
