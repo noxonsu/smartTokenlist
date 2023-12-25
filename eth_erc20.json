@@ -27335,7 +27335,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 257
-        }
+        },
+        "web_domains": [
+            "0xos.ai"
+        ]
     },
     {
         "contract_address": "0xb2d2e1309db33b38a19ee2a7cd9cb5de39d76663",
@@ -27383,7 +27386,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 37
-        }
+        },
+        "web_domains": [
+            "soquest.xyz"
+        ]
     },
     {
         "contract_address": "0x37fe0f067fa808ffbdd12891c0858532cfe7361d",
@@ -27553,14 +27559,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 6
-        }
+        },
+        "web_domains": [
+            "avinc.com"
+        ]
     },
     {
         "contract_address": "0xf8f18dc9e192a9bf9347da0e2107d05d5b67f38e",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 120
-        }
+        },
+        "web_domains": [
+            "aura.finance"
+        ]
     },
     {
         "contract_address": "0x8a79cc7a90b592d1bcc6bbebe5c46cb8144c384d",
@@ -27682,7 +27694,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 56
-        }
+        },
+        "web_domains": [
+            "nimbl.tv"
+        ]
     },
     {
         "contract_address": "0x745407c86df8db893011912d3ab28e68b62e49b0",
@@ -27723,7 +27738,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 143
-        }
+        },
+        "web_domains": [
+            "catcoin.com"
+        ]
     },
     {
         "contract_address": "0xe9f721e7419423f11863e83dbd710b5d6127b5b0",
@@ -27855,7 +27873,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 75
-        }
+        },
+        "web_domains": [
+            "prisma.convexfinance.com"
+        ]
     },
     {
         "contract_address": "0x3de254a0f838a844f727fee81040e0fa7884b935",
