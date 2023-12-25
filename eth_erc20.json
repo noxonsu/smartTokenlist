@@ -31507,7 +31507,9 @@
         "telegram_groups": [
             "bonketherc"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large2056"
     },
     {
         "contract_address": "0x54f0f7be1c98a0de81a06f43fe8f6b6d3bfc2607",
@@ -31521,7 +31523,9 @@
         "holders": {
             "ETH": 41
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x7138eb0d563f3f6722500936a11dcae99d738a2c",
@@ -31535,7 +31539,9 @@
         "telegram_groups": [
             "Lif3_Official"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large3262"
     },
     {
         "contract_address": "0x263f84beb2fade02acbb71c5774f5c5841e32e7f",
