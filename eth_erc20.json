@@ -3085,7 +3085,9 @@
         ],
         "holders": {
             "ETH": 87652
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x774b3a2d2a7b7096875485c7a0e14e113cce90a2",
@@ -11530,7 +11532,9 @@
         ],
         "holders": {
             "ETH": 14950
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa36fdbbae3c9d55a1d67ee5821d53b50b63a1ab9",
@@ -31817,7 +31821,9 @@
         ],
         "holders": {
             "ETH": 347
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf7c88430faebc9aae3b0c3f61b3898b7906054a5",
@@ -31837,7 +31843,8 @@
         ],
         "holders": {
             "ETH": 336
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb33bf779a4fb5af3b73c0dc980ffc3b7535f2d12",
@@ -31857,6 +31864,7 @@
         ],
         "holders": {
             "ETH": 98
-        }
+        },
+        "p6": true
     }
 ]
