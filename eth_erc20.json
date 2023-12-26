@@ -32584,7 +32584,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 30
-        }
+        },
+        "web_domains": [
+            "fiatrepublic.com"
+        ]
     },
     {
         "contract_address": "0xdbac5e3fd9233eac43a4830946219df9d13d0855",
@@ -32626,6 +32629,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 8
-        }
+        },
+        "web_domains": [
+            "wbtc.network"
+        ]
     }
 ]
