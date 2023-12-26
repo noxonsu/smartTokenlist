@@ -32326,7 +32326,9 @@
         },
         "web_domains": [
             "aianalysistoken.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf7dd746a613fb6362d44ecedeb743f62ade6c3aa",
@@ -32337,11 +32339,13 @@
             "5150.win"
         ],
         "telegram_groups": [
-            "fiftyone50"
+            "fiftyone50",
+            "MoonShotMaximum"
         ],
         "holders": {
             "ETH": 174
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x35a18000230da775cac24873d00ff85bccded550",
@@ -32358,11 +32362,16 @@
             "market.aigoo.pro"
         ],
         "telegram_groups": [
+            "AiGooPro",
             "AigooPro"
         ],
         "holders": {
             "ETH": 135
-        }
+        },
+        "emails": [
+            "dev@aigoo.pro"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3dbbb4a4f0aa820472c9da986db03bfd8ceb059a",
@@ -32379,11 +32388,13 @@
             "app.chain-gpt.live"
         ],
         "telegram_groups": [
+            "chaingptai_bot",
             "cgpt_erc"
         ],
         "holders": {
             "ETH": 132
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xbe1936a67f503e0eaf2434b0cf9f4e3d7100008a",
