@@ -31967,11 +31967,13 @@
             "gamabuntacoin.site"
         ],
         "telegram_groups": [
+            "BeerusCoin",
             "gamabuntacoineth"
         ],
         "holders": {
             "ETH": 46
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x66504c703950daa66e4aeb4e4e673778179ecd11",
@@ -31988,7 +31990,9 @@
         },
         "web_domains": [
             "cultpad.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x46b2deae6eff3011008ea27ea36b7c27255ddfa9",
@@ -32034,7 +32038,8 @@
         ],
         "holders": {
             "ETH": 41
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6bc40d4099f9057b23af309c08d935b890d7adc0",
