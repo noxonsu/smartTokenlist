@@ -31735,5 +31735,128 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0xac0968a3e2020ac8ca83e60ccf69081ebc6d3bc3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2352
+        }
+    },
+    {
+        "contract_address": "0x015628ce9150db1bce2fbb717a09e846f8a32436",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 498
+        }
+    },
+    {
+        "contract_address": "0xe12981d8c5c1185d26674d6925787bcc3b60b035",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xea5afd18b468126fdf5be8d0ac25a48d3ce62228",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xeb31ba344310bc4872c6188ff210d7341a301ea9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "proofplatform.io"
+        ],
+        "holders": {
+            "ETH": 762
+        }
+    },
+    {
+        "contract_address": "0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11004
+        }
+    },
+    {
+        "contract_address": "0x5fe8c486b5f216b9ad83c12958d8a03eb3fd5060",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3616
+        }
+    },
+    {
+        "contract_address": "0xd6a5ab46ead26f49b03bbb1f9eb1ad5c1767974a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1265
+        }
+    },
+    {
+        "contract_address": "0x9dd5f5dae94633760b3125a7490ecb4571d09a42",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2037
+        }
+    },
+    {
+        "contract_address": "0x111111517e4929d3dcbdfa7cce55d30d4b6bc4d6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 479
+        }
+    },
+    {
+        "contract_address": "0xed30dd7e50edf3581ad970efc5d9379ce2614adb",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "solidifier.coina.ge"
+        ],
+        "holders": {
+            "ETH": 347
+        }
+    },
+    {
+        "contract_address": "0xf7c88430faebc9aae3b0c3f61b3898b7906054a5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0xf1d66f8fb9d978bbb20f4183c3dbf4ffc5093723",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "c3podroid.com"
+        ],
+        "telegram_groups": [
+            "C3POERC"
+        ],
+        "holders": {
+            "ETH": 336
+        }
+    },
+    {
+        "contract_address": "0xb33bf779a4fb5af3b73c0dc980ffc3b7535f2d12",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 45
+        }
+    },
+    {
+        "contract_address": "0xe651df3da46b2a4e5cd7dff3e7613a54952eae76",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "konkecoin.com"
+        ],
+        "telegram_groups": [
+            "konkeeth"
+        ],
+        "holders": {
+            "ETH": 98
+        }
     }
 ]
