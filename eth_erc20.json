@@ -32446,12 +32446,13 @@
             "eaglesniper.tech"
         ],
         "telegram_groups": [
-            "EagleSniperBotERC",
-            "EagleSolBot"
+            "EagleSolBot",
+            "EagleSniperBotERC"
         ],
         "holders": {
             "ETH": 211
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1571ed0bed4d987fe2b498ddbae7dfa19519f651",
@@ -32503,7 +32504,8 @@
         ],
         "holders": {
             "ETH": 36
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6e9730ecffbed43fd876a264c982e254ef05a0de",
@@ -32523,7 +32525,8 @@
         ],
         "holders": {
             "ETH": 94
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x88800092ff476844f74dc2fc427974bbee2794ae",
