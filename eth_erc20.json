@@ -31959,5 +31959,85 @@
         "holders": {
             "ETH": 1087
         }
+    },
+    {
+        "contract_address": "0xf2c29932e928fe4187faabcd01642222fc8dc79a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "gamabuntacoin.site"
+        ],
+        "telegram_groups": [
+            "gamabuntacoineth"
+        ],
+        "holders": {
+            "ETH": 46
+        }
+    },
+    {
+        "contract_address": "0x66504c703950daa66e4aeb4e4e673778179ecd11",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xf9345382cfd80b65a43006e5163a9383c0b863ae",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x46b2deae6eff3011008ea27ea36b7c27255ddfa9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1965
+        }
+    },
+    {
+        "contract_address": "0x0e8d2eb7d6bdf28393c25a1966385ad32ff0259a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "streamerinu.com"
+        ],
+        "telegram_groups": [
+            "streamerinu"
+        ],
+        "holders": {
+            "ETH": 1137
+        }
+    },
+    {
+        "contract_address": "0x686d1596e5632fe0471961e7977e8efe371b0b21",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "AzeeSCA"
+        ],
+        "holders": {
+            "ETH": 608
+        }
+    },
+    {
+        "contract_address": "0x3b21e2758022bba6fe4b4d027b52993014b40276",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "here.cat"
+        ],
+        "telegram_groups": [
+            "HereToken"
+        ],
+        "holders": {
+            "ETH": 41
+        }
+    },
+    {
+        "contract_address": "0x6bc40d4099f9057b23af309c08d935b890d7adc0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2644
+        }
     }
 ]
