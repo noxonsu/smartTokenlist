@@ -32452,7 +32452,9 @@
         "holders": {
             "ETH": 211
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: The chat_id \"EagleSolBot\" belongs to a user"
     },
     {
         "contract_address": "0x1571ed0bed4d987fe2b498ddbae7dfa19519f651",
@@ -32505,7 +32507,9 @@
         "holders": {
             "ETH": 36
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't find chat"
     },
     {
         "contract_address": "0x6e9730ecffbed43fd876a264c982e254ef05a0de",
@@ -32521,12 +32525,14 @@
             "cloudaierc.com"
         ],
         "telegram_groups": [
-            "cloudaierc"
+            null
         ],
         "holders": {
             "ETH": 94
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: '<' not supported between instances of 'NoneType' and 'int'"
     },
     {
         "contract_address": "0x88800092ff476844f74dc2fc427974bbee2794ae",
