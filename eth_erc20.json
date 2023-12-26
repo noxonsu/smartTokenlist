@@ -32158,5 +32158,132 @@
         "holders": {
             "ETH": 206
         }
+    },
+    {
+        "contract_address": "0x5b7307b5f2d13b1b4a10317fe75d856e534c0a0d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.anonymous-ai.org"
+        ],
+        "telegram_groups": [
+            "AnonymousAIerc"
+        ],
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0x30d0e4e6fb0330e45a13e1e06260837f27015de5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "year-of-the-dragon.net"
+        ],
+        "telegram_groups": [
+            "YearOfTheDragon_ERC20"
+        ],
+        "holders": {
+            "ETH": 123
+        }
+    },
+    {
+        "contract_address": "0x4b1ce708e7c9d580c9ecd01e1bece87a389d890f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0xff98a08c143311719ca492e4b8c950c940f26872",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7484
+        }
+    },
+    {
+        "contract_address": "0xacf60e7476c039722bfd69a808f6b2bb5e0248cb",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "DOGEMEMERC"
+        ],
+        "holders": {
+            "ETH": 218
+        }
+    },
+    {
+        "contract_address": "0x4e51a6b3cc6d5ae69a0d44db9de846aeb5a582dd",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "gyoza.wtf"
+        ],
+        "telegram_groups": [
+            "gyozatoken"
+        ],
+        "holders": {
+            "ETH": 413
+        }
+    },
+    {
+        "contract_address": "0xac630dd040a3b0833afc2193626c214b3179beee",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0x3c03b4ec9477809072ff9cc9292c9b25d4a8e6c6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9218
+        }
+    },
+    {
+        "contract_address": "0x4c76589c689d466d88c54978e5321518ee146003",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 50
+        }
+    },
+    {
+        "contract_address": "0x1b486ae807b6dcf318d6a92a97a2c7ba2b541055",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.amosprotocol.org",
+            "app.amosprotocol.org",
+            "docs.amosprotocol.org"
+        ],
+        "telegram_groups": [
+            "amos_erc"
+        ],
+        "holders": {
+            "ETH": 85
+        }
+    },
+    {
+        "contract_address": "0x24ec2ca132abf8f6f8a6e24a1b97943e31f256a7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2470
+        }
+    },
+    {
+        "contract_address": "0x5516ac1aaca7bb2fd5b7bdde1549ef1ea242953d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 750
+        }
+    },
+    {
+        "contract_address": "0xf7ff660cbdcc5d0ba48988119144425974d88792",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "scopesniper.org"
+        ],
+        "telegram_groups": [
+            "Scopeentry",
+            "ScopeSniperBot"
+        ],
+        "holders": {
+            "ETH": 716
+        }
     }
 ]
