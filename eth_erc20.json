@@ -32323,7 +32323,10 @@
         ],
         "holders": {
             "ETH": 115
-        }
+        },
+        "web_domains": [
+            "aianalysistoken.com"
+        ]
     },
     {
         "contract_address": "0xf7dd746a613fb6362d44ecedeb743f62ade6c3aa",
