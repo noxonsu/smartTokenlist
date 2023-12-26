@@ -32051,5 +32051,101 @@
         "holders": {
             "ETH": 2644
         }
+    },
+    {
+        "contract_address": "0x91af0fbb28aba7e31403cb457106ce79397fd4e6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5609
+        }
+    },
+    {
+        "contract_address": "0xa8643451ae0401b645443682055be70dc05b6950",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 767
+        }
+    },
+    {
+        "contract_address": "0xb6507fbd1d8d185773e7220192498927f4e9419d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x8607fcc8b9d35f3000894f36b8096716afd3c65b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xbce0cf87f513102f22232436cca2ca49e815c3ac",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 282
+        }
+    },
+    {
+        "contract_address": "0x3a283d9c08e8b55966afb64c515f5143cf907611",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 202
+        }
+    },
+    {
+        "contract_address": "0x15b43a4259f4fd84cb9425d53526962a202c7cef",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cryptodegen.games"
+        ],
+        "telegram_groups": [
+            "DegenGames_ERC20"
+        ],
+        "holders": {
+            "ETH": 146
+        }
+    },
+    {
+        "contract_address": "0xe5c38cb371e9e97df069bc82072aa9e38e6a84b3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.ponkewifhat.com"
+        ],
+        "telegram_groups": [
+            "Ponkewifhat_Erc"
+        ],
+        "holders": {
+            "ETH": 184
+        }
+    },
+    {
+        "contract_address": "0x43ab765ee05075d78ad8aa79dcb1978ca3079258",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2741
+        }
+    },
+    {
+        "contract_address": "0xf100a281b6155242582189565dc03102588d2a7a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x7f50786a0b15723d741727882ee99a0bf34e3466",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 545
+        }
+    },
+    {
+        "contract_address": "0xd1b5651e55d4ceed36251c61c50c889b36f6abb5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 206
+        }
     }
 ]
