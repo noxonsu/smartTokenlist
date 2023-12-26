@@ -31870,5 +31870,90 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0xed6aa017fc9d62d7e32ba06c088af4c8978f8b96",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 29
+        }
+    },
+    {
+        "contract_address": "0x51fe05eac152494908ff1ebbd50e116e960baf64",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.xgpt-ai.com"
+        ],
+        "telegram_groups": [
+            "XGPTerc"
+        ],
+        "emails": [
+            "hello@xgpt-ai.com"
+        ],
+        "holders": {
+            "ETH": 399
+        }
+    },
+    {
+        "contract_address": "0x12fe38c214c9078e44cf5b217864006c46d5d8b9",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "FLOKIPEPE_FOPE"
+        ],
+        "holders": {
+            "ETH": 31
+        }
+    },
+    {
+        "contract_address": "0x3007083eaa95497cd6b2b809fb97b6a30bdf53d3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8239
+        }
+    },
+    {
+        "contract_address": "0xbf67e3e27865037f600d12a3092eeea1bc74da3d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 116
+        }
+    },
+    {
+        "contract_address": "0x600b394cd063fd1f7cb992c447987109ea503b06",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "EPEPCOINETH"
+        ],
+        "holders": {
+            "ETH": 299
+        }
+    },
+    {
+        "contract_address": "0x6976d95dc0474b848395c04dbb85a768a7a703bd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xd451ad72410715f75795ce624c43d0e25329f103",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0x20aeafb78d078f218b87437102c77a0949a0acf4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0xb6adb74efb5801160ff749b1985fd3bd5000e938",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1087
+        }
     }
 ]
