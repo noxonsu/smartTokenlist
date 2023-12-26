@@ -31888,11 +31888,13 @@
             "XGPTerc"
         ],
         "emails": [
+            "\u00a9 2023 XGPT-AI.com | hello@xgpt-ai.com",
             "hello@xgpt-ai.com"
         ],
         "holders": {
             "ETH": 399
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x12fe38c214c9078e44cf5b217864006c46d5d8b9",
