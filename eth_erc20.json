@@ -32540,5 +32540,92 @@
         "holders": {
             "ETH": 7160
         }
+    },
+    {
+        "contract_address": "0xceb286c9604c542d3cc08b41aa6c9675b078a832",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1678
+        }
+    },
+    {
+        "contract_address": "0x32e7c8a6e920a3cf224b678112ac78fdc0fb09d1",
+        "sourceScanned": "processed",
+        "emails": [
+            "goncalo.sa@consensys.net"
+        ],
+        "holders": {
+            "ETH": 752
+        }
+    },
+    {
+        "contract_address": "0x06d6f0dd6703a1cfe16025dcc55f36f017887627",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 64
+        }
+    },
+    {
+        "contract_address": "0x67391845fbf713996a9f68e0d29375db41ad9db5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0xaa0c3f5f7dfd688c6e646f66cd2a6b66acdbe434",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3281
+        }
+    },
+    {
+        "contract_address": "0xe6e16e6687b80c0a6a7e08e27e3d814c25e242eb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0xdbac5e3fd9233eac43a4830946219df9d13d0855",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x4104b135dbc9609fc1a9490e61369036497660c8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1157
+        }
+    },
+    {
+        "contract_address": "0xe1ca0681f512ceae353e3c151f9da33393c4b31f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 664
+        }
+    },
+    {
+        "contract_address": "0xfa205156f9c4f5b4815f9650f67e6e9f8343efad",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 197
+        }
+    },
+    {
+        "contract_address": "0xcedb30ffc5bab3ca40be0f067a0ee571cf57e1d0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 65
+        }
+    },
+    {
+        "contract_address": "0x1000016d677890885b2413bbb6b44ddeb84e0d98",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8
+        }
     }
 ]
