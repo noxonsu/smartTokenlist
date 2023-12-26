@@ -32345,7 +32345,9 @@
         "holders": {
             "ETH": 174
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x35a18000230da775cac24873d00ff85bccded550",
@@ -32371,7 +32373,9 @@
         "emails": [
             "dev@aigoo.pro"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x3dbbb4a4f0aa820472c9da986db03bfd8ceb059a",
@@ -32394,7 +32398,9 @@
         "holders": {
             "ETH": 132
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: The chat_id \"chaingptai_bot\" belongs to a user"
     },
     {
         "contract_address": "0xbe1936a67f503e0eaf2434b0cf9f4e3d7100008a",
