@@ -33122,5 +33122,108 @@
         "holders": {
             "ETH": 20
         }
+    },
+    {
+        "contract_address": "0xac998bda5b8bc9483c90efbe8b70e11d3c0e8f6f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 119
+        }
+    },
+    {
+        "contract_address": "0x1b073382e63411e3bcffe90ac1b9a43fefa1ec6f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 849
+        }
+    },
+    {
+        "contract_address": "0xff601983fbc9c5aa9e04547ce6b2df89ef64a2ca",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools"
+        ],
+        "holders": {
+            "ETH": 36
+        }
+    },
+    {
+        "contract_address": "0xb4b9dc1c77bdbb135ea907fd5a08094d98883a35",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4394
+        }
+    },
+    {
+        "contract_address": "0x99a01a4d6a4d621094983050d9a2f10b2912e53d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 56
+        }
+    },
+    {
+        "contract_address": "0xaa4d1135149013c927530202453c9220579e2061",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 44
+        }
+    },
+    {
+        "contract_address": "0x821a278dfff762c76410264303f25bf42e195c0c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 60
+        }
+    },
+    {
+        "contract_address": "0xee48792fa879bb738f9bf6e182d6361a2b886603",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x3e88a0f4cb101e07721ae5928b5bba13de1ec4e3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.createmytoken.com"
+        ],
+        "holders": {
+            "ETH": 177
+        }
+    },
+    {
+        "contract_address": "0x66e7cfb4d25c76bc3552d2ab82cd27be9c746725",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0xb94a31ca109d038f829257b86ef5ff75ea5ce080",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 181
+        }
+    },
+    {
+        "contract_address": "0x17ba49e95aa9dbee93f8e6d0b589318a3e568a57",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 17
+        }
+    },
+    {
+        "contract_address": "0x50687515e93c43964733282f9db8683f80bb02f9",
+        "sourceScanned": "processed",
+        "emails": [
+            "goncalo.sa@consensys.net"
+        ],
+        "holders": {
+            "ETH": 23
+        }
     }
 ]
