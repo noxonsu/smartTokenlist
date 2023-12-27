@@ -33016,11 +33016,13 @@
             "saltz.io"
         ],
         "telegram_groups": [
+            "Saltz_bot",
             "saltzofficial"
         ],
         "holders": {
             "ETH": 95
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7bf8d5f996717e911cc513b26e3c438e617dc065",
@@ -33033,7 +33035,8 @@
         ],
         "holders": {
             "ETH": 71
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb68a0d72ef3ff334066f37bc2234db879b2646c4",
@@ -33105,7 +33108,9 @@
         },
         "web_domains": [
             "empyreal.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd8eb58d76af99547333cfeeb6a0f9bd1a63b6492",
