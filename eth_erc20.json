@@ -32874,7 +32874,11 @@
         },
         "web_domains": [
             "www.baby1cat.xyz"
-        ]
+        ],
+        "telegram_groups": [
+            "baby1catcoin"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9a291a1935bab0877fac67df06cd81285b5a404b",
@@ -32908,7 +32912,9 @@
         },
         "web_domains": [
             "flock.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe931634e5cd1ee1b9d3167787eee57355711febe",
@@ -32939,7 +32945,12 @@
         },
         "web_domains": [
             "sakura-sup.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "mail: contact@sakura-sup.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x397ff1542f962076d0bfe58ea045ffa2d347aca0",
@@ -32956,7 +32967,9 @@
         },
         "web_domains": [
             "theoryofknowledge.net"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9c02b8409a2cd04dfda7b824235625f9c7dfb0e2",
@@ -32966,6 +32979,11 @@
         },
         "web_domains": [
             "liqee.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "bd@liqee.io"
+        ],
+        "p6": true
     }
 ]
