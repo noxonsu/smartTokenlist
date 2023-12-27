@@ -33162,21 +33162,30 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 56
-        }
+        },
+        "web_domains": [
+            "virtuswap.io"
+        ]
     },
     {
         "contract_address": "0xaa4d1135149013c927530202453c9220579e2061",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 44
-        }
+        },
+        "web_domains": [
+            "nftdraft.io"
+        ]
     },
     {
         "contract_address": "0x821a278dfff762c76410264303f25bf42e195c0c",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 60
-        }
+        },
+        "web_domains": [
+            "jpegd.io"
+        ]
     },
     {
         "contract_address": "0xee48792fa879bb738f9bf6e182d6361a2b886603",
