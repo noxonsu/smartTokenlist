@@ -33022,7 +33022,9 @@
         "holders": {
             "ETH": 95
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: The chat_id \"Saltz_bot\" belongs to a user"
     },
     {
         "contract_address": "0x7bf8d5f996717e911cc513b26e3c438e617dc065",
@@ -33036,7 +33038,9 @@
         "holders": {
             "ETH": 71
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xb68a0d72ef3ff334066f37bc2234db879b2646c4",
