@@ -32657,7 +32657,9 @@
         "holders": {
             "ETH": 95
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x60013b6f61e5c8267af8496308bcef3033b8df42",
@@ -32692,7 +32694,9 @@
         "holders": {
             "ETH": 138
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x5eaa69b29f99c84fe5de8200340b4e9b4ab38eac",
@@ -32727,7 +32731,9 @@
         "telegram_groups": [
             "shirtum"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large2856"
     },
     {
         "contract_address": "0x6f892b70232d1a8c750fb94ea12544592fa28af9",
