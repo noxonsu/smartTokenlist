@@ -32841,5 +32841,116 @@
         "holders": {
             "ETH": 222
         }
+    },
+    {
+        "contract_address": "0x848096e9966b0d5b315664d260568622a844e808",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "DevilCoinERC"
+        ],
+        "holders": {
+            "ETH": 38
+        }
+    },
+    {
+        "contract_address": "0x55eeee93e5de0e3667429e002cb626d95ff2190e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xc7d9c108d4e1dd1484d3e2568d7f74bfd763d356",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 91
+        }
+    },
+    {
+        "contract_address": "0x9e8c078dbc5be06547a5e64f03c2288fd2da5246",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 202
+        }
+    },
+    {
+        "contract_address": "0x9a291a1935bab0877fac67df06cd81285b5a404b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x71cb85c3abd0ec17cf401e83967dc1e676e14466",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0xe0a6136f866684c0f19936c0c42a8c181c066f1b",
+        "sourceScanned": "processed",
+        "emails": [
+            "official@tidalflats.studio"
+        ],
+        "holders": {
+            "ETH": 5649
+        }
+    },
+    {
+        "contract_address": "0xc861aa94a6fed3250d5a0fe3a26d99e3d3f2103f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0xe931634e5cd1ee1b9d3167787eee57355711febe",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x19de6b897ed14a376dda0fe53a5420d2ac828a28",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2106
+        }
+    },
+    {
+        "contract_address": "0xf63b34710400cad3e044cffdcab00a0f32e33ecf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1241
+        }
+    },
+    {
+        "contract_address": "0xf5ec1a08902ae0ae5323466c35ea49a37409e4ca",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 23
+        }
+    },
+    {
+        "contract_address": "0x397ff1542f962076d0bfe58ea045ffa2d347aca0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1637
+        }
+    },
+    {
+        "contract_address": "0x1a112382d7648045e4814bcef119d6b2e011b3d3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 28
+        }
+    },
+    {
+        "contract_address": "0x9c02b8409a2cd04dfda7b824235625f9c7dfb0e2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
     }
 ]
