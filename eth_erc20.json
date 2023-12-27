@@ -32794,12 +32794,13 @@
             "extradinal.io"
         ],
         "telegram_groups": [
-            "ExtradinalBot",
-            "Extradinal"
+            "Extradinal",
+            "ExtradinalBot"
         ],
         "holders": {
             "ETH": 118
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb5f6f05bc86a9d62f7165f606dc149c4c5f04ed1",
