@@ -33548,7 +33548,9 @@
         },
         "web_domains": [
             "sponge.vip"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xedf6568618a00c6f0908bf7758a16f76b6e04af9",
