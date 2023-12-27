@@ -32718,7 +32718,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 197
-        }
+        },
+        "web_domains": [
+            "shirtum.com"
+        ]
     },
     {
         "contract_address": "0x6f892b70232d1a8c750fb94ea12544592fa28af9",
