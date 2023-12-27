@@ -32987,5 +32987,128 @@
             "bd@liqee.io"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x228ba514309ffdf03a81a205a6d040e429d6e80c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 58677
+        }
+    },
+    {
+        "contract_address": "0x50f7517029c505933cb5d6e9c897245226f4317b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7192
+        }
+    },
+    {
+        "contract_address": "0x8294f417f85e5aefc6ffe62eac6956a8b4950bd7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 628
+        }
+    },
+    {
+        "contract_address": "0x313a6966151473ebc305b8286a000f0db197e4a7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "saltz.io"
+        ],
+        "telegram_groups": [
+            "saltzofficial"
+        ],
+        "holders": {
+            "ETH": 95
+        }
+    },
+    {
+        "contract_address": "0x7bf8d5f996717e911cc513b26e3c438e617dc065",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "imac-finance.pro"
+        ],
+        "telegram_groups": [
+            "iMacFinance_Official"
+        ],
+        "holders": {
+            "ETH": 71
+        }
+    },
+    {
+        "contract_address": "0xb68a0d72ef3ff334066f37bc2234db879b2646c4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.greenmatters.com"
+        ],
+        "telegram_groups": [
+            "OMEGAERC20"
+        ],
+        "holders": {
+            "ETH": 616
+        }
+    },
+    {
+        "contract_address": "0xd4490ffaf9e576216a29065ad47db02e5f2b5869",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xe60986759872393a8360a4a7abeab3a6e0ba7848",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x7240ac91f01233baaf8b064248e80feaa5912ba3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4338
+        }
+    },
+    {
+        "contract_address": "0x1b68fc62f71732f8dae5174a5614399c55f05c3e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xb0650ff62ed1bd58d66599c62eba0c0437d1fcdd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x201726832514ba107c2e8aed6180dd26348601e7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x40b1113a67af64c02ba6a7f06a7f463747861d30",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 193
+        }
+    },
+    {
+        "contract_address": "0x39d5313c3750140e5042887413ba8aa6145a9bd2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 266
+        }
+    },
+    {
+        "contract_address": "0xd8eb58d76af99547333cfeeb6a0f9bd1a63b6492",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 20
+        }
     }
 ]
