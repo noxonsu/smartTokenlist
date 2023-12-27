@@ -33627,7 +33627,9 @@
         "holders": {
             "ETH": 267
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xea3983fc6d0fbbc41fb6f6091f68f3e08894dc06",
@@ -33669,7 +33671,9 @@
         "holders": {
             "ETH": 90
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0xa31509b3a62ad4718a9170dfa526ca82dde1edc8",
@@ -33687,7 +33691,9 @@
         "emails": [
             "info@mememiner.online"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x64b78325d7495d6d4be92f234fa3f3b8d8964b8b",
