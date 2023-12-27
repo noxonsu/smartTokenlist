@@ -33460,5 +33460,53 @@
         "holders": {
             "ETH": 5599
         }
+    },
+    {
+        "contract_address": "0xdafd66636e2561b0284edde37e42d192f2844d40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 588
+        }
+    },
+    {
+        "contract_address": "0x7f0c8b125040f707441cad9e5ed8a8408673b455",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 731
+        }
+    },
+    {
+        "contract_address": "0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2908
+        }
+    },
+    {
+        "contract_address": "0x564a80d0123bdd750fb6a9993834968fc595c09a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 45
+        }
+    },
+    {
+        "contract_address": "0x35e78b3982e87ecfd5b3f3265b601c046cdbe232",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 393
+        }
+    },
+    {
+        "contract_address": "0x1bf91b7fbd9c00321060cb461774d6874f7ce600",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "juno.cash"
+        ],
+        "telegram_groups": [
+            "JunoMonetaErc"
+        ],
+        "holders": {
+            "ETH": 238
+        }
     }
 ]
