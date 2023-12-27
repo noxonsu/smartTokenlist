@@ -33426,7 +33426,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 85
-        }
+        },
+        "web_domains": [
+            "seagen.com"
+        ]
     },
     {
         "contract_address": "0xa56deea3c3a50d51619c78c30b766a4469624b66",
