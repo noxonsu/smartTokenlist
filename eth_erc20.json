@@ -32741,5 +32741,102 @@
         "holders": {
             "ETH": 41
         }
+    },
+    {
+        "contract_address": "0xd2bf378cea07fe117ffdfd3f5b7e53c2b0b78c05",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0x52a62e94104f570fad53007cfff68853cf70a6b2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x20a62aca58526836165ca53fe67dd884288c8abf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1180
+        }
+    },
+    {
+        "contract_address": "0x5c59a5b139b0538cb106d775a022cad98dd14b5a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1229
+        }
+    },
+    {
+        "contract_address": "0x68d57c9a1c35f63e2c83ee8e49a64e9d70528d25",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 26338
+        }
+    },
+    {
+        "contract_address": "0x6c5ae5b6bb721cdc80f811a2b7706b33072701d4",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "TOMATO_PEPE"
+        ],
+        "holders": {
+            "ETH": 40
+        }
+    },
+    {
+        "contract_address": "0xd5d886e65d5b05d1959387ec33a2d9e3b0c49a8e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "extradinal.io"
+        ],
+        "telegram_groups": [
+            "ExtradinalBot",
+            "Extradinal"
+        ],
+        "holders": {
+            "ETH": 118
+        }
+    },
+    {
+        "contract_address": "0xb5f6f05bc86a9d62f7165f606dc149c4c5f04ed1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2537
+        }
+    },
+    {
+        "contract_address": "0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "solidifier.coina.ge"
+        ],
+        "holders": {
+            "ETH": 2665
+        }
+    },
+    {
+        "contract_address": "0x4cf89ca06ad997bc732dc876ed2a7f26a9e7f361",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3249
+        }
+    },
+    {
+        "contract_address": "0x8c44b722ede8d6cc9f7b2372cbe10a935e5092b1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1045
+        }
+    },
+    {
+        "contract_address": "0x9536b2c7e5adc94b8a757a6b35a562c54394db71",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 222
+        }
     }
 ]
