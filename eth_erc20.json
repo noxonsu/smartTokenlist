@@ -32878,7 +32878,9 @@
         "telegram_groups": [
             "baby1catcoin"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x9a291a1935bab0877fac67df06cd81285b5a404b",
