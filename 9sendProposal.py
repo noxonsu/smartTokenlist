@@ -85,11 +85,7 @@ def main():
         TELEGRAM_SESSION_STRING = os.environ.get('TELEGRAM_SESSION_STRING2')
         
     
-    groups_to_send_proposal = [entry for entry in data if entry.get("tgGroupJoined") == "success"and entry.get("p8") == True and "tgProposalSent" not in entry and entry.get("myuser") is myuser]
     
-    print(f"Found {len(groups_to_send_proposal)} groups to send proposal to")
-    
-    groups_to_send_proposal = groups_to_send_proposal[:10]
 
     
 
@@ -99,7 +95,13 @@ def main():
 
     with Client('TgSession', session_string=TELEGRAM_SESSION_STRING, api_id=TELEGRAM_API_ID, api_hash=TELEGRAM_API_HASH) as app:
         print('Bot starting...')
+        myuser = app.get_me().id
+        groups_to_send_proposal = [entry for entry in data if entry.get("tgGroupJoined") == "success"and entry.get("p8") == True and "tgProposalSent" not in entry and entry.get("myuser") is myuser]
+    
+        print(f"Found {len(groups_to_send_proposal)} groups to send proposal to")
         
+        groups_to_send_proposal = groups_to_send_proposal[:10]
+
         for entry in groups_to_send_proposal:
             if (entry.get("myuser") != app.get_me().id):
                 print (f"skip {entry.get('myuser')}")
