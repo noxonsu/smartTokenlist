@@ -33248,5 +33248,108 @@
         "holders": {
             "ETH": 23
         }
+    },
+    {
+        "contract_address": "0xf1917315783320028b3c317dd2faa919e3cb57a4",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "yifylabs"
+        ],
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0xf72dd9b4c9f81878ad0ed18ba2fd1e9dcc171a33",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.bitcoinfrog.xyz"
+        ],
+        "telegram_groups": [
+            "bitcoinfrog_portal"
+        ],
+        "holders": {
+            "ETH": 252
+        }
+    },
+    {
+        "contract_address": "0x689ec85c6a73f40922e9f65fe1b743037b3c49be",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "teumessian.xyz",
+            "docs.teumessian.xyz"
+        ],
+        "telegram_groups": [
+            "TeumessianBot",
+            "TeumessianBotPortal"
+        ],
+        "holders": {
+            "ETH": 66
+        }
+    },
+    {
+        "contract_address": "0x5084969dd1824f7432471682b588d21504682ad8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 328
+        }
+    },
+    {
+        "contract_address": "0xe0955f26515d22e347b17669993fcefcc73c3a0a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 428
+        }
+    },
+    {
+        "contract_address": "0xcedec9c3884a772125dd0fd16862c2242c97621a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 44
+        }
+    },
+    {
+        "contract_address": "0xded483881dfa0e866b9fb0a48575a84eb2acef2f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 80
+        }
+    },
+    {
+        "contract_address": "0xc7ff1e126cc81e816915ff48c940ed9d4e6d05d6",
+        "sourceScanned": "processed",
+        "emails": [
+            "islamrao09@gmail.com"
+        ],
+        "holders": {
+            "ETH": 1092
+        }
+    },
+    {
+        "contract_address": "0xf3927470bc67edfe7b552c7f70f54478f7c2e423",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.fundlabs.pro"
+        ],
+        "telegram_groups": [
+            "fund_erc"
+        ],
+        "holders": {
+            "ETH": 145
+        }
+    },
+    {
+        "contract_address": "0xee3a72a79d1c0f22b53befe1dcb9f11682126772",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 44
+        }
+    },
+    {
+        "contract_address": "0x43c28c4a103d939097dc4d9b20c327148f13c4c6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 62
+        }
     }
 ]
