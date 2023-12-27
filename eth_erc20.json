@@ -33102,7 +33102,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 266
-        }
+        },
+        "web_domains": [
+            "empyreal.finance"
+        ]
     },
     {
         "contract_address": "0xd8eb58d76af99547333cfeeb6a0f9bd1a63b6492",
