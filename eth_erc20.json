@@ -33392,7 +33392,8 @@
         ],
         "holders": {
             "ETH": 103
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa1249b234be235ff4bb408a6a565fe7bf017cb01",
@@ -33415,11 +33416,13 @@
             "rubychain.io"
         ],
         "telegram_groups": [
-            "RChainPortal"
+            "RChainPortal",
+            "RChainAnnouncement"
         ],
         "holders": {
             "ETH": 138
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x81b52e81a6aa714fa8a4a2a6e3492f12f2d51059",
@@ -33429,7 +33432,9 @@
         },
         "web_domains": [
             "seagen.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa56deea3c3a50d51619c78c30b766a4469624b66",
