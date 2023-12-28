@@ -34631,5 +34631,119 @@
         "holders": {
             "ETH": 105
         }
+    },
+    {
+        "contract_address": "0x6923f9b683111dcc0e20124e9a031deeae5dad93",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 67
+        }
+    },
+    {
+        "contract_address": "0x6fe77217432c6fab53fb2bf1dfaab8f130a8b28f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xc636a3ca52471f0efea5bb7c5e04f9e8db82532b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x357a1937af9ab4bc9cfd6c108e43933d2406e085",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x2be5e8c109e2197d077d13a82daead6a9b3433c5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4355
+        }
+    },
+    {
+        "contract_address": "0x0d505c03d30e65f6e9b4ef88855a47a89e4b7676",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zoomer.money"
+        ],
+        "telegram_groups": [
+            "zoomercoinofficial"
+        ],
+        "holders": {
+            "ETH": 1631
+        }
+    },
+    {
+        "contract_address": "0xd05c273d8748ee48ebb9dc5a53060576d4e38276",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dmail.ai"
+        ],
+        "telegram_groups": [
+            "dmailofficial"
+        ],
+        "holders": {
+            "ETH": 56
+        }
+    },
+    {
+        "contract_address": "0x8ab2ff0116a279a99950c66a12298962d152b83c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1570
+        }
+    },
+    {
+        "contract_address": "0xdefb0b264032e4e128b00d02b3fd0aa00331237b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 290
+        }
+    },
+    {
+        "contract_address": "0xc477d038d5420c6a9e0b031712f61c5120090de9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7736
+        }
+    },
+    {
+        "contract_address": "0xa91ac63d040deb1b7a5e4d4134ad23eb0ba07e14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2313
+        }
+    },
+    {
+        "contract_address": "0xe3a34d7ca0e3da014f3e30784b56bee5ac511e95",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 402
+        }
+    },
+    {
+        "contract_address": "0x6fe2506d1ddd77c43a3eaf4c4e0f7aeb14f26765",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "orbitt.pro",
+            "u.nite.finance"
+        ],
+        "holders": {
+            "ETH": 350
+        }
+    },
+    {
+        "contract_address": "0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 22813
+        }
     }
 ]
