@@ -34530,7 +34530,9 @@
         "holders": {
             "ETH": 130
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xcffe4cbdf704c25f25390ed2e233a9186437476d",
@@ -34544,7 +34546,9 @@
         "holders": {
             "ETH": 53
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x9385ae0cc51c62fd6ae7319da1a2d7880c8e984f",
@@ -34579,12 +34583,14 @@
             "popoy.xyz"
         ],
         "telegram_groups": [
-            "popoy_eth"
+            null
         ],
         "holders": {
             "ETH": 177
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: '<' not supported between instances of 'NoneType' and 'int'"
     },
     {
         "contract_address": "0x8ac582093f1337b10379e557fbe186d840ff6370",
@@ -34605,7 +34611,9 @@
         "holders": {
             "ETH": 58
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0xbbc7f7a6aadac103769c66cbc69ab720f7f9eae3",
