@@ -33718,5 +33718,106 @@
         "holders": {
             "ETH": 2198
         }
+    },
+    {
+        "contract_address": "0x10afca74a2813c6b095fae48d44755e18fcf3bef",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "LoafCat.vip"
+        ],
+        "telegram_groups": [
+            "Loaf_Cat_ERC20"
+        ],
+        "holders": {
+            "ETH": 156
+        }
+    },
+    {
+        "contract_address": "0xe00089d2313f37c5d4a8d93ac0680c4dd72aee05",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "almighty-loaf-eth.com"
+        ],
+        "telegram_groups": [
+            "almightyloafeth"
+        ],
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0xf18c9a4ed52aa24c711223f1e56b714b32d9d96f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "smartcash.services"
+        ],
+        "telegram_groups": [
+            "smartcash_services_official"
+        ],
+        "holders": {
+            "ETH": 69
+        }
+    },
+    {
+        "contract_address": "0x45522fba064b497c5bfe9c6a462bdc9eb0b31b7d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 278
+        }
+    },
+    {
+        "contract_address": "0x75633d501672dc0a5017404afa1eac5f3016fcfc",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.reuters.com"
+        ],
+        "telegram_groups": [
+            "QSTAR_ERC20"
+        ],
+        "holders": {
+            "ETH": 130
+        }
+    },
+    {
+        "contract_address": "0xacc48f65f8701f376bc4ba13f4bc103f31dda74e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.swiftbot.io"
+        ],
+        "holders": {
+            "ETH": 541
+        }
+    },
+    {
+        "contract_address": "0x07150e919b4de5fd6a63de1f9384828396f25fdc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6449
+        }
+    },
+    {
+        "contract_address": "0xe9b076b476d8865cdf79d1cf7df420ee397a7f75",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1896
+        }
+    },
+    {
+        "contract_address": "0x72e5390edb7727e3d4e3436451dadaff675dbcc0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "MiaNeko.com",
+            "HanuYokia.com"
+        ],
+        "holders": {
+            "ETH": 1741
+        }
+    },
+    {
+        "contract_address": "0x3041cbd36888becc7bbcbc0045e3b1f144466f5f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 391
+        }
     }
 ]
