@@ -31504,7 +31504,9 @@
         ],
         "holders": {
             "ETH": 3738
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x5f110edcb60c3955b745ea11c74a299eed8043eb",
@@ -34056,7 +34058,8 @@
         ],
         "holders": {
             "ETH": 95
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc8a5274c2371b1e98acd3ca0a851325e63dc9261",
@@ -34066,7 +34069,9 @@
         },
         "web_domains": [
             "ammx.net"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3e04863dba602713bb5d0edbf7db7c3a9a2b6027",
@@ -34083,6 +34088,8 @@
         ],
         "holders": {
             "ETH": 377
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     }
 ]
