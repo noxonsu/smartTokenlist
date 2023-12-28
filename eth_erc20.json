@@ -34938,7 +34938,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 61
-        }
+        },
+        "web_domains": [
+            "redacted.finance"
+        ]
     },
     {
         "contract_address": "0xfa35d1f603384e8fcfcbff3e610935d02922544e",
