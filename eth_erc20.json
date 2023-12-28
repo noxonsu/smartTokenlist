@@ -34556,7 +34556,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 25
-        }
+        },
+        "web_domains": [
+            "www.fuckboo.com"
+        ]
     },
     {
         "contract_address": "0xdfcc6999d2d5b7dade6d1b7c85f42e006067c5aa",
