@@ -34753,5 +34753,74 @@
         "holders": {
             "ETH": 22813
         }
+    },
+    {
+        "contract_address": "0xbb881a71b649a61f4cbc237b25402c2e3872bc24",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 569
+        }
+    },
+    {
+        "contract_address": "0x6d68723a62447e48b9150982e0c95143a04018d3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 92
+        }
+    },
+    {
+        "contract_address": "0x441761326490cacf7af299725b6292597ee822c2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2956
+        }
+    },
+    {
+        "contract_address": "0xa6c0c097741d55ecd9a3a7def3a8253fd022ceb9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 995
+        }
+    },
+    {
+        "contract_address": "0x6781a0f84c7e9e846dcb84a9a5bd49333067b104",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5754
+        }
+    },
+    {
+        "contract_address": "0xd2df60073c0a9c0b607ca6ac809acecc0d9250bd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9
+        }
+    },
+    {
+        "contract_address": "0xa2120b9e674d3fc3875f415a7df52e382f141225",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1122
+        }
+    },
+    {
+        "contract_address": "0x1f56ae850930460d076e8c2177d92daa6dd046c3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wooftoken.com"
+        ],
+        "telegram_groups": [
+            "WoofTokenOfficial"
+        ],
+        "holders": {
+            "ETH": 682
+        }
+    },
+    {
+        "contract_address": "0x69fa0fee221ad11012bab0fdb45d444d3d2ce71c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8719
+        }
     }
 ]
