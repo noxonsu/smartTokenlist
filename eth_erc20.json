@@ -34691,7 +34691,11 @@
         ],
         "holders": {
             "ETH": 56
-        }
+        },
+        "emails": [
+            "contact@mail.dmail.ai"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8ab2ff0116a279a99950c66a12298962d152b83c",
@@ -34737,7 +34741,9 @@
         ],
         "holders": {
             "ETH": 350
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e",
