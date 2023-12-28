@@ -33862,11 +33862,16 @@
             "buddyai.pro"
         ],
         "telegram_groups": [
+            "BuddyAIERCBot",
             "BuddyAIERC"
         ],
         "holders": {
             "ETH": 226
-        }
+        },
+        "emails": [
+            "BuddyAIETH@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa5e262ec733051b14b38901901a82f2684637e78",
@@ -33916,7 +33921,8 @@
         ],
         "holders": {
             "ETH": 48
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xff2ff9e879c8c63e49ee403e7877f735bca29aa2",
@@ -33930,7 +33936,8 @@
         ],
         "holders": {
             "ETH": 71
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2030e17c7436c9721e64a796f354f177e29da55c",
