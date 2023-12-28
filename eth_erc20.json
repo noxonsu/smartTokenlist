@@ -32034,7 +32034,8 @@
         ],
         "holders": {
             "ETH": 608
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3b21e2758022bba6fe4b4d027b52993014b40276",
@@ -34855,7 +34856,8 @@
         ],
         "holders": {
             "ETH": 52
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6bd50440993765a244b61b0bf15e44aae947d735",
@@ -34865,11 +34867,13 @@
             "www.lends.so"
         ],
         "telegram_groups": [
+            "AzeeSCA",
             "dmailofficial"
         ],
         "holders": {
             "ETH": 46
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x55af2344088e2fbca58cacc36b4b2815675a3f98",
@@ -34910,7 +34914,9 @@
         ],
         "holders": {
             "ETH": 343
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0000000de40dfa9b17854cbc7869d80f9f98d823",
@@ -34941,7 +34947,9 @@
         },
         "web_domains": [
             "redacted.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xfa35d1f603384e8fcfcbff3e610935d02922544e",
