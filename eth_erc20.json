@@ -33871,7 +33871,9 @@
         "emails": [
             "BuddyAIETH@gmail.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: The chat_id \"BuddyAIERCBot\" belongs to a user"
     },
     {
         "contract_address": "0xa5e262ec733051b14b38901901a82f2684637e78",
@@ -33922,7 +33924,9 @@
         "holders": {
             "ETH": 48
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xff2ff9e879c8c63e49ee403e7877f735bca29aa2",
@@ -33937,7 +33941,9 @@
         "holders": {
             "ETH": 71
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x2030e17c7436c9721e64a796f354f177e29da55c",
