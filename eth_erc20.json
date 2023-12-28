@@ -34063,7 +34063,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 47
-        }
+        },
+        "web_domains": [
+            "ammx.net"
+        ]
     },
     {
         "contract_address": "0x3e04863dba602713bb5d0edbf7db7c3a9a2b6027",
