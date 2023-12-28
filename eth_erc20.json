@@ -34002,5 +34002,84 @@
         "holders": {
             "ETH": 32
         }
+    },
+    {
+        "contract_address": "0xc881255e4d639b42e326158c7b8ccb7f33459261",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1736
+        }
+    },
+    {
+        "contract_address": "0x08d0222a206d1aee59a9b66969c04fd1e8a0f864",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1466
+        }
+    },
+    {
+        "contract_address": "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3341
+        }
+    },
+    {
+        "contract_address": "0x708e56845e8bc28c8d581349238a603d0887d3f2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 119
+        }
+    },
+    {
+        "contract_address": "0x1bdf7149c769a74b1ac07aa6fe41c04d4bf78cc5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 194
+        }
+    },
+    {
+        "contract_address": "0x4bcea5e4d0f6ed53cf45e7a28febb2d3621d7438",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7347
+        }
+    },
+    {
+        "contract_address": "0x45f8afcb4a37cbc4460f3015b9a530664a3cc20c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "melodywarp.com"
+        ],
+        "telegram_groups": [
+            "melodywarp"
+        ],
+        "holders": {
+            "ETH": 95
+        }
+    },
+    {
+        "contract_address": "0xc8a5274c2371b1e98acd3ca0a851325e63dc9261",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 47
+        }
+    },
+    {
+        "contract_address": "0x3e04863dba602713bb5d0edbf7db7c3a9a2b6027",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 78
+        }
+    },
+    {
+        "contract_address": "0x3da932456d082cba208feb0b096d49b202bf89c8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dego.finance"
+        ],
+        "holders": {
+            "ETH": 377
+        }
     }
 ]
