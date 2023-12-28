@@ -34493,7 +34493,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 86
-        }
+        },
+        "web_domains": [
+            "yieldflow.com"
+        ]
     },
     {
         "contract_address": "0x755582d6db18003e67eccaa7090421a775280a36",
