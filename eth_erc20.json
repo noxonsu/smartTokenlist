@@ -36578,7 +36578,9 @@
         "holders": {
             "ETH": 25
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x2510b1d295db451d4caa993bab7a1c3d8eb152e6",
@@ -36613,7 +36615,9 @@
         "holders": {
             "ETH": 17
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x217ddead61a42369a266f1fb754eb5d3ebadc88a",
@@ -36649,7 +36653,9 @@
         "holders": {
             "ETH": 6
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x59d9356e565ab3a36dd77763fc0d87feaf85508c",
