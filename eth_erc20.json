@@ -35732,7 +35732,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 14
-        }
+        },
+        "web_domains": [
+            "bitland.zone"
+        ]
     },
     {
         "contract_address": "0x28c58483bf3fa884317b7ccf88a25ce98a508a4d",
