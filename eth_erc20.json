@@ -36368,7 +36368,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 107
-        }
+        },
+        "web_domains": [
+            "21shares.com"
+        ]
     },
     {
         "contract_address": "0x98ac1daaf3c6cd134a6bcb693f6001548de253bd",
