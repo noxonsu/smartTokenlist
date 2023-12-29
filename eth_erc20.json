@@ -35952,5 +35952,94 @@
         "holders": {
             "ETH": 482
         }
+    },
+    {
+        "contract_address": "0xac1e2fa9249df5827bdafe9dc955fed125481b8d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 125
+        }
+    },
+    {
+        "contract_address": "0x32a5fc22e20903e78171977359b500060b7316bf",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pawagotchi.io"
+        ],
+        "telegram_groups": [
+            "pawagotchi_portal"
+        ],
+        "holders": {
+            "ETH": 389
+        }
+    },
+    {
+        "contract_address": "0x6fc27f5cc0aafec8e2b8bc4e6393ac89e45232d3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0x4b05ef4dd1c63b4b4630363bbb3f19ecde57e643",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.jonahthewhale.xyz"
+        ],
+        "telegram_groups": [
+            "jonahthewhale"
+        ],
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0xdc9cb148ecb70876db0abeb92f515a5e1dc9f580",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x51537ea0510883a7a85c3ac25aa42eafa32f3655",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 495
+        }
+    },
+    {
+        "contract_address": "0x11cc04dd962e82d411587c56b815e8f8141eb7d5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 572
+        }
+    },
+    {
+        "contract_address": "0x807534b396919783b7e30383fe57d857bc084338",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2020
+        }
+    },
+    {
+        "contract_address": "0x6e765d26388a17a6e86c49a8e41df3f58abcd337",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1527
+        }
+    },
+    {
+        "contract_address": "0x87869a9789291a6cec99f3c3ef2ff71fceb12a8e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2995
+        }
+    },
+    {
+        "contract_address": "0xebe6880ac817f026cb9d4e040da3e9e4cb418fb4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1228
+        }
     }
 ]
