@@ -36371,7 +36371,9 @@
         },
         "web_domains": [
             "21shares.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x98ac1daaf3c6cd134a6bcb693f6001548de253bd",
@@ -36387,7 +36389,8 @@
         ],
         "holders": {
             "ETH": 169
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xeeebb75a1ce93ee22a3624521a50b7c3d0e87fec",
@@ -36416,7 +36419,8 @@
         ],
         "holders": {
             "ETH": 246
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x672180fb465bd7b4b541810413642a89d760f806",
@@ -36433,7 +36437,14 @@
         ],
         "holders": {
             "ETH": 2
-        }
+        },
+        "telegram_groups": [
+            "grimacecommunity"
+        ],
+        "emails": [
+            "info@grimacedoge.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf20d3d39e646da340a799443bf3f632e728f211d",
