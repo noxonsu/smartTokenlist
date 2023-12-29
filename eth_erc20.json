@@ -36362,5 +36362,118 @@
         "holders": {
             "ETH": 365
         }
+    },
+    {
+        "contract_address": "0x3adae5bf6a11d58acab13843597d0668403eeeab",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 107
+        }
+    },
+    {
+        "contract_address": "0x98ac1daaf3c6cd134a6bcb693f6001548de253bd",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "copyly.xyz",
+            "app.copyly.xyz",
+            "copyly.gitbook.io"
+        ],
+        "telegram_groups": [
+            "copylyxyz",
+            "Copyly_bot"
+        ],
+        "holders": {
+            "ETH": 169
+        }
+    },
+    {
+        "contract_address": "0xeeebb75a1ce93ee22a3624521a50b7c3d0e87fec",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0xcf9ac010140ca5abf3ad8ac1b0ad478cc418b5b5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 200
+        }
+    },
+    {
+        "contract_address": "0xecdbf67c99241a9e1a2780e06b92f28767eecd31",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.deployerc.ai",
+            "bit.ly"
+        ],
+        "telegram_groups": [
+            "DeployAi",
+            "TheDeployAiBot"
+        ],
+        "holders": {
+            "ETH": 246
+        }
+    },
+    {
+        "contract_address": "0x672180fb465bd7b4b541810413642a89d760f806",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8
+        }
+    },
+    {
+        "contract_address": "0x52a43379f60f9e79519a743122849a8c33609aa1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "grimacedoge.com"
+        ],
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xf20d3d39e646da340a799443bf3f632e728f211d",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "mecaerc20"
+        ],
+        "holders": {
+            "ETH": 103
+        }
+    },
+    {
+        "contract_address": "0x95d239eea145456d6392d35ae19925638840b63b",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "DogeVsShibaErc"
+        ],
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0xadbfd046f541a57c5831fc60b1168eca737b2941",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x647b9f5e72dfecfbc52814756ee9c60bdf2725e2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ipfs.io"
+        ],
+        "holders": {
+            "ETH": 1507
+        }
+    },
+    {
+        "contract_address": "0xd433138d12beb9929ff6fd583dc83663eea6aaa5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 439
+        }
     }
 ]
