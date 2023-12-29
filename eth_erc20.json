@@ -35588,7 +35588,9 @@
         "holders": {
             "ETH": 225
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x51439fafd035fe8f5caa97a3fa49686d84d3483e",
@@ -35616,7 +35618,9 @@
         "telegram_groups": [
             "ordiswaplabs"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large2338"
     },
     {
         "contract_address": "0x1260a3cd94d922c164496dca5fba37fee7d5848a",
@@ -35630,7 +35634,9 @@
         "telegram_groups": [
             "crownyofficial"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large1547"
     },
     {
         "contract_address": "0x3e2b0c80566f9347d26de0eab18cc7c427994729",
