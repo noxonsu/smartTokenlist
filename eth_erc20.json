@@ -36163,7 +36163,9 @@
         "holders": {
             "ETH": 78
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xc5f0f7b66764f6ec8c8dff7ba683102295e16409",
@@ -36192,7 +36194,9 @@
             "versity_fr",
             "versity_official"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large1254"
     },
     {
         "contract_address": "0x9f284e1337a815fe77d2ff4ae46544645b20c5ff",
@@ -36213,7 +36217,9 @@
         "holders": {
             "ETH": 109
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x23a2164d482fd2fec9c2d0b66528d42fee7b8817",
@@ -36240,6 +36246,8 @@
         "emails": [
             "mockeyteam@gmail.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     }
 ]
