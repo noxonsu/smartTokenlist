@@ -26176,7 +26176,9 @@
         ],
         "holders": {
             "ETH": 1402
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa2c3a0dc05bfa9bc957732590143252d45df30e2",
@@ -35184,7 +35186,8 @@
         ],
         "holders": {
             "ETH": 111
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0b211cde9e2420b97abdf1ecd5b063be97543fe6",
@@ -35194,7 +35197,9 @@
         },
         "web_domains": [
             "toastpunk.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb5ae1a2051a88293701e5e5c6a4ad7355b7b8163",
@@ -35208,7 +35213,8 @@
         ],
         "holders": {
             "ETH": 5
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xed4fb23bf5c0301f0e402cb44ef1edf82a076297",
@@ -35221,7 +35227,11 @@
         ],
         "holders": {
             "ETH": 15
-        }
+        },
+        "emails": [
+            "thememewhocantbenamed@voldemorttrumprobotnik69pepe.fun"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x409b46013c78c63cf376f17466aef87895617451",
@@ -35241,6 +35251,7 @@
         ],
         "holders": {
             "ETH": 128
-        }
+        },
+        "p6": true
     }
 ]
