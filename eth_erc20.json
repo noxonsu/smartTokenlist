@@ -36249,5 +36249,102 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0xec70ff4a5b09110e4d20ada4f2db4a86ec61fac6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1871
+        }
+    },
+    {
+        "contract_address": "0x7c8155909cd385f120a56ef90728dd50f9ccbe52",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5411
+        }
+    },
+    {
+        "contract_address": "0x5288738df1aeb0894713de903e1d0c001eeb7644",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "solanaonethereum.dev"
+        ],
+        "telegram_groups": [
+            "solanaonether"
+        ],
+        "holders": {
+            "ETH": 166
+        }
+    },
+    {
+        "contract_address": "0x3922b97e2519c05c1596f62833b863c969d593aa",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0x8574b7768355818484d029705d2cee31964ab58f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x41c21693e60fc1a5dbb7c50e54e7a6016aa44c99",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 834
+        }
+    },
+    {
+        "contract_address": "0x23feef978f2f8e9aeb26028d09b5d303b6c6a057",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sacabambaspis.xyz",
+            "app.sacabambaspis.xyz"
+        ],
+        "telegram_groups": [
+            "sacabambaspis20"
+        ],
+        "holders": {
+            "ETH": 705
+        }
+    },
+    {
+        "contract_address": "0x90c30c6de721485803448b96ab02d625c8db1fa1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 59
+        }
+    },
+    {
+        "contract_address": "0xae6e307c3fe9e922e5674dbd7f830ed49c014c6b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1143
+        }
+    },
+    {
+        "contract_address": "0xf107ecf44ef6263ffc77963166be6529fcc16af4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 85
+        }
+    },
+    {
+        "contract_address": "0x4ac429a7cdf2b533e2c0cff1b017f2c344e864e2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 365
+        }
     }
 ]
