@@ -35261,5 +35261,73 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0x55a380d134d722006a5ce2d510562e1239d225b1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2744
+        }
+    },
+    {
+        "contract_address": "0x741b0428efdf4372a8df6fb54b018db5e5ab7710",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1186
+        }
+    },
+    {
+        "contract_address": "0x4e899bc4eb3142e485450f4b24994c977ddfcbce",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "mecacoinerc20"
+        ],
+        "holders": {
+            "ETH": 1002
+        }
+    },
+    {
+        "contract_address": "0x20bc646f9ca05b0cc49fe89e8190e26c41e2789b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 278
+        }
+    },
+    {
+        "contract_address": "0x9875bc5498624b682513e21711b8903707619dda",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fufucoin.xyz"
+        ],
+        "telegram_groups": [
+            "FUFUPORTAL"
+        ],
+        "holders": {
+            "ETH": 236
+        }
+    },
+    {
+        "contract_address": "0x72d9881a751d7166d864bae38c31c5a154fb8c28",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "metadrop.com."
+        ],
+        "holders": {
+            "ETH": 1219
+        }
+    },
+    {
+        "contract_address": "0x7a5ce6abd131ea6b148a022cb76fc180ae3315a6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1832
+        }
+    },
+    {
+        "contract_address": "0x6aa9bcf20ae2fcb9a29d7d99c624d9db43d93969",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 58
+        }
     }
 ]
