@@ -35187,7 +35187,9 @@
         "holders": {
             "ETH": 111
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x0b211cde9e2420b97abdf1ecd5b063be97543fe6",
@@ -35214,7 +35216,9 @@
         "holders": {
             "ETH": 5
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xed4fb23bf5c0301f0e402cb44ef1edf82a076297",
@@ -35231,7 +35235,9 @@
         "emails": [
             "thememewhocantbenamed@voldemorttrumprobotnik69pepe.fun"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x409b46013c78c63cf376f17466aef87895617451",
@@ -35252,6 +35258,8 @@
         "holders": {
             "ETH": 128
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     }
 ]
