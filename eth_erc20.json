@@ -35608,14 +35608,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 25
-        }
+        },
+        "web_domains": [
+            "ordiswap.fi"
+        ]
     },
     {
         "contract_address": "0x1260a3cd94d922c164496dca5fba37fee7d5848a",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 35
-        }
+        },
+        "web_domains": [
+            "crowny.io"
+        ]
     },
     {
         "contract_address": "0x3e2b0c80566f9347d26de0eab18cc7c427994729",
