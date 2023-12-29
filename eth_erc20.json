@@ -35705,7 +35705,9 @@
         ],
         "holders": {
             "ETH": 435
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xbf527e1a5eceba3987396cabb84c0cd555a13b91",
@@ -35725,7 +35727,8 @@
         ],
         "holders": {
             "ETH": 106
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd6aeaac1000b15fef960e1e0c5863282f451f8ff",
@@ -35735,7 +35738,9 @@
         },
         "web_domains": [
             "bitland.zone"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x28c58483bf3fa884317b7ccf88a25ce98a508a4d",
@@ -35748,7 +35753,8 @@
         ],
         "holders": {
             "ETH": 27
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9e3319636e2126e3c0bc9e3134aec5e1508a46c7",
@@ -35768,7 +35774,8 @@
         ],
         "holders": {
             "ETH": 209
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd008613849d90af6e9129d53a98cbbcd030a01ac",
@@ -35810,7 +35817,8 @@
         ],
         "holders": {
             "ETH": 70
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb8628592ec61e6ffa63ae31d062c2ef75695e3eb",
