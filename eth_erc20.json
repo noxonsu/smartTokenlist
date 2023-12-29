@@ -36275,7 +36275,11 @@
         ],
         "holders": {
             "ETH": 166
-        }
+        },
+        "emails": [
+            "SUPPORT@solanaonethereum.dev"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3922b97e2519c05c1596f62833b863c969d593aa",
@@ -36285,7 +36289,9 @@
         },
         "web_domains": [
             "aligator.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8574b7768355818484d029705d2cee31964ab58f",
@@ -36302,7 +36308,9 @@
         },
         "web_domains": [
             "connext.network"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x41c21693e60fc1a5dbb7c50e54e7a6016aa44c99",
