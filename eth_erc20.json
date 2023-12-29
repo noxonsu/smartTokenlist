@@ -35874,7 +35874,11 @@
         },
         "web_domains": [
             "pion.muon.net"
-        ]
+        ],
+        "telegram_groups": [
+            "muon_net"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf2fdd9c25d7bc8002ce89716d1be484b2d976944",
@@ -35894,7 +35898,9 @@
         },
         "web_domains": [
             "worldcoinstats.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe1e77de32fb301ce55871ba095fd6b8e5d9abad8",
