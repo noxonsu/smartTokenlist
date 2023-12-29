@@ -35171,5 +35171,73 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0x1fa105b51564f818619282b170b8cbec8ebddb46",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.solbridgebot.com"
+        ],
+        "telegram_groups": [
+            "solanabridgeportal",
+            "solanabridgebot"
+        ],
+        "holders": {
+            "ETH": 111
+        }
+    },
+    {
+        "contract_address": "0x0b211cde9e2420b97abdf1ecd5b063be97543fe6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 56
+        }
+    },
+    {
+        "contract_address": "0xb5ae1a2051a88293701e5e5c6a4ad7355b7b8163",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cybria.site",
+            "cybria-ethlayer2.gitbook.io"
+        ],
+        "telegram_groups": [
+            "CybriaPortal"
+        ],
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0xed4fb23bf5c0301f0e402cb44ef1edf82a076297",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "voldemorttrumprobotnik69pepe.fun"
+        ],
+        "telegram_groups": [
+            "vtrumpr69pepe"
+        ],
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0x409b46013c78c63cf376f17466aef87895617451",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 719
+        }
+    },
+    {
+        "contract_address": "0x4866c9099f88052f64803eb32530e6abdb30a60c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "metadrop.com."
+        ],
+        "telegram_groups": [
+            "HOLD10_erc20"
+        ],
+        "holders": {
+            "ETH": 128
+        }
     }
 ]
