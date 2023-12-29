@@ -36067,7 +36067,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 43
-        }
+        },
+        "web_domains": [
+            "thx.network"
+        ]
     },
     {
         "contract_address": "0xa57ed6e54be8125bbe45d6ca330e45ebb71ef11e",
@@ -36175,7 +36178,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 52
-        }
+        },
+        "web_domains": [
+            "sity.io"
+        ]
     },
     {
         "contract_address": "0x9f284e1337a815fe77d2ff4ae46544645b20c5ff",
