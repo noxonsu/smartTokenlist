@@ -35354,7 +35354,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 103
-        }
+        },
+        "web_domains": [
+            "wrap.banano.cc"
+        ]
     },
     {
         "contract_address": "0x226f7b842e0f0120b7e194d05432b3fd14773a9d",
