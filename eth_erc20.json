@@ -36070,7 +36070,12 @@
         },
         "web_domains": [
             "thx.network"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            " info@thx.network "
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa57ed6e54be8125bbe45d6ca330e45ebb71ef11e",
@@ -36157,7 +36162,8 @@
         ],
         "holders": {
             "ETH": 78
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc5f0f7b66764f6ec8c8dff7ba683102295e16409",
@@ -36181,7 +36187,12 @@
         },
         "web_domains": [
             "sity.io"
-        ]
+        ],
+        "telegram_groups": [
+            "versity_fr",
+            "versity_official"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9f284e1337a815fe77d2ff4ae46544645b20c5ff",
@@ -36201,7 +36212,8 @@
         ],
         "holders": {
             "ETH": 109
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x23a2164d482fd2fec9c2d0b66528d42fee7b8817",
@@ -36224,6 +36236,10 @@
         ],
         "holders": {
             "ETH": 23
-        }
+        },
+        "emails": [
+            "mockeyteam@gmail.com"
+        ],
+        "p6": true
     }
 ]
