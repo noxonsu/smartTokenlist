@@ -36390,7 +36390,9 @@
         "holders": {
             "ETH": 169
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xeeebb75a1ce93ee22a3624521a50b7c3d0e87fec",
@@ -36420,7 +36422,9 @@
         "holders": {
             "ETH": 246
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x672180fb465bd7b4b541810413642a89d760f806",
@@ -36444,7 +36448,9 @@
         "emails": [
             "info@grimacedoge.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large8020"
     },
     {
         "contract_address": "0xf20d3d39e646da340a799443bf3f632e728f211d",
