@@ -36282,7 +36282,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 30
-        }
+        },
+        "web_domains": [
+            "aligator.finance"
+        ]
     },
     {
         "contract_address": "0x8574b7768355818484d029705d2cee31964ab58f",
@@ -36296,7 +36299,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 6
-        }
+        },
+        "web_domains": [
+            "connext.network"
+        ]
     },
     {
         "contract_address": "0x41c21693e60fc1a5dbb7c50e54e7a6016aa44c99",
