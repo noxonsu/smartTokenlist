@@ -36279,7 +36279,9 @@
         "emails": [
             "SUPPORT@solanaonethereum.dev"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x3922b97e2519c05c1596f62833b863c969d593aa",
