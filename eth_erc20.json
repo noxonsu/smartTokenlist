@@ -35361,7 +35361,9 @@
         "telegram_groups": [
             "banano_official"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large7034"
     },
     {
         "contract_address": "0x226f7b842e0f0120b7e194d05432b3fd14773a9d",
@@ -35405,7 +35407,9 @@
         "holders": {
             "ETH": 111
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x160300a17bc6c973ae4f4a7a1934814292d6c2f6",
@@ -35429,7 +35433,9 @@
         "emails": [
             "contact@solanavsethereum.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x905d0cb97b6b949c066353ab6f4076538ca863fe",
@@ -35444,7 +35450,9 @@
         "holders": {
             "ETH": 4
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xa63ec5d53ea373662619b54812e1ce16b0430d93",
