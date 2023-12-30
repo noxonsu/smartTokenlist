@@ -37533,5 +37533,120 @@
         "holders": {
             "ETH": 1640
         }
+    },
+    {
+        "contract_address": "0x1c1f27b0fd5e2c75b338e2622d81938af25c2a19",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3123
+        }
+    },
+    {
+        "contract_address": "0x998779c4838a78885f60caf60e6c6fe27628869f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "MinnieMouseCoin.xyz"
+        ],
+        "telegram_groups": [
+            "MinnieMousePortal"
+        ],
+        "holders": {
+            "ETH": 82
+        }
+    },
+    {
+        "contract_address": "0xc7610a6fb69c7ccb7620e740449e767dd0c58391",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0xb231eb45f1e52c6a9332155719e7369b48f3d1a3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 37
+        }
+    },
+    {
+        "contract_address": "0x2b68d5f9d17a18c7b2e36f2570a7a19bc932bef0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "virtumind.gitbook.io",
+            "virtumind.xyz"
+        ],
+        "telegram_groups": [
+            "virtumind"
+        ],
+        "holders": {
+            "ETH": 207
+        }
+    },
+    {
+        "contract_address": "0xc8f022201ea3702ad1fa6f40ce0529f3c27d116f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 42
+        }
+    },
+    {
+        "contract_address": "0x3a3ee3d85074f82dd0b4ef4a0f92eafab202ac64",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "xana-ai.net",
+            "xana-ai.medium.com"
+        ],
+        "telegram_groups": [
+            "xana_official_channel"
+        ],
+        "holders": {
+            "ETH": 87
+        }
+    },
+    {
+        "contract_address": "0x5fba129da70ee69dfc6688b0704d9ccb43f4eb82",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "floki-2.vip"
+        ],
+        "telegram_groups": [
+            "floki2_0erc"
+        ],
+        "holders": {
+            "ETH": 229
+        }
+    },
+    {
+        "contract_address": "0x9778ac3d5a2f916aa9abf1eb85c207d990ca2655",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 749
+        }
+    },
+    {
+        "contract_address": "0x10cd22fcec71d1a8d9e04cee97a7062e018e223b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.weom.live"
+        ],
+        "telegram_groups": [
+            "weom_eth"
+        ],
+        "holders": {
+            "ETH": 85
+        }
+    },
+    {
+        "contract_address": "0xd82ea53892f6ff3c178019fc5368d87faff132eb",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.akirainu.info"
+        ],
+        "telegram_groups": [
+            "AkiraInu_ERC"
+        ],
+        "holders": {
+            "ETH": 30
+        }
     }
 ]
