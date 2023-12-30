@@ -37459,7 +37459,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 38
-        }
+        },
+        "web_domains": [
+            "chadnar.com"
+        ]
     },
     {
         "contract_address": "0x3d73626a0283bded80a3e3ffe75c3d628f3a81fe",
