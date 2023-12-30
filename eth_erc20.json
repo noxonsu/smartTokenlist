@@ -37922,5 +37922,105 @@
         "holders": {
             "ETH": 535
         }
+    },
+    {
+        "contract_address": "0xc727f87871ee12bbcedd2973746d1deb7529aad6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 377
+        }
+    },
+    {
+        "contract_address": "0x33d63ba1e57e54779f7ddaeaa7109349344cf5f1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org"
+        ],
+        "holders": {
+            "ETH": 456
+        }
+    },
+    {
+        "contract_address": "0x0983429b4dd696ff21ddd6ea5a2c53716b33d9e6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "swmg.meme"
+        ],
+        "telegram_groups": [
+            "SwmgERC"
+        ],
+        "holders": {
+            "ETH": 134
+        }
+    },
+    {
+        "contract_address": "0x6710c63432a2de02954fc0f851db07146a6c0312",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10014
+        }
+    },
+    {
+        "contract_address": "0x8988eca19d502fd8b9ccd03fa3bd20a6f599bc2a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 80
+        }
+    },
+    {
+        "contract_address": "0x2cc46717713309ba0099c4207cafd5d3353cfb2e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tokentoolbox.app"
+        ],
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x4b8509aa4e6d2ec25d54e4409f6f523cd8020e06",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ordiswap.info"
+        ],
+        "telegram_groups": [
+            "ordzordiswap"
+        ],
+        "holders": {
+            "ETH": 8
+        }
+    },
+    {
+        "contract_address": "0x60ef1e0bf9218cdc1769a43c4b0b111ed38bb418",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x0f79138afe3e907a4186c6cb59e7847b358b2717",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "MaryCoin_ERC"
+        ],
+        "holders": {
+            "ETH": 638
+        }
+    },
+    {
+        "contract_address": "0x9fc450f9afe2833eb44f9a1369ab3678d3929860",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.airswap.io"
+        ],
+        "holders": {
+            "ETH": 274
+        }
     }
 ]
