@@ -37387,7 +37387,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 130
-        }
+        },
+        "web_domains": [
+            "ordii.net"
+        ]
     },
     {
         "contract_address": "0x653c8b2c7b60d362c97e8f768b06aebc57a9922d",
