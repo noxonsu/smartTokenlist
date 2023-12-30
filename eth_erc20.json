@@ -37763,7 +37763,9 @@
         "telegram_groups": [
             "fbtokenofficial"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x76fca1adb104770b38581b64d55e67fa5a0f3966",
@@ -37798,7 +37800,9 @@
         "telegram_groups": [
             "BeRich2024cash"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large9976"
     },
     {
         "contract_address": "0x841fb148863454a3b3570f515414759be9091465",
@@ -37825,7 +37829,9 @@
         "emails": [
             "ampfdn@gmail.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x045da4bfe02b320f4403674b3b7d121737727a36",
