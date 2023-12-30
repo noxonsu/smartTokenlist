@@ -37850,5 +37850,72 @@
         "holders": {
             "ETH": 640
         }
+    },
+    {
+        "contract_address": "0xd3f280d140d0c9199f134067fca86d99a9ab3ab8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.terraprotocol.net",
+            "app.terraprotocol.net",
+            "docs.terraprotocol.net"
+        ],
+        "telegram_groups": [
+            "ercTerra"
+        ],
+        "holders": {
+            "ETH": 111
+        }
+    },
+    {
+        "contract_address": "0x5f5c86a9f8aaf63ce27b82fab3b33df73cbc3d12",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sparks.dev",
+            "linktree.sparks.dev"
+        ],
+        "holders": {
+            "ETH": 444
+        }
+    },
+    {
+        "contract_address": "0x089729b0786c8803cff972c16e402f3344d079ea",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blockgpt.app"
+        ],
+        "holders": {
+            "ETH": 594
+        }
+    },
+    {
+        "contract_address": "0xe9931386ea917bc6fa5cb0a499badc91e1f7e2ad",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 905
+        }
+    },
+    {
+        "contract_address": "0x45fa1a5dd365f153de5afb83b6f9f44fa3b3cafe",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "USEDCARETH"
+        ],
+        "holders": {
+            "ETH": 182
+        }
+    },
+    {
+        "contract_address": "0xeb6b538bddf73c5db3101554e78d47e563220c19",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0xf543f9613cc6b6246751d0937b71b1747884b2a5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 535
+        }
     }
 ]
