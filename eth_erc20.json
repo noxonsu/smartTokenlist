@@ -37693,7 +37693,9 @@
         ],
         "holders": {
             "ETH": 386
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0a44a7ccea34a7563ba1d45a5f757d0b02281124",
@@ -37731,7 +37733,9 @@
         },
         "web_domains": [
             "thexx.info"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3670fda57bbc9e329834ee86cecee9bae7a827fa",
@@ -37755,7 +37759,11 @@
         },
         "web_domains": [
             "fbtokenofficial.com"
-        ]
+        ],
+        "telegram_groups": [
+            "fbtokenofficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x76fca1adb104770b38581b64d55e67fa5a0f3966",
@@ -37786,7 +37794,11 @@
         ],
         "holders": {
             "ETH": 9
-        }
+        },
+        "telegram_groups": [
+            "BeRich2024cash"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x841fb148863454a3b3570f515414759be9091465",
@@ -37809,7 +37821,11 @@
         ],
         "holders": {
             "ETH": 204
-        }
+        },
+        "emails": [
+            "ampfdn@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x045da4bfe02b320f4403674b3b7d121737727a36",
