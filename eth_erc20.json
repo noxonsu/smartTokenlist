@@ -37553,7 +37553,9 @@
         "holders": {
             "ETH": 82
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xc7610a6fb69c7ccb7620e740449e767dd0c58391",
@@ -37585,12 +37587,14 @@
             "virtumind.xyz"
         ],
         "telegram_groups": [
-            "virtumind"
+            null
         ],
         "holders": {
             "ETH": 207
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: '<' not supported between instances of 'NoneType' and 'int'"
     },
     {
         "contract_address": "0xc8f022201ea3702ad1fa6f40ce0529f3c27d116f",
@@ -37620,7 +37624,9 @@
         "holders": {
             "ETH": 87
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x5fba129da70ee69dfc6688b0704d9ccb43f4eb82",
@@ -37634,7 +37640,9 @@
         "holders": {
             "ETH": 229
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x9778ac3d5a2f916aa9abf1eb85c207d990ca2655",
@@ -37655,7 +37663,9 @@
         "holders": {
             "ETH": 85
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xd82ea53892f6ff3c178019fc5368d87faff132eb",
@@ -37669,6 +37679,8 @@
         "holders": {
             "ETH": 30
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Username not occupied"
     }
 ]
