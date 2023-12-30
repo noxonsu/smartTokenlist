@@ -37865,7 +37865,9 @@
         "holders": {
             "ETH": 111
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x5f5c86a9f8aaf63ce27b82fab3b33df73cbc3d12",
