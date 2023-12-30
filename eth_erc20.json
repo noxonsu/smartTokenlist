@@ -36859,7 +36859,9 @@
         "holders": {
             "ETH": 270
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x63fcde9dacf232760372dca5341e2ca3c65f5906",
@@ -36889,7 +36891,9 @@
         "emails": [
             "hello@koii.network"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large3406"
     },
     {
         "contract_address": "0x72c7b21a16bc7818604a0ca08cffe9bcb0300e49",
@@ -36945,7 +36949,9 @@
         "holders": {
             "ETH": 139
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x6f91d21de4e40b3b80636b6b3ba425b636b798cf",
