@@ -37559,7 +37559,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 3
-        }
+        },
+        "web_domains": [
+            "arganacoin.tech"
+        ]
     },
     {
         "contract_address": "0xb231eb45f1e52c6a9332155719e7369b48f3d1a3",
@@ -37587,7 +37590,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 42
-        }
+        },
+        "web_domains": [
+            "stabble.org"
+        ]
     },
     {
         "contract_address": "0x3a3ee3d85074f82dd0b4ef4a0f92eafab202ac64",
