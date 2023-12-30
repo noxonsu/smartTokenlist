@@ -37390,7 +37390,9 @@
         },
         "web_domains": [
             "ordii.net"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x653c8b2c7b60d362c97e8f768b06aebc57a9922d",
@@ -37403,7 +37405,8 @@
         ],
         "holders": {
             "ETH": 209
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0bc857f97c0554d1d0d602b56f2eece682016fba",
