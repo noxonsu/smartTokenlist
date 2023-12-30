@@ -37196,7 +37196,9 @@
         "telegram_groups": [
             "onionmeme"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x1c4853ec0d55e420002c5efabc7ed8e0ba7a4121",
