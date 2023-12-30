@@ -36844,5 +36844,102 @@
         "holders": {
             "ETH": 1099
         }
+    },
+    {
+        "contract_address": "0xa2c363a6ee4e70fce696de62d8e6f792d1fbef00",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "obeynasa.org",
+            "wikileaks.org",
+            "theflatearthsociety.org"
+        ],
+        "telegram_groups": [
+            "ObeyNasaEth"
+        ],
+        "holders": {
+            "ETH": 270
+        }
+    },
+    {
+        "contract_address": "0x63fcde9dacf232760372dca5341e2ca3c65f5906",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.zeusaiofficial.com"
+        ],
+        "telegram_groups": [
+            "ZeusV2_Portal"
+        ],
+        "holders": {
+            "ETH": 572
+        }
+    },
+    {
+        "contract_address": "0x56159cb0c9b057d3fdf2b4df56dfe9cb95c62dfc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 23
+        }
+    },
+    {
+        "contract_address": "0x72c7b21a16bc7818604a0ca08cffe9bcb0300e49",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 34
+        }
+    },
+    {
+        "contract_address": "0x6472a86d12feec5bd201096407ecc3b297a26411",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 374
+        }
+    },
+    {
+        "contract_address": "0xae4533189c7281501f04ba4b7c37e3aded402902",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 116
+        }
+    },
+    {
+        "contract_address": "0x0aa7efe4945db24d95ca6e117bba65ed326e291a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2762
+        }
+    },
+    {
+        "contract_address": "0x83ff4aa8505357c915749fc56b7f80cf03b8b599",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 17688
+        }
+    },
+    {
+        "contract_address": "0x5e299ddc7e8d9762138164a2f8ce347a0c87c002",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "decentralizedpenguins.xyz"
+        ],
+        "telegram_groups": [
+            "DecentralizedPenguins"
+        ],
+        "holders": {
+            "ETH": 139
+        }
+    },
+    {
+        "contract_address": "0x6f91d21de4e40b3b80636b6b3ba425b636b798cf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 997
+        }
     }
 ]
