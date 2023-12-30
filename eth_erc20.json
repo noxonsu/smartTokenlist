@@ -37552,7 +37552,8 @@
         ],
         "holders": {
             "ETH": 82
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc7610a6fb69c7ccb7620e740449e767dd0c58391",
@@ -37562,7 +37563,12 @@
         },
         "web_domains": [
             "arganacoin.tech"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "contact@arganacoin.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb231eb45f1e52c6a9332155719e7369b48f3d1a3",
@@ -37583,7 +37589,8 @@
         ],
         "holders": {
             "ETH": 207
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc8f022201ea3702ad1fa6f40ce0529f3c27d116f",
@@ -37593,7 +37600,12 @@
         },
         "web_domains": [
             "stabble.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "gm@stabble.org"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3a3ee3d85074f82dd0b4ef4a0f92eafab202ac64",
@@ -37607,7 +37619,8 @@
         ],
         "holders": {
             "ETH": 87
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5fba129da70ee69dfc6688b0704d9ccb43f4eb82",
@@ -37620,7 +37633,8 @@
         ],
         "holders": {
             "ETH": 229
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9778ac3d5a2f916aa9abf1eb85c207d990ca2655",
