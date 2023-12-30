@@ -37008,7 +37008,9 @@
             "fairdice_bot_group",
             "fairdice_cashier_bot"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: The chat_id \"fairdice_bot\" belongs to a user"
     },
     {
         "contract_address": "0x0ca6bbdf3e7472331ce73780e299a7b1a298681b",
