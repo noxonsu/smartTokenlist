@@ -37728,7 +37728,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 5
-        }
+        },
+        "web_domains": [
+            "thexx.info"
+        ]
     },
     {
         "contract_address": "0x3670fda57bbc9e329834ee86cecee9bae7a827fa",
@@ -37749,7 +37752,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 198
-        }
+        },
+        "web_domains": [
+            "fbtokenofficial.com"
+        ]
     },
     {
         "contract_address": "0x76fca1adb104770b38581b64d55e67fa5a0f3966",
