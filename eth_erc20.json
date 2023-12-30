@@ -36878,7 +36878,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 23
-        }
+        },
+        "web_domains": [
+            "koii.network"
+        ]
     },
     {
         "contract_address": "0x72c7b21a16bc7818604a0ca08cffe9bcb0300e49",
