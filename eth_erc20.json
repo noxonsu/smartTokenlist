@@ -37682,5 +37682,144 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Username not occupied"
+    },
+    {
+        "contract_address": "0xadd8abdea5cb95f4dcd8e128eeef64f023615a6a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cheezburger.lol",
+            "documentation.cheezburger.lol",
+            "cheezburger.lol"
+        ],
+        "holders": {
+            "ETH": 386
+        }
+    },
+    {
+        "contract_address": "0x0a44a7ccea34a7563ba1d45a5f757d0b02281124",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 444
+        }
+    },
+    {
+        "contract_address": "0x72fd1648f34ddb747acd00ae114e805c7b81422d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1281
+        }
+    },
+    {
+        "contract_address": "0xc4de189abf94c57f396bd4c52ab13b954febefd8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4883
+        }
+    },
+    {
+        "contract_address": "0xf21ff55b4866f8ec2ac73fb96bad7f6382a35311",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x51cc45ba7931c29de49aa3e91d9d06cdfb8827e1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x3670fda57bbc9e329834ee86cecee9bae7a827fa",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 453
+        }
+    },
+    {
+        "contract_address": "0x044d078f1c86508e13328842cc75ac021b272958",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 75
+        }
+    },
+    {
+        "contract_address": "0xfb19075d77a0f111796fb259819830f4780f1429",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 198
+        }
+    },
+    {
+        "contract_address": "0x76fca1adb104770b38581b64d55e67fa5a0f3966",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2385
+        }
+    },
+    {
+        "contract_address": "0x7ac168c81f4f3820fa3f22603ce5864d6ab3c547",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0xdf4ef6ee483953fe3b84abd08c6a060445c01170",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 258
+        }
+    },
+    {
+        "contract_address": "0xee68f62e3b3f0963f797c24208979df4a2f3636f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "2024.cash"
+        ],
+        "holders": {
+            "ETH": 9
+        }
+    },
+    {
+        "contract_address": "0x841fb148863454a3b3570f515414759be9091465",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "travis-ci.com"
+        ],
+        "holders": {
+            "ETH": 9832
+        }
+    },
+    {
+        "contract_address": "0xe52fa148e1dc6f84f68f94a5fcf4d10e46e0acfc",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "amp.foundation"
+        ],
+        "telegram_groups": [
+            "ampfdn"
+        ],
+        "holders": {
+            "ETH": 204
+        }
+    },
+    {
+        "contract_address": "0x045da4bfe02b320f4403674b3b7d121737727a36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1724
+        }
+    },
+    {
+        "contract_address": "0xb4272071ecadd69d933adcd19ca99fe80664fc08",
+        "sourceScanned": "processed",
+        "emails": [
+            "dave@akomba.com"
+        ],
+        "holders": {
+            "ETH": 640
+        }
     }
 ]
