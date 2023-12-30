@@ -37462,7 +37462,9 @@
         },
         "web_domains": [
             "chadnar.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3d73626a0283bded80a3e3ffe75c3d628f3a81fe",
@@ -37471,11 +37473,13 @@
             "matmo.cc"
         ],
         "telegram_groups": [
+            "matmochain_I",
             "MatmoChain"
         ],
         "holders": {
             "ETH": 11
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd1211134ad05981ffcbe2a9c32c1761109c63fce",
@@ -37516,7 +37520,8 @@
         ],
         "holders": {
             "ETH": 492
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8f45250b9d43e213da5bac058f2396e3c836023b",
