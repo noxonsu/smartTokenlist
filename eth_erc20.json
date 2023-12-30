@@ -36858,7 +36858,8 @@
         ],
         "holders": {
             "ETH": 270
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x63fcde9dacf232760372dca5341e2ca3c65f5906",
@@ -36881,7 +36882,14 @@
         },
         "web_domains": [
             "koii.network"
-        ]
+        ],
+        "telegram_groups": [
+            "koiinetwork"
+        ],
+        "emails": [
+            "hello@koii.network"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x72c7b21a16bc7818604a0ca08cffe9bcb0300e49",
@@ -36936,7 +36944,8 @@
         ],
         "holders": {
             "ETH": 139
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6f91d21de4e40b3b80636b6b3ba425b636b798cf",
