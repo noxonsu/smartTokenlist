@@ -36697,7 +36697,8 @@
         ],
         "holders": {
             "ETH": 254
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xaa3765937a959d6ef1c8a0addcaa699d580b3f73",
@@ -36720,7 +36721,8 @@
         ],
         "holders": {
             "ETH": 471
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x178856990354b4df88b58dbfcdc034a84a84fd17",
@@ -36733,7 +36735,8 @@
         ],
         "holders": {
             "ETH": 49
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x183da1da3180cff7137e28bbdfd0e0c4312fc521",
@@ -36749,11 +36752,18 @@
             "firstcryptobank.capital"
         ],
         "telegram_groups": [
-            "PinkyNBrainErc20"
+            "ethvaulttrending",
+            "FirstBankETH",
+            "PinkyNBrainErc20",
+            "bankVolumeBot"
         ],
         "holders": {
             "ETH": 56
-        }
+        },
+        "emails": [
+            "hello@firstcryptobank.capital"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3fab0bbaa03bceaf7c49e2b12877db0142be65fc",
@@ -36769,11 +36779,19 @@
             "firstcryptobank.capital"
         ],
         "telegram_groups": [
-            "BahamasETH20"
+            "PinkyNBrainErc20",
+            "ethvaulttrending",
+            "FirstBankETH",
+            "BahamasETH20",
+            "bankVolumeBot"
         ],
         "holders": {
             "ETH": 296
-        }
+        },
+        "emails": [
+            "hello@firstcryptobank.capital"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5d63f734068264f2a65591d90672443376aae06e",
