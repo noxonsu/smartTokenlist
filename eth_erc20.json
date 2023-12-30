@@ -36959,5 +36959,122 @@
         "holders": {
             "ETH": 997
         }
+    },
+    {
+        "contract_address": "0xf033acbb2edd5a3da90855a5afff0fb7736f4dda",
+        "sourceScanned": "processed",
+        "emails": [
+            "support@hedgeup.io"
+        ],
+        "holders": {
+            "ETH": 1153
+        }
+    },
+    {
+        "contract_address": "0x92bd29a7dea8e5bfe4056992c6520b77b40af561",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "godzilla_ERC"
+        ],
+        "holders": {
+            "ETH": 322
+        }
+    },
+    {
+        "contract_address": "0x36ac219f90f5a6a3c77f2a7b660e3cc701f68e25",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 766
+        }
+    },
+    {
+        "contract_address": "0xa14d972c20a30ef4de3c9e0dbc55cb1353ddcf70",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0x7832eafa8a3c90459f1574cced381a1f5c2c9435",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fairdicebot.com"
+        ],
+        "holders": {
+            "ETH": 41
+        }
+    },
+    {
+        "contract_address": "0x0ca6bbdf3e7472331ce73780e299a7b1a298681b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1934
+        }
+    },
+    {
+        "contract_address": "0x081131434f93063751813c619ecca9c4dc7862a3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2773
+        }
+    },
+    {
+        "contract_address": "0x9f94b198ce85c19a846c2b1a4d523f40a747a850",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1559
+        }
+    },
+    {
+        "contract_address": "0xfbcfa3b88058d027e936bd0e67b5190179c78e60",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 86
+        }
+    },
+    {
+        "contract_address": "0x75f3e12d98368d52202c4c14b54424f894c2761c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0xd5bc75fe875e2234458957f88756a618c078760f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 395
+        }
+    },
+    {
+        "contract_address": "0x9e24415d1e549ebc626a13a482bb117a2b43e9cf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 722
+        }
+    },
+    {
+        "contract_address": "0x8a6d4c8735371ebaf8874fbd518b56edd66024eb",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blocks.io"
+        ],
+        "holders": {
+            "ETH": 4232
+        }
+    },
+    {
+        "contract_address": "0xe21dbad47244a42eab4a5b1575e30faaa0d62740",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xdae9ac61a495856721da4aefd2d1ee342cce9afa",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
     }
 ]
