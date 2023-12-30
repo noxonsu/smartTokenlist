@@ -37002,7 +37002,13 @@
         ],
         "holders": {
             "ETH": 41
-        }
+        },
+        "telegram_groups": [
+            "fairdice_bot",
+            "fairdice_bot_group",
+            "fairdice_cashier_bot"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0ca6bbdf3e7472331ce73780e299a7b1a298681b",
