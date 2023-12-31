@@ -38136,5 +38136,101 @@
         },
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xf406f7a9046793267bc276908778b29563323996",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fairmint.co"
+        ],
+        "holders": {
+            "ETH": 1377
+        }
+    },
+    {
+        "contract_address": "0xae61282f41f95ce2b914e6fd83ce4d8ab3c5c909",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x74f8ebeb20a0b5e900531d8105a0b947e29da60c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0xe873e375065ce4dd7f96a289f74f885509748fad",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 307
+        }
+    },
+    {
+        "contract_address": "0x9b06f3c5de42d4623d7a2bd940ec735103c68a76",
+        "sourceScanned": "processed",
+        "emails": [
+            "goncalo.sa@consensys.net"
+        ],
+        "holders": {
+            "ETH": 226
+        }
+    },
+    {
+        "contract_address": "0x12ed0641242e4c6c220e3ca8f616e9d5470ac99a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1293
+        }
+    },
+    {
+        "contract_address": "0xd3d13a578a53685b4ac36a1bab31912d2b2a2f36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 543
+        }
+    },
+    {
+        "contract_address": "0x9ba927a4e714afff67ed5edef2388b6bc44e0194",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0x4ed020b46097321fbb1c773048ddfc29ec856243",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 161
+        }
+    },
+    {
+        "contract_address": "0x000b486a692539bedba44b4d4578cea76edd40f0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "riskguard.pro"
+        ],
+        "telegram_groups": [
+            "riskguard_official"
+        ],
+        "holders": {
+            "ETH": 73
+        }
+    },
+    {
+        "contract_address": "0x39518c1b2e41847bc4ecb6e25c76911d3b2a75bd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 71
+        }
+    },
+    {
+        "contract_address": "0x0080428794a79a40ae03cf6e6c1d56bd5467a4a2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 37546
+        }
     }
 ]
