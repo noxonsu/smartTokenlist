@@ -38901,5 +38901,85 @@
         "holders": {
             "ETH": 14840
         }
+    },
+    {
+        "contract_address": "0xb8477eafe272c9edcd6c02edfceae3dcc054ab65",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 28
+        }
+    },
+    {
+        "contract_address": "0xdf41434ba46f6b66861198cae27f6e6e0ae272b2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "1piecetoken.io"
+        ],
+        "holders": {
+            "ETH": 243
+        }
+    },
+    {
+        "contract_address": "0x849c479d7a90eb378dbd00e8f166371176244eb1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 365
+        }
+    },
+    {
+        "contract_address": "0xdb7eab9ba6be88b869f738f6deeba96d49fe13fd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1731
+        }
+    },
+    {
+        "contract_address": "0xc6dddb5bc6e61e0841c54f3e723ae1f3a807260b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 20646
+        }
+    },
+    {
+        "contract_address": "0xebd54ad6c1d4b079bdc20ecf36dd29d1d76c9977",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 22
+        }
+    },
+    {
+        "contract_address": "0xb35811c1bedc6e062106d8cc341968b41a39f907",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 100
+        }
+    },
+    {
+        "contract_address": "0x968cbe62c830a0ccf4381614662398505657a2a9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 872
+        }
+    },
+    {
+        "contract_address": "0xb657b895b265c38c53fff00166cf7f6a3c70587d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x839e71613f9aa06e5701cf6de63e303616b0dde3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1345
+        }
+    },
+    {
+        "contract_address": "0x57d5f53cab3882edf7d2dd6f2e0d7b3300cccc98",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 395
+        }
     }
 ]
