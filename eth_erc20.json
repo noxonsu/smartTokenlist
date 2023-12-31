@@ -38527,7 +38527,8 @@
         ],
         "holders": {
             "ETH": 18
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x78bb94feab383cced39766a7d6cf31ded177ad0c",
@@ -38547,7 +38548,8 @@
         ],
         "holders": {
             "ETH": 215
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8bcbef61acd66537362f38167f11875134ffcd63",
@@ -38585,7 +38587,9 @@
         },
         "web_domains": [
             "nine-chronicles.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd5e37d52d462a882b0baec46c96d8b35b6bde455",
@@ -38619,7 +38623,8 @@
         ],
         "holders": {
             "ETH": 227
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x14f0606efc801c72d9e84daf662b864ff3cbb8a7",
@@ -38649,13 +38654,15 @@
         "contract_address": "0xce37721a09699c1217f108028b5b410c16c2c172",
         "sourceScanned": "processed",
         "telegram_groups": [
-            "xpad_group"
+            "xpad_group",
+            "exxpad_app"
         ],
         "holders": {
             "ETH": 38
         },
         "web_domains": [
             "exxpad.com"
-        ]
+        ],
+        "p6": true
     }
 ]
