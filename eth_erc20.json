@@ -39262,12 +39262,16 @@
             "goldfarm.io"
         ],
         "telegram_groups": [
-            "GoldFarmChat",
-            "goldfarmio"
+            "goldfarmio",
+            "GoldFarmChat"
         ],
         "holders": {
             "ETH": 409
-        }
+        },
+        "emails": [
+            "- \u10e0\u10d4\u10d9\u10da\u10d0\u10db\u10d0\u10d6\u10d4 \u10db\u10dd\u10d2\u10d5\u10ec\u10e0\u10d4\u10d7: ads@accnews.ge -"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4cd988afbad37289baaf53c13e98e2bd46aaea8c",
