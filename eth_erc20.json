@@ -38917,7 +38917,12 @@
         ],
         "holders": {
             "ETH": 243
-        }
+        },
+        "telegram_groups": [
+            "OnePieceTokenBot",
+            "OnePieceTokenEth"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x849c479d7a90eb378dbd00e8f166371176244eb1",
