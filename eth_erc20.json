@@ -38162,7 +38162,14 @@
         },
         "web_domains": [
             "btcx.io"
-        ]
+        ],
+        "telegram_groups": [
+            "btcx_token"
+        ],
+        "emails": [
+            "contact@btcx.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe873e375065ce4dd7f96a289f74f885509748fad",
@@ -38175,6 +38182,7 @@
         "contract_address": "0x9b06f3c5de42d4623d7a2bd940ec735103c68a76",
         "sourceScanned": "processed",
         "emails": [
+            "info@volta.club",
             "goncalo.sa@consensys.net"
         ],
         "holders": {
@@ -38182,7 +38190,9 @@
         },
         "web_domains": [
             "volta.club"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x12ed0641242e4c6c220e3ca8f616e9d5470ac99a",
@@ -38223,7 +38233,8 @@
         ],
         "holders": {
             "ETH": 73
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x39518c1b2e41847bc4ecb6e25c76911d3b2a75bd",
