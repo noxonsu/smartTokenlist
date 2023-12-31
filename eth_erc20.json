@@ -38077,13 +38077,15 @@
             "defiradar.tech"
         ],
         "telegram_groups": [
+            "DefiRadarAlerts",
             "DefiRadarPortal",
-            "defisentinelbot",
-            "DefiRadarAlerts"
+            "editbydenzel_portfolio",
+            "defisentinelbot"
         ],
         "holders": {
             "ETH": 192
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x192ac9602f33dfd2384ce6eb451e9fcbd17401e6",
@@ -38097,7 +38099,8 @@
         ],
         "holders": {
             "ETH": 94
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1794def9e8eb55fe9433057dd6ad4c7f4fe29df6",
@@ -38108,7 +38111,9 @@
         ],
         "holders": {
             "ETH": 177
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3ff3a210e57cfe679d9ad1e9ba6453a716c56a2e",
@@ -38124,6 +38129,8 @@
         ],
         "holders": {
             "ETH": 11
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     }
 ]
