@@ -38034,5 +38034,96 @@
         },
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x0ae055097c6d159879521c384f1d2123d1f195e6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8916
+        }
+    },
+    {
+        "contract_address": "0x7c70c754d6d357a3597114ec8206554ee5e17272",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 148
+        }
+    },
+    {
+        "contract_address": "0xa1450ac744d730e5d58a752dcf5ba0e9ec7bb8df",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 254
+        }
+    },
+    {
+        "contract_address": "0xcba78d126f0b1feda0c538bcaf4c852a7a171099",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 681
+        }
+    },
+    {
+        "contract_address": "0xb61de62f8a67d2405d0d0b96630bbc338ea535e4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 36
+        }
+    },
+    {
+        "contract_address": "0xe73d2faeeb9dec890c905b707b574627d5302cb3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "defiradar.tech"
+        ],
+        "telegram_groups": [
+            "DefiRadarPortal",
+            "defisentinelbot",
+            "DefiRadarAlerts"
+        ],
+        "holders": {
+            "ETH": 192
+        }
+    },
+    {
+        "contract_address": "0x192ac9602f33dfd2384ce6eb451e9fcbd17401e6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "web3saver.xyz",
+            "app.web3saver.xyz"
+        ],
+        "telegram_groups": [
+            "web3saver_official"
+        ],
+        "holders": {
+            "ETH": 94
+        }
+    },
+    {
+        "contract_address": "0x1794def9e8eb55fe9433057dd6ad4c7f4fe29df6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.tesladinerdriveineth.com",
+            "metadrop.com."
+        ],
+        "holders": {
+            "ETH": 177
+        }
+    },
+    {
+        "contract_address": "0x3ff3a210e57cfe679d9ad1e9ba6453a716c56a2e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi"
+        ],
+        "holders": {
+            "ETH": 11
+        }
     }
 ]
