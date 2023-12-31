@@ -38515,5 +38515,141 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0xdcf2e916d310749df7da31411a715797b5a0726e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.xpocky.com"
+        ],
+        "telegram_groups": [
+            "xpockyerc"
+        ],
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0x78bb94feab383cced39766a7d6cf31ded177ad0c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 40
+        }
+    },
+    {
+        "contract_address": "0xaaa686677e373f3f2332d286122136a7b6412b6b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mickeycoin.club"
+        ],
+        "telegram_groups": [
+            "MickeyCoinETH"
+        ],
+        "holders": {
+            "ETH": 215
+        }
+    },
+    {
+        "contract_address": "0x8bcbef61acd66537362f38167f11875134ffcd63",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1334
+        }
+    },
+    {
+        "contract_address": "0x07b34c7dde6645aff4bdb77fe313099a48f9ca38",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xe128190845c32eaca74f2cd6e5a615bc0baf412e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0x0018d5e01e53878f90feab02f1b2019a21adf8b1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 476
+        }
+    },
+    {
+        "contract_address": "0x41e4faea3e4d38d5439f373823c499ab56c0be7d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 42
+        }
+    },
+    {
+        "contract_address": "0xd5e37d52d462a882b0baec46c96d8b35b6bde455",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 38
+        }
+    },
+    {
+        "contract_address": "0xc072c3ebaf165955c5aad2dbb4293f771de6dbd3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 829
+        }
+    },
+    {
+        "contract_address": "0x19d4beb2bc410b80084fcbd0ac024326f4d3a370",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3053
+        }
+    },
+    {
+        "contract_address": "0x2584d6d45308ac4fc2eb4d32d2cde579cfda667a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "waltcoin.money"
+        ],
+        "telegram_groups": [
+            "waltcoin"
+        ],
+        "holders": {
+            "ETH": 227
+        }
+    },
+    {
+        "contract_address": "0x14f0606efc801c72d9e84daf662b864ff3cbb8a7",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Schmidhuberportal"
+        ],
+        "holders": {
+            "ETH": 53
+        }
+    },
+    {
+        "contract_address": "0x3f02bc4574e6e0bba58a7ce71fc13275cc65de63",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x23a5e3f2cd82165d51f8b2111e1809af8462cd48",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0xce37721a09699c1217f108028b5b410c16c2c172",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "xpad_group"
+        ],
+        "holders": {
+            "ETH": 38
+        }
     }
 ]
