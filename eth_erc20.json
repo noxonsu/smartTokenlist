@@ -39127,7 +39127,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 33
-        }
+        },
+        "web_domains": [
+            "www.bamboobamboo.com"
+        ]
     },
     {
         "contract_address": "0x584bc13c7d411c00c01a62e8019472de68768430",
