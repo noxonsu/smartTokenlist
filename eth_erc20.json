@@ -38343,7 +38343,9 @@
         "holders": {
             "ETH": 202
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x337bbe352a9283fc4a4e3c4aec2381d6bce15df0",
@@ -38358,7 +38360,9 @@
         "telegram_groups": [
             "streakcoin"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large12455"
     },
     {
         "contract_address": "0x021473b77788e9cdf8de0f1cd5f7b5f55a1e35d4",
