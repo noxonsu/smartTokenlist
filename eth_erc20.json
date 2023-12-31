@@ -38398,5 +38398,111 @@
         "holders": {
             "ETH": 3415
         }
+    },
+    {
+        "contract_address": "0xdd16ec0f66e54d453e6756713e533355989040e4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4535
+        }
+    },
+    {
+        "contract_address": "0x59ca7d5e6cf4e96bb416b3aacaabd67c024e3590",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x31fdd1c6607f47c14a2821f599211c67ac20fa96",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 968
+        }
+    },
+    {
+        "contract_address": "0xa91c82b6933105c23298e631a0c1be751d239162",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tokenmint.io"
+        ],
+        "holders": {
+            "ETH": 150
+        }
+    },
+    {
+        "contract_address": "0xe23905ae849b0f03795e70aeef3db07d100d4aa6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0xe723e6991ee21b1aef9ea5e3cf7f75b659d7c9dd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 34
+        }
+    },
+    {
+        "contract_address": "0xeef16fcd0b656c5bd7558f326122f64dbda6911b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 447
+        }
+    },
+    {
+        "contract_address": "0xf2b2f7b47715256ce4ea43363a867fdce9353e3a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1520
+        }
+    },
+    {
+        "contract_address": "0x770cbfff3c47134a878d513921ac59a1fd24e514",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x027385b5ec5017daefbbc8f08822fbf6d09b63dc",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "neonest.finance"
+        ],
+        "telegram_groups": [
+            "neonestportal"
+        ],
+        "holders": {
+            "ETH": 60
+        }
+    },
+    {
+        "contract_address": "0x3893b9422cd5d70a81edeffe3d5a1c6a978310bb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 40010
+        }
+    },
+    {
+        "contract_address": "0x41a858ff41afd2a4ab1887b08bfef2a1f8cf072a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0x5e8555b1c35654082e823d4d339ed539c56b8f91",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "TSBOCXG6900DOGE.com"
+        ],
+        "telegram_groups": [
+            "TickerIsElon"
+        ],
+        "holders": {
+            "ETH": 145
+        }
     }
 ]
