@@ -38672,5 +38672,101 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Chat is too large28383"
+    },
+    {
+        "contract_address": "0x86c7efffc54a9e7b4342356a5fcad80adcaa0a69",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "1000xtrades.io"
+        ],
+        "telegram_groups": [
+            "thousandxtrades"
+        ],
+        "holders": {
+            "ETH": 1035
+        }
+    },
+    {
+        "contract_address": "0x307cf3b270e4e8cc35cb0ab46fac01329477977d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 102
+        }
+    },
+    {
+        "contract_address": "0x356e17967206efb413b60ab0ba44e269063a26c9",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "OCISLYERC"
+        ],
+        "holders": {
+            "ETH": 2032
+        }
+    },
+    {
+        "contract_address": "0x903bef1736cddf2a537176cf3c64579c3867a881",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1501
+        }
+    },
+    {
+        "contract_address": "0x70605a6457b0a8fbf1eee896911895296eab467e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 212
+        }
+    },
+    {
+        "contract_address": "0x8c15ef5b4b21951d50e53e4fbda8298ffad25057",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6520
+        }
+    },
+    {
+        "contract_address": "0xa3abdb46a53a862e77c70d4bf7afbf1143d52c8e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 163
+        }
+    },
+    {
+        "contract_address": "0xde2bef0a01845257b4aef2a2eaa48f6eaeafa8b7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 586
+        }
+    },
+    {
+        "contract_address": "0xae134436940ac4e19fe9f07e2858b95e16ba296b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 22
+        }
+    },
+    {
+        "contract_address": "0xefd7c7755f79382326be413d234a8b70610471dd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1356
+        }
+    },
+    {
+        "contract_address": "0x84802079fde7658f9d0969810693a2fa1870eedf",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.goofballgang.com"
+        ],
+        "holders": {
+            "ETH": 578
+        }
+    },
+    {
+        "contract_address": "0xed320c9060e0e08124d031a32cc329c48efd5db4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
     }
 ]
