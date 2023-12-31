@@ -38169,7 +38169,9 @@
         "emails": [
             "contact@btcx.io"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xe873e375065ce4dd7f96a289f74f885509748fad",
@@ -38234,7 +38236,9 @@
         "holders": {
             "ETH": 73
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x39518c1b2e41847bc4ecb6e25c76911d3b2a75bd",
