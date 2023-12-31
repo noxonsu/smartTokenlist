@@ -38528,7 +38528,9 @@
         "holders": {
             "ETH": 18
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x78bb94feab383cced39766a7d6cf31ded177ad0c",
@@ -38549,7 +38551,9 @@
         "holders": {
             "ETH": 215
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x8bcbef61acd66537362f38167f11875134ffcd63",
@@ -38624,7 +38628,9 @@
         "holders": {
             "ETH": 227
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x14f0606efc801c72d9e84daf662b864ff3cbb8a7",
@@ -38663,6 +38669,8 @@
         "web_domains": [
             "exxpad.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large28383"
     }
 ]
