@@ -38159,7 +38159,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 18
-        }
+        },
+        "web_domains": [
+            "btcx.io"
+        ]
     },
     {
         "contract_address": "0xe873e375065ce4dd7f96a289f74f885509748fad",
@@ -38176,7 +38179,10 @@
         ],
         "holders": {
             "ETH": 226
-        }
+        },
+        "web_domains": [
+            "volta.club"
+        ]
     },
     {
         "contract_address": "0x12ed0641242e4c6c220e3ca8f616e9d5470ac99a",
