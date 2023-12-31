@@ -38582,7 +38582,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 42
-        }
+        },
+        "web_domains": [
+            "nine-chronicles.com"
+        ]
     },
     {
         "contract_address": "0xd5e37d52d462a882b0baec46c96d8b35b6bde455",
@@ -38650,6 +38653,9 @@
         ],
         "holders": {
             "ETH": 38
-        }
+        },
+        "web_domains": [
+            "exxpad.com"
+        ]
     }
 ]
