@@ -38768,5 +38768,131 @@
         "holders": {
             "ETH": 4
         }
+    },
+    {
+        "contract_address": "0x28f77208728b0a45cab24c4868334581fe86f95b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "developer.offchainlabs.com"
+        ],
+        "holders": {
+            "ETH": 1568
+        }
+    },
+    {
+        "contract_address": "0x8ee325ae3e54e83956ef2d5952d3c8bc1fa6ec27",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2244
+        }
+    },
+    {
+        "contract_address": "0x2dd932714dc440d366581da0d8e1c5694bd9d108",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 40
+        }
+    },
+    {
+        "contract_address": "0xcb7a5e6da7ae2950cd9efdc8980829d0bd699456",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "yearofthedragon.pro"
+        ],
+        "telegram_groups": [
+            "jiaolongERC"
+        ],
+        "holders": {
+            "ETH": 251
+        }
+    },
+    {
+        "contract_address": "0x7d0c49057c09501595a8ce23b773bb36a40b521f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1281
+        }
+    },
+    {
+        "contract_address": "0xc7e6b676bfc73ae40bcc4577f22aab1682c691c6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xb5d730d442e1d5b119fb4e5c843c48a64202ef92",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 313
+        }
+    },
+    {
+        "contract_address": "0x2598c30330d5771ae9f983979209486ae26de875",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 197
+        }
+    },
+    {
+        "contract_address": "0x7340ea46360576dc46ef49bce99bc5072c32421d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dollarsqueeze.io"
+        ],
+        "telegram_groups": [
+            "DollarSqueeze"
+        ],
+        "holders": {
+            "ETH": 1032
+        }
+    },
+    {
+        "contract_address": "0x735bcca2af1943466871b2cdf8bd609c57f0d7a5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "matmo.cc"
+        ],
+        "telegram_groups": [
+            "MatmoChain"
+        ],
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0xacfa209fb73bf3dd5bbfb1101b9bc999c49062a5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1152
+        }
+    },
+    {
+        "contract_address": "0xb140a429c342083e97daf42d5d82634bd7ade7d4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 195
+        }
+    },
+    {
+        "contract_address": "0xb4058411967d5046f3510943103805be61f0600e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 833
+        }
+    },
+    {
+        "contract_address": "0x8d96b4ab6c741a4c8679ae323a100d74f085ba8f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10157
+        }
+    },
+    {
+        "contract_address": "0x4dd942baa75810a3c1e876e79d5cd35e09c97a76",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 14840
+        }
     }
 ]
