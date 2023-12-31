@@ -38804,7 +38804,8 @@
         ],
         "holders": {
             "ETH": 251
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7d0c49057c09501595a8ce23b773bb36a40b521f",
@@ -38854,11 +38855,13 @@
             "matmo.cc"
         ],
         "telegram_groups": [
+            "matmochain_I",
             "MatmoChain"
         ],
         "holders": {
             "ETH": 19
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xacfa209fb73bf3dd5bbfb1101b9bc999c49062a5",
