@@ -38428,7 +38428,9 @@
         ],
         "holders": {
             "ETH": 150
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe23905ae849b0f03795e70aeef3db07d100d4aa6",
@@ -38476,7 +38478,8 @@
         ],
         "holders": {
             "ETH": 60
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3893b9422cd5d70a81edeffe3d5a1c6a978310bb",
@@ -38503,6 +38506,10 @@
         ],
         "holders": {
             "ETH": 145
-        }
+        },
+        "emails": [
+            " TickerIsElon@hotmail.com"
+        ],
+        "p6": true
     }
 ]
