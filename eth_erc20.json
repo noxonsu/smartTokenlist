@@ -39080,5 +39080,111 @@
         "holders": {
             "ETH": 3036
         }
+    },
+    {
+        "contract_address": "0xbbff862d906e348e9946bfb2132ecb157da3d4b4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.apache.org"
+        ],
+        "emails": [
+            "xy@sharder.org",
+            "parrin@protonmail.com"
+        ],
+        "holders": {
+            "ETH": 4713
+        }
+    },
+    {
+        "contract_address": "0xb4efd85c19999d84251304bda99e90b92300bd93",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.rocketpool.net"
+        ],
+        "holders": {
+            "ETH": 8477
+        }
+    },
+    {
+        "contract_address": "0x887168120cb89fb06f3e74dc4af20d67df0977f6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tokenmint.io"
+        ],
+        "holders": {
+            "ETH": 2928
+        }
+    },
+    {
+        "contract_address": "0xd4fcfe6cabc4dd1dd1a5f74a06e8af42f17e8366",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 969
+        }
+    },
+    {
+        "contract_address": "0x8c25fd693e858873c3c51f96b8c315553fb3a276",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0x584bc13c7d411c00c01a62e8019472de68768430",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8916
+        }
+    },
+    {
+        "contract_address": "0x389999216860ab8e0175387a0c90e5c52522c945",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 90651
+        }
+    },
+    {
+        "contract_address": "0xfdf674d96c80e724bede24bc2813372771054489",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "half-inch-peter.com"
+        ],
+        "telegram_groups": [
+            "Half_Inch_Peter"
+        ],
+        "holders": {
+            "ETH": 236
+        }
+    },
+    {
+        "contract_address": "0xf0a8c5ee561fc68159c0a8d4f9de5668bf79818b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x79eda1ef29fa35282c3166444353301f1608020e",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "AskPEP"
+        ],
+        "holders": {
+            "ETH": 455
+        }
+    },
+    {
+        "contract_address": "0x0d86eb9f43c57f6ff3bc9e23d8f9d82503f0e84b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5112
+        }
+    },
+    {
+        "contract_address": "0xac8e13ecc30da7ff04b842f21a62a1fb0f10ebd5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19618
+        }
     }
 ]
