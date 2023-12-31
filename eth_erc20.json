@@ -39197,5 +39197,96 @@
         "holders": {
             "ETH": 19618
         }
+    },
+    {
+        "contract_address": "0x8d3e855f3f55109d473735ab76f753218400fe96",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tokenmint.io"
+        ],
+        "holders": {
+            "ETH": 1084
+        }
+    },
+    {
+        "contract_address": "0x98262c631f533ae43b9f21d1d5e79fb6ae629da3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0x1341a2257fa7b770420ef70616f888056f90926c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zootoken.io",
+            "www.reddit.com"
+        ],
+        "telegram_groups": [
+            "zootokenchat"
+        ],
+        "holders": {
+            "ETH": 18768
+        }
+    },
+    {
+        "contract_address": "0xa68dd8cb83097765263adad881af6eed479c4a33",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fees.wtf",
+            "www.w3.org",
+            "accu.org"
+        ],
+        "holders": {
+            "ETH": 21070
+        }
+    },
+    {
+        "contract_address": "0x5eb1d37ae4ce0dcf2ac3f6f64c53ce7bedeb6a49",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 316
+        }
+    },
+    {
+        "contract_address": "0xd2dd9ae2efdcf2ac638a5865b0b76790ed62a97e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1588
+        }
+    },
+    {
+        "contract_address": "0xf1b8762a7fa8c244e36f7234edf40cfae24394e3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "goldfarm.io"
+        ],
+        "telegram_groups": [
+            "GoldFarmChat",
+            "goldfarmio"
+        ],
+        "holders": {
+            "ETH": 409
+        }
+    },
+    {
+        "contract_address": "0x4cd988afbad37289baaf53c13e98e2bd46aaea8c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 29339
+        }
+    },
+    {
+        "contract_address": "0xdb25f211ab05b1c97d595516f45794528a807ad8",
+        "sourceScanned": "processed",
+        "emails": [
+            "tech@stasis.net",
+            "tech@stasis.net",
+            "tech@stasis.net",
+            "tech@stasis.net"
+        ],
+        "holders": {
+            "ETH": 5023
+        }
     }
 ]
