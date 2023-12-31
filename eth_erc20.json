@@ -38922,7 +38922,9 @@
             "OnePieceTokenBot",
             "OnePieceTokenEth"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: The chat_id \"OnePieceTokenBot\" belongs to a user"
     },
     {
         "contract_address": "0x849c479d7a90eb378dbd00e8f166371176244eb1",
