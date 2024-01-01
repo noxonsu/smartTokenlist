@@ -39857,7 +39857,9 @@
         "holders": {
             "ETH": 32
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large190673"
     },
     {
         "contract_address": "0xec6d73557937974077911a0b6fdc436b0ff70296",
@@ -39875,7 +39877,9 @@
         "emails": [
             "bimpus@skrimples.ai"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x31555696dd1242b2ab67b9a53b6465c814502f2c",
@@ -39899,7 +39903,9 @@
         "telegram_groups": [
             "duelnetwork"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large5339"
     },
     {
         "contract_address": "0x20945ca1df56d237fd40036d47e866c7dccd2114",
