@@ -40454,7 +40454,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 7
-        }
+        },
+        "web_domains": [
+            "avanteaxt.org"
+        ]
     },
     {
         "contract_address": "0x5af4a527acbe61383a2d480baff08d2c75e999a7",
