@@ -40370,7 +40370,8 @@
         ],
         "holders": {
             "ETH": 339
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9b73ff728d7d4a423e2166a8dfaa1e79d30cdde9",
@@ -40381,7 +40382,9 @@
         ],
         "holders": {
             "ETH": 151
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6f3c0d29e27bd76b45063ec6f4641f07f260ae5a",
@@ -40447,7 +40450,15 @@
         ],
         "holders": {
             "ETH": 385
-        }
+        },
+        "telegram_groups": [
+            "shortdick_the_crypto_anarchist",
+            "YODerc"
+        ],
+        "emails": [
+            "info@year-of-dragon.website"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5c1ac4e697a2814812a284509e1f1b8aa34a25f3",
@@ -40457,7 +40468,11 @@
         },
         "web_domains": [
             "avanteaxt.org"
-        ]
+        ],
+        "telegram_groups": [
+            "avante_axt"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5af4a527acbe61383a2d480baff08d2c75e999a7",
