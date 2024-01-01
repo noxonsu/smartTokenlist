@@ -39822,5 +39822,107 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0x256d1fce1b1221e8398f65f9b36033ce50b2d497",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1195
+        }
+    },
+    {
+        "contract_address": "0x24e3794605c84e580eea4972738d633e8a7127c8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1323
+        }
+    },
+    {
+        "contract_address": "0xdde00868c7cf33dd346850adfaf93a96c6a2cca4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 28
+        }
+    },
+    {
+        "contract_address": "0xb3b40eb4db24bafa3b993437bade94f6c7d10492",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "matmo.cc"
+        ],
+        "telegram_groups": [
+            "MatmoChain"
+        ],
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0xec6d73557937974077911a0b6fdc436b0ff70296",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "skrimples.ai"
+        ],
+        "telegram_groups": [
+            "Skrimples"
+        ],
+        "holders": {
+            "ETH": 305
+        }
+    },
+    {
+        "contract_address": "0x31555696dd1242b2ab67b9a53b6465c814502f2c",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "KevinTokenPortal"
+        ],
+        "holders": {
+            "ETH": 1183
+        }
+    },
+    {
+        "contract_address": "0x84a6b2d908caefbb8b13d08b21152977668150a2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0x20945ca1df56d237fd40036d47e866c7dccd2114",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2826
+        }
+    },
+    {
+        "contract_address": "0x7355b029fbe7a1632e6ba6d2f426544244e66cfa",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "SHIPEeth"
+        ],
+        "holders": {
+            "ETH": 85
+        }
+    },
+    {
+        "contract_address": "0x05861e34618ea54fc568a55db222194864f21706",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0xb79565c01b7ae53618d9b847b9443aaf4f9011e7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 67
+        }
+    },
+    {
+        "contract_address": "0xa34ee6108fe427f91edce0d6520d9fec0e64f67b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 375
+        }
     }
 ]
