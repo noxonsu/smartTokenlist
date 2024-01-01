@@ -40150,7 +40150,12 @@
         ],
         "holders": {
             "ETH": 5
-        }
+        },
+        "telegram_groups": [],
+        "emails": [
+            "mail@bossblockchain.world"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xef732cd262076e3cec7a1d4e96b052d57b383e69",
@@ -40167,7 +40172,9 @@
         ],
         "holders": {
             "ETH": 8
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3667362c4b666b952383edbe12fc9cc108d09cd7",
@@ -40183,7 +40190,9 @@
         ],
         "holders": {
             "ETH": 1
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xeda2fec6953b90aa163c2737aef9a731b44ce17b",
@@ -40194,7 +40203,9 @@
         ],
         "holders": {
             "ETH": 8
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf0e71959e69bad0698c2e37d66018f7f8bba3641",
