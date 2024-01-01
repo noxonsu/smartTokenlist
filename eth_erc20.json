@@ -39605,7 +39605,9 @@
         "holders": {
             "ETH": 44
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x8ab092faae92f693be120c9f6a491fc31026915a",
@@ -39627,7 +39629,9 @@
         "holders": {
             "ETH": 28
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large199848"
     },
     {
         "contract_address": "0x0cba60ca5ef4d42f92a5070a8fedd13be93e2861",
@@ -39689,7 +39693,9 @@
         "emails": [
             "mmm1928@proton.me"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xb9802331d88c8dcfe44a31858c13e2e69cbeea5a",
@@ -39713,7 +39719,9 @@
         "emails": [
             "email: support@rastakitty.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x9ea3b5b4ec044b70375236a281986106457b20ef",
@@ -39748,7 +39756,9 @@
         "telegram_groups": [
             "PLAYNITY"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large2807"
     },
     {
         "contract_address": "0x8f901ebf65d0bc48a20496f76cd3e4a8661edbf7",
@@ -39808,6 +39818,8 @@
         "emails": [
             "Contact Us: team@motherofdragons.vip"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     }
 ]
