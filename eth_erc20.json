@@ -39480,7 +39480,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 7
-        }
+        },
+        "web_domains": [
+            "solana.com"
+        ]
     },
     {
         "contract_address": "0x3f01cb96267c4f9346296698ae7339b11cb123ee",
@@ -39557,6 +39560,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 56
-        }
+        },
+        "web_domains": [
+            "www.gyatcoinerc.com"
+        ]
     }
 ]
