@@ -37473,8 +37473,8 @@
             "matmo.cc"
         ],
         "telegram_groups": [
-            "matmochain_I",
-            "MatmoChain"
+            "MatmoChain",
+            "matmochain_I"
         ],
         "holders": {
             "ETH": 11
@@ -38857,8 +38857,8 @@
             "matmo.cc"
         ],
         "telegram_groups": [
-            "matmochain_I",
-            "MatmoChain"
+            "MatmoChain",
+            "matmochain_I"
         ],
         "holders": {
             "ETH": 19
@@ -39604,7 +39604,8 @@
         ],
         "holders": {
             "ETH": 44
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8ab092faae92f693be120c9f6a491fc31026915a",
@@ -39620,11 +39621,13 @@
             "matmo.cc"
         ],
         "telegram_groups": [
-            "MatmoChain"
+            "MatmoChain",
+            "matmochain_I"
         ],
         "holders": {
             "ETH": 28
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0cba60ca5ef4d42f92a5070a8fedd13be93e2861",
@@ -39648,7 +39651,9 @@
         },
         "web_domains": [
             "sillydragon.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xdc50030606fcfcb6e9fcc13d348c3370d7389747",
@@ -39658,7 +39663,9 @@
         },
         "web_domains": [
             "nftscan.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9e78b8274e1d6a76a0dbbf90418894df27cbceb5",
@@ -39675,7 +39682,14 @@
         ],
         "holders": {
             "ETH": 247
-        }
+        },
+        "telegram_groups": [
+            "TheMousetrapOfficial"
+        ],
+        "emails": [
+            "mmm1928@proton.me"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb9802331d88c8dcfe44a31858c13e2e69cbeea5a",
@@ -39695,7 +39709,11 @@
         ],
         "holders": {
             "ETH": 448
-        }
+        },
+        "emails": [
+            "email: support@rastakitty.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9ea3b5b4ec044b70375236a281986106457b20ef",
