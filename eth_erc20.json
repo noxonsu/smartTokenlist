@@ -40489,5 +40489,93 @@
         "holders": {
             "ETH": 289
         }
+    },
+    {
+        "contract_address": "0x265ffbd49dd4daae3226e2325dd04c15245a1e33",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "whitepaper.stealthbotai.com",
+            "www.stealthbotai.com"
+        ],
+        "telegram_groups": [
+            "StealthBotAi",
+            "StealthAIBot"
+        ],
+        "holders": {
+            "ETH": 468
+        }
+    },
+    {
+        "contract_address": "0xd583270f8b5eb833961c93223786803bbb402884",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 735
+        }
+    },
+    {
+        "contract_address": "0x6291d951c5d68f47ed346042e2f86a94c253bec4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 971
+        }
+    },
+    {
+        "contract_address": "0xb66f07d7bf1f048ea0600b3e6eb480eda951392a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1766
+        }
+    },
+    {
+        "contract_address": "0x4277d9ef01fe530d453a1c310a77315fad3f1d24",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 457
+        }
+    },
+    {
+        "contract_address": "0x2a46f2ffd99e19a89476e2f62270e0a35bbf0756",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fravoll.github.io"
+        ],
+        "holders": {
+            "ETH": 11593
+        }
+    },
+    {
+        "contract_address": "0x3b59b5fb5218d4d26cf1d6f176c3f4bd3c5b4250",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.battlestellaris.com",
+            "docs.battlestellaris.com"
+        ],
+        "telegram_groups": [
+            "battlestellaris",
+            "battlestellarisbot"
+        ],
+        "holders": {
+            "ETH": 82
+        }
+    },
+    {
+        "contract_address": "0x202458d044432499698a2da02c599f859c146d7a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bull2024inu.xyz"
+        ],
+        "telegram_groups": [
+            "Bull2024inu"
+        ],
+        "holders": {
+            "ETH": 252
+        }
+    },
+    {
+        "contract_address": "0x138575b119aafeb4c6880999aab8b10c32140e96",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 34
+        }
     }
 ]
