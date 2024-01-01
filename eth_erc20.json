@@ -40260,7 +40260,8 @@
         ],
         "holders": {
             "ETH": 318
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3169477a0baa3ec0200568cac7385e49dcd51795",
@@ -40284,7 +40285,12 @@
         },
         "web_domains": [
             "quadency.com"
-        ]
+        ],
+        "telegram_groups": [
+            "joinchat",
+            "quadency"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x728b3f6a79f226bc2108d21abd9b455d679ef725",
@@ -40307,11 +40313,13 @@
             "www.stonederc20.xyz"
         ],
         "telegram_groups": [
-            "StonedERC20"
+            "StonedERC20",
+            "stonedexpress_bot"
         ],
         "holders": {
             "ETH": 331
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0b0a8c7c34374c1d0c649917a97eee6c6c929b1b",
