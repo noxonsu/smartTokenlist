@@ -40107,5 +40107,114 @@
         "holders": {
             "ETH": 8
         }
+    },
+    {
+        "contract_address": "0xcae3faa4b6cf660aef18474074949ba0948bc025",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3450
+        }
+    },
+    {
+        "contract_address": "0xc321bf502c03d9e26eabf3afa6574efc4d6fecf0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 360
+        }
+    },
+    {
+        "contract_address": "0x9a0c8ff858d273f57072d714bca7411d717501d7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4776
+        }
+    },
+    {
+        "contract_address": "0xcc779bbbd17b2e68ecdccaea3d8c791b1573c66b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "Fetchtoken.org"
+        ],
+        "telegram_groups": [
+            "fetchjoin"
+        ],
+        "holders": {
+            "ETH": 711
+        }
+    },
+    {
+        "contract_address": "0xf96838dfb201f21caac63506af471ba222f37338",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.bossblockchain.world"
+        ],
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0xef732cd262076e3cec7a1d4e96b052d57b383e69",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 260
+        }
+    },
+    {
+        "contract_address": "0x9536c528d9e3f12586ea3e8f624dacb8150b22aa",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "code4rena.com"
+        ],
+        "holders": {
+            "ETH": 8
+        }
+    },
+    {
+        "contract_address": "0x3667362c4b666b952383edbe12fc9cc108d09cd7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hackmd.io",
+            "tinyurl.com",
+            "tinyurl.com",
+            "hackmd.io",
+            "hackmd.io",
+            "hackmd.io",
+            "hackmd.io"
+        ],
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xeda2fec6953b90aa163c2737aef9a731b44ce17b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hackmd.io",
+            "code4rena.com"
+        ],
+        "holders": {
+            "ETH": 8
+        }
+    },
+    {
+        "contract_address": "0xf0e71959e69bad0698c2e37d66018f7f8bba3641",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2280
+        }
+    },
+    {
+        "contract_address": "0x67e14ee0d63aea69869699671d097ff889a9f99a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 70
+        }
+    },
+    {
+        "contract_address": "0x33098883449ebeb8e233dd157f8fe51c664decb3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
     }
 ]
