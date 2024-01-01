@@ -40227,5 +40227,94 @@
         "holders": {
             "ETH": 0
         }
+    },
+    {
+        "contract_address": "0xa16218fbada83d2d299b57a88362abd91f11ab56",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 163
+        }
+    },
+    {
+        "contract_address": "0xa15c7ebe1f07caf6bff097d8a589fb8ac49ae5b3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 68128
+        }
+    },
+    {
+        "contract_address": "0x6243d8cea23066d098a15582d81a598b4e8391f4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3672
+        }
+    },
+    {
+        "contract_address": "0x1eb2e705653fc9c076bf0428851c54c38e40462f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hpowsb10i.com"
+        ],
+        "telegram_groups": [
+            "hpowsb10i"
+        ],
+        "holders": {
+            "ETH": 318
+        }
+    },
+    {
+        "contract_address": "0x3169477a0baa3ec0200568cac7385e49dcd51795",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0xcb94be6f13a1182e4a4b6140cb7bf2025d28e41b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7860
+        }
+    },
+    {
+        "contract_address": "0xab2a7b5876d707e0126b3a75ef7781c77c8877ee",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 266
+        }
+    },
+    {
+        "contract_address": "0x728b3f6a79f226bc2108d21abd9b455d679ef725",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 776
+        }
+    },
+    {
+        "contract_address": "0x36ff4dae0e88113d68b1209e245b0e3af92e9d58",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2497
+        }
+    },
+    {
+        "contract_address": "0x8d85b9553896bd8159e608cb958628e01ed10916",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.stonederc20.xyz"
+        ],
+        "telegram_groups": [
+            "StonedERC20"
+        ],
+        "holders": {
+            "ETH": 331
+        }
+    },
+    {
+        "contract_address": "0x0b0a8c7c34374c1d0c649917a97eee6c6c929b1b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3286
+        }
     }
 ]
