@@ -39744,7 +39744,11 @@
         },
         "web_domains": [
             "playnity.io"
-        ]
+        ],
+        "telegram_groups": [
+            "PLAYNITY"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8f901ebf65d0bc48a20496f76cd3e4a8661edbf7",
@@ -39785,7 +39789,9 @@
         ],
         "holders": {
             "ETH": 117
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xea9e2d76c787a8f2b7e521832784c54c4cec5a74",
@@ -39798,6 +39804,10 @@
         ],
         "holders": {
             "ETH": 204
-        }
+        },
+        "emails": [
+            "Contact Us: team@motherofdragons.vip"
+        ],
+        "p6": true
     }
 ]
