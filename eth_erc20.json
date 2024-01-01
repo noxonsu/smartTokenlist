@@ -37473,8 +37473,8 @@
             "matmo.cc"
         ],
         "telegram_groups": [
-            "MatmoChain",
-            "matmochain_I"
+            "matmochain_I",
+            "MatmoChain"
         ],
         "holders": {
             "ETH": 11
@@ -38857,8 +38857,8 @@
             "matmo.cc"
         ],
         "telegram_groups": [
-            "MatmoChain",
-            "matmochain_I"
+            "matmochain_I",
+            "MatmoChain"
         ],
         "holders": {
             "ETH": 19
@@ -39623,8 +39623,8 @@
             "matmo.cc"
         ],
         "telegram_groups": [
-            "MatmoChain",
-            "matmochain_I"
+            "matmochain_I",
+            "MatmoChain"
         ],
         "holders": {
             "ETH": 28
@@ -39851,11 +39851,13 @@
             "matmo.cc"
         ],
         "telegram_groups": [
+            "matmochain_I",
             "MatmoChain"
         ],
         "holders": {
             "ETH": 32
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xec6d73557937974077911a0b6fdc436b0ff70296",
@@ -39864,11 +39866,16 @@
             "skrimples.ai"
         ],
         "telegram_groups": [
+            "skrimples_ai",
             "Skrimples"
         ],
         "holders": {
             "ETH": 305
-        }
+        },
+        "emails": [
+            "bimpus@skrimples.ai"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x31555696dd1242b2ab67b9a53b6465c814502f2c",
@@ -39888,7 +39895,11 @@
         },
         "web_domains": [
             "www.duel.network"
-        ]
+        ],
+        "telegram_groups": [
+            "duelnetwork"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x20945ca1df56d237fd40036d47e866c7dccd2114",
