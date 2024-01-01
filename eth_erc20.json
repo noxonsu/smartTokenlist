@@ -39592,5 +39592,185 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0xa7a53ddd7454da06fb8a9bfec784dd3c750a0b5c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "omeglecoin.vip"
+        ],
+        "telegram_groups": [
+            "OmegleCoin"
+        ],
+        "holders": {
+            "ETH": 44
+        }
+    },
+    {
+        "contract_address": "0x8ab092faae92f693be120c9f6a491fc31026915a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x387694028a182ec56778841ea9fdfbe862f9de88",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "matmo.cc"
+        ],
+        "telegram_groups": [
+            "MatmoChain"
+        ],
+        "holders": {
+            "ETH": 28
+        }
+    },
+    {
+        "contract_address": "0x0cba60ca5ef4d42f92a5070a8fedd13be93e2861",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4908
+        }
+    },
+    {
+        "contract_address": "0xf762b84392b85fae1efac51f6841d8a57febbb60",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 183
+        }
+    },
+    {
+        "contract_address": "0xc2099171aebddaa05418a4fbf4f79e3a9a3a4297",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 157
+        }
+    },
+    {
+        "contract_address": "0xdc50030606fcfcb6e9fcc13d348c3370d7389747",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 52
+        }
+    },
+    {
+        "contract_address": "0x9e78b8274e1d6a76a0dbbf90418894df27cbceb5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 896
+        }
+    },
+    {
+        "contract_address": "0xe57a26f5a007968f0fca7a156333bf082841e94d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mickey.meme"
+        ],
+        "holders": {
+            "ETH": 247
+        }
+    },
+    {
+        "contract_address": "0xb9802331d88c8dcfe44a31858c13e2e69cbeea5a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 22
+        }
+    },
+    {
+        "contract_address": "0x19dd1cc08a8bdb124a3f57a364f1d72b7a19c3ef",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "rastakitty.com"
+        ],
+        "telegram_groups": [
+            "RastaKittyPortal"
+        ],
+        "holders": {
+            "ETH": 448
+        }
+    },
+    {
+        "contract_address": "0x9ea3b5b4ec044b70375236a281986106457b20ef",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4603
+        }
+    },
+    {
+        "contract_address": "0x20a8cec5fffea65be7122bcab2ffe32ed4ebf03a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1651
+        }
+    },
+    {
+        "contract_address": "0x9af951de67ff9c31b431ae1e638ae14e6d77d90f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 107
+        }
+    },
+    {
+        "contract_address": "0x20d60c6eb195868d4643f2c9b0809e4de6cc003d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 43
+        }
+    },
+    {
+        "contract_address": "0x8f901ebf65d0bc48a20496f76cd3e4a8661edbf7",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "lfg2024erc"
+        ],
+        "holders": {
+            "ETH": 359
+        }
+    },
+    {
+        "contract_address": "0xc6d1f1d5a46de07e73091f1c8793293b203f01a1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2800
+        }
+    },
+    {
+        "contract_address": "0x649d58fd8fa2361535c159013728fcbec016da4a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2637
+        }
+    },
+    {
+        "contract_address": "0xc719d010b63e5bbf2c0551872cd5316ed26acd83",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6196
+        }
+    },
+    {
+        "contract_address": "0xbbf25513bec43576fda08ce61deec1d48fd662e8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "meditoken.org"
+        ],
+        "holders": {
+            "ETH": 117
+        }
+    },
+    {
+        "contract_address": "0xea9e2d76c787a8f2b7e521832784c54c4cec5a74",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "motherofdragons.vip"
+        ],
+        "telegram_groups": [
+            "OfficialMotherOfDragons"
+        ],
+        "holders": {
+            "ETH": 204
+        }
     }
 ]
