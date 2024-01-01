@@ -40281,7 +40281,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 266
-        }
+        },
+        "web_domains": [
+            "quadency.com"
+        ]
     },
     {
         "contract_address": "0x728b3f6a79f226bc2108d21abd9b455d679ef725",
