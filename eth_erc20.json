@@ -40261,7 +40261,9 @@
         "holders": {
             "ETH": 318
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x3169477a0baa3ec0200568cac7385e49dcd51795",
@@ -40290,7 +40292,9 @@
             "joinchat",
             "quadency"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't find chat"
     },
     {
         "contract_address": "0x728b3f6a79f226bc2108d21abd9b455d679ef725",
@@ -40319,7 +40323,9 @@
         "holders": {
             "ETH": 331
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x0b0a8c7c34374c1d0c649917a97eee6c6c929b1b",
