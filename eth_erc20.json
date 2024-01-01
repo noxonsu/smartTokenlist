@@ -39426,7 +39426,8 @@
         ],
         "holders": {
             "ETH": 104
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x136ad6ca4aeeb31e67535ef8af005f44f0e6de40",
@@ -39452,7 +39453,8 @@
         ],
         "holders": {
             "ETH": 156
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd2e7a791439886f2f6173f5605fc0ae486e1b1fe",
@@ -39483,7 +39485,9 @@
         },
         "web_domains": [
             "solana.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3f01cb96267c4f9346296698ae7339b11cb123ee",
@@ -39498,7 +39502,11 @@
         ],
         "holders": {
             "ETH": 119
-        }
+        },
+        "emails": [
+            "iamsogayithurtsmy@pussynoodle.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdb62ec5bd3804b234463a4cee4807d99ae12ad86",
@@ -39542,11 +39550,17 @@
             "investclubglobal.com"
         ],
         "telegram_groups": [
+            "InvestClub_Groupe",
+            "InvestClub_Support",
             "investclubGlobal_ENG"
         ],
         "holders": {
             "ETH": 169
-        }
+        },
+        "emails": [
+            "investclub.website@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb11773ea2c7b9586d9efa1438ce95aba22595a7e",
@@ -39563,6 +39577,10 @@
         },
         "web_domains": [
             "www.gyatcoinerc.com"
-        ]
+        ],
+        "telegram_groups": [
+            "gyattcoineth"
+        ],
+        "p6": true
     }
 ]
