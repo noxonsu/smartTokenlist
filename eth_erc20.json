@@ -40333,5 +40333,137 @@
         "holders": {
             "ETH": 3286
         }
+    },
+    {
+        "contract_address": "0x5b649c07e7ba0a1c529deaabed0b47699919b4a2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 67
+        }
+    },
+    {
+        "contract_address": "0x973e00eee6d180b5a0eb08ce3047ac4ea7a45cd5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 127
+        }
+    },
+    {
+        "contract_address": "0x4118137c09fa4381a0628c32b9f26b63e3f9c4a4",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "IBTC_ERC"
+        ],
+        "holders": {
+            "ETH": 901
+        }
+    },
+    {
+        "contract_address": "0xcdbcfcd7e672cc596a88fc1677648ac8bc5767cf",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nowebsite.com",
+            "metadrop.com."
+        ],
+        "telegram_groups": [
+            "notg"
+        ],
+        "holders": {
+            "ETH": 339
+        }
+    },
+    {
+        "contract_address": "0x9b73ff728d7d4a423e2166a8dfaa1e79d30cdde9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wooooo.io",
+            "woooooenergy.com"
+        ],
+        "holders": {
+            "ETH": 151
+        }
+    },
+    {
+        "contract_address": "0x6f3c0d29e27bd76b45063ec6f4641f07f260ae5a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1157
+        }
+    },
+    {
+        "contract_address": "0x305b58c5f6b5b6606fb13edd11fbdd5e532d5a26",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 77
+        }
+    },
+    {
+        "contract_address": "0x2d77b594b9bbaed03221f7c63af8c4307432daf1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3885
+        }
+    },
+    {
+        "contract_address": "0x0bd51a89c50123635b1ed4d298e9cecfcce7b628",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "LFG2024ELON"
+        ],
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0xcfb0ea57c732bf521ba71e541cfe47809cc0ea96",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "PenguinX_erc"
+        ],
+        "holders": {
+            "ETH": 66
+        }
+    },
+    {
+        "contract_address": "0x4c1f79711a0de5317ff551e2a5cddcb79d83c908",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x3b4367706e71a21dbb00eaa83c3599987091e777",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 145
+        }
+    },
+    {
+        "contract_address": "0x28cf5263108c1c40cf30e0fe390bd9ccf929bf82",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "year-of-dragon.website",
+            "metadrop.com."
+        ],
+        "holders": {
+            "ETH": 385
+        }
+    },
+    {
+        "contract_address": "0x5c1ac4e697a2814812a284509e1f1b8aa34a25f3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0x5af4a527acbe61383a2d480baff08d2c75e999a7",
+        "sourceScanned": "processed",
+        "emails": [
+            "mmcoineth@proton.me"
+        ],
+        "holders": {
+            "ETH": 289
+        }
     }
 ]
