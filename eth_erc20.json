@@ -39306,7 +39306,8 @@
         ],
         "holders": {
             "ETH": 219
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x26fe2f89a1fef1bc90b8a89d8ad18a1891166ff5",
@@ -39337,7 +39338,9 @@
         },
         "web_domains": [
             "www.prismafinance.app"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9a3dcece0968b8a94aff643c9c72127a2c1d80dc",
@@ -39378,7 +39381,9 @@
         },
         "web_domains": [
             "app.aura.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x1e19cf2d73a72ef1332c882f20534b6519be0276",
