@@ -39645,14 +39645,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 157
-        }
+        },
+        "web_domains": [
+            "sillydragon.io"
+        ]
     },
     {
         "contract_address": "0xdc50030606fcfcb6e9fcc13d348c3370d7389747",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 52
-        }
+        },
+        "web_domains": [
+            "nftscan.com"
+        ]
     },
     {
         "contract_address": "0x9e78b8274e1d6a76a0dbbf90418894df27cbceb5",
@@ -39717,7 +39723,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 43
-        }
+        },
+        "web_domains": [
+            "playnity.io"
+        ]
     },
     {
         "contract_address": "0x8f901ebf65d0bc48a20496f76cd3e4a8661edbf7",
