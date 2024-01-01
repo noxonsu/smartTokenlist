@@ -39427,7 +39427,9 @@
         "holders": {
             "ETH": 104
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x136ad6ca4aeeb31e67535ef8af005f44f0e6de40",
@@ -39454,7 +39456,9 @@
         "holders": {
             "ETH": 156
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xd2e7a791439886f2f6173f5605fc0ae486e1b1fe",
@@ -39506,7 +39510,9 @@
         "emails": [
             "iamsogayithurtsmy@pussynoodle.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xdb62ec5bd3804b234463a4cee4807d99ae12ad86",
@@ -39560,7 +39566,9 @@
         "emails": [
             "investclub.website@gmail.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large5205"
     },
     {
         "contract_address": "0xb11773ea2c7b9586d9efa1438ce95aba22595a7e",
@@ -39581,6 +39589,8 @@
         "telegram_groups": [
             "gyattcoineth"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     }
 ]
