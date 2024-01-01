@@ -39334,7 +39334,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 132
-        }
+        },
+        "web_domains": [
+            "www.prismafinance.app"
+        ]
     },
     {
         "contract_address": "0x9a3dcece0968b8a94aff643c9c72127a2c1d80dc",
@@ -39372,7 +39375,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 57
-        }
+        },
+        "web_domains": [
+            "app.aura.finance"
+        ]
     },
     {
         "contract_address": "0x1e19cf2d73a72ef1332c882f20534b6519be0276",
