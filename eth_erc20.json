@@ -40941,5 +40941,70 @@
         "holders": {
             "ETH": 1129
         }
+    },
+    {
+        "contract_address": "0xc0a4df35568f116c370e6a6a6022ceb908eeddac",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1400
+        }
+    },
+    {
+        "contract_address": "0xbadeb39fc02034ed86523769dfa267c3ac4012db",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 52
+        }
+    },
+    {
+        "contract_address": "0x5d7d6487dc9339154d024d87591090caf9e14807",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0x7449c93abe66457e83b3799bcf1a99e92d58a93b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 72
+        }
+    },
+    {
+        "contract_address": "0x703f249015718088cc390f1b9d8f681135732507",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tokenmint.io"
+        ],
+        "holders": {
+            "ETH": 370
+        }
+    },
+    {
+        "contract_address": "0xb0f92f94d02a4d634fd394c1889fe3cab1fcffc7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 223
+        }
+    },
+    {
+        "contract_address": "0x87ad71969a6eb1958df19ed39c0cc984638012bc",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.bitcoinetferc.vip"
+        ],
+        "telegram_groups": [
+            "BitcoinETF_ethereum"
+        ],
+        "holders": {
+            "ETH": 424
+        }
+    },
+    {
+        "contract_address": "0xae9aca5d20f5b139931935378c4489308394ca2c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 344
+        }
     }
 ]
