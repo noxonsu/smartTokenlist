@@ -41509,5 +41509,92 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Chat is too large85740"
+    },
+    {
+        "contract_address": "0x795f455f283ce823e2797ac16f4461058f6e8b39",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 81
+        }
+    },
+    {
+        "contract_address": "0xd9fae7f9f3202a96ea02025ce65f6ad41eca6ace",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x72f4795b15b66e89cdcacb5c968c47adaa3e3adc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 39
+        }
+    },
+    {
+        "contract_address": "0x516c164a879892a156920a215855c3416616c46e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 201
+        }
+    },
+    {
+        "contract_address": "0xd2ce625515600b7799a5750a853ec8d2a44fbe27",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "saintbots-organization.gitbook.io"
+        ],
+        "telegram_groups": [
+            "saintbot_deployers",
+            "saintbot_deployer_bot"
+        ],
+        "holders": {
+            "ETH": 315
+        }
+    },
+    {
+        "contract_address": "0x2470d2afcdf9c61fffb8249677ca4ba3566f3ff8",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "WokeTokenOfficial"
+        ],
+        "holders": {
+            "ETH": 38
+        }
+    },
+    {
+        "contract_address": "0x9815019e4c11eccb176e46ffcbc9bb917bb96200",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 28
+        }
+    },
+    {
+        "contract_address": "0xa3a1ed1d4f94e373a78027209683c9a4c5af2e04",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 451
+        }
+    },
+    {
+        "contract_address": "0x4f5fa8f2d12e5eb780f6082dd656c565c48e0f24",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1538
+        }
+    },
+    {
+        "contract_address": "0x809aa2f99fa4a71af40c215ccfc70ff8b52014dd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0x9a54ba9a4441d784374ca8466d558137515c08ed",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
     }
 ]
