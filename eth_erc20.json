@@ -41419,7 +41419,9 @@
         },
         "web_domains": [
             "dobbywtf.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe32081a135fcf8158525125e089dd86b9685424c",
@@ -41460,7 +41462,8 @@
         ],
         "holders": {
             "ETH": 214
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8c6778023c3d4fd79ddd14810079f64c39e9e43d",
@@ -41500,6 +41503,7 @@
         ],
         "holders": {
             "ETH": 86
-        }
+        },
+        "p6": true
     }
 ]
