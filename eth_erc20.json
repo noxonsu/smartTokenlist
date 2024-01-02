@@ -40831,7 +40831,9 @@
         "telegram_groups": [
             "iskra_community"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large6560"
     },
     {
         "contract_address": "0xcbae6758a7accbab98b5281658b39d5ca6ca519c",
@@ -40845,7 +40847,9 @@
         "holders": {
             "ETH": 66
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x8d008cac1a5cb08ac962b1e34e977b79abeee88d",
