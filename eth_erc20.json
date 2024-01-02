@@ -39113,7 +39113,9 @@
         ],
         "holders": {
             "ETH": 2928
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd4fcfe6cabc4dd1dd1a5f74a06e8af42f17e8366",
@@ -39206,7 +39208,9 @@
         ],
         "holders": {
             "ETH": 1084
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x98262c631f533ae43b9f21d1d5e79fb6ae629da3",
@@ -40971,7 +40975,11 @@
         },
         "web_domains": [
             "cryptmi.com"
-        ]
+        ],
+        "telegram_groups": [
+            "CYMIConnect"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x703f249015718088cc390f1b9d8f681135732507",
@@ -40981,7 +40989,9 @@
         ],
         "holders": {
             "ETH": 370
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb0f92f94d02a4d634fd394c1889fe3cab1fcffc7",
@@ -41001,7 +41011,8 @@
         ],
         "holders": {
             "ETH": 424
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xae9aca5d20f5b139931935378c4489308394ca2c",
