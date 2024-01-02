@@ -5160,8 +5160,8 @@
             "linktr.ee"
         ],
         "telegram_groups": [
-            "CybertruckETH",
-            "JesterBotEth"
+            "JesterBotEth",
+            "CybertruckETH"
         ],
         "holders": {
             "ETH": 2829
@@ -5621,8 +5621,8 @@
             "ETH": 5828
         },
         "telegram_groups": [
-            "CybertruckETH",
-            "JesterBotEth"
+            "JesterBotEth",
+            "CybertruckETH"
         ],
         "p6": true,
         "myuser": 6119567381,
@@ -10193,8 +10193,8 @@
             "ETH": 1181
         },
         "telegram_groups": [
-            "CybertruckETH",
-            "JesterBotEth"
+            "JesterBotEth",
+            "CybertruckETH"
         ],
         "p6": true,
         "myuser": 6119567381,
@@ -13284,8 +13284,8 @@
             "ETH": 355
         },
         "telegram_groups": [
-            "CybertruckETH",
-            "JesterBotEth"
+            "JesterBotEth",
+            "CybertruckETH"
         ],
         "p6": true,
         "myuser": 6119567381,
@@ -30779,7 +30779,12 @@
         ],
         "holders": {
             "ETH": 2229
-        }
+        },
+        "telegram_groups": [
+            "JesterBotEth",
+            "CybertruckETH"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2602278ee1882889b946eb11dc0e810075650983",
@@ -41227,11 +41232,14 @@
             "xtrackerc.com"
         ],
         "telegram_groups": [
+            "JesterBotEth",
+            "CybertruckETH",
             "XtrackERC"
         ],
         "holders": {
             "ETH": 253
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8f846c443cfa44a6e95aacd2ac362b6cf4fd4335",
@@ -41272,7 +41280,11 @@
         },
         "web_domains": [
             "faithtribe.io"
-        ]
+        ],
+        "telegram_groups": [
+            "faithtribe"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6c2d0e9c479b8b3213e4acf211c928d5bdaede5d",
@@ -41295,7 +41307,8 @@
         ],
         "holders": {
             "ETH": 168
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x506b8f75bdef0edac36b0a6f9cf313485e4341b0",
@@ -41322,7 +41335,11 @@
         },
         "web_domains": [
             "elon-bot.app"
-        ]
+        ],
+        "telegram_groups": [
+            "elonbotquantumportal"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc4acc3824caaf8afc59812f7b1e0a721801b3aaa",
@@ -41332,7 +41349,9 @@
         },
         "web_domains": [
             "noscription.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xca2a7068e551d5c4482eb34880b194e4b945712f",
@@ -41350,7 +41369,9 @@
         ],
         "holders": {
             "ETH": 28
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6e52cce4eafdf77091dd1c82183b2d97b776b397",
