@@ -40591,5 +40591,64 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x591cc4f2ef6f8fa8e3a1b835fae7b5a4da4f2f6c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "kaizencorp.site"
+        ],
+        "telegram_groups": [
+            "KaizenCorpETH"
+        ],
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0x9c306aafa45e10e71b3ed7e347260e41ddf9873f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0xd98f75b1a3261dab9eed4956c93f33749027a964",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5854
+        }
+    },
+    {
+        "contract_address": "0xc698d4f087de20bb5667f3d65315f3fa9ef405e3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1111
+        }
+    },
+    {
+        "contract_address": "0xc3071803b9d23460820b516673fd3cec0415d0ed",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1060
+        }
+    },
+    {
+        "contract_address": "0x53979f7fe032164009fd7854a9a6aa38dc5df16b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 66
+        }
+    },
+    {
+        "contract_address": "0x0a20d7703c4a59ab442f9bac4fab3c7faade30e4",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "capcoineth",
+            "capcoineth"
+        ],
+        "holders": {
+            "ETH": 268
+        }
     }
 ]
