@@ -40979,7 +40979,9 @@
         "telegram_groups": [
             "CYMIConnect"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large16727"
     },
     {
         "contract_address": "0x703f249015718088cc390f1b9d8f681135732507",
@@ -41012,7 +41014,9 @@
         "holders": {
             "ETH": 424
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xae9aca5d20f5b139931935378c4489308394ca2c",
