@@ -30784,7 +30784,9 @@
             "JesterBotEth",
             "CybertruckETH"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x2602278ee1882889b946eb11dc0e810075650983",
@@ -41239,7 +41241,9 @@
         "holders": {
             "ETH": 253
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x8f846c443cfa44a6e95aacd2ac362b6cf4fd4335",
@@ -41284,7 +41288,9 @@
         "telegram_groups": [
             "faithtribe"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large57902"
     },
     {
         "contract_address": "0x6c2d0e9c479b8b3213e4acf211c928d5bdaede5d",
@@ -41308,7 +41314,9 @@
         "holders": {
             "ETH": 168
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x506b8f75bdef0edac36b0a6f9cf313485e4341b0",
@@ -41339,7 +41347,9 @@
         "telegram_groups": [
             "elonbotquantumportal"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large2339"
     },
     {
         "contract_address": "0xc4acc3824caaf8afc59812f7b1e0a721801b3aaa",
