@@ -40818,5 +40818,114 @@
         "holders": {
             "ETH": 21
         }
+    },
+    {
+        "contract_address": "0x17d2628d30f8e9e966c9ba831c9b9b01ea8ea75c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 275
+        }
+    },
+    {
+        "contract_address": "0xcbae6758a7accbab98b5281658b39d5ca6ca519c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blackrock-etf.xyz"
+        ],
+        "telegram_groups": [
+            "BlackRockETFERC"
+        ],
+        "holders": {
+            "ETH": 66
+        }
+    },
+    {
+        "contract_address": "0x8d008cac1a5cb08ac962b1e34e977b79abeee88d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 846
+        }
+    },
+    {
+        "contract_address": "0xec09333069a1ebee9ee9fa9ab445e8c77f3cbaae",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "mu_ethereum"
+        ],
+        "holders": {
+            "ETH": 120
+        }
+    },
+    {
+        "contract_address": "0x601c5e88ba67aceb79ae009b8744932eee43fc96",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "grokdoge.networkc"
+        ],
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0xffaea463120e11c05c5ece1e7909e93593e258ea",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x50de6856358cc35f3a9a57eaaa34bd4cb707d2cd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6335
+        }
+    },
+    {
+        "contract_address": "0xd1e2d5085b39b80c9948aeb1b9aa83af6756bcc5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 360
+        }
+    },
+    {
+        "contract_address": "0x34dce75a3d1910cc9d188aa5a75fb9addcae0fcc",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "xvtoken"
+        ],
+        "holders": {
+            "ETH": 481
+        }
+    },
+    {
+        "contract_address": "0x7fc14027401c3662963d9e97c0890cd447b32012",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Pitcoin_Portal"
+        ],
+        "holders": {
+            "ETH": 82
+        }
+    },
+    {
+        "contract_address": "0x545bd6c032efdde65a377a6719def2796c8e0f2e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 35
+        }
+    },
+    {
+        "contract_address": "0xdc0d20d928bc0d44a885815ae14811fd8a8a56f6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 358
+        }
+    },
+    {
+        "contract_address": "0x056354f3ff20743aa4c0da365603871c7000b081",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1129
+        }
     }
 ]
