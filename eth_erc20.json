@@ -41127,7 +41127,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 38
-        }
+        },
+        "web_domains": [
+            "www.crypcade.city"
+        ]
     },
     {
         "contract_address": "0x198065e69a86cb8a9154b333aad8efe7a3c256f8",
@@ -41148,7 +41151,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 92
-        }
+        },
+        "web_domains": [
+            "www.kix-token.io"
+        ]
     },
     {
         "contract_address": "0xac60953135826d25a7c6e8b6935f49f920c6f8f6",
