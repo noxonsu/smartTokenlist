@@ -40736,5 +40736,83 @@
         "holders": {
             "ETH": 933
         }
+    },
+    {
+        "contract_address": "0x1b40183efb4dd766f11bda7a7c3ad8982e998421",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8632
+        }
+    },
+    {
+        "contract_address": "0xaf8eefd151c498b20da7f21e2df73306aad6da15",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "BitcoinInuCommunity"
+        ],
+        "holders": {
+            "ETH": 236
+        }
+    },
+    {
+        "contract_address": "0x33a2fa7bf7c893bb3de4a09b308e71102dfe36be",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0x760b22fd2cc8d93a3549b268054783503de42b9b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0xd63b9fb6377c7eebcddc78e22e021d828cc61340",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9
+        }
+    },
+    {
+        "contract_address": "0x3368d7d09d749df8b01bd280266584a84624043d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "X.com"
+        ],
+        "telegram_groups": [
+            "MickkkeyEth"
+        ],
+        "holders": {
+            "ETH": 17
+        }
+    },
+    {
+        "contract_address": "0x2daabe98c42d3136cc7da94a52b000fbdad239bb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 52
+        }
+    },
+    {
+        "contract_address": "0xf8f4fa2ccc8f7dcd02b4a520f658a3f4162952b4",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "cointuckyderbyeth"
+        ],
+        "holders": {
+            "ETH": 44
+        }
+    },
+    {
+        "contract_address": "0x79e2e70e9d207be8fc3bb6efe8b90be5e57cbee9",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Launch_Whatbot"
+        ],
+        "holders": {
+            "ETH": 21
+        }
     }
 ]
