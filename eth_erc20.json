@@ -40693,6 +40693,7 @@
         "contract_address": "0x437d2710822774eaad7c9ce9bedfc080e372f2ed",
         "sourceScanned": "processed",
         "telegram_groups": [
+            "alphadesignercrypto",
             "DragonPepe_ERC20"
         ],
         "holders": {
@@ -40700,7 +40701,11 @@
         },
         "web_domains": [
             "dragonpepe.tech"
-        ]
+        ],
+        "emails": [
+            "support@dragonpepe.tech"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xacf8d5e515ed005655dfefa09c22673a37a7cdee",
