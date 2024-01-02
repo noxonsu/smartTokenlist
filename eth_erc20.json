@@ -40827,7 +40827,11 @@
         },
         "web_domains": [
             "iskra.world"
-        ]
+        ],
+        "telegram_groups": [
+            "iskra_community"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xcbae6758a7accbab98b5281658b39d5ca6ca519c",
@@ -40840,7 +40844,8 @@
         ],
         "holders": {
             "ETH": 66
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8d008cac1a5cb08ac962b1e34e977b79abeee88d",
@@ -40867,7 +40872,9 @@
         ],
         "holders": {
             "ETH": 20
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xffaea463120e11c05c5ece1e7909e93593e258ea",
