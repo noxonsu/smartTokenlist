@@ -41269,7 +41269,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 288
-        }
+        },
+        "web_domains": [
+            "faithtribe.io"
+        ]
     },
     {
         "contract_address": "0x6c2d0e9c479b8b3213e4acf211c928d5bdaede5d",
@@ -41316,14 +41319,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "elon-bot.app"
+        ]
     },
     {
         "contract_address": "0xc4acc3824caaf8afc59812f7b1e0a721801b3aaa",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 33
-        }
+        },
+        "web_domains": [
+            "noscription.org"
+        ]
     },
     {
         "contract_address": "0xca2a7068e551d5c4482eb34880b194e4b945712f",
