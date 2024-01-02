@@ -41567,7 +41567,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 28
-        }
+        },
+        "web_domains": [
+            "turtsat.io"
+        ]
     },
     {
         "contract_address": "0xa3a1ed1d4f94e373a78027209683c9a4c5af2e04",
