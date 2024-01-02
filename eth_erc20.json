@@ -40653,5 +40653,78 @@
         "holders": {
             "ETH": 268
         }
+    },
+    {
+        "contract_address": "0x3199a1ed1ad4cb1d1b57939809c8ee79eafe9934",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0xd7c886b9486db22c06121bfb912f73e1ce8b6a5e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xa6f106d5acfc6f7ac5d4ab84c3d7a8dae658345f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x84c333e94aea4a51a21f6cf0c7f528c50dc7592c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0xe9bf1566f95b0028d31f59de1ac20e174c25522e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x437d2710822774eaad7c9ce9bedfc080e372f2ed",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "DragonPepe_ERC20"
+        ],
+        "holders": {
+            "ETH": 40
+        }
+    },
+    {
+        "contract_address": "0xacf8d5e515ed005655dfefa09c22673a37a7cdee",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1149
+        }
+    },
+    {
+        "contract_address": "0x89675b255d2d7a53096628f1bc5bdd88cacd9b0e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 36
+        }
+    },
+    {
+        "contract_address": "0xf161cdb9aa33b2f48be273dae3f3bbb2330ad3e5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 83
+        }
+    },
+    {
+        "contract_address": "0xd18475521245a127a933a4fcaf99e8c45a416f7e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 933
+        }
     }
 ]
