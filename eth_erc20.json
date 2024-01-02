@@ -41551,7 +41551,9 @@
         "holders": {
             "ETH": 315
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: The chat_id \"saintbot_deployer_bot\" belongs to a user"
     },
     {
         "contract_address": "0x2470d2afcdf9c61fffb8249677ca4ba3566f3ff8",
