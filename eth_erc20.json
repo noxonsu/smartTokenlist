@@ -41396,5 +41396,107 @@
         "holders": {
             "ETH": 689
         }
+    },
+    {
+        "contract_address": "0x6f87d756daf0503d08eb8993686c7fc01dc44fb1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5646
+        }
+    },
+    {
+        "contract_address": "0xe66747a101bff2dba3697199dcce5b743b454759",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3260
+        }
+    },
+    {
+        "contract_address": "0xd92b7adfdb79c26b5983a56ba7540d48d4616b8e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 221
+        }
+    },
+    {
+        "contract_address": "0xe32081a135fcf8158525125e089dd86b9685424c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x4086e77c5e993fdb90a406285d00111a974f877a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 941
+        }
+    },
+    {
+        "contract_address": "0x3e316791842a271ab1e138ff7408c015efd9c6be",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 425
+        }
+    },
+    {
+        "contract_address": "0x7eb6568f707d2c0159146e67f45a30c74151e9b4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0xd77ebd8853042f4122a2b1d2c00f129bcf507cda",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "plutodog.vip"
+        ],
+        "telegram_groups": [
+            "PlutoEntry"
+        ],
+        "holders": {
+            "ETH": 214
+        }
+    },
+    {
+        "contract_address": "0x8c6778023c3d4fd79ddd14810079f64c39e9e43d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "0xai.app"
+        ],
+        "telegram_groups": [
+            "ZeroXAISwap"
+        ],
+        "holders": {
+            "ETH": 746
+        }
+    },
+    {
+        "contract_address": "0xd3bedd8345e9ece4f14408520a2af27c0b9b2e3b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 29
+        }
+    },
+    {
+        "contract_address": "0xcdd0d11de0225b528b3a20d6436392c8260969d0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 378
+        }
+    },
+    {
+        "contract_address": "0xcf64487276e05afdc3ed669fb5dcebb17000fd58",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.sleeplessai.net"
+        ],
+        "telegram_groups": [
+            "SleeplessAIGroup"
+        ],
+        "holders": {
+            "ETH": 86
+        }
     }
 ]
