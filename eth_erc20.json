@@ -36758,10 +36758,10 @@
             "firstcryptobank.capital"
         ],
         "telegram_groups": [
-            "ethvaulttrending",
+            "bankVolumeBot",
             "FirstBankETH",
-            "PinkyNBrainErc20",
-            "bankVolumeBot"
+            "ethvaulttrending",
+            "PinkyNBrainErc20"
         ],
         "holders": {
             "ETH": 56
@@ -36787,11 +36787,11 @@
             "firstcryptobank.capital"
         ],
         "telegram_groups": [
-            "PinkyNBrainErc20",
+            "bankVolumeBot",
             "ethvaulttrending",
+            "PinkyNBrainErc20",
             "FirstBankETH",
-            "BahamasETH20",
-            "bankVolumeBot"
+            "BahamasETH20"
         ],
         "holders": {
             "ETH": 296
@@ -41095,11 +41095,20 @@
             "firstcryptobank.capital"
         ],
         "telegram_groups": [
-            "FirstERC20Token"
+            "ethvaulttrending",
+            "BahamasETH20",
+            "FirstERC20Token",
+            "bankVolumeBot",
+            "PinkyNBrainErc20",
+            "FirstBankETH"
         ],
         "holders": {
             "ETH": 91
-        }
+        },
+        "emails": [
+            "hello@firstcryptobank.capital"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x84cecb5525c6b1c20070e742da870062e84da178",
@@ -41130,7 +41139,15 @@
         },
         "web_domains": [
             "www.crypcade.city"
-        ]
+        ],
+        "telegram_groups": [
+            "CrypCade",
+            "CrypCadeNews"
+        ],
+        "emails": [
+            "info@crypcade.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x198065e69a86cb8a9154b333aad8efe7a3c256f8",
@@ -41154,7 +41171,14 @@
         },
         "web_domains": [
             "www.kix-token.io"
-        ]
+        ],
+        "telegram_groups": [
+            "KIXtokenofficial"
+        ],
+        "emails": [
+            "team@kix-token.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xac60953135826d25a7c6e8b6935f49f920c6f8f6",
@@ -41167,7 +41191,11 @@
         ],
         "holders": {
             "ETH": 260
-        }
+        },
+        "emails": [
+            "contact@teambrify.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x455ad1bc4e18fd4e369234b6e11d88acbc416758",
