@@ -40824,7 +40824,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 275
-        }
+        },
+        "web_domains": [
+            "iskra.world"
+        ]
     },
     {
         "contract_address": "0xcbae6758a7accbab98b5281658b39d5ca6ca519c",
