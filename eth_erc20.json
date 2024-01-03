@@ -41624,7 +41624,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 3
-        }
+        },
+        "web_domains": [
+            "pickle.finance"
+        ]
     },
     {
         "contract_address": "0xcbba83a4d3f35d294a26012ac54e9ab6627da018",
@@ -41684,14 +41687,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 261
-        }
+        },
+        "web_domains": [
+            "wton.dev"
+        ]
     },
     {
         "contract_address": "0xb4371da53140417cbb3362055374b10d97e420bb",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 186
-        }
+        },
+        "web_domains": [
+            "switcheo.network"
+        ]
     },
     {
         "contract_address": "0x3a859b9ea4998d344547283c7ce8ebc4abb77656",
@@ -41708,7 +41717,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 26
-        }
+        },
+        "web_domains": [
+            "stafi.io"
+        ]
     },
     {
         "contract_address": "0x4e332d23ea1d9f8247deb4d8f03ac7b6785be36b",
