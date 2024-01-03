@@ -41627,7 +41627,9 @@
         },
         "web_domains": [
             "pickle.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xcbba83a4d3f35d294a26012ac54e9ab6627da018",
@@ -41643,11 +41645,13 @@
             "tiggereth.xyz"
         ],
         "telegram_groups": [
-            "Tigger_ERC"
+            "Tigger_ERC",
+            "tigger_erc"
         ],
         "holders": {
             "ETH": 9
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1f340144d31a0ce46464dc9f39ee7b94727a586a",
@@ -41667,7 +41671,11 @@
         ],
         "holders": {
             "ETH": 142
-        }
+        },
+        "emails": [
+            "SUPPORT@ETHEREUMETF.BIZ, ETHE, ALL RIGHTS RESERVED"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x33e18a092a93ff21ad04746c7da12e35d34dc7c4",
@@ -41690,7 +41698,9 @@
         },
         "web_domains": [
             "wton.dev"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb4371da53140417cbb3362055374b10d97e420bb",
@@ -41700,7 +41710,9 @@
         },
         "web_domains": [
             "switcheo.network"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3a859b9ea4998d344547283c7ce8ebc4abb77656",
@@ -41720,7 +41732,9 @@
         },
         "web_domains": [
             "stafi.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4e332d23ea1d9f8247deb4d8f03ac7b6785be36b",
