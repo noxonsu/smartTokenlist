@@ -42559,7 +42559,9 @@
         },
         "web_domains": [
             "casineo.beebee.digital"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xde6f64d799194d5241a355ff57249c5299945250",
@@ -42572,7 +42574,8 @@
         ],
         "holders": {
             "ETH": 336
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xcfac51c3b287373d2a676f9344c714fbf7e9dccd",
@@ -42589,7 +42592,9 @@
         },
         "web_domains": [
             "bytom.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf32e58f92e60f4b0a37a69b95d642a471365eae8",
@@ -42613,7 +42618,14 @@
         },
         "web_domains": [
             "tonka.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "TonkaFinance"
+        ],
+        "emails": [
+            "contact@tonka.finance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xcb86c6a22cb56b6cf40cafedb06ba0df188a416e",
