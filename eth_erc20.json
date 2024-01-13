@@ -42833,5 +42833,139 @@
         "holders": {
             "ETH": 1035
         }
+    },
+    {
+        "contract_address": "0x8a3d77e9d6968b780564936d15b09805827c21fa",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3674
+        }
+    },
+    {
+        "contract_address": "0x12bf1cf70a644926f1209a8867f876acf6cae3ee",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0x7468d234a8db6f1085dbf4e403553bfed41df95c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 908
+        }
+    },
+    {
+        "contract_address": "0xc5d27f27f08d1fd1e3ebbaa50b3442e6c0d50439",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 591
+        }
+    },
+    {
+        "contract_address": "0x52a8845df664d76c69d2eea607cd793565af42b8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 541
+        }
+    },
+    {
+        "contract_address": "0x886124e6472bd36474df6ff3c8f814e998233296",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "official_furari"
+        ],
+        "holders": {
+            "ETH": 366
+        }
+    },
+    {
+        "contract_address": "0xc845248d6b74ca258848b6626a8166aee5556c2c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 158
+        }
+    },
+    {
+        "contract_address": "0xaa19961b6b858d9f18a115f25aa1d98abc1fdba8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4262
+        }
+    },
+    {
+        "contract_address": "0x78132543d8e20d2417d8a07d9ae199d458a0d581",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tokenmint.io"
+        ],
+        "telegram_groups": [
+            "LunaInuERC20"
+        ],
+        "holders": {
+            "ETH": 3964
+        }
+    },
+    {
+        "contract_address": "0x0e5f00da8aaef196a719d045db89b5da8f371b32",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5196
+        }
+    },
+    {
+        "contract_address": "0x0f5c78f152152dda52a2ea45b0a8c10733010748",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 137
+        }
+    },
+    {
+        "contract_address": "0x138fd0c24726c663a14f4be30a7cd1f3e858e03a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 37
+        }
+    },
+    {
+        "contract_address": "0x642ac912a58428767fa14a26a749f9a1b001ba92",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.xxcoin.me"
+        ],
+        "holders": {
+            "ETH": 1090
+        }
+    },
+    {
+        "contract_address": "0x40d806dc0018f18375c24bd9393561c8cd142bef",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x87cbd8db4d65ab24d81efa7f56f7fc6701442b18",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "d0nt_erc"
+        ],
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0xbafa4e685e8f9c94358ecefb0f5e7b21e79c8ff6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "paola.network",
+            "app.paola.network"
+        ],
+        "telegram_groups": [
+            "paola_finance_official"
+        ],
+        "holders": {
+            "ETH": 87
+        }
     }
 ]
