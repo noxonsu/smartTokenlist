@@ -42052,7 +42052,9 @@
         },
         "web_domains": [
             "ether.fi"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xca7af9bb13e85b7b3a9bae2a8026e8f31b954d06",
