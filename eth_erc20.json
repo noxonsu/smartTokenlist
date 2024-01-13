@@ -42884,7 +42884,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 158
-        }
+        },
+        "web_domains": [
+            "ethetftoken.io"
+        ]
     },
     {
         "contract_address": "0xaa19961b6b858d9f18a115f25aa1d98abc1fdba8",
@@ -42918,7 +42921,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 137
-        }
+        },
+        "web_domains": [
+            "xoxlabs.io"
+        ]
     },
     {
         "contract_address": "0x138fd0c24726c663a14f4be30a7cd1f3e858e03a",
