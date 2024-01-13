@@ -42887,7 +42887,14 @@
         },
         "web_domains": [
             "ethetftoken.io"
-        ]
+        ],
+        "telegram_groups": [
+            "ETHETFToken"
+        ],
+        "emails": [
+            "contact@ethetftoken.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xaa19961b6b858d9f18a115f25aa1d98abc1fdba8",
@@ -42924,7 +42931,15 @@
         },
         "web_domains": [
             "xoxlabs.io"
-        ]
+        ],
+        "telegram_groups": [
+            "xoxlabsofficial",
+            "xoxlabsofficialchannel"
+        ],
+        "emails": [
+            "partnership@xoxlabs.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x138fd0c24726c663a14f4be30a7cd1f3e858e03a",
@@ -42972,6 +42987,7 @@
         ],
         "holders": {
             "ETH": 87
-        }
+        },
+        "p6": true
     }
 ]
