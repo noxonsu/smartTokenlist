@@ -42729,7 +42729,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 2
-        }
+        },
+        "web_domains": [
+            "neutaro.com"
+        ]
     },
     {
         "contract_address": "0x3ab6ed69ef663bd986ee59205ccad8a20f98b4c2",
@@ -42798,7 +42801,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 89
-        }
+        },
+        "web_domains": [
+            "equilibria.fi"
+        ]
     },
     {
         "contract_address": "0x97d6e56d39c6add9186715795d371293d099d971",
