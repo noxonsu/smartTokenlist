@@ -42556,7 +42556,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 38
-        }
+        },
+        "web_domains": [
+            "casineo.beebee.digital"
+        ]
     },
     {
         "contract_address": "0xde6f64d799194d5241a355ff57249c5299945250",
@@ -42583,7 +42586,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 107
-        }
+        },
+        "web_domains": [
+            "bytom.io"
+        ]
     },
     {
         "contract_address": "0xf32e58f92e60f4b0a37a69b95d642a471365eae8",
@@ -42604,7 +42610,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 43
-        }
+        },
+        "web_domains": [
+            "tonka.finance"
+        ]
     },
     {
         "contract_address": "0xcb86c6a22cb56b6cf40cafedb06ba0df188a416e",
