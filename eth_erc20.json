@@ -42220,5 +42220,130 @@
         "holders": {
             "ETH": 766
         }
+    },
+    {
+        "contract_address": "0x83162c8aad7832a7f0aa7e39171b51d457cca649",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 35
+        }
+    },
+    {
+        "contract_address": "0xe76c6c83af64e4c60245d8c7de953df673a7a33d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2463
+        }
+    },
+    {
+        "contract_address": "0x45e412e1878080815d6d51d47b83d17869433459",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "CTOTokenETH"
+        ],
+        "holders": {
+            "ETH": 820
+        }
+    },
+    {
+        "contract_address": "0x3005003bda885dee7c74182e5fe336e9e3df87bb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1694
+        }
+    },
+    {
+        "contract_address": "0x35f2d6446da2eae739ea1694a7bdad5a77ada258",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x32a08bc829dae0bfba3851488f783cfcafed7728",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 836
+        }
+    },
+    {
+        "contract_address": "0xf170eb4553ca743ef403b3c2b8c1ad38fb5cb5c8",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "basicbitchtoken",
+            "ContractDevAI"
+        ],
+        "holders": {
+            "ETH": 167
+        }
+    },
+    {
+        "contract_address": "0x74322b978b33cc03da486eac671a1d5f9ebee902",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 23
+        }
+    },
+    {
+        "contract_address": "0x219991c8f13369dbc039562b35b86423c414e29a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x1c27f4f2775e1cad948338214f8f4c2146e4d77f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x249fcc0ad5188b915b6b80d8a92db7577c86d718",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 288
+        }
+    },
+    {
+        "contract_address": "0x4e8f46f008a77a10d63f3e44467923ac7354b319",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 96
+        }
+    },
+    {
+        "contract_address": "0xd69a0a9682f679f50e34de40105a93bebb2ff43d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 177
+        }
+    },
+    {
+        "contract_address": "0xad30649b370ab7661effc818541a70dc1293f7c5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 384
+        }
+    },
+    {
+        "contract_address": "0x6a6c2ada3ce053561c2fbc3ee211f23d9b8c520a",
+        "sourceScanned": "processed",
+        "emails": [
+            "dave@akomba.com"
+        ],
+        "holders": {
+            "ETH": 1621
+        }
+    },
+    {
+        "contract_address": "0xed12b794ca80737a25623e24c6864137d7844a25",
+        "sourceScanned": "processed",
+        "emails": [
+            "goncalo.sa@consensys.net"
+        ],
+        "holders": {
+            "ETH": 342
+        }
     }
 ]
