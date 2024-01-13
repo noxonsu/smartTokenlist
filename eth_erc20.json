@@ -42997,11 +42997,16 @@
             "digiversecrypto.com"
         ],
         "telegram_groups": [
+            "digiversepin",
             "digiverseturkey"
         ],
         "holders": {
             "ETH": 55
-        }
+        },
+        "emails": [
+            "manager@digiversede.com.tr"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3e5c3aefea89e9c2467977628758126e2061ce8b",
@@ -43021,7 +43026,8 @@
         ],
         "holders": {
             "ETH": 76
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x416cdaf616a82d7dd46e0dbf36e7d6fe412bc40e",
@@ -43041,7 +43047,8 @@
         ],
         "holders": {
             "ETH": 56
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xaa1db055d53f14f7e6a13e01097b17db620d3ef4",
@@ -43086,7 +43093,12 @@
         },
         "web_domains": [
             "lanceinu.com"
-        ]
+        ],
+        "telegram_groups": [
+            "lanceinu",
+            "Lanceinu"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdb5c3c46e28b53a39c255aa39a411dd64e5fed9c",
