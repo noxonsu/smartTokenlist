@@ -42088,7 +42088,8 @@
         },
         "web_domains": [
             "anitawynn.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc209afbbce29cd9c0774f05c611b8838aed531b3",
@@ -42154,7 +42155,8 @@
         ],
         "holders": {
             "ETH": 200
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xbded8a4dc74a940eab68703167db89b1712b68ea",
@@ -42187,11 +42189,13 @@
             "www.akirainu.info"
         ],
         "telegram_groups": [
+            "AkiraInu_ERC",
             "AkiraInu_Erc"
         ],
         "holders": {
             "ETH": 13
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa673ae7f0ca5082ab5cd750056d98e70ffd3cab8",
