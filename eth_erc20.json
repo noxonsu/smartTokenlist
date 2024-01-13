@@ -42537,5 +42537,109 @@
         "holders": {
             "ETH": 2
         }
+    },
+    {
+        "contract_address": "0x209a78d23f825950a5df4d6d21288e5212b44f2c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.liquidlpha.ai"
+        ],
+        "telegram_groups": [
+            "liquidalpha"
+        ],
+        "holders": {
+            "ETH": 540
+        }
+    },
+    {
+        "contract_address": "0x1bea6f8d402a8a546a8fff48f60791535c9f8584",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 38
+        }
+    },
+    {
+        "contract_address": "0xde6f64d799194d5241a355ff57249c5299945250",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "degenai.tech"
+        ],
+        "telegram_groups": [
+            "DegenAI_Portal"
+        ],
+        "holders": {
+            "ETH": 336
+        }
+    },
+    {
+        "contract_address": "0xcfac51c3b287373d2a676f9344c714fbf7e9dccd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x4951bec6f4dfc23935c0ec8af92f231f4c20ea03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 107
+        }
+    },
+    {
+        "contract_address": "0xf32e58f92e60f4b0a37a69b95d642a471365eae8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 527
+        }
+    },
+    {
+        "contract_address": "0x665a3bacc67e3605bbc5bc133cfb136527594dcc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x2c730075957680e216f4626e6213f94ff0f3b0f3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 43
+        }
+    },
+    {
+        "contract_address": "0xcb86c6a22cb56b6cf40cafedb06ba0df188a416e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2025
+        }
+    },
+    {
+        "contract_address": "0xf0e06c7dc36ea75dd21ee0558ded051ad4f7c42c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 45
+        }
+    },
+    {
+        "contract_address": "0x9424fde68418b71ea1d3de95547ef67f4dc8f573",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 73
+        }
+    },
+    {
+        "contract_address": "0x701c244b988a513c945973defa05de933b23fe1d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "openanx.org",
+            "openanx.org",
+            "openanx.org",
+            "openanx.org",
+            "openanx.org",
+            "openanx.org"
+        ],
+        "holders": {
+            "ETH": 6654
+        }
     }
 ]
