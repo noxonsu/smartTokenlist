@@ -41876,7 +41876,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 235
-        }
+        },
+        "web_domains": [
+            "wojak.farm"
+        ]
     },
     {
         "contract_address": "0xa1a52e35bf516edbd166d9a1b0097cbf11483a5d",
@@ -41933,7 +41936,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 113
-        }
+        },
+        "web_domains": [
+            "holoride.com"
+        ]
     },
     {
         "contract_address": "0x26a37f5a0200ad622f6db7cd687c78b7049ee841",
@@ -42023,7 +42029,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 0
-        }
+        },
+        "web_domains": [
+            "ether.fi"
+        ]
     },
     {
         "contract_address": "0xca7af9bb13e85b7b3a9bae2a8026e8f31b954d06",
