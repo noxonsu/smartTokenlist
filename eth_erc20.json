@@ -41798,11 +41798,16 @@
             "gpbtk5600i.com"
         ],
         "telegram_groups": [
+            "GPBTK5600ie",
             "GPBTK5600i"
         ],
         "holders": {
             "ETH": 162
-        }
+        },
+        "emails": [
+            "\n gpbtki@gmail.com\n            "
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbd6323a83b613f668687014e8a5852079494fb68",
@@ -41855,7 +41860,8 @@
         ],
         "holders": {
             "ETH": 334
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb1fea302f3b2e93fa04e46dcce35f2fc522d7bb9",
@@ -41879,7 +41885,11 @@
         },
         "web_domains": [
             "wojak.farm"
-        ]
+        ],
+        "telegram_groups": [
+            "firstwojakdeployed"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa1a52e35bf516edbd166d9a1b0097cbf11483a5d",
@@ -41929,7 +41939,8 @@
         ],
         "holders": {
             "ETH": 35
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf97e2a78f1f3d1fd438ff7cc3bb7de01e5945b83",
@@ -41939,7 +41950,11 @@
         },
         "web_domains": [
             "holoride.com"
-        ]
+        ],
+        "telegram_groups": [
+            "holoride"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x26a37f5a0200ad622f6db7cd687c78b7049ee841",
@@ -41994,11 +42009,16 @@
             "linktr.ee"
         ],
         "telegram_groups": [
-            "ordiblebot"
+            "ordiblebot",
+            "ordible_bot"
         ],
         "holders": {
             "ETH": 193
-        }
+        },
+        "emails": [
+            "support@ordible.bot"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe3f03cef497c81d2b28a2fae63ae84b373028718",
