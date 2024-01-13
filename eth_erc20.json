@@ -42989,5 +42989,114 @@
             "ETH": 87
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xce87a9d2f96b4e41ade825ba56dc24699c8cf26d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "digiversecrypto.com"
+        ],
+        "telegram_groups": [
+            "digiverseturkey"
+        ],
+        "holders": {
+            "ETH": 55
+        }
+    },
+    {
+        "contract_address": "0x3e5c3aefea89e9c2467977628758126e2061ce8b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 51
+        }
+    },
+    {
+        "contract_address": "0xbd8ea47cebbd7a8c6b0d2b04160dfa34191ebf58",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "titanlend.xyz"
+        ],
+        "telegram_groups": [
+            "titan_portal"
+        ],
+        "holders": {
+            "ETH": 76
+        }
+    },
+    {
+        "contract_address": "0x416cdaf616a82d7dd46e0dbf36e7d6fe412bc40e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0xb3c88e6650963fe2df5de9612cae118b301df3e2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "degenjourney.xyz"
+        ],
+        "telegram_groups": [
+            "TheDegenJourney"
+        ],
+        "holders": {
+            "ETH": 56
+        }
+    },
+    {
+        "contract_address": "0xaa1db055d53f14f7e6a13e01097b17db620d3ef4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 281
+        }
+    },
+    {
+        "contract_address": "0x8ab4309019d7674c6112eb32698a30fdcba6a278",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x37018a6a710fa81df4949d8da30630988ac1a10c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x8a74bc8c372bc7f0e9ca3f6ac0df51be15aec47a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2419
+        }
+    },
+    {
+        "contract_address": "0x2a85556a6701a02e75bc4de8ec340c6de1b29f72",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1503
+        }
+    },
+    {
+        "contract_address": "0xbf5c0b0ef9ed7544bec7bdf47618d91e1c72fc97",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 159
+        }
+    },
+    {
+        "contract_address": "0xdb5c3c46e28b53a39c255aa39a411dd64e5fed9c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4793
+        }
+    },
+    {
+        "contract_address": "0xa9d54f37ebb99f83b603cc95fc1a5f3907aaccfd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2442
+        }
     }
 ]
