@@ -42085,7 +42085,10 @@
         ],
         "holders": {
             "ETH": 225
-        }
+        },
+        "web_domains": [
+            "anitawynn.com"
+        ]
     },
     {
         "contract_address": "0xc209afbbce29cd9c0774f05c611b8838aed531b3",
