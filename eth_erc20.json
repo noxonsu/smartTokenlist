@@ -40162,7 +40162,9 @@
         "holders": {
             "ETH": 5
         },
-        "telegram_groups": [],
+        "telegram_groups": [
+            "bosscoinofficial"
+        ],
         "emails": [
             "mail@bossblockchain.world"
         ],
@@ -42368,7 +42370,14 @@
         ],
         "holders": {
             "ETH": 338
-        }
+        },
+        "telegram_groups": [
+            "bosscoinofficial"
+        ],
+        "emails": [
+            "mail@bossblockchain.world"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xde2e2eb81288a8612b135383ccc66e6257d4547e",
@@ -42381,7 +42390,8 @@
         ],
         "holders": {
             "ETH": 76
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1161ab556baa457994b1d6a6cca3a7a6891009fd",
@@ -42408,7 +42418,8 @@
         ],
         "holders": {
             "ETH": 125
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7f86bf177dd4f3494b841a37e810a34dd56c829b",
@@ -42467,7 +42478,8 @@
         ],
         "holders": {
             "ETH": 165
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf08876698b4ecdd2eb1b25a349a65884410def88",
@@ -42477,11 +42489,13 @@
             "reddit.com"
         ],
         "telegram_groups": [
-            "zkLinkorg"
+            "zkLinkorg",
+            "dz_zklink"
         ],
         "holders": {
             "ETH": 67
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xcda4e840411c00a614ad9205caec807c7458a0e3",
@@ -42511,7 +42525,11 @@
         },
         "web_domains": [
             "maidsafe.net"
-        ]
+        ],
+        "telegram_groups": [
+            "safenetwork"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7b713b1cb6eafd4061064581579ffccf7df21545",
