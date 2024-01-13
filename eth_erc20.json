@@ -42508,7 +42508,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 264
-        }
+        },
+        "web_domains": [
+            "maidsafe.net"
+        ]
     },
     {
         "contract_address": "0x7b713b1cb6eafd4061064581579ffccf7df21545",
