@@ -42709,7 +42709,11 @@
         ],
         "holders": {
             "ETH": 55
-        }
+        },
+        "emails": [
+            "\n\t\t\t\t\t\t\t\t\t\t\t\t\tEmail: team@doge.acola.online\n\t\t\t\t\t\t\t\t\t\t\t\t"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x25afed7df566ed3690e6a0b91c02adfa815d3fe2",
@@ -42722,7 +42726,11 @@
         ],
         "holders": {
             "ETH": 58
-        }
+        },
+        "emails": [
+            "info@mysite.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x53be7be0ce7f92bcbd2138305735160fb799be4f",
@@ -42732,7 +42740,12 @@
         },
         "web_domains": [
             "neutaro.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "\n\t\t\t\t\t\tinfo@neutaro.com\t\t\t\t\t"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3ab6ed69ef663bd986ee59205ccad8a20f98b4c2",
@@ -42749,7 +42762,11 @@
         ],
         "holders": {
             "ETH": 129
-        }
+        },
+        "telegram_groups": [
+            "InuraNetwork"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x17729f7ffddd4ed480cf4cfb1668ef90d1e6a24e",
@@ -42804,7 +42821,11 @@
         },
         "web_domains": [
             "equilibria.fi"
-        ]
+        ],
+        "telegram_groups": [
+            "EquilibriaFinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x97d6e56d39c6add9186715795d371293d099d971",
