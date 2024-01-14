@@ -44418,7 +44418,9 @@
         },
         "web_domains": [
             "shibtechai.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7c9bfdb1e56734c7523ffabaf62c9fd99f17f910",
@@ -44500,7 +44502,8 @@
         ],
         "holders": {
             "ETH": 156
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x64db06c089797ac5d8497e4e9596c82b33569b44",
@@ -44510,7 +44513,9 @@
         },
         "web_domains": [
             "pog.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb39364b51d2c97b62b838bc5213b8627eb469101",
@@ -44524,6 +44529,10 @@
         ],
         "holders": {
             "ETH": 440
-        }
+        },
+        "emails": [
+            "info@swotai.org"
+        ],
+        "p6": true
     }
 ]
