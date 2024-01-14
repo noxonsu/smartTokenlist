@@ -44128,5 +44128,87 @@
         "holders": {
             "ETH": 1286
         }
+    },
+    {
+        "contract_address": "0x3b6564b5da73a41d3a66e6558a98fd0e9e1e77ad",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 17
+        }
+    },
+    {
+        "contract_address": "0xeda2604f283dc4c7c7088597ca1e8e6205939b47",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blaster.bot"
+        ],
+        "telegram_groups": [
+            "BLASTER_Portal"
+        ],
+        "holders": {
+            "ETH": 423
+        }
+    },
+    {
+        "contract_address": "0x0058c8581b9fed6864faa654505bc89890cdb2dd",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "BabySmurf9000.com"
+        ],
+        "telegram_groups": [
+            "BabySmurf9000"
+        ],
+        "holders": {
+            "ETH": 990
+        }
+    },
+    {
+        "contract_address": "0xb945e3f853b5f8033c8513cf3ce9f8ad9bebb1c9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 99
+        }
+    },
+    {
+        "contract_address": "0x83edab5d1059c0236c4b734e89da9807fa4c8014",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 286
+        }
+    },
+    {
+        "contract_address": "0xbede1f59fa4412556fef69f1b9969f2003e3f8c1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7300
+        }
+    },
+    {
+        "contract_address": "0x671b710a006040cd82a8070abd497a7215ce6f67",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 574
+        }
+    },
+    {
+        "contract_address": "0x64dd1794bbd8da6cf2c825ebb63e329fa76aaf7a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 48
+        }
+    },
+    {
+        "contract_address": "0x22e211f0916c15a6401ce0fa195722f317ad49cd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 174
+        }
+    },
+    {
+        "contract_address": "0x77e0e0c2baef16db6a8c137b55403fd008686bd2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 534
+        }
     }
 ]
