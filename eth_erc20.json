@@ -43660,7 +43660,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 175
-        }
+        },
+        "web_domains": [
+            "kabosutoken.io"
+        ]
     },
     {
         "contract_address": "0xfca5aa3e6295674a55539f8d96908a7279c652c1",
