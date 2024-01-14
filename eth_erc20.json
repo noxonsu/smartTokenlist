@@ -44022,7 +44022,11 @@
         ],
         "holders": {
             "ETH": 352
-        }
+        },
+        "emails": [
+            "hi@bimbothedog.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xcfcffe432a48db53f59c301422d2edd77b2a88d7",
@@ -44098,7 +44102,11 @@
         ],
         "holders": {
             "ETH": 450
-        }
+        },
+        "telegram_groups": [
+            "baggeportal"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x29de856ee1e2b281c9f6dd3c670272e7c6ea63eb",
@@ -44111,7 +44119,8 @@
         ],
         "holders": {
             "ETH": 405
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5ad02305ba9a4985390170337582986e419f1a2c",
