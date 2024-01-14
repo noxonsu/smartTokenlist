@@ -43764,5 +43764,53 @@
         "holders": {
             "ETH": 643
         }
+    },
+    {
+        "contract_address": "0x74df36add98b52e6dc87982e7bdbbecde38001c3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 305
+        }
+    },
+    {
+        "contract_address": "0x15f370f9bdb6b51ed01a21d79e9212c7a6562103",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 867
+        }
+    },
+    {
+        "contract_address": "0x88200f7d6f84a17f5c4b6859b61bc875a4c1ee61",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x51a59a02ba906194285e81eb1f98ffa28e7cf4c9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pepekingprawn.vip"
+        ],
+        "telegram_groups": [
+            "PepeKingPrawn"
+        ],
+        "holders": {
+            "ETH": 806
+        }
+    },
+    {
+        "contract_address": "0x7b86f9feb2832c3c455148f33acaf59f8a4250ed",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 96
+        }
+    },
+    {
+        "contract_address": "0x2f3c7015d7d840005bd874d1393a961ec18e687d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 42
+        }
     }
 ]
