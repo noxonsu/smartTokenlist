@@ -43272,7 +43272,8 @@
         ],
         "holders": {
             "ETH": 243
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1f3f9d3068568f8040775be2e8c03c103c61f3af",
@@ -43305,11 +43306,13 @@
             "motionpixel.tech"
         ],
         "telegram_groups": [
+            "MotionPixel_bot",
             "motionpixelai"
         ],
         "holders": {
             "ETH": 81
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x69d3cf8b13c72edb11a1f06429a4718ca19a2901",
@@ -43345,7 +43348,8 @@
         ],
         "holders": {
             "ETH": 398
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6349ae2681f495fe1d737e49b8f402e4577e9b4d",
@@ -43358,7 +43362,11 @@
         ],
         "holders": {
             "ETH": 146
-        }
+        },
+        "emails": [
+            "admin@catalystpad.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe1c7e30c42c24582888c758984f6e382096786bd",
@@ -43405,7 +43413,8 @@
         ],
         "holders": {
             "ETH": 153
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x53af0c1b2907bc35f711ef94e6651a10df53af14",
@@ -43418,7 +43427,8 @@
         ],
         "holders": {
             "ETH": 89
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xca04eae5a3f069892746a76d56589f1f23a1b913",
