@@ -44250,7 +44250,8 @@
         ],
         "holders": {
             "ETH": 172
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xeea5fb81328343984298819275bda5489e796e62",
@@ -44273,7 +44274,11 @@
         ],
         "holders": {
             "ETH": 379
-        }
+        },
+        "emails": [
+            "info@goatedcoin.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1a3775507c1632218e48a9d09abe6a6afec046ac",
@@ -44290,7 +44295,12 @@
         },
         "web_domains": [
             "scuti.store"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "info@scuti.store"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6d318d527a1ef3273ba4c616edeec92c0627260d",
@@ -44329,7 +44339,14 @@
         },
         "web_domains": [
             "www.tcati.com"
-        ]
+        ],
+        "telegram_groups": [
+            "CrinoTcati"
+        ],
+        "emails": [
+            "Email: contact@tacti.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3be7bf1a5f23bd8336787d0289b70602f1940875",
@@ -44346,7 +44363,9 @@
         },
         "web_domains": [
             "aifib.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9cbb5bcf2848ae70c6950f4969092f691276a852",
@@ -44367,7 +44386,8 @@
         ],
         "holders": {
             "ETH": 125
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x888888888889c00c67689029d7856aac1065ec11",
