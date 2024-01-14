@@ -43826,5 +43826,147 @@
             "bitcoinistnews"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x35a532d376ffd9a705d0bb319532837337a398e7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tokenmint.io"
+        ],
+        "holders": {
+            "ETH": 488
+        }
+    },
+    {
+        "contract_address": "0xfa45df03811e9dd62eb3ca1effb0a4c99a3a068d",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "lolcoin_erc20"
+        ],
+        "holders": {
+            "ETH": 254
+        }
+    },
+    {
+        "contract_address": "0xd6fd1fd730eee257e4e5ce179b0b63b89ff31808",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "trollerc2.com"
+        ],
+        "telegram_groups": [
+            "Troll2_Erc20"
+        ],
+        "holders": {
+            "ETH": 109
+        }
+    },
+    {
+        "contract_address": "0xeac32927cf2785cbe0d515298cab448538a8cdd7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.studioai.bot",
+            "whitepaper.studioai.bot"
+        ],
+        "telegram_groups": [
+            "StudioAIPortal"
+        ],
+        "holders": {
+            "ETH": 446
+        }
+    },
+    {
+        "contract_address": "0x8cc5aba81a610f4fc01b42c83508ce7a59b8cc10",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.hydraecosystem.com"
+        ],
+        "telegram_groups": [
+            "Hydra_Ecosystem"
+        ],
+        "holders": {
+            "ETH": 401
+        }
+    },
+    {
+        "contract_address": "0x633fe30f0840f30b5ae510c9796019e5d288ddc5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 563
+        }
+    },
+    {
+        "contract_address": "0xd2e4b429cbefaf2cafa9731d66600c44bac851a4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0x8fada3563ca932c4c98ea015bc1bcad305c240e6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x19472037c61d775edcf05bff16632db3ea85f276",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x99e5acf8e48351022e2fb8aaad60489bfe464a4c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x678e840c640f619e17848045d23072844224dd37",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9667
+        }
+    },
+    {
+        "contract_address": "0x52cb9f4caeac66829245e35d4deba703e4ffa697",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0x302cae5dcf8f051d0177043c3438020b89b33218",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "boostco.in"
+        ],
+        "telegram_groups": [
+            "BoostCoinOfficial"
+        ],
+        "holders": {
+            "ETH": 1576
+        }
+    },
+    {
+        "contract_address": "0xb81ae9ae911c4ca9c9f376a18f186efa07f530f6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "thewhiterabbiteth.com"
+        ],
+        "telegram_groups": [
+            "FollowTheWhiteRabbit_Portal"
+        ],
+        "holders": {
+            "ETH": 381
+        }
+    },
+    {
+        "contract_address": "0x485b05ef88b3bef603f908133974c060b7d3dfac",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
     }
 ]
