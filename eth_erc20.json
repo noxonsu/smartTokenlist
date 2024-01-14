@@ -43606,7 +43606,8 @@
         ],
         "holders": {
             "ETH": 453
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5e21d1ee5cf0077b314c381720273ae82378d613",
@@ -43619,7 +43620,8 @@
         ],
         "holders": {
             "ETH": 149
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x328344c5ba9256c4f87e1d2118109cc469591294",
@@ -43653,7 +43655,8 @@
         ],
         "holders": {
             "ETH": 55
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x88c14d60fd151864da10d1103a3a5fd5a96cbd3b",
@@ -43663,7 +43666,11 @@
         },
         "web_domains": [
             "kabosutoken.io"
-        ]
+        ],
+        "telegram_groups": [
+            "kabosuchat"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xfca5aa3e6295674a55539f8d96908a7279c652c1",
@@ -43694,7 +43701,14 @@
         ],
         "holders": {
             "ETH": 328
-        }
+        },
+        "telegram_groups": [
+            "MegaErc"
+        ],
+        "emails": [
+            "info@megaerc20.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3a97e00b48d56bd5e0502e1a2a8c036a040e1b99",
@@ -43738,7 +43752,8 @@
         ],
         "holders": {
             "ETH": 167
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xfe168bf19da9f206b7e3720109e5df747f6d3e13",
