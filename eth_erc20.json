@@ -43899,7 +43899,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 12
-        }
+        },
+        "web_domains": [
+            "cryptodoggies.io"
+        ]
     },
     {
         "contract_address": "0x8fada3563ca932c4c98ea015bc1bcad305c240e6",
@@ -43934,7 +43937,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 11
-        }
+        },
+        "web_domains": [
+            "bigbear.ai"
+        ]
     },
     {
         "contract_address": "0x302cae5dcf8f051d0177043c3438020b89b33218",
