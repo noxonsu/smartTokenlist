@@ -44409,5 +44409,115 @@
         "holders": {
             "ETH": 7
         }
+    },
+    {
+        "contract_address": "0xb1130f320acbde56d9899e07ff78ab9bc95c75ab",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0x7c9bfdb1e56734c7523ffabaf62c9fd99f17f910",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0x4c4a50a61bed3b9024d8ffc1f1d168dc8cb1c689",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "bluarctic"
+        ],
+        "holders": {
+            "ETH": 735
+        }
+    },
+    {
+        "contract_address": "0xfca89d55a768375ab7ca04485a35a964bea828dd",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "delreyinu.org"
+        ],
+        "telegram_groups": [
+            "delrey_inu"
+        ],
+        "holders": {
+            "ETH": 710
+        }
+    },
+    {
+        "contract_address": "0x74be64b45d394fa57816c1950e94dbb8d7a7b306",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.givewell.org",
+            "Twitter.com"
+        ],
+        "telegram_groups": [
+            "GiveWellInu"
+        ],
+        "holders": {
+            "ETH": 626
+        }
+    },
+    {
+        "contract_address": "0x32c6f1c1731ff8f98ee2ede8954f696446307846",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 27
+        }
+    },
+    {
+        "contract_address": "0xca833934d619e4f3558d2278abcf432a2345cc70",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ZuckBucksETH"
+        ],
+        "holders": {
+            "ETH": 23
+        }
+    },
+    {
+        "contract_address": "0x561a671a5e2f3708f4d574af364bafbe8cd84ecc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xdc247546a6551117c8ea82db2cc0ad6e048e5f6e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "lushai.net",
+            "lushai.gitbook.io"
+        ],
+        "telegram_groups": [
+            "lushaiportal"
+        ],
+        "holders": {
+            "ETH": 156
+        }
+    },
+    {
+        "contract_address": "0x64db06c089797ac5d8497e4e9596c82b33569b44",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 59
+        }
+    },
+    {
+        "contract_address": "0xb39364b51d2c97b62b838bc5213b8627eb469101",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "swotai.org",
+            "swotai.gitbook.io"
+        ],
+        "telegram_groups": [
+            "Swot_AI"
+        ],
+        "holders": {
+            "ETH": 440
+        }
     }
 ]
