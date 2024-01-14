@@ -44287,7 +44287,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 91
-        }
+        },
+        "web_domains": [
+            "scuti.store"
+        ]
     },
     {
         "contract_address": "0x6d318d527a1ef3273ba4c616edeec92c0627260d",
@@ -44323,7 +44326,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 131
-        }
+        },
+        "web_domains": [
+            "www.tcati.com"
+        ]
     },
     {
         "contract_address": "0x3be7bf1a5f23bd8336787d0289b70602f1940875",
@@ -44337,7 +44343,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 6
-        }
+        },
+        "web_domains": [
+            "aifib.io"
+        ]
     },
     {
         "contract_address": "0x9cbb5bcf2848ae70c6950f4969092f691276a852",
