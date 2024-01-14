@@ -43807,7 +43807,11 @@
         },
         "web_domains": [
             "www.sheptoken.com"
-        ]
+        ],
+        "telegram_groups": [
+            "ShepkitaInu"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2f3c7015d7d840005bd874d1393a961ec18e687d",
@@ -43817,6 +43821,10 @@
         },
         "web_domains": [
             "bitcoinist.com"
-        ]
+        ],
+        "telegram_groups": [
+            "bitcoinistnews"
+        ],
+        "p6": true
     }
 ]
