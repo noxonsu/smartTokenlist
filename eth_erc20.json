@@ -44137,7 +44137,14 @@
         },
         "web_domains": [
             "unitus.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "unitusfinance"
+        ],
+        "emails": [
+            "contact@unitus.finance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xeda2604f283dc4c7c7088597ca1e8e6205939b47",
@@ -44150,7 +44157,8 @@
         ],
         "holders": {
             "ETH": 423
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0058c8581b9fed6864faa654505bc89890cdb2dd",
@@ -44180,7 +44188,14 @@
         },
         "web_domains": [
             "yorkie.top"
-        ]
+        ],
+        "telegram_groups": [
+            "YorkieInu_token"
+        ],
+        "emails": [
+            "admin@yorkie.top"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbede1f59fa4412556fef69f1b9969f2003e3f8c1",
