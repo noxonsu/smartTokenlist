@@ -43804,13 +43804,19 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 96
-        }
+        },
+        "web_domains": [
+            "www.sheptoken.com"
+        ]
     },
     {
         "contract_address": "0x2f3c7015d7d840005bd874d1393a961ec18e687d",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 42
-        }
+        },
+        "web_domains": [
+            "bitcoinist.com"
+        ]
     }
 ]
