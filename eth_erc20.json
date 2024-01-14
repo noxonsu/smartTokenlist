@@ -42914,7 +42914,8 @@
         ],
         "holders": {
             "ETH": 3964
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0e5f00da8aaef196a719d045db89b5da8f371b32",
@@ -43835,7 +43836,11 @@
         ],
         "holders": {
             "ETH": 488
-        }
+        },
+        "telegram_groups": [
+            "LunaInuERC20"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xfa45df03811e9dd62eb3ca1effb0a4c99a3a068d",
@@ -43858,7 +43863,8 @@
         ],
         "holders": {
             "ETH": 109
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xeac32927cf2785cbe0d515298cab448538a8cdd7",
@@ -43868,11 +43874,16 @@
             "whitepaper.studioai.bot"
         ],
         "telegram_groups": [
+            "StudioAiBot",
             "StudioAIPortal"
         ],
         "holders": {
             "ETH": 446
-        }
+        },
+        "emails": [
+            "team@studioai.bot"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8cc5aba81a610f4fc01b42c83508ce7a59b8cc10",
@@ -43885,7 +43896,11 @@
         ],
         "holders": {
             "ETH": 401
-        }
+        },
+        "emails": [
+            "dev@hydraecosystem.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x633fe30f0840f30b5ae510c9796019e5d288ddc5",
@@ -43902,7 +43917,11 @@
         },
         "web_domains": [
             "cryptodoggies.io"
-        ]
+        ],
+        "telegram_groups": [
+            "crypto_doggies"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8fada3563ca932c4c98ea015bc1bcad305c240e6",
@@ -43940,7 +43959,12 @@
         },
         "web_domains": [
             "bigbear.ai"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "\n\t\t\t\t\t\t\t\t\t\t\t\t\tinfo@bigbear.ai\n\t\t\t\t\t\t\t\t\t\t\t\t"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x302cae5dcf8f051d0177043c3438020b89b33218",
