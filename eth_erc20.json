@@ -44415,7 +44415,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 20
-        }
+        },
+        "web_domains": [
+            "shibtechai.com"
+        ]
     },
     {
         "contract_address": "0x7c9bfdb1e56734c7523ffabaf62c9fd99f17f910",
@@ -44504,7 +44507,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 59
-        }
+        },
+        "web_domains": [
+            "pog.finance"
+        ]
     },
     {
         "contract_address": "0xb39364b51d2c97b62b838bc5213b8627eb469101",
