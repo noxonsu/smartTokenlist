@@ -45459,7 +45459,8 @@
         ],
         "holders": {
             "ETH": 1
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x60c21793b5335d918a7fd42ec30efca1974cbecd",
@@ -45469,7 +45470,9 @@
         },
         "web_domains": [
             "scroll.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe6aba037067a84dc6a21e3ea56918a48e33cb2d7",
@@ -45479,7 +45482,9 @@
         },
         "web_domains": [
             "coliseum-max.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x188e817b02e635d482ae4d81e25dda98a97c4a42",
@@ -45496,7 +45501,9 @@
         },
         "web_domains": [
             "ajna.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x31e2abf378fcc64902a958d79cdea44250c62cc1",
