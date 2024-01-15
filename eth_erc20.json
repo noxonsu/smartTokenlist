@@ -45343,7 +45343,8 @@
         ],
         "holders": {
             "ETH": 0
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8cb61bdc183910c72358bd0664f7c4f639cac01f",
@@ -45363,7 +45364,11 @@
         ],
         "holders": {
             "ETH": 1
-        }
+        },
+        "emails": [
+            "support@shafeela.vip"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa067237f8016d5e3770cf08b20e343ab9ee813d5",
@@ -45376,7 +45381,11 @@
         ],
         "holders": {
             "ETH": 63
-        }
+        },
+        "emails": [
+            "customerservice@greelance.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6cd7fc3118a8ffa40af0f99f3cbda54b0c6d4d1d",
@@ -45414,7 +45423,9 @@
         },
         "web_domains": [
             "aqidex.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x198a5350fde49026b3a100d1b84c113c0d205670",
