@@ -44831,5 +44831,134 @@
             "ETH": 175
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xbfc98be6c7280b3398d682254aa1854a1aa9b6fa",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 442
+        }
+    },
+    {
+        "contract_address": "0x02b590a20a8a51cb84506660bceabb5915db9bfd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 578
+        }
+    },
+    {
+        "contract_address": "0xb08686f3bf55a1ea172542d161a63350baf9e219",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "IKUN_ERC"
+        ],
+        "holders": {
+            "ETH": 950
+        }
+    },
+    {
+        "contract_address": "0x12a34db7bd89c669fb6fe05f1e8356bfbe13b9c2",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ForeverAloneERC"
+        ],
+        "holders": {
+            "ETH": 135
+        }
+    },
+    {
+        "contract_address": "0x503cd987998824192578d0d7950148445667287c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 155
+        }
+    },
+    {
+        "contract_address": "0xc0cebef92700d6ab5b351734410cbd476cf4811d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 22
+        }
+    },
+    {
+        "contract_address": "0x8216f6909c8190882c41ec87b36f729c4f73ee55",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xb2bdd43057d58fe7fcde620323f1e30c2889999d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x8221c366de785bf38d7b05d43e260a4223e9d0b1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xd7281f2169314d480b09ead1fb7200bfde64ac04",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xbb4f3ad7a2cf75d8effc4f6d7bd21d95f06165ca",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 983
+        }
+    },
+    {
+        "contract_address": "0xbe9ab37a414c517b2be2bfa5945665bb07379054",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5686
+        }
+    },
+    {
+        "contract_address": "0xf78d08a14f98f8370257741ffdc52671a78f2fad",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.vivek2024.com"
+        ],
+        "telegram_groups": [
+            "Vivek_Token"
+        ],
+        "holders": {
+            "ETH": 64
+        }
+    },
+    {
+        "contract_address": "0x7bbac6a28a8268a50bd3b4fed47809843cc18a5a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blackrocket.live"
+        ],
+        "telegram_groups": [
+            "BlackRocket_PORTAL"
+        ],
+        "holders": {
+            "ETH": 74
+        }
+    },
+    {
+        "contract_address": "0x22e0c60404322e3202a10b7ef0c681bb0119c2e2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.pussycoin.community"
+        ],
+        "telegram_groups": [
+            "PussyCoinEntry"
+        ],
+        "holders": {
+            "ETH": 69
+        }
     }
 ]
