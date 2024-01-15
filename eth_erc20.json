@@ -45760,7 +45760,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 67
-        }
+        },
+        "web_domains": [
+            "app.sommelier.finance"
+        ]
     },
     {
         "contract_address": "0x244c71d3a7e571df94429dd8878f01d75eb55ed4",
@@ -45787,7 +45790,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 0
-        }
+        },
+        "web_domains": [
+            "saudibonk.com"
+        ]
     },
     {
         "contract_address": "0x97bd0d0a3e9635325ec0b383cff62914a7d50642",
