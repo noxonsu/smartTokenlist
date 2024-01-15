@@ -45411,7 +45411,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 0
-        }
+        },
+        "web_domains": [
+            "aqidex.com"
+        ]
     },
     {
         "contract_address": "0x198a5350fde49026b3a100d1b84c113c0d205670",
