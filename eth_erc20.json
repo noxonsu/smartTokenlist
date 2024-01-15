@@ -45324,5 +45324,100 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x352984dbf1ef87c0840bd48043021ffec2fcaced",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x27dab51c2c5b6af23df64143c61ffcfa36f35e6d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pelfort.vip"
+        ],
+        "telegram_groups": [
+            "pelforteth"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x8cb61bdc183910c72358bd0664f7c4f639cac01f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 239
+        }
+    },
+    {
+        "contract_address": "0x6f4b2300134b8918012f7252dc6c61a85c15f10a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "shafeela.vip"
+        ],
+        "telegram_groups": [
+            "shafeela"
+        ],
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xa067237f8016d5e3770cf08b20e343ab9ee813d5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "greelance.com"
+        ],
+        "telegram_groups": [
+            "greelancer"
+        ],
+        "holders": {
+            "ETH": 63
+        }
+    },
+    {
+        "contract_address": "0x6cd7fc3118a8ffa40af0f99f3cbda54b0c6d4d1d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 51
+        }
+    },
+    {
+        "contract_address": "0x1a963df363d01eebb2816b366d61c917f20e1ebe",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2825
+        }
+    },
+    {
+        "contract_address": "0xeeca64bd1d4218a76061ed890d065d61420c9b95",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xad13ed877ae40e7036c0e02ee9d7b8681c0ba95f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0x3254553b255da055e7bc74d8f1170e2998afe261",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x198a5350fde49026b3a100d1b84c113c0d205670",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 29
+        }
     }
 ]
