@@ -44871,14 +44871,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 155
-        }
+        },
+        "web_domains": [
+            "fognet.io"
+        ]
     },
     {
         "contract_address": "0xc0cebef92700d6ab5b351734410cbd476cf4811d",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 22
-        }
+        },
+        "web_domains": [
+            "capsluck.io"
+        ]
     },
     {
         "contract_address": "0x8216f6909c8190882c41ec87b36f729c4f73ee55",
@@ -44892,7 +44898,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 0
-        }
+        },
+        "web_domains": [
+            "ethscriptions.com"
+        ]
     },
     {
         "contract_address": "0x8221c366de785bf38d7b05d43e260a4223e9d0b1",
