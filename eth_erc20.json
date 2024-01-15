@@ -45716,7 +45716,8 @@
         ],
         "holders": {
             "ETH": 0
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x94a1c1e0e497b876f6a0f88fd86d1160702a79fa",
@@ -45736,7 +45737,8 @@
         ],
         "holders": {
             "ETH": 0
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb9e7f24af86b2eec49ffc0727f204370a4ef511c",
@@ -45763,7 +45765,11 @@
         },
         "web_domains": [
             "app.sommelier.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "getsomm"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x244c71d3a7e571df94429dd8878f01d75eb55ed4",
@@ -45783,7 +45789,8 @@
         ],
         "holders": {
             "ETH": 0
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4e4990e997e1df3f6b39ff49384e2e7e99bc55fe",
@@ -45793,7 +45800,11 @@
         },
         "web_domains": [
             "saudibonk.com"
-        ]
+        ],
+        "telegram_groups": [
+            "SaudiBonkOfficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x97bd0d0a3e9635325ec0b383cff62914a7d50642",
@@ -45827,7 +45838,8 @@
         ],
         "holders": {
             "ETH": 396
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x225ed76adf74c4b668bed64de90a829774298a76",
