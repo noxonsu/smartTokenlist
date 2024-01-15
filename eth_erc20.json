@@ -44723,7 +44723,8 @@
         ],
         "holders": {
             "ETH": 293
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x00282fd551d03dc033256c4bf119532e8c735d8a",
@@ -44761,7 +44762,11 @@
         ],
         "holders": {
             "ETH": 78
-        }
+        },
+        "telegram_groups": [
+            "meshlink"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf9f33512e7d78664cdd83221d9796793866514fe",
@@ -44819,10 +44824,12 @@
             "www.coloredcoins.online"
         ],
         "telegram_groups": [
+            "GFY20ERC20",
             "Colored_Coins"
         ],
         "holders": {
             "ETH": 175
-        }
+        },
+        "p6": true
     }
 ]
