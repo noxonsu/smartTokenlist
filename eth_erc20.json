@@ -45466,14 +45466,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 0
-        }
+        },
+        "web_domains": [
+            "scroll.io"
+        ]
     },
     {
         "contract_address": "0xe6aba037067a84dc6a21e3ea56918a48e33cb2d7",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 175
-        }
+        },
+        "web_domains": [
+            "coliseum-max.com"
+        ]
     },
     {
         "contract_address": "0x188e817b02e635d482ae4d81e25dda98a97c4a42",
@@ -45487,7 +45493,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 92
-        }
+        },
+        "web_domains": [
+            "ajna.finance"
+        ]
     },
     {
         "contract_address": "0x31e2abf378fcc64902a958d79cdea44250c62cc1",
