@@ -45224,7 +45224,8 @@
         ],
         "holders": {
             "ETH": 40
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa2e123dc38f1899a9d9515c65036690854cb184b",
@@ -45251,7 +45252,8 @@
         ],
         "holders": {
             "ETH": 55
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x758b4684be769e92eefea93f60dda0181ea303ec",
@@ -45319,6 +45321,8 @@
         },
         "web_domains": [
             "outsideyc.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
