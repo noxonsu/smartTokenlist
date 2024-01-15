@@ -44711,5 +44711,118 @@
         "holders": {
             "ETH": 25
         }
+    },
+    {
+        "contract_address": "0x9118f701d05da88aa49af3a4e3366b4f537709fe",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.block-estate.org"
+        ],
+        "telegram_groups": [
+            "blockestateerc"
+        ],
+        "holders": {
+            "ETH": 293
+        }
+    },
+    {
+        "contract_address": "0x00282fd551d03dc033256c4bf119532e8c735d8a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3874
+        }
+    },
+    {
+        "contract_address": "0x945facb997494cc2570096c74b5f66a3507330a1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 65
+        }
+    },
+    {
+        "contract_address": "0xb1e4a5f70090947e6ad3fa2dc648cba7b6f913e9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 433
+        }
+    },
+    {
+        "contract_address": "0x87d73e916d7057945c9bcd8cdd94e42a6f47f776",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4585
+        }
+    },
+    {
+        "contract_address": "0x6ebc604dbf942cc5c843603f3d6fe8ed32936573",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "meshlink.me"
+        ],
+        "holders": {
+            "ETH": 78
+        }
+    },
+    {
+        "contract_address": "0xf9f33512e7d78664cdd83221d9796793866514fe",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 51
+        }
+    },
+    {
+        "contract_address": "0x72fc1c1c926bd26712f62e7485392cd405478f05",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 316
+        }
+    },
+    {
+        "contract_address": "0x3db6ba6ab6f95efed1a6e794cad492faaabf294d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3735
+        }
+    },
+    {
+        "contract_address": "0xb1f1f47061a7be15c69f378cb3f69423bd58f2f8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1804
+        }
+    },
+    {
+        "contract_address": "0x4501a82790ef2587dfeb93dc038541228e516597",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 891
+        }
+    },
+    {
+        "contract_address": "0xad260b1dacc6a8b9913ac223bc5e49f5ef5b82a3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0x765e5af8538d5cf77b511658d8e7700808a7e7e5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 40
+        }
+    },
+    {
+        "contract_address": "0xf0a426c01e3c2368de3b58de32a28ed84cb74470",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.coloredcoins.online"
+        ],
+        "telegram_groups": [
+            "Colored_Coins"
+        ],
+        "holders": {
+            "ETH": 175
+        }
     }
 ]
