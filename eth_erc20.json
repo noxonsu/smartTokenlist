@@ -45194,5 +45194,128 @@
         "holders": {
             "ETH": 2
         }
+    },
+    {
+        "contract_address": "0x02d3a27ac3f55d5d91fb0f52759842696a864217",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "charged.fi",
+            "charged.fi"
+        ],
+        "holders": {
+            "ETH": 3947
+        }
+    },
+    {
+        "contract_address": "0x390e61f798267fe7aa9bbe61be8bb1776250d44c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2323
+        }
+    },
+    {
+        "contract_address": "0x422d7dae9a58399c611a8d26aa58e6d35fdd920d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.kaboomcoin.love"
+        ],
+        "telegram_groups": [
+            "kaboom_love"
+        ],
+        "holders": {
+            "ETH": 40
+        }
+    },
+    {
+        "contract_address": "0xa2e123dc38f1899a9d9515c65036690854cb184b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 916
+        }
+    },
+    {
+        "contract_address": "0x0c5bd5eacc944131eac93bbb700c54cc93e4fd32",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 465
+        }
+    },
+    {
+        "contract_address": "0xb5ef7d8a59ac8cc05ee9b0173fecce90d214548c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "diamonderc.pro"
+        ],
+        "telegram_groups": [
+            "Diamond_Entry"
+        ],
+        "holders": {
+            "ETH": 55
+        }
+    },
+    {
+        "contract_address": "0x758b4684be769e92eefea93f60dda0181ea303ec",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dapp.tools"
+        ],
+        "holders": {
+            "ETH": 860
+        }
+    },
+    {
+        "contract_address": "0x80a9bf2b338b7cd1aef6bfc2e89db0737aecbeef",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 272
+        }
+    },
+    {
+        "contract_address": "0x586a7cfe21e55ec0e24f0bfb118f77fe4ca87bab",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "https"
+        ],
+        "holders": {
+            "ETH": 1857
+        }
+    },
+    {
+        "contract_address": "0x8287c7b963b405b7b8d467db9d79eec40625b13a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1094
+        }
+    },
+    {
+        "contract_address": "0xb7ce0ba1bb198887796819aa8d67c29abf9de630",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 197
+        }
+    },
+    {
+        "contract_address": "0x1b66374a83b449804e252fa04f740cbb13f7d6d5",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "WynnERC20"
+        ],
+        "holders": {
+            "ETH": 400
+        }
+    },
+    {
+        "contract_address": "0x0423d7c27d1dde7eb4aae02dae6b651c7225e6f9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 610
+        }
+    },
+    {
+        "contract_address": "0xddef9122b0b4d76df98e60fd97e36e8dc5831079",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 176
+        }
     }
 ]
