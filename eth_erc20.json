@@ -45003,7 +45003,8 @@
         ],
         "holders": {
             "ETH": 113
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x94e0bab2f6ab1f19f4750e42d7349f2740513ad5",
@@ -45034,7 +45035,9 @@
         },
         "web_domains": [
             "occupi.app"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb9ec78bd89d3ef17537f130cc72750fd4de85f82",
@@ -45055,14 +45058,16 @@
         ],
         "telegram_groups": [
             "VuzzAIBot",
-            "VuzzMind"
+            "VuzzMind",
+            "VuzzTestBot"
         ],
         "emails": [
             "contact@vuzz.app"
         ],
         "holders": {
             "ETH": 486
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x32eda739748d7315fca9ba7db6d70d23db22f990",
@@ -45082,7 +45087,9 @@
         },
         "web_domains": [
             "acm-finance.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc8688783f2036237e999c24947f183d74382e435",
@@ -45092,7 +45099,9 @@
         ],
         "holders": {
             "ETH": 138
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9a28e6cca8464507832408eec7d208e38adbb89f",
@@ -45109,7 +45118,9 @@
         ],
         "holders": {
             "ETH": 27
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa5d2923b8996e7d9d850e045405e7cdb45a9a998",
