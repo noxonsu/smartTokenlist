@@ -45884,7 +45884,11 @@
         ],
         "holders": {
             "ETH": 0
-        }
+        },
+        "emails": [
+            "team@squirtlesaxophone.org"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa6c378f52e3fd2005f0969ab2f21f4c51684b063",
@@ -45894,7 +45898,11 @@
         },
         "web_domains": [
             "kasnode.com"
-        ]
+        ],
+        "telegram_groups": [
+            "kasalphalaunch"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x04ff3dc80504e55039a685bcf97e71f96a41b6a3",
@@ -45907,7 +45915,11 @@
         ],
         "holders": {
             "ETH": 350
-        }
+        },
+        "emails": [
+            "team@nezhatoken.meme"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xaf4dce16da2877f8c9e00544c93b62ac40631f16",
@@ -45934,7 +45946,8 @@
         ],
         "holders": {
             "ETH": 207
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x23153866f2cf030afdff2e36199d01603227b9e7",
@@ -45978,7 +45991,14 @@
         },
         "web_domains": [
             "balancenetwork.io"
-        ]
+        ],
+        "telegram_groups": [
+            "BalanceNetworkio"
+        ],
+        "emails": [
+            "noreply@exchange-balancenetwork.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xfc226294dafb6e69905b3e7635b575d0508a42c5",
@@ -46007,11 +46027,13 @@
             "www.stock-ai.io"
         ],
         "telegram_groups": [
+            "StockAiErc20Bot",
             "stockaierc20"
         ],
         "holders": {
             "ETH": 0
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd6b8c7e9a267c5797eafe094c0365be83a4e186e",
