@@ -46414,7 +46414,11 @@
         ],
         "holders": {
             "ETH": 196
-        }
+        },
+        "emails": [
+            "info@lifespan.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb014661975adfad8cfe261c30a76c161a7fb4956",
