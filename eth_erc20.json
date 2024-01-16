@@ -46308,5 +46308,72 @@
         "holders": {
             "ETH": 0
         }
+    },
+    {
+        "contract_address": "0x79061166af6240733e3f33e56a830d8384abc105",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "donald.cash"
+        ],
+        "telegram_groups": [
+            "DONALDDUCKonETH"
+        ],
+        "holders": {
+            "ETH": 394
+        }
+    },
+    {
+        "contract_address": "0xd60fa7dd6ce3166dc631cdce240ac7d213b45fef",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "BitgoldETH"
+        ],
+        "holders": {
+            "ETH": 477
+        }
+    },
+    {
+        "contract_address": "0xdcdf3325925008ef4bdda737aa28fe1b4277ac19",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 841
+        }
+    },
+    {
+        "contract_address": "0x42f1ffeabd9551aec26d70257c8a4d4c31b72180",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 50
+        }
+    },
+    {
+        "contract_address": "0xef8e456967122db4c3c160314bde8d2602ad6199",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4163
+        }
+    },
+    {
+        "contract_address": "0x0f6a03c7d02ccb1c44f2f786f39de7b26f731338",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.grokstwin.vip"
+        ],
+        "telegram_groups": [
+            "grokstwinai"
+        ],
+        "holders": {
+            "ETH": 42
+        }
+    },
+    {
+        "contract_address": "0x508bfb005bb83245e2d31f2bbc1a3f90e10989ab",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "trollgeportal"
+        ],
+        "holders": {
+            "ETH": 162
+        }
     }
 ]
