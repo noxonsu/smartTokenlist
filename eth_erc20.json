@@ -46654,7 +46654,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 13
-        }
+        },
+        "web_domains": [
+            "bytegrok.io"
+        ]
     },
     {
         "contract_address": "0x19ffc51c7aec11f9b0f6027f895f68c02687bc07",
