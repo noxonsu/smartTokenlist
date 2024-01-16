@@ -45891,7 +45891,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 0
-        }
+        },
+        "web_domains": [
+            "kasnode.com"
+        ]
     },
     {
         "contract_address": "0x04ff3dc80504e55039a685bcf97e71f96a41b6a3",
@@ -45972,7 +45975,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 108
-        }
+        },
+        "web_domains": [
+            "balancenetwork.io"
+        ]
     },
     {
         "contract_address": "0xfc226294dafb6e69905b3e7635b575d0508a42c5",
