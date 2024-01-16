@@ -46136,7 +46136,11 @@
         ],
         "holders": {
             "ETH": 1
-        }
+        },
+        "emails": [
+            "contact@cryptogenai.net"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2ea1609a86e6b5f937df82f174f31119d1123e93",
@@ -46161,7 +46165,8 @@
         ],
         "holders": {
             "ETH": 461
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd3bff1c477bc7de4622a5ae1e521e3dc211aaa74",
@@ -46216,7 +46221,8 @@
         ],
         "holders": {
             "ETH": 0
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xdc5e9445169c73cf21e1da0b270e8433cac69959",
