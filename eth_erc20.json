@@ -47410,7 +47410,8 @@
         ],
         "holders": {
             "ETH": 185
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xcbf4d5efa82e32a9187385480a7c74cb062b956c",
@@ -47433,7 +47434,8 @@
         ],
         "holders": {
             "ETH": 323
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf72ec875ed3e34c59d4c06a01e8461ad51821f9d",
@@ -47446,7 +47448,8 @@
         ],
         "holders": {
             "ETH": 35
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x61f103bced90dc4d5e980f5c0e5799e23be08e5c",
@@ -47459,7 +47462,8 @@
         ],
         "holders": {
             "ETH": 123
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa37a78a9cf2862f5d8e363cd62071b2120fb320a",
@@ -47472,7 +47476,11 @@
         ],
         "holders": {
             "ETH": 186
-        }
+        },
+        "emails": [
+            "contact@apollodogtoken.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x63e28547f0997e8ab265b24b7e5df302f3498ff3",
@@ -47488,11 +47496,19 @@
             "jarviserc.ai"
         ],
         "telegram_groups": [
-            "jarvisERC"
+            "jarviserc_bot",
+            "osnovoco",
+            "jarvisERC",
+            "jarviserc",
+            "JarvisSupportGroup"
         ],
         "holders": {
             "ETH": 156
-        }
+        },
+        "emails": [
+            "team@jarviserc.ai"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x42f63fbf24d0b0be3a50f0977e63670dbb389f7d",
