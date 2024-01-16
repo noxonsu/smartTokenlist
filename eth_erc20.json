@@ -46250,5 +46250,58 @@
         "holders": {
             "ETH": 0
         }
+    },
+    {
+        "contract_address": "0x2673099769201c08e9a5e63b25fbaf25541a6557",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0x3731190c314ab5408582135958fbc7b3d3c0e9d4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 817
+        }
+    },
+    {
+        "contract_address": "0xcdc104f68ff57df950a6c31c3884f8fd7e770fec",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x9b01637302b6adfc2c82678e2a8d680cff6337b7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 139
+        }
+    },
+    {
+        "contract_address": "0xe593f3509eb2a620dc61078bcdedba355f083e8b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 347
+        }
+    },
+    {
+        "contract_address": "0xedf470b1d8f007a537d0ab4e9e474628abc8d253",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x8e81d527f8fa05d82c514401c8144275174557cd",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ccb_portal",
+            "ccb_portal"
+        ],
+        "holders": {
+            "ETH": 0
+        }
     }
 ]
