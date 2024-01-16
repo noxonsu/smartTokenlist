@@ -46316,11 +46316,16 @@
             "donald.cash"
         ],
         "telegram_groups": [
+            "DONALDDUCK_ETH",
             "DONALDDUCKonETH"
         ],
         "holders": {
             "ETH": 394
-        }
+        },
+        "emails": [
+            "info@donald.cash "
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd60fa7dd6ce3166dc631cdce240ac7d213b45fef",
@@ -46364,7 +46369,8 @@
         ],
         "holders": {
             "ETH": 42
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x508bfb005bb83245e2d31f2bbc1a3f90e10989ab",
