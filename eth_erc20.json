@@ -46657,7 +46657,11 @@
         },
         "web_domains": [
             "bytegrok.io"
-        ]
+        ],
+        "telegram_groups": [
+            "ByteGrokio"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x19ffc51c7aec11f9b0f6027f895f68c02687bc07",
@@ -46677,7 +46681,8 @@
         ],
         "holders": {
             "ETH": 52
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x832a9bcf1773831ec57513803d4f9dc9b587dd3f",
@@ -46717,7 +46722,8 @@
         ],
         "holders": {
             "ETH": 2
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xff931a7946d2fa11cf9123ef0dc6f6c7c6cb60c4",
