@@ -46648,5 +46648,109 @@
         "holders": {
             "ETH": 608
         }
+    },
+    {
+        "contract_address": "0xb7957c51182ced2e5f91b5732b174223ee13047a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0x19ffc51c7aec11f9b0f6027f895f68c02687bc07",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x53d39faf35339cf2011ad4ff769e4fde27739d51",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "financebros.vip"
+        ],
+        "telegram_groups": [
+            "financebroseth"
+        ],
+        "holders": {
+            "ETH": 52
+        }
+    },
+    {
+        "contract_address": "0x832a9bcf1773831ec57513803d4f9dc9b587dd3f",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "capcoinerc20"
+        ],
+        "holders": {
+            "ETH": 644
+        }
+    },
+    {
+        "contract_address": "0x641f601568dfa3c1e045b9f6387d151ef699894a",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ethereumcoinerc20"
+        ],
+        "holders": {
+            "ETH": 85
+        }
+    },
+    {
+        "contract_address": "0x15c1cab705b9ddb9ffeeea608ed8bafcdd4c0396",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2455
+        }
+    },
+    {
+        "contract_address": "0xe655c4b69331b65d37fa072e45c640159e8603cf",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "athenalayer.xyz"
+        ],
+        "telegram_groups": [
+            "athena_layer"
+        ],
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xff931a7946d2fa11cf9123ef0dc6f6c7c6cb60c4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dbabyeth.com"
+        ],
+        "telegram_groups": [
+            "dbabyeth"
+        ],
+        "holders": {
+            "ETH": 634
+        }
+    },
+    {
+        "contract_address": "0xc68a4c68f17fed266a5e39e7140650acadfe78f8",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "runestonetoken"
+        ],
+        "holders": {
+            "ETH": 197
+        }
+    },
+    {
+        "contract_address": "0x8c51a4a1c9ba951db2229a1a75524b8790e2eef1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 52
+        }
+    },
+    {
+        "contract_address": "0x4ee54bea7966bf21bec4fd96816a95a3610f2e45",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3412
+        }
     }
 ]
