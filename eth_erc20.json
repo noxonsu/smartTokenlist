@@ -46381,5 +46381,119 @@
         "holders": {
             "ETH": 162
         }
+    },
+    {
+        "contract_address": "0xabaf9c47094b1a774432ffae5b6d92c78ee69bbb",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "NobodyElon"
+        ],
+        "holders": {
+            "ETH": 910
+        }
+    },
+    {
+        "contract_address": "0x3127294f1fd3c097ef31e54301069346b29d0209",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "blast_inu"
+        ],
+        "holders": {
+            "ETH": 1499
+        }
+    },
+    {
+        "contract_address": "0x759a0fbf5b32721bcc05b31a284ab42299951a22",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.lifespan.io",
+            "www.zuzu-coin.com"
+        ],
+        "telegram_groups": [
+            "ZuzuCoin_Erc"
+        ],
+        "holders": {
+            "ETH": 196
+        }
+    },
+    {
+        "contract_address": "0xb014661975adfad8cfe261c30a76c161a7fb4956",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 50
+        }
+    },
+    {
+        "contract_address": "0xd7c5cdf7ac0a3573e9c9033991a19dad5c5cd918",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Trolls_ERC20"
+        ],
+        "holders": {
+            "ETH": 132
+        }
+    },
+    {
+        "contract_address": "0xcdb9d30a3ba48cdfcb0ecbe19317e6cf783672f1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2172
+        }
+    },
+    {
+        "contract_address": "0x668f7dfb8c8d716839fa5dbea317d8723ebe6110",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tokenmint.io"
+        ],
+        "holders": {
+            "ETH": 803
+        }
+    },
+    {
+        "contract_address": "0x09b4134ca5e90acd2d10bff4e9da71d65b878e10",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "emoji_meme"
+        ],
+        "holders": {
+            "ETH": 321
+        }
+    },
+    {
+        "contract_address": "0x41b1f9dcd5923c9542b6957b9b72169595acbc5c",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "cheemsportal"
+        ],
+        "holders": {
+            "ETH": 248
+        }
+    },
+    {
+        "contract_address": "0x162bb2bb5fb03976a69dd25bb9afce6140db1433",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "webofdog.com"
+        ],
+        "telegram_groups": [
+            "dog_eth"
+        ],
+        "holders": {
+            "ETH": 1632
+        }
+    },
+    {
+        "contract_address": "0xfd1450a131599ff34f3be1775d8c8bf79e353d8c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.shibacoin.tech"
+        ],
+        "telegram_groups": [
+            "Shiba_Portal"
+        ],
+        "holders": {
+            "ETH": 2032
+        }
     }
 ]
