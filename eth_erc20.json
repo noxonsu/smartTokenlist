@@ -47255,7 +47255,8 @@
         ],
         "holders": {
             "ETH": 54
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x95804b8f82851da73b1a2c174221067fd2acd60b",
@@ -47268,7 +47269,8 @@
         ],
         "holders": {
             "ETH": 29
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xce74e47eab4b842e1f9c321fc098a9c6f738287c",
@@ -47281,7 +47283,8 @@
         ],
         "holders": {
             "ETH": 338
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc530513a9cee3958ff59a464849d0dc88b4294c7",
@@ -47304,7 +47307,9 @@
         ],
         "holders": {
             "ETH": 29
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf567f426b120c3da6037794c4cc46aac960f23b8",
@@ -47320,11 +47325,13 @@
             "ihost.gg"
         ],
         "telegram_groups": [
+            "ihostgg",
             "iHostGG"
         ],
         "holders": {
             "ETH": 35
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7bb7982f6164d96ca958999c77f260cafb375482",
