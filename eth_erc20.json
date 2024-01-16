@@ -46968,11 +46968,13 @@
             "www.hullo-erc.com"
         ],
         "telegram_groups": [
-            "Hullo_Erc"
+            "Hullo_Erc",
+            "LFGcoinerc20"
         ],
         "holders": {
             "ETH": 267
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xae93dfbef7cfbbaca7c3a9e8b55ae1be34c3db16",
@@ -46985,7 +46987,8 @@
         ],
         "holders": {
             "ETH": 156
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xdc524e3c6910257744c1f93cf15e9f472b5bd236",
