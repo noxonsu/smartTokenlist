@@ -46046,7 +46046,11 @@
         ],
         "holders": {
             "ETH": 251
-        }
+        },
+        "emails": [
+            "admin@thehouseatpoohcorner.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc12c55e70cb491b884b36d2c47bbff750ed8944c",
