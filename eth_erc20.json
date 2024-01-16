@@ -46944,5 +46944,75 @@
             "support@fleximine.ai"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x04d39b36c906f43593a702230404a4399900ac36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 57
+        }
+    },
+    {
+        "contract_address": "0x8666cb197af5103f7a3a0295b50efea47f3df78b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 846
+        }
+    },
+    {
+        "contract_address": "0x5df8aaa5ee4ec452f335e5ab12c50f3a2a6ee887",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "warpcast.com",
+            "lensport.io",
+            "www.hullo-erc.com"
+        ],
+        "telegram_groups": [
+            "Hullo_Erc"
+        ],
+        "holders": {
+            "ETH": 267
+        }
+    },
+    {
+        "contract_address": "0xae93dfbef7cfbbaca7c3a9e8b55ae1be34c3db16",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.yourmometh.com"
+        ],
+        "telegram_groups": [
+            "YourMOM_ERC20"
+        ],
+        "holders": {
+            "ETH": 156
+        }
+    },
+    {
+        "contract_address": "0xdc524e3c6910257744c1f93cf15e9f472b5bd236",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10929
+        }
+    },
+    {
+        "contract_address": "0xedae06a2dbdd21038608adce58fd173afdba5add",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 82
+        }
+    },
+    {
+        "contract_address": "0xd08623fb2a1f044025eec65886011cf5d0f06b01",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1336
+        }
+    },
+    {
+        "contract_address": "0x3700adfd26d5bc062cb8b8a77e68fbd43f58ecab",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 133
+        }
     }
 ]
