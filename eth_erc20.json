@@ -46787,7 +46787,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 285
-        }
+        },
+        "web_domains": [
+            "damex.io"
+        ]
     },
     {
         "contract_address": "0x986ee2b944c42d017f52af21c4c69b84dbea35d8",
@@ -46804,7 +46807,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 49
-        }
+        },
+        "web_domains": [
+            "truckx.xyz"
+        ]
     },
     {
         "contract_address": "0xfaeb0d24ff79af3684e008859d071f60536b0769",
@@ -46849,7 +46855,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 67
-        }
+        },
+        "web_domains": [
+            "iotex.io"
+        ]
     },
     {
         "contract_address": "0x2f5fa8adf5f09a5f9de05b65fe82a404913f02c4",
@@ -46907,6 +46916,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 6
-        }
+        },
+        "web_domains": [
+            "fleximine.ai"
+        ]
     }
 ]
