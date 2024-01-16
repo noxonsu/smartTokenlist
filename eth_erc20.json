@@ -863,7 +863,8 @@
         ],
         "holders": {
             "ETH": 14821
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc6cc3d07c705e39d11c7f60d8836c7c78d4ac5f1",
@@ -20473,7 +20474,8 @@
         ],
         "holders": {
             "ETH": 583
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb22c05cedbf879a661fcc566b5a759d005cf7b4c",
@@ -47029,7 +47031,11 @@
         ],
         "holders": {
             "ETH": 154
-        }
+        },
+        "emails": [
+            " contact@cxm.technology"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa4ddde6405e6ae8174f0580dabbe6e688babc987",
@@ -47052,7 +47058,8 @@
         ],
         "holders": {
             "ETH": 42
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb1e8df7e585b1ffed100843ea99b54324db49d67",
@@ -47072,7 +47079,8 @@
         ],
         "holders": {
             "ETH": 228
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd53ce171d79aa8d1f26f9556d2527eb6af84b5aa",
@@ -47099,7 +47107,8 @@
         ],
         "holders": {
             "ETH": 74
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5c7311c39eed2c7bd008990a4d6efa75caf440eb",
@@ -47146,7 +47155,11 @@
         ],
         "holders": {
             "ETH": 214
-        }
+        },
+        "emails": [
+            "info@losererc.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x93c3c0030139492dae32fe9131d9a8f1ff828c84",
