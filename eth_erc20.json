@@ -48420,7 +48420,10 @@
         ],
         "holders": {
             "ETH": 50
-        }
+        },
+        "web_domains": [
+            "openleverage.finance"
+        ]
     },
     {
         "contract_address": "0x98a160b2bb6a7dd1f8ff571c179db5c9f35309da",
@@ -48447,7 +48450,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 101
-        }
+        },
+        "web_domains": [
+            "catinabox.finance"
+        ]
     },
     {
         "contract_address": "0x6287ec6937c40d9525f727c7713de3f2aebbe302",
@@ -48464,7 +48470,10 @@
         ],
         "holders": {
             "ETH": 286
-        }
+        },
+        "web_domains": [
+            "www.dancarlin.com"
+        ]
     },
     {
         "contract_address": "0x01d29ed2852a9f85f3b8c894b8461420c3d83221",
@@ -48498,7 +48507,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 15
-        }
+        },
+        "web_domains": [
+            "aitrolls.io"
+        ]
     },
     {
         "contract_address": "0xe7222c0620711818c9a0295b8b67eadf5a539cb8",
