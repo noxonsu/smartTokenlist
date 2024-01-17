@@ -48737,7 +48737,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 47
-        }
+        },
+        "web_domains": [
+            "altlayer.io"
+        ]
     },
     {
         "contract_address": "0x4ad34389dc45f61a4ba304e44ca413f76d9038ab",
@@ -48764,14 +48767,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 214
-        }
+        },
+        "web_domains": [
+            "evereth.net"
+        ]
     },
     {
         "contract_address": "0x06553fadbae9669d67b7ffec6231937429009d53",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 24
-        }
+        },
+        "web_domains": [
+            "trollcoin.com"
+        ]
     },
     {
         "contract_address": "0xfaba6f8e4a5e8ab82f62fe7c39859fa577269be3",
