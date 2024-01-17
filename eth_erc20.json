@@ -47798,5 +47798,157 @@
             "ETH": 28
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x428dca9537116148616a5a3e44035af17238fe9d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1058
+        }
+    },
+    {
+        "contract_address": "0x2f1ee92524285012c02a4e638ec010fa7f61fd94",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "about.me",
+            "siphonlifespell.com"
+        ],
+        "telegram_groups": [
+            "SiphonLifeSpell"
+        ],
+        "holders": {
+            "ETH": 220
+        }
+    },
+    {
+        "contract_address": "0x83e62688deb6aa7e73d73074830e39708f19d5ea",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "derponeth.com"
+        ],
+        "telegram_groups": [
+            "derponeth"
+        ],
+        "holders": {
+            "ETH": 85
+        }
+    },
+    {
+        "contract_address": "0x01c33e27da1192e6baae5a33d2624f79e6fe0385",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 105
+        }
+    },
+    {
+        "contract_address": "0xa0ce6660253c1ab638ab14cb3e0be32914d6ca35",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "0xoracle.com"
+        ],
+        "telegram_groups": [
+            "Oracle_erc20"
+        ],
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0xf8a502ba114e7b954d524d0517bd25971095aae6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x049715c70fdbdd2be4814f76a53dc3d6f4367756",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1746
+        }
+    },
+    {
+        "contract_address": "0x39620ab90af9a7a0c78596d6512cc8d7f2a750ba",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sigmacoin.finance"
+        ],
+        "telegram_groups": [
+            "sigmaportal"
+        ],
+        "holders": {
+            "ETH": 233
+        }
+    },
+    {
+        "contract_address": "0x98585dfc8d9e7d48f0b1ae47ce33332cf4237d96",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1620
+        }
+    },
+    {
+        "contract_address": "0x0c2395acb0268657b0b99441123dac2106915ba2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 85
+        }
+    },
+    {
+        "contract_address": "0x350f5c111090b20786cda0f18bae96ec0cae0de1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "letsfuckinggo.wtf"
+        ],
+        "telegram_groups": [
+            "lfgwtf"
+        ],
+        "holders": {
+            "ETH": 450
+        }
+    },
+    {
+        "contract_address": "0xcabbbd4ee89ae506f8a1ceb5889e563902d88fea",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xab539048ba1a6202ecf1f12d55a5ad5b5dc31e4f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x441bc60b2e855a01278be36a3a8b8ae0d1c2eb0e",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "MarvinRobotPORTAL"
+        ],
+        "holders": {
+            "ETH": 303
+        }
+    },
+    {
+        "contract_address": "0x9d7b68970d2be6dc93124477b4e2e1c9a6b180aa",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dedepepekiller.com"
+        ],
+        "telegram_groups": [
+            "dedepepekiller"
+        ],
+        "holders": {
+            "ETH": 1731
+        }
+    },
+    {
+        "contract_address": "0xed0439eacf4c4965ae4613d77a5c2efe10e5f183",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3816
+        }
     }
 ]
