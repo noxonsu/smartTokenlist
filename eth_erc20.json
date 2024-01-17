@@ -48241,7 +48241,11 @@
         ],
         "holders": {
             "ETH": 45
-        }
+        },
+        "emails": [
+            "admin@888token.fun"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2c5bc2ba3614fd27fcc7022ea71d9172e2632c16",
@@ -48262,7 +48266,8 @@
         ],
         "holders": {
             "ETH": 108
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd5d192cc09b58879cb08e972cec5a9c18b9c011f",
@@ -48370,7 +48375,11 @@
         ],
         "holders": {
             "ETH": 53
-        }
+        },
+        "emails": [
+            "nukem@enablede.fi"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7e17a9a0bb02035354a344a3256997b0137466ae",
