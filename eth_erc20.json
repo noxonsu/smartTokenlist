@@ -48595,7 +48595,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 5
-        }
+        },
+        "web_domains": [
+            "bitcoin.org"
+        ]
     },
     {
         "contract_address": "0xebdb54e76bfec9ab4e06ccf6e484e4126f81befc",
@@ -48616,7 +48619,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 139
-        }
+        },
+        "web_domains": [
+            "darkwebmetaverse.live"
+        ]
     },
     {
         "contract_address": "0x0d8f09083f1ba6734eae5235448aaa928f83aea8",
