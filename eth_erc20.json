@@ -48678,5 +48678,106 @@
             "ETH": 317
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xb702d3548837b524e88aa0efd79b01871779a8dc",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cupoftea.tech"
+        ],
+        "telegram_groups": [
+            "COTERC20"
+        ],
+        "holders": {
+            "ETH": 147
+        }
+    },
+    {
+        "contract_address": "0x488cf9905cd9f5dea7212b4571c8b1052631ab8d",
+        "sourceScanned": "processed",
+        "emails": [
+            "goncalo.sa@consensys.net"
+        ],
+        "holders": {
+            "ETH": 365
+        }
+    },
+    {
+        "contract_address": "0x41f9168de84315860b8aa99c9332d1c425c175f3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1349
+        }
+    },
+    {
+        "contract_address": "0x26b701c29f6355abb118eec1550d798714509ce3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.genaieth.xyz"
+        ],
+        "telegram_groups": [
+            "GenAI_Portal"
+        ],
+        "holders": {
+            "ETH": 132
+        }
+    },
+    {
+        "contract_address": "0xace775c0787f723dfbccbf2b847c61870dfc3d1f",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "QAnon_Erc"
+        ],
+        "holders": {
+            "ETH": 121
+        }
+    },
+    {
+        "contract_address": "0x113404d2003c4acf4231a3a62374bb503bff03d7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 47
+        }
+    },
+    {
+        "contract_address": "0x4ad34389dc45f61a4ba304e44ca413f76d9038ab",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bumfunerc.com"
+        ],
+        "telegram_groups": [
+            "BumFunVerify"
+        ],
+        "holders": {
+            "ETH": 42
+        }
+    },
+    {
+        "contract_address": "0x3fb7ebf0eac3dbeb6eedcc2f6d52dbd63c7c9b3c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 79
+        }
+    },
+    {
+        "contract_address": "0xe46a1d19962ea120765d3139c588ffd617be04a8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 214
+        }
+    },
+    {
+        "contract_address": "0x06553fadbae9669d67b7ffec6231937429009d53",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0xfaba6f8e4a5e8ab82f62fe7c39859fa577269be3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11422
+        }
     }
 ]
