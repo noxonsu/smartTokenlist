@@ -48119,7 +48119,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 90
-        }
+        },
+        "web_domains": [
+            "coincentral.com"
+        ]
     },
     {
         "contract_address": "0xe08ddc0f47a12fd998455e5ab4c08b04d8b7821d",
