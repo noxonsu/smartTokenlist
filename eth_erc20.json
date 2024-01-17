@@ -49169,11 +49169,13 @@
             "clippycoin.io"
         ],
         "telegram_groups": [
+            "ClippyThePaperclipBot",
             "ClippyAIPortal"
         ],
         "holders": {
             "ETH": 75
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd807f7e2818db8eda0d28b5be74866338eaedb86",
@@ -49240,7 +49242,8 @@
         ],
         "holders": {
             "ETH": 70
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf6760bbc5fd0eebe293a019184ee004810b7fee0",
