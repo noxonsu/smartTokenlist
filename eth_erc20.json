@@ -49014,7 +49014,9 @@
         },
         "web_domains": [
             "dgnx.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf96287ea71abb5c8c58961c7a3cd3982a505e264",
@@ -49024,7 +49026,11 @@
         ],
         "holders": {
             "ETH": 222
-        }
+        },
+        "telegram_groups": [
+            "StemTechAI"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb9d27bc093ed0a3b7c18366266704cfe5e7af77b",
@@ -49034,7 +49040,11 @@
         },
         "web_domains": [
             "www.carbify.io"
-        ]
+        ],
+        "telegram_groups": [
+            "carbify"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7d611e4cf1c7b94561c4caa5602f329d108336e3",
@@ -49054,7 +49064,8 @@
         ],
         "holders": {
             "ETH": 371
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x21018cbc9ad730542130be180b577b74db2a9397",
@@ -49081,7 +49092,8 @@
         ],
         "holders": {
             "ETH": 29
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7fe6f98862aa08f1ed7742f1b556bc07d7ae62c7",
@@ -49116,7 +49128,11 @@
         ],
         "holders": {
             "ETH": 170
-        }
+        },
+        "emails": [
+            "admin@centrx.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8eb5bd8c9ab0f8ad28e94693f3c889f490be2ab0",
