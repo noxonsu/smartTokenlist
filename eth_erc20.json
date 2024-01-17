@@ -49154,5 +49154,99 @@
             "ETH": 43
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xa33d265e62c0fd13f97e062c0c95f74aeb5abc33",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 39
+        }
+    },
+    {
+        "contract_address": "0x074aa7eafc22a862540de7592ec6b7f1c6eb645f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "clippycoin.io"
+        ],
+        "telegram_groups": [
+            "ClippyAIPortal"
+        ],
+        "holders": {
+            "ETH": 75
+        }
+    },
+    {
+        "contract_address": "0xd807f7e2818db8eda0d28b5be74866338eaedb86",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4530
+        }
+    },
+    {
+        "contract_address": "0x7c7aa99027892c5647d8733c8e0f0b3fde4147bc",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "asapbot.xyz"
+        ],
+        "telegram_groups": [
+            "myasapbot"
+        ],
+        "holders": {
+            "ETH": 919
+        }
+    },
+    {
+        "contract_address": "0xc36ad98e62598ae24d4487d8012209f687c30d45",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "asapbot.xyz"
+        ],
+        "telegram_groups": [
+            "myasapbot"
+        ],
+        "holders": {
+            "ETH": 1098
+        }
+    },
+    {
+        "contract_address": "0xad161afae7db2a048b042bd68e11c38c9c042cc1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 46
+        }
+    },
+    {
+        "contract_address": "0xa203eb78fee91c8459c6d4ef3a899d8724ee5b35",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 527
+        }
+    },
+    {
+        "contract_address": "0x64b0e48fcf4616456ce3ca2bf328f6bf48279e7c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 998
+        }
+    },
+    {
+        "contract_address": "0x46f80194dd36fa526f78d9d1f8fff7d2bfdc744d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.boristyson.lol"
+        ],
+        "telegram_groups": [
+            "borisportal"
+        ],
+        "holders": {
+            "ETH": 70
+        }
+    },
+    {
+        "contract_address": "0xf6760bbc5fd0eebe293a019184ee004810b7fee0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 847
+        }
     }
 ]
