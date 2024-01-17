@@ -47590,7 +47590,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 170
-        }
+        },
+        "web_domains": [
+            "frax.finance"
+        ]
     },
     {
         "contract_address": "0xc2cb328bc5303939762d738be8063f65d6a59916",
@@ -47697,7 +47700,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 195
-        }
+        },
+        "web_domains": [
+            "www.grayscale.com"
+        ]
     },
     {
         "contract_address": "0xc7033e9a101f11233fc9469f48882f9d958b5bf6",
