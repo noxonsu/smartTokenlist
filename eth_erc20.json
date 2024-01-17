@@ -35328,7 +35328,11 @@
         ],
         "holders": {
             "ETH": 1219
-        }
+        },
+        "telegram_groups": [
+            "HOLD10_erc20"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7a5ce6abd131ea6b148a022cb76fc180ae3315a6",
@@ -47570,7 +47574,8 @@
         ],
         "holders": {
             "ETH": 365
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5acd02940d2e56d9402b8d224e56bd800c544466",
@@ -47583,7 +47588,8 @@
         ],
         "holders": {
             "ETH": 475
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa663b02cf0a4b149d2ad41910cb81e23e1c41c32",
@@ -47593,7 +47599,11 @@
         },
         "web_domains": [
             "frax.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "fraxfinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc2cb328bc5303939762d738be8063f65d6a59916",
@@ -47613,7 +47623,8 @@
         ],
         "holders": {
             "ETH": 7
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xcec93f6893056c6debbca3125ab08902d6fe5c51",
@@ -47670,7 +47681,8 @@
         ],
         "holders": {
             "ETH": 174
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x66b7c5264f9b44e673ae660b81a846c4d709051c",
@@ -47680,7 +47692,11 @@
         ],
         "holders": {
             "ETH": 488
-        }
+        },
+        "telegram_groups": [
+            "HOLD10_erc20"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0a266778c113a8f0d3d7aeacd12b74a7da5037a0",
