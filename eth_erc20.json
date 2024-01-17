@@ -48856,7 +48856,12 @@
         },
         "web_domains": [
             "geckosetc.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "sales@GeckosEtc.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5d8e18a07166551d1c960d2cd486af2ab3fc8e41",
@@ -48866,7 +48871,9 @@
         ],
         "holders": {
             "ETH": 103
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3cf6e5cdecba127f982738619569f3f3fc44e4fe",
@@ -48948,7 +48955,11 @@
         ],
         "holders": {
             "ETH": 68
-        }
+        },
+        "telegram_groups": [
+            "holdex"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xffc97d72e13e01096502cb8eb52dee56f74dad7b",
@@ -48974,10 +48985,12 @@
             "irsecosystem.com"
         ],
         "telegram_groups": [
-            "IRSEcosystem"
+            "IRSEcosystem",
+            "IRSscannerbot"
         ],
         "holders": {
             "ETH": 89
-        }
+        },
+        "p6": true
     }
 ]
