@@ -48122,7 +48122,9 @@
         },
         "web_domains": [
             "coincentral.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe08ddc0f47a12fd998455e5ab4c08b04d8b7821d",
@@ -48135,7 +48137,8 @@
         ],
         "holders": {
             "ETH": 208
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7463c17e3d91b17d9cd0b1e9fdfa18d4ddc3cf0e",
@@ -48172,7 +48175,8 @@
         ],
         "holders": {
             "ETH": 180
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9bcda9bd845e4bfa7e6a4c012b93f8ba821ac618",
@@ -48209,7 +48213,8 @@
         ],
         "holders": {
             "ETH": 113
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd008f7b7a6da77fc804b62d17eb20adf9dfdd6f6",
