@@ -48853,7 +48853,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 24
-        }
+        },
+        "web_domains": [
+            "geckosetc.com"
+        ]
     },
     {
         "contract_address": "0x5d8e18a07166551d1c960d2cd486af2ab3fc8e41",
