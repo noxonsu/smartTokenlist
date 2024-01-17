@@ -48403,7 +48403,9 @@
         ],
         "holders": {
             "ETH": 8
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x83cb9449b7077947a13bf32025a8eaa3fb1d8a5e",
@@ -48423,7 +48425,11 @@
         },
         "web_domains": [
             "openleverage.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "openleverageofficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x98a160b2bb6a7dd1f8ff571c179db5c9f35309da",
@@ -48436,7 +48442,8 @@
         ],
         "holders": {
             "ETH": 27
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7690202e2c2297bcd03664e31116d1dffe7e3b73",
@@ -48453,7 +48460,9 @@
         },
         "web_domains": [
             "catinabox.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6287ec6937c40d9525f727c7713de3f2aebbe302",
@@ -48473,7 +48482,8 @@
         },
         "web_domains": [
             "www.dancarlin.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x01d29ed2852a9f85f3b8c894b8461420c3d83221",
@@ -48500,7 +48510,8 @@
         ],
         "holders": {
             "ETH": 117
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x276292c949c0213dc5d53251445f868ab776169e",
