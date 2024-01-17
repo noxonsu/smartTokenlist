@@ -49011,7 +49011,10 @@
         ],
         "holders": {
             "ETH": 56
-        }
+        },
+        "web_domains": [
+            "dgnx.finance"
+        ]
     },
     {
         "contract_address": "0xf96287ea71abb5c8c58961c7a3cd3982a505e264",
@@ -49028,7 +49031,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 153
-        }
+        },
+        "web_domains": [
+            "www.carbify.io"
+        ]
     },
     {
         "contract_address": "0x7d611e4cf1c7b94561c4caa5602f329d108336e3",
