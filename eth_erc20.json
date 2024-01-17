@@ -47709,7 +47709,8 @@
         ],
         "holders": {
             "ETH": 338
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb3fcdfb6db85847619e3dc20084faba152ffeafa",
@@ -47719,7 +47720,9 @@
         },
         "web_domains": [
             "www.grayscale.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc7033e9a101f11233fc9469f48882f9d958b5bf6",
@@ -47739,7 +47742,8 @@
         ],
         "holders": {
             "ETH": 2
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe7f5c477e81f8da4468cc661d0940dd43db0186c",
@@ -47752,7 +47756,8 @@
         ],
         "holders": {
             "ETH": 155
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xad8d0de33c43eefe104a279cdb6ae250c12e6214",
@@ -47791,6 +47796,7 @@
         ],
         "holders": {
             "ETH": 28
-        }
+        },
+        "p6": true
     }
 ]
