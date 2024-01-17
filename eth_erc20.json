@@ -48992,5 +48992,144 @@
             "ETH": 89
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x6c10d1611a5a95cb967e4bcab5791fd101194949",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0x0000000000300dd8b0230efcfef136ecdf6abcde",
+        "sourceScanned": "processed",
+        "emails": [
+            "danieldegendev@gmail.com",
+            "nick@perfectabstractions.com",
+            "nick@perfectabstractions.com",
+            "nick@perfectabstractions.com"
+        ],
+        "holders": {
+            "ETH": 56
+        }
+    },
+    {
+        "contract_address": "0xf96287ea71abb5c8c58961c7a3cd3982a505e264",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.stem.computer"
+        ],
+        "holders": {
+            "ETH": 222
+        }
+    },
+    {
+        "contract_address": "0xb9d27bc093ed0a3b7c18366266704cfe5e7af77b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 153
+        }
+    },
+    {
+        "contract_address": "0x7d611e4cf1c7b94561c4caa5602f329d108336e3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 182
+        }
+    },
+    {
+        "contract_address": "0x1b9934e8c5761a536b8e62ff72527f181cf4ac03",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.moniebot.com"
+        ],
+        "telegram_groups": [
+            "moniebotportal"
+        ],
+        "holders": {
+            "ETH": 371
+        }
+    },
+    {
+        "contract_address": "0x21018cbc9ad730542130be180b577b74db2a9397",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3007
+        }
+    },
+    {
+        "contract_address": "0x53ef97232627fca7845413dca568564c46f31d32",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x1522441e0f97e59ab0ab9557af0a889148755988",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "soniccoin.fyi"
+        ],
+        "telegram_groups": [
+            "soniccoinportal"
+        ],
+        "holders": {
+            "ETH": 29
+        }
+    },
+    {
+        "contract_address": "0x7fe6f98862aa08f1ed7742f1b556bc07d7ae62c7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xa007599855adb8b937089d5c8934a01093d3cafe",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "btc-inu.com"
+        ],
+        "telegram_groups": [
+            "BitcoinInuERC"
+        ],
+        "holders": {
+            "ETH": 553
+        }
+    },
+    {
+        "contract_address": "0xaf943aa900386b5f3735dd8a29812e90ec8c58ee",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.centrx.io",
+            "exchange.centrx.io",
+            "whitepaper.centrx.io"
+        ],
+        "telegram_groups": [
+            "Centrx"
+        ],
+        "holders": {
+            "ETH": 170
+        }
+    },
+    {
+        "contract_address": "0x8eb5bd8c9ab0f8ad28e94693f3c889f490be2ab0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 497
+        }
+    },
+    {
+        "contract_address": "0xb33e9e923fa3168b5bc7edb50ba82c56558eb586",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "enchant.cash"
+        ],
+        "telegram_groups": [
+            "enchantcash"
+        ],
+        "holders": {
+            "ETH": 43
+        }
     }
 ]
