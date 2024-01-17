@@ -48521,7 +48521,12 @@
         },
         "web_domains": [
             "aitrolls.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "  at team@aitrolls.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe7222c0620711818c9a0295b8b67eadf5a539cb8",
