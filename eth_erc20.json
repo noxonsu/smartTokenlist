@@ -48008,7 +48008,8 @@
         ],
         "holders": {
             "ETH": 119
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9ce07410673206c693bcec9b07710767637a564c",
@@ -48028,7 +48029,8 @@
         ],
         "holders": {
             "ETH": 112
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd10bc8517059e51b625e1e57a60b348d552f685d",
@@ -48075,7 +48077,8 @@
         ],
         "holders": {
             "ETH": 399
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xdde0df39558dedca13c330e7b55310430b7e7248",
@@ -48088,7 +48091,11 @@
         ],
         "holders": {
             "ETH": 225
-        }
+        },
+        "emails": [
+            "EMail: PorkysRailroad@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xeac1236222d92fc66e1fd44122c132c4e122859b",
