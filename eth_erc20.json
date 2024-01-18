@@ -50343,7 +50343,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "giddy.co"
+        ]
     },
     {
         "contract_address": "0x089c595af7a0c8284621aa593c4cca3f7827cd92",
