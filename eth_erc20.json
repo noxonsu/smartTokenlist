@@ -49560,7 +49560,9 @@
         },
         "web_domains": [
             "sifu.vision"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x359108ca299ca693502ef217e2109ad02aa4277c",
