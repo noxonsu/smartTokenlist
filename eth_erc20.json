@@ -49644,7 +49644,15 @@
         },
         "web_domains": [
             "neuralaicoin.com"
-        ]
+        ],
+        "telegram_groups": [
+            "legitlaunchbsctokens",
+            "Neuralaiportal"
+        ],
+        "emails": [
+            "Contact Us : team@neuralai.app"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3bcea8707e40b185a33f5922a4dcdfec6033a5ee",
@@ -49654,7 +49662,9 @@
         },
         "web_domains": [
             "xter.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x885034b1f2c9f698ff3e9255f6aeeadc0c29165b",
@@ -49664,7 +49674,9 @@
         },
         "web_domains": [
             "grok.x.ai"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xfcc24ec0cce31306a9541bfbfe45ff8a0f34f36e",
@@ -49688,7 +49700,14 @@
         },
         "web_domains": [
             "davos.xyz"
-        ]
+        ],
+        "telegram_groups": [
+            "davosprotocol"
+        ],
+        "emails": [
+            "marketing@davos.xyz"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd5d99b7e9697ba8bb1da48f07ba81900c7572cea",
@@ -49706,7 +49725,9 @@
         ],
         "holders": {
             "ETH": 6
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0be87729309b1cf91dc4be625f4f84e97c8cc8d5",
