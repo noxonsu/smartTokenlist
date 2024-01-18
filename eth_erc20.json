@@ -50073,5 +50073,97 @@
         "holders": {
             "ETH": 16
         }
+    },
+    {
+        "contract_address": "0xa6dae3b73a66ba423ecf6f4a624ccf0d13fe07f0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 115
+        }
+    },
+    {
+        "contract_address": "0xd4568d313fa2d5c6eba37c9f30f6fb8d1c552ddd",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "docs.ledgity.finance"
+        ],
+        "emails": [
+            "lila@ledgity.com",
+            "security@ledgity.com"
+        ],
+        "holders": {
+            "ETH": 36
+        }
+    },
+    {
+        "contract_address": "0xc3e310253d5dc6cf6fc7cbe9b4d73284988953bc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0xa6fb1df483b24eeab569e19447e0e107003b9e15",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 318
+        }
+    },
+    {
+        "contract_address": "0xda9aea8258f5f1a152715b653821d078fdcfa26a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 416
+        }
+    },
+    {
+        "contract_address": "0x3adf095d04311d7bf05c838f0d3dc34a83d81ab6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 718
+        }
+    },
+    {
+        "contract_address": "0x7497a76f1f1d8e6b95cad284539c24f492dbdf2a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.nobodytoken.xyz"
+        ],
+        "telegram_groups": [
+            "Nobody_Erc"
+        ],
+        "holders": {
+            "ETH": 183
+        }
+    },
+    {
+        "contract_address": "0xee772cec929d8430b4fa7a01cd7fbd159a68aa83",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "shanghaiinu.io"
+        ],
+        "telegram_groups": [
+            "shanghaiinu"
+        ],
+        "holders": {
+            "ETH": 2768
+        }
+    },
+    {
+        "contract_address": "0xa9e6b23ea5fddde9ab1f5a94c05b740ea74e6956",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 92
+        }
+    },
+    {
+        "contract_address": "0xaebbd7b2eb03f84126f6849753b809755d7532f9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bit.ly"
+        ],
+        "holders": {
+            "ETH": 3390
+        }
     }
 ]
