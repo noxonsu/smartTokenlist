@@ -49445,5 +49445,74 @@
         "holders": {
             "ETH": 713
         }
+    },
+    {
+        "contract_address": "0xf4d861575ecc9493420a3f5a14f85b13f0b50eb3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10180
+        }
+    },
+    {
+        "contract_address": "0x39a43788bb02d288b62057592eef977e5e514281",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0xaa0226174ea6066e02d64716cc287c34d37befa3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0xe619634d54e1a850ca080133726e36036f40ec21",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 346
+        }
+    },
+    {
+        "contract_address": "0x2b1cdecc1ebcb32b2e1c8b78d767bd3da628e692",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "VitalikButerinEntry"
+        ],
+        "holders": {
+            "ETH": 558
+        }
+    },
+    {
+        "contract_address": "0xdccf3968b667e515c9fc952aa6bf834eb9d8476c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 487
+        }
+    },
+    {
+        "contract_address": "0xf8fde8a259a3698902c88bdb1e13ff28cd7f6f09",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x4474fbb29947ebfe4b5d2f7cc2bb53b2afd56bd1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 374
+        }
+    },
+    {
+        "contract_address": "0x8f828a0644f12fa352888e645a90333d30f6fd7d",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "riniainu"
+        ],
+        "holders": {
+            "ETH": 1294
+        }
     }
 ]
