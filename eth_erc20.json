@@ -49641,21 +49641,30 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 109
-        }
+        },
+        "web_domains": [
+            "neuralaicoin.com"
+        ]
     },
     {
         "contract_address": "0x3bcea8707e40b185a33f5922a4dcdfec6033a5ee",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 61
-        }
+        },
+        "web_domains": [
+            "xter.io"
+        ]
     },
     {
         "contract_address": "0x885034b1f2c9f698ff3e9255f6aeeadc0c29165b",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 100
-        }
+        },
+        "web_domains": [
+            "grok.x.ai"
+        ]
     },
     {
         "contract_address": "0xfcc24ec0cce31306a9541bfbfe45ff8a0f34f36e",
@@ -49676,7 +49685,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 29
-        }
+        },
+        "web_domains": [
+            "davos.xyz"
+        ]
     },
     {
         "contract_address": "0xd5d99b7e9697ba8bb1da48f07ba81900c7572cea",
