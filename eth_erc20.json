@@ -50346,7 +50346,9 @@
         },
         "web_domains": [
             "giddy.co"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x089c595af7a0c8284621aa593c4cca3f7827cd92",
@@ -50369,7 +50371,8 @@
         ],
         "holders": {
             "ETH": 242
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6e3e3d4827a883e31d7f371ba16e817914fdb7ba",
@@ -50383,7 +50386,11 @@
         ],
         "holders": {
             "ETH": 50
-        }
+        },
+        "emails": [
+            "contact@omnilabs.pro"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x227015f8e0e7388288b15def297389ecc78968ae",
