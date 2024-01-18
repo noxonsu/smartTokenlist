@@ -50561,7 +50561,8 @@
         ],
         "holders": {
             "ETH": 219
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x80b7e7100f2ec8cadfd7eb8fd39e62e23001cd4a",
@@ -50574,7 +50575,8 @@
         ],
         "holders": {
             "ETH": 148
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5eed99d066a8caf10f3e4327c1b3d8b673485eed",
@@ -50594,7 +50596,11 @@
         },
         "web_domains": [
             "deepmind.google"
-        ]
+        ],
+        "emails": [
+            "Email (e.g., name@example.com)"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x87db20d78ba4d80cd99357b05bb8c75ec87836fd",
