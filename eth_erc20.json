@@ -49267,7 +49267,9 @@
         ],
         "holders": {
             "ETH": 225
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe6d81ed5a120be0071753921bb252f5fde894f07",
@@ -49280,7 +49282,8 @@
         ],
         "holders": {
             "ETH": 165
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9fefecb4d1401ceff4ec0be6920a6d5157fb8693",
@@ -49295,7 +49298,8 @@
         ],
         "holders": {
             "ETH": 17
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xec21890967a8ceb3e55a3f79dac4e90673ba3c2e",
@@ -49336,7 +49340,17 @@
         ],
         "holders": {
             "ETH": 176
-        }
+        },
+        "telegram_groups": [
+            "BlackWaterLabs_bot",
+            "BlackwaterLabs",
+            "M24BWL_bot",
+            "M16BWL_bot"
+        ],
+        "emails": [
+            "contact@blackwaterlabs.ai"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x431d5dff03120afa4bdf332c61a6e1766ef37bdb",
@@ -49356,7 +49370,9 @@
         ],
         "holders": {
             "ETH": 31
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x66a3a58f812d0f433daaf1d96e14fd72d1d03d67",
@@ -49376,7 +49392,8 @@
         ],
         "holders": {
             "ETH": 20
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3fbc95e03da2a5425088c5cb0ee453ac7b447be9",
