@@ -50505,5 +50505,99 @@
             "ETH": 52
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x6c806eddad78a5505fce27b18c6f859fc9739bec",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 676
+        }
+    },
+    {
+        "contract_address": "0xddec3eb054d06e8189579662f8dce2d3dd0b89e6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 62
+        }
+    },
+    {
+        "contract_address": "0x79b9498c5745ee4990e646ca444cb59260830410",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x7c07f7abe10ce8e33dc6c5ad68fe033085256a84",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org"
+        ],
+        "holders": {
+            "ETH": 1450
+        }
+    },
+    {
+        "contract_address": "0xdf574c24545e5ffecb9a659c229253d4111d87e1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9459
+        }
+    },
+    {
+        "contract_address": "0xc6a684dd412e0d162cf6654b3a4cb9aca99fff63",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.leo-token.com"
+        ],
+        "telegram_groups": [
+            "LeoGrokDog"
+        ],
+        "holders": {
+            "ETH": 219
+        }
+    },
+    {
+        "contract_address": "0x80b7e7100f2ec8cadfd7eb8fd39e62e23001cd4a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "oroerc.io"
+        ],
+        "telegram_groups": [
+            "ouroborosportal"
+        ],
+        "holders": {
+            "ETH": 148
+        }
+    },
+    {
+        "contract_address": "0x5eed99d066a8caf10f3e4327c1b3d8b673485eed",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 336
+        }
+    },
+    {
+        "contract_address": "0xafc0f868a84a71706c32e9e6cba1f7c6207e4569",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "deepmind_erc20"
+        ],
+        "holders": {
+            "ETH": 95
+        }
+    },
+    {
+        "contract_address": "0x87db20d78ba4d80cd99357b05bb8c75ec87836fd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1746
+        }
     }
 ]
