@@ -49980,7 +49980,8 @@
         ],
         "holders": {
             "ETH": 34
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6567eb3ca66595b61f43e2eb5493d9974a9e0156",
@@ -49989,11 +49990,13 @@
             "manta.network"
         ],
         "telegram_groups": [
-            "mantanetworkofficial"
+            "mantanetworkofficial",
+            "mantanetwork"
         ],
         "holders": {
             "ETH": 66
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x04c86baf148f9b1f3aee74fd8789151b4866dd83",
@@ -50006,7 +50009,8 @@
         ],
         "holders": {
             "ETH": 215
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xde60adfddaabaaac3dafa57b26acc91cb63728c4",
