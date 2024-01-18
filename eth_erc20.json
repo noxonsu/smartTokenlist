@@ -50434,7 +50434,8 @@
         ],
         "holders": {
             "ETH": 153
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x12e6bafdf26d35616f34747b0060541631fec1ac",
@@ -50443,11 +50444,17 @@
             "pilotai.pro"
         ],
         "telegram_groups": [
-            "Pilotaiportal"
+            "PAI_AutoPosting_bot",
+            "Pilotaiportal",
+            "Pilot_Ai_Hype_bot",
+            "chocomoportfolio",
+            "Pilotai_General_bot",
+            "PAIPost_bot"
         ],
         "holders": {
             "ETH": 108
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x69833361991ed76f9e8dbbcdf9ea1520febfb4a7",
@@ -50496,6 +50503,7 @@
         ],
         "holders": {
             "ETH": 52
-        }
+        },
+        "p6": true
     }
 ]
