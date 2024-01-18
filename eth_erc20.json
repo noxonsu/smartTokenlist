@@ -49406,7 +49406,8 @@
         ],
         "holders": {
             "ETH": 85
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x94af659a34a813f5c2ad6cbaab45b5111d4d431f",
@@ -49416,11 +49417,14 @@
             "trust-ai.gitbook.io"
         ],
         "telegram_groups": [
-            "TrustAIportal"
+            "TrustKYCbot",
+            "TrustAIportal",
+            "TrustAIPortal"
         ],
         "holders": {
             "ETH": 192
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4829e519ac579d99f1e1bd0a07cdaef159ad944a",
