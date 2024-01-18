@@ -50168,5 +50168,72 @@
         "holders": {
             "ETH": 3390
         }
+    },
+    {
+        "contract_address": "0xef9e6123eff4dae9db1e6d585884b45b369a8ad1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x85a91c8c070c71e889020273d7e455cc9a01981c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "kemusan.xyz"
+        ],
+        "telegram_groups": [
+            "kemusanerc"
+        ],
+        "holders": {
+            "ETH": 262
+        }
+    },
+    {
+        "contract_address": "0xda8f203327208e0fa68d80e5480d3e1506f8b33e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1154
+        }
+    },
+    {
+        "contract_address": "0x0ffeb22f687dbb4a3029de88cd19b13ebf3110ea",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "SkibidiToilet.fun"
+        ],
+        "telegram_groups": [
+            "SkibidiMemecoin"
+        ],
+        "holders": {
+            "ETH": 185
+        }
+    },
+    {
+        "contract_address": "0x418cca7e7ffbef7642ab996f1341a434be25c592",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "savvyai.vip"
+        ],
+        "telegram_groups": [
+            "savvyai"
+        ],
+        "holders": {
+            "ETH": 54
+        }
+    },
+    {
+        "contract_address": "0xca3ac5d4e1ca648f9a8529e9f223f8124660f5f8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 673
+        }
+    },
+    {
+        "contract_address": "0x56dbe01c6b28b6c9d22b2f88d2ad415b39b59334",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 161
+        }
     }
 ]
