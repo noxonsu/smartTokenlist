@@ -49818,7 +49818,11 @@
         },
         "web_domains": [
             "de.fi"
-        ]
+        ],
+        "telegram_groups": [
+            "dedotfi"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6c5146e923ce3854ed3cf73aafee10fda770e92b",
@@ -49831,7 +49835,8 @@
         ],
         "holders": {
             "ETH": 348
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xcb27e0b9530d5107302e3e0691dd0f64faf498b0",
@@ -49878,7 +49883,8 @@
         ],
         "holders": {
             "ETH": 72
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe2f668f6166eda65620a01c4c116a5f6e5528614",
