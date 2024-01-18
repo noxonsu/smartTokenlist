@@ -49815,7 +49815,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 175
-        }
+        },
+        "web_domains": [
+            "de.fi"
+        ]
     },
     {
         "contract_address": "0x6c5146e923ce3854ed3cf73aafee10fda770e92b",
