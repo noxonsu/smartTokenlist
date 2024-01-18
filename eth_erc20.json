@@ -50401,5 +50401,101 @@
         "holders": {
             "ETH": 61
         }
+    },
+    {
+        "contract_address": "0x28e4f2b4f9215d0093b95c458b52108267671fbd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 283
+        }
+    },
+    {
+        "contract_address": "0xd9e6987d77bf2c6d0647b8181fd68a259f838c36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 316
+        }
+    },
+    {
+        "contract_address": "0xe9ec59066e6f4e1671351dd4b70366b660da8b61",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 42
+        }
+    },
+    {
+        "contract_address": "0xdbb3b188c74c672cf5de6b4f739c72e7abd7c75c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mineai.tech"
+        ],
+        "telegram_groups": [
+            "MineAI_Official"
+        ],
+        "holders": {
+            "ETH": 153
+        }
+    },
+    {
+        "contract_address": "0x12e6bafdf26d35616f34747b0060541631fec1ac",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pilotai.pro"
+        ],
+        "telegram_groups": [
+            "Pilotaiportal"
+        ],
+        "holders": {
+            "ETH": 108
+        }
+    },
+    {
+        "contract_address": "0x69833361991ed76f9e8dbbcdf9ea1520febfb4a7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0x6b1d394ca67fdb9c90bbd26fe692dda4f4f53ecd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 246
+        }
+    },
+    {
+        "contract_address": "0xee182fe21fb0e222ffb44381b8bfbc9db2613619",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 522
+        }
+    },
+    {
+        "contract_address": "0x32e8dddc3eb15e523f66033e185406994ac77beb",
+        "sourceScanned": "failed",
+        "holders": {
+            "ETH": 165
+        }
+    },
+    {
+        "contract_address": "0xb57a5f29eb6b3b057d3d9cd9ad04d8fe7ccc587e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 819
+        }
+    },
+    {
+        "contract_address": "0xe58ffa5bbc2ff8757bd0300ae99b3bd4a99d292b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.taiwancoin888.com",
+            "metadrop.com."
+        ],
+        "telegram_groups": [
+            "basedtaiwan"
+        ],
+        "holders": {
+            "ETH": 52
+        }
     }
 ]
