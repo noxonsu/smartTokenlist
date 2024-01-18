@@ -50187,7 +50187,8 @@
         ],
         "holders": {
             "ETH": 262
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xda8f203327208e0fa68d80e5480d3e1506f8b33e",
@@ -50207,7 +50208,11 @@
         ],
         "holders": {
             "ETH": 185
-        }
+        },
+        "emails": [
+            "Team@SkibidiToilet.fun"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x418cca7e7ffbef7642ab996f1341a434be25c592",
@@ -50220,7 +50225,8 @@
         ],
         "holders": {
             "ETH": 54
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xca3ac5d4e1ca648f9a8529e9f223f8124660f5f8",
