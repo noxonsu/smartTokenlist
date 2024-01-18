@@ -49461,7 +49461,11 @@
         },
         "web_domains": [
             "ondo.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "ondofinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xaa0226174ea6066e02d64716cc287c34d37befa3",
