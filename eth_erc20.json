@@ -50591,7 +50591,10 @@
         ],
         "holders": {
             "ETH": 95
-        }
+        },
+        "web_domains": [
+            "deepmind.google"
+        ]
     },
     {
         "contract_address": "0x87db20d78ba4d80cd99357b05bb8c75ec87836fd",
