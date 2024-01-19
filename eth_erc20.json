@@ -51295,7 +51295,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 137
-        }
+        },
+        "web_domains": [
+            "iluc.io"
+        ]
     },
     {
         "contract_address": "0xd2dc706e41c9f5187b05a9154af1ffbbe264a0b1",
@@ -51336,6 +51339,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 26
-        }
+        },
+        "web_domains": [
+            "nibiru.fi"
+        ]
     }
 ]
