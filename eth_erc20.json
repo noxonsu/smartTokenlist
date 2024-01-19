@@ -51600,12 +51600,12 @@
             "balancedao.medium.com"
         ],
         "telegram_groups": [
-            "Balance_AI",
             "Balance_AI"
         ],
         "holders": {
             "ETH": 426
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5e17908c91c840e799b4904777c00e5ea4962596",
@@ -51618,7 +51618,8 @@
         ],
         "holders": {
             "ETH": 62
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xca6ea08ac0f3f94cf9e0bfef646a92619493f931",
@@ -51628,7 +51629,9 @@
         },
         "web_domains": [
             "dumbmoneycoin.xyz"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4fc591d3802e9fc99d238b59375bae3c7a962bf7",
@@ -51639,11 +51642,14 @@
             "www.x.com"
         ],
         "telegram_groups": [
-            "Moco_erc"
+            "Moco_erc",
+            "loem_ai",
+            "doge2rescue"
         ],
         "holders": {
             "ETH": 2
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0cfe5c777a7438c9dd8add53ed671cec7a5faee5",
