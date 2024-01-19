@@ -51298,7 +51298,12 @@
         },
         "web_domains": [
             "iluc.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "info@ILUC.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd2dc706e41c9f5187b05a9154af1ffbbe264a0b1",
@@ -51332,7 +51337,8 @@
         ],
         "holders": {
             "ETH": 161
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x286a08a8ab8e8d6068ed0e1fe1c90e441424d99f",
@@ -51342,6 +51348,10 @@
         },
         "web_domains": [
             "nibiru.fi"
-        ]
+        ],
+        "telegram_groups": [
+            "nibiruchain"
+        ],
+        "p6": true
     }
 ]
