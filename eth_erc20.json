@@ -51924,7 +51924,11 @@
         ],
         "holders": {
             "ETH": 25
-        }
+        },
+        "emails": [
+            "support@altresear.ch"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6ad9a31f02f1e790ff85584ea3c3d0001e45cd64",
@@ -51957,7 +51961,8 @@
         ],
         "holders": {
             "ETH": 59
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xae05559e5bc86ecca132956fa0482dd7d4b2d76d",
@@ -51992,7 +51997,8 @@
         ],
         "holders": {
             "ETH": 134
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x85cd4bd7ac52b53723567f084d63718b07f6af62",
@@ -52001,12 +52007,16 @@
             "chartai.finance"
         ],
         "telegram_groups": [
-            "ChartAIRobot",
-            "ChartAIeth"
+            "ChartAIeth",
+            "ChartAIRobot"
         ],
         "holders": {
             "ETH": 53
-        }
+        },
+        "emails": [
+            "team@chartai.finance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6cce8fe0308bb147bfbf3e48816834f7b44bbd9f",
