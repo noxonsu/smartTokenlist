@@ -50614,7 +50614,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 5
-        }
+        },
+        "web_domains": [
+            "satoshivm.io"
+        ]
     },
     {
         "contract_address": "0xeda3e3daa406c03bc50da775d810539b5dba4a57",
@@ -50772,7 +50775,10 @@
         ],
         "holders": {
             "ETH": 79
-        }
+        },
+        "web_domains": [
+            "satoshiassist.com"
+        ]
     },
     {
         "contract_address": "0x32db8f7f81c60e6405064d935b6e7bc80cb070d1",
