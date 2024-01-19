@@ -51209,5 +51209,77 @@
         "holders": {
             "ETH": 24
         }
+    },
+    {
+        "contract_address": "0x89981c4dc54c3fe8020b0a6352d13a1a62e4a101",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "worldofwojak.vip"
+        ],
+        "telegram_groups": [
+            "WorldOfWojak_erc"
+        ],
+        "holders": {
+            "ETH": 190
+        }
+    },
+    {
+        "contract_address": "0xfb2d16e8ada069c69c238257ed684e88e53a87bc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 62
+        }
+    },
+    {
+        "contract_address": "0x74ce3035bbb0eac39917a459d372b95f4bc22ee4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x2c5d55b54fe0d5398d4c4e10d67049acea5d00c1",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "BABYSATOSHIETH"
+        ],
+        "holders": {
+            "ETH": 52
+        }
+    },
+    {
+        "contract_address": "0x84a226ff185c9dcd9130aa021ff109a25441445c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 328
+        }
+    },
+    {
+        "contract_address": "0x3d8d18a4b8df2a8a7bed6d2cf84ce30c5c7762d7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x7721a4cb6190edb11d47f51c20968436eccdafb8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2185
+        }
+    },
+    {
+        "contract_address": "0x940cab288c7450fbf798565551190b1343e47a93",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x81d81b8238e21a6f45866f1366059137c24d6af9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
     }
 ]
