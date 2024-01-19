@@ -50051,7 +50051,9 @@
         ],
         "holders": {
             "ETH": 853
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb7cfe05915ef0c040c6dde2007c9ddab26259e04",
@@ -51818,7 +51820,8 @@
         ],
         "holders": {
             "ETH": 64
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xcae8f30137a90fa714af60a6225157bbff10e92a",
@@ -51831,7 +51834,11 @@
         ],
         "holders": {
             "ETH": 40
-        }
+        },
+        "emails": [
+            " marketing@len.tube "
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa100eafdef0099700933538ee795cfad5505b689",
@@ -51871,7 +51878,8 @@
         ],
         "holders": {
             "ETH": 96
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8b9c02377afe0a7867086df15444ce1824501f9e",
@@ -51884,7 +51892,9 @@
         ],
         "holders": {
             "ETH": 32
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3f57c35633cb29834bb7577ba8052eab90f52a02",
@@ -51899,6 +51909,7 @@
         ],
         "holders": {
             "ETH": 144
-        }
+        },
+        "p6": true
     }
 ]
