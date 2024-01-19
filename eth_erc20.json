@@ -51435,5 +51435,78 @@
         "holders": {
             "ETH": 5
         }
+    },
+    {
+        "contract_address": "0x0aa1582bebf8d96ea384b6829a5d41278579cd88",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 877
+        }
+    },
+    {
+        "contract_address": "0x376b8345e74ed7f5703c8c55ba61dd73d9a8a845",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 42
+        }
+    },
+    {
+        "contract_address": "0x8fbfe61bdf4f9005a79e234d4a1f3d7fd808facd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 439
+        }
+    },
+    {
+        "contract_address": "0x320385231c35ffa51aeb9dbfd9229d37311d303a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "seagalcoin.com"
+        ],
+        "telegram_groups": [
+            "seagalcoin"
+        ],
+        "holders": {
+            "ETH": 52
+        }
+    },
+    {
+        "contract_address": "0x03928473f25bb2da6bc880b07ecbadc636822264",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 70
+        }
+    },
+    {
+        "contract_address": "0xbb6881874825e60e1160416d6c426eae65f2459e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi"
+        ],
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0x8b5b30c66620866f83f7d9b3581037ee64411df1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.createmytoken.com"
+        ],
+        "holders": {
+            "ETH": 688
+        }
+    },
+    {
+        "contract_address": "0xd1bcccc2c316d9eece9d5bf65c9caf1273bad11a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 118
+        }
     }
 ]
