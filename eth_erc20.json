@@ -51710,7 +51710,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 43
-        }
+        },
+        "web_domains": [
+            "www.aethir.com"
+        ]
     },
     {
         "contract_address": "0xa15a90924571ca238938725629e74c39c008e778",
@@ -51730,7 +51733,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 68
-        }
+        },
+        "web_domains": [
+            "fx.aladdin.club"
+        ]
     },
     {
         "contract_address": "0xb15a5aab2a65745314fcd0d7f5080bfa65bd7c03",
