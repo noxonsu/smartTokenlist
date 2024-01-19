@@ -51027,7 +51027,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 188
-        }
+        },
+        "web_domains": [
+            "scanai.io"
+        ]
     },
     {
         "contract_address": "0x77021afa357b494c7747864c4250c3c11460ce81",
@@ -51041,14 +51044,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 92
-        }
+        },
+        "web_domains": [
+            "trustnexus.io"
+        ]
     },
     {
         "contract_address": "0x607a679cfe31ec91bafa0d2bf7b0c60a49f2e8ab",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 20
-        }
+        },
+        "web_domains": [
+            "valid-swap.io"
+        ]
     },
     {
         "contract_address": "0x21f46fed810f824ef557d4e5c90b94f4db0180a8",
