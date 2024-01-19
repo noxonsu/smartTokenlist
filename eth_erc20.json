@@ -51030,7 +51030,14 @@
         },
         "web_domains": [
             "scanai.io"
-        ]
+        ],
+        "telegram_groups": [
+            "ScanAItools"
+        ],
+        "emails": [
+            "info@scanai.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x77021afa357b494c7747864c4250c3c11460ce81",
@@ -51047,7 +51054,9 @@
         },
         "web_domains": [
             "trustnexus.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x607a679cfe31ec91bafa0d2bf7b0c60a49f2e8ab",
@@ -51057,7 +51066,11 @@
         },
         "web_domains": [
             "valid-swap.io"
-        ]
+        ],
+        "telegram_groups": [
+            "ValidSwapSupport"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x21f46fed810f824ef557d4e5c90b94f4db0180a8",
