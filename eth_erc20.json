@@ -51007,5 +51007,85 @@
         "holders": {
             "ETH": 1088
         }
+    },
+    {
+        "contract_address": "0xd377f28245bc505190c8f34d2bfe5f215754f634",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 156
+        }
+    },
+    {
+        "contract_address": "0xa577011d54d4eaee76c7ab74bc27e0aad36aa3cf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 748
+        }
+    },
+    {
+        "contract_address": "0xa8dfdfdf9d288e909a96178e15731a6f4048a7aa",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 188
+        }
+    },
+    {
+        "contract_address": "0x77021afa357b494c7747864c4250c3c11460ce81",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 73
+        }
+    },
+    {
+        "contract_address": "0x7dea8a533eea7b9c66e5d130a35d5522bf594837",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 92
+        }
+    },
+    {
+        "contract_address": "0x607a679cfe31ec91bafa0d2bf7b0c60a49f2e8ab",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0x21f46fed810f824ef557d4e5c90b94f4db0180a8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x0e48137a5e69859ef7d0652a3c43ea040c63c72e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 788
+        }
+    },
+    {
+        "contract_address": "0x53fd2342b43ecd24aef1535bc3797f509616ce8c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1050
+        }
+    },
+    {
+        "contract_address": "0x2f9678085acf1897f63a102e9f7cb835609158d1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tokenmint.io"
+        ],
+        "holders": {
+            "ETH": 547
+        }
+    },
+    {
+        "contract_address": "0xb10cc888cb2cce7036f4c7ecad8a57da16161338",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5744
+        }
     }
 ]
