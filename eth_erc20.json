@@ -50783,7 +50783,11 @@
         },
         "web_domains": [
             "satoshiassist.com"
-        ]
+        ],
+        "emails": [
+            "assistant@satoshisea.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x32db8f7f81c60e6405064d935b6e7bc80cb070d1",
