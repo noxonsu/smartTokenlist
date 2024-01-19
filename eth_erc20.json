@@ -51679,11 +51679,13 @@
             "dtftoken.xyz"
         ],
         "telegram_groups": [
-            "ERC20DTF"
+            "ERC20DTF",
+            "Erc20DTF"
         ],
         "holders": {
             "ETH": 105
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf9386b5dc1c37393c4ab0d51b3822b6bd3232bc9",
@@ -51696,7 +51698,8 @@
         ],
         "holders": {
             "ETH": 97
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1a89d56ad43d8c88d785c6ceef3325430dd87b4a",
@@ -51713,7 +51716,9 @@
         },
         "web_domains": [
             "www.aethir.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa15a90924571ca238938725629e74c39c008e778",
@@ -51726,7 +51731,8 @@
         ],
         "holders": {
             "ETH": 108
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x53805a76e1f5ebbfe7115f16f9c87c2f7e633726",
@@ -51736,7 +51742,11 @@
         },
         "web_domains": [
             "fx.aladdin.club"
-        ]
+        ],
+        "telegram_groups": [
+            "aladdin_dao"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb15a5aab2a65745314fcd0d7f5080bfa65bd7c03",
