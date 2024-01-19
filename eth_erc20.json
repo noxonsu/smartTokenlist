@@ -51282,5 +51282,60 @@
         "holders": {
             "ETH": 0
         }
+    },
+    {
+        "contract_address": "0xac47b36b42961501528e85490dee3bb0fafd3e91",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x563471f3f6a50d76b3474f2cbc06e96088cf825b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 137
+        }
+    },
+    {
+        "contract_address": "0xd2dc706e41c9f5187b05a9154af1ffbbe264a0b1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0xea7aa1edd21735a5ab05ee3e90869016191e274e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 449
+        }
+    },
+    {
+        "contract_address": "0x0981eac05004f29a902ee56bb97310808a15cea0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 47
+        }
+    },
+    {
+        "contract_address": "0xfb05694e79f78daaed23098adb61f2bea31ef55b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bitgold.fun"
+        ],
+        "telegram_groups": [
+            "Bitgold_ETH"
+        ],
+        "holders": {
+            "ETH": 161
+        }
+    },
+    {
+        "contract_address": "0x286a08a8ab8e8d6068ed0e1fe1c90e441424d99f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 26
+        }
     }
 ]
