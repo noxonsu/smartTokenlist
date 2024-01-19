@@ -51911,5 +51911,136 @@
             "ETH": 144
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x3f9e1ebceb26b97f71fb2e16118014b385b753af",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "altlayer.io",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "altlayer"
+        ],
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0x6ad9a31f02f1e790ff85584ea3c3d0001e45cd64",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ethane.app"
+        ],
+        "telegram_groups": [
+            "EthaneErc"
+        ],
+        "holders": {
+            "ETH": 775
+        }
+    },
+    {
+        "contract_address": "0xb1d5a03d2ff72f7f226372c4b2fa7b50cd9d7910",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1901
+        }
+    },
+    {
+        "contract_address": "0xb888fd6b9a098bb0ed43b5ee2b5c2d10410b2cff",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "krypton.finance"
+        ],
+        "telegram_groups": [
+            "KyptonOfficial"
+        ],
+        "holders": {
+            "ETH": 59
+        }
+    },
+    {
+        "contract_address": "0xae05559e5bc86ecca132956fa0482dd7d4b2d76d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 59
+        }
+    },
+    {
+        "contract_address": "0xfbbe9b1142c699512545f47937ee6fae0e4b0aa9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1164
+        }
+    },
+    {
+        "contract_address": "0x6410b64582d34ee01845ce16838f822c2243469d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 511
+        }
+    },
+    {
+        "contract_address": "0xa819fa2cf50fb232df68f731bca3e54e88498ae1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "arcanemix.tech",
+            "arcane-official.gitbook.io"
+        ],
+        "telegram_groups": [
+            "ArcaneOfficialCoin"
+        ],
+        "holders": {
+            "ETH": 134
+        }
+    },
+    {
+        "contract_address": "0x85cd4bd7ac52b53723567f084d63718b07f6af62",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "chartai.finance"
+        ],
+        "telegram_groups": [
+            "ChartAIRobot",
+            "ChartAIeth"
+        ],
+        "holders": {
+            "ETH": 53
+        }
+    },
+    {
+        "contract_address": "0x6cce8fe0308bb147bfbf3e48816834f7b44bbd9f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0x96e83035f05618fbdd77281d0389e4d95a0da47f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x76306f029f8f99effe509534037ba7030999e3cf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11058
+        }
+    },
+    {
+        "contract_address": "0x5b8c556b8b2a78696f0b9b830b3d67623122e270",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 187
+        }
+    },
+    {
+        "contract_address": "0xd96e84ddbc7cbe1d73c55b6fe8c64f3a6550deea",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 672
+        }
     }
 ]
