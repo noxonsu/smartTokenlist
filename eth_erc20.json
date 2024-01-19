@@ -51109,5 +51109,94 @@
         "holders": {
             "ETH": 5744
         }
+    },
+    {
+        "contract_address": "0x22002e02ace94240ed1509c9b4dff2c0565587d8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.waimai.services"
+        ],
+        "telegram_groups": [
+            "waimai_xiaoge_portal"
+        ],
+        "holders": {
+            "ETH": 67
+        }
+    },
+    {
+        "contract_address": "0x07b9c0964d3e8734d65aea20c37334c2528ca601",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ethpoggers"
+        ],
+        "holders": {
+            "ETH": 747
+        }
+    },
+    {
+        "contract_address": "0xf65a9bc9093da3490d2d0026f11aac347559f8ee",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0x1637e4e9941d55703a7a5e7807d6ada3f7dcd61b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "accu.org"
+        ],
+        "holders": {
+            "ETH": 698
+        }
+    },
+    {
+        "contract_address": "0x83a4dea0a138894f2783203380683aba09caf8c1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 222
+        }
+    },
+    {
+        "contract_address": "0x74b4c34485ee8b375a5761bf95f55849f4b7a4b7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 505
+        }
+    },
+    {
+        "contract_address": "0x692accdd8b86692427e0aa4752ae917df01cc56f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1840
+        }
+    },
+    {
+        "contract_address": "0x97a701076172a0d3dc0d5e6a8d9e4050d6a99649",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 60
+        }
+    },
+    {
+        "contract_address": "0x4a15b62a3190ea76157d73a090c211a3e89acd47",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x47c56a900295df5224ec5e6751dc31eb900321d5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0xe8cc7e765647625b95f59c15848379d10b9ab4af",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 24
+        }
     }
 ]
