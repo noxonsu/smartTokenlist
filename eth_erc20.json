@@ -51121,7 +51121,8 @@
         ],
         "holders": {
             "ETH": 67
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x07b9c0964d3e8734d65aea20c37334c2528ca601",
@@ -51141,7 +51142,9 @@
         },
         "web_domains": [
             "flowdesk.co"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x1637e4e9941d55703a7a5e7807d6ada3f7dcd61b",
@@ -51196,7 +51199,9 @@
         },
         "web_domains": [
             "tetu.community"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe8cc7e765647625b95f59c15848379d10b9ab4af",
