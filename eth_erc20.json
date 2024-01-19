@@ -50617,7 +50617,9 @@
         },
         "web_domains": [
             "satoshivm.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xeda3e3daa406c03bc50da775d810539b5dba4a57",
@@ -50630,7 +50632,8 @@
         ],
         "holders": {
             "ETH": 150
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd7138b12f7f7866569197fb0b411ea0f3e456ff4",
@@ -50643,7 +50646,8 @@
         ],
         "holders": {
             "ETH": 235
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe99230a033332ff10ff79e137d3d27a4417d014f",
@@ -50662,14 +50666,12 @@
             "doubledouble.fi"
         ],
         "telegram_groups": [
-            "doubledoublefi",
-            "doubledoublefi",
-            "doubledoublefi",
             "doubledoublefi"
         ],
         "holders": {
             "ETH": 139
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x15e6e0d4ebeac120f9a97e71faa6a0235b85ed12",
@@ -50694,7 +50696,9 @@
         ],
         "holders": {
             "ETH": 20
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x574d22e2555cac0ce71e44778f6de2e7487ae229",
@@ -50751,7 +50755,8 @@
         ],
         "holders": {
             "ETH": 26
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9631c79bfd6123a5b53307b6cdfb35f97606f954",
