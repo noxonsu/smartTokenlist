@@ -50962,7 +50962,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 41
-        }
+        },
+        "web_domains": [
+            "woolypooly.com"
+        ]
     },
     {
         "contract_address": "0x8e7c1d829b9cfe983a4b4adfa0e3a4355ccc6244",
