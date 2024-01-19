@@ -51625,7 +51625,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 4
-        }
+        },
+        "web_domains": [
+            "dumbmoneycoin.xyz"
+        ]
     },
     {
         "contract_address": "0x4fc591d3802e9fc99d238b59375bae3c7a962bf7",
