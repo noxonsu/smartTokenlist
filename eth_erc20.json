@@ -51353,5 +51353,87 @@
             "nibiruchain"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0xf98ab0874b13a7fdc39d7295dedd49850a5d426b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 276
+        }
+    },
+    {
+        "contract_address": "0x8fe501afe987e247eecfd3001e2d0c82c06084cc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x9c39809dec7f95f5e0713634a4d0701329b3b4d2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 396
+        }
+    },
+    {
+        "contract_address": "0xb1a822ce8c799b0777ed1f260113819247e1bf26",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.hairyplotterftx.com"
+        ],
+        "telegram_groups": [
+            "HairyPlotterFTXPortal"
+        ],
+        "holders": {
+            "ETH": 1588
+        }
+    },
+    {
+        "contract_address": "0xa529e5c12bc0616716650cb861b2f2cd0e142308",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x07aaf85604125c64f23c48e2289de0038fb4f535",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 42
+        }
+    },
+    {
+        "contract_address": "0x191557728e4d8caa4ac94f86af842148c0fa8f7e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 826
+        }
+    },
+    {
+        "contract_address": "0x40c14c21d46d7230fd9ab23e60edb2784708a88d",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ivankacoineth"
+        ],
+        "holders": {
+            "ETH": 138
+        }
+    },
+    {
+        "contract_address": "0xb277c151eb3e041eecfe3da272d7a74dacdb3a97",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "huahuaerc"
+        ],
+        "holders": {
+            "ETH": 121
+        }
+    },
+    {
+        "contract_address": "0x90b7e285ab6cf4e3a2487669dba3e339db8a3320",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
     }
 ]
