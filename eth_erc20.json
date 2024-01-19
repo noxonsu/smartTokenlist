@@ -51785,5 +51785,120 @@
         "holders": {
             "ETH": 1
         }
+    },
+    {
+        "contract_address": "0x473c45fe5fb05f4822682d8d1f89ef6e92c47f9d",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Xcardportal"
+        ],
+        "holders": {
+            "ETH": 116
+        }
+    },
+    {
+        "contract_address": "0x21657a9c96913d901ace3e79439dc2fbc4129198",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xc496eb76b601bd27e65999d202d5512ebc2400d9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.doveprotocol.bid",
+            "app.doveprotocol.bid",
+            "swap.doveprotocol.bid",
+            "factory.doveprotocol.bid",
+            "list.doveprotocol.bid"
+        ],
+        "telegram_groups": [
+            "dove_protocol_bid"
+        ],
+        "holders": {
+            "ETH": 64
+        }
+    },
+    {
+        "contract_address": "0xcae8f30137a90fa714af60a6225157bbff10e92a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "lentube.loan"
+        ],
+        "telegram_groups": [
+            "lentube_tech_official"
+        ],
+        "holders": {
+            "ETH": 40
+        }
+    },
+    {
+        "contract_address": "0xa100eafdef0099700933538ee795cfad5505b689",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 97
+        }
+    },
+    {
+        "contract_address": "0xfa46b726733559c3cbf27a54435a579db91cd7bf",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "DONERC20"
+        ],
+        "holders": {
+            "ETH": 613
+        }
+    },
+    {
+        "contract_address": "0xfadfe3aa73202df64c374c9f2afd0f6029e06dc5",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "XpaymentsCoin"
+        ],
+        "holders": {
+            "ETH": 189
+        }
+    },
+    {
+        "contract_address": "0xd1dbcd7d16fab489d0a809dd52d3cd9ec68f4247",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "undead.fund"
+        ],
+        "telegram_groups": [
+            "undeadfund"
+        ],
+        "holders": {
+            "ETH": 96
+        }
+    },
+    {
+        "contract_address": "0x8b9c02377afe0a7867086df15444ce1824501f9e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools"
+        ],
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0x3f57c35633cb29834bb7577ba8052eab90f52a02",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "defenderbot.tech",
+            "defender-bot.gitbook.io"
+        ],
+        "telegram_groups": [
+            "DefenderEth",
+            "DefenderProBot"
+        ],
+        "holders": {
+            "ETH": 144
+        }
     }
 ]
