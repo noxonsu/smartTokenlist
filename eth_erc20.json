@@ -51671,5 +51671,103 @@
         "holders": {
             "ETH": 2
         }
+    },
+    {
+        "contract_address": "0x3b6e64686c72b5a1d90086486b57fe9317ed4881",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dtftoken.xyz"
+        ],
+        "telegram_groups": [
+            "ERC20DTF"
+        ],
+        "holders": {
+            "ETH": 105
+        }
+    },
+    {
+        "contract_address": "0xf9386b5dc1c37393c4ab0d51b3822b6bd3232bc9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "eloviamind.com"
+        ],
+        "telegram_groups": [
+            "eloviamind"
+        ],
+        "holders": {
+            "ETH": 97
+        }
+    },
+    {
+        "contract_address": "0x1a89d56ad43d8c88d785c6ceef3325430dd87b4a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 136
+        }
+    },
+    {
+        "contract_address": "0xc50dc35e139cfbccb9f33e566c49e8c0c9750d19",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 43
+        }
+    },
+    {
+        "contract_address": "0xa15a90924571ca238938725629e74c39c008e778",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.kernelthecorgi.com"
+        ],
+        "telegram_groups": [
+            "kernelERC"
+        ],
+        "holders": {
+            "ETH": 108
+        }
+    },
+    {
+        "contract_address": "0x53805a76e1f5ebbfe7115f16f9c87c2f7e633726",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 68
+        }
+    },
+    {
+        "contract_address": "0xb15a5aab2a65745314fcd0d7f5080bfa65bd7c03",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "tupeloERC"
+        ],
+        "holders": {
+            "ETH": 391
+        }
+    },
+    {
+        "contract_address": "0xc13b910548a42fbf87386287e42b0415e5e8fff8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x2f3cc35e05c0dfdbc691bc376518bde2ad54377f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x3df2eec0b80409ff7474f3ef420258d310616430",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xf458f458fcc50c0f696adf5df460a3a9387728f7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
