@@ -864,7 +864,9 @@
         "holders": {
             "ETH": 14821
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xc6cc3d07c705e39d11c7f60d8836c7c78d4ac5f1",
@@ -20475,7 +20477,9 @@
         "holders": {
             "ETH": 583
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xb22c05cedbf879a661fcc566b5a759d005cf7b4c",
@@ -35332,7 +35336,9 @@
         "telegram_groups": [
             "HOLD10_erc20"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x7a5ce6abd131ea6b148a022cb76fc180ae3315a6",
@@ -40174,7 +40180,9 @@
         "emails": [
             "mail@bossblockchain.world"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xef732cd262076e3cec7a1d4e96b052d57b383e69",
@@ -41815,7 +41823,9 @@
         "emails": [
             "\n gpbtki@gmail.com\n            "
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0xbd6323a83b613f668687014e8a5852079494fb68",
@@ -41869,7 +41879,9 @@
         "holders": {
             "ETH": 334
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0xb1fea302f3b2e93fa04e46dcce35f2fc522d7bb9",
@@ -41895,9 +41907,11 @@
             "wojak.farm"
         ],
         "telegram_groups": [
-            "firstwojakdeployed"
+            null
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: '<' not supported between instances of 'NoneType' and 'int'"
     },
     {
         "contract_address": "0xa1a52e35bf516edbd166d9a1b0097cbf11483a5d",
@@ -41948,7 +41962,9 @@
         "holders": {
             "ETH": 35
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xf97e2a78f1f3d1fd438ff7cc3bb7de01e5945b83",
@@ -41962,7 +41978,9 @@
         "telegram_groups": [
             "holoride"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large21518"
     },
     {
         "contract_address": "0x26a37f5a0200ad622f6db7cd687c78b7049ee841",
@@ -42026,7 +42044,9 @@
         "emails": [
             "support@ordible.bot"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xe3f03cef497c81d2b28a2fae63ae84b373028718",
