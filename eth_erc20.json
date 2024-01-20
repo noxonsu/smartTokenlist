@@ -52832,5 +52832,74 @@
         "holders": {
             "ETH": 87
         }
+    },
+    {
+        "contract_address": "0xf19e8dfece89cfe1ada5916926ece98eeb933bbb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x2fcbd5a6eb694d573d280664393681cb52b9a98b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 596
+        }
+    },
+    {
+        "contract_address": "0xe5fefd27cd8f03e6301ea36760810f0467c3ed76",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "DruidETH"
+        ],
+        "holders": {
+            "ETH": 141
+        }
+    },
+    {
+        "contract_address": "0x6f2dec5da475333b0af4a3ffc9a33b0211a9a452",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2408
+        }
+    },
+    {
+        "contract_address": "0x6b89b97169a797d94f057f4a0b01e2ca303155e4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1906
+        }
+    },
+    {
+        "contract_address": "0x152412bf1bdad79f4358efd049abdb273c5b0aaf",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ElonTrollheim"
+        ],
+        "holders": {
+            "ETH": 96
+        }
+    },
+    {
+        "contract_address": "0xfc9f5758cb5e5ec0af2f9cccdc8eba1a3edb31c9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0xb92015605f910db47cff2cf6ecf5a3810dfc5e2e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0xf07c735011c311f55425bf8c534471a0410d85ad",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9
+        }
     }
 ]
