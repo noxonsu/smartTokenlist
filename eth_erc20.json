@@ -52684,7 +52684,9 @@
         },
         "web_domains": [
             "finagg.in"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9a90516007a1b28767430a73c2b73f6c5a07e719",
@@ -52700,12 +52702,13 @@
             "www.brclauncher.com"
         ],
         "telegram_groups": [
-            "BRCLauncher",
-            "BRCLauncherAnnouncement"
+            "BRCLauncherAnnouncement",
+            "BRCLauncher"
         ],
         "holders": {
             "ETH": 114
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd05d7b24ac295c658d5ef31f55087cfb9b0d6143",
@@ -52735,7 +52738,11 @@
         },
         "web_domains": [
             "pudgycat.io"
-        ]
+        ],
+        "telegram_groups": [
+            "pudgycatofficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4904761b56fae993c4923f464ab8be5b8104bbbc",
@@ -52757,7 +52764,8 @@
         ],
         "holders": {
             "ETH": 450
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7622e8510cf29e804be4987fffbca06968226498",
@@ -52784,7 +52792,8 @@
         ],
         "holders": {
             "ETH": 27
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x90627bc42a3a621247f2625580beb219f5f32b5a",
@@ -52811,7 +52820,11 @@
         ],
         "holders": {
             "ETH": 77
-        }
+        },
+        "emails": [
+            "zenithinucoin@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4f9decdf87428aed7c1dade33b5f31f58ba0e3da",
