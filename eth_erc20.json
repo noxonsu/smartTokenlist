@@ -52052,5 +52052,81 @@
         "holders": {
             "ETH": 672
         }
+    },
+    {
+        "contract_address": "0x054f76beed60ab6dbeb23502178c52d6c5debe40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2097
+        }
+    },
+    {
+        "contract_address": "0x8af5f72999b9e1c8d21b3626789ace65526c2754",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dopetoken.org"
+        ],
+        "telegram_groups": [
+            "dogevpepe"
+        ],
+        "holders": {
+            "ETH": 143
+        }
+    },
+    {
+        "contract_address": "0x6f17171a02d67d738bbb7b568e0952c267bd5dc7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9
+        }
+    },
+    {
+        "contract_address": "0x1fc7ab38dc194613daf5965cbc5ebdb900ee1609",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x7734590a718587e6124b23bfc2ac5b52cbe10002",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x3c48ca59bf2699e51d4974d4b6d284ae52076e5e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 830
+        }
+    },
+    {
+        "contract_address": "0xd3c625f54dec647db8780dbbe0e880ef21ba4329",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 236
+        }
+    },
+    {
+        "contract_address": "0x466a756e9a7401b5e2444a3fcb3c2c12fbea0a54",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 157
+        }
+    },
+    {
+        "contract_address": "0xace6ca9138a99880176b993fad45d8dfa4c287e5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 627
+        }
+    },
+    {
+        "contract_address": "0xb26b2c0063d5f05f2317c5190eb5e8205dd509b4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 26
+        }
     }
 ]
