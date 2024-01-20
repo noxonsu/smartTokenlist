@@ -43098,7 +43098,9 @@
         "holders": {
             "ETH": 76
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x416cdaf616a82d7dd46e0dbf36e7d6fe412bc40e",
@@ -43119,7 +43121,9 @@
         "holders": {
             "ETH": 56
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xaa1db055d53f14f7e6a13e01097b17db620d3ef4",
@@ -43169,7 +43173,9 @@
             "lanceinu",
             "Lanceinu"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xdb5c3c46e28b53a39c255aa39a411dd64e5fed9c",
@@ -43231,7 +43237,9 @@
         "holders": {
             "ETH": 153
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xf240b48464ef6bae0306592b48131bece8cb7333",
@@ -43260,7 +43268,7 @@
             "www.pinterest.com"
         ],
         "telegram_groups": [
-            "iKeelYouERC20"
+            null
         ],
         "emails": [
             "ikeelyouerc20@gmail.com"
@@ -43268,7 +43276,9 @@
         "holders": {
             "ETH": 285
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: '<' not supported between instances of 'NoneType' and 'int'"
     },
     {
         "contract_address": "0x785c34312dfa6b74f6f1829f79ade39042222168",
@@ -43316,7 +43326,9 @@
         "holders": {
             "ETH": 130
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x2a1dca74419c2d304a3d359f428ee1a4e9324a90",
@@ -43344,7 +43356,9 @@
         "holders": {
             "ETH": 243
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x1f3f9d3068568f8040775be2e8c03c103c61f3af",
@@ -43383,7 +43397,9 @@
         "holders": {
             "ETH": 81
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: The chat_id \"MotionPixel_bot\" belongs to a user"
     },
     {
         "contract_address": "0x69d3cf8b13c72edb11a1f06429a4718ca19a2901",
@@ -43420,7 +43436,9 @@
         "holders": {
             "ETH": 398
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x6349ae2681f495fe1d737e49b8f402e4577e9b4d",
@@ -43437,7 +43455,9 @@
         "emails": [
             "admin@catalystpad.io"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xe1c7e30c42c24582888c758984f6e382096786bd",
