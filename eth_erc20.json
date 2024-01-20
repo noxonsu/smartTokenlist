@@ -52941,7 +52941,8 @@
         ],
         "holders": {
             "ETH": 45
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xbb1ee07d6c7baeb702949904080eb61f5d5e7732",
@@ -52999,7 +53000,8 @@
         ],
         "holders": {
             "ETH": 200
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe25d6d41bbd1f6071783fb950107fab4f4681029",
@@ -53009,7 +53011,14 @@
         ],
         "holders": {
             "ETH": 72
-        }
+        },
+        "telegram_groups": [
+            "frogdog_channel"
+        ],
+        "emails": [
+            "upport@frogdog-coin.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x445bd590a01fe6709d4f13a8f579c1e4846921db",
