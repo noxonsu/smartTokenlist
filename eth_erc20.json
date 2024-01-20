@@ -52529,7 +52529,9 @@
         ],
         "holders": {
             "ETH": 218
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd836d22531d810f192ba6bd0ba3c28c35d4606c2",
@@ -52580,7 +52582,9 @@
         },
         "web_domains": [
             "ageofdino.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x60d1afd87c5ab1a13e27638f1e75277febf4908c",
@@ -52652,7 +52656,8 @@
         ],
         "holders": {
             "ETH": 364
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8abf4ed04299306ef2fea9820101612b3a6b9892",
