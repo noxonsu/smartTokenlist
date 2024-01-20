@@ -44092,7 +44092,11 @@
         ],
         "holders": {
             "ETH": 949
-        }
+        },
+        "telegram_groups": [
+            "LunaInuERC20"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x40c3b81fb887016c0ad02436309c2b265d069a05",
@@ -46501,7 +46505,11 @@
         ],
         "holders": {
             "ETH": 803
-        }
+        },
+        "telegram_groups": [
+            "LunaInuERC20"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x09b4134ca5e90acd2d10bff4e9da71d65b878e10",
@@ -49580,7 +49588,11 @@
         ],
         "holders": {
             "ETH": 4914
-        }
+        },
+        "telegram_groups": [
+            "LunaInuERC20"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8c6f2d33a51201293f2a0931e2e02920e960bdc8",
@@ -51146,7 +51158,11 @@
         ],
         "holders": {
             "ETH": 547
-        }
+        },
+        "telegram_groups": [
+            "LunaInuERC20"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb10cc888cb2cce7036f4c7ecad8a57da16161338",
@@ -53101,7 +53117,9 @@
         },
         "web_domains": [
             "makepepegreat.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xef89c37fe9e5c906b404cd7edae4a2992b5d25fa",
@@ -53134,11 +53152,13 @@
             "insightx.network"
         ],
         "telegram_groups": [
-            "InsightxNetwork"
+            "InsightxNetwork",
+            "TradeWatchBot"
         ],
         "holders": {
             "ETH": 237
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6b7847eed864e8e94602ad2e365c6fc0e7b5944e",
@@ -53148,6 +53168,10 @@
         ],
         "holders": {
             "ETH": 34
-        }
+        },
+        "telegram_groups": [
+            "LunaInuERC20"
+        ],
+        "p6": true
     }
 ]
