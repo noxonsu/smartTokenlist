@@ -52304,7 +52304,11 @@
         ],
         "holders": {
             "ETH": 255
-        }
+        },
+        "emails": [
+            "info@flokivspepe.lol"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8af17a6396c8f315f6b6dbc6aa686c85f9b3e554",
@@ -52345,7 +52349,8 @@
         ],
         "holders": {
             "ETH": 98
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf5330b716d4bb994b72d95cd01163841f83f6fef",
@@ -52372,7 +52377,11 @@
         },
         "web_domains": [
             "www.advisorshares.com"
-        ]
+        ],
+        "emails": [
+            "info@advisorshares.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf8fe4dbe106ac2a1e6c96c3ca77b344a1b1a49e1",
