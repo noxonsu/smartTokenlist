@@ -52668,5 +52668,150 @@
         "holders": {
             "ETH": 210
         }
+    },
+    {
+        "contract_address": "0x2b666f0a42ba9baafd180c0ce69f731928def059",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0xa90c4852de29b282a7ebed521bf0cf5fd3428a0d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 44
+        }
+    },
+    {
+        "contract_address": "0x9a90516007a1b28767430a73c2b73f6c5a07e719",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 346
+        }
+    },
+    {
+        "contract_address": "0x26c0a99c12b16154c1d6a9774651491430fe638c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.brclauncher.com"
+        ],
+        "telegram_groups": [
+            "BRCLauncher",
+            "BRCLauncherAnnouncement"
+        ],
+        "holders": {
+            "ETH": 114
+        }
+    },
+    {
+        "contract_address": "0xd05d7b24ac295c658d5ef31f55087cfb9b0d6143",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 84
+        }
+    },
+    {
+        "contract_address": "0x2f8221e82e0d4669ad66eabf02a5baed43ea49e7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.newsly.news"
+        ],
+        "telegram_groups": [
+            "NewslyNews_bot"
+        ],
+        "holders": {
+            "ETH": 1499
+        }
+    },
+    {
+        "contract_address": "0x27f3a2f4ffdecc274264683fbfe39b01dba6bb84",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 246
+        }
+    },
+    {
+        "contract_address": "0x4904761b56fae993c4923f464ab8be5b8104bbbc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 266
+        }
+    },
+    {
+        "contract_address": "0xd64d03ec3729e13c4a6414dda87cdc6e6656a558",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "LSO2077.com",
+            "www.nbcnews.com",
+            "www.stereogum.com"
+        ],
+        "telegram_groups": [
+            "LSO2077"
+        ],
+        "holders": {
+            "ETH": 450
+        }
+    },
+    {
+        "contract_address": "0x7622e8510cf29e804be4987fffbca06968226498",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0x7ca4408137eb639570f8e647d9bd7b7e8717514a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1644
+        }
+    },
+    {
+        "contract_address": "0x0430dea6b14f821ac1a6433ac5fcf4286a0919dc",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "trollzilla.vip"
+        ],
+        "telegram_groups": [
+            "TrollZillaERC20"
+        ],
+        "holders": {
+            "ETH": 27
+        }
+    },
+    {
+        "contract_address": "0x90627bc42a3a621247f2625580beb219f5f32b5a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x7df952a440758f727abd7f6da95de4dc721896f8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 44
+        }
+    },
+    {
+        "contract_address": "0xb064fc5b2fff601827f51c2ef8cefec6d7ff09ea",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.zenithinu.com"
+        ],
+        "telegram_groups": [
+            "ZenithInuCoin"
+        ],
+        "holders": {
+            "ETH": 77
+        }
+    },
+    {
+        "contract_address": "0x4f9decdf87428aed7c1dade33b5f31f58ba0e3da",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 87
+        }
     }
 ]
