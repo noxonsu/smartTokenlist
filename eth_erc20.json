@@ -53306,7 +53306,11 @@
         },
         "web_domains": [
             "xmusic.ie"
-        ]
+        ],
+        "emails": [
+            "info@xmusic.ie"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd591b0bc0d937b9df9b6eb4e62e908706300dfc5",
