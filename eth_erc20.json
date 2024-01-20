@@ -52681,7 +52681,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 44
-        }
+        },
+        "web_domains": [
+            "finagg.in"
+        ]
     },
     {
         "contract_address": "0x9a90516007a1b28767430a73c2b73f6c5a07e719",
@@ -52729,7 +52732,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 246
-        }
+        },
+        "web_domains": [
+            "pudgycat.io"
+        ]
     },
     {
         "contract_address": "0x4904761b56fae993c4923f464ab8be5b8104bbbc",
