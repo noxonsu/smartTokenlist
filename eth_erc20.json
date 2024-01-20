@@ -52922,5 +52922,137 @@
         "holders": {
             "ETH": 9
         }
+    },
+    {
+        "contract_address": "0xa1a88cea335edaf30ce90f103f1434a773ea46bd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2259
+        }
+    },
+    {
+        "contract_address": "0x5121440c883bdc010629e6e81d3990be10874dac",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "koala.trading"
+        ],
+        "telegram_groups": [
+            "koala_portal"
+        ],
+        "holders": {
+            "ETH": 45
+        }
+    },
+    {
+        "contract_address": "0xbb1ee07d6c7baeb702949904080eb61f5d5e7732",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "travis-ci.com"
+        ],
+        "holders": {
+            "ETH": 6073
+        }
+    },
+    {
+        "contract_address": "0xade6fdaba1643e4d1eef68da7170f234470938c6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 479
+        }
+    },
+    {
+        "contract_address": "0xfc040d7ee2e9f2722b8ad82949c60d5d4b44ec2b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 127
+        }
+    },
+    {
+        "contract_address": "0xf31b1208176df21da4af6b401194eccbf60068c9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 84
+        }
+    },
+    {
+        "contract_address": "0xb53917d6f10e4b45f8379e240118b4c05ca1bda8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 910
+        }
+    },
+    {
+        "contract_address": "0x68b429161ec09a6c1d65ba70727ab1faa5bc4026",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1384
+        }
+    },
+    {
+        "contract_address": "0xd24c9eafc43892f890a3cd1a0db3823174a0bced",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hamtaro-token.com"
+        ],
+        "telegram_groups": [
+            "HAMTARO_PORTAL"
+        ],
+        "holders": {
+            "ETH": 200
+        }
+    },
+    {
+        "contract_address": "0xe25d6d41bbd1f6071783fb950107fab4f4681029",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "frogdog-coin.com"
+        ],
+        "holders": {
+            "ETH": 72
+        }
+    },
+    {
+        "contract_address": "0x445bd590a01fe6709d4f13a8f579c1e4846921db",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2592
+        }
+    },
+    {
+        "contract_address": "0x4e1b65b3052dee896aead3fd378677b55bcd53c1",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "HarambeERC20"
+        ],
+        "holders": {
+            "ETH": 192
+        }
+    },
+    {
+        "contract_address": "0x170dec83c7753aaad20c01a0016b5a2e143990d4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wiggercoin.com"
+        ],
+        "holders": {
+            "ETH": 831
+        }
+    },
+    {
+        "contract_address": "0xb96e42c0de658ca26048b0e200f9a1e05ad89e0f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 209
+        }
+    },
+    {
+        "contract_address": "0x3a179db54f9c8d85d194c783d21cc865de4652e8",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "GrimesETH"
+        ],
+        "holders": {
+            "ETH": 44
+        }
     }
 ]
