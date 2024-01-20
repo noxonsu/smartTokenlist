@@ -53194,5 +53194,117 @@
             "LunaInuERC20"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0xa350da05405cc204e551c4eed19c3039646528d5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3971
+        }
+    },
+    {
+        "contract_address": "0xd1e6b03bf65b381cbdeccf275535d40d4c3510e2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 148
+        }
+    },
+    {
+        "contract_address": "0x67fadbd9bf8899d7c578db22d7af5e2e500e13e5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "developers.aave.com",
+            "developers.aave.com"
+        ],
+        "holders": {
+            "ETH": 128
+        }
+    },
+    {
+        "contract_address": "0x8c240c385305aeb2d5ceb60425aabcb3488fa93d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "developers.aave.com",
+            "developers.aave.com"
+        ],
+        "holders": {
+            "ETH": 102
+        }
+    },
+    {
+        "contract_address": "0xb95bd0793bcc5524af358ffaae3e38c3903c7626",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "developers.aave.com",
+            "developers.aave.com"
+        ],
+        "holders": {
+            "ETH": 121
+        }
+    },
+    {
+        "contract_address": "0xf625cad0ffed644655930d464ab850d9c0a085d3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "eth-ca.com"
+        ],
+        "telegram_groups": [
+            "contractaddresseth"
+        ],
+        "holders": {
+            "ETH": 79
+        }
+    },
+    {
+        "contract_address": "0xb8dbe829ac839fe19168b942872d1459d81312a4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.ethoslend.org",
+            "app.ethoslend.org",
+            "docs.ethoslend.org"
+        ],
+        "telegram_groups": [
+            "ethos_erc"
+        ],
+        "holders": {
+            "ETH": 80
+        }
+    },
+    {
+        "contract_address": "0x8d7d0a23b11bd76c83282d7078e276f18a836cc1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "xpayerc.com"
+        ],
+        "telegram_groups": [
+            "XPAY_ERC20"
+        ],
+        "holders": {
+            "ETH": 308
+        }
+    },
+    {
+        "contract_address": "0x3de0483880230824d192fb4ff812e25e00327686",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "XmusicERC"
+        ],
+        "holders": {
+            "ETH": 63
+        }
+    },
+    {
+        "contract_address": "0xd591b0bc0d937b9df9b6eb4e62e908706300dfc5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 414
+        }
+    },
+    {
+        "contract_address": "0x73c69d24ad28e2d43d03cbf35f79fe26ebde1011",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 571
+        }
     }
 ]
