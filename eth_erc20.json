@@ -52148,7 +52148,11 @@
         ],
         "holders": {
             "ETH": 107
-        }
+        },
+        "emails": [
+            "info@harambeeth.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x365f721a522a7fc66d08449c4f3984d1e36d58dc",
@@ -52165,7 +52169,11 @@
         },
         "web_domains": [
             "neopin.io"
-        ]
+        ],
+        "telegram_groups": [
+            "neopin_eng"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe0b469cb3eda0ece9e425cfeda4df986a55ea9f8",
@@ -52185,7 +52193,11 @@
         ],
         "holders": {
             "ETH": 252
-        }
+        },
+        "emails": [
+            "support@opcat.vip"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe46091dce9c67691bcf22768bbee0bc9e20d4beb",
@@ -52215,7 +52227,9 @@
         },
         "web_domains": [
             "highperplexityads.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x24982a2e5e36504b28ff1bb27b94ef7bc10f6f9e",
@@ -52225,7 +52239,9 @@
         },
         "web_domains": [
             "coinrule.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xee8544eefe616ca232993fac9be2d0f7f8a00043",
@@ -52266,7 +52282,9 @@
         },
         "web_domains": [
             "yprisma.yearn.fi"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd32d72568616d995b3903db652c888caf01a4d7c",
