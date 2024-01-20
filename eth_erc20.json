@@ -53218,7 +53218,9 @@
         ],
         "holders": {
             "ETH": 128
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8c240c385305aeb2d5ceb60425aabcb3488fa93d",
@@ -53229,7 +53231,9 @@
         ],
         "holders": {
             "ETH": 102
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb95bd0793bcc5524af358ffaae3e38c3903c7626",
@@ -53240,7 +53244,9 @@
         ],
         "holders": {
             "ETH": 121
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf625cad0ffed644655930d464ab850d9c0a085d3",
@@ -53253,7 +53259,8 @@
         ],
         "holders": {
             "ETH": 79
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb8dbe829ac839fe19168b942872d1459d81312a4",
@@ -53268,7 +53275,11 @@
         ],
         "holders": {
             "ETH": 80
-        }
+        },
+        "emails": [
+            "support@ethoslend.org"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8d7d0a23b11bd76c83282d7078e276f18a836cc1",
@@ -53281,7 +53292,8 @@
         ],
         "holders": {
             "ETH": 308
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3de0483880230824d192fb4ff812e25e00327686",
