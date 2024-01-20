@@ -53085,5 +53085,66 @@
         "holders": {
             "ETH": 44
         }
+    },
+    {
+        "contract_address": "0x6f952680ab35d3a31e9b150c315aee643e0b21a9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9
+        }
+    },
+    {
+        "contract_address": "0xa555256a5eca2025f10c0b89473f30eb31844f49",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 194
+        }
+    },
+    {
+        "contract_address": "0xef89c37fe9e5c906b404cd7edae4a2992b5d25fa",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 833
+        }
+    },
+    {
+        "contract_address": "0xce4e041972d46fc5d3782b1c880a5cb5b328f627",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "bitconnect_portal"
+        ],
+        "holders": {
+            "ETH": 297
+        }
+    },
+    {
+        "contract_address": "0xbb2b8038a1640196fbe3e38816f3e67cba72d940",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1061
+        }
+    },
+    {
+        "contract_address": "0x67f3086f7823eaf35f5aaadfb2e9b9c5b09578cf",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "insightx.network"
+        ],
+        "telegram_groups": [
+            "InsightxNetwork"
+        ],
+        "holders": {
+            "ETH": 237
+        }
+    },
+    {
+        "contract_address": "0x6b7847eed864e8e94602ad2e365c6fc0e7b5944e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tokenmint.io"
+        ],
+        "holders": {
+            "ETH": 34
+        }
     }
 ]
