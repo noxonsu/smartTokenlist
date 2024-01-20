@@ -52408,7 +52408,8 @@
         ],
         "holders": {
             "ETH": 288
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc9fb864b3a0db8a5636b2fab35f4473c8e26b8b2",
@@ -52435,7 +52436,8 @@
         ],
         "holders": {
             "ETH": 143
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8fbe424fad5a2411a7acc269253cc3be4f8cd2e6",
@@ -52466,7 +52468,9 @@
         ],
         "holders": {
             "ETH": 116
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x661013bb8d1c95d86d9c85f76e9004561f1bb36f",
