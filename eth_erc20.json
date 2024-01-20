@@ -52513,5 +52513,152 @@
         "holders": {
             "ETH": 341
         }
+    },
+    {
+        "contract_address": "0x8c3d11360a70fb708762b394be8ef23e3a633e3f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 38
+        }
+    },
+    {
+        "contract_address": "0x00ff66ab8699aafa050ee5ef5041d1503aa0849a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "opensource.org"
+        ],
+        "holders": {
+            "ETH": 218
+        }
+    },
+    {
+        "contract_address": "0xd836d22531d810f192ba6bd0ba3c28c35d4606c2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 855
+        }
+    },
+    {
+        "contract_address": "0xa3486500f5d08a322cff028a90415dffa7cdb62d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0x5fbba6d2fbd5e5361c8a1348614a8f9ba35f1103",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "GrimesERC"
+        ],
+        "holders": {
+            "ETH": 453
+        }
+    },
+    {
+        "contract_address": "0x8057e80bc61aa42391eafc11ed1830e0b9eed799",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 79
+        }
+    },
+    {
+        "contract_address": "0x3d1382c5a8ca72e0e66f49df4c0dcb4063168568",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "SpiritOfSatoshi_ERC"
+        ],
+        "holders": {
+            "ETH": 57
+        }
+    },
+    {
+        "contract_address": "0x47ce61e0a15dfd91f49f8184fc45e295c62e31df",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 39
+        }
+    },
+    {
+        "contract_address": "0x60d1afd87c5ab1a13e27638f1e75277febf4908c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0xaf86da90a5c1e1a41be3b944b16944081087b7aa",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x386bf9105ef88e79fb8ca53dcc9a4e6f04be0102",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x3ef3f16b66bf3aebb7ad52c32bf0514a58c87b48",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x358d90850e03126e70fa9ce6f3e2d8ba6d660464",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0x1b31159391df728e68d280e9bf1fe88ee395ee83",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "KVMERC"
+        ],
+        "holders": {
+            "ETH": 169
+        }
+    },
+    {
+        "contract_address": "0x2e09057324aa4bf789c8ae7ea9bea8318902b48b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x53798fbd3f18324f8dd30fc76949de5f571d0ae6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x47c64a0f419e015d3986606fffb8b1615c3f7a0c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.gondolatoken.com"
+        ],
+        "telegram_groups": [
+            "gondolaentry"
+        ],
+        "holders": {
+            "ETH": 364
+        }
+    },
+    {
+        "contract_address": "0x8abf4ed04299306ef2fea9820101612b3a6b9892",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "moon_erc20"
+        ],
+        "holders": {
+            "ETH": 210
+        }
     }
 ]
