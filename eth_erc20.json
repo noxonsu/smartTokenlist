@@ -52071,7 +52071,8 @@
         ],
         "holders": {
             "ETH": 143
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6f17171a02d67d738bbb7b568e0952c267bd5dc7",
@@ -52109,7 +52110,11 @@
         },
         "web_domains": [
             "hollaex.com"
-        ]
+        ],
+        "telegram_groups": [
+            "hollaex"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x466a756e9a7401b5e2444a3fcb3c2c12fbea0a54",
