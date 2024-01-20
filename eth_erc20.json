@@ -52162,7 +52162,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 80
-        }
+        },
+        "web_domains": [
+            "neopin.io"
+        ]
     },
     {
         "contract_address": "0xe0b469cb3eda0ece9e425cfeda4df986a55ea9f8",
@@ -52209,14 +52212,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 2
-        }
+        },
+        "web_domains": [
+            "highperplexityads.com"
+        ]
     },
     {
         "contract_address": "0x24982a2e5e36504b28ff1bb27b94ef7bc10f6f9e",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 74
-        }
+        },
+        "web_domains": [
+            "coinrule.com"
+        ]
     },
     {
         "contract_address": "0xee8544eefe616ca232993fac9be2d0f7f8a00043",
@@ -52254,7 +52263,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 2
-        }
+        },
+        "web_domains": [
+            "yprisma.yearn.fi"
+        ]
     },
     {
         "contract_address": "0xd32d72568616d995b3903db652c888caf01a4d7c",
@@ -52339,7 +52351,10 @@
         ],
         "holders": {
             "ETH": 7
-        }
+        },
+        "web_domains": [
+            "www.advisorshares.com"
+        ]
     },
     {
         "contract_address": "0xf8fe4dbe106ac2a1e6c96c3ca77b344a1b1a49e1",
