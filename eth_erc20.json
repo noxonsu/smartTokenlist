@@ -54542,5 +54542,79 @@
         "holders": {
             "ETH": 97
         }
+    },
+    {
+        "contract_address": "0x4561de8e0c2bba725d38d266ef62426e62678d82",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2168
+        }
+    },
+    {
+        "contract_address": "0x854de645c0d88fb43b2bf794c7a13aaa9761d8a7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "omnidao.pro"
+        ],
+        "telegram_groups": [
+            "OmniDAO_Portal"
+        ],
+        "holders": {
+            "ETH": 69
+        }
+    },
+    {
+        "contract_address": "0x53aa26dff23e1ec925a6425c4a0791ba99c856f1",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Diablo4eth"
+        ],
+        "holders": {
+            "ETH": 119
+        }
+    },
+    {
+        "contract_address": "0x9994e35db50125e0df82e4c2dde62496ce330999",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@morpho.xyz"
+        ],
+        "holders": {
+            "ETH": 1429
+        }
+    },
+    {
+        "contract_address": "0x246fcdc18bf3781b4c5100b3a6decef8dbcc8a31",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 759
+        }
+    },
+    {
+        "contract_address": "0x09748fa6c32fe52519b479d3510b9b2420c5b133",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "iwillnevrdie.live"
+        ],
+        "telegram_groups": [
+            "IWILLNEVRDIE"
+        ],
+        "holders": {
+            "ETH": 152
+        }
+    },
+    {
+        "contract_address": "0xffc63b9146967a1ba33066fb057ee3722221acf0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8609
+        }
+    },
+    {
+        "contract_address": "0x6149c26cd2f7b5ccdb32029af817123f6e37df5b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7693
+        }
     }
 ]
