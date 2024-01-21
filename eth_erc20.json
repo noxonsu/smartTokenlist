@@ -54094,5 +54094,138 @@
             "ETH": 339
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xd4342a57ecf2fe7ffa37c33cb8f63b1500e575e6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10268
+        }
+    },
+    {
+        "contract_address": "0x2097453e3c1865d44c86a7221a33758935a9beb7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 232
+        }
+    },
+    {
+        "contract_address": "0xaf603c61e34eedc379f008eec27c98175ccf65b0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xd1313f321a62c9997b9fe81a2278ae4d4510ed80",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "xinucoinerc.com"
+        ],
+        "telegram_groups": [
+            "Xinucoinerc"
+        ],
+        "holders": {
+            "ETH": 152
+        }
+    },
+    {
+        "contract_address": "0x5afff9876c1f98b7d2b53bcb69eb57e92408319f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1426
+        }
+    },
+    {
+        "contract_address": "0x599761b13642eaee0035c153e4f14f7c4427afd0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 518
+        }
+    },
+    {
+        "contract_address": "0x7c4fec009fce44eb80b4e89606c70a572772d0a3",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "tcmickeycoin"
+        ],
+        "holders": {
+            "ETH": 71
+        }
+    },
+    {
+        "contract_address": "0x6ba139e2464aa48b21649e0fb236e5271c04247d",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "groking_erc20"
+        ],
+        "holders": {
+            "ETH": 100
+        }
+    },
+    {
+        "contract_address": "0x1c2884c71629c7d4e378ec95d03bfaf9f6fa5afe",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 264
+        }
+    },
+    {
+        "contract_address": "0xb1ca18fa06f61104acdb5b9cb8f978ff5e51c458",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.xpaypaltoken.xyz"
+        ],
+        "telegram_groups": [
+            "xpaypal_portal"
+        ],
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xcb242e75f1b0817dfdd70aae36902c547668c56b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.devomon.io",
+            "discord.devomon.io"
+        ],
+        "telegram_groups": [
+            "officialdevomon"
+        ],
+        "holders": {
+            "ETH": 56
+        }
+    },
+    {
+        "contract_address": "0x1f18ba2cbfc9e5da6f2989d20ad81b4710556030",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Cybertruck_Community"
+        ],
+        "holders": {
+            "ETH": 342
+        }
+    },
+    {
+        "contract_address": "0xe6cc10ef4de1ccfb821c99c04abfe1859d8eab8f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 52
+        }
+    },
+    {
+        "contract_address": "0x07eef7c8db33b69b7a541829bb988c745e3ca16c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 221
+        }
+    },
+    {
+        "contract_address": "0x6426ff5987100f6270d402409fbf4a093e01a647",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1051
+        }
     }
 ]
