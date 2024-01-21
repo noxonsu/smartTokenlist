@@ -54453,7 +54453,8 @@
         ],
         "holders": {
             "ETH": 233
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7ad16874759348f04b6b6119463d66c07ae54899",
@@ -54462,16 +54463,23 @@
             "PIRB.tech"
         ],
         "telegram_groups": [
-            "PIRB_ERC20",
-            "PIRBXBot",
-            "PIRBViewBot",
             "PIRBViewPROBot",
+            "PIRBViewPRObot",
+            "PIRBXBot",
+            "PirbViewBot",
+            "PIRBRateBot",
+            "PIRBAIBOT",
+            "PIRBViewBot",
             "PIRBAIBot",
-            "PIRBRateBot"
+            "PIRB_ERC20"
         ],
         "holders": {
             "ETH": 200
-        }
+        },
+        "emails": [
+            "contact@pirb.tech"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x965697b4ef02f0de01384d0d4f9f782b1670c163",
