@@ -54441,5 +54441,78 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x9356596f872ddc234ecd6f8bc49c0f9771c595da",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "eth.hedgefi.app"
+        ],
+        "telegram_groups": [
+            "HedgePortal"
+        ],
+        "holders": {
+            "ETH": 233
+        }
+    },
+    {
+        "contract_address": "0x7ad16874759348f04b6b6119463d66c07ae54899",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "PIRB.tech"
+        ],
+        "telegram_groups": [
+            "PIRB_ERC20",
+            "PIRBXBot",
+            "PIRBViewBot",
+            "PIRBViewPROBot",
+            "PIRBAIBot",
+            "PIRBRateBot"
+        ],
+        "holders": {
+            "ETH": 200
+        }
+    },
+    {
+        "contract_address": "0x965697b4ef02f0de01384d0d4f9f782b1670c163",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1169
+        }
+    },
+    {
+        "contract_address": "0x4fd51cb87ffefdf1711112b5bd8ab682e54988ea",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 504
+        }
+    },
+    {
+        "contract_address": "0xccc9fee3011d4437e93184a9347eaaa838304c79",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 40
+        }
+    },
+    {
+        "contract_address": "0x36f27b858843b341f359b21695a43a038b8e44c1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 191
+        }
+    },
+    {
+        "contract_address": "0x2da4401616dc5668100decfaf579229233b4ec1c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 195
+        }
+    },
+    {
+        "contract_address": "0x52bd89a96faab6d0e6f1e28f974a9ebd5fed75a0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 97
+        }
     }
 ]
