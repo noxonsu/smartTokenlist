@@ -53688,7 +53688,8 @@
         ],
         "holders": {
             "ETH": 158
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5ef707c8c0b576012f36cc5a1f3d25191e79c754",
@@ -53718,7 +53719,8 @@
         },
         "web_domains": [
             "cosmcs.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x009178997aff09a67d4caccfeb897fb79d036214",
