@@ -53636,5 +53636,106 @@
         "holders": {
             "ETH": 1645
         }
+    },
+    {
+        "contract_address": "0xc84b27d8f148c0c1c597f6c78ffc2798b108b7f2",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "XPayments20_ERC20",
+            "XPayments20_X"
+        ],
+        "holders": {
+            "ETH": 48
+        }
+    },
+    {
+        "contract_address": "0x66b658b7979abf71d212956f62bdd3630cc7f309",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0x061ce71d3643bc76d7f8856da11734b52aa5248b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 17
+        }
+    },
+    {
+        "contract_address": "0x6ad252cb62f2c1fd589e37f6c07abf0cf3b81cd9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.livebyx.com"
+        ],
+        "telegram_groups": [
+            "livebyx"
+        ],
+        "holders": {
+            "ETH": 527
+        }
+    },
+    {
+        "contract_address": "0x609a627b1b573d536acf31ef05605fc5d2e49b35",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "alphachess.gitbook.io",
+            "alphachess.gg"
+        ],
+        "telegram_groups": [
+            "AlphaChessERC",
+            "AlphaChess_bot"
+        ],
+        "holders": {
+            "ETH": 158
+        }
+    },
+    {
+        "contract_address": "0x5ef707c8c0b576012f36cc5a1f3d25191e79c754",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "XpaymentsERC20"
+        ],
+        "holders": {
+            "ETH": 187
+        }
+    },
+    {
+        "contract_address": "0xa4c18968eefcfbfbb4fe0eb162ac644dd49816c6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 60
+        }
+    },
+    {
+        "contract_address": "0x43031c690cb60b6c1530eab49392f5602ee856c6",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "CosMcsToken"
+        ],
+        "holders": {
+            "ETH": 48
+        }
+    },
+    {
+        "contract_address": "0x009178997aff09a67d4caccfeb897fb79d036214",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 573
+        }
+    },
+    {
+        "contract_address": "0xaedf386b755465871ff874e3e37af5976e247064",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3255
+        }
+    },
+    {
+        "contract_address": "0x5824e2d508da5055c12046b0155cfd83d4b106f9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2295
+        }
     }
 ]
