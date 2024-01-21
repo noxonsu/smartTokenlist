@@ -54782,7 +54782,8 @@
         ],
         "holders": {
             "ETH": 109
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0c0e5a08a0ba87ae55fc9886eedaa03e3285490c",
@@ -54817,7 +54818,8 @@
         ],
         "holders": {
             "ETH": 43
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc0db17bc219c5ca8746c29ee47862ee3ad742f4a",
@@ -54827,7 +54829,9 @@
         },
         "web_domains": [
             "scottytechnologies.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb42e5f337dc4fd81e8e8891e32f6a374fbfe57af",
@@ -54854,7 +54858,9 @@
         },
         "web_domains": [
             "snoochcoin.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa8cc795ccb6b0c2d4bdd91e288fbd12c267c7b2b",
@@ -54867,7 +54873,8 @@
         ],
         "holders": {
             "ETH": 17
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x091d1b44834a82853974da0fa46d2301d42c8e1b",
@@ -54891,7 +54898,11 @@
         ],
         "holders": {
             "ETH": 411
-        }
+        },
+        "telegram_groups": [
+            "LunaInuERC20"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x443a854e9a13794ffe633fb600ad3e90ee842fd1",
