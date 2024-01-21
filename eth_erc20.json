@@ -54168,7 +54168,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 264
-        }
+        },
+        "web_domains": [
+            "hellobundl.com"
+        ]
     },
     {
         "contract_address": "0xb1ca18fa06f61104acdb5b9cb8f978ff5e51c458",
@@ -54212,7 +54215,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 52
-        }
+        },
+        "web_domains": [
+            "exencoin.com"
+        ]
     },
     {
         "contract_address": "0x07eef7c8db33b69b7a541829bb988c745e3ca16c",
