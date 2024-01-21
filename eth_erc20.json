@@ -53479,5 +53479,132 @@
         "holders": {
             "ETH": 21
         }
+    },
+    {
+        "contract_address": "0xd5616c51dc3aaa318795ceb3fde863f18d7cec58",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x55033724068947e1f454e3832a3a1a7c0ce94af7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xd54be9e7d1c2779701435d2a2535caf17553fbd0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 182
+        }
+    },
+    {
+        "contract_address": "0xd1c88b7cc2f9b3a23d1cb537d53a818cef5e5e32",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 206
+        }
+    },
+    {
+        "contract_address": "0x02ea27d82da4f383a1adda6aebd6a058c73d41a0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.apolloswap.pro",
+            "app.apolloswap.pro",
+            "docs.apolloswap.pro"
+        ],
+        "telegram_groups": [
+            "apolloswap_pro"
+        ],
+        "holders": {
+            "ETH": 59
+        }
+    },
+    {
+        "contract_address": "0xdae285aedd369af05ef1cc1169b6b738d459e5fe",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xa31b1767e09f842ecfd4bc471fe44f830e3891aa",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6177
+        }
+    },
+    {
+        "contract_address": "0x4bd70556ae3f8a6ec6c4080a0c327b24325438f3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6818
+        }
+    },
+    {
+        "contract_address": "0x23bb86f34459daebe847b23ab539d5ae71a11062",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9
+        }
+    },
+    {
+        "contract_address": "0x3103450654a1df2fdfe3229a93d1db35c9eed1e5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dogepay.finance"
+        ],
+        "telegram_groups": [
+            "DogePayOfficial"
+        ],
+        "holders": {
+            "ETH": 179
+        }
+    },
+    {
+        "contract_address": "0xb4b8d5c6ed17e30cdeb53adbd295775f453ab0e9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19984
+        }
+    },
+    {
+        "contract_address": "0x700b523712d0f221dcf0965800c47db274abd856",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "trump20.site"
+        ],
+        "telegram_groups": [
+            "trump2portal"
+        ],
+        "holders": {
+            "ETH": 204
+        }
+    },
+    {
+        "contract_address": "0x457c559d3e4cba82bef24d37773b64c845fce45b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cohereai.xyz"
+        ],
+        "telegram_groups": [
+            "Cohere_AI"
+        ],
+        "holders": {
+            "ETH": 57
+        }
+    },
+    {
+        "contract_address": "0x01eeffcd9a10266ed00946121df097eed173b43d",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "xdogecoin_eth"
+        ],
+        "holders": {
+            "ETH": 1645
+        }
     }
 ]
