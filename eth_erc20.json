@@ -44177,7 +44177,9 @@
         "telegram_groups": [
             "LunaInuERC20"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x40c3b81fb887016c0ad02436309c2b265d069a05",
@@ -44240,7 +44242,9 @@
         "telegram_groups": [
             "baggeportal"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x29de856ee1e2b281c9f6dd3c670272e7c6ea63eb",
@@ -44254,7 +44258,9 @@
         "holders": {
             "ETH": 405
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x5ad02305ba9a4985390170337582986e419f1a2c",
@@ -44278,7 +44284,9 @@
         "emails": [
             "contact@unitus.finance"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large7075"
     },
     {
         "contract_address": "0xeda2604f283dc4c7c7088597ca1e8e6205939b47",
@@ -44292,7 +44300,9 @@
         "holders": {
             "ETH": 423
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x0058c8581b9fed6864faa654505bc89890cdb2dd",
@@ -44329,7 +44339,9 @@
         "emails": [
             "admin@yorkie.top"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xbede1f59fa4412556fef69f1b9969f2003e3f8c1",
@@ -44385,7 +44397,9 @@
         "holders": {
             "ETH": 172
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xeea5fb81328343984298819275bda5489e796e62",
@@ -44412,7 +44426,9 @@
         "emails": [
             "info@goatedcoin.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x1a3775507c1632218e48a9d09abe6a6afec046ac",
@@ -44480,7 +44496,9 @@
         "emails": [
             "Email: contact@tacti.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't find chat"
     },
     {
         "contract_address": "0x3be7bf1a5f23bd8336787d0289b70602f1940875",
@@ -44516,12 +44534,14 @@
             "toneai.gitbook.io"
         ],
         "telegram_groups": [
-            "toneaierc"
+            null
         ],
         "holders": {
             "ETH": 125
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: '<' not supported between instances of 'NoneType' and 'int'"
     },
     {
         "contract_address": "0x888888888889c00c67689029d7856aac1065ec11",
