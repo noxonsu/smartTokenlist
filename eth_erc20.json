@@ -45073,7 +45073,9 @@
         "emails": [
             "admin@capsluck.io \n\t\t\t\t\t\t\t\t\t\t"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x8216f6909c8190882c41ec87b36f729c4f73ee55",
@@ -45134,7 +45136,9 @@
         "holders": {
             "ETH": 64
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x7bbac6a28a8268a50bd3b4fed47809843cc18a5a",
@@ -45148,7 +45152,9 @@
         "holders": {
             "ETH": 74
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x22e0c60404322e3202a10b7ef0c681bb0119c2e2",
@@ -45165,7 +45171,9 @@
         "emails": [
             "info@mnrl.co"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xf6f7a34b099dd3eebfe460990f446bab20a26964",
@@ -45179,7 +45187,9 @@
         "holders": {
             "ETH": 113
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x94e0bab2f6ab1f19f4750e42d7349f2740513ad5",
@@ -45242,7 +45252,9 @@
         "holders": {
             "ETH": 486
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: The chat_id \"VuzzAIBot\" belongs to a user"
     },
     {
         "contract_address": "0x32eda739748d7315fca9ba7db6d70d23db22f990",
@@ -45309,7 +45321,9 @@
         "holders": {
             "ETH": 9
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x0cf0e7b81b2edf88d62a7e6d4f4239b1c321dab1",
@@ -45323,7 +45337,9 @@
         "holders": {
             "ETH": 156
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x4d138bec0f79b729be475443a1eeb8557294d536",
@@ -45354,7 +45370,9 @@
         "holders": {
             "ETH": 123
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xcd54df3c19a7ae672897f2a09821d2c287d36326",
@@ -45400,7 +45418,9 @@
         "holders": {
             "ETH": 40
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0xa2e123dc38f1899a9d9515c65036690854cb184b",
