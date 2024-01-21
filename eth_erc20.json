@@ -53772,11 +53772,13 @@
             "X.com"
         ],
         "telegram_groups": [
-            "XDataERC20"
+            "XDataERC20",
+            "XdataERC20"
         ],
         "holders": {
             "ETH": 207
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1132427ca72a2a504d6e399f7880e6ebf6667e0e",
@@ -53786,7 +53788,14 @@
         },
         "web_domains": [
             "trollpepe.lol"
-        ]
+        ],
+        "telegram_groups": [
+            "trollpepe20"
+        ],
+        "emails": [
+            "Contact Us: team@trollpepe.lol"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x482f17e35fbc09253cc6a66566cf9922f3e5f16d",
@@ -53816,7 +53825,8 @@
         ],
         "holders": {
             "ETH": 173
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc8d312b8761fe0d3ea535cfb41174b33ea63b2ae",
@@ -53826,7 +53836,12 @@
         },
         "web_domains": [
             "valaurum.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "Sales: sales@valaurum.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdaeea0b63dd676ab00e5f4eedbf5347e659e74c3",
@@ -53860,7 +53875,9 @@
         },
         "web_domains": [
             "songaday.world"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc187c9782364e3db55802f3a51ac887ca8d1b43a",
@@ -53870,7 +53887,11 @@
         },
         "web_domains": [
             "orai.io"
-        ]
+        ],
+        "telegram_groups": [
+            "oraichain"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdba7b24257fc6e397cb7368b4bc922e944072f1b",
