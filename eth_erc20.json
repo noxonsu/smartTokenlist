@@ -53783,7 +53783,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 133
-        }
+        },
+        "web_domains": [
+            "trollpepe.lol"
+        ]
     },
     {
         "contract_address": "0x482f17e35fbc09253cc6a66566cf9922f3e5f16d",
@@ -53820,7 +53823,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 25
-        }
+        },
+        "web_domains": [
+            "valaurum.com"
+        ]
     },
     {
         "contract_address": "0xdaeea0b63dd676ab00e5f4eedbf5347e659e74c3",
@@ -53851,14 +53857,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 14
-        }
+        },
+        "web_domains": [
+            "songaday.world"
+        ]
     },
     {
         "contract_address": "0xc187c9782364e3db55802f3a51ac887ca8d1b43a",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 94
-        }
+        },
+        "web_domains": [
+            "orai.io"
+        ]
     },
     {
         "contract_address": "0xdba7b24257fc6e397cb7368b4bc922e944072f1b",
