@@ -54127,7 +54127,8 @@
         ],
         "holders": {
             "ETH": 152
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5afff9876c1f98b7d2b53bcb69eb57e92408319f",
@@ -54171,7 +54172,12 @@
         },
         "web_domains": [
             "hellobundl.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "info@hellobundl.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb1ca18fa06f61104acdb5b9cb8f978ff5e51c458",
@@ -54184,7 +54190,8 @@
         ],
         "holders": {
             "ETH": 1
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xcb242e75f1b0817dfdd70aae36902c547668c56b",
@@ -54198,7 +54205,8 @@
         ],
         "holders": {
             "ETH": 56
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1f18ba2cbfc9e5da6f2989d20ad81b4710556030",
@@ -54218,7 +54226,9 @@
         },
         "web_domains": [
             "exencoin.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x07eef7c8db33b69b7a541829bb988c745e3ca16c",
