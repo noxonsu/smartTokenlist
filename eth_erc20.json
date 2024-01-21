@@ -54770,5 +54770,134 @@
         "holders": {
             "ETH": 20
         }
+    },
+    {
+        "contract_address": "0xca6a57bb510dc87649bf03688193929a021da12a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "devsdog.com"
+        ],
+        "telegram_groups": [
+            "devsdogluna"
+        ],
+        "holders": {
+            "ETH": 109
+        }
+    },
+    {
+        "contract_address": "0x0c0e5a08a0ba87ae55fc9886eedaa03e3285490c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0x8b72ba95c73e9b0ef99ff3fbd9f6bb43e0dc72e4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10
+        }
+    },
+    {
+        "contract_address": "0x68b1053fe3fb6ea76c961dcbd358e759b75c24ec",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 44
+        }
+    },
+    {
+        "contract_address": "0x1167f49ff4e1080ee0d9f0a1d745e6ceeed0deb1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.anglebond.com",
+            "app.anglebond.com"
+        ],
+        "telegram_groups": [
+            "anglebond"
+        ],
+        "holders": {
+            "ETH": 43
+        }
+    },
+    {
+        "contract_address": "0xc0db17bc219c5ca8746c29ee47862ee3ad742f4a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0xb42e5f337dc4fd81e8e8891e32f6a374fbfe57af",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2094
+        }
+    },
+    {
+        "contract_address": "0x9024fc0a12b06a0b1a1f91d280e7a8066b8c3c40",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "loadstarpotal"
+        ],
+        "holders": {
+            "ETH": 231
+        }
+    },
+    {
+        "contract_address": "0x0a128a6458299951bf90b57fca76ae1bd6807b4d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0xa8cc795ccb6b0c2d4bdd91e288fbd12c267c7b2b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.ultiverse.io"
+        ],
+        "telegram_groups": [
+            "Ultiverse"
+        ],
+        "holders": {
+            "ETH": 17
+        }
+    },
+    {
+        "contract_address": "0x091d1b44834a82853974da0fa46d2301d42c8e1b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xccea7858eb72d554d007f05b0c4964bb2082b6c7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 577
+        }
+    },
+    {
+        "contract_address": "0x47d920a911cb9a0ad4618698ba3fef800abc868d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tokenmint.io"
+        ],
+        "holders": {
+            "ETH": 411
+        }
+    },
+    {
+        "contract_address": "0x443a854e9a13794ffe633fb600ad3e90ee842fd1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cinmantoro.org"
+        ],
+        "telegram_groups": [
+            "CINMANTORO_ETH"
+        ],
+        "holders": {
+            "ETH": 64
+        }
     }
 ]
