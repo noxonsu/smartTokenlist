@@ -54263,5 +54263,89 @@
         "holders": {
             "ETH": 1051
         }
+    },
+    {
+        "contract_address": "0x98332a877ff49518aa90a1efb25cebd391bb6003",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 165
+        }
+    },
+    {
+        "contract_address": "0x21bacb6197c95194282444656790b1eed00d9090",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 102
+        }
+    },
+    {
+        "contract_address": "0xd5cd84d6f044abe314ee7e414d37cae8773ef9d3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3216
+        }
+    },
+    {
+        "contract_address": "0x0b1940c12cffa40663aded5b32b7f616b2867b5c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "trollai.network"
+        ],
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0xad6eefb4f4a6ce3e2cd2049c3104f5ce5ed082f0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1340
+        }
+    },
+    {
+        "contract_address": "0xfcec9696d036065fd25d660c6c600445d6ba6b19",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 276
+        }
+    },
+    {
+        "contract_address": "0x065950769eba32daa3503dd28c28c1141bcd54c4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.netcoin.dev"
+        ],
+        "telegram_groups": [
+            "netcoin_portal"
+        ],
+        "holders": {
+            "ETH": 579
+        }
+    },
+    {
+        "contract_address": "0x6dd5aa5b1b2b1da023a7de6f0179aab8d1644be5",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "GROKINGportal"
+        ],
+        "holders": {
+            "ETH": 297
+        }
+    },
+    {
+        "contract_address": "0xbb016f05a05fbbf0a346b152be185d60bc069ef9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.nyancatmoney.com"
+        ],
+        "telegram_groups": [
+            "NyanCatMoney2"
+        ],
+        "emails": [
+            "contact@nyancatmoney.com"
+        ],
+        "holders": {
+            "ETH": 342
+        }
     }
 ]
