@@ -54651,7 +54651,12 @@
         },
         "web_domains": [
             "neo.org"
-        ]
+        ],
+        "telegram_groups": [
+            "NEO_EN",
+            "NEO_Chinese"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3267c5b73cc15e253b1a90c01366b17d560bc6fb",
@@ -54681,7 +54686,11 @@
         ],
         "holders": {
             "ETH": 178
-        }
+        },
+        "telegram_groups": [
+            "LunaInuERC20"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x02c779fad9850394c9abbd47c7c690858c81884f",
@@ -54711,7 +54720,8 @@
         ],
         "holders": {
             "ETH": 101
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe854d19e05c32673569d413ad44b95d38e412a81",
