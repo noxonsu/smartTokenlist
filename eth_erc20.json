@@ -54824,7 +54824,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 7
-        }
+        },
+        "web_domains": [
+            "scottytechnologies.com"
+        ]
     },
     {
         "contract_address": "0xb42e5f337dc4fd81e8e8891e32f6a374fbfe57af",
@@ -54848,7 +54851,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 4
-        }
+        },
+        "web_domains": [
+            "snoochcoin.com"
+        ]
     },
     {
         "contract_address": "0xa8cc795ccb6b0c2d4bdd91e288fbd12c267c7b2b",
