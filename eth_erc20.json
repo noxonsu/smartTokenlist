@@ -54023,5 +54023,50 @@
         "holders": {
             "ETH": 1993
         }
+    },
+    {
+        "contract_address": "0x9c1ff56018e5fff2b4aab68b98f4c11b407b0c75",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 671
+        }
+    },
+    {
+        "contract_address": "0x3ae2d228f4fd16729977da0cee8eb0713ab813fe",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wildwildweth.xyz",
+            "wildwildweth.netlify.app"
+        ],
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0x08c43d28b117ec4c800f7b34783f1950c4c119a7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.devomon.io",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "officialdevomon"
+        ],
+        "holders": {
+            "ETH": 28
+        }
+    },
+    {
+        "contract_address": "0xfb71acc360f5c47418be2ce299593b49bfbdb50a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "xaiierc.vip"
+        ],
+        "telegram_groups": [
+            "xaientry_erc"
+        ],
+        "holders": {
+            "ETH": 339
+        }
     }
 ]
