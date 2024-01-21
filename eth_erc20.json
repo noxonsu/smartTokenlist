@@ -53502,7 +53502,9 @@
         },
         "web_domains": [
             "xpay.app"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd1c88b7cc2f9b3a23d1cb537d53a818cef5e5e32",
@@ -53520,11 +53522,13 @@
             "docs.apolloswap.pro"
         ],
         "telegram_groups": [
-            "apolloswap_pro"
+            "apolloswap_pro",
+            "jio_ann"
         ],
         "holders": {
             "ETH": 59
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xdae285aedd369af05ef1cc1169b6b738d459e5fe",
@@ -53565,7 +53569,8 @@
         ],
         "holders": {
             "ETH": 179
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb4b8d5c6ed17e30cdeb53adbd295775f453ab0e9",
@@ -53585,7 +53590,8 @@
         ],
         "holders": {
             "ETH": 204
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x457c559d3e4cba82bef24d37773b64c845fce45b",
@@ -53598,7 +53604,8 @@
         ],
         "holders": {
             "ETH": 57
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x01eeffcd9a10266ed00946121df097eed173b43d",
