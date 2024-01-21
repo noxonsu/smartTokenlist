@@ -53929,5 +53929,78 @@
             "everriseofficial"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0xab1796f4770c8ec773822cff7b43de6351080527",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "grok-2.com",
+            "metadrop.com."
+        ],
+        "holders": {
+            "ETH": 582
+        }
+    },
+    {
+        "contract_address": "0x616dc2536ea9c5cf44001bc6356e67fbefe0a029",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "xaicoinerc"
+        ],
+        "holders": {
+            "ETH": 1521
+        }
+    },
+    {
+        "contract_address": "0xa0cf46eb152656c7090e769916eb44a138aaa406",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6903
+        }
+    },
+    {
+        "contract_address": "0x9b034e998e05e2e8447e77748cfd5eeee5c13497",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 38
+        }
+    },
+    {
+        "contract_address": "0x4ece5c5cfb9b960a49aae739e15cdb6cfdcc5782",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2094
+        }
+    },
+    {
+        "contract_address": "0x7fd4d7737597e7b4ee22acbf8d94362343ae0a79",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 636
+        }
+    },
+    {
+        "contract_address": "0x8e964e35a76103af4c7d7318e1b1a82c682ae296",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 394
+        }
+    },
+    {
+        "contract_address": "0x27ca762c6b0e63ad841a261c42615ad9f5bbe03c",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "XCorp_Entry"
+        ],
+        "holders": {
+            "ETH": 742
+        }
+    },
+    {
+        "contract_address": "0x5dd57da40e6866c9fcc34f4b6ddc89f1ba740dfe",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1993
+        }
     }
 ]
