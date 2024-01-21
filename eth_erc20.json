@@ -53715,7 +53715,10 @@
         ],
         "holders": {
             "ETH": 48
-        }
+        },
+        "web_domains": [
+            "cosmcs.com"
+        ]
     },
     {
         "contract_address": "0x009178997aff09a67d4caccfeb897fb79d036214",
