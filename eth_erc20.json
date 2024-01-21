@@ -53499,7 +53499,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 182
-        }
+        },
+        "web_domains": [
+            "xpay.app"
+        ]
     },
     {
         "contract_address": "0xd1c88b7cc2f9b3a23d1cb537d53a818cef5e5e32",
