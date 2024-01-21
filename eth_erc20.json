@@ -54648,7 +54648,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 75
-        }
+        },
+        "web_domains": [
+            "neo.org"
+        ]
     },
     {
         "contract_address": "0x3267c5b73cc15e253b1a90c01366b17d560bc6fb",
