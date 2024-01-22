@@ -49770,7 +49770,9 @@
         "emails": [
             "contact@blackwaterlabs.ai"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: The chat_id \"BlackWaterLabs_bot\" belongs to a user"
     },
     {
         "contract_address": "0x431d5dff03120afa4bdf332c61a6e1766ef37bdb",
@@ -49808,12 +49810,14 @@
             "BshotRoulette.com"
         ],
         "telegram_groups": [
-            "BShot"
+            null
         ],
         "holders": {
             "ETH": 20
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: '<' not supported between instances of 'NoneType' and 'int'"
     },
     {
         "contract_address": "0x3fbc95e03da2a5425088c5cb0ee453ac7b447be9",
@@ -49827,7 +49831,9 @@
         "holders": {
             "ETH": 85
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x94af659a34a813f5c2ad6cbaab45b5111d4d431f",
@@ -49844,7 +49850,9 @@
         "holders": {
             "ETH": 192
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: The chat_id \"TrustKYCbot\" belongs to a user"
     },
     {
         "contract_address": "0x4829e519ac579d99f1e1bd0a07cdaef159ad944a",
@@ -49885,7 +49893,9 @@
         "telegram_groups": [
             "ondofinance"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large88578"
     },
     {
         "contract_address": "0xaa0226174ea6066e02d64716cc287c34d37befa3",
@@ -49961,7 +49971,9 @@
         "telegram_groups": [
             "LunaInuERC20"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x8c6f2d33a51201293f2a0931e2e02920e960bdc8",
@@ -50076,7 +50088,9 @@
         "emails": [
             "Contact Us : team@neuralai.app"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large3598"
     },
     {
         "contract_address": "0x3bcea8707e40b185a33f5922a4dcdfec6033a5ee",
@@ -50131,7 +50145,9 @@
         "emails": [
             "marketing@davos.xyz"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large9197"
     },
     {
         "contract_address": "0xd5d99b7e9697ba8bb1da48f07ba81900c7572cea",
@@ -50246,7 +50262,9 @@
         "telegram_groups": [
             "dedotfi"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large84274"
     },
     {
         "contract_address": "0x6c5146e923ce3854ed3cf73aafee10fda770e92b",
@@ -50260,7 +50278,9 @@
         "holders": {
             "ETH": 348
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xcb27e0b9530d5107302e3e0691dd0f64faf498b0",
