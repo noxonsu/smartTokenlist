@@ -55114,7 +55114,9 @@
         ],
         "holders": {
             "ETH": 155
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf4cccfda0781ae019a9d4e1853dcd3e288daaa89",
@@ -55151,7 +55153,9 @@
         },
         "web_domains": [
             "blast.ao"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7440c54e602ebd0cc33c1692ce800b4dcf239d12",
@@ -55192,11 +55196,13 @@
             "barneymeme.site"
         ],
         "telegram_groups": [
+            "barney_sol",
             "BarneyComeback2024"
         ],
         "holders": {
             "ETH": 284
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa9dd52596354cfcc50b36ae3a42386a74ec45a48",
