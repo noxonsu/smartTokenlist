@@ -51274,7 +51274,9 @@
         "emails": [
             "assistant@satoshisea.io"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x32db8f7f81c60e6405064d935b6e7bc80cb070d1",
@@ -51363,7 +51365,9 @@
         "holders": {
             "ETH": 493
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't find chat"
     },
     {
         "contract_address": "0x6390ee51738652b4f22c20f0fd02275cbd5ff685",
@@ -51435,7 +51439,9 @@
         "holders": {
             "ETH": 66
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xe4efdd2eb216a4620cfa55c5cc67bd09dc64ff24",
@@ -51459,7 +51465,9 @@
         "telegram_groups": [
             "woolypoolycom_bot"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: The chat_id \"woolypoolycom_bot\" belongs to a user"
     },
     {
         "contract_address": "0x8e7c1d829b9cfe983a4b4adfa0e3a4355ccc6244",
@@ -51473,7 +51481,9 @@
         "holders": {
             "ETH": 411
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xd4074c1e48e11615fd1cfe8cbe691f5ab944aaa6",
@@ -51524,7 +51534,9 @@
         "emails": [
             "info@scanai.io"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x77021afa357b494c7747864c4250c3c11460ce81",
@@ -51557,7 +51569,9 @@
         "telegram_groups": [
             "ValidSwapSupport"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: The chat_id \"ValidSwapSupport\" belongs to a user"
     },
     {
         "contract_address": "0x21f46fed810f824ef557d4e5c90b94f4db0180a8",
@@ -51592,7 +51606,9 @@
         "telegram_groups": [
             "LunaInuERC20"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xb10cc888cb2cce7036f4c7ecad8a57da16161338",
@@ -51613,7 +51629,9 @@
         "holders": {
             "ETH": 67
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x07b9c0964d3e8734d65aea20c37334c2528ca601",
@@ -51713,7 +51731,9 @@
         "holders": {
             "ETH": 190
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xfb2d16e8ada069c69c238257ed684e88e53a87bc",
