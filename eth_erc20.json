@@ -55974,12 +55974,13 @@
             "farcana.medium.com"
         ],
         "telegram_groups": [
-            "FarcanaGame_chat",
-            "FarcanaGame"
+            "FarcanaGame",
+            "FarcanaGame_chat"
         ],
         "holders": {
             "ETH": 23
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3ba518ce156fd62811272b0bb08c6e25b1a58717",
@@ -55993,7 +55994,8 @@
         ],
         "holders": {
             "ETH": 99
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x223028738503838e89fc5fd5b1a42f1d024d9600",
@@ -56020,7 +56022,8 @@
         },
         "web_domains": [
             "grok15.vip"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa868d459b198a38ae15bdca561eee9891ac23bd7",
@@ -56033,7 +56036,8 @@
         ],
         "holders": {
             "ETH": 43
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x94e32f671a26ce0634373750b9960a3a1335a8a2",
@@ -56074,6 +56078,8 @@
         ],
         "holders": {
             "ETH": 66
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     }
 ]
