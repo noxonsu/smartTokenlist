@@ -55954,5 +55954,123 @@
         "holders": {
             "ETH": 365
         }
+    },
+    {
+        "contract_address": "0xa711bcc2b6f5c4fc3dfaccc2a01148765cbbab1c",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Grok15erc20coin"
+        ],
+        "holders": {
+            "ETH": 477
+        }
+    },
+    {
+        "contract_address": "0xc0c8c663a09df76cf7aa2b323e1956c09f0cec45",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.farcana.com",
+            "docsend.com",
+            "farcana.medium.com"
+        ],
+        "telegram_groups": [
+            "FarcanaGame_chat",
+            "FarcanaGame"
+        ],
+        "holders": {
+            "ETH": 23
+        }
+    },
+    {
+        "contract_address": "0x3ba518ce156fd62811272b0bb08c6e25b1a58717",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "PocFi.finance",
+            "app.PocFi.finance"
+        ],
+        "telegram_groups": [
+            "PocFi_finance_official"
+        ],
+        "holders": {
+            "ETH": 99
+        }
+    },
+    {
+        "contract_address": "0x223028738503838e89fc5fd5b1a42f1d024d9600",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1010
+        }
+    },
+    {
+        "contract_address": "0x7ccd42ef16b25afc023186ce18a7e866cd633e49",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 86
+        }
+    },
+    {
+        "contract_address": "0x57a1d3836380b7c10941504147302050ccaad3de",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Grok1pointfive"
+        ],
+        "holders": {
+            "ETH": 237
+        }
+    },
+    {
+        "contract_address": "0xa868d459b198a38ae15bdca561eee9891ac23bd7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "neuronai.pro"
+        ],
+        "telegram_groups": [
+            "neuronai_portal"
+        ],
+        "holders": {
+            "ETH": 43
+        }
+    },
+    {
+        "contract_address": "0x94e32f671a26ce0634373750b9960a3a1335a8a2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 170
+        }
+    },
+    {
+        "contract_address": "0xff44b5719f0b77a9951636fc5e69d3a1fc9e7d73",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1619
+        }
+    },
+    {
+        "contract_address": "0xc7089108c0f351e86a9934189f42682541495392",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "grok15eth"
+        ],
+        "holders": {
+            "ETH": 90
+        }
+    },
+    {
+        "contract_address": "0x6bc08509b36a98e829dffad49fde5e412645d0a3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3207
+        }
+    },
+    {
+        "contract_address": "0x2292d83a2c094824d79137c8dacfa62087ed4903",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bitport.gitbook.io"
+        ],
+        "holders": {
+            "ETH": 66
+        }
     }
 ]
