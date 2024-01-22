@@ -55404,5 +55404,70 @@
         "holders": {
             "ETH": 7
         }
+    },
+    {
+        "contract_address": "0xdbc75f3c6fa07dcc1e8abb652c9cc7d077ca46bd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 61
+        }
+    },
+    {
+        "contract_address": "0xd100bc5680e97c1ed1e0a05c84d6ded8161d9605",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 243
+        }
+    },
+    {
+        "contract_address": "0xd6953c064464e6af0862f0c90c04bd9da1b3f452",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 132
+        }
+    },
+    {
+        "contract_address": "0xa98a8a74aa8d6f41f9e498a084548c4db63c8f01",
+        "sourceScanned": "processed",
+        "emails": [
+            "support@mazuri.io"
+        ],
+        "holders": {
+            "ETH": 321
+        }
+    },
+    {
+        "contract_address": "0xcf45e6a1f9af293ba4c13949fc1b5a39f6f4a0c9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "genesyscode.io"
+        ],
+        "telegram_groups": [
+            "Genesyscode"
+        ],
+        "holders": {
+            "ETH": 695
+        }
+    },
+    {
+        "contract_address": "0xe07c1b4b48188947bfdf88328f905898b749ffe4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0x0779645eab3183848decda319c6df18e2d017cb0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9
+        }
+    },
+    {
+        "contract_address": "0xfb09122d1e17170c1807bfc1ef3c614bd85e1b6e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1581
+        }
     }
 ]
