@@ -55723,7 +55723,9 @@
         },
         "web_domains": [
             "liquis.app"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xfd09911130e6930bf87f2b0554c44f400bd80d3e",
@@ -55741,7 +55743,11 @@
         ],
         "holders": {
             "ETH": 374
-        }
+        },
+        "telegram_groups": [
+            "PepuraiToken"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbaf72a9d3a55424dd175c5aa2bf78b5c2dac4cbc",
