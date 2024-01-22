@@ -54937,5 +54937,133 @@
             "ETH": 64
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x31ea0de8119307aa264bb4b38727aab4e36b074f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1410
+        }
+    },
+    {
+        "contract_address": "0x48705618292b153b98e816dff527352b4b748fa0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.twitter.com",
+            "miichain.org",
+            "miiexplorer.org",
+            "docs.miichain.org"
+        ],
+        "telegram_groups": [
+            "miichain"
+        ],
+        "holders": {
+            "ETH": 120
+        }
+    },
+    {
+        "contract_address": "0x593f39a4ba26a9c8ed2128ac95d109e8e403c485",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1788
+        }
+    },
+    {
+        "contract_address": "0x6b7293a0f3d294e3ac53322b5c3e24399748b828",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "killscam.pro"
+        ],
+        "telegram_groups": [
+            "killscam_web3"
+        ],
+        "holders": {
+            "ETH": 75
+        }
+    },
+    {
+        "contract_address": "0x9ca98c8b217c3b45074834908555d36af2ac6449",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 89
+        }
+    },
+    {
+        "contract_address": "0x5fbc2ffe91ac74e3e286bd7504b233f0e5291c69",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 52
+        }
+    },
+    {
+        "contract_address": "0xb338815390740a638e81a6349928a8aff6b47391",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bondex.app",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "bondexapp"
+        ],
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0x9657477ac915f56ca87c253db1320218ec2d5ddd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 267
+        }
+    },
+    {
+        "contract_address": "0x7e8689a91ac00cfbba4bb5dfe8fa2e7dac3433d1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "xpond.vip"
+        ],
+        "telegram_groups": [
+            "xpond_portal"
+        ],
+        "holders": {
+            "ETH": 67
+        }
+    },
+    {
+        "contract_address": "0xf3bb9f16677f2b86efd1dfca1c141a99783fde58",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 208
+        }
+    },
+    {
+        "contract_address": "0x50a69cea809b4afed9a31a72f049a5b0b33bf5e3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "linktr.ee"
+        ],
+        "holders": {
+            "ETH": 343
+        }
+    },
+    {
+        "contract_address": "0xfc4b4ec763722b71eb1d729749b447a9645f5f30",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.dumbmoneytoken.vip"
+        ],
+        "telegram_groups": [
+            "DumbMoneyERC"
+        ],
+        "holders": {
+            "ETH": 1449
+        }
+    },
+    {
+        "contract_address": "0x8f22779662ad253844013d8e99eccb4d80e31417",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 30
+        }
     }
 ]
