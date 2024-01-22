@@ -56103,5 +56103,62 @@
         },
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x2129ced607135e9ce23d5f0cb6ba926e838e2a38",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 111
+        }
+    },
+    {
+        "contract_address": "0x174a8f1bd96adba7de18ceac5ba2e6fb5272d931",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0x056c1d42fb1326f57da7f19ebb7dda4673f1ff55",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 921
+        }
+    },
+    {
+        "contract_address": "0x0cac3d7122dcfbd94b0331213ae7d1ead32295f7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "yanabot.io",
+            "chainback.org",
+            "chainback.org"
+        ],
+        "telegram_groups": [
+            "Yana_AI"
+        ],
+        "holders": {
+            "ETH": 230
+        }
+    },
+    {
+        "contract_address": "0x69c2fcae7e30b429166bd616a322e32bec036bcf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1423
+        }
+    },
+    {
+        "contract_address": "0xf3a3023e6dede84ad88a656a3269f2a36e83c9a9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1102
+        }
+    },
+    {
+        "contract_address": "0x35e7ebc9889c58df3e40e6598948aa99672844a7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 74
+        }
     }
 ]
