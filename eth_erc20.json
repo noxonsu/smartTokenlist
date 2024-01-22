@@ -55720,7 +55720,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 2
-        }
+        },
+        "web_domains": [
+            "liquis.app"
+        ]
     },
     {
         "contract_address": "0xfd09911130e6930bf87f2b0554c44f400bd80d3e",
