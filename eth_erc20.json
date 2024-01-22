@@ -55413,7 +55413,11 @@
         },
         "web_domains": [
             "befilabs.com"
-        ]
+        ],
+        "telegram_groups": [
+            "BeFi_Labs"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd100bc5680e97c1ed1e0a05c84d6ded8161d9605",
