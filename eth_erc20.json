@@ -56017,7 +56017,10 @@
         ],
         "holders": {
             "ETH": 237
-        }
+        },
+        "web_domains": [
+            "grok15.vip"
+        ]
     },
     {
         "contract_address": "0xa868d459b198a38ae15bdca561eee9891ac23bd7",
