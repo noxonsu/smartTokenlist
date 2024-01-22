@@ -51849,7 +51849,9 @@
         "holders": {
             "ETH": 161
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x286a08a8ab8e8d6068ed0e1fe1c90e441424d99f",
@@ -51863,7 +51865,9 @@
         "telegram_groups": [
             "nibiruchain"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large1872"
     },
     {
         "contract_address": "0xf98ab0874b13a7fdc39d7295dedd49850a5d426b",
@@ -51983,7 +51987,9 @@
         "emails": [
             "master@seagalcoin.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x03928473f25bb2da6bc880b07ecbadc636822264",
@@ -52116,7 +52122,9 @@
         "holders": {
             "ETH": 426
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large1213"
     },
     {
         "contract_address": "0x5e17908c91c840e799b4904777c00e5ea4962596",
@@ -52130,7 +52138,9 @@
         "holders": {
             "ETH": 62
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0xca6ea08ac0f3f94cf9e0bfef646a92619493f931",
@@ -52153,14 +52163,16 @@
             "www.x.com"
         ],
         "telegram_groups": [
-            "Moco_erc",
+            null,
             "loem_ai",
             "doge2rescue"
         ],
         "holders": {
             "ETH": 2
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: '<' not supported between instances of 'NoneType' and 'int'"
     },
     {
         "contract_address": "0x0cfe5c777a7438c9dd8add53ed671cec7a5faee5",
@@ -52196,7 +52208,9 @@
         "holders": {
             "ETH": 105
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xf9386b5dc1c37393c4ab0d51b3822b6bd3232bc9",
@@ -52205,12 +52219,14 @@
             "eloviamind.com"
         ],
         "telegram_groups": [
-            "eloviamind"
+            null
         ],
         "holders": {
             "ETH": 97
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: '<' not supported between instances of 'NoneType' and 'int'"
     },
     {
         "contract_address": "0x1a89d56ad43d8c88d785c6ceef3325430dd87b4a",
@@ -52243,7 +52259,9 @@
         "holders": {
             "ETH": 108
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x53805a76e1f5ebbfe7115f16f9c87c2f7e633726",
@@ -52257,7 +52275,9 @@
         "telegram_groups": [
             "aladdin_dao"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large1484"
     },
     {
         "contract_address": "0xb15a5aab2a65745314fcd0d7f5080bfa65bd7c03",
