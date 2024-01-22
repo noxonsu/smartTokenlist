@@ -56138,7 +56138,11 @@
         ],
         "holders": {
             "ETH": 230
-        }
+        },
+        "emails": [
+            "info@yanabot.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x69c2fcae7e30b429166bd616a322e32bec036bcf",
