@@ -55516,5 +55516,113 @@
         "holders": {
             "ETH": 1581
         }
+    },
+    {
+        "contract_address": "0xc1ca42de59b86c4b8e574becd693565aac467aa7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0x523530e1add0e4a23d0fa7b057778fd294b3302b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 286
+        }
+    },
+    {
+        "contract_address": "0x09aeaf3ec549f9ac2326a8b090873885dc53d898",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "FreeTrump_ETH"
+        ],
+        "holders": {
+            "ETH": 78
+        }
+    },
+    {
+        "contract_address": "0x8bcc0f404558998a5783968c70e8831b628f2a05",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.kiloex.io",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "KiloEx"
+        ],
+        "holders": {
+            "ETH": 27
+        }
+    },
+    {
+        "contract_address": "0xb7be27ba608641f0b6f152c8b432757f3685d2b0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 41
+        }
+    },
+    {
+        "contract_address": "0xf31120603a27a16314effc37a3f32a42028310af",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 163
+        }
+    },
+    {
+        "contract_address": "0x6e0606dc3f041b27b625ded8dca20a6aeb090d61",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x789df91ee3114af332a978e4558c2575ee44dbf6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 35
+        }
+    },
+    {
+        "contract_address": "0x279269085e7c6e6a08e58a571cdd1879df1a5346",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools"
+        ],
+        "holders": {
+            "ETH": 323
+        }
+    },
+    {
+        "contract_address": "0xc3f8143212871014b472ea83285af7f25928dee4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 203
+        }
+    },
+    {
+        "contract_address": "0x528b19811b525f71060957651ffc2aad940df7b0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.xendpayments.com",
+            "app.xendpayments.com",
+            "docs.xendpayments.com"
+        ],
+        "telegram_groups": [
+            "xendpayments"
+        ],
+        "holders": {
+            "ETH": 71
+        }
+    },
+    {
+        "contract_address": "0x44ea324e4dba6c1611953dec152a909485fd82b0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
     }
 ]
