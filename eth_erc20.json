@@ -51233,8 +51233,8 @@
             "pandamantoken.com"
         ],
         "telegram_groups": [
-            "BazookaTools",
-            "PandaManPortal"
+            "PandaManPortal",
+            "BazookaTools"
         ],
         "holders": {
             "ETH": 493
@@ -54955,11 +54955,14 @@
             "docs.miichain.org"
         ],
         "telegram_groups": [
+            "BazookaTools",
+            "PandaManPortal",
             "miichain"
         ],
         "holders": {
             "ETH": 120
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x593f39a4ba26a9c8ed2128ac95d109e8e403c485",
@@ -54979,7 +54982,8 @@
         ],
         "holders": {
             "ETH": 75
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9ca98c8b217c3b45074834908555d36af2ac6449",
@@ -54996,7 +55000,9 @@
         },
         "web_domains": [
             "earnbet.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb338815390740a638e81a6349928a8aff6b47391",
@@ -55010,7 +55016,8 @@
         ],
         "holders": {
             "ETH": 13
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9657477ac915f56ca87c253db1320218ec2d5ddd",
@@ -55030,7 +55037,8 @@
         ],
         "holders": {
             "ETH": 67
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf3bb9f16677f2b86efd1dfca1c141a99783fde58",
@@ -55047,7 +55055,13 @@
         ],
         "holders": {
             "ETH": 343
-        }
+        },
+        "telegram_groups": [
+            "JesterBotEth",
+            "CybertruckETH",
+            "XtrackERC"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xfc4b4ec763722b71eb1d729749b447a9645f5f30",
