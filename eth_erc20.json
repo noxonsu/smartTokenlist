@@ -52702,7 +52702,9 @@
         "emails": [
             "info@harambeeth.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x365f721a522a7fc66d08449c4f3984d1e36d58dc",
@@ -52723,7 +52725,9 @@
         "telegram_groups": [
             "neopin_eng"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large29832"
     },
     {
         "contract_address": "0xe0b469cb3eda0ece9e425cfeda4df986a55ea9f8",
@@ -52747,7 +52751,9 @@
         "emails": [
             "support@opcat.vip"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xe46091dce9c67691bcf22768bbee0bc9e20d4beb",
@@ -52858,7 +52864,9 @@
         "emails": [
             "info@flokivspepe.lol"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0x8af17a6396c8f315f6b6dbc6aa686c85f9b3e554",
@@ -52900,7 +52908,9 @@
         "holders": {
             "ETH": 98
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xf5330b716d4bb994b72d95cd01163841f83f6fef",
@@ -52931,7 +52941,9 @@
         "emails": [
             "info@advisorshares.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0xf8fe4dbe106ac2a1e6c96c3ca77b344a1b1a49e1",
@@ -52959,7 +52971,9 @@
         "holders": {
             "ETH": 288
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xc9fb864b3a0db8a5636b2fab35f4473c8e26b8b2",
@@ -52987,7 +53001,9 @@
         "holders": {
             "ETH": 143
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x8fbe424fad5a2411a7acc269253cc3be4f8cd2e6",
@@ -53207,7 +53223,9 @@
         "holders": {
             "ETH": 364
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x8abf4ed04299306ef2fea9820101612b3a6b9892",
@@ -53252,13 +53270,15 @@
             "www.brclauncher.com"
         ],
         "telegram_groups": [
-            "BRCLauncherAnnouncement",
+            "BRCLauncher",
             "BRCLauncher"
         ],
         "holders": {
             "ETH": 114
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xd05d7b24ac295c658d5ef31f55087cfb9b0d6143",
