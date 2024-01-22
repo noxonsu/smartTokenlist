@@ -55148,7 +55148,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 26
-        }
+        },
+        "web_domains": [
+            "blast.ao"
+        ]
     },
     {
         "contract_address": "0x7440c54e602ebd0cc33c1692ce800b4dcf239d12",
