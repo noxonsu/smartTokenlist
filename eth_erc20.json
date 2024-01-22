@@ -55553,7 +55553,11 @@
         ],
         "holders": {
             "ETH": 27
-        }
+        },
+        "emails": [
+            " <div class=\"email\">Email: Support@kiloex.io</div> "
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb7be27ba608641f0b6f152c8b432757f3685d2b0",
@@ -55594,7 +55598,9 @@
         ],
         "holders": {
             "ETH": 323
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc3f8143212871014b472ea83285af7f25928dee4",
@@ -55616,7 +55622,8 @@
         ],
         "holders": {
             "ETH": 71
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x44ea324e4dba6c1611953dec152a909485fd82b0",
