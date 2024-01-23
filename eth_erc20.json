@@ -57207,7 +57207,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 45
-        }
+        },
+        "web_domains": [
+            "ubdn.com"
+        ]
     },
     {
         "contract_address": "0x08931c0b7b1f464515c9b179de8562a8188df8cd",
