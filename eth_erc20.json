@@ -56474,7 +56474,11 @@
         },
         "web_domains": [
             "masa.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "masafinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x00287ab9aca50040cd09bb86c0a0c7a593328309",
@@ -56494,7 +56498,11 @@
         ],
         "holders": {
             "ETH": 243
-        }
+        },
+        "emails": [
+            "contact@honeybadger.meme"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3c19d9f2df0e25c077a637692da2337d51daf8b7",
@@ -56528,7 +56536,8 @@
         ],
         "holders": {
             "ETH": 372
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb44b653f147569d88a684cbf6549e1968e8b2a1d",
@@ -56558,6 +56567,7 @@
         ],
         "holders": {
             "ETH": 90
-        }
+        },
+        "p6": true
     }
 ]
