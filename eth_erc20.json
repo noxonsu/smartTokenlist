@@ -56957,5 +56957,104 @@
         "holders": {
             "ETH": 196
         }
+    },
+    {
+        "contract_address": "0xd4c435f5b09f855c3317c8524cb1f586e42795fa",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 29590
+        }
+    },
+    {
+        "contract_address": "0x926ff6584b5905cc793cfb19bfc0ad6443671f47",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1576
+        }
+    },
+    {
+        "contract_address": "0x78f897f0fe2d3b5690ebae7f19862deacedf10a7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 104
+        }
+    },
+    {
+        "contract_address": "0x2840874bd54a7c312d4809e8e7582cc7866711ff",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0xd7f1834ab766aefb52d71d8f58901197126d2fb5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dehub.io"
+        ],
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0xeb1b3ab429aa76ebf49f82c834414d4fe98f6ef1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 39
+        }
+    },
+    {
+        "contract_address": "0x356b008f30081ae1ed6c4763643412467ad3f52c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.tesla.com",
+            "roadstererc.vip"
+        ],
+        "telegram_groups": [
+            "roadstererc"
+        ],
+        "holders": {
+            "ETH": 223
+        }
+    },
+    {
+        "contract_address": "0x55fa68bcc23bc2907261f89eb9543f11f4088271",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 22
+        }
+    },
+    {
+        "contract_address": "0xc84a293084df74fcc2f4c451cd6e6bbd0f08f993",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ibb.co"
+        ],
+        "telegram_groups": [
+            "EtherEntry"
+        ],
+        "holders": {
+            "ETH": 128
+        }
+    },
+    {
+        "contract_address": "0xa68ed8c14c93fffe480d9e4bba5bad8d382eb54d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.donketoken.xyz"
+        ],
+        "telegram_groups": [
+            "Donke_portal"
+        ],
+        "holders": {
+            "ETH": 197
+        }
+    },
+    {
+        "contract_address": "0xc87cee866ebdfc4f0e07e80157f0f4cbb7ad329e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 102
+        }
     }
 ]
