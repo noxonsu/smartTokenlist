@@ -56471,7 +56471,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 45
-        }
+        },
+        "web_domains": [
+            "masa.finance"
+        ]
     },
     {
         "contract_address": "0x00287ab9aca50040cd09bb86c0a0c7a593328309",
