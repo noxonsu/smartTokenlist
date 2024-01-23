@@ -56622,7 +56622,9 @@
         },
         "web_domains": [
             "bitfinity.network"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x951397286e4b78ae5827502ed494d7902d3cca8c",
@@ -56669,7 +56671,8 @@
         ],
         "holders": {
             "ETH": 136
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3a52ba0fc0271ed5408c2610acf482262546abf0",
@@ -56692,7 +56695,11 @@
         ],
         "holders": {
             "ETH": 109
-        }
+        },
+        "emails": [
+            "email: team@troge.fun  "
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbc68ae53d383f399cc18268034c5e656fcb839f3",
@@ -56705,7 +56712,11 @@
         ],
         "holders": {
             "ETH": 210
-        }
+        },
+        "emails": [
+            "contact@touchfreshgrass.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc353bf07405304aeab75f4c2fac7e88d6a68f98e",
@@ -56728,11 +56739,13 @@
             "www.astrodogex.com"
         ],
         "telegram_groups": [
+            "SenseiAI_Portal",
             "XAstroDoge_Portal"
         ],
         "holders": {
             "ETH": 16
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1462e88d548a9c5db0fe213a26b468873c330c29",
@@ -56747,6 +56760,7 @@
         ],
         "holders": {
             "ETH": 23
-        }
+        },
+        "p6": true
     }
 ]
