@@ -54228,13 +54228,15 @@
             "X.com"
         ],
         "telegram_groups": [
-            "XDataERC20",
+            "XDataCommunity",
             "XdataERC20"
         ],
         "holders": {
             "ETH": 207
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x1132427ca72a2a504d6e399f7880e6ebf6667e0e",
@@ -54251,7 +54253,9 @@
         "emails": [
             "Contact Us: team@trollpepe.lol"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x482f17e35fbc09253cc6a66566cf9922f3e5f16d",
@@ -54282,7 +54286,9 @@
         "holders": {
             "ETH": 173
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0xc8d312b8761fe0d3ea535cfb41174b33ea63b2ae",
@@ -54347,7 +54353,9 @@
         "telegram_groups": [
             "oraichain"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large11881"
     },
     {
         "contract_address": "0xdba7b24257fc6e397cb7368b4bc922e944072f1b",
@@ -54364,7 +54372,9 @@
         "telegram_groups": [
             "everriseofficial"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large16114"
     },
     {
         "contract_address": "0xab1796f4770c8ec773822cff7b43de6351080527",
@@ -54472,7 +54482,9 @@
         "holders": {
             "ETH": 28
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large17593"
     },
     {
         "contract_address": "0xfb71acc360f5c47418be2ce299593b49bfbdb50a",
@@ -54486,7 +54498,9 @@
         "holders": {
             "ETH": 339
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xd4342a57ecf2fe7ffa37c33cb8f63b1500e575e6",
@@ -54521,7 +54535,9 @@
         "holders": {
             "ETH": 152
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x5afff9876c1f98b7d2b53bcb69eb57e92408319f",
@@ -54584,7 +54600,9 @@
         "holders": {
             "ETH": 1
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xcb242e75f1b0817dfdd70aae36902c547668c56b",
@@ -54599,7 +54617,9 @@
         "holders": {
             "ETH": 56
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large17593"
     },
     {
         "contract_address": "0x1f18ba2cbfc9e5da6f2989d20ad81b4710556030",
