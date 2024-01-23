@@ -56887,5 +56887,60 @@
         "holders": {
             "ETH": 619
         }
+    },
+    {
+        "contract_address": "0xc86ccb1e873d424866156b1e7284bfc23f9d39b1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "humangrok.fun"
+        ],
+        "telegram_groups": [
+            "humangrokerc"
+        ],
+        "holders": {
+            "ETH": 228
+        }
+    },
+    {
+        "contract_address": "0x68037790a0229e9ce6eaa8a99ea92964106c4703",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1548
+        }
+    },
+    {
+        "contract_address": "0x90b831fa3bebf58e9744a14d638e25b4ee06f9bc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5231
+        }
+    },
+    {
+        "contract_address": "0x83869de76b9ad8125e22b857f519f001588c0f62",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 634
+        }
+    },
+    {
+        "contract_address": "0x5ff8a0a0937f8abb4b7a50a6c50a24b07453fad1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 320
+        }
+    },
+    {
+        "contract_address": "0xe95a203b1a91a908f9b9ce46459d101078c2c3cb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2180
+        }
+    },
+    {
+        "contract_address": "0x4ce3c172210b45bd24e568ec0ae3a9a4103a3e8a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 196
+        }
     }
 ]
