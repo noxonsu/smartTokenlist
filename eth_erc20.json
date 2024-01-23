@@ -57099,7 +57099,9 @@
         "holders": {
             "ETH": 2
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x282a933beaac05b1836f36f6d3247a259d0f8945",
@@ -57113,7 +57115,9 @@
         "holders": {
             "ETH": 65
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xdbe94b57c5a100c21651a52d61da93296a544e5c",
@@ -57129,7 +57133,9 @@
         "holders": {
             "ETH": 106
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x6a7ef4998eb9d0f706238756949f311a59e05745",
@@ -57171,7 +57177,9 @@
         "emails": [
             "contact@pepev2.lol"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0xbf5273bde2655f528ecdb47ce44da1772351a3ee",
