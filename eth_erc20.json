@@ -56312,7 +56312,11 @@
         ],
         "holders": {
             "ETH": 186
-        }
+        },
+        "emails": [
+            "Email: rtmdkt@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8ec8a5627af6b89eb58a45d29e7e90c4aac3ee31",
