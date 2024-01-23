@@ -56589,5 +56589,161 @@
             "ETH": 90
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x245a84ff8a70b95afc9f78c16bbe60b9a68fc323",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "bciaccoin"
+        ],
+        "holders": {
+            "ETH": 66
+        }
+    },
+    {
+        "contract_address": "0x0d11e1961de8b3e5d92fdb70adad6afad63bef17",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0x9e9e2791d2121e6bfa10ebbd39cd551649a08e54",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 712
+        }
+    },
+    {
+        "contract_address": "0x8b0023e4da7bbd6b3fbdfe36bdea49dce302b71b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 54
+        }
+    },
+    {
+        "contract_address": "0x951397286e4b78ae5827502ed494d7902d3cca8c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x852c4f02448790220c3754ef3432836ae2524b4f",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "BCIACCBCIACC"
+        ],
+        "holders": {
+            "ETH": 165
+        }
+    },
+    {
+        "contract_address": "0xbbdc26fd7cb71f7a3313d65a5e8f0c537ca0c44e",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ACCERC20"
+        ],
+        "holders": {
+            "ETH": 188
+        }
+    },
+    {
+        "contract_address": "0x9843fb108c407c4c6a207c280162478e71c30916",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 109
+        }
+    },
+    {
+        "contract_address": "0x49d407f86e964df53ff807e7230d9558c73e8828",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "BCIERC.com"
+        ],
+        "telegram_groups": [
+            "BCIERC"
+        ],
+        "holders": {
+            "ETH": 136
+        }
+    },
+    {
+        "contract_address": "0x3a52ba0fc0271ed5408c2610acf482262546abf0",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "bciaccerc20coin"
+        ],
+        "holders": {
+            "ETH": 531
+        }
+    },
+    {
+        "contract_address": "0x7c9aa8c52dee99767fb785aafa46d5363555d88c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "troge.fun"
+        ],
+        "telegram_groups": [
+            "TrollDogeTroge"
+        ],
+        "holders": {
+            "ETH": 109
+        }
+    },
+    {
+        "contract_address": "0xbc68ae53d383f399cc18268034c5e656fcb839f3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "touchfreshgrass.com"
+        ],
+        "telegram_groups": [
+            "touchinggrass"
+        ],
+        "holders": {
+            "ETH": 210
+        }
+    },
+    {
+        "contract_address": "0xc353bf07405304aeab75f4c2fac7e88d6a68f98e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 830
+        }
+    },
+    {
+        "contract_address": "0xadba03f5ec532186dfdff693a0200fc499ec7034",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0x6b924654453acf2dba17260c3c09f3a2f00d489e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.astrodogex.com"
+        ],
+        "telegram_groups": [
+            "XAstroDoge_Portal"
+        ],
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0x1462e88d548a9c5db0fe213a26b468873c330c29",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dop.org",
+            "discord.com",
+            "dop.medium.com"
+        ],
+        "telegram_groups": [
+            "dop_org"
+        ],
+        "holders": {
+            "ETH": 23
+        }
     }
 ]
