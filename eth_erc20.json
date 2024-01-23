@@ -57373,7 +57373,10 @@
         ],
         "holders": {
             "ETH": 224
-        }
+        },
+        "web_domains": [
+            "askmlx.com"
+        ]
     },
     {
         "contract_address": "0x4236f8aaf2b1f3a28420eb15b8e0ddf63201a95e",
@@ -57409,7 +57412,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 73
-        }
+        },
+        "web_domains": [
+            "vesper.finance"
+        ]
     },
     {
         "contract_address": "0xdaec887e37e86ea9b78852eb7470d70bbf266258",
