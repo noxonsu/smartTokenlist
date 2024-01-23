@@ -57098,7 +57098,8 @@
         ],
         "holders": {
             "ETH": 2
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x282a933beaac05b1836f36f6d3247a259d0f8945",
@@ -57111,7 +57112,8 @@
         ],
         "holders": {
             "ETH": 65
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xdbe94b57c5a100c21651a52d61da93296a544e5c",
@@ -57121,11 +57123,13 @@
             "time-traveller.gitbook.io"
         ],
         "telegram_groups": [
-            "TimeTravellerPortal"
+            "TimeTravellerPortal",
+            "TimeAnalyseBot"
         ],
         "holders": {
             "ETH": 106
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6a7ef4998eb9d0f706238756949f311a59e05745",
@@ -57155,11 +57159,19 @@
             "shibasatire.live"
         ],
         "telegram_groups": [
-            "ShibaSatire"
+            "RESIMPERC20",
+            "ShibaSatireCommunity",
+            "ShibaSatire",
+            "CHARIZZMA_erc20",
+            "walter_erc20"
         ],
         "holders": {
             "ETH": 21
-        }
+        },
+        "emails": [
+            "contact@pepev2.lol"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbf5273bde2655f528ecdb47ce44da1772351a3ee",
