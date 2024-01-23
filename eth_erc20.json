@@ -57324,5 +57324,98 @@
         "holders": {
             "ETH": 45
         }
+    },
+    {
+        "contract_address": "0x814a870726edb7dfc4798300ae1ce3e5da0ac467",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 285
+        }
+    },
+    {
+        "contract_address": "0x7995ab36bb307afa6a683c24a25d90dc1ea83566",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11477
+        }
+    },
+    {
+        "contract_address": "0x79491ee65f661d757a4e33519b81f93850fa10d6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "appleinsider.com"
+        ],
+        "telegram_groups": [
+            "ProjectTitanportal"
+        ],
+        "holders": {
+            "ETH": 93
+        }
+    },
+    {
+        "contract_address": "0x11bc6f686e456d3ca6bfa73e35b2be111c91d095",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "appleinsider.com"
+        ],
+        "telegram_groups": [
+            "TitanbyApple"
+        ],
+        "holders": {
+            "ETH": 208
+        }
+    },
+    {
+        "contract_address": "0x88d8ca69dabb9b634576573a0ae772ae23867034",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "MLXERC"
+        ],
+        "holders": {
+            "ETH": 224
+        }
+    },
+    {
+        "contract_address": "0x4236f8aaf2b1f3a28420eb15b8e0ddf63201a95e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 543
+        }
+    },
+    {
+        "contract_address": "0x3570b6757f21f90a8ec2c3a3ffb83c96d1a1ca45",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0xaeb46e0d7573758ac893872c012cffe5b2feebe6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "onchainpolitics.com",
+            "onchainpolitics.com"
+        ],
+        "telegram_groups": [
+            "OnChainPolitics",
+            "OnChainPolitics"
+        ],
+        "holders": {
+            "ETH": 190
+        }
+    },
+    {
+        "contract_address": "0xa8b607aa09b6a2e306f93e74c282fb13f6a80452",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 73
+        }
+    },
+    {
+        "contract_address": "0xdaec887e37e86ea9b78852eb7470d70bbf266258",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 44
+        }
     }
 ]
