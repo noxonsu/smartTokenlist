@@ -57214,7 +57214,9 @@
         "telegram_groups": [
             "ubdnet"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large47295"
     },
     {
         "contract_address": "0x08931c0b7b1f464515c9b179de8562a8188df8cd",
@@ -57235,7 +57237,9 @@
         "holders": {
             "ETH": 408
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't find chat"
     },
     {
         "contract_address": "0xce84a9f303e33a191647714d59cfcb886fd600e3",
@@ -57297,7 +57301,9 @@
         "holders": {
             "ETH": 53
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large10802"
     },
     {
         "contract_address": "0xaee9ba9ce49fe810417a36408e34d9962b653e78",
