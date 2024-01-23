@@ -56451,5 +56451,110 @@
         "holders": {
             "ETH": 19986
         }
+    },
+    {
+        "contract_address": "0x184da821bd956cafc598dcb4fa9b8e040c45ada1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1116
+        }
+    },
+    {
+        "contract_address": "0x3de384410770e0e411c3ff793e7c0255ba0103a6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 469
+        }
+    },
+    {
+        "contract_address": "0x890cdf3c8ec0f6ef940890df6ae8ea044400944a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 45
+        }
+    },
+    {
+        "contract_address": "0x00287ab9aca50040cd09bb86c0a0c7a593328309",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 392
+        }
+    },
+    {
+        "contract_address": "0xe3a6ca270e4beb0235dd6fb3b2f54adb45e19332",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.honeybadger.meme"
+        ],
+        "telegram_groups": [
+            "bitcoinsmascot"
+        ],
+        "holders": {
+            "ETH": 243
+        }
+    },
+    {
+        "contract_address": "0x3c19d9f2df0e25c077a637692da2337d51daf8b7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 75
+        }
+    },
+    {
+        "contract_address": "0x60212c80facd24ed26aa96262cc1a5d15022b60d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x8ac35640891757a94c19269c2ef982e5d8d2fa7a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x27445e0433bc36770d521281f472946be7b2fca9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "halfgrok.vip"
+        ],
+        "telegram_groups": [
+            "HalfGrokEntry"
+        ],
+        "holders": {
+            "ETH": 372
+        }
+    },
+    {
+        "contract_address": "0xb44b653f147569d88a684cbf6549e1968e8b2a1d",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Token2dAI"
+        ],
+        "holders": {
+            "ETH": 1309
+        }
+    },
+    {
+        "contract_address": "0x4fdbcc7331a03b1e323ccd8968966282950ad769",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 41
+        }
+    },
+    {
+        "contract_address": "0x224830c17bdb0d60f9f4619323d428b950ab9421",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "lifechangeopportunity.com"
+        ],
+        "telegram_groups": [
+            "LifeChangeOpportunityERC20"
+        ],
+        "holders": {
+            "ETH": 90
+        }
     }
 ]
