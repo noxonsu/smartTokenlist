@@ -57072,5 +57072,114 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xf05e58fcea29ab4da01a495140b349f8410ba904",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 113
+        }
+    },
+    {
+        "contract_address": "0x403d3224fa9b71ccddee8c287c29301c0abe6e0d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xfa72aeaa463010defccd78bebe77c8187e88eaba",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "alphareward.live"
+        ],
+        "telegram_groups": [
+            "alphareward_portal"
+        ],
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x282a933beaac05b1836f36f6d3247a259d0f8945",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.swaplynx.com"
+        ],
+        "telegram_groups": [
+            "swaplynx_entry"
+        ],
+        "holders": {
+            "ETH": 65
+        }
+    },
+    {
+        "contract_address": "0xdbe94b57c5a100c21651a52d61da93296a544e5c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "timetraveller.tech",
+            "time-traveller.gitbook.io"
+        ],
+        "telegram_groups": [
+            "TimeTravellerPortal"
+        ],
+        "holders": {
+            "ETH": 106
+        }
+    },
+    {
+        "contract_address": "0x6a7ef4998eb9d0f706238756949f311a59e05745",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1214
+        }
+    },
+    {
+        "contract_address": "0x9bf3be1e445d5d386f891a1eccc3245e5a3670a4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 309
+        }
+    },
+    {
+        "contract_address": "0x939b08547a4a586c1300714aa4ebf5cb43c1119c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xf34667e2fab55587c0fe1ecff6ef84353950df85",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "shibasatire.live"
+        ],
+        "telegram_groups": [
+            "ShibaSatire"
+        ],
+        "holders": {
+            "ETH": 21
+        }
+    },
+    {
+        "contract_address": "0xbf5273bde2655f528ecdb47ce44da1772351a3ee",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 92
+        }
+    },
+    {
+        "contract_address": "0x4ae43d13a02e696f1f4e7bd1b0a1c86a92238a5e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xa3a0c4f2a14f03dcb1a3bac3dffc943cead67432",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 30
+        }
     }
 ]
