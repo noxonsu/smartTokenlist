@@ -57441,5 +57441,45 @@
         "holders": {
             "ETH": 44
         }
+    },
+    {
+        "contract_address": "0x9d84841d3438bbaebe387af5d784e7d5c2f17fd4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "matmo.cc"
+        ],
+        "telegram_groups": [
+            "MatmoChain"
+        ],
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0x25069fea0ce707fe144c16e61a1c0b4fde2c3ad6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 98
+        }
+    },
+    {
+        "contract_address": "0x003d6ba68afc179da57b723b7c1d47be9f4eaa36",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "uniwhale.forex"
+        ],
+        "telegram_groups": [
+            "uniwhaleforex"
+        ],
+        "holders": {
+            "ETH": 53
+        }
+    },
+    {
+        "contract_address": "0x5f8a4d12fbc746e6a5c0a52f355463474a4f6d47",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 100
+        }
     }
 ]
