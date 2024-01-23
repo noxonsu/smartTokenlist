@@ -57350,7 +57350,8 @@
         ],
         "holders": {
             "ETH": 93
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x11bc6f686e456d3ca6bfa73e35b2be111c91d095",
@@ -57359,11 +57360,13 @@
             "appleinsider.com"
         ],
         "telegram_groups": [
-            "TitanbyApple"
+            "TitanbyApple",
+            "ProjectTitanportal"
         ],
         "holders": {
             "ETH": 208
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x88d8ca69dabb9b634576573a0ae772ae23867034",
@@ -57376,7 +57379,8 @@
         },
         "web_domains": [
             "askmlx.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4236f8aaf2b1f3a28420eb15b8e0ddf63201a95e",
@@ -57400,12 +57404,12 @@
             "onchainpolitics.com"
         ],
         "telegram_groups": [
-            "OnChainPolitics",
             "OnChainPolitics"
         ],
         "holders": {
             "ETH": 190
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa8b607aa09b6a2e306f93e74c282fb13f6a80452",
@@ -57415,7 +57419,11 @@
         },
         "web_domains": [
             "vesper.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "vesperfinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdaec887e37e86ea9b78852eb7470d70bbf266258",
