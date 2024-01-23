@@ -57210,7 +57210,11 @@
         },
         "web_domains": [
             "ubdn.com"
-        ]
+        ],
+        "telegram_groups": [
+            "ubdnet"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x08931c0b7b1f464515c9b179de8562a8188df8cd",
@@ -57230,7 +57234,8 @@
         ],
         "holders": {
             "ETH": 408
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xce84a9f303e33a191647714d59cfcb886fd600e3",
@@ -57240,7 +57245,9 @@
         ],
         "holders": {
             "ETH": 481
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9bced2dadbee7e101731e345e3ba96fd457eab3c",
@@ -57289,7 +57296,8 @@
         ],
         "holders": {
             "ETH": 53
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xaee9ba9ce49fe810417a36408e34d9962b653e78",
