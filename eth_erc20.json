@@ -57201,5 +57201,111 @@
         "holders": {
             "ETH": 30
         }
+    },
+    {
+        "contract_address": "0xd624e5c89466a15812c1d45ce1533be1f16c1702",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 45
+        }
+    },
+    {
+        "contract_address": "0x08931c0b7b1f464515c9b179de8562a8188df8cd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 275
+        }
+    },
+    {
+        "contract_address": "0xb2cfc9a054562bcfd854dad55a99e8bc8085a480",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.0xdex.ai"
+        ],
+        "telegram_groups": [
+            "0xDexPORTAL"
+        ],
+        "holders": {
+            "ETH": 408
+        }
+    },
+    {
+        "contract_address": "0xce84a9f303e33a191647714d59cfcb886fd600e3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "xcomerc.com"
+        ],
+        "holders": {
+            "ETH": 481
+        }
+    },
+    {
+        "contract_address": "0x9bced2dadbee7e101731e345e3ba96fd457eab3c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0x1d0f56a743a68687990a5336d04a7bd5afa2b32b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 530
+        }
+    },
+    {
+        "contract_address": "0xf627f650ded7aa24c6fac37caa0cc49a436dd4f5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x724476f141ed2de4da22ebdf435905def1118317",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x1062fd8ed633c1f080754c19317cb3912810b5e5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x2b37143f710fbe14d213bbd692b59a8beee41e71",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.uforika.io",
+            "www.linkedin.com"
+        ],
+        "telegram_groups": [
+            "uforika"
+        ],
+        "holders": {
+            "ETH": 53
+        }
+    },
+    {
+        "contract_address": "0xaee9ba9ce49fe810417a36408e34d9962b653e78",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "snibbuarmy.com"
+        ],
+        "telegram_groups": [
+            "SnibbuArmy"
+        ],
+        "holders": {
+            "ETH": 751
+        }
+    },
+    {
+        "contract_address": "0xe24bef582834c90c6e91d2cb16bbe37a9acf3390",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 45
+        }
     }
 ]
