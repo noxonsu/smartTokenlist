@@ -56782,5 +56782,87 @@
             "ETH": 23
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xb185004c836695b9102eebf1779e5a46b89248fe",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1314
+        }
+    },
+    {
+        "contract_address": "0x9257a6d1f1a15aa1e71369fa998339682a1a46e5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "matmo.cc"
+        ],
+        "telegram_groups": [
+            "MatmoChain"
+        ],
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0xe0a189c975e4928222978a74517442239a0b86ff",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6544
+        }
+    },
+    {
+        "contract_address": "0x9b5c38cc2d1ba05ed87c8f8a2418475bacb20073",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 339
+        }
+    },
+    {
+        "contract_address": "0x675ad1c6abac870b2aef613b4ee238348b21e727",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tokenmint.io"
+        ],
+        "holders": {
+            "ETH": 637
+        }
+    },
+    {
+        "contract_address": "0x7865af71cf0b288b4e7f654f4f7851eb46a2b7f8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6359
+        }
+    },
+    {
+        "contract_address": "0x3709e8615e02c15b096f8a9b460ccb8ca8194e86",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 82
+        }
+    },
+    {
+        "contract_address": "0x28858a2d64503f79d822e9413348b721c8baa60b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 42
+        }
+    },
+    {
+        "contract_address": "0x9750640bcd8c11599bae3e8fa500c26c24fa0d24",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0xcf4c68db4c2fa0bf58df07b14f45ce7709a716ac",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dejitarushirudo.io"
+        ],
+        "holders": {
+            "ETH": 619
+        }
     }
 ]
