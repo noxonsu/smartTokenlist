@@ -56619,7 +56619,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 54
-        }
+        },
+        "web_domains": [
+            "bitfinity.network"
+        ]
     },
     {
         "contract_address": "0x951397286e4b78ae5827502ed494d7902d3cca8c",
