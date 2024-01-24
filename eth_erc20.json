@@ -58124,7 +58124,8 @@
         ],
         "holders": {
             "ETH": 31
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xacffff8746269f4c7c8e9163cf32d2edbb7dc7b3",
@@ -58144,7 +58145,11 @@
         ],
         "holders": {
             "ETH": 48
-        }
+        },
+        "emails": [
+            "support@etfinu.tech"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4d3e48b94da003ac1d011e9be7bef63cf0953655",
@@ -58178,7 +58183,8 @@
         ],
         "holders": {
             "ETH": 42
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x387cd9977ca25208d7b6f7bb310a8b2db0137982",
@@ -58191,7 +58197,8 @@
         ],
         "holders": {
             "ETH": 233
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc3cc3076cb304494775b3193ef1aa080ba6bf962",
@@ -58207,11 +58214,14 @@
             "blazebot.co"
         ],
         "telegram_groups": [
-            "blazesolana"
+            "blazesolana",
+            "BuketBuyBot",
+            "BlazeProtocolBot"
         ],
         "holders": {
             "ETH": 12
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6f49694827d46a14baf2a7b1eac3e6eb3526a84f",
@@ -58224,7 +58234,8 @@
         ],
         "holders": {
             "ETH": 369
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9d3664ee5ac6f62514bebb52d76898ee8f695c78",
