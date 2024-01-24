@@ -57960,7 +57960,9 @@
         },
         "web_domains": [
             "pbm-coin.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x723696965f47b990dff00064fcaca95f0ee01123",
@@ -58004,11 +58006,13 @@
             "blazex.org"
         ],
         "telegram_groups": [
-            "BlazeXCoin"
+            "BlazeXCoin",
+            "blazexdeployerbot"
         ],
         "holders": {
             "ETH": 141
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe2687e3a3c34e570e9ee006d231479ca213c146f",
