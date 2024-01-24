@@ -58456,7 +58456,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 50
-        }
+        },
+        "web_domains": [
+            "app.balancer.fi"
+        ]
     },
     {
         "contract_address": "0xeabf1381f516d40e54b3458dce48cbeb163f9cbc",
