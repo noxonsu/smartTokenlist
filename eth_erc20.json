@@ -58034,7 +58034,8 @@
         ],
         "holders": {
             "ETH": 200
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe139e481cefd7f39a39eb0c296806c00a90bc53c",
@@ -58065,7 +58066,12 @@
         ],
         "holders": {
             "ETH": 14
-        }
+        },
+        "telegram_groups": [
+            "mantanetworkofficial",
+            "mantanetwork"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x94e94e5d4b1d2860f7c15015474ebcad903e3bb1",
