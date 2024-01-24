@@ -57771,5 +57771,73 @@
         "holders": {
             "ETH": 1464
         }
+    },
+    {
+        "contract_address": "0x34bc13de8e5124a7c47d4b7ff7c5ade6ee34faba",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.projectdojo.dev"
+        ],
+        "telegram_groups": [
+            "dojo_erc20"
+        ],
+        "holders": {
+            "ETH": 1494
+        }
+    },
+    {
+        "contract_address": "0x3c171aef18bde33de4f2593d203f4ee649370ed7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 236
+        }
+    },
+    {
+        "contract_address": "0x5ff64dacedb4325fd0cea9f5ab93fb43257a17b1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.dataammo.io",
+            "www.twitter.com"
+        ],
+        "holders": {
+            "ETH": 43
+        }
+    },
+    {
+        "contract_address": "0x77e1b3daa6a3e60de5608d7487f53da5a625bdf1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x05f7c4335d90603833cc45f125fcb6ed44ef2c9e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hate.io"
+        ],
+        "telegram_groups": [
+            "hatespeecheth"
+        ],
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0x519527f63b6a463e04ff7cb31f2398092a3c3fe4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 305
+        }
+    },
+    {
+        "contract_address": "0x8dda4826e9c7927884a534019fc92568767ca350",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "myducks_eth"
+        ],
+        "holders": {
+            "ETH": 268
+        }
     }
 ]
