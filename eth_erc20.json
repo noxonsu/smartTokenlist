@@ -57951,5 +57951,67 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0x87fdd1e031b356bdc1c55a3231cfe266552d8284",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 199
+        }
+    },
+    {
+        "contract_address": "0x723696965f47b990dff00064fcaca95f0ee01123",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 397
+        }
+    },
+    {
+        "contract_address": "0xff578ac8ef9df9d02368842b7b0810a14e770d71",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x9d7107c8e30617cadc11f9692a19c82ae8bba938",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 897
+        }
+    },
+    {
+        "contract_address": "0xc443930ecd59e55e42efe976b8a4ba0658f5c50a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0x174c47d6a4e548ed2b7d369dc0ffb2e60a6ac0f8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0xdd1b6b259986571a85da82a84f461e1c212591c0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blazex.org"
+        ],
+        "telegram_groups": [
+            "BlazeXCoin"
+        ],
+        "holders": {
+            "ETH": 141
+        }
+    },
+    {
+        "contract_address": "0xe2687e3a3c34e570e9ee006d231479ca213c146f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 32
+        }
     }
 ]
