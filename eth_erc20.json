@@ -58035,7 +58035,9 @@
         "holders": {
             "ETH": 200
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xe139e481cefd7f39a39eb0c296806c00a90bc53c",
@@ -58071,7 +58073,9 @@
             "mantanetworkofficial",
             "mantanetwork"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large49237"
     },
     {
         "contract_address": "0x94e94e5d4b1d2860f7c15015474ebcad903e3bb1",
