@@ -58459,7 +58459,9 @@
         },
         "web_domains": [
             "app.balancer.fi"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xeabf1381f516d40e54b3458dce48cbeb163f9cbc",
@@ -58472,7 +58474,11 @@
         ],
         "holders": {
             "ETH": 272
-        }
+        },
+        "emails": [
+            "Wagmibot46@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x49423b98a00d98e800eb862185cc9ed1f941d803",
@@ -58509,7 +58515,9 @@
         ],
         "holders": {
             "ETH": 214
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6dc6a27822ae2ca3a47da39a2f2bbd525dd693f8",
@@ -58522,7 +58530,11 @@
         ],
         "holders": {
             "ETH": 254
-        }
+        },
+        "emails": [
+            "help@cyberdogE.WTF \u00a9 CYDOGE, all rights reserved"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x86772b1409b61c639eaac9ba0acfbb6e238e5f83",
