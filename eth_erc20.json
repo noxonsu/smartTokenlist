@@ -58111,5 +58111,133 @@
         "holders": {
             "ETH": 93
         }
+    },
+    {
+        "contract_address": "0x9908111f21543cc03dc159acd0c16c7b970d4b41",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "debank.com",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "DeBankEN"
+        ],
+        "holders": {
+            "ETH": 31
+        }
+    },
+    {
+        "contract_address": "0xacffff8746269f4c7c8e9163cf32d2edbb7dc7b3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 109
+        }
+    },
+    {
+        "contract_address": "0x4b5069c80deccbddc92668ca42a10822435ef237",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.etfinu.tech"
+        ],
+        "telegram_groups": [
+            "ETFINU"
+        ],
+        "holders": {
+            "ETH": 48
+        }
+    },
+    {
+        "contract_address": "0x4d3e48b94da003ac1d011e9be7bef63cf0953655",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xc78b628b060258300218740b1a7a5b3c82b3bd9f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 71
+        }
+    },
+    {
+        "contract_address": "0xf34b1db61aca1a371fe97bad2606c9f534fb9d7d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4091
+        }
+    },
+    {
+        "contract_address": "0x75d2c0c56b81f75170d2f304b7c339255d84184d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.inavigate.finance"
+        ],
+        "telegram_groups": [
+            "inavigate_fi"
+        ],
+        "holders": {
+            "ETH": 42
+        }
+    },
+    {
+        "contract_address": "0x387cd9977ca25208d7b6f7bb310a8b2db0137982",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "johnutah.org"
+        ],
+        "telegram_groups": [
+            "e_coinerc"
+        ],
+        "holders": {
+            "ETH": 233
+        }
+    },
+    {
+        "contract_address": "0xc3cc3076cb304494775b3193ef1aa080ba6bf962",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 52
+        }
+    },
+    {
+        "contract_address": "0xb528063fbc515d0b0cc659a368420374bddbad73",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blazebot.co"
+        ],
+        "telegram_groups": [
+            "blazesolana"
+        ],
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0x6f49694827d46a14baf2a7b1eac3e6eb3526a84f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tuckercarlson.pro"
+        ],
+        "telegram_groups": [
+            "TuckerCarlsonERC"
+        ],
+        "holders": {
+            "ETH": 369
+        }
+    },
+    {
+        "contract_address": "0x9d3664ee5ac6f62514bebb52d76898ee8f695c78",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x50b11247bf14ee5116c855cde9963fa376fcec86",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 104
+        }
     }
 ]
