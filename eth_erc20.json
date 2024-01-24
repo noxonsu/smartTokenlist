@@ -57732,7 +57732,9 @@
         },
         "web_domains": [
             "cianfresh.eth"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x378e1be15be6d6d1f23cfe7090b6a77660dbf14d",
