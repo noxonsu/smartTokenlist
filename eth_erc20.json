@@ -58450,5 +58450,96 @@
         "holders": {
             "ETH": 397
         }
+    },
+    {
+        "contract_address": "0xa8b309a75f0d64ed632d45a003c68a30e59a1d8b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 50
+        }
+    },
+    {
+        "contract_address": "0xeabf1381f516d40e54b3458dce48cbeb163f9cbc",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.wagmi-bot.com"
+        ],
+        "telegram_groups": [
+            "WagmiBotOfficial"
+        ],
+        "holders": {
+            "ETH": 272
+        }
+    },
+    {
+        "contract_address": "0x49423b98a00d98e800eb862185cc9ed1f941d803",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "barron_portal"
+        ],
+        "holders": {
+            "ETH": 134
+        }
+    },
+    {
+        "contract_address": "0x884abd0cc9dbb0a00fb4bab6283da0493d609dc7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 47
+        }
+    },
+    {
+        "contract_address": "0x7dedbce5a2e31e4c75f87fea60bf796c17718715",
+        "sourceScanned": "processed",
+        "emails": [
+            "goncalo.sa@consensys.net"
+        ],
+        "holders": {
+            "ETH": 363
+        }
+    },
+    {
+        "contract_address": "0x0ff0313eb41bb6bad85ef71ff6cd4fe64a427add",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tokenmaker.eattheblocks.com"
+        ],
+        "holders": {
+            "ETH": 214
+        }
+    },
+    {
+        "contract_address": "0x6dc6a27822ae2ca3a47da39a2f2bbd525dd693f8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cyberdoge.wtf"
+        ],
+        "telegram_groups": [
+            "CYBERDOGEWTF"
+        ],
+        "holders": {
+            "ETH": 254
+        }
+    },
+    {
+        "contract_address": "0x86772b1409b61c639eaac9ba0acfbb6e238e5f83",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5412
+        }
+    },
+    {
+        "contract_address": "0xfae9580aed49f433e1a3f11409f001882ba070b3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 49
+        }
+    },
+    {
+        "contract_address": "0x1db11e86fa9b9a87813a4dd3f747eef12ed55a55",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 137
+        }
     }
 ]
