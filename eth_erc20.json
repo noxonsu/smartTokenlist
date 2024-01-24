@@ -57844,5 +57844,107 @@
         "holders": {
             "ETH": 268
         }
+    },
+    {
+        "contract_address": "0x431b366be6069ae62f8121a901c6160b34af7f80",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3205
+        }
+    },
+    {
+        "contract_address": "0x340e450baacbd6ef483def53865c1491147e08c1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 211
+        }
+    },
+    {
+        "contract_address": "0xc8060c077f1862c26b71d88e767cd393204e9bd1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.giantwhale.cc"
+        ],
+        "holders": {
+            "ETH": 897
+        }
+    },
+    {
+        "contract_address": "0x29059568bb40344487d62f7450e78b8e6c74e0e5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 279
+        }
+    },
+    {
+        "contract_address": "0xcc7f743fe659b65ec6388fb23fe64f7007f8bd1b",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "teslacar_redwood"
+        ],
+        "holders": {
+            "ETH": 60
+        }
+    },
+    {
+        "contract_address": "0xc6e145421fd494b26dcf2bfeb1b02b7c5721978f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1432
+        }
+    },
+    {
+        "contract_address": "0x7863e06bca47ded821fcb53ab788eeb371243eda",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 425
+        }
+    },
+    {
+        "contract_address": "0xc40431b6c510aeb45fbb5e21e40d49f12b0c1f0c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ipor-labs.gitbook.io"
+        ],
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x2401c39d7ba9e283668a53fcc7b8f5fd9e716fdf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 96
+        }
+    },
+    {
+        "contract_address": "0x0c7ae6cc0cedfd430790a8d0837e452eb22a7acf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 126
+        }
+    },
+    {
+        "contract_address": "0x1ec980ca396b4cd64193b7330b2ee3b0dd9fc046",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "COMEDYERC"
+        ],
+        "holders": {
+            "ETH": 37
+        }
+    },
+    {
+        "contract_address": "0xe375672e9e101555e16c7d596b4716619e9d8403",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "BugsBunny.cc"
+        ],
+        "telegram_groups": [
+            "BugsCoinETH"
+        ],
+        "holders": {
+            "ETH": 350
+        }
     }
 ]
