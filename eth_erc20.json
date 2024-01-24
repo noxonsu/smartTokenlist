@@ -23953,6 +23953,7 @@
             "ETH": 2
         },
         "telegram_groups": [
+            "KoiPondBRC20",
             "KoiBRC20"
         ],
         "p6": true,
@@ -58578,11 +58579,13 @@
             "www.tesla.com"
         ],
         "telegram_groups": [
+            "roadstererc",
             "EricElonFish"
         ],
         "holders": {
             "ETH": 361
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x891de5f139791ddf9dbabf519cfe2a049f8fc6d3",
@@ -58616,7 +58619,8 @@
         ],
         "holders": {
             "ETH": 42
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1831186e1cbd4fa7f4f23d8453a68969067e34e1",
@@ -58666,7 +58670,12 @@
         ],
         "holders": {
             "ETH": 11
-        }
+        },
+        "telegram_groups": [
+            "KoiPondBRC20",
+            "KoiBRC20"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8df5066cf67d909eb67b82854cf54026d31fffae",
@@ -58676,7 +58685,12 @@
         ],
         "holders": {
             "ETH": 707
-        }
+        },
+        "telegram_groups": [
+            "KoiPondBRC20",
+            "KoiBRC20"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x15e605b3d22b08333919c4a1993a4291a333a04c",
@@ -58689,6 +58703,7 @@
         ],
         "holders": {
             "ETH": 160
-        }
+        },
+        "p6": true
     }
 ]
