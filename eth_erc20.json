@@ -59646,11 +59646,13 @@
             "honkkillbonk.com"
         ],
         "telegram_groups": [
-            "honkbonkkiller"
+            "honkbonkkiller",
+            "honkkillbonk"
         ],
         "holders": {
             "ETH": 143
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2b1d36f5b61addaf7da7ebbd11b35fd8cfb0de31",
@@ -59660,7 +59662,11 @@
         },
         "web_domains": [
             "interport.fi"
-        ]
+        ],
+        "telegram_groups": [
+            "interport_fi"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x15f2ed83abef5cdc462975310b958c237eae4710",
@@ -59684,7 +59690,9 @@
         },
         "web_domains": [
             "sx.technology"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x88e08adb69f2618adf1a3ff6cc43c671612d1ca4",
