@@ -59448,14 +59448,20 @@
         ],
         "holders": {
             "ETH": 21
-        }
+        },
+        "web_domains": [
+            "investor.pypl.com"
+        ]
     },
     {
         "contract_address": "0xe285279a495d6126089efda04caa960d1a166131",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 37
-        }
+        },
+        "web_domains": [
+            "ncor.ai"
+        ]
     },
     {
         "contract_address": "0xbf82703e355d697b9b00ccdb41fbcc96ac28afce",
