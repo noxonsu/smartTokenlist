@@ -46571,14 +46571,16 @@
             "donald.cash"
         ],
         "telegram_groups": [
+            "DONALDDUCKonETH",
             "DONALDDUCK_ETH",
-            "DONALDDUCKonETH"
+            "Donald_Erc20"
         ],
         "holders": {
             "ETH": 394
         },
         "emails": [
-            "info@donald.cash "
+            "info@donald.cash ",
+            "info@donald.cash"
         ],
         "p6": true,
         "myuser": 6119567381,
@@ -59551,7 +59553,8 @@
         },
         "web_domains": [
             "tmtgcorp.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf481ab81bc89c93d944319bfdee7b26b63543c12",
@@ -59565,7 +59568,9 @@
         ],
         "holders": {
             "ETH": 10
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb40d2bf31b58fbc202484e2551261d1ef82bccf0",
@@ -59578,7 +59583,8 @@
         ],
         "holders": {
             "ETH": 39
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x421694b4bfc773fcf9eb84fa181a20d0e5ee15f4",
@@ -59587,11 +59593,17 @@
             "donald.cash"
         ],
         "telegram_groups": [
+            "DONALDDUCKonETH",
+            "DONALDDUCK_ETH",
             "Donald_Erc20"
         ],
         "holders": {
             "ETH": 173
-        }
+        },
+        "emails": [
+            "info@donald.cash"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x027ce48b9b346728557e8d420fe936a72bf9b1c7",
@@ -59601,7 +59613,11 @@
         ],
         "holders": {
             "ETH": 135
-        }
+        },
+        "telegram_groups": [
+            "PeapodsFinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x47d20c7800906e01adfc890f283c110ba70a6c97",
@@ -59617,7 +59633,11 @@
         ],
         "holders": {
             "ETH": 171
-        }
+        },
+        "emails": [
+            "admin@azurecoin.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe4962e8f7b51687fcbe0954790c2f99a6573936a",
@@ -59674,6 +59694,10 @@
         ],
         "holders": {
             "ETH": 57
-        }
+        },
+        "telegram_groups": [
+            "PeapodsFinance"
+        ],
+        "p6": true
     }
 ]
