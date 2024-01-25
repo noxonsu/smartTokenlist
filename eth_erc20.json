@@ -59293,7 +59293,10 @@
         ],
         "holders": {
             "ETH": 53
-        }
+        },
+        "web_domains": [
+            "kennedy24.com"
+        ]
     },
     {
         "contract_address": "0x544d230f0362f3843fda5caa99b94cb2b336e384",
