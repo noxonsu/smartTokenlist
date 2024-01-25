@@ -59024,5 +59024,75 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0xf4172630a656a47ece8616e75791290446fa41a0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 486
+        }
+    },
+    {
+        "contract_address": "0x95b090aebaf05baae2b0e50fd3a7ca86674e95d8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 630
+        }
+    },
+    {
+        "contract_address": "0xe82c27221719ab3d1bfd163924222a8375bf0d32",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0x3748d5b18cd2586340f0d0ce8cc86ed3128f98c9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x2cc79824c2af95d7ccce2ef8d8d28be0177bb03a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xa997bdb208d0a64a1ce65bc93f9d2eb26834f3c0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x38b7bf4eecf3eb530b1529c9401fc37d2a71a912",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 457
+        }
+    },
+    {
+        "contract_address": "0xe24ba27551abe96ca401d39761ca2319ea14e3cb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0xab6bf72e429d9d4ec004bb3bab17d4bb594749b5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0x922a646ffbb580b56407401f6d1eba25dde2f384",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1149
+        }
     }
 ]
