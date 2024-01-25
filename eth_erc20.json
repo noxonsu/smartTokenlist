@@ -59266,11 +59266,16 @@
             "ice.io"
         ],
         "telegram_groups": [
-            "Snowman2ETH"
+            "Snowman2ETH",
+            "iceblockchain"
         ],
         "holders": {
             "ETH": 161
-        }
+        },
+        "emails": [
+            "hi@ice.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5ecd630860d973e3d3d8dadc29a80fd4bcfb6612",
@@ -59283,7 +59288,11 @@
         ],
         "holders": {
             "ETH": 122
-        }
+        },
+        "emails": [
+            "Support : contact@kanye2024.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd473c34f079b0e276b8b0c2b64c5543715704037",
@@ -59296,7 +59305,11 @@
         },
         "web_domains": [
             "kennedy24.com"
-        ]
+        ],
+        "emails": [
+            "alabama@teamkennedy.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x544d230f0362f3843fda5caa99b94cb2b336e384",
