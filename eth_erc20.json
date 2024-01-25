@@ -59452,7 +59452,9 @@
         "web_domains": [
             "investor.pypl.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xe285279a495d6126089efda04caa960d1a166131",
@@ -59483,7 +59485,7 @@
             "block-ai.org"
         ],
         "telegram_groups": [
-            "Block_AI_ERC20"
+            null
         ],
         "holders": {
             "ETH": 97
@@ -59491,7 +59493,9 @@
         "emails": [
             "admin@block-ai.org"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: '<' not supported between instances of 'NoneType' and 'int'"
     },
     {
         "contract_address": "0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a",
@@ -59522,6 +59526,8 @@
         "holders": {
             "ETH": 132
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Username not occupied"
     }
 ]
