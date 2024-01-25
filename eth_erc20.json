@@ -59554,7 +59554,9 @@
         "web_domains": [
             "tmtgcorp.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xf481ab81bc89c93d944319bfdee7b26b63543c12",
@@ -59584,7 +59586,9 @@
         "holders": {
             "ETH": 39
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x421694b4bfc773fcf9eb84fa181a20d0e5ee15f4",
@@ -59603,7 +59607,9 @@
         "emails": [
             "info@donald.cash"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't find chat"
     },
     {
         "contract_address": "0x027ce48b9b346728557e8d420fe936a72bf9b1c7",
@@ -59617,7 +59623,9 @@
         "telegram_groups": [
             "PeapodsFinance"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large1752"
     },
     {
         "contract_address": "0x47d20c7800906e01adfc890f283c110ba70a6c97",
@@ -59629,7 +59637,7 @@
             "youtube.com"
         ],
         "telegram_groups": [
-            "Azure_L2"
+            null
         ],
         "holders": {
             "ETH": 171
@@ -59637,7 +59645,9 @@
         "emails": [
             "admin@azurecoin.io"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: '<' not supported between instances of 'NoneType' and 'int'"
     },
     {
         "contract_address": "0xe4962e8f7b51687fcbe0954790c2f99a6573936a",
@@ -59652,7 +59662,9 @@
         "holders": {
             "ETH": 143
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x2b1d36f5b61addaf7da7ebbd11b35fd8cfb0de31",
@@ -59666,7 +59678,9 @@
         "telegram_groups": [
             "interport_fi"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large4572"
     },
     {
         "contract_address": "0x15f2ed83abef5cdc462975310b958c237eae4710",
@@ -59706,6 +59720,8 @@
         "telegram_groups": [
             "PeapodsFinance"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large1752"
     }
 ]
