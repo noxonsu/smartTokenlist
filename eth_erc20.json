@@ -59432,5 +59432,82 @@
         "holders": {
             "ETH": 3104
         }
+    },
+    {
+        "contract_address": "0x79c6ffe2ccbca761e9e289a69432bffb0b744876",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 217
+        }
+    },
+    {
+        "contract_address": "0x6ee21b7fcc1bdeecec1370078001eec7e90b3247",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "PYPL_ERC"
+        ],
+        "holders": {
+            "ETH": 21
+        }
+    },
+    {
+        "contract_address": "0xe285279a495d6126089efda04caa960d1a166131",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 37
+        }
+    },
+    {
+        "contract_address": "0xbf82703e355d697b9b00ccdb41fbcc96ac28afce",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "MAGA2MemeCoin"
+        ],
+        "holders": {
+            "ETH": 159
+        }
+    },
+    {
+        "contract_address": "0x969457f92302192827af49744b5b75c3b9cbf19f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "block-ai.org"
+        ],
+        "telegram_groups": [
+            "Block_AI_ERC20"
+        ],
+        "holders": {
+            "ETH": 97
+        }
+    },
+    {
+        "contract_address": "0xd4fa1460f537bb9085d22c7bccb5dd450ef28e3a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blog.aragon.one"
+        ],
+        "holders": {
+            "ETH": 29200
+        }
+    },
+    {
+        "contract_address": "0x1bb9b64927e0c5e207c9db4093b3738eef5d8447",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 312
+        }
+    },
+    {
+        "contract_address": "0xa81dbad2cc8a26cd3a43b505b7bcf776b906adac",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "timscotterc.online"
+        ],
+        "telegram_groups": [
+            "TimScott_ERC"
+        ],
+        "holders": {
+            "ETH": 132
+        }
     }
 ]
