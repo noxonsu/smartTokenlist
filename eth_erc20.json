@@ -59099,5 +59099,68 @@
         "holders": {
             "ETH": 1149
         }
+    },
+    {
+        "contract_address": "0x5d3a4f62124498092ce665f865e0b38ff6f5fbea",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 773
+        }
+    },
+    {
+        "contract_address": "0x9e12824e9a458c3f92d6ff192f48fdefafd7ff86",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 165
+        }
+    },
+    {
+        "contract_address": "0x3635fbbabc7c4fb3f84d4317351a357cbdb16bfe",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "BlobINUERC"
+        ],
+        "holders": {
+            "ETH": 177
+        }
+    },
+    {
+        "contract_address": "0x5a3153ae94e9fe2ecfdbd7ba7284c51560cb7aee",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 668
+        }
+    },
+    {
+        "contract_address": "0x9ac4ee539403e3f101b9ae3620926f2ded0d0b99",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1120
+        }
+    },
+    {
+        "contract_address": "0x947aeb02304391f8fbe5b25d7d98d649b57b1788",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3243
+        }
+    },
+    {
+        "contract_address": "0x9fbebf1b072e908bdb4abec7db5a46b622c940b5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pixels.xyz",
+            "opensea.io"
+        ],
+        "holders": {
+            "ETH": 34
+        }
+    },
+    {
+        "contract_address": "0xd08e245fdb3f1504aea4056e2c71615da7001440",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
     }
 ]
