@@ -59529,5 +59529,142 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Username not occupied"
+    },
+    {
+        "contract_address": "0x912529007bc0d2a5464a6a211ebfe217dfb75dff",
+        "sourceScanned": "processed",
+        "emails": [
+            "goncalo.sa@consensys.net"
+        ],
+        "holders": {
+            "ETH": 607
+        }
+    },
+    {
+        "contract_address": "0xd0fce7c7ec915a5629d1cb2d89d644199a4880a7",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "TMTGERC20"
+        ],
+        "holders": {
+            "ETH": 221
+        }
+    },
+    {
+        "contract_address": "0xf481ab81bc89c93d944319bfdee7b26b63543c12",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools"
+        ],
+        "holders": {
+            "ETH": 10
+        }
+    },
+    {
+        "contract_address": "0xb40d2bf31b58fbc202484e2551261d1ef82bccf0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.goterc20.com"
+        ],
+        "telegram_groups": [
+            "Goterc20"
+        ],
+        "holders": {
+            "ETH": 39
+        }
+    },
+    {
+        "contract_address": "0x421694b4bfc773fcf9eb84fa181a20d0e5ee15f4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "donald.cash"
+        ],
+        "telegram_groups": [
+            "Donald_Erc20"
+        ],
+        "holders": {
+            "ETH": 173
+        }
+    },
+    {
+        "contract_address": "0x027ce48b9b346728557e8d420fe936a72bf9b1c7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "peapods.finance"
+        ],
+        "holders": {
+            "ETH": 135
+        }
+    },
+    {
+        "contract_address": "0x47d20c7800906e01adfc890f283c110ba70a6c97",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "azurecoin.io",
+            "whitepaper.azurecoin.io",
+            "azurecoin.medium.com",
+            "youtube.com"
+        ],
+        "telegram_groups": [
+            "Azure_L2"
+        ],
+        "holders": {
+            "ETH": 171
+        }
+    },
+    {
+        "contract_address": "0xe4962e8f7b51687fcbe0954790c2f99a6573936a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "honkkillbonk.com"
+        ],
+        "telegram_groups": [
+            "honkbonkkiller"
+        ],
+        "holders": {
+            "ETH": 143
+        }
+    },
+    {
+        "contract_address": "0x2b1d36f5b61addaf7da7ebbd11b35fd8cfb0de31",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 241
+        }
+    },
+    {
+        "contract_address": "0x15f2ed83abef5cdc462975310b958c237eae4710",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 431
+        }
+    },
+    {
+        "contract_address": "0x8a2d0a517ecdbe2165f4ad5a2deadf880d66560c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 240
+        }
+    },
+    {
+        "contract_address": "0xbe9f61555f50dd6167f2772e9cf7519790d96624",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 112
+        }
+    },
+    {
+        "contract_address": "0x88e08adb69f2618adf1a3ff6cc43c671612d1ca4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "peapods.finance"
+        ],
+        "holders": {
+            "ETH": 57
+        }
     }
 ]
