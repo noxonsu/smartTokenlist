@@ -58724,7 +58724,9 @@
         },
         "web_domains": [
             "www.rmrk.app"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9bf3a5ba31c5629e9b08a14cf9dc21897bfd3ec1",
@@ -58754,7 +58756,11 @@
         ],
         "holders": {
             "ETH": 248
-        }
+        },
+        "emails": [
+            "Business Contact: support@flashpad.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x982b3b2d180eb73c6762113b83a384b9c51df1fd",
@@ -58769,7 +58775,8 @@
         ],
         "holders": {
             "ETH": 60
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2a77c200df861aaf031b6e0f422613800d86365e",
@@ -58782,7 +58789,8 @@
         ],
         "holders": {
             "ETH": 4
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6aeb95f06cda84ca345c2de0f3b7f96923a44f4c",
@@ -58803,7 +58811,8 @@
         ],
         "holders": {
             "ETH": 15
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x52498f8d9791736f1d6398fe95ba3bd868114d10",
@@ -58813,7 +58822,14 @@
         },
         "web_domains": [
             "netvrk.co"
-        ]
+        ],
+        "telegram_groups": [
+            "NetVRk_Official"
+        ],
+        "emails": [
+            "press@netvrk.co"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xac11a6166d01f9ac28f708f9c4a973ed0e434877",
