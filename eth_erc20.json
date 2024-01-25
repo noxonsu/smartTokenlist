@@ -59044,7 +59044,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 16
-        }
+        },
+        "web_domains": [
+            "www.blobblobstudio.com"
+        ]
     },
     {
         "contract_address": "0x3748d5b18cd2586340f0d0ce8cc86ed3128f98c9",
