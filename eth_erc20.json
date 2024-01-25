@@ -58752,7 +58752,7 @@
             "www.flashpad.io"
         ],
         "telegram_groups": [
-            "flashpad"
+            null
         ],
         "holders": {
             "ETH": 248
@@ -58760,7 +58760,9 @@
         "emails": [
             "Business Contact: support@flashpad.io"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: '<' not supported between instances of 'NoneType' and 'int'"
     },
     {
         "contract_address": "0x982b3b2d180eb73c6762113b83a384b9c51df1fd",
@@ -58776,7 +58778,9 @@
         "holders": {
             "ETH": 60
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x2a77c200df861aaf031b6e0f422613800d86365e",
@@ -58790,7 +58794,9 @@
         "holders": {
             "ETH": 4
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x6aeb95f06cda84ca345c2de0f3b7f96923a44f4c",
@@ -58812,7 +58818,9 @@
         "holders": {
             "ETH": 15
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x52498f8d9791736f1d6398fe95ba3bd868114d10",
@@ -58829,7 +58837,9 @@
         "emails": [
             "press@netvrk.co"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large9995"
     },
     {
         "contract_address": "0xac11a6166d01f9ac28f708f9c4a973ed0e434877",
@@ -58859,7 +58869,9 @@
         "telegram_groups": [
             "RefundKitties_ERC"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x6fb5f4645c8dd236a2e82c34406c45ba2d200220",
@@ -58876,7 +58888,9 @@
         "emails": [
             "team@flightofthepeacefrog.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x6053ebdadbf8faa980d48fa643c0bb292222dbaf",
@@ -58893,7 +58907,9 @@
         "emails": [
             "info@imdogbert.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x86ed939b500e121c0c5f493f399084db596dad20",
