@@ -59161,6 +59161,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 2
-        }
+        },
+        "web_domains": [
+            "xtoken.market"
+        ]
     }
 ]
