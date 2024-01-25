@@ -59330,5 +59330,96 @@
         "holders": {
             "ETH": 993
         }
+    },
+    {
+        "contract_address": "0x462871291703039e1e0e3194f7391f6295972358",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.marketwatch.com"
+        ],
+        "telegram_groups": [
+            "BritcoinERC20"
+        ],
+        "holders": {
+            "ETH": 209
+        }
+    },
+    {
+        "contract_address": "0x357c915d7c12dc506d13332bb06c932af13e99a0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 395
+        }
+    },
+    {
+        "contract_address": "0x861b1eb8be5b2937480764d9aa242b25adbdddc8",
+        "sourceScanned": "processed",
+        "emails": [
+            "goncalo.sa@consensys.net"
+        ],
+        "holders": {
+            "ETH": 72
+        }
+    },
+    {
+        "contract_address": "0x27c6295aaf7985c05f0ca8058b8d9b47211f2841",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.snow-coin.com"
+        ],
+        "holders": {
+            "ETH": 507
+        }
+    },
+    {
+        "contract_address": "0x664732d25456ab877404965a53e1ef9e70f2a771",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 44
+        }
+    },
+    {
+        "contract_address": "0x98fec9b884f5a814161189548387a56c70977edc",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pixelversebot.tech"
+        ],
+        "telegram_groups": [
+            "PixelVerseAi"
+        ],
+        "holders": {
+            "ETH": 69
+        }
+    },
+    {
+        "contract_address": "0x3fd00038bfd3eb22f51118468c9d43c1eb7210f3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 367
+        }
+    },
+    {
+        "contract_address": "0xa712bf873218fefb2801e14f94afa5d8bd7507c1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0xe060031495658d7f1a1dbaaccf90fe870b4ffd58",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "EverythingAppERC"
+        ],
+        "holders": {
+            "ETH": 311
+        }
+    },
+    {
+        "contract_address": "0x0a58153a0cd1cfaea94ce1f7fdc5d7e679eca936",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3104
+        }
     }
 ]
