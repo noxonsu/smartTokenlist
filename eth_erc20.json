@@ -59047,7 +59047,9 @@
         },
         "web_domains": [
             "www.blobblobstudio.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3748d5b18cd2586340f0d0ce8cc86ed3128f98c9",
