@@ -58721,7 +58721,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 15
-        }
+        },
+        "web_domains": [
+            "www.rmrk.app"
+        ]
     },
     {
         "contract_address": "0x9bf3a5ba31c5629e9b08a14cf9dc21897bfd3ec1",
@@ -58807,7 +58810,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 146
-        }
+        },
+        "web_domains": [
+            "netvrk.co"
+        ]
     },
     {
         "contract_address": "0xac11a6166d01f9ac28f708f9c4a973ed0e434877",
