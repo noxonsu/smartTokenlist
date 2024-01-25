@@ -59212,5 +59212,101 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x049e9f5369358786a1ce6483d668d062cfe547ec",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "checkstoken.co",
+            "app.ens.domains"
+        ],
+        "holders": {
+            "ETH": 1465
+        }
+    },
+    {
+        "contract_address": "0x4f43c77872db6ba177c270986cd30c3381af37ee",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 66
+        }
+    },
+    {
+        "contract_address": "0x730a5e2acebccaa5e9095723b3cb862739da793c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x80ce3027a70e0a928d9268994e9b85d03bd4cdcf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2548
+        }
+    },
+    {
+        "contract_address": "0x4b4f1815c1758360e190f60ff073d164669bf54c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x5bedb495221edb6010c24fb3f26744fb3eb574a1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x8df8f74cf0f9332572bd2a3b8cc8efd10c8c14a5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ice.io"
+        ],
+        "telegram_groups": [
+            "Snowman2ETH"
+        ],
+        "holders": {
+            "ETH": 161
+        }
+    },
+    {
+        "contract_address": "0x5ecd630860d973e3d3d8dadc29a80fd4bcfb6612",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "kanye2024.top"
+        ],
+        "telegram_groups": [
+            "kanye2024_token"
+        ],
+        "holders": {
+            "ETH": 122
+        }
+    },
+    {
+        "contract_address": "0xd473c34f079b0e276b8b0c2b64c5543715704037",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "KENNEDY_2024"
+        ],
+        "holders": {
+            "ETH": 53
+        }
+    },
+    {
+        "contract_address": "0x544d230f0362f3843fda5caa99b94cb2b336e384",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1246
+        }
+    },
+    {
+        "contract_address": "0x1603b0e64cdd7836a686f85d9195265b06803c26",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 993
+        }
     }
 ]
