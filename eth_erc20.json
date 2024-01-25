@@ -58855,7 +58855,11 @@
         ],
         "holders": {
             "ETH": 459
-        }
+        },
+        "telegram_groups": [
+            "RefundKitties_ERC"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6fb5f4645c8dd236a2e82c34406c45ba2d200220",
@@ -58868,7 +58872,11 @@
         ],
         "holders": {
             "ETH": 444
-        }
+        },
+        "emails": [
+            "team@flightofthepeacefrog.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6053ebdadbf8faa980d48fa643c0bb292222dbaf",
@@ -58881,7 +58889,11 @@
         ],
         "holders": {
             "ETH": 56
-        }
+        },
+        "emails": [
+            "info@imdogbert.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x86ed939b500e121c0c5f493f399084db596dad20",
