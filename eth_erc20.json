@@ -58715,5 +58715,174 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0x524d524b4c9366be706d3a90dcf70076ca037ae3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0x9bf3a5ba31c5629e9b08a14cf9dc21897bfd3ec1",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "BENANCEToken"
+        ],
+        "holders": {
+            "ETH": 1417
+        }
+    },
+    {
+        "contract_address": "0x626c4a642ef114277ccddf7de3c0a021febb1963",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 123
+        }
+    },
+    {
+        "contract_address": "0x1650978997e5898db8eeffdb7c530bb223b71c79",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.flashpad.io"
+        ],
+        "telegram_groups": [
+            "flashpad"
+        ],
+        "holders": {
+            "ETH": 248
+        }
+    },
+    {
+        "contract_address": "0x982b3b2d180eb73c6762113b83a384b9c51df1fd",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hydrogenfi.net",
+            "app.hydrogenfi.net",
+            "docs.hydrogenfi.net"
+        ],
+        "telegram_groups": [
+            "hydrogen_fi"
+        ],
+        "holders": {
+            "ETH": 60
+        }
+    },
+    {
+        "contract_address": "0x2a77c200df861aaf031b6e0f422613800d86365e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "thecointhatsends.fun"
+        ],
+        "telegram_groups": [
+            "thecointhatsends"
+        ],
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x6aeb95f06cda84ca345c2de0f3b7f96923a44f4c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7180
+        }
+    },
+    {
+        "contract_address": "0xce0a186d6122acd7f2efc1892c7efeaca2091e9d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "kiwifarm.fi",
+            "docs.kiwifarm.fi"
+        ],
+        "telegram_groups": [
+            "KiwiFarmCoin"
+        ],
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0x52498f8d9791736f1d6398fe95ba3bd868114d10",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 146
+        }
+    },
+    {
+        "contract_address": "0xac11a6166d01f9ac28f708f9c4a973ed0e434877",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 173
+        }
+    },
+    {
+        "contract_address": "0xff9e32aaf15953ec3f69fe899d220a705ce06dd0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 410
+        }
+    },
+    {
+        "contract_address": "0x0425e5bf7f52591a04fbe24c454ac004179c4318",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "opensea.io",
+            "allbestico.com",
+            "opensea.io"
+        ],
+        "holders": {
+            "ETH": 459
+        }
+    },
+    {
+        "contract_address": "0x6fb5f4645c8dd236a2e82c34406c45ba2d200220",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "flightofthepeacefrog.com"
+        ],
+        "telegram_groups": [
+            "PeaceFrogPortal"
+        ],
+        "holders": {
+            "ETH": 444
+        }
+    },
+    {
+        "contract_address": "0x6053ebdadbf8faa980d48fa643c0bb292222dbaf",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "imdogbert.com"
+        ],
+        "telegram_groups": [
+            "bertcoinGroup"
+        ],
+        "holders": {
+            "ETH": 56
+        }
+    },
+    {
+        "contract_address": "0x86ed939b500e121c0c5f493f399084db596dad20",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2597
+        }
+    },
+    {
+        "contract_address": "0x4949ac21d5b2a0ccd303c20425eeb29dccba66d8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "accu.org"
+        ],
+        "holders": {
+            "ETH": 619
+        }
+    },
+    {
+        "contract_address": "0x06020651ea6081558ee6ac2eb9d9fede4ed20b2d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2665
+        }
     }
 ]
