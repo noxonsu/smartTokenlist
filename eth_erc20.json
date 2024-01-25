@@ -59154,7 +59154,12 @@
         ],
         "holders": {
             "ETH": 34
-        }
+        },
+        "telegram_groups": [],
+        "emails": [
+            "hello@pixels.online"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd08e245fdb3f1504aea4056e2c71615da7001440",
@@ -59164,6 +59169,8 @@
         },
         "web_domains": [
             "xtoken.market"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
