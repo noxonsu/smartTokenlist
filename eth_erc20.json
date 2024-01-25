@@ -58935,5 +58935,85 @@
         "holders": {
             "ETH": 2665
         }
+    },
+    {
+        "contract_address": "0x9bfd08d7b3cc40129132a17b4d5b9ea3351464bd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0x971aabcf9e922e1003969a7662a43765d4527b82",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 212
+        }
+    },
+    {
+        "contract_address": "0xb9debddf1d894c79d2b2d09f819ff9b856fca552",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi"
+        ],
+        "holders": {
+            "ETH": 124
+        }
+    },
+    {
+        "contract_address": "0xf04af3f4e4929f7cd25a751e6149a3318373d4fe",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 848
+        }
+    },
+    {
+        "contract_address": "0x15472352564754f6163a134632a9d7be1240d931",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 47
+        }
+    },
+    {
+        "contract_address": "0xe2a933bf842674a5259f866eb7f6c027526a53a9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.truth-social-eth.xyz"
+        ],
+        "telegram_groups": [
+            "TruthSocial_ETH"
+        ],
+        "holders": {
+            "ETH": 183
+        }
+    },
+    {
+        "contract_address": "0x7f7171aa400bf711f353b02e3a834eb648ed4160",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x06ee6cca6d6cdca3326c4b6f0fd204c694cede89",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.butterscotch.love",
+            "www.butterscotch.love"
+        ],
+        "telegram_groups": [
+            "BudderDawgToken"
+        ],
+        "holders": {
+            "ETH": 70
+        }
     }
 ]
