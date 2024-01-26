@@ -60220,7 +60220,9 @@
         ],
         "holders": {
             "ETH": 11
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4ab76185ef3b69a4a8f0f25cefcc729cf391dc4a",
@@ -60254,7 +60256,8 @@
         ],
         "holders": {
             "ETH": 105
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf934e136120be974b292e2bc84c3bfd19b0d7063",
@@ -60291,6 +60294,10 @@
         ],
         "holders": {
             "ETH": 461
-        }
+        },
+        "emails": [
+            "info@BEASTCOIN.vip"
+        ],
+        "p6": true
     }
 ]
