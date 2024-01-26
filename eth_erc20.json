@@ -59969,7 +59969,11 @@
         },
         "web_domains": [
             "nyblockchain.org"
-        ]
+        ],
+        "telegram_groups": [
+            "NYCglobal1000x"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1f974167e301c06db8b6e8f79ef9f0b243a6c7af",
@@ -59986,7 +59990,12 @@
         },
         "web_domains": [
             "www.swapstealth.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "stealth@swap-commerce.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x91ccf57792c117a21a99b931cd966ab27d4d0d9a",
@@ -60010,6 +60019,8 @@
         },
         "web_domains": [
             "minepi.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
