@@ -60595,7 +60595,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 126
-        }
+        },
+        "web_domains": [
+            "taikai.network"
+        ]
     },
     {
         "contract_address": "0xed92bfe08de542bbb40fdbe0a27ca66313c0c457",
