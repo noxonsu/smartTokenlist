@@ -59723,5 +59723,82 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Chat is too large1752"
+    },
+    {
+        "contract_address": "0x43bf049f99f64928f5915e185f879ecc49f822a5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "x-news.ai",
+            "x-news.gitbook.io"
+        ],
+        "telegram_groups": [
+            "XNews_Portal"
+        ],
+        "holders": {
+            "ETH": 618
+        }
+    },
+    {
+        "contract_address": "0xc37ee71dd8d0d4d490010f61e338018d270777bb",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mail.dmail.ai",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "dmailofficial"
+        ],
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0x38d64ce1bdf1a9f24e0ec469c9cade61236fb4a0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8
+        }
+    },
+    {
+        "contract_address": "0x6733f0283711f225a447e759d859a70b0c0fd2bc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 37
+        }
+    },
+    {
+        "contract_address": "0xb0e4ecebcd41c2b6a899ebdcf66eb0fe3a34b544",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x078c4adf3fee52eb77f6018d9805dfc69e911d39",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 197
+        }
+    },
+    {
+        "contract_address": "0x9427c5a704dfbfecdf4227d11048d64cb6882d80",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 313
+        }
+    },
+    {
+        "contract_address": "0x87b008e57f640d94ee44fd893f0323af933f9195",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 841
+        }
+    },
+    {
+        "contract_address": "0xce18e5b19cd4430bd793fb59a598b3ab4427b0e4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 338
+        }
     }
 ]
