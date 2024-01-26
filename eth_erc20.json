@@ -60024,5 +60024,81 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xb15f7810482d7192ef4179c14b289bf5ae941255",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0x5ad7713ab1d430a76567ae66019ec49c8d1d911f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 356
+        }
+    },
+    {
+        "contract_address": "0x804ea14b08dec488e5b0bc408f23eef107fe3717",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 417
+        }
+    },
+    {
+        "contract_address": "0x7ba5273d53d8a964b0a338e25def0c082f5c29d3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wen.army"
+        ],
+        "telegram_groups": [
+            "wenjoinus"
+        ],
+        "holders": {
+            "ETH": 581
+        }
+    },
+    {
+        "contract_address": "0x91c8a0832c55732aa131333a2cb1e83ea988a67e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0x3835a58ca93cdb5f912519ad366826ac9a752510",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 172
+        }
+    },
+    {
+        "contract_address": "0xddcc1614c6cdcf25e6ce626f00eda3c24ec1a0b0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x60e8dd94682c11ecc0c3786df8ae979a83ac9d59",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 31
+        }
+    },
+    {
+        "contract_address": "0xbabae6aabd456584d753147f8f722ae0f56a4eae",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 56
+        }
+    },
+    {
+        "contract_address": "0x7cc97bf17c5adabe25f9d19d15a1ec8a1ad65f14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1202
+        }
     }
 ]
