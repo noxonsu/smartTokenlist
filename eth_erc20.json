@@ -60413,5 +60413,99 @@
         "holders": {
             "ETH": 1064
         }
+    },
+    {
+        "contract_address": "0xe3df27a118cae078fa8e381fcc6d94551371ee20",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "crosstech.digital"
+        ],
+        "telegram_groups": [
+            "crosstecherc20"
+        ],
+        "holders": {
+            "ETH": 413
+        }
+    },
+    {
+        "contract_address": "0x9aeb50f542050172359a0e1a25a9933bc8c01259",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1976
+        }
+    },
+    {
+        "contract_address": "0x1d4214081985ad20aa3ca93a2206ae792635cbec",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9993
+        }
+    },
+    {
+        "contract_address": "0xcffcfdada28ab44d5440301470dcd410e75c4765",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0x2c022e58c5e3ee213f06f975fd8a0d3a6fe9ca1c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 448
+        }
+    },
+    {
+        "contract_address": "0x660d23e62274a6353f5cc3c1b793d82f8fd21f28",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "climaxswap.com"
+        ],
+        "telegram_groups": [
+            "climax_swap"
+        ],
+        "holders": {
+            "ETH": 49
+        }
+    },
+    {
+        "contract_address": "0x9025f02bc8b166e811c6ff98a172e16a021a3a43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 45
+        }
+    },
+    {
+        "contract_address": "0xd8684adc4664bc2a0c78ddc8657dc005e804af15",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.copycatdao.com",
+            "app.dework.xyz",
+            "www.reddit.com",
+            "mirror.xyz",
+            "linktr.ee",
+            "app.safe.global",
+            "app.safe.global"
+        ],
+        "telegram_groups": [
+            "copycatdao"
+        ],
+        "holders": {
+            "ETH": 303
+        }
+    },
+    {
+        "contract_address": "0xedd27c961ce6f79afc16fd287d934ee31a90d7d1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10262
+        }
+    },
+    {
+        "contract_address": "0xe8b2d25695102ee915b8432b29354d98e97ad9a3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
