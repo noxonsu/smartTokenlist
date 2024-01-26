@@ -59808,5 +59808,111 @@
         "holders": {
             "ETH": 338
         }
+    },
+    {
+        "contract_address": "0x1e9a147e68b777e89f32e173bc2f095ea52edf23",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tetherai.io"
+        ],
+        "telegram_groups": [
+            "tetherai_official"
+        ],
+        "holders": {
+            "ETH": 138
+        }
+    },
+    {
+        "contract_address": "0xba97555d33fad10c6a3fed8d92366b76082ed7f2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "camon.games"
+        ],
+        "holders": {
+            "ETH": 116
+        }
+    },
+    {
+        "contract_address": "0xab11f56a9c1d13ef51ebd54e377f3ee0afd74a1b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 51
+        }
+    },
+    {
+        "contract_address": "0x3772ba91b46f456ae487cb0974040c861c045810",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0x99a6c12119604e35c85839a930da43ce865c4501",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 517
+        }
+    },
+    {
+        "contract_address": "0xf9802be0d998bbc4cb99cbafc473c13fad691dc0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x507ac456df3eef81c329663a2583a9337815ad4b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "matmo.cc"
+        ],
+        "telegram_groups": [
+            "MatmoChain"
+        ],
+        "holders": {
+            "ETH": 22
+        }
+    },
+    {
+        "contract_address": "0xf6801c3e4108ead0deb216a3295338a582734c24",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 86
+        }
+    },
+    {
+        "contract_address": "0x227c7df69d3ed1ae7574a1a7685fded90292eb48",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 623
+        }
+    },
+    {
+        "contract_address": "0x830a8512db4f6fca51968593e2667156c2c483a8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2892
+        }
+    },
+    {
+        "contract_address": "0x6725ba9babc46d78758faafe903d47f9690588a6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9
+        }
+    },
+    {
+        "contract_address": "0x80e9c48ec41af7a0ed6cf4f3ac979f3538021608",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xe8ed30b29ee7839a5bab8966515f897e7576afa7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 81
+        }
     }
 ]
