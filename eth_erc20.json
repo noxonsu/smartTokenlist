@@ -60303,5 +60303,101 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0x84c17c38301191e7dbb0c11684700c47600109c8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 61
+        }
+    },
+    {
+        "contract_address": "0x5d942f9872863645bcb181aba66c7d9646a91378",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 206
+        }
+    },
+    {
+        "contract_address": "0x5c7333e733795fa85421402d87fa8d65dc09eba9",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Matt_ERC"
+        ],
+        "holders": {
+            "ETH": 512
+        }
+    },
+    {
+        "contract_address": "0x6c4507d04de7fa3c08b1997316132f4005143818",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "wencoinerc20"
+        ],
+        "holders": {
+            "ETH": 98
+        }
+    },
+    {
+        "contract_address": "0xcdd981ef3330e159029e6e226dbd73d99f868f4d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 206
+        }
+    },
+    {
+        "contract_address": "0xbb2ed33bf0dd4b8a4abf4b091bfbf499341ba6c6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10
+        }
+    },
+    {
+        "contract_address": "0xd025bd11be7bbc119956cc4b67aed1b27a167397",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xe9514a6eba63a0bbbe2faea919e773ebe0f527c1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 441
+        }
+    },
+    {
+        "contract_address": "0xa6345ffadfa23dfc9014bce72ff2fa8712e54231",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.pepeprophecy.com"
+        ],
+        "telegram_groups": [
+            "pepeprophecy"
+        ],
+        "holders": {
+            "ETH": 1041
+        }
+    },
+    {
+        "contract_address": "0xe80f90720e00f329da65b40b07b2d8e92c6644ae",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 31
+        }
+    },
+    {
+        "contract_address": "0xd1b41fb4a0ad501644b3dc60f816c21aa37e1862",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 185
+        }
+    },
+    {
+        "contract_address": "0xe5097d9baeafb89f9bcb78c9290d545db5f9e9cb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1064
+        }
     }
 ]
