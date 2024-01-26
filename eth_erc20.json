@@ -44788,6 +44788,7 @@
             "docs.climaxswap.com"
         ],
         "telegram_groups": [
+            "climax_swap",
             "ClimaxSwap"
         ],
         "holders": {
@@ -60425,7 +60426,8 @@
         ],
         "holders": {
             "ETH": 413
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9aeb50f542050172359a0e1a25a9933bc8c01259",
@@ -60449,7 +60451,11 @@
         },
         "web_domains": [
             "parifi.org"
-        ]
+        ],
+        "telegram_groups": [
+            "Parifinews"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2c022e58c5e3ee213f06f975fd8a0d3a6fe9ca1c",
@@ -60465,11 +60471,13 @@
             "climaxswap.com"
         ],
         "telegram_groups": [
-            "climax_swap"
+            "climax_swap",
+            "ClimaxSwap"
         ],
         "holders": {
             "ETH": 49
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9025f02bc8b166e811c6ff98a172e16a021a3a43",
@@ -60495,7 +60503,8 @@
         ],
         "holders": {
             "ETH": 303
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xedd27c961ce6f79afc16fd287d934ee31a90d7d1",
