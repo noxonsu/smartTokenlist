@@ -60118,11 +60118,13 @@
             "insiderdetector.online"
         ],
         "telegram_groups": [
+            "InsiderBotETH",
             "insiderBotETH"
         ],
         "holders": {
             "ETH": 33
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe58f78f94313b5a4ff5f9bed5d3612d74c9713e8",
@@ -60135,7 +60137,8 @@
         ],
         "holders": {
             "ETH": 116
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0934ccb242527e944ff129c086611012c8579b89",
@@ -60162,7 +60165,8 @@
         ],
         "holders": {
             "ETH": 77
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x146ae546b7a2d676e5ed9e5d92647c8ddb8e2388",
