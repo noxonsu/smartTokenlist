@@ -60319,7 +60319,16 @@
         },
         "web_domains": [
             "altsignals.io"
-        ]
+        ],
+        "telegram_groups": [
+            "R_O_D",
+            "altsignalssupport",
+            "altsignals"
+        ],
+        "emails": [
+            "contact@altsignals.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5c7333e733795fa85421402d87fa8d65dc09eba9",
