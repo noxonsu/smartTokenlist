@@ -59820,7 +59820,8 @@
         ],
         "holders": {
             "ETH": 138
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xba97555d33fad10c6a3fed8d92366b76082ed7f2",
@@ -59830,7 +59831,11 @@
         ],
         "holders": {
             "ETH": 116
-        }
+        },
+        "telegram_groups": [
+            "Camonportal"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xab11f56a9c1d13ef51ebd54e377f3ee0afd74a1b",
@@ -59867,11 +59872,13 @@
             "matmo.cc"
         ],
         "telegram_groups": [
+            "matmochain_I",
             "MatmoChain"
         ],
         "holders": {
             "ETH": 22
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf6801c3e4108ead0deb216a3295338a582734c24",
@@ -59881,7 +59888,9 @@
         },
         "web_domains": [
             "lifebankchain.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x227c7df69d3ed1ae7574a1a7685fded90292eb48",
