@@ -59878,7 +59878,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 86
-        }
+        },
+        "web_domains": [
+            "lifebankchain.io"
+        ]
     },
     {
         "contract_address": "0x227c7df69d3ed1ae7574a1a7685fded90292eb48",
