@@ -59966,7 +59966,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 74
-        }
+        },
+        "web_domains": [
+            "nyblockchain.org"
+        ]
     },
     {
         "contract_address": "0x1f974167e301c06db8b6e8f79ef9f0b243a6c7af",
@@ -59980,7 +59983,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 148
-        }
+        },
+        "web_domains": [
+            "www.swapstealth.com"
+        ]
     },
     {
         "contract_address": "0x91ccf57792c117a21a99b931cd966ab27d4d0d9a",
@@ -60001,6 +60007,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 98
-        }
+        },
+        "web_domains": [
+            "minepi.com"
+        ]
     }
 ]
