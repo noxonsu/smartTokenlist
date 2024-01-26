@@ -60257,7 +60257,9 @@
         "holders": {
             "ETH": 105
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xf934e136120be974b292e2bc84c3bfd19b0d7063",
@@ -60298,6 +60300,8 @@
         "emails": [
             "info@BEASTCOIN.vip"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     }
 ]
