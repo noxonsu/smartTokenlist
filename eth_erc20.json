@@ -60588,7 +60588,8 @@
         ],
         "holders": {
             "ETH": 70
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7c5b267ed81009aa7374b5ca7e5137da47045ba8",
@@ -60598,7 +60599,12 @@
         },
         "web_domains": [
             "taikai.network"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "hello@taikai.network"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xed92bfe08de542bbb40fdbe0a27ca66313c0c457",
@@ -60633,7 +60639,11 @@
         ],
         "holders": {
             "ETH": 60
-        }
+        },
+        "emails": [
+            "admin@doublefund.pro"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x83b3896ec36cb20cfb430fcfe8da23d450dd09b5",
@@ -60649,10 +60659,12 @@
             "instaapeerc.com"
         ],
         "telegram_groups": [
-            "InstaApeETH"
+            "InstaApeETH",
+            "Insta_Ape_bot"
         ],
         "holders": {
             "ETH": 219
-        }
+        },
+        "p6": true
     }
 ]
