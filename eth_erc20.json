@@ -60527,5 +60527,47 @@
         "holders": {
             "ETH": 1
         }
+    },
+    {
+        "contract_address": "0xb05cabcd99cf9a73b19805edefc5f67ca5d1895e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 150
+        }
+    },
+    {
+        "contract_address": "0x0ed3a1d45dfdcf85bcc6c7bafdc0170a357b974c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 481
+        }
+    },
+    {
+        "contract_address": "0xbf519fb74965680b45d528d29e1d77bd1728c9ce",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0xe12af8fe857f8ab11a8866e3fb88fe8518340083",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x76b087284dee8dde20aacec9135c94708dbb64fa",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 72
+        }
+    },
+    {
+        "contract_address": "0x0cc1b0d7b94854095b7538ff8a05e2879258be07",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 120
+        }
     }
 ]
