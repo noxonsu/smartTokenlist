@@ -60208,5 +60208,89 @@
         "holders": {
             "ETH": 1
         }
+    },
+    {
+        "contract_address": "0x83c7669472bc9b9928c4f37e929d5f4d9c1781cc",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools"
+        ],
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0x4ab76185ef3b69a4a8f0f25cefcc729cf391dc4a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 49
+        }
+    },
+    {
+        "contract_address": "0x2902303b99cc51765a08d3685d2e5b90ceb1e202",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 400
+        }
+    },
+    {
+        "contract_address": "0x5f799ad15d02b2668d37575b2fb6ebaeee368a05",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2070
+        }
+    },
+    {
+        "contract_address": "0x8c97dc34ec08c481b747c73f8f93b4f6f2e87b99",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.pohotoken.com"
+        ],
+        "telegram_groups": [
+            "Ponkevshonk_Portal"
+        ],
+        "holders": {
+            "ETH": 105
+        }
+    },
+    {
+        "contract_address": "0xf934e136120be974b292e2bc84c3bfd19b0d7063",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "BidenKiss_Erc"
+        ],
+        "holders": {
+            "ETH": 42
+        }
+    },
+    {
+        "contract_address": "0x33ce75351e8b5dc2ae57c3eb95b37a067496cc5b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 301
+        }
+    },
+    {
+        "contract_address": "0xaaba3d6ba4d7918defdd561c91f3b96845fad027",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0xda07797a75ec922394fb6a9de7f90ee38b1c9160",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "beasteth.vip"
+        ],
+        "telegram_groups": [
+            "BeastErc20"
+        ],
+        "holders": {
+            "ETH": 461
+        }
     }
 ]
