@@ -60316,7 +60316,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 206
-        }
+        },
+        "web_domains": [
+            "altsignals.io"
+        ]
     },
     {
         "contract_address": "0x5c7333e733795fa85421402d87fa8d65dc09eba9",
