@@ -59757,7 +59757,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 8
-        }
+        },
+        "web_domains": [
+            "vectorreserve.com"
+        ]
     },
     {
         "contract_address": "0x6733f0283711f225a447e759d859a70b0c0fd2bc",
