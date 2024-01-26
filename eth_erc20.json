@@ -60100,5 +60100,103 @@
         "holders": {
             "ETH": 1202
         }
+    },
+    {
+        "contract_address": "0x8387c2d1b0eea6b91b910aff66a7bd2710a5946a",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "FoMo_EthToken"
+        ],
+        "holders": {
+            "ETH": 1473
+        }
+    },
+    {
+        "contract_address": "0x0707304a3aabe3c5bfbaff7c82d14a66ff1865d2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "insiderdetector.online"
+        ],
+        "telegram_groups": [
+            "insiderBotETH"
+        ],
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0xe58f78f94313b5a4ff5f9bed5d3612d74c9713e8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "babytrump.fyi"
+        ],
+        "telegram_groups": [
+            "babytrump_portal"
+        ],
+        "holders": {
+            "ETH": 116
+        }
+    },
+    {
+        "contract_address": "0x0934ccb242527e944ff129c086611012c8579b89",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 446
+        }
+    },
+    {
+        "contract_address": "0xa3a95fd17fc0ea756872d837e40d3c08aa1958a8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 116
+        }
+    },
+    {
+        "contract_address": "0x1c16993f745c8df94cf38b87348e9a25561283fd",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "deragon.xyz"
+        ],
+        "telegram_groups": [
+            "deragon_index_official"
+        ],
+        "holders": {
+            "ETH": 77
+        }
+    },
+    {
+        "contract_address": "0x146ae546b7a2d676e5ed9e5d92647c8ddb8e2388",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 181
+        }
+    },
+    {
+        "contract_address": "0x4628ca569df656ffa22f8b444aeeabd80bdea9a5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 157
+        }
+    },
+    {
+        "contract_address": "0x35fbee800f6d4dccfc2f4d3ac3873b1b8967c3f5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x37a030e4fad0d7bd4f7abf3188b74aeac58ea835",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xc9899668ca70e6322aba5c3163ca8e229835ed7a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
