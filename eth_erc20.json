@@ -59750,7 +59750,8 @@
         ],
         "holders": {
             "ETH": 20
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x38d64ce1bdf1a9f24e0ec469c9cade61236fb4a0",
@@ -59760,7 +59761,9 @@
         },
         "web_domains": [
             "vectorreserve.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6733f0283711f225a447e759d859a70b0c0fd2bc",
