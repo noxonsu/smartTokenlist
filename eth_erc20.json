@@ -60427,7 +60427,9 @@
         "holders": {
             "ETH": 413
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x9aeb50f542050172359a0e1a25a9933bc8c01259",
@@ -60455,7 +60457,9 @@
         "telegram_groups": [
             "Parifinews"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large1316"
     },
     {
         "contract_address": "0x2c022e58c5e3ee213f06f975fd8a0d3a6fe9ca1c",
@@ -60477,7 +60481,9 @@
         "holders": {
             "ETH": 49
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x9025f02bc8b166e811c6ff98a172e16a021a3a43",
@@ -60504,7 +60510,9 @@
         "holders": {
             "ETH": 303
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xedd27c961ce6f79afc16fd287d934ee31a90d7d1",
