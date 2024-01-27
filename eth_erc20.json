@@ -61224,7 +61224,9 @@
         ],
         "holders": {
             "ETH": 47
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x723cbfc05e2cfcc71d3d89e770d32801a5eef5ab",
@@ -61254,15 +61256,18 @@
         "contract_address": "0x3b414936f1cecc2eae0b5e97705469b23b024b07",
         "sourceScanned": "processed",
         "telegram_groups": [
-            "ordisnipe",
-            "ordisnipechat"
+            "OrdiSnipe",
+            "OrdiSnipeBot",
+            "ordisnipechat",
+            "ordisnipe"
         ],
         "holders": {
             "ETH": 14
         },
         "web_domains": [
             "ordisnipe.pro"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbcfa2db7e5ee66681a63ae0748783494dd138ae5",
@@ -61272,7 +61277,9 @@
         ],
         "holders": {
             "ETH": 13
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x27192b750ff796514f039512aaf5a3655a095ea0",
