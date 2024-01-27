@@ -61452,7 +61452,8 @@
         ],
         "holders": {
             "ETH": 68
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xafbe78c5916504fac389b112ce1c848aa2eab4e0",
@@ -61465,7 +61466,8 @@
         ],
         "holders": {
             "ETH": 53
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb045f7f363fe4949954811b113bd56d208c67b23",
@@ -61482,7 +61484,9 @@
         ],
         "holders": {
             "ETH": 427
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc4c7ea4fab34bd9fb9a5e1b1a98df76e26e6407c",
@@ -61511,15 +61515,22 @@
             "www.gigabots.ai"
         ],
         "telegram_groups": [
+            "GigaBotsAnnouncements",
+            "OfficialGigaMonitorBot",
             "GigaBotsCommunity",
-            "OfficialGigaTraderBot"
+            "OfficialGigaTraderBot",
+            "gigabot_community",
+            "GigaBotCommunity",
+            "OfficialGigaAnalystBot"
         ],
         "emails": [
+            "123@abc.com",
             "gigadev@gigabots.ai"
         ],
         "holders": {
             "ETH": 193
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xca7013ba4bf76bcdc3ffc71735896682644f47c2",
@@ -61553,6 +61564,8 @@
         },
         "web_domains": [
             "fnt-token.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
