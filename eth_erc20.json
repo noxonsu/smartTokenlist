@@ -61419,5 +61419,137 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0x5a608724f55f202a05b678ad5655e4cd35284a94",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 88
+        }
+    },
+    {
+        "contract_address": "0x07f0f9c9298797a47829f76d0a39221020a9c0ad",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 77
+        }
+    },
+    {
+        "contract_address": "0x4c8f1bdbac99c7dacdc1ff4b46ec06afd835bdb6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x4ac6814c9b84bebcbaa748243fee1580ef8f6040",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dankest.ai"
+        ],
+        "telegram_groups": [
+            "DankestAI"
+        ],
+        "holders": {
+            "ETH": 68
+        }
+    },
+    {
+        "contract_address": "0xafbe78c5916504fac389b112ce1c848aa2eab4e0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "richex.xyz"
+        ],
+        "telegram_groups": [
+            "richex_official"
+        ],
+        "holders": {
+            "ETH": 53
+        }
+    },
+    {
+        "contract_address": "0xb045f7f363fe4949954811b113bd56d208c67b23",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1172
+        }
+    },
+    {
+        "contract_address": "0xc03fbf20a586fa89c2a5f6f941458e1fbc40c661",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "combo.io"
+        ],
+        "holders": {
+            "ETH": 427
+        }
+    },
+    {
+        "contract_address": "0xc4c7ea4fab34bd9fb9a5e1b1a98df76e26e6407c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cocosbcx.io"
+        ],
+        "holders": {
+            "ETH": 1580
+        }
+    },
+    {
+        "contract_address": "0x229ddb00538b15c5b6301aaf645fb17c9a1fea0e",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "WenERC"
+        ],
+        "holders": {
+            "ETH": 178
+        }
+    },
+    {
+        "contract_address": "0xcb2b9b5b136dc29feb0548dff315021b9b6c2ba0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.gigabots.ai"
+        ],
+        "telegram_groups": [
+            "GigaBotsCommunity",
+            "OfficialGigaTraderBot"
+        ],
+        "emails": [
+            "gigadev@gigabots.ai"
+        ],
+        "holders": {
+            "ETH": 193
+        }
+    },
+    {
+        "contract_address": "0xca7013ba4bf76bcdc3ffc71735896682644f47c2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 794
+        }
+    },
+    {
+        "contract_address": "0x37653126a22fe12c527197ce2016f74cd74f3c77",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 29
+        }
+    },
+    {
+        "contract_address": "0x387c87975c5e36ebfe6f1e8f48bf988c0710fef2",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "shiculttoken"
+        ],
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0x37cdf2a3f655b72550b7fea53bc780436f9d068c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
