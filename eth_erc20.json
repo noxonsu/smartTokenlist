@@ -60935,5 +60935,94 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0x5c0cf02ed111ca40a12031a399520c2a26eb78ff",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 274
+        }
+    },
+    {
+        "contract_address": "0x936b9fa2da66ad90d3d5019e1a691049e06e9cdc",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "peapods.finance"
+        ],
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0x1b5036bec1b82d44d52fa953a370b3c6cd9328b5",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@elanfuture.com"
+        ],
+        "holders": {
+            "ETH": 348
+        }
+    },
+    {
+        "contract_address": "0x559c65106951035033bd44217a03ffcc0a64b30f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.nexyfi.com",
+            "www.x.com",
+            "bit.ly",
+            "docs.nexyfi.com"
+        ],
+        "telegram_groups": [
+            "Nexyfi_Portal",
+            "Nexyfi_Bot"
+        ],
+        "holders": {
+            "ETH": 121
+        }
+    },
+    {
+        "contract_address": "0x630d98424efe0ea27fb1b3ab7741907dffeaad78",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11075
+        }
+    },
+    {
+        "contract_address": "0x10fbc6ffd555a506691952899640fdd8009307e9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zk.link",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "zkLinkorg"
+        ],
+        "holders": {
+            "ETH": 34
+        }
+    },
+    {
+        "contract_address": "0x29bf686d63354c011f152c768bb2f0b7eefbb869",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools"
+        ],
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0x135783b60cf5d71daff7a377f9eb7db8d2deab9e",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "CTRLXTOKEN"
+        ],
+        "holders": {
+            "ETH": 929
+        }
     }
 ]
