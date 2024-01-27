@@ -61055,7 +61055,8 @@
         ],
         "holders": {
             "ETH": 20
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa86fdab8bdc088c53a442fc1e6c96553dcdcc1f6",
