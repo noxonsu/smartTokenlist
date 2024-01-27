@@ -60809,5 +60809,112 @@
         "holders": {
             "ETH": 158
         }
+    },
+    {
+        "contract_address": "0x43316ff043e06bc2e4bac5e353748cf7aeca51bd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0xe97db8503dd3e3eb0286aafc50327c598efdb578",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1081
+        }
+    },
+    {
+        "contract_address": "0x146207a85389f88ed2624a7df79a31bd9c6dfdbd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 280
+        }
+    },
+    {
+        "contract_address": "0x0e6fa9c050c8a707e7f56a2b3695665e4f9eac9b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1577
+        }
+    },
+    {
+        "contract_address": "0xf024e6387392a3c3a03ebd0b9d6b747ff5359417",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 287
+        }
+    },
+    {
+        "contract_address": "0x6b6c3d7b0d449895160233c28ff7ba0deaaa3a31",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ConaninuPortal"
+        ],
+        "holders": {
+            "ETH": 196
+        }
+    },
+    {
+        "contract_address": "0xdb05ea0877a2622883941b939f0bb11d1ac7c400",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2024
+        }
+    },
+    {
+        "contract_address": "0x6798afaf218215c93392a33d1826499c828fa35d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0x5f35eb54b2a479fe97cd5f5db15ab96c3d621594",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mindnetwork.xyz",
+            "discord.com",
+            "mindnetwork.medium.com"
+        ],
+        "telegram_groups": [
+            "mindnetwork_announcements"
+        ],
+        "holders": {
+            "ETH": 36
+        }
+    },
+    {
+        "contract_address": "0x00fec19f7a90f21186f073ecfae90f0e3f3bdbee",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "talktube.today"
+        ],
+        "telegram_groups": [
+            "talktube_today"
+        ],
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x4ade6a60d32f1d84b8d5fa04d7323ac60de970f6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 533
+        }
+    },
+    {
+        "contract_address": "0x7c7a7be4b298ad1c5790baae304e06413d12ccd3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "magagatoken.com"
+        ],
+        "telegram_groups": [
+            "magagaeth"
+        ],
+        "holders": {
+            "ETH": 125
+        }
     }
 ]
