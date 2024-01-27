@@ -61696,7 +61696,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 178
-        }
+        },
+        "web_domains": [
+            "shutter.network"
+        ]
     },
     {
         "contract_address": "0x6ed0d2bdcd8fa254bdcaa210fe1efe08fafb05a1",
