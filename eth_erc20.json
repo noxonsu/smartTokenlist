@@ -61056,7 +61056,9 @@
         "holders": {
             "ETH": 20
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Username not occupied"
     },
     {
         "contract_address": "0xa86fdab8bdc088c53a442fc1e6c96553dcdcc1f6",
