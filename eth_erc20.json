@@ -61326,7 +61326,10 @@
         ],
         "holders": {
             "ETH": 150
-        }
+        },
+        "web_domains": [
+            "xbet.ag"
+        ]
     },
     {
         "contract_address": "0x3b4e7501f30aec3ea3889c9fd62c7bf5fb8a8a4e",
