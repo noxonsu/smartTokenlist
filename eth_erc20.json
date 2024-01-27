@@ -61605,7 +61605,9 @@
         "telegram_groups": [
             "Funarcade_Official"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large11514"
     },
     {
         "contract_address": "0x08b339e27468e8bcf302cb277f2e77375b0c36e9",
@@ -61636,7 +61638,9 @@
         "emails": [
             "diorcoinerc@gmail.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x11f2baaca4c99418a2e022a378063a3ff54ccc30",
@@ -61650,7 +61654,9 @@
         "web_domains": [
             "www.pondqueenniki.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xddc6625feca10438857dd8660c021cd1088806fb",
@@ -61674,6 +61680,8 @@
         "emails": [
             "info@zen.land"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     }
 ]
