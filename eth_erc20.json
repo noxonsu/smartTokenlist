@@ -61317,5 +61317,83 @@
         "holders": {
             "ETH": 1016
         }
+    },
+    {
+        "contract_address": "0x7efc57ec37eef33415669930751c1e06ebe6f98d",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "XBetETH"
+        ],
+        "holders": {
+            "ETH": 150
+        }
+    },
+    {
+        "contract_address": "0x3b4e7501f30aec3ea3889c9fd62c7bf5fb8a8a4e",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "oshierc"
+        ],
+        "holders": {
+            "ETH": 101
+        }
+    },
+    {
+        "contract_address": "0x44abe128f776586728f34ce257985e3b51410085",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "gagarin.cloud"
+        ],
+        "telegram_groups": [
+            "gagarincloud"
+        ],
+        "holders": {
+            "ETH": 59
+        }
+    },
+    {
+        "contract_address": "0x173771c0fa751c56579536a85b2dacb562cde80b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 40
+        }
+    },
+    {
+        "contract_address": "0x3e2324342bf5b8a1dca42915f0489497203d640e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "barley.finance",
+            "docs.barley.finance"
+        ],
+        "telegram_groups": [
+            "Barley_Finance",
+            "BarleyFinance"
+        ],
+        "holders": {
+            "ETH": 204
+        }
+    },
+    {
+        "contract_address": "0x4a537440fbc257dd3bc082c58ac66662c8ff4d45",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "eth-ordinals.com"
+        ],
+        "holders": {
+            "ETH": 101
+        }
+    },
+    {
+        "contract_address": "0xe11cc4191b2ba63f8cdb8a86f292bda912d21c2a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "president2024.cc"
+        ],
+        "telegram_groups": [
+            "President2024_Portal"
+        ],
+        "holders": {
+            "ETH": 169
+        }
     }
 ]
