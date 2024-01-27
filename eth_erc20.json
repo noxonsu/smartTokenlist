@@ -61043,5 +61043,74 @@
         "holders": {
             "ETH": 929
         }
+    },
+    {
+        "contract_address": "0x20c5425f92219342cb52e67a68d34715f0b4a1db",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.memeai.space"
+        ],
+        "telegram_groups": [
+            "MemeAI_Portal"
+        ],
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0xa86fdab8bdc088c53a442fc1e6c96553dcdcc1f6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 51
+        }
+    },
+    {
+        "contract_address": "0xea1ea0972fa092dd463f2968f9bb51cc4c981d71",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6357
+        }
+    },
+    {
+        "contract_address": "0xff52d8cabf4b767713bc5e0cb9cb2ce26a1c3403",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xdab22846325b48b1e7d79e42335346165c84a34e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xfaf5c5e5fe12785ff57c58e227c1c60b1e5fafff",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 152
+        }
+    },
+    {
+        "contract_address": "0x4fae03385dcf5518dd43c03c2f963092c89de33c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 99
+        }
+    },
+    {
+        "contract_address": "0x385aa624a8f279f89e5222becc98e519a82c64db",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 67
+        }
+    },
+    {
+        "contract_address": "0x96b00208911d72ea9f10c3303ff319427a7884c9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 707
+        }
     }
 ]
