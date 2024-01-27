@@ -60846,7 +60846,11 @@
         },
         "web_domains": [
             "ordilaunch.io"
-        ]
+        ],
+        "telegram_groups": [
+            "ordilaunchportal"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6b6c3d7b0d449895160233c28ff7ba0deaaa3a31",
@@ -60881,11 +60885,13 @@
             "mindnetwork.medium.com"
         ],
         "telegram_groups": [
-            "mindnetwork_announcements"
+            "mindnetwork_announcements",
+            "MindNetwork_xyz"
         ],
         "holders": {
             "ETH": 36
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x00fec19f7a90f21186f073ecfae90f0e3f3bdbee",
@@ -60898,7 +60904,8 @@
         ],
         "holders": {
             "ETH": 1
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4ade6a60d32f1d84b8d5fa04d7323ac60de970f6",
@@ -60918,6 +60925,7 @@
         ],
         "holders": {
             "ETH": 125
-        }
+        },
+        "p6": true
     }
 ]
