@@ -61550,6 +61550,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "fnt-token.com"
+        ]
     }
 ]
