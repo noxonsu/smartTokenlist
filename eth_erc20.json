@@ -61115,5 +61115,72 @@
         "holders": {
             "ETH": 707
         }
+    },
+    {
+        "contract_address": "0xa746e1623031b5dbd5efcde51310de1556cd8577",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ice.io"
+        ],
+        "telegram_groups": [
+            "Frost_ICE_Eth"
+        ],
+        "holders": {
+            "ETH": 119
+        }
+    },
+    {
+        "contract_address": "0x49e96dd39f7345b101273d090e070641cf032ce4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "matmo.cc"
+        ],
+        "telegram_groups": [
+            "MatmoChain"
+        ],
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0x536381a8628dbcc8c70ac9a30a7258442eab4c92",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1052
+        }
+    },
+    {
+        "contract_address": "0x0fee4ca81c7982eaccc655a7cabe3cf05c3b8db9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0x27be9b2ce3a67f95e50f42ac9b368329ba7014c7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "trollinu.dev"
+        ],
+        "telegram_groups": [
+            "TrollInuEth"
+        ],
+        "holders": {
+            "ETH": 85
+        }
+    },
+    {
+        "contract_address": "0x5ea630e00d6ee438d3dea1556a110359acdc10a9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0xa11bd36801d8fa4448f0ac4ea7a62e3634ce8c7c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 403
+        }
     }
 ]
