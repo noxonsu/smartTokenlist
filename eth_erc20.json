@@ -60672,5 +60672,75 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0x9488936e4a36e3585afeb63377e2393aeac253ea",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 559
+        }
+    },
+    {
+        "contract_address": "0x1ef846ce0da79d8d4e111bf8c5117cd1209a0478",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ethereuminu.io"
+        ],
+        "telegram_groups": [
+            "ethereuminucoin"
+        ],
+        "holders": {
+            "ETH": 356
+        }
+    },
+    {
+        "contract_address": "0x2e5bc438539d0f68667570946a8fe0e938bc2261",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "Dragon3D.app"
+        ],
+        "telegram_groups": [
+            "Dragon3DPortal"
+        ],
+        "holders": {
+            "ETH": 72
+        }
+    },
+    {
+        "contract_address": "0xc5ca105cd995df3ee156112dd94e843fd06771b6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 282
+        }
+    },
+    {
+        "contract_address": "0xaafec8e08d524d534327fa13fb306f440b5f88eb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 352
+        }
+    },
+    {
+        "contract_address": "0x735bfe8e8c44091da7ede46a679bbb16db172ebc",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "madeinusacoin.us"
+        ],
+        "telegram_groups": [
+            "MadeInUsaEth"
+        ],
+        "holders": {
+            "ETH": 204
+        }
+    },
+    {
+        "contract_address": "0x8a181fda98b58a6a4331767a46611a1aa654366f",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "CLINTON2024coin"
+        ],
+        "holders": {
+            "ETH": 73
+        }
     }
 ]
