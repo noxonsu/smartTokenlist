@@ -61329,7 +61329,8 @@
         },
         "web_domains": [
             "xbet.ag"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3b4e7501f30aec3ea3889c9fd62c7bf5fb8a8a4e",
@@ -61352,7 +61353,8 @@
         ],
         "holders": {
             "ETH": 59
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x173771c0fa751c56579536a85b2dacb562cde80b",
@@ -61374,7 +61376,8 @@
         ],
         "holders": {
             "ETH": 204
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4a537440fbc257dd3bc082c58ac66662c8ff4d45",
@@ -61384,7 +61387,14 @@
         ],
         "holders": {
             "ETH": 101
-        }
+        },
+        "telegram_groups": [
+            "eth_ordinals"
+        ],
+        "emails": [
+            "office@eth-ordinals.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe11cc4191b2ba63f8cdb8a86f292bda912d21c2a",
@@ -61397,6 +61407,7 @@
         ],
         "holders": {
             "ETH": 169
-        }
+        },
+        "p6": true
     }
 ]
