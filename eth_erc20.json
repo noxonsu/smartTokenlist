@@ -61582,7 +61582,9 @@
         },
         "web_domains": [
             "vimworld.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x29dccb287175512156f46536ec492d18ea7be496",
@@ -61599,7 +61601,11 @@
         },
         "web_domains": [
             "funarcade.io"
-        ]
+        ],
+        "telegram_groups": [
+            "Funarcade_Official"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x08b339e27468e8bcf302cb277f2e77375b0c36e9",
@@ -61626,7 +61632,11 @@
         ],
         "holders": {
             "ETH": 138
-        }
+        },
+        "emails": [
+            "diorcoinerc@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x11f2baaca4c99418a2e022a378063a3ff54ccc30",
@@ -61639,7 +61649,8 @@
         },
         "web_domains": [
             "www.pondqueenniki.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xddc6625feca10438857dd8660c021cd1088806fb",
@@ -61656,6 +61667,13 @@
         },
         "web_domains": [
             "token.zen.land"
-        ]
+        ],
+        "telegram_groups": [
+            "zenlandapp"
+        ],
+        "emails": [
+            "info@zen.land"
+        ],
+        "p6": true
     }
 ]
