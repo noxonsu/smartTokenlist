@@ -60751,5 +60751,63 @@
         "holders": {
             "ETH": 73
         }
+    },
+    {
+        "contract_address": "0xf0780f43b86c13b3d0681b1cf6daeb1499e7f14d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0x40eda86b5c6b86704b823c7eca2b2b668fdff6db",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 197
+        }
+    },
+    {
+        "contract_address": "0x278db13f1c0c1db6f815c6f85e54d82eab3946e3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "beast-coin.io"
+        ],
+        "telegram_groups": [
+            "BEASTCOIN"
+        ],
+        "holders": {
+            "ETH": 553
+        }
+    },
+    {
+        "contract_address": "0xbfc66d8cce39e668fd5d3c10fd1b1eabb82c27b7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 282
+        }
+    },
+    {
+        "contract_address": "0x439286bb4ed2602c86104ad292e9134b88216139",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xed11c9bcf69fdd2eefd9fe751bfca32f171d53ae",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 77
+        }
+    },
+    {
+        "contract_address": "0xe5344aa226f7bd5dad0c0b31a6426049e7adaca1",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "TaylorSwift_ERC20"
+        ],
+        "holders": {
+            "ETH": 158
+        }
     }
 ]
