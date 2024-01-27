@@ -61133,7 +61133,9 @@
         "emails": [
             "hi@ice.io"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "success"
     },
     {
         "contract_address": "0x49e96dd39f7345b101273d090e070641cf032ce4",
@@ -61148,7 +61150,9 @@
         "holders": {
             "ETH": 26
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large235211"
     },
     {
         "contract_address": "0x536381a8628dbcc8c70ac9a30a7258442eab4c92",
@@ -61176,7 +61180,9 @@
         "holders": {
             "ETH": 85
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x5ea630e00d6ee438d3dea1556a110359acdc10a9",
