@@ -37493,8 +37493,8 @@
             "matmo.cc"
         ],
         "telegram_groups": [
-            "matmochain_I",
-            "MatmoChain"
+            "MatmoChain",
+            "matmochain_I"
         ],
         "holders": {
             "ETH": 11
@@ -38877,8 +38877,8 @@
             "matmo.cc"
         ],
         "telegram_groups": [
-            "matmochain_I",
-            "MatmoChain"
+            "MatmoChain",
+            "matmochain_I"
         ],
         "holders": {
             "ETH": 19
@@ -39647,8 +39647,8 @@
             "matmo.cc"
         ],
         "telegram_groups": [
-            "matmochain_I",
-            "MatmoChain"
+            "MatmoChain",
+            "matmochain_I"
         ],
         "holders": {
             "ETH": 28
@@ -39875,8 +39875,8 @@
             "matmo.cc"
         ],
         "telegram_groups": [
-            "matmochain_I",
-            "MatmoChain"
+            "MatmoChain",
+            "matmochain_I"
         ],
         "holders": {
             "ETH": 32
@@ -56832,8 +56832,8 @@
             "matmo.cc"
         ],
         "telegram_groups": [
-            "matmochain_I",
-            "MatmoChain"
+            "MatmoChain",
+            "matmochain_I"
         ],
         "holders": {
             "ETH": 20
@@ -57453,8 +57453,8 @@
             "matmo.cc"
         ],
         "telegram_groups": [
-            "matmochain_I",
-            "MatmoChain"
+            "MatmoChain",
+            "matmochain_I"
         ],
         "holders": {
             "ETH": 18
@@ -59269,8 +59269,8 @@
             "ice.io"
         ],
         "telegram_groups": [
-            "Snowman2ETH",
-            "iceblockchain"
+            "iceblockchain",
+            "Snowman2ETH"
         ],
         "holders": {
             "ETH": 161
@@ -59877,8 +59877,8 @@
             "matmo.cc"
         ],
         "telegram_groups": [
-            "matmochain_I",
-            "MatmoChain"
+            "MatmoChain",
+            "matmochain_I"
         ],
         "holders": {
             "ETH": 22
@@ -61123,11 +61123,17 @@
             "ice.io"
         ],
         "telegram_groups": [
-            "Frost_ICE_Eth"
+            "Frost_ICE_Eth",
+            "iceblockchain",
+            "Snowman2ETH"
         ],
         "holders": {
             "ETH": 119
-        }
+        },
+        "emails": [
+            "hi@ice.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x49e96dd39f7345b101273d090e070641cf032ce4",
@@ -61136,11 +61142,13 @@
             "matmo.cc"
         ],
         "telegram_groups": [
-            "MatmoChain"
+            "MatmoChain",
+            "matmochain_I"
         ],
         "holders": {
             "ETH": 26
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x536381a8628dbcc8c70ac9a30a7258442eab4c92",
@@ -61167,7 +61175,8 @@
         ],
         "holders": {
             "ETH": 85
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5ea630e00d6ee438d3dea1556a110359acdc10a9",
