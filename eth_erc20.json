@@ -61573,5 +61573,77 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x31c5dec1f10dc084b95c239734dea0adb9c97c9c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 23
+        }
+    },
+    {
+        "contract_address": "0x29dccb287175512156f46536ec492d18ea7be496",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 23
+        }
+    },
+    {
+        "contract_address": "0xbf1aa3a0e1294b3b996533f5d648dec2e59bad05",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 112
+        }
+    },
+    {
+        "contract_address": "0x08b339e27468e8bcf302cb277f2e77375b0c36e9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xdd1ad9a21ce722c151a836373babe42c868ce9a4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13703
+        }
+    },
+    {
+        "contract_address": "0x872f6e6cea84928ce6709bd01079d2e3b1fc1e08",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.diorcoin.vip"
+        ],
+        "telegram_groups": [
+            "DiorERC20"
+        ],
+        "holders": {
+            "ETH": 138
+        }
+    },
+    {
+        "contract_address": "0x11f2baaca4c99418a2e022a378063a3ff54ccc30",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "PondQueenNiki"
+        ],
+        "holders": {
+            "ETH": 64
+        }
+    },
+    {
+        "contract_address": "0xddc6625feca10438857dd8660c021cd1088806fb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1035
+        }
+    },
+    {
+        "contract_address": "0xe9b7b5d5e8d2bcc78884f9f9099bfa42a9e5c1a5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 63
+        }
     }
 ]
