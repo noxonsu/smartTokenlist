@@ -60951,7 +60951,11 @@
         ],
         "holders": {
             "ETH": 7
-        }
+        },
+        "telegram_groups": [
+            "PeapodsFinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1b5036bec1b82d44d52fa953a370b3c6cd9328b5",
@@ -60974,11 +60978,17 @@
         ],
         "telegram_groups": [
             "Nexyfi_Portal",
+            "nexyfi_bot",
+            "NexyFi_Bot",
             "Nexyfi_Bot"
         ],
         "holders": {
             "ETH": 121
-        }
+        },
+        "emails": [
+            "Contact@nexyfi.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x630d98424efe0ea27fb1b3ab7741907dffeaad78",
@@ -60999,7 +61009,8 @@
         ],
         "holders": {
             "ETH": 34
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x29bf686d63354c011f152c768bb2f0b7eefbb869",
@@ -61013,7 +61024,9 @@
         ],
         "holders": {
             "ETH": 11
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x135783b60cf5d71daff7a377f9eb7db8d2deab9e",
