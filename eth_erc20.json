@@ -61683,5 +61683,90 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0xd43755af23e7bb1fa9d52e94ba34d72f0424b5fb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0xe485e2f1bab389c08721b291f6b59780fec83fd7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 178
+        }
+    },
+    {
+        "contract_address": "0x6ed0d2bdcd8fa254bdcaa210fe1efe08fafb05a1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.optimuslend.com",
+            "app.optimuslend.com"
+        ],
+        "telegram_groups": [
+            "optimuslend"
+        ],
+        "holders": {
+            "ETH": 48
+        }
+    },
+    {
+        "contract_address": "0x3db10f547a0181f80c8eac3d2b6ff2324bc24581",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "vote-elonmusk.online"
+        ],
+        "telegram_groups": [
+            "VoteElonMusk"
+        ],
+        "holders": {
+            "ETH": 297
+        }
+    },
+    {
+        "contract_address": "0x4b1c7a9938b52b6e3e5a6cc2c9d1628abeccb96c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bonketh.vip"
+        ],
+        "telegram_groups": [
+            "bonkeeth"
+        ],
+        "holders": {
+            "ETH": 160
+        }
+    },
+    {
+        "contract_address": "0x30d5c8c89116c5bc30c1e2449bb5d7517ac1b9b1",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "miniSQUAWK"
+        ],
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0x445a6ac5537786f1ca35d8869269020bd66adc6a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x7313de31f70ffe9a7340ec458ce4a408126dd112",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0xaccfac2339e16dc80c50d2fa81b5c2b049b4f947",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19
+        }
     }
 ]
