@@ -61955,7 +61955,9 @@
         "emails": [
             "contact@wattton.org"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large6463"
     },
     {
         "contract_address": "0xbd3205a4db9ee8c4cecaf0900258b8da933967f5",
@@ -61972,7 +61974,9 @@
         "holders": {
             "ETH": 212
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x6cb7d80bdefef3f820a3a77ee56f06afcb20ea7e",
