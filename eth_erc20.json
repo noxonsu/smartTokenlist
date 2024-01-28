@@ -61929,7 +61929,9 @@
         },
         "web_domains": [
             "docs.befilabs.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe73d53e3a982ab2750a0b76f9012e18b256cc243",
@@ -61946,7 +61948,14 @@
         },
         "web_domains": [
             "www.wattton.org"
-        ]
+        ],
+        "telegram_groups": [
+            "Wattton"
+        ],
+        "emails": [
+            "contact@wattton.org"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbd3205a4db9ee8c4cecaf0900258b8da933967f5",
@@ -61957,12 +61966,13 @@
             "youtube.com"
         ],
         "telegram_groups": [
-            "XAI_Control",
-            "ChainFactory"
+            "ChainFactory",
+            "XAI_Control"
         ],
         "holders": {
             "ETH": 212
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6cb7d80bdefef3f820a3a77ee56f06afcb20ea7e",
