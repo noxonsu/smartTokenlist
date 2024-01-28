@@ -62272,12 +62272,19 @@
             "0xengage-bot.gitbook.io"
         ],
         "telegram_groups": [
+            "kabs_gang",
+            "zeroXengage_Bot",
+            "serchadeth",
             "zeroXengage",
-            "zeroXengage_Bot"
+            "jeffbezo7"
         ],
         "holders": {
             "ETH": 273
-        }
+        },
+        "emails": [
+            "admin@0xengage.tech"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2a770fad9f0cfb5b49f0eda4ffae259aeac60d0c",
@@ -62303,7 +62310,8 @@
         ],
         "holders": {
             "ETH": 167
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8da71bb2e4bcb69d6d6948b970d8600d4b2b877e",
@@ -62336,7 +62344,8 @@
         ],
         "holders": {
             "ETH": 113
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7f789f37254db2b3e23a375f06882f730f0b0ef1",
@@ -62366,7 +62375,11 @@
         ],
         "holders": {
             "ETH": 78
-        }
+        },
+        "emails": [
+            "Admin@HPTS10I.vip"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xda229d590d6bd916a92fcf7e192d779161653a41",
@@ -62379,7 +62392,8 @@
         ],
         "holders": {
             "ETH": 86
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0e90eee5f825a3eb76ad42e4e1cb7722f120fd07",
