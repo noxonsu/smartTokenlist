@@ -62010,7 +62010,8 @@
         ],
         "holders": {
             "ETH": 112
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x60d3d7ebbc44dc810a743703184f062d00e6db7e",
@@ -62044,7 +62045,8 @@
         ],
         "holders": {
             "ETH": 236
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8a70281233d434d199712ecfee38fe1c4180a386",
@@ -62078,7 +62080,9 @@
         },
         "web_domains": [
             "dydx.exchange"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x64477a471df81c3af718b5669d06dd97b38d033b",
