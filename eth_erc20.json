@@ -61375,8 +61375,8 @@
             "docs.barley.finance"
         ],
         "telegram_groups": [
-            "Barley_Finance",
-            "BarleyFinance"
+            "BarleyFinance",
+            "Barley_Finance"
         ],
         "holders": {
             "ETH": 204
@@ -62496,7 +62496,9 @@
         },
         "web_domains": [
             "gelotto.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x04c80bb477890f3021f03b068238836ee20aa0b8",
@@ -62508,14 +62510,13 @@
             "docs.barley.finance"
         ],
         "telegram_groups": [
-            "Barley_Finance",
             "BarleyFinance",
-            "Barley_Finance",
-            "BarleyFinance"
+            "Barley_Finance"
         ],
         "holders": {
             "ETH": 55
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xec60cd4a5866fb3b0dd317a46d3b474a24e06bef",
@@ -62556,7 +62557,8 @@
         ],
         "holders": {
             "ETH": 47
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xfafa094f6158c7db52bbd477ccabcd1a7ec3920b",
