@@ -62193,7 +62193,10 @@
         ],
         "holders": {
             "ETH": 156
-        }
+        },
+        "web_domains": [
+            "www.gamestop.com"
+        ]
     },
     {
         "contract_address": "0xb30240d48c05a4b950c470e2d6aefc9117a50624",
