@@ -62127,7 +62127,9 @@
         "emails": [
             "contact@gt-protocol.io"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large10785"
     },
     {
         "contract_address": "0x433117819df60cb943ec57fbc885c894c5602e1e",
@@ -62179,6 +62181,8 @@
         "telegram_groups": [
             "magikalnft"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large3466"
     }
 ]
