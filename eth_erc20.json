@@ -62094,5 +62094,64 @@
         "holders": {
             "ETH": 119
         }
+    },
+    {
+        "contract_address": "0x06fdbeec1420b42b8a4ef74a09548484ea87d650",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 954
+        }
+    },
+    {
+        "contract_address": "0x3ee36eb66ada7e4c839cac40c0a0bd0240ddbe88",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0x433117819df60cb943ec57fbc885c894c5602e1e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1058
+        }
+    },
+    {
+        "contract_address": "0xdeadface8503399df4b083ef42fa8e02fd39dead",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 371
+        }
+    },
+    {
+        "contract_address": "0x00a7ec2f2b451cb0233e8adbf4c9a951027c2b02",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 112
+        }
+    },
+    {
+        "contract_address": "0x58bfb949ab817470704625288b935e00e8c4f76d",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "patrikportal"
+        ],
+        "holders": {
+            "ETH": 348
+        }
+    },
+    {
+        "contract_address": "0x884f425bc82d8e96d90969b82cb47adfcba5da5f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 22
+        }
+    },
+    {
+        "contract_address": "0x6a26ee7755d939b96cdcd8a0370630d48902fd7c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 114
+        }
     }
 ]
