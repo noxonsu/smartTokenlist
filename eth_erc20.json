@@ -62184,5 +62184,43 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Chat is too large3466"
+    },
+    {
+        "contract_address": "0xd1427799cd1cfccfb9c4cb7828634d47db79cc43",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "GameStopEntry"
+        ],
+        "holders": {
+            "ETH": 156
+        }
+    },
+    {
+        "contract_address": "0xb30240d48c05a4b950c470e2d6aefc9117a50624",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 293
+        }
+    },
+    {
+        "contract_address": "0x9f83ed4fdf636e8b0562ac704267346712b44c36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 38
+        }
+    },
+    {
+        "contract_address": "0x8a053350ca5f9352a16ded26ab333e2d251dad7c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 112
+        }
+    },
+    {
+        "contract_address": "0x4743a7a193cdf202035e9bc6830a07f1607630c4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1435
+        }
     }
 ]
