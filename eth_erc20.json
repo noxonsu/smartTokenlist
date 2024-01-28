@@ -62107,7 +62107,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 18
-        }
+        },
+        "web_domains": [
+            "gt-protocol.io"
+        ]
     },
     {
         "contract_address": "0x433117819df60cb943ec57fbc885c894c5602e1e",
@@ -62152,6 +62155,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 114
-        }
+        },
+        "web_domains": [
+            "magikal.ai"
+        ]
     }
 ]
