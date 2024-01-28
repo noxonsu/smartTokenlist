@@ -62510,13 +62510,15 @@
             "docs.barley.finance"
         ],
         "telegram_groups": [
-            "BarleyFinance",
+            null,
             "Barley_Finance"
         ],
         "holders": {
             "ETH": 55
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: '<' not supported between instances of 'NoneType' and 'int'"
     },
     {
         "contract_address": "0xec60cd4a5866fb3b0dd317a46d3b474a24e06bef",
@@ -62558,7 +62560,9 @@
         "holders": {
             "ETH": 47
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xfafa094f6158c7db52bbd477ccabcd1a7ec3920b",
