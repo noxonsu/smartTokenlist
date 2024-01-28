@@ -62493,7 +62493,10 @@
         ],
         "holders": {
             "ETH": 3
-        }
+        },
+        "web_domains": [
+            "gelotto.io"
+        ]
     },
     {
         "contract_address": "0x04c80bb477890f3021f03b068238836ee20aa0b8",
