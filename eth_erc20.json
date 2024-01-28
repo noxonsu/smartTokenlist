@@ -62420,7 +62420,11 @@
         ],
         "holders": {
             "ETH": 66
-        }
+        },
+        "telegram_groups": [
+            "ValhallaVikingsToken"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5271045f7b73c17825a7a7aee6917ee46b0b7520",
