@@ -61814,7 +61814,8 @@
         ],
         "holders": {
             "ETH": 51
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4804fb55e75bd1c32ab06cd053c5510c1b80fd26",
@@ -61830,14 +61831,17 @@
         "contract_address": "0x1ef4d930097d30689b16945aa8286c62ce7f75df",
         "sourceScanned": "processed",
         "emails": [
-            "jake@jakegsy.com"
+            "jake@jakegsy.com",
+            " trader.square.contact@gmail.com"
         ],
         "holders": {
             "ETH": 40
         },
         "web_domains": [
             "tradersquare.xyz"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x5a9c11129b7b258b178540c518f595b3cd2d6e38",
@@ -61850,7 +61854,9 @@
         },
         "web_domains": [
             "www.preethevibes.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8e5297c8d0a83e881b80b5727210e6542731d407",
@@ -61863,7 +61869,8 @@
         ],
         "holders": {
             "ETH": 43
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x79f05c263055ba20ee0e814acd117c20caa10e0c",
