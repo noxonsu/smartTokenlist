@@ -61834,7 +61834,10 @@
         ],
         "holders": {
             "ETH": 40
-        }
+        },
+        "web_domains": [
+            "tradersquare.xyz"
+        ]
     },
     {
         "contract_address": "0x5a9c11129b7b258b178540c518f595b3cd2d6e38",
@@ -61844,7 +61847,10 @@
         ],
         "holders": {
             "ETH": 4
-        }
+        },
+        "web_domains": [
+            "www.preethevibes.com"
+        ]
     },
     {
         "contract_address": "0x8e5297c8d0a83e881b80b5727210e6542731d407",
