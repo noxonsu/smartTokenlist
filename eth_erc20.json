@@ -62110,7 +62110,24 @@
         },
         "web_domains": [
             "gt-protocol.io"
-        ]
+        ],
+        "telegram_groups": [
+            "gtpturkey",
+            "GTAI_Traders_Chat",
+            "GTAI_Token_Launch_Bot",
+            "gtprotocol_gtai_bot",
+            "GTProtocolPR",
+            "gtprotocol_ai_bot",
+            "GTProtocolNews",
+            "GTProtocol_founder",
+            "GTProtocolCN",
+            "GTProtocolKR",
+            "GTProtocolCIS"
+        ],
+        "emails": [
+            "contact@gt-protocol.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x433117819df60cb943ec57fbc885c894c5602e1e",
@@ -62158,6 +62175,10 @@
         },
         "web_domains": [
             "magikal.ai"
-        ]
+        ],
+        "telegram_groups": [
+            "magikalnft"
+        ],
+        "p6": true
     }
 ]
