@@ -62075,7 +62075,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 5
-        }
+        },
+        "web_domains": [
+            "dydx.exchange"
+        ]
     },
     {
         "contract_address": "0x64477a471df81c3af718b5669d06dd97b38d033b",
