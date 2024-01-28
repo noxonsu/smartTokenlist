@@ -61920,5 +61920,56 @@
         "holders": {
             "ETH": 1
         }
+    },
+    {
+        "contract_address": "0x0a821192c3ca92717f23cda47ec093e30248074c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 111
+        }
+    },
+    {
+        "contract_address": "0xe73d53e3a982ab2750a0b76f9012e18b256cc243",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 250
+        }
+    },
+    {
+        "contract_address": "0xe67f943af5eb6051ef56f05979cc30b732717fa6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 178
+        }
+    },
+    {
+        "contract_address": "0xbd3205a4db9ee8c4cecaf0900258b8da933967f5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.aicontrol.technology",
+            "chainfactory.app",
+            "youtube.com"
+        ],
+        "telegram_groups": [
+            "XAI_Control",
+            "ChainFactory"
+        ],
+        "holders": {
+            "ETH": 212
+        }
+    },
+    {
+        "contract_address": "0x6cb7d80bdefef3f820a3a77ee56f06afcb20ea7e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 450
+        }
+    },
+    {
+        "contract_address": "0x9d3618e9bc0c3cb60ef762b1bb2c6bb56beeb803",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
     }
 ]
