@@ -62470,5 +62470,103 @@
         "holders": {
             "ETH": 61
         }
+    },
+    {
+        "contract_address": "0x6b19ac468fe8cd120f5b45552f172bfc61ef2dbb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 17
+        }
+    },
+    {
+        "contract_address": "0x02ce6f9a70467ca912dde9426fb0dc5705e631e1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xa4426666addbe8c4985377d36683d17fb40c31be",
+        "sourceScanned": "processed",
+        "emails": [
+            "admin@gelotto.io"
+        ],
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x04c80bb477890f3021f03b068238836ee20aa0b8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "barley.finance",
+            "docs.barley.finance",
+            "barley.finance",
+            "docs.barley.finance"
+        ],
+        "telegram_groups": [
+            "Barley_Finance",
+            "BarleyFinance",
+            "Barley_Finance",
+            "BarleyFinance"
+        ],
+        "holders": {
+            "ETH": 55
+        }
+    },
+    {
+        "contract_address": "0xec60cd4a5866fb3b0dd317a46d3b474a24e06bef",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 136
+        }
+    },
+    {
+        "contract_address": "0x7102dc82ef61bfb0410b1b1bf8ea74575bf0a105",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 74
+        }
+    },
+    {
+        "contract_address": "0xcecf54edc42c5c9f6ee10cb1efcc23e49f7d5a5d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x7103ebdbf1f89be2d53eff9b3cf996c9e775c105",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 92
+        }
+    },
+    {
+        "contract_address": "0x5b9b9a5ea12538bd47af125286622b90fa407a3f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.lyvefinance.org"
+        ],
+        "telegram_groups": [
+            "lyvefi_erc"
+        ],
+        "holders": {
+            "ETH": 47
+        }
+    },
+    {
+        "contract_address": "0xfafa094f6158c7db52bbd477ccabcd1a7ec3920b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 48
+        }
+    },
+    {
+        "contract_address": "0xb89d3c3b1659b0b547a913012e148385b02e1af0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 47
+        }
     }
 ]
