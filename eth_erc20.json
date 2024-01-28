@@ -62411,5 +62411,57 @@
         "holders": {
             "ETH": 1
         }
+    },
+    {
+        "contract_address": "0x6cfe910c6c86fa1c47623652b40f2fd0afec24c1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "valhalla.meme"
+        ],
+        "holders": {
+            "ETH": 66
+        }
+    },
+    {
+        "contract_address": "0x5271045f7b73c17825a7a7aee6917ee46b0b7520",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0x06f691180f643b35e3644a2296a4097e1f577d0d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0xd8f1b275c320819c7d752ef79988d0780bf00446",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x81b0dcda53482a2ea9eb496342dc787643323e95",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x54b6caa6b5a6cf780a429c85f41832b6849b40d9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 118
+        }
+    },
+    {
+        "contract_address": "0x3a781a44582d507c44f8dd7cac44a1b0fde06c6c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 61
+        }
     }
 ]
