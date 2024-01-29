@@ -62798,7 +62798,9 @@
         },
         "web_domains": [
             "xwg.games"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8f945cfc76fd781afea987d5abe870893daae1eb",
