@@ -63070,7 +63070,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 21
-        }
+        },
+        "web_domains": [
+            "app.ordiswap.fi"
+        ]
     },
     {
         "contract_address": "0x1083f20b744dc76fc1f8634a15da9df4534cc04a",
