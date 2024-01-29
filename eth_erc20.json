@@ -63063,7 +63063,8 @@
         ],
         "holders": {
             "ETH": 344
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc98283671ac324682125f30f56b216d7720c5c31",
@@ -63073,7 +63074,9 @@
         },
         "web_domains": [
             "app.ordiswap.fi"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x1083f20b744dc76fc1f8634a15da9df4534cc04a",
@@ -63093,7 +63096,8 @@
         ],
         "holders": {
             "ETH": 142
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf9711922bfd7e66bf6635d32d15c8e04c4ad2ff8",
@@ -63122,11 +63126,16 @@
             "multimodalai.medium.com"
         ],
         "telegram_groups": [
+            "AImultimodal",
             "aimultimodal"
         ],
         "holders": {
             "ETH": 194
-        }
+        },
+        "emails": [
+            "contact@aimultimodal.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x24f6acf9a073125b7531817434157fdf65621448",
@@ -63149,7 +63158,8 @@
         ],
         "holders": {
             "ETH": 31
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2ad744e6738c4d0ce51538a9c5e827d7066f47db",
@@ -63165,7 +63175,8 @@
         ],
         "holders": {
             "ETH": 76
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x33d6064f0dfb62462a74049f30909ddd4f683ba2",
