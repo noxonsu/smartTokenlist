@@ -62779,5 +62779,60 @@
         "holders": {
             "ETH": 128
         }
+    },
+    {
+        "contract_address": "0x7c6eea0d62b54e9aeef5d7dff38df5ae7383347e",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "RangERC20"
+        ],
+        "holders": {
+            "ETH": 151
+        }
+    },
+    {
+        "contract_address": "0x0a77ef9bf662d62fbf9ba4cf861eaa83f9cc4fec",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 140
+        }
+    },
+    {
+        "contract_address": "0x8f945cfc76fd781afea987d5abe870893daae1eb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1819
+        }
+    },
+    {
+        "contract_address": "0xe46a5e19b19711332e33f33c2db3ea143e86bc10",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 125
+        }
+    },
+    {
+        "contract_address": "0xdfffd8415b947aa51ee15c397da314193ee2d50d",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "CyberbeastERC"
+        ],
+        "holders": {
+            "ETH": 176
+        }
+    },
+    {
+        "contract_address": "0x954fa0e0cbbe2ea351e0e2f5b3e5766c808cb2fa",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0xee09a750d22f98360dbc7c1befff150ba6186fb2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
     }
 ]
