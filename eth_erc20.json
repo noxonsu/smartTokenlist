@@ -63281,7 +63281,9 @@
         "emails": [
             "mblock@multiblock.tech"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: The chat_id \"Mblocksupportbot\" belongs to a user"
     },
     {
         "contract_address": "0xd2d8d78087d0e43bc4804b6f946674b2ee406b80",
