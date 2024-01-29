@@ -62855,7 +62855,9 @@
         "emails": [
             "hi@donkmemecoin.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x4c612e3b15b96ff9a6faed838f8d07d479a8dd4c",
@@ -62916,7 +62918,9 @@
         "holders": {
             "ETH": 55
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xbc91a632e78db7c74508ea26e91b266aa235f051",
@@ -62937,6 +62941,8 @@
         "holders": {
             "ETH": 61
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     }
 ]
