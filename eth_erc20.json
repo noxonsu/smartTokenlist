@@ -62944,5 +62944,97 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0xb0ed33f79d89541dfdcb04a8f04bc2c6be025ecc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1105
+        }
+    },
+    {
+        "contract_address": "0x0913f8b54233cce49612ef2c9559c5f032c6f032",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "bigbulletinboarderc"
+        ],
+        "holders": {
+            "ETH": 324
+        }
+    },
+    {
+        "contract_address": "0x8c688327c9371bb3bd69f6e1f1a6d8c9ca0880a7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dadatoken.one"
+        ],
+        "telegram_groups": [
+            "DADACoinETH"
+        ],
+        "holders": {
+            "ETH": 146
+        }
+    },
+    {
+        "contract_address": "0xcae3661a4a6ae63c8c8b0b43e79bd5d9c1e991b7",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "BBBENTRY"
+        ],
+        "holders": {
+            "ETH": 105
+        }
+    },
+    {
+        "contract_address": "0xf994cb77f2bdb632384195afc016e6f2fac53e57",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dotkr.kr"
+        ],
+        "holders": {
+            "ETH": 196
+        }
+    },
+    {
+        "contract_address": "0xd3f38425194990cdeacc82c6b15a463cd1351939",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 65
+        }
+    },
+    {
+        "contract_address": "0x8a370c951f34e295b2655b47bb0985dd08d8f718",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 697
+        }
+    },
+    {
+        "contract_address": "0xfaacb949f3b443b019ecc4ed936ff2d4e12ea7f8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "amencoin.io",
+            "amencoin.io"
+        ],
+        "telegram_groups": [
+            "amen_coin"
+        ],
+        "holders": {
+            "ETH": 45
+        }
+    },
+    {
+        "contract_address": "0x32bd822d615a3658a68b6fdd30c2fcb2c996d678",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 236
+        }
+    },
+    {
+        "contract_address": "0x4df1c47ecfbac8482a4811d373128e2acc007d02",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
     }
 ]
