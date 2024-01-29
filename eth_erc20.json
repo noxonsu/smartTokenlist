@@ -62673,5 +62673,104 @@
         "holders": {
             "ETH": 65
         }
+    },
+    {
+        "contract_address": "0xa946fb6b6b860c68df3c293f1e2c3881b243e08c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 504
+        }
+    },
+    {
+        "contract_address": "0xddc4aa26b647d0de232db2a2e9f777706029f26d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "matmo.cc"
+        ],
+        "telegram_groups": [
+            "MatmoChain"
+        ],
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0xba75c98e0b4e9d4e91bed85d98257cbdd0f73118",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@silo.finance",
+            "security@silo.finance"
+        ],
+        "holders": {
+            "ETH": 17
+        }
+    },
+    {
+        "contract_address": "0x589891a198195061cb8ad1a75357a3b7dbadd7bc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3892
+        }
+    },
+    {
+        "contract_address": "0xfb298521359f8239c2941f93bd2d40ecfe6a2dc5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "deta.io"
+        ],
+        "telegram_groups": [
+            "detafinance"
+        ],
+        "holders": {
+            "ETH": 356
+        }
+    },
+    {
+        "contract_address": "0x5807226c8be7af3a27326a8a27ce17ccf28c1386",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10
+        }
+    },
+    {
+        "contract_address": "0x773d6e3e85ed29d2c40c42f7cbc8ad3d4ddbeef0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "shiryoinu.com"
+        ],
+        "holders": {
+            "ETH": 1644
+        }
+    },
+    {
+        "contract_address": "0x310a6a77c687affb229e59a3ed5ad1c22e065dab",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "colonerc"
+        ],
+        "holders": {
+            "ETH": 115
+        }
+    },
+    {
+        "contract_address": "0x321f6c7645e2d0de0e360e0e7121bad6c1c490e3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xd9cb3df14f09ef875ccfb0e9bd3737a24570048c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 645
+        }
+    },
+    {
+        "contract_address": "0xc6751e17a78b1910a1418f372c2bb699eaf5ba0a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 128
+        }
     }
 ]
