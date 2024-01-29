@@ -62839,5 +62839,96 @@
         "holders": {
             "ETH": 0
         }
+    },
+    {
+        "contract_address": "0xbbcf56ecdec9fe868d2bc3b51817a43143b91a46",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.donkmemecoin.com"
+        ],
+        "telegram_groups": [
+            "DonkMemeCoin"
+        ],
+        "holders": {
+            "ETH": 168
+        }
+    },
+    {
+        "contract_address": "0x4c612e3b15b96ff9a6faed838f8d07d479a8dd4c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 61
+        }
+    },
+    {
+        "contract_address": "0x18ba6e33ceb80f077deb9260c9111e62f21ae7b8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 501
+        }
+    },
+    {
+        "contract_address": "0x7476d814657017cebea2a368497d955f3b3aa170",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.GaryCashToken.io"
+        ],
+        "holders": {
+            "ETH": 255
+        }
+    },
+    {
+        "contract_address": "0x43100b1bdb81fc9431dea4fbf4e1df585cc682a2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x7ac7823f336aa7c6bd2d4802d5b3b7257ee55178",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xbfb8322d537e34c02256cf0a1fc088cf9294e29c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0x7ebfc455674f412c4275c7abc9dc224b227643c8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "infinity3d.cloud"
+        ],
+        "telegram_groups": [
+            "infinity3dcloud"
+        ],
+        "holders": {
+            "ETH": 55
+        }
+    },
+    {
+        "contract_address": "0xbc91a632e78db7c74508ea26e91b266aa235f051",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 174
+        }
+    },
+    {
+        "contract_address": "0xa1dcccaf95eea61962790d232d159c2d035883ef",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dumplingtv.lol"
+        ],
+        "telegram_groups": [
+            "dtv_erc"
+        ],
+        "holders": {
+            "ETH": 61
+        }
     }
 ]
