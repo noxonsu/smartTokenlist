@@ -62795,7 +62795,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 140
-        }
+        },
+        "web_domains": [
+            "xwg.games"
+        ]
     },
     {
         "contract_address": "0x8f945cfc76fd781afea987d5abe870893daae1eb",
