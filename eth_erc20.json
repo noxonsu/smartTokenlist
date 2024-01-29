@@ -62851,7 +62851,11 @@
         ],
         "holders": {
             "ETH": 168
-        }
+        },
+        "emails": [
+            "hi@donkmemecoin.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4c612e3b15b96ff9a6faed838f8d07d479a8dd4c",
@@ -62875,7 +62879,9 @@
         ],
         "holders": {
             "ETH": 255
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x43100b1bdb81fc9431dea4fbf4e1df585cc682a2",
@@ -62909,7 +62915,8 @@
         ],
         "holders": {
             "ETH": 55
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xbc91a632e78db7c74508ea26e91b266aa235f051",
@@ -62929,6 +62936,7 @@
         ],
         "holders": {
             "ETH": 61
-        }
+        },
+        "p6": true
     }
 ]
