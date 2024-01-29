@@ -63221,5 +63221,64 @@
         "holders": {
             "ETH": 80
         }
+    },
+    {
+        "contract_address": "0xe6602b34d8510b033e000975b3322537c7172441",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12352
+        }
+    },
+    {
+        "contract_address": "0xfae103dc9cf190ed75350761e95403b7b8afa6c0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 168
+        }
+    },
+    {
+        "contract_address": "0xb7037457de15fed6cbecc0c62d5d610834b958ec",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 540
+        }
+    },
+    {
+        "contract_address": "0x21268848944179e87dc8dc4253f9347564e9f96f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 242
+        }
+    },
+    {
+        "contract_address": "0x0111fad64ceae6dd0eadc6e7c71615ae97cac8f4",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "greencandalseth"
+        ],
+        "holders": {
+            "ETH": 50
+        }
+    },
+    {
+        "contract_address": "0xaccf1ca46b51784f01936711f3b19ef401a01362",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 193
+        }
+    },
+    {
+        "contract_address": "0xd2d8d78087d0e43bc4804b6f946674b2ee406b80",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7635
+        }
+    },
+    {
+        "contract_address": "0xcc40ffd2512101c049a62ece218aa2b5aa6d2560",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
     }
 ]
