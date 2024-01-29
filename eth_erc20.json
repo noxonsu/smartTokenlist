@@ -63234,7 +63234,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 168
-        }
+        },
+        "web_domains": [
+            "www.swellnetwork.io"
+        ]
     },
     {
         "contract_address": "0xb7037457de15fed6cbecc0c62d5d610834b958ec",
@@ -63265,7 +63268,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 193
-        }
+        },
+        "web_domains": [
+            "multiblock.tech"
+        ]
     },
     {
         "contract_address": "0xd2d8d78087d0e43bc4804b6f946674b2ee406b80",
