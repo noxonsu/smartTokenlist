@@ -63237,7 +63237,9 @@
         },
         "web_domains": [
             "www.swellnetwork.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb7037457de15fed6cbecc0c62d5d610834b958ec",
@@ -63271,7 +63273,15 @@
         },
         "web_domains": [
             "multiblock.tech"
-        ]
+        ],
+        "telegram_groups": [
+            "Mblocksupportbot",
+            "MultiBlockPortal"
+        ],
+        "emails": [
+            "mblock@multiblock.tech"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd2d8d78087d0e43bc4804b6f946674b2ee406b80",
