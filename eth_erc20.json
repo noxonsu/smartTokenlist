@@ -62635,5 +62635,43 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Chat is too large1974"
+    },
+    {
+        "contract_address": "0x6efc73e54e41b27d2134ff9f98f15550f30df9b1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0x2cbe14b7f60fbe6a323cba7db56f2d916c137f3c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 73
+        }
+    },
+    {
+        "contract_address": "0xe2ed1dac3a9547bc6057e32bf8133b5268d7d987",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x6b5e07063b3cd19bef0d9e9f66d22db5d517f52a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 96
+        }
+    },
+    {
+        "contract_address": "0xc1a509d381b7310d2272935a9eda639518c3bde0",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "GreenDogeOfficialPortal"
+        ],
+        "holders": {
+            "ETH": 65
+        }
     }
 ]
