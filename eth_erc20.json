@@ -57169,9 +57169,9 @@
             "shibasatire.live"
         ],
         "telegram_groups": [
+            "ShibaSatire",
             "RESIMPERC20",
             "ShibaSatireCommunity",
-            "ShibaSatire",
             "CHARIZZMA_erc20",
             "walter_erc20"
         ],
@@ -63813,7 +63813,8 @@
         },
         "web_domains": [
             "wxnetwork.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xebbe26ae8bfd93fb0584a5a45ccc6226a9e2fbdf",
@@ -63864,11 +63865,19 @@
             "shibasatire.live"
         ],
         "telegram_groups": [
-            "ShibaSatireCommunity"
+            "ShibaSatireCommunity",
+            "walter_erc20",
+            "ShibaSatire",
+            "RESIMPERC20",
+            "CHARIZZMA_erc20"
         ],
         "holders": {
             "ETH": 3
-        }
+        },
+        "emails": [
+            "contact@pepev2.lol"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa0f81871ed7a5312c6109d9ae6c2a5fd710a5e54",
@@ -63928,17 +63937,11 @@
             "otsea.io"
         ],
         "telegram_groups": [
-            "OTSeaPortal",
-            "OTSeaPortal",
-            "OTSeaPortal",
-            "OTSeaPortal",
-            "OTSeaPortal",
-            "OTSeaPortal",
-            "OTSeaPortal",
             "OTSeaPortal"
         ],
         "holders": {
             "ETH": 229
-        }
+        },
+        "p6": true
     }
 ]
