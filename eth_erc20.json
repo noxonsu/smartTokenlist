@@ -64073,7 +64073,9 @@
         "emails": [
             "team@jarviserc.ai"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: The chat_id \"osnovoco\" belongs to a user"
     },
     {
         "contract_address": "0x344520f056095e33e179db7ce93a7783103361b6",
@@ -64115,7 +64117,9 @@
         "holders": {
             "ETH": 51
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x134a149903f440a8f872b69e2cb057446a2a17a7",
