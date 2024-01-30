@@ -63981,7 +63981,14 @@
         },
         "web_domains": [
             "watchvestor.com"
-        ]
+        ],
+        "telegram_groups": [
+            "WatchvestorOfficial"
+        ],
+        "emails": [
+            "General: info@watchvestor.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7a1b2244a98fa02f85a7d6e036d82bbacacce8d8",
