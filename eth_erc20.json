@@ -64141,5 +64141,131 @@
         "holders": {
             "ETH": 725
         }
+    },
+    {
+        "contract_address": "0x4348a5b8a620e1f11314c6d61402d61b4bd58f5d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x22437f04ad39c55bf3c92b31bdb370a582e765b9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.beoblechat.com",
+            "app.beoblechat.com"
+        ],
+        "telegram_groups": [
+            "beoble_erc"
+        ],
+        "holders": {
+            "ETH": 51
+        }
+    },
+    {
+        "contract_address": "0xb4d99fbc2904c59f021a95b35b42c85046f5aeaf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 50
+        }
+    },
+    {
+        "contract_address": "0xae56561803a7a59d0b05f3091ab23f15bf438035",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "applevisionproerc"
+        ],
+        "holders": {
+            "ETH": 86
+        }
+    },
+    {
+        "contract_address": "0x26607ac599266b21d13c7acf7942c7701a8b699c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "powerpool.finance"
+        ],
+        "holders": {
+            "ETH": 743
+        }
+    },
+    {
+        "contract_address": "0xb5ca2be1fbfb74dad6e178df1ee1b076b07817e2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x9af8714a55916326c451b3250e7c6854890cf8b6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bitbattle.tech"
+        ],
+        "telegram_groups": [
+            "bitbattle_portal"
+        ],
+        "holders": {
+            "ETH": 255
+        }
+    },
+    {
+        "contract_address": "0x1253e74dca584b9958c1890daedb849eefce4c32",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 62
+        }
+    },
+    {
+        "contract_address": "0xdb0b2d8e45c0259bd7badafecdc399f812f4955b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x56e0b2c7694e6e10391e870774daa45cf6583486",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 413
+        }
+    },
+    {
+        "contract_address": "0x404e1f90e27bb9ccfeebc58f1fe6a26bced6a950",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "XiaoxingyunERC20"
+        ],
+        "holders": {
+            "ETH": 66
+        }
+    },
+    {
+        "contract_address": "0x5cad41154ad9e0a45c3c75bd1853e73452424fb2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wojakfork.com"
+        ],
+        "telegram_groups": [
+            "wojakfork"
+        ],
+        "holders": {
+            "ETH": 214
+        }
+    },
+    {
+        "contract_address": "0x654590f810f01b51dc7b86915d4632977e49ea33",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3622
+        }
+    },
+    {
+        "contract_address": "0x435c84c702bb24e5bdd3b1d9df736cf80d856243",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
