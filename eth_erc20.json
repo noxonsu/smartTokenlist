@@ -63814,7 +63814,9 @@
         "web_domains": [
             "wxnetwork.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xebbe26ae8bfd93fb0584a5a45ccc6226a9e2fbdf",
@@ -63877,7 +63879,9 @@
         "emails": [
             "contact@pepev2.lol"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't find chat"
     },
     {
         "contract_address": "0xa0f81871ed7a5312c6109d9ae6c2a5fd710a5e54",
@@ -63942,6 +63946,8 @@
         "holders": {
             "ETH": 229
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large1966"
     }
 ]
