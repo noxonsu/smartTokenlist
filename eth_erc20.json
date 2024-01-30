@@ -63493,5 +63493,120 @@
         },
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xbecaef53f18ec2d8668670383e2eee75f9d2367e",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "TelepathyETHportal"
+        ],
+        "holders": {
+            "ETH": 776
+        }
+    },
+    {
+        "contract_address": "0xc0494844270f74702b1fac435efb9d10cf53e8cb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 186
+        }
+    },
+    {
+        "contract_address": "0xf094564a44922ee0d883e8cc882a3d4e7a221691",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x8db253a1943dddf1af9bcf8706ac9a0ce939d922",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 644
+        }
+    },
+    {
+        "contract_address": "0x41fa1a356ede24a1d47e1f60bc94c4aa11316948",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "anonymous.wf"
+        ],
+        "telegram_groups": [
+            "projectanon256"
+        ],
+        "holders": {
+            "ETH": 34
+        }
+    },
+    {
+        "contract_address": "0x16c6cff366c415a6044f12f5caa46bb59a0f61bc",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "makeamericagreatagain.pro"
+        ],
+        "telegram_groups": [
+            "MACAAA_portal"
+        ],
+        "holders": {
+            "ETH": 178
+        }
+    },
+    {
+        "contract_address": "0x7b731a3ff18bf1c9d0edc0d7bd4cd46423ec900d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 108
+        }
+    },
+    {
+        "contract_address": "0xc6b42b2a7c7b0c5fa8c2c27e619defa8646735ca",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0x280df82db83abb0a4c734bb02afc7985a1c8eaf2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 298
+        }
+    },
+    {
+        "contract_address": "0x0bee7f54cb968edddad325c47740a845e4aa1cc2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x031f06ba3f5a489253bbd414f07f3100105e9798",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "liveanalysis.info"
+        ],
+        "telegram_groups": [
+            "LiveAnalysis_PORTAL"
+        ],
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0x29ed0735b67ce82284ce9231ab2aa57dd7359578",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 63
+        }
+    },
+    {
+        "contract_address": "0xbb2935e7691c3c0fbac1ed85030cee284464eca1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "peapods.finance"
+        ],
+        "holders": {
+            "ETH": 51
+        }
     }
 ]
