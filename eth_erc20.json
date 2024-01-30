@@ -64053,5 +64053,80 @@
         "holders": {
             "ETH": 17
         }
+    },
+    {
+        "contract_address": "0x7921028163e65c650931294dda0a401e6a264f24",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "jarviserc.ai"
+        ],
+        "telegram_groups": [
+            "jarvisERC"
+        ],
+        "holders": {
+            "ETH": 45
+        }
+    },
+    {
+        "contract_address": "0x344520f056095e33e179db7ce93a7783103361b6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0xaff006725deeaf5bf6750a6c7c98d9e70cb189a4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xb7d47f1993d662503aa95a4f66c90d116be242c8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 70
+        }
+    },
+    {
+        "contract_address": "0x3419875b4d3bca7f3fdda2db7a476a79fd31b4fe",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 35
+        }
+    },
+    {
+        "contract_address": "0x953132e155ac0046c0d7a5b05e47b986822bc46f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "meowfork.vip"
+        ],
+        "telegram_groups": [
+            "meowforkerc"
+        ],
+        "holders": {
+            "ETH": 51
+        }
+    },
+    {
+        "contract_address": "0x134a149903f440a8f872b69e2cb057446a2a17a7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xe984d2b8bf40fb17d2327df81d48a7f3694cb046",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x02d7a93829b365b7ad4c582dace1493aac50a290",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 725
+        }
     }
 ]
