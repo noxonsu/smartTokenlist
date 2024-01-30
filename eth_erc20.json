@@ -63777,5 +63777,165 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Chat is too large2047"
+    },
+    {
+        "contract_address": "0x3a4ebb74e696f87c72dada9648113371cb0b8412",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0xb9f599ce614feb2e1bbe58f180f370d05b39344e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4116
+        }
+    },
+    {
+        "contract_address": "0x8cadacd9660b6c170a45056fc80da1744a511653",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "pepeforktwoportal"
+        ],
+        "holders": {
+            "ETH": 175
+        }
+    },
+    {
+        "contract_address": "0x3c02dd3205c6bcb02c8314fde3b93bf0b74a81e9",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "wxnethcoins"
+        ],
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xebbe26ae8bfd93fb0584a5a45ccc6226a9e2fbdf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 51
+        }
+    },
+    {
+        "contract_address": "0x3c6dbbadc310a55c7a16f624c0e08c1f6e65dad0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 336
+        }
+    },
+    {
+        "contract_address": "0x9257cf49802e00048a30a6429e9c4d86210f4253",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x8774e3dd39f8db365185f593cf9cc4ba9d1676a4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x7cd905a4727e5f0df155980d6f5b231fac070bf1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 461
+        }
+    },
+    {
+        "contract_address": "0x59ce6c1bc7f44d44fe332d88b488bd33a3acce18",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xa2df5418e48902a96bc72a0fe4ac94f04ee27f3b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "shibasatire.live"
+        ],
+        "telegram_groups": [
+            "ShibaSatireCommunity"
+        ],
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0xa0f81871ed7a5312c6109d9ae6c2a5fd710a5e54",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Wally_Erc"
+        ],
+        "holders": {
+            "ETH": 310
+        }
+    },
+    {
+        "contract_address": "0x790bc7355810bed4111fe02fb1c20f70b3b85830",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 21
+        }
+    },
+    {
+        "contract_address": "0xd52bea0b5b8efddafd9125cb73fe59034ae5ec49",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x0eef64c9c064f97a1feee3d0c529c517fe1b029b",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Pauly_Coin"
+        ],
+        "holders": {
+            "ETH": 425
+        }
+    },
+    {
+        "contract_address": "0x20d91d3f486ba01de6247978df8f7beeb83b7302",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Dork_Erc"
+        ],
+        "holders": {
+            "ETH": 133
+        }
+    },
+    {
+        "contract_address": "0x5da151b95657e788076d04d56234bd93e409cb09",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "otsea.io",
+            "otsea.io",
+            "otsea.io",
+            "otsea.io",
+            "otsea.io",
+            "otsea.io",
+            "otsea.io",
+            "otsea.io"
+        ],
+        "telegram_groups": [
+            "OTSeaPortal",
+            "OTSeaPortal",
+            "OTSeaPortal",
+            "OTSeaPortal",
+            "OTSeaPortal",
+            "OTSeaPortal",
+            "OTSeaPortal",
+            "OTSeaPortal"
+        ],
+        "holders": {
+            "ETH": 229
+        }
     }
 ]
