@@ -47817,10 +47817,10 @@
             "jarviserc.ai"
         ],
         "telegram_groups": [
-            "jarviserc_bot",
             "osnovoco",
-            "jarvisERC",
             "jarviserc",
+            "jarvisERC",
+            "jarviserc_bot",
             "JarvisSupportGroup"
         ],
         "holders": {
@@ -64061,11 +64061,19 @@
             "jarviserc.ai"
         ],
         "telegram_groups": [
-            "jarvisERC"
+            "osnovoco",
+            "jarvisERC",
+            "jarviserc_bot",
+            "jarviserc",
+            "JarvisSupportGroup"
         ],
         "holders": {
             "ETH": 45
-        }
+        },
+        "emails": [
+            "team@jarviserc.ai"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x344520f056095e33e179db7ce93a7783103361b6",
@@ -64106,7 +64114,8 @@
         ],
         "holders": {
             "ETH": 51
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x134a149903f440a8f872b69e2cb057446a2a17a7",
