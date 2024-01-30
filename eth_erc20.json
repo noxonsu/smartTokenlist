@@ -64161,7 +64161,8 @@
         ],
         "holders": {
             "ETH": 51
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb4d99fbc2904c59f021a95b35b42c85046f5aeaf",
@@ -64198,7 +64199,9 @@
         },
         "web_domains": [
             "coolcats.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9af8714a55916326c451b3250e7c6854890cf8b6",
@@ -64207,11 +64210,16 @@
             "bitbattle.tech"
         ],
         "telegram_groups": [
-            "bitbattle_portal"
+            "bitbattle_portal",
+            "bitbattle_bot"
         ],
         "holders": {
             "ETH": 255
-        }
+        },
+        "emails": [
+            "BitBattle \u00a9 2023. suppot@bitbattle.tech"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1253e74dca584b9958c1890daedb849eefce4c32",
@@ -64255,7 +64263,11 @@
         ],
         "holders": {
             "ETH": 214
-        }
+        },
+        "emails": [
+            "support@wojakfork.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x654590f810f01b51dc7b86915d4632977e49ea33",
