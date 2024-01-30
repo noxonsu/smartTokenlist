@@ -63640,7 +63640,9 @@
         "emails": [
             "contact@mail.dmail.ai"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large43732"
     },
     {
         "contract_address": "0x5ea22ad5a8520bf631c5d9cd686e86b892621276",
@@ -63671,7 +63673,9 @@
         "holders": {
             "ETH": 182
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x131e413bffbf0719e9ed75c5f1db7f55b1629468",
@@ -63770,6 +63774,8 @@
         "telegram_groups": [
             "PeapodsFinance"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large2047"
     }
 ]
