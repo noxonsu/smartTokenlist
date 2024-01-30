@@ -64195,7 +64195,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "coolcats.com"
+        ]
     },
     {
         "contract_address": "0x9af8714a55916326c451b3250e7c6854890cf8b6",
