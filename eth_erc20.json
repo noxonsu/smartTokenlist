@@ -63477,10 +63477,13 @@
             "www.desmos.com"
         ],
         "emails": [
+            "feedback@desmos.com",
             "mikhail.vladimirov@gmail.com"
         ],
         "holders": {
             "ETH": 289
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     }
 ]
