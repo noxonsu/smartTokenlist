@@ -63623,5 +63623,142 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Chat is too large2036"
+    },
+    {
+        "contract_address": "0xa2c17948d5b2efed70b1da1b934c1ad6317f4890",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dmail.ai",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "dmailofficial"
+        ],
+        "holders": {
+            "ETH": 22
+        }
+    },
+    {
+        "contract_address": "0x5ea22ad5a8520bf631c5d9cd686e86b892621276",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Blindsight_ERC20"
+        ],
+        "holders": {
+            "ETH": 108
+        }
+    },
+    {
+        "contract_address": "0x73c9275c3a2dd84b5741fd59aebf102c91eb033f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 266
+        }
+    },
+    {
+        "contract_address": "0x81de6d37439afb8c5c0a6d6e39e764c89e81d6b5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blindsight.info"
+        ],
+        "telegram_groups": [
+            "blindsighterc20"
+        ],
+        "holders": {
+            "ETH": 182
+        }
+    },
+    {
+        "contract_address": "0x131e413bffbf0719e9ed75c5f1db7f55b1629468",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "blindsightcoinerc"
+        ],
+        "holders": {
+            "ETH": 47
+        }
+    },
+    {
+        "contract_address": "0x887dc6df4ebddc0c38b0193b3494c35c5f5e3179",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 333
+        }
+    },
+    {
+        "contract_address": "0xd70077e5f90b2e1522b3dccb372389205f0c2074",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "lotterypto.io"
+        ],
+        "holders": {
+            "ETH": 59
+        }
+    },
+    {
+        "contract_address": "0xfb8d22499045cfa8f2ae141c6c0df4a16f9f1777",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x3e8958be30624713aec0535551be7870c783cdb7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x960e4b5a4b10fe440f13777130e51063f7a52f53",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xa1afffe3f4d611d252010e3eaf6f4d77088b0cd7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8196
+        }
+    },
+    {
+        "contract_address": "0x75ecb52e403c617679fbd3e77a50f9d10a842387",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8181
+        }
+    },
+    {
+        "contract_address": "0x6b1b80b4b3228060ea21c292a3b9c576691ca6cc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x101832446ae9ff17a105e281480bcccf700dcb4a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x2e1e15c44ffe4df6a0cb7371cd00d5028e571d14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5236
+        }
+    },
+    {
+        "contract_address": "0x3a590132da355fdf36656807e9db8ea1c9f4a431",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "peapods.finance"
+        ],
+        "holders": {
+            "ETH": 29
+        }
     }
 ]
