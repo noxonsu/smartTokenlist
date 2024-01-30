@@ -63636,7 +63636,11 @@
         ],
         "holders": {
             "ETH": 22
-        }
+        },
+        "emails": [
+            "contact@mail.dmail.ai"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5ea22ad5a8520bf631c5d9cd686e86b892621276",
@@ -63666,7 +63670,8 @@
         ],
         "holders": {
             "ETH": 182
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x131e413bffbf0719e9ed75c5f1db7f55b1629468",
@@ -63693,7 +63698,9 @@
         ],
         "holders": {
             "ETH": 59
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xfb8d22499045cfa8f2ae141c6c0df4a16f9f1777",
@@ -63759,6 +63766,10 @@
         ],
         "holders": {
             "ETH": 29
-        }
+        },
+        "telegram_groups": [
+            "PeapodsFinance"
+        ],
+        "p6": true
     }
 ]
