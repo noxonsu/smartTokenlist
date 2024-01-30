@@ -63537,7 +63537,9 @@
         "holders": {
             "ETH": 34
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x16c6cff366c415a6044f12f5caa46bb59a0f61bc",
@@ -63551,7 +63553,9 @@
         "holders": {
             "ETH": 178
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x7b731a3ff18bf1c9d0edc0d7bd4cd46423ec900d",
@@ -63593,7 +63597,9 @@
         "holders": {
             "ETH": 25
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x29ed0735b67ce82284ce9231ab2aa57dd7359578",
@@ -63614,6 +63620,8 @@
         "telegram_groups": [
             "PeapodsFinance"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large2036"
     }
 ]
