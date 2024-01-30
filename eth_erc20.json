@@ -63810,7 +63810,10 @@
         ],
         "holders": {
             "ETH": 2
-        }
+        },
+        "web_domains": [
+            "wxnetwork.com"
+        ]
     },
     {
         "contract_address": "0xebbe26ae8bfd93fb0584a5a45ccc6226a9e2fbdf",
