@@ -63949,5 +63949,97 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Chat is too large1966"
+    },
+    {
+        "contract_address": "0x77be1ba1cd2d7a63bffc772d361168cc327dd8bc",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "miaomiaocoinerc20"
+        ],
+        "holders": {
+            "ETH": 1096
+        }
+    },
+    {
+        "contract_address": "0x1b54a6fa1360bd71a0f28f77a1d6fba215d498c3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "vitalik.eth.limo"
+        ],
+        "telegram_groups": [
+            "casinu_inu"
+        ],
+        "holders": {
+            "ETH": 1034
+        }
+    },
+    {
+        "contract_address": "0x542dd0b163022e556ac952867a98932435d781e9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x7a1b2244a98fa02f85a7d6e036d82bbacacce8d8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x1ed81e03d7ddb67a21755d02ed2f24da71c27c55",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1043
+        }
+    },
+    {
+        "contract_address": "0x96b2481b5ab5064c7a33b54b54488acc6de138dc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 140
+        }
+    },
+    {
+        "contract_address": "0xe322d2449e30fe13c8012269eb7b226c8165a297",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "MeowMeowCoinERC20"
+        ],
+        "holders": {
+            "ETH": 53
+        }
+    },
+    {
+        "contract_address": "0x25d01b5b39e58843291586a5d8afddf744bdeb13",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 938
+        }
+    },
+    {
+        "contract_address": "0xb6f7905d0203806ebbbe486d4cb9e869880e1b4a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 87
+        }
+    },
+    {
+        "contract_address": "0x3aad7cbbb2ab50946436215b19202c42e9156fa4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1202
+        }
+    },
+    {
+        "contract_address": "0x3cc5fe9f9805ebc2f9e8b5b24c5dede4ff28c817",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "meowmeowerc20"
+        ],
+        "holders": {
+            "ETH": 17
+        }
     }
 ]
