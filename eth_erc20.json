@@ -65347,7 +65347,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 271
-        }
+        },
+        "web_domains": [
+            "genieswap.com"
+        ]
     },
     {
         "contract_address": "0xf0f404e8eca9f2b94d78255d7ef771e03807045f",
