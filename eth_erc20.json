@@ -64600,7 +64600,9 @@
         "holders": {
             "ETH": 34
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xd289ea09aeece390629e9414d41b4d9d9bf43fd9",
@@ -64618,7 +64620,9 @@
         "holders": {
             "ETH": 284
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x4af8aa621df6dd3e2d653188a357fc2b35c6a037",
@@ -64632,7 +64636,9 @@
         "telegram_groups": [
             "SELFcryptoIO"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large6398"
     },
     {
         "contract_address": "0xa7b186c2c8a8070e19f3ec087c4ec1bd1a5a5bad",
@@ -64653,6 +64659,8 @@
         "telegram_groups": [
             "BitoProOfficial"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large4739"
     }
 ]
