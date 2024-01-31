@@ -65176,7 +65176,9 @@
         },
         "web_domains": [
             "fortblockgames.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x648fa562109dced2a6b4108e689e1475be45d227",
@@ -65186,7 +65188,9 @@
         ],
         "holders": {
             "ETH": 13
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0f0de7e47f5fab0e3623f11a8e5d704801e51647",
@@ -65199,7 +65203,8 @@
         ],
         "holders": {
             "ETH": 140
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3f63e27dcdca0ff83a535802ede87bd4a7d6d276",
@@ -65208,11 +65213,13 @@
             "vitalikbuterinbirthday.today"
         ],
         "telegram_groups": [
-            "vitalikbuterinbirthday"
+            "vitalikbuterinbirthday",
+            "VitalikButerinBirthday"
         ],
         "holders": {
             "ETH": 33
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc2819a49f0a2feab9ae66148afb60c36eb2fc7f9",
@@ -65236,11 +65243,16 @@
             "linktr.ee"
         ],
         "telegram_groups": [
-            "Gen3ai_eth"
+            "Gen3ai_eth",
+            "Gen3Ai_ETH"
         ],
         "holders": {
             "ETH": 59
-        }
+        },
+        "emails": [
+            "info@gen3ai.art"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x256ed1d83e3e4efdda977389a5389c3433137dda",
@@ -65256,11 +65268,13 @@
             "www.judgeai.io"
         ],
         "telegram_groups": [
+            "JudgeAI_Bot",
             "judgeaiportal"
         ],
         "holders": {
             "ETH": 15
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x892a6f9df0147e5f079b0993f486f9aca3c87881",
