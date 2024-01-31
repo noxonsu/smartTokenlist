@@ -64321,7 +64321,8 @@
         ],
         "holders": {
             "ETH": 66
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa9fc58079832f1ac23578664bb3c6d774df91156",
@@ -64337,12 +64338,16 @@
             "bellagf.ai"
         ],
         "telegram_groups": [
-            "BellaGFAI",
-            "bella_gf_bot"
+            "bella_gf_bot",
+            "BellaGFAI"
         ],
         "holders": {
             "ETH": 188
-        }
+        },
+        "emails": [
+            "info@bellagf.ai"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf7c7ed1828fc85c8e4562455738ab63a83dcbb47",
@@ -64351,11 +64356,16 @@
             "protectorai.tech"
         ],
         "telegram_groups": [
+            "protectorai_bot",
             "ProtectorAI"
         ],
         "holders": {
             "ETH": 156
-        }
+        },
+        "emails": [
+            "contact@protectorai.tech"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0f4f1066a056750dc20c7a11a829413b68d68bda",
@@ -64375,7 +64385,9 @@
         ],
         "holders": {
             "ETH": 107
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf093cd8bad9c419523464db699f296fef8675ee5",
@@ -64388,7 +64400,11 @@
         ],
         "holders": {
             "ETH": 51
-        }
+        },
+        "emails": [
+            "contact@h2ofinance.xyz"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa75fa7dea69abd84c9812919039cb33e2092aab6",
