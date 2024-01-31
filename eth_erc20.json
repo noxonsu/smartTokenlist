@@ -64830,7 +64830,9 @@
         },
         "web_domains": [
             "satellite.money"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xff9b04766afa397be2985449ae055793d508b0b8",
@@ -64885,7 +64887,8 @@
         ],
         "holders": {
             "ETH": 95
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8d9572067d8e53628f0a466d4dfb9b66a53ed2e7",
