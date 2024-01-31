@@ -65173,7 +65173,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 235
-        }
+        },
+        "web_domains": [
+            "fortblockgames.com"
+        ]
     },
     {
         "contract_address": "0x648fa562109dced2a6b4108e689e1475be45d227",
