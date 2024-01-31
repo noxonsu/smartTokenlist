@@ -65290,5 +65290,100 @@
         "holders": {
             "ETH": 2115
         }
+    },
+    {
+        "contract_address": "0xfcfc434ee5bff924222e084a8876eee74ea7cfba",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1426
+        }
+    },
+    {
+        "contract_address": "0xa65fd4eda3ed96ce49e04163d38ce173732749a8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blockroute.gitbook.io",
+            "blockroute-erc.com"
+        ],
+        "telegram_groups": [
+            "blockrouteerc"
+        ],
+        "holders": {
+            "ETH": 102
+        }
+    },
+    {
+        "contract_address": "0x992bdfc9a0f528bfc060983beec19a0162a72f49",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "png.money"
+        ],
+        "telegram_groups": [
+            "png_bridge"
+        ],
+        "holders": {
+            "ETH": 74
+        }
+    },
+    {
+        "contract_address": "0x01202c9a1adfc1475c960c23bdf7530698330fa0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 454
+        }
+    },
+    {
+        "contract_address": "0xe4b4c008ff36e3c50c4299c223504a480de9c833",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "SecretSocietyToken"
+        ],
+        "holders": {
+            "ETH": 846
+        }
+    },
+    {
+        "contract_address": "0x665f77fba5975ab40ce61c90f28007fb5b09d7b1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 271
+        }
+    },
+    {
+        "contract_address": "0xf0f404e8eca9f2b94d78255d7ef771e03807045f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "friendroom.space",
+            "friendroom.space"
+        ],
+        "telegram_groups": [
+            "friendroom_official"
+        ],
+        "holders": {
+            "ETH": 142
+        }
+    },
+    {
+        "contract_address": "0xbcc3ffb978042082ad5c04e220ab7381c63c6d13",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "thewentoken.lol"
+        ],
+        "telegram_groups": [
+            "wenwen_erc"
+        ],
+        "holders": {
+            "ETH": 61
+        }
+    },
+    {
+        "contract_address": "0x86b792e6a20c8e8ef56ff4fc92aedcb62dbeefed",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "peapods.finance"
+        ],
+        "holders": {
+            "ETH": 11
+        }
     }
 ]
