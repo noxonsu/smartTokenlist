@@ -65020,11 +65020,16 @@
             "xenonchain.com"
         ],
         "telegram_groups": [
-            "XenonBlockchainPortal"
+            "XenonBlockchainPortal",
+            "XenonBlockchainAnn"
         ],
         "holders": {
             "ETH": 75
-        }
+        },
+        "emails": [
+            "Connect@xenonchain.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x10ff2554c0e4fdb5c65eaa5967e47ad68e93f41a",
@@ -65054,6 +65059,7 @@
         ],
         "holders": {
             "ETH": 266
-        }
+        },
+        "p6": true
     }
 ]
