@@ -64908,5 +64908,152 @@
         "holders": {
             "ETH": 1526
         }
+    },
+    {
+        "contract_address": "0x7ad1aa614094bbd85dd2a03e7c791c348f81793b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 181
+        }
+    },
+    {
+        "contract_address": "0xeb3cadde330a4aa3d627f666aecdd6f65208b19f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 100
+        }
+    },
+    {
+        "contract_address": "0x7aaa3b849e9cec8d68a837197ab06609dbfbed17",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 868
+        }
+    },
+    {
+        "contract_address": "0x7a87d038248da0caa51ef4967d8742da64f773c1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0xef8c4055ed12fc0146bb6bd9cdbcf5533e72e638",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0x77b0404d649f2cbce92ab68aec0816c1659acff6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 952
+        }
+    },
+    {
+        "contract_address": "0x0f2f4d68308db60d36268a602ef273421a227021",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xf1376bcef0f78459c0ed0ba5ddce976f1ddf51f4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 59
+        }
+    },
+    {
+        "contract_address": "0x4e4a47cac6a28a62dcc20990ed2cda9bc659469f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5277
+        }
+    },
+    {
+        "contract_address": "0x89d9e63eb2c3d2185422dde057a24ca5a8ab8fab",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 225
+        }
+    },
+    {
+        "contract_address": "0xeade87fd6e0537f6c0e10f7394f39474a449c27f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5694
+        }
+    },
+    {
+        "contract_address": "0x9577705f4adc84aaeea17844a40bbb1954c3655e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 642
+        }
+    },
+    {
+        "contract_address": "0x30bcfae081dea6f1acd014947abbfab791cc2296",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "docs.uniswap.org",
+            "docs.pancakeswap.finance",
+            "docs.pancakeswap.finance",
+            "docs.sushi.com"
+        ],
+        "holders": {
+            "ETH": 1453
+        }
+    },
+    {
+        "contract_address": "0x02950460e2b9529d0e00284a5fa2d7bdf3fa4d72",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0x1122efd90b5965f166e10fca3f460c697e564094",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "xenonchain.com"
+        ],
+        "telegram_groups": [
+            "XenonBlockchainPortal"
+        ],
+        "holders": {
+            "ETH": 75
+        }
+    },
+    {
+        "contract_address": "0x10ff2554c0e4fdb5c65eaa5967e47ad68e93f41a",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "FlokiForkPortal"
+        ],
+        "holders": {
+            "ETH": 86
+        }
+    },
+    {
+        "contract_address": "0xf41ea2614a477faad424ab398a2c8c0cbff173a8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x13a9c74ee3504b58a8138997ac5778cc007c86e8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.mars-coin.net"
+        ],
+        "telegram_groups": [
+            "MarsCoin_Eth"
+        ],
+        "holders": {
+            "ETH": 266
+        }
     }
 ]
