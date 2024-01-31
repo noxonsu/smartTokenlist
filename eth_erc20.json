@@ -65065,5 +65065,85 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Username not occupied"
+    },
+    {
+        "contract_address": "0xfcf8eda095e37a41e002e266daad7efc1579bc0a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1962
+        }
+    },
+    {
+        "contract_address": "0xe589c81c91d01dc433191330b7b2b0dec3a8f40f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "alphaswap.co"
+        ],
+        "telegram_groups": [
+            "AlphaSwapPortal"
+        ],
+        "holders": {
+            "ETH": 161
+        }
+    },
+    {
+        "contract_address": "0x5f53e0bb3c808424a12518f69c12a7ad4f714bbf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0x3e94660537600ed090f6c3e68c75f014d575abcf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0xa98e5f5051f852a02c2f769ba79f7b690b525e43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2875
+        }
+    },
+    {
+        "contract_address": "0xec505c81d6a7567b5bde804870b1038832fe6da1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 547
+        }
+    },
+    {
+        "contract_address": "0x57ee02027179cf811359bc5ddf3df7eada6de3ea",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "barley.finance",
+            "docs.barley.finance",
+            "barley.finance",
+            "docs.barley.finance"
+        ],
+        "telegram_groups": [
+            "Barley_Finance",
+            "BarleyFinance",
+            "Barley_Finance",
+            "BarleyFinance"
+        ],
+        "holders": {
+            "ETH": 36
+        }
+    },
+    {
+        "contract_address": "0x4de563826aa823b6136f3354f9fe6048516ce29d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "porkfork.xyz"
+        ],
+        "telegram_groups": [
+            "porkfork"
+        ],
+        "holders": {
+            "ETH": 69
+        }
     }
 ]
