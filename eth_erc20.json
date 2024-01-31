@@ -64662,5 +64662,110 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Chat is too large4739"
+    },
+    {
+        "contract_address": "0x72b46409d21bc2e0da3528b633cbf418f482edc3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "de.fi"
+        ],
+        "telegram_groups": [
+            "dedotfi"
+        ],
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x9b01efee961157dfea128e8258049f23e3ad03fa",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.bitcoinfork.xyz"
+        ],
+        "telegram_groups": [
+            "bitcoinforkcoin"
+        ],
+        "holders": {
+            "ETH": 314
+        }
+    },
+    {
+        "contract_address": "0x62efb21d4fdfb743c5c56b38c7976abf42104824",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0xeae4cf76e91f6d0b509907f3ea6523d1e70f07ef",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x7306ae4411d551bb55f6f4c20743f078e0444435",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 234
+        }
+    },
+    {
+        "contract_address": "0x5dd0f5da07e9c63f2d216179311ef8cb68abb629",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 471
+        }
+    },
+    {
+        "contract_address": "0x58893f1ed8a579bf445a8693e82b0352ca0431f8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.porkinu.meme"
+        ],
+        "telegram_groups": [
+            "PorkInuEntry"
+        ],
+        "holders": {
+            "ETH": 96
+        }
+    },
+    {
+        "contract_address": "0x82b87b676a04ef13d6d1140094f6cd177ad3837a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0x8c1bed5b9a0928467c9b1341da1d7bd5e10b6549",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 325
+        }
+    },
+    {
+        "contract_address": "0x8eedefe828a0f16c8fc80e46a87bc0f1de2d960c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1961
+        }
+    },
+    {
+        "contract_address": "0xc4cefdf1bc9fde0ef82cdfe609dc743ee23ff1ca",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 473
+        }
+    },
+    {
+        "contract_address": "0xaac7c2de7d8a2130ca691e72d8b2c796f5a32360",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "JewishInu"
+        ],
+        "holders": {
+            "ETH": 143
+        }
     }
 ]
