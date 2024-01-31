@@ -65167,5 +65167,103 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Can't send messages"
+    },
+    {
+        "contract_address": "0xeb935deb517e4c2abc282e5e251ed4d05db79e93",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 235
+        }
+    },
+    {
+        "contract_address": "0x648fa562109dced2a6b4108e689e1475be45d227",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "drderivative.dev"
+        ],
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0x0f0de7e47f5fab0e3623f11a8e5d704801e51647",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "godponzikill.com"
+        ],
+        "telegram_groups": [
+            "godponzikill"
+        ],
+        "holders": {
+            "ETH": 140
+        }
+    },
+    {
+        "contract_address": "0x3f63e27dcdca0ff83a535802ede87bd4a7d6d276",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "vitalikbuterinbirthday.today"
+        ],
+        "telegram_groups": [
+            "vitalikbuterinbirthday"
+        ],
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0xc2819a49f0a2feab9ae66148afb60c36eb2fc7f9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x70a9a201e832801b8b6b0a8532296c5f099ee39f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xfb020364aa773dbf9648dadca9bbef045d512e6a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "gen3ai.art",
+            "linktr.ee"
+        ],
+        "telegram_groups": [
+            "Gen3ai_eth"
+        ],
+        "holders": {
+            "ETH": 59
+        }
+    },
+    {
+        "contract_address": "0x256ed1d83e3e4efdda977389a5389c3433137dda",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 355
+        }
+    },
+    {
+        "contract_address": "0x5815a861c6e50d79cac144805e740fe47ab8826a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.judgeai.io"
+        ],
+        "telegram_groups": [
+            "judgeaiportal"
+        ],
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0x892a6f9df0147e5f079b0993f486f9aca3c87881",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2115
+        }
     }
 ]
