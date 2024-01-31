@@ -64827,7 +64827,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 5
-        }
+        },
+        "web_domains": [
+            "satellite.money"
+        ]
     },
     {
         "contract_address": "0xff9b04766afa397be2985449ae055793d508b0b8",
