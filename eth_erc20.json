@@ -64779,5 +64779,126 @@
         "holders": {
             "ETH": 143
         }
+    },
+    {
+        "contract_address": "0x6b0faca7ba905a86f221ceb5ca404f605e5b3131",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 494
+        }
+    },
+    {
+        "contract_address": "0xd9019d3ee5ec8faf6cba06c526f38ebcb7c3364f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 541
+        }
+    },
+    {
+        "contract_address": "0x48759f220ed983db51fa7a8c0d2aab8f3ce4166a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 261
+        }
+    },
+    {
+        "contract_address": "0x5282a4ef67d9c33135340fb3289cc1711c13638c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 69
+        }
+    },
+    {
+        "contract_address": "0xc7b4c17861357b8abb91f25581e7263e08dcb59c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 136
+        }
+    },
+    {
+        "contract_address": "0xde5ed76e7c05ec5e4572cfc88d1acea165109e44",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 684
+        }
+    },
+    {
+        "contract_address": "0x69e557b926f4eef6d9400e36dbbfeb9600af2880",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0xff9b04766afa397be2985449ae055793d508b0b8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x35fca05eb9d7b4beebdfa110ea342e6d9ca972ac",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x7ceba0caec8cbe74db35b26d7705ba68cb38d725",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xf6fe643cb8dcc3e379cdc6db88818b09fdf2200d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x37b8d02f8c3bf95bf3a01fac353376ceaf6f9c6a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x6a3881ad112a603d92ad9522066ebc619784f26a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 43
+        }
+    },
+    {
+        "contract_address": "0x0717ba5b8fc5d6df609bedf0fc1039362a83f1cf",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zpe.fi"
+        ],
+        "telegram_groups": [
+            "zpeeth"
+        ],
+        "holders": {
+            "ETH": 95
+        }
+    },
+    {
+        "contract_address": "0x8d9572067d8e53628f0a466d4dfb9b66a53ed2e7",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "NAKAMOTOMATSU"
+        ],
+        "holders": {
+            "ETH": 88
+        }
+    },
+    {
+        "contract_address": "0x1da87b114f35e1dc91f72bf57fc07a768ad40bb0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1526
+        }
     }
 ]
