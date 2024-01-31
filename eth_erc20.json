@@ -64675,7 +64675,9 @@
         "holders": {
             "ETH": 19
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large93981"
     },
     {
         "contract_address": "0x9b01efee961157dfea128e8258049f23e3ad03fa",
@@ -64689,7 +64691,9 @@
         "holders": {
             "ETH": 314
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x62efb21d4fdfb743c5c56b38c7976abf42104824",
@@ -64734,7 +64738,9 @@
         "emails": [
             "dev@porkinu.meme"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x82b87b676a04ef13d6d1140094f6cd177ad3837a",
