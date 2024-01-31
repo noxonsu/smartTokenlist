@@ -64674,7 +64674,8 @@
         ],
         "holders": {
             "ETH": 19
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9b01efee961157dfea128e8258049f23e3ad03fa",
@@ -64687,7 +64688,8 @@
         ],
         "holders": {
             "ETH": 314
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x62efb21d4fdfb743c5c56b38c7976abf42104824",
@@ -64728,7 +64730,11 @@
         ],
         "holders": {
             "ETH": 96
-        }
+        },
+        "emails": [
+            "dev@porkinu.meme"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x82b87b676a04ef13d6d1140094f6cd177ad3837a",
