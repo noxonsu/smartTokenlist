@@ -65204,7 +65204,9 @@
         "holders": {
             "ETH": 140
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x3f63e27dcdca0ff83a535802ede87bd4a7d6d276",
@@ -65219,7 +65221,9 @@
         "holders": {
             "ETH": 33
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0xc2819a49f0a2feab9ae66148afb60c36eb2fc7f9",
@@ -65252,7 +65256,9 @@
         "emails": [
             "info@gen3ai.art"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x256ed1d83e3e4efdda977389a5389c3433137dda",
@@ -65274,7 +65280,9 @@
         "holders": {
             "ETH": 15
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: The chat_id \"JudgeAI_Bot\" belongs to a user"
     },
     {
         "contract_address": "0x892a6f9df0147e5f079b0993f486f9aca3c87881",
