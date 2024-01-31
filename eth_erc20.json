@@ -64542,5 +64542,100 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Username not occupied"
+    },
+    {
+        "contract_address": "0xd6a0218a79625fa490693c8a3b16a6a387760c2d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 718
+        }
+    },
+    {
+        "contract_address": "0x7ce52dc08b49e0bc11252cd267d2614dfc616d9f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0xf0f9f4d63b7dd586e6b07806b0f39cc9cd7e9490",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8
+        }
+    },
+    {
+        "contract_address": "0x75604aa7e59d51e6b60b042dbf3a3e74afb11841",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0x2d4fc0d5421c0d37d325180477ba6e16ae3abaa7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0x354e61402d5e9962c289b65470cf6f5f0b14f57c",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "elontweetblockchain"
+        ],
+        "holders": {
+            "ETH": 120
+        }
+    },
+    {
+        "contract_address": "0xf4d1f8f3d98c71547469258a4347d2453dd72a5a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "elmo-coin.xyz"
+        ],
+        "telegram_groups": [
+            "ElmoCoin_ERC"
+        ],
+        "holders": {
+            "ETH": 34
+        }
+    },
+    {
+        "contract_address": "0xd289ea09aeece390629e9414d41b4d9d9bf43fd9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "linktr.ee"
+        ],
+        "telegram_groups": [
+            "aitechnologyportal"
+        ],
+        "holders": {
+            "ETH": 284
+        }
+    },
+    {
+        "contract_address": "0x4af8aa621df6dd3e2d653188a357fc2b35c6a037",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.selfcrypto.io"
+        ],
+        "holders": {
+            "ETH": 40
+        }
+    },
+    {
+        "contract_address": "0xa7b186c2c8a8070e19f3ec087c4ec1bd1a5a5bad",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 69
+        }
+    },
+    {
+        "contract_address": "0x93b1e78a3e652cd2e71c4a767595b77282344932",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 194
+        }
     }
 ]
