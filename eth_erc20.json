@@ -65086,7 +65086,9 @@
         "holders": {
             "ETH": 161
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x5f53e0bb3c808424a12518f69c12a7ad4f714bbf",
@@ -65103,7 +65105,9 @@
         "emails": [
             "pepeforktwoeth@gmail.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x3e94660537600ed090f6c3e68c75f014d575abcf",
@@ -65143,7 +65147,9 @@
         "holders": {
             "ETH": 36
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x4de563826aa823b6136f3354f9fe6048516ce29d",
@@ -65158,6 +65164,8 @@
         "holders": {
             "ETH": 69
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     }
 ]
