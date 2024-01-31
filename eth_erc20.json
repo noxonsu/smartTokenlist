@@ -65310,7 +65310,8 @@
         ],
         "holders": {
             "ETH": 102
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x992bdfc9a0f528bfc060983beec19a0162a72f49",
@@ -65323,7 +65324,8 @@
         ],
         "holders": {
             "ETH": 74
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x01202c9a1adfc1475c960c23bdf7530698330fa0",
@@ -65350,7 +65352,11 @@
         },
         "web_domains": [
             "genieswap.com"
-        ]
+        ],
+        "telegram_groups": [
+            "genieswapofficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf0f404e8eca9f2b94d78255d7ef771e03807045f",
@@ -65364,7 +65370,8 @@
         ],
         "holders": {
             "ETH": 142
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xbcc3ffb978042082ad5c04e220ab7381c63c6d13",
@@ -65377,7 +65384,11 @@
         ],
         "holders": {
             "ETH": 61
-        }
+        },
+        "emails": [
+            "contact@wentoken.info"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x86b792e6a20c8e8ef56ff4fc92aedcb62dbeefed",
@@ -65387,6 +65398,10 @@
         ],
         "holders": {
             "ETH": 11
-        }
+        },
+        "telegram_groups": [
+            "PeapodsFinance"
+        ],
+        "p6": true
     }
 ]
