@@ -65750,7 +65750,8 @@
         ],
         "holders": {
             "ETH": 73
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb2ac73a386f6f165d174c0e2b7fe5b78493cea9f",
@@ -65821,7 +65822,11 @@
         },
         "web_domains": [
             "docs.locus.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "locusfinancedao"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0000000000c39a0f674c12a5e63eb8031b550b6f",
