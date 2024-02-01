@@ -65861,12 +65861,17 @@
             "DexScan.guru"
         ],
         "telegram_groups": [
+            "dexaaibot",
+            "jayorjason",
+            "DexScanRobot",
             "DexScanPortal",
-            "DexScanRobot"
+            "dexscanrobot",
+            "dexscanofficial"
         ],
         "holders": {
             "ETH": 107
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xed0e2041bfb5a426e5ed426a73765624e08bbb75",
@@ -65886,7 +65891,8 @@
         ],
         "holders": {
             "ETH": 92
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7c0e72f431fd69560d951e4c04a4de3657621a88",
@@ -65896,7 +65902,9 @@
         ],
         "holders": {
             "ETH": 136
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x54da724e13d64619a36e1ee6f4bf92d5a410da41",
@@ -65909,7 +65917,11 @@
         ],
         "holders": {
             "ETH": 307
-        }
+        },
+        "emails": [
+            "team@securedonblockchain.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3ca33f22893a51a80ed4ed8afebc900ae813ca02",
@@ -65934,6 +65946,8 @@
         ],
         "holders": {
             "ETH": 5
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     }
 ]
