@@ -65818,7 +65818,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 39
-        }
+        },
+        "web_domains": [
+            "docs.locus.finance"
+        ]
     },
     {
         "contract_address": "0x0000000000c39a0f674c12a5e63eb8031b550b6f",
