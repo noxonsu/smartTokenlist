@@ -65839,5 +65839,101 @@
         "holders": {
             "ETH": 32
         }
+    },
+    {
+        "contract_address": "0x340b0a7b94cdeaaf6041445266d1b656a6071f26",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0xcaabcaa4ca42e1d86de1a201c818639def0ba7a7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 950
+        }
+    },
+    {
+        "contract_address": "0x6c42443cd4aa05fbeaa393d6840a87a29df13179",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "DexScan.guru"
+        ],
+        "telegram_groups": [
+            "DexScanPortal",
+            "DexScanRobot"
+        ],
+        "holders": {
+            "ETH": 107
+        }
+    },
+    {
+        "contract_address": "0xed0e2041bfb5a426e5ed426a73765624e08bbb75",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 207
+        }
+    },
+    {
+        "contract_address": "0xe0a8c50020db313880c92f787862ecbc755d4766",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.synergix.finance"
+        ],
+        "telegram_groups": [
+            "SynergixFi"
+        ],
+        "holders": {
+            "ETH": 92
+        }
+    },
+    {
+        "contract_address": "0x7c0e72f431fd69560d951e4c04a4de3657621a88",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ipor-labs.gitbook.io"
+        ],
+        "holders": {
+            "ETH": 136
+        }
+    },
+    {
+        "contract_address": "0x54da724e13d64619a36e1ee6f4bf92d5a410da41",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "securedonblockchain.com"
+        ],
+        "telegram_groups": [
+            "sob_erc"
+        ],
+        "holders": {
+            "ETH": 307
+        }
+    },
+    {
+        "contract_address": "0x3ca33f22893a51a80ed4ed8afebc900ae813ca02",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9
+        }
+    },
+    {
+        "contract_address": "0xd3f8ab9c5928fdf53153e7757131ad7815fe3146",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi"
+        ],
+        "holders": {
+            "ETH": 5
+        }
     }
 ]
