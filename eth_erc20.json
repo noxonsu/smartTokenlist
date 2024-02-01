@@ -65430,11 +65430,13 @@
             "porkkiller.xyz"
         ],
         "telegram_groups": [
+            "porkkiller",
             "PorkKiller"
         ],
         "holders": {
             "ETH": 190
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0f8c45b896784a1e408526b9300519ef8660209c",
@@ -65474,7 +65476,8 @@
         ],
         "holders": {
             "ETH": 223
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x22e12a50e3ca49fb183074235cb1db84fe4c716d",
