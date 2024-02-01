@@ -65955,5 +65955,90 @@
         },
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x1b94812f00fdc207ce94741048d60a3af86f9019",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.miqu-eth.com"
+        ],
+        "telegram_groups": [
+            "Miqu_Eth"
+        ],
+        "holders": {
+            "ETH": 209
+        }
+    },
+    {
+        "contract_address": "0x949f131f0c6e29693d2ffabe4d1e30c3af450418",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0xf527d24391c767b86b8e91385e1ce9c54d230a2b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 17897
+        }
+    },
+    {
+        "contract_address": "0xaf44b5ac5f67d4c7d48587f84ab0a6896a2ead9e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0x6381ab15ffbafa0fc1b733cc8b009ffae27dd9e7",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "billyercofficial"
+        ],
+        "holders": {
+            "ETH": 501
+        }
+    },
+    {
+        "contract_address": "0x6b4c7a5e3f0b99fcd83e9c089bddd6c7fce5c611",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12344
+        }
+    },
+    {
+        "contract_address": "0x253616667aa7026458a7f37f3cb8bb1ce677729c",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "HODL2023"
+        ],
+        "holders": {
+            "ETH": 232
+        }
+    },
+    {
+        "contract_address": "0x39a9728fb398583154e6cc5e3defa60908f58e2f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 353
+        }
+    },
+    {
+        "contract_address": "0x63451083b146f3b2e38302da18739686ec69a93a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 105
+        }
+    },
+    {
+        "contract_address": "0xe9dd38938d268bed9895be1922230a2438c5f9f9",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "pepeforktwoerc"
+        ],
+        "holders": {
+            "ETH": 172
+        }
     }
 ]
