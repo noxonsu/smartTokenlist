@@ -65545,5 +65545,84 @@
         "holders": {
             "ETH": 34
         }
+    },
+    {
+        "contract_address": "0xd9a442856c234a39a81a089c06451ebaa4306a72",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 208
+        }
+    },
+    {
+        "contract_address": "0x2c056f9402a0627bc0e580365bb12979fc011e2c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.squid2.wtf"
+        ],
+        "holders": {
+            "ETH": 5614
+        }
+    },
+    {
+        "contract_address": "0xb78b3320493a4efaa1028130c5ba26f0b6085ef8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2451
+        }
+    },
+    {
+        "contract_address": "0xebb2895bbe17f6a9b3f537d5363b3f1d067f8fb0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 757
+        }
+    },
+    {
+        "contract_address": "0x96f6ef951840721adbf46ac996b59e0235cb985c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 128
+        }
+    },
+    {
+        "contract_address": "0x886ba6361ae9260e3b52e73ea6b76de0a7e383b1",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "PorkyETH"
+        ],
+        "holders": {
+            "ETH": 478
+        }
+    },
+    {
+        "contract_address": "0x43009ed5f36011f14066b452d6ea207a43227548",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 89
+        }
+    },
+    {
+        "contract_address": "0x2e78b5583f78333144f455fbda5182c214062709",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 117
+        }
+    },
+    {
+        "contract_address": "0x699060b76f0269c19171b4e193c0a792fa25cad7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 63
+        }
+    },
+    {
+        "contract_address": "0x9b0e1c344141fb361b842d397df07174e1cdb988",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "emoticoin_io"
+        ],
+        "holders": {
+            "ETH": 1252
+        }
     }
 ]
