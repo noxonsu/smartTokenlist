@@ -65738,5 +65738,93 @@
         },
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x637c6cc73e61f4656add781878041e176d27e691",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "yougetnothingerc.info"
+        ],
+        "telegram_groups": [
+            "YougetnothingOnETH"
+        ],
+        "holders": {
+            "ETH": 73
+        }
+    },
+    {
+        "contract_address": "0xb2ac73a386f6f165d174c0e2b7fe5b78493cea9f",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Pignesscoineth"
+        ],
+        "holders": {
+            "ETH": 147
+        }
+    },
+    {
+        "contract_address": "0x5d0017769758f54ebfd2d26aac6ea66acaf8c85e",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "TG_ERC"
+        ],
+        "holders": {
+            "ETH": 475
+        }
+    },
+    {
+        "contract_address": "0xd69f306549e9d96f183b1aeca30b8f4353c2ecc3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3712
+        }
+    },
+    {
+        "contract_address": "0x1ff6df0892e636832b443359c66ed57515011d6f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 621
+        }
+    },
+    {
+        "contract_address": "0xec26daa8d250aa6ecfae239c3278f969be3f2f98",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 815
+        }
+    },
+    {
+        "contract_address": "0x09389bf2914d74e952419f1c0a60b34f0d9a5dcc",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cyberpepe.wtf"
+        ],
+        "telegram_groups": [
+            "cybertruckerc20"
+        ],
+        "holders": {
+            "ETH": 546
+        }
+    },
+    {
+        "contract_address": "0xf091867ec603a6628ed83d274e835539d82e9cc8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 116
+        }
+    },
+    {
+        "contract_address": "0x0cd5cda0e120f7e22516f074284e5416949882c2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 39
+        }
+    },
+    {
+        "contract_address": "0x0000000000c39a0f674c12a5e63eb8031b550b6f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 32
+        }
     }
 ]
