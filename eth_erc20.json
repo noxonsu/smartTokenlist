@@ -65415,5 +65415,128 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Chat is too large2092"
+    },
+    {
+        "contract_address": "0xe9572938bcbf08adcee86fd12a7c0d08dc4ab841",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2041
+        }
+    },
+    {
+        "contract_address": "0x3033744ae045d271bea9f1fc738ce4db2942f926",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "porkkiller.xyz"
+        ],
+        "telegram_groups": [
+            "PorkKiller"
+        ],
+        "holders": {
+            "ETH": 190
+        }
+    },
+    {
+        "contract_address": "0x0f8c45b896784a1e408526b9300519ef8660209c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 146313
+        }
+    },
+    {
+        "contract_address": "0x574ec08c0c3bcfad06c3e089e05e4b354b943524",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "rsgpportal"
+        ],
+        "holders": {
+            "ETH": 67
+        }
+    },
+    {
+        "contract_address": "0x6ddf79d4acca5b542d1c97f0d8bea9e68371075a",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Wanxiang_Blockchain"
+        ],
+        "holders": {
+            "ETH": 100
+        }
+    },
+    {
+        "contract_address": "0x7902fc0a1cacf6193c8011b7da701c9dd5bf64b5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.babypepefork.com"
+        ],
+        "telegram_groups": [
+            "babyporketh"
+        ],
+        "holders": {
+            "ETH": 223
+        }
+    },
+    {
+        "contract_address": "0x22e12a50e3ca49fb183074235cb1db84fe4c716d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0xeee8aed1957ca1545a0508afb51b53cca7e3c0d1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 72
+        }
+    },
+    {
+        "contract_address": "0x03dde9e5bb31ee40a471476e2fccf75c67921062",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1010
+        }
+    },
+    {
+        "contract_address": "0x747c4ce9622ea750ea8048423b38a746b096c8e8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 165
+        }
+    },
+    {
+        "contract_address": "0xd1c8fa30fded3e0031dc24c1646d74108b096cc2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 724
+        }
+    },
+    {
+        "contract_address": "0xe135cd2a1314445da667b699d6f486bcaa221ab5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 37
+        }
+    },
+    {
+        "contract_address": "0x0dba3dfee43d9b6450c716c58fdae8d3be37fdc9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9
+        }
+    },
+    {
+        "contract_address": "0x94804dc4948184ffd7355f62ccbb221c9765886f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1343
+        }
+    },
+    {
+        "contract_address": "0x3d3f13f2529ec3c84b2940155effbf9b39a8f3ec",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 34
+        }
     }
 ]
