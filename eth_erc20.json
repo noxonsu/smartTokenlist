@@ -65967,7 +65967,8 @@
         ],
         "holders": {
             "ETH": 209
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x949f131f0c6e29693d2ffabe4d1e30c3af450418",
@@ -66011,6 +66012,7 @@
         "contract_address": "0x253616667aa7026458a7f37f3cb8bb1ce677729c",
         "sourceScanned": "processed",
         "telegram_groups": [
+            "HodlHodl",
             "HODL2023"
         ],
         "holders": {
@@ -66018,7 +66020,8 @@
         },
         "web_domains": [
             "hodlhodl.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x39a9728fb398583154e6cc5e3defa60908f58e2f",
