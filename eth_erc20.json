@@ -65871,7 +65871,9 @@
         "holders": {
             "ETH": 107
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: The chat_id \"dexaaibot\" belongs to a user"
     },
     {
         "contract_address": "0xed0e2041bfb5a426e5ed426a73765624e08bbb75",
@@ -65892,7 +65894,9 @@
         "holders": {
             "ETH": 92
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x7c0e72f431fd69560d951e4c04a4de3657621a88",
@@ -65921,7 +65925,9 @@
         "emails": [
             "team@securedonblockchain.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x3ca33f22893a51a80ed4ed8afebc900ae813ca02",
