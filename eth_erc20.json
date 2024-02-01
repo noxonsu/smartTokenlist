@@ -65968,7 +65968,9 @@
         "holders": {
             "ETH": 209
         },
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Can't send messages"
     },
     {
         "contract_address": "0x949f131f0c6e29693d2ffabe4d1e30c3af450418",
@@ -66021,7 +66023,9 @@
         "web_domains": [
             "hodlhodl.com"
         ],
-        "p6": true
+        "p6": true,
+        "myuser": 6119567381,
+        "tgGroupJoined": "error: Chat is too large1908"
     },
     {
         "contract_address": "0x39a9728fb398583154e6cc5e3defa60908f58e2f",
