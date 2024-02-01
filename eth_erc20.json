@@ -65650,7 +65650,8 @@
         ],
         "holders": {
             "ETH": 114
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe677a0e16f06fc5b665df97a5da07e14770b680a",
@@ -65663,7 +65664,8 @@
         ],
         "holders": {
             "ETH": 56
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2d189658c20a05e0439c8113e150a666034c2287",
@@ -65676,7 +65678,8 @@
         ],
         "holders": {
             "ETH": 348
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa723f90c09211061b4a31b9dcc1bc661e76c7a43",
@@ -65699,11 +65702,13 @@
             "SuperBowlToken.games"
         ],
         "telegram_groups": [
+            "superbowlbcgame",
             "SuperBowlBCGame"
         ],
         "holders": {
             "ETH": 3
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x05ff47afada98a98982113758878f9a8b9fdda0a",
@@ -65721,6 +65726,8 @@
         ],
         "holders": {
             "ETH": 474
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     }
 ]
