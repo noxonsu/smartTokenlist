@@ -65638,5 +65638,89 @@
         "holders": {
             "ETH": 1252
         }
+    },
+    {
+        "contract_address": "0x99a68562651cbfa0b1222b6a322dda270a4a7adf",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pignesserc.cloud"
+        ],
+        "telegram_groups": [
+            "pignesserc20"
+        ],
+        "holders": {
+            "ETH": 114
+        }
+    },
+    {
+        "contract_address": "0xe677a0e16f06fc5b665df97a5da07e14770b680a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "citi.vip"
+        ],
+        "telegram_groups": [
+            "citiportal"
+        ],
+        "holders": {
+            "ETH": 56
+        }
+    },
+    {
+        "contract_address": "0x2d189658c20a05e0439c8113e150a666034c2287",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nucleusportland.com"
+        ],
+        "telegram_groups": [
+            "PignessErc"
+        ],
+        "holders": {
+            "ETH": 348
+        }
+    },
+    {
+        "contract_address": "0xa723f90c09211061b4a31b9dcc1bc661e76c7a43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x1bd0236f7905df9d1648f8c916b9320cd0405ba5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 910
+        }
+    },
+    {
+        "contract_address": "0xe96269bf38f76b9b7c60200a9a214717cfdd4323",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "SuperBowlToken.games"
+        ],
+        "telegram_groups": [
+            "SuperBowlBCGame"
+        ],
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x05ff47afada98a98982113758878f9a8b9fdda0a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi"
+        ],
+        "holders": {
+            "ETH": 474
+        }
     }
 ]
