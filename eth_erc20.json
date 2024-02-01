@@ -65554,7 +65554,11 @@
         },
         "web_domains": [
             "puffer.fi"
-        ]
+        ],
+        "telegram_groups": [
+            "puffer_fi"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2c056f9402a0627bc0e580365bb12979fc011e2c",
@@ -65619,7 +65623,9 @@
         },
         "web_domains": [
             "rageragerage.myshopify.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9b0e1c344141fb361b842d397df07174e1cdb988",
