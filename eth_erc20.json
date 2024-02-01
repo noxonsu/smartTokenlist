@@ -66015,7 +66015,10 @@
         ],
         "holders": {
             "ETH": 232
-        }
+        },
+        "web_domains": [
+            "hodlhodl.com"
+        ]
     },
     {
         "contract_address": "0x39a9728fb398583154e6cc5e3defa60908f58e2f",
