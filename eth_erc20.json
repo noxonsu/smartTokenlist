@@ -65551,7 +65551,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 208
-        }
+        },
+        "web_domains": [
+            "puffer.fi"
+        ]
     },
     {
         "contract_address": "0x2c056f9402a0627bc0e580365bb12979fc011e2c",
@@ -65613,7 +65616,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 63
-        }
+        },
+        "web_domains": [
+            "rageragerage.myshopify.com"
+        ]
     },
     {
         "contract_address": "0x9b0e1c344141fb361b842d397df07174e1cdb988",
