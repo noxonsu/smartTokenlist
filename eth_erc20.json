@@ -66063,7 +66063,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 188
-        }
+        },
+        "web_domains": [
+            "inceptionlrt.com"
+        ]
     },
     {
         "contract_address": "0xde8cd13b812bcd82218754a740b27e76ec1e86ad",
