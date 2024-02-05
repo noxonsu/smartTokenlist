@@ -66066,7 +66066,14 @@
         },
         "web_domains": [
             "inceptionlrt.com"
-        ]
+        ],
+        "telegram_groups": [
+            "inceptionlrt"
+        ],
+        "emails": [
+            "marketing@inceptionlrt.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xde8cd13b812bcd82218754a740b27e76ec1e86ad",
