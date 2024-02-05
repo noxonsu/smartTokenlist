@@ -66470,7 +66470,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 41
-        }
+        },
+        "web_domains": [
+            "docs.subsquid.io"
+        ]
     },
     {
         "contract_address": "0x786dbff3f1292ae8f92ea68cf93c30b34b1ed04b",
