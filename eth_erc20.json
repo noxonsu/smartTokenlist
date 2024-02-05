@@ -66613,5 +66613,79 @@
         "holders": {
             "ETH": 5
         }
+    },
+    {
+        "contract_address": "0x0b12c03a9e47d6d552489c24f34034973c7d2b4d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.autominderc.com"
+        ],
+        "telegram_groups": [
+            "autominderc"
+        ],
+        "holders": {
+            "ETH": 86
+        }
+    },
+    {
+        "contract_address": "0xf3f929a39a3945677d33e386f4c6768e20279200",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "xizaowu.fun"
+        ],
+        "telegram_groups": [
+            "xizaowu_portal"
+        ],
+        "holders": {
+            "ETH": 51
+        }
+    },
+    {
+        "contract_address": "0xb4a3b0faf0ab53df58001804dda5bfc6a3d59008",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10383
+        }
+    },
+    {
+        "contract_address": "0xbf473e5552925e9d6a764599e1095be338d8db47",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "harmonyex.org"
+        ],
+        "telegram_groups": [
+            "harmony_swap"
+        ],
+        "holders": {
+            "ETH": 70
+        }
+    },
+    {
+        "contract_address": "0x6ef3d766dfe02dc4bf04aae9122eb9a0ded25615",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 97
+        }
+    },
+    {
+        "contract_address": "0xcdb4a8742ed7d0259b51e3454c46c9d6c48d5e88",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 679
+        }
+    },
+    {
+        "contract_address": "0x2ef95edb59065493e3d7b5db8914667d37bd5aea",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 956
+        }
+    },
+    {
+        "contract_address": "0xbdcc5e19a30873bc9c695ac00b187c51d34c498a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 135
+        }
     }
 ]
