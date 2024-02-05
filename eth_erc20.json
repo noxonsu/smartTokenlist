@@ -66694,5 +66694,97 @@
         "holders": {
             "ETH": 135
         }
+    },
+    {
+        "contract_address": "0x93bebc3ce88da2ad0bd3eec9d44f2b66cf9d4500",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "defarming.finance",
+            "defarming.finance"
+        ],
+        "telegram_groups": [
+            "DeFarmingAnn",
+            "DeFarmingFi",
+            "DeFarmingAnn",
+            "DeFarmingFi"
+        ],
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0x1272b792e571d887fd50791aeccb463b9bb9fa42",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.dreambrowser.io"
+        ],
+        "telegram_groups": [
+            "DreamBrowserPortal"
+        ],
+        "holders": {
+            "ETH": 107
+        }
+    },
+    {
+        "contract_address": "0x7a4ef93109f936f17d8611562f4be728d6fb6c40",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "queefbox.io"
+        ],
+        "telegram_groups": [
+            "QueefBox"
+        ],
+        "holders": {
+            "ETH": 174
+        }
+    },
+    {
+        "contract_address": "0xdc349913d53b446485e98b76800b6254f43df695",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 31012
+        }
+    },
+    {
+        "contract_address": "0x0bfb387b87e8bf173a10a7dcf786b0b7875f6771",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 150
+        }
+    },
+    {
+        "contract_address": "0x278cfb6f06b1efc09d34fc7127d6060c61d629db",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 244
+        }
+    },
+    {
+        "contract_address": "0x788d39ebe18bcd1323b9e879fc87ca24746223db",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 133
+        }
+    },
+    {
+        "contract_address": "0xde715330043799d7a80249660d1e6b61eb3713b3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 615
+        }
+    },
+    {
+        "contract_address": "0x10703ca5e253306e2ababd68e963198be8887c81",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 651
+        }
+    },
+    {
+        "contract_address": "0xe2634677493c134524f8c922681184723560a1be",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 119
+        }
     }
 ]
