@@ -66704,13 +66704,12 @@
         ],
         "telegram_groups": [
             "DeFarmingAnn",
-            "DeFarmingFi",
-            "DeFarmingAnn",
             "DeFarmingFi"
         ],
         "holders": {
             "ETH": 16
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1272b792e571d887fd50791aeccb463b9bb9fa42",
@@ -66723,7 +66722,8 @@
         ],
         "holders": {
             "ETH": 107
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7a4ef93109f936f17d8611562f4be728d6fb6c40",
@@ -66736,7 +66736,8 @@
         ],
         "holders": {
             "ETH": 174
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xdc349913d53b446485e98b76800b6254f43df695",
@@ -66788,6 +66789,11 @@
         },
         "web_domains": [
             "sharpex.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "ecom.operations@sharpex.com"
+        ],
+        "p6": true
     }
 ]
