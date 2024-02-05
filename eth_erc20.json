@@ -66186,7 +66186,9 @@
         },
         "web_domains": [
             "yeth.yearn.fi"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa43fe16908251ee70ef74718545e4fe6c5ccec9f",
@@ -66213,7 +66215,8 @@
         ],
         "holders": {
             "ETH": 79
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xbe92b510007bd3ec0adb3d1fca338dd631e98de7",
@@ -66263,7 +66266,8 @@
         ],
         "holders": {
             "ETH": 154
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x740a5ac14d0096c81d331adc1611cf2fd28ae317",
@@ -66281,7 +66285,9 @@
         ],
         "holders": {
             "ETH": 7
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc647af11c3cd7feb1e5e55afa8cfa8fd5b2fb218",
