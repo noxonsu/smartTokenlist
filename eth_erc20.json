@@ -66531,5 +66531,73 @@
         "holders": {
             "ETH": 2779
         }
+    },
+    {
+        "contract_address": "0xa849cd6239906f23b63ba34441b73a5c6eba8a00",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hashmind.tech"
+        ],
+        "telegram_groups": [
+            "hashmind_portal"
+        ],
+        "holders": {
+            "ETH": 230
+        }
+    },
+    {
+        "contract_address": "0x7c31587ee47b41963b25019eb7dfee49488f51f0",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "XTVToken"
+        ],
+        "holders": {
+            "ETH": 75
+        }
+    },
+    {
+        "contract_address": "0x25f1df2bec1840d8bfc3abedf017ff3d8440f765",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 73
+        }
+    },
+    {
+        "contract_address": "0x7d225c4cc612e61d26523b099b0718d03152edef",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 770
+        }
+    },
+    {
+        "contract_address": "0x32630c22e17dbbb8d58860d287aa8597b0b36b28",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 86
+        }
+    },
+    {
+        "contract_address": "0x1d303dc78f9d90e4fff9325696275d9e603e5cf3",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "xtvcoinerc20"
+        ],
+        "holders": {
+            "ETH": 103
+        }
+    },
+    {
+        "contract_address": "0xfcef09aa3635c068a8789f4c2c53a03349a89b25",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xc6b9c3fa037303d10d50d71ae3cedb0eea7a1c78",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
     }
 ]
