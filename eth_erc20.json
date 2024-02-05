@@ -66543,7 +66543,11 @@
         ],
         "holders": {
             "ETH": 230
-        }
+        },
+        "emails": [
+            "admin@hashmind.tech"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7c31587ee47b41963b25019eb7dfee49488f51f0",
@@ -66594,7 +66598,14 @@
         },
         "web_domains": [
             "protocol.style"
-        ]
+        ],
+        "telegram_groups": [
+            "ProtocolStyle"
+        ],
+        "emails": [
+            "info@protocol.style"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc6b9c3fa037303d10d50d71ae3cedb0eea7a1c78",
