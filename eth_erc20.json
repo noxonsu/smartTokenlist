@@ -66621,11 +66621,16 @@
             "www.autominderc.com"
         ],
         "telegram_groups": [
+            "amind_solbot",
             "autominderc"
         ],
         "holders": {
             "ETH": 86
-        }
+        },
+        "emails": [
+            "support@autominderc.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf3f929a39a3945677d33e386f4c6768e20279200",
@@ -66638,7 +66643,8 @@
         ],
         "holders": {
             "ETH": 51
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb4a3b0faf0ab53df58001804dda5bfc6a3d59008",
@@ -66658,7 +66664,8 @@
         ],
         "holders": {
             "ETH": 70
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6ef3d766dfe02dc4bf04aae9122eb9a0ded25615",
