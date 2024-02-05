@@ -66309,5 +66309,100 @@
         "holders": {
             "ETH": 0
         }
+    },
+    {
+        "contract_address": "0x01d8c89fd913ac391b1d15acff32d726e286fb12",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2296
+        }
+    },
+    {
+        "contract_address": "0xf36c5f04127f7470834ed6f98bddc1be62aba48d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3026
+        }
+    },
+    {
+        "contract_address": "0x84fb449bdfc62cee6caaf0371974f543ac641b42",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 69
+        }
+    },
+    {
+        "contract_address": "0x6d3759a61335de155580334eafd84de93d4d957a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "stormwarfare.com"
+        ],
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0x96db9ff74c02c0514dafbe4945784a0740e883c1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1253
+        }
+    },
+    {
+        "contract_address": "0xbc5311653dbbd1ecaff00fdb5985449cbfd77c98",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 989
+        }
+    },
+    {
+        "contract_address": "0x5a446b57431c94bd931c4e876ca227bbe6553f6d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 151
+        }
+    },
+    {
+        "contract_address": "0x136b9eb2f40bcb2ce1aa64af9451478d32cb0e0a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "brainiac.fit",
+            "app.brainiac.fit",
+            "doc.brainiac.fit"
+        ],
+        "telegram_groups": [
+            "brainiac_portal"
+        ],
+        "holders": {
+            "ETH": 50
+        }
+    },
+    {
+        "contract_address": "0xcf75f2bb76e6064760a5e1fb24fa01efaf349044",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xe3a22fe27b2ff4cc59a2bac5b1cd91d371840fb9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x1bd4e05241b1973dd6099b13af73cf0cc0726ca3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xc543c86f93da6af26fe4c4f9373d54f45ab327b0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
     }
 ]
