@@ -66183,7 +66183,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 186
-        }
+        },
+        "web_domains": [
+            "yeth.yearn.fi"
+        ]
     },
     {
         "contract_address": "0xa43fe16908251ee70ef74718545e4fe6c5ccec9f",
