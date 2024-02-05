@@ -66339,7 +66339,11 @@
         ],
         "holders": {
             "ETH": 18
-        }
+        },
+        "telegram_groups": [
+            "stormwarfareHQ"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x96db9ff74c02c0514dafbe4945784a0740e883c1",
@@ -66375,7 +66379,8 @@
         ],
         "holders": {
             "ETH": 50
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xcf75f2bb76e6064760a5e1fb24fa01efaf349044",
