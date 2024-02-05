@@ -66591,7 +66591,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 2
-        }
+        },
+        "web_domains": [
+            "protocol.style"
+        ]
     },
     {
         "contract_address": "0xc6b9c3fa037303d10d50d71ae3cedb0eea7a1c78",
