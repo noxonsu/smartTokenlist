@@ -30,7 +30,7 @@ def create_github_issue(token, title, body):
 def check_existing_issue(token, title, existing_issues_cache):
     page = 1
     while True:
-        url = f"https://api.github.com/repos/noxonsu/chains/issues?state=all&page={page}"
+        url = f"https://api.github.com/repos/noxonsu/smartTokenlist/issues?state=all&page={page}"
         headers = {
             "Authorization": f"token {token}",
             "Accept": "application/vnd.github.v3+json"
@@ -50,43 +50,39 @@ def check_existing_issue(token, title, existing_issues_cache):
     return False
 
 if __name__ == "__main__":
-    if len(sys.argv) < 2:
-        print("Usage: python script.py <GitHub_Token>")
-        sys.exit(1)
+    
 
-    github_token = sys.argv[1]
+    #github_token = sys.argv[1]
     existing_data = load_existing_data("eth_erc20.json")
-
-    # Get the current date and time
-    now = datetime.now()
-
-    # Initialize cache for existing issues
-    existing_issues_cache = set()
-
-    # Initialize counter for total items scanned
-    total_items_scanned = 0
-
+    
+    # Example of data structure
+    """
+        {
+            "contract_address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+            "sourceScanned": "processed",
+            "web_domains": [
+                "tokenmint.io"
+            ],
+            "holders": {
+                "ETH": 1354770
+            },
+            "telegram_groups": [],
+            "p6": true
+        },
+    """
+    
+    #select only elements with p8 = true and save to eth_erc20_p8.json file
+    total_items_scanned = 0 
+    filtered_data = []
     for item in existing_data:
-        date_add_str = item.get("dateAdd", None)
+        total_items_scanned += 1
+        if "p8" in item and item["p8"] == True:
+            filtered_data.append(item)
+            
+    
+    with open("eth_erc20_p8.json", "w") as f:
+        json.dump(filtered_data, f, indent=4)
         
-        if date_add_str:
-            try:
-                date_add = datetime.strptime(date_add_str, '%Y-%m-%dT%H:%M:%S.%f')
-                days_diff = (now - date_add).days
-            except ValueError:
-                print(f"Invalid date format for item with chainId {item.get('chainId', 'Unknown')}")
-                days_diff = None
-        else:
-            days_diff = None
-
-        if days_diff is not None and days_diff <= 2:
-            total_items_scanned += 1  # Increment the counter
-            chain_id = item.get("chainId", "Unknown")
-            ticker = item.get("ticker", "Unknown")
-            title = f"ADD {chain_id} {ticker}"
-
-            if title not in existing_issues_cache and not check_existing_issue(github_token, title, existing_issues_cache):
-                body = json.dumps(item, indent=4)
-                create_github_issue(github_token, title, body)
+    
 
     print(f"Total items scanned: {total_items_scanned}")
