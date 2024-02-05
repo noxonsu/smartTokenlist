@@ -66409,5 +66409,118 @@
         "holders": {
             "ETH": 0
         }
+    },
+    {
+        "contract_address": "0xcf8d4b71efc3283e1a2534a6821f436d5e9ca759",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 60
+        }
+    },
+    {
+        "contract_address": "0x54012cdf4119de84218f7eb90eeb87e25ae6ebd7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.reddit.com",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "luffytokenchannel"
+        ],
+        "holders": {
+            "ETH": 23209
+        }
+    },
+    {
+        "contract_address": "0x42e27e36bbd0a8c08652a3e980e7476e813bfef0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "matmo.cc"
+        ],
+        "telegram_groups": [
+            "MatmoChain"
+        ],
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0xdfb44a21e3b3113f84a37ce26f43f6209edf924b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 17
+        }
+    },
+    {
+        "contract_address": "0x5391f88af37dc2f4f719ed5ebaadc122d5e5f264",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xd89a8d39a5dbfe9ce0cca6a97cb78530b009738e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0xf70bffb646e040d2c8e6904dec7ef8eb067dc793",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 41
+        }
+    },
+    {
+        "contract_address": "0x786dbff3f1292ae8f92ea68cf93c30b34b1ed04b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 968
+        }
+    },
+    {
+        "contract_address": "0x6fdc15f45c03b05596cad585828f01869363be27",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ROASTCHICKENETH"
+        ],
+        "holders": {
+            "ETH": 176
+        }
+    },
+    {
+        "contract_address": "0x3d431d24faff923536d242cb768ad73dab42b0ea",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ducky-coin.com"
+        ],
+        "telegram_groups": [
+            "ducky_eth"
+        ],
+        "holders": {
+            "ETH": 201
+        }
+    },
+    {
+        "contract_address": "0xf8ca040af262d95bd9bb2c526bfa5ee8f587983f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pepemmo.online",
+            "pepemmo-1.gitbook.io"
+        ],
+        "telegram_groups": [
+            "pepemmo"
+        ],
+        "holders": {
+            "ETH": 197
+        }
+    },
+    {
+        "contract_address": "0x8eb1779a32678452eb273a22d413207299904d90",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2779
+        }
     }
 ]
