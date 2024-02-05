@@ -2,7 +2,7 @@ name: 9sendProposal.py
 
 on:
   schedule:
-    - cron: '35 0 */3 * *'  #run 
+    - cron: '35 0 */3 3 3'  #run 
   workflow_dispatch:  # Allows manual run
 
 jobs:
