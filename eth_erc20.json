@@ -67447,7 +67447,11 @@
         ],
         "holders": {
             "ETH": 492
-        }
+        },
+        "emails": [
+            "info@produceai.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x24fcfc492c1393274b6bcd568ac9e225bec93584",
@@ -67467,7 +67471,8 @@
         ],
         "holders": {
             "ETH": 103
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc4c346edc55504574cceb00aa1091d22404a4bc3",
@@ -67502,7 +67507,8 @@
         ],
         "holders": {
             "ETH": 132
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x762d94ca7d6539609646fed4c1657a05463223f9",
@@ -67526,7 +67532,11 @@
         ],
         "holders": {
             "ETH": 35
-        }
+        },
+        "telegram_groups": [
+            "PeapodsFinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbe59baad09b07086ee6c39bd0fc234c157c31ccc",
@@ -67551,13 +67561,12 @@
         ],
         "telegram_groups": [
             "DeFarmingAnn",
-            "DeFarmingFi",
-            "DeFarmingAnn",
             "DeFarmingFi"
         ],
         "holders": {
             "ETH": 34
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0cf580a0759410de2e3c6974301ec12c024ef4c7",
