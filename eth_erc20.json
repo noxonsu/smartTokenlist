@@ -66795,5 +66795,113 @@
             "ecom.operations@sharpex.com"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x28300d1c687b1f982d67f8a74efded5427da6ec1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.gamestopeth.lol"
+        ],
+        "telegram_groups": [
+            "gme_eth"
+        ],
+        "holders": {
+            "ETH": 335
+        }
+    },
+    {
+        "contract_address": "0x97c22109da1dd0c5a8fa207702511e19e9e2c51f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "anonymous.wf"
+        ],
+        "telegram_groups": [
+            "projectanon256"
+        ],
+        "holders": {
+            "ETH": 114
+        }
+    },
+    {
+        "contract_address": "0x9fd5555d0360adc2b5d92179e9bc36802bba8621",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "apeszn.space"
+        ],
+        "telegram_groups": [
+            "APESZN_ETH"
+        ],
+        "holders": {
+            "ETH": 1167
+        }
+    },
+    {
+        "contract_address": "0x2fb8cba29c7a20064ef078e0f978d05fc7ea9c5b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xdfdd01e6f7b00fbc7dbe959352fe893abb374363",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "niantoken.com"
+        ],
+        "telegram_groups": [
+            "Nian_OfficialPortal"
+        ],
+        "holders": {
+            "ETH": 326
+        }
+    },
+    {
+        "contract_address": "0x9a1722b1f4a1bb2f271211ade8e851afc54f77e5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 318
+        }
+    },
+    {
+        "contract_address": "0xd23fc7eaf15bfe2565675fe07479fcf425743755",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 336
+        }
+    },
+    {
+        "contract_address": "0x69bbc3f8787d573f1bbdd0a5f40c7ba0aee9bcc9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1744
+        }
+    },
+    {
+        "contract_address": "0x962f8b272bac544e7febf5ef4bd6a97a1a0f3196",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 31
+        }
+    },
+    {
+        "contract_address": "0x38d9eb07a7b8df7d86f440a4a5c4a4c1a27e1a08",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1107
+        }
+    },
+    {
+        "contract_address": "0x6e9e3baf06db9265f81e0d6862039569e73b076e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x909e34d3f6124c324ac83dcca84b74398a6fa173",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4668
+        }
     }
 ]
