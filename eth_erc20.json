@@ -67299,7 +67299,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 135
-        }
+        },
+        "web_domains": [
+            "chirpley.ai"
+        ]
     },
     {
         "contract_address": "0xbb404e5e1f80ea5d03679408b94dd677f486dc55",
