@@ -67276,5 +67276,53 @@
         "holders": {
             "ETH": 392
         }
+    },
+    {
+        "contract_address": "0xa0117792d4b100fd329b37e8ab4181df8a5b3326",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "PORTAL_BREPE"
+        ],
+        "holders": {
+            "ETH": 958
+        }
+    },
+    {
+        "contract_address": "0x07f9702ce093db82dfdc92c2c6e578d6ea8d5e22",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1319
+        }
+    },
+    {
+        "contract_address": "0x70bc0dc6414eb8974bc70685f798838a87d8cce4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 135
+        }
+    },
+    {
+        "contract_address": "0xbb404e5e1f80ea5d03679408b94dd677f486dc55",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0xfd4d6b6a4cfdaf9be77ba1da69fba47629112e64",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "LongXingDaDaERC20"
+        ],
+        "holders": {
+            "ETH": 431
+        }
+    },
+    {
+        "contract_address": "0x41279b70674111c6ad5a481055ec2569fb36b5bb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 24
+        }
     }
 ]
