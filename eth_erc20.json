@@ -67331,5 +67331,100 @@
         "holders": {
             "ETH": 24
         }
+    },
+    {
+        "contract_address": "0x5255b7a26346aaa759902a6d885c7f1fd692c85a",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "nCommunitySolana"
+        ],
+        "holders": {
+            "ETH": 45
+        }
+    },
+    {
+        "contract_address": "0x54e1a86e8f8b5ee1bcd9c36a66d0c386c24ac153",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "FuckSol_Portal"
+        ],
+        "holders": {
+            "ETH": 411
+        }
+    },
+    {
+        "contract_address": "0x97b41a4af406971f19e9e4f97567c5fff9784c65",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 311
+        }
+    },
+    {
+        "contract_address": "0x6311fcfef61e75e11c6e78949d7849f3b07e3a15",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zeusaitrading.com"
+        ],
+        "telegram_groups": [
+            "ZeusAiTrading"
+        ],
+        "holders": {
+            "ETH": 733
+        }
+    },
+    {
+        "contract_address": "0x7f5488c507ab3b0cf18c9d0b10b1decb723cef3d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 44
+        }
+    },
+    {
+        "contract_address": "0x0e52319d98c1e81c87aca872500736d8dd44c2c4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x97b973d285a87a33f13b70c163d275d81c5fffb9",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Frozensolana"
+        ],
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0x3b55d7d1bf24d8f1f370018d59c5deac5b06d330",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xd17d6dcbd1619b979fe5275dad2ee16f8e180a2f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 862
+        }
+    },
+    {
+        "contract_address": "0x256fb830945141f7927785c06b65dabc3744213c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1532
+        }
+    },
+    {
+        "contract_address": "0x58113796fd7af9d01467385709d11ceb536fdbc8",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "pandorausers"
+        ],
+        "holders": {
+            "ETH": 94
+        }
     }
 ]
