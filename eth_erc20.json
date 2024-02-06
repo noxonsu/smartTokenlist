@@ -67724,7 +67724,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 105
-        }
+        },
+        "web_domains": [
+            "starfish.finance"
+        ]
     },
     {
         "contract_address": "0x0c65423182cf3617255d8e5242e884069258d912",
