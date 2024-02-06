@@ -67717,7 +67717,8 @@
         ],
         "holders": {
             "ETH": 483
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa719cb79af39a9c10eda2755e0938bce35e9de24",
@@ -67727,7 +67728,11 @@
         },
         "web_domains": [
             "starfish.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "starfishfinanceofficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0c65423182cf3617255d8e5242e884069258d912",
@@ -67758,7 +67763,14 @@
         ],
         "holders": {
             "ETH": 263
-        }
+        },
+        "telegram_groups": [
+            "LockDAO_io"
+        ],
+        "emails": [
+            "contact@lockdao.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x80647556f67ccbd2bed66a8556ace7f5a9fbf40c",
