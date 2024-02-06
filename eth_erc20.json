@@ -67377,7 +67377,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 44
-        }
+        },
+        "web_domains": [
+            "kstarcoin.com"
+        ]
     },
     {
         "contract_address": "0x0e52319d98c1e81c87aca872500736d8dd44c2c4",
