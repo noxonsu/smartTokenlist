@@ -67204,13 +67204,14 @@
             "linktr.ee"
         ],
         "telegram_groups": [
+            "locklabbot",
             "locklaberc20",
-            "locklabsolana",
-            "locklabbot"
+            "locklabsolana"
         ],
         "holders": {
             "ETH": 178
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x58fb30a61c218a3607e9273d52995a49ff2697ee",
@@ -67233,11 +67234,13 @@
             "mibot-token.io"
         ],
         "telegram_groups": [
-            "mibotportal"
+            "mibotportal",
+            "ebaseportal"
         ],
         "holders": {
             "ETH": 139
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x99c0e6637e3abd84b4d10767a36a681bcf2b2ce1",
