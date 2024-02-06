@@ -67184,5 +67184,94 @@
         },
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x5fb001d2990aa1703e9323150ad69891f12b7f97",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "amconerc"
+        ],
+        "holders": {
+            "ETH": 47
+        }
+    },
+    {
+        "contract_address": "0x07dc9b6a549e4c786819f28a385fde4d88259823",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.locklaberc20.com",
+            "tokenerc20.gitbook.io",
+            "linktr.ee"
+        ],
+        "telegram_groups": [
+            "locklaberc20",
+            "locklabsolana",
+            "locklabbot"
+        ],
+        "holders": {
+            "ETH": 178
+        }
+    },
+    {
+        "contract_address": "0x58fb30a61c218a3607e9273d52995a49ff2697ee",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 569
+        }
+    },
+    {
+        "contract_address": "0x1e8352e5d5e9ef7a68432a39118082653e8a9758",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0xa1883e17d499b065f4a0911a74088377b2688cce",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mibot-token.io"
+        ],
+        "telegram_groups": [
+            "mibotportal"
+        ],
+        "holders": {
+            "ETH": 139
+        }
+    },
+    {
+        "contract_address": "0x99c0e6637e3abd84b4d10767a36a681bcf2b2ce1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x9b06d48e0529ecf05905ff52dd426ebec0ea3011",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2385
+        }
+    },
+    {
+        "contract_address": "0x37dc647f794a4ef6073818302f290bc117306f30",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x795ef0b729bbebbbec56f8dbb330c685d6ac1b0d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1072
+        }
+    },
+    {
+        "contract_address": "0x7acc3f723419fa0c1f789618f798e75c5189c24f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 392
+        }
     }
 ]
