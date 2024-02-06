@@ -67034,5 +67034,138 @@
         "holders": {
             "ETH": 1
         }
+    },
+    {
+        "contract_address": "0xe8c0624beaae7df578b7a63a9fa1b7e1d9ed9c46",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 166
+        }
+    },
+    {
+        "contract_address": "0xef5dcd305fca8af8ad54788dd2384ed760372dfb",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nibiru.fi",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "nibiruchain"
+        ],
+        "holders": {
+            "ETH": 38
+        }
+    },
+    {
+        "contract_address": "0xae5384a7119d380f960154d0683f5cd4343a6818",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0x351b134d80baa54fd2c208b8bca5fd1ba06d5f9a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 137
+        }
+    },
+    {
+        "contract_address": "0x92ec47df1aa167806dfa4916d9cfb99da6953b8f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 642
+        }
+    },
+    {
+        "contract_address": "0x25433bf8e7654de2d6c074b8b8089c4e9fb404c0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.roaringkitty.net"
+        ],
+        "telegram_groups": [
+            "RoaringKittyERC"
+        ],
+        "holders": {
+            "ETH": 638
+        }
+    },
+    {
+        "contract_address": "0xe0ad1806fd3e7edf6ff52fdb822432e847411033",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2812
+        }
+    },
+    {
+        "contract_address": "0x550ff64056b008d855b501d4aaea33aa1842c022",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "Punx.wtf"
+        ],
+        "telegram_groups": [
+            "Punxcoin"
+        ],
+        "holders": {
+            "ETH": 54
+        }
+    },
+    {
+        "contract_address": "0xfbc74f4cff1cf833997dd4d0a57a75687dadf7d6",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@silo.finance",
+            "security@silo.finance"
+        ],
+        "holders": {
+            "ETH": 76
+        }
+    },
+    {
+        "contract_address": "0x999fe5985eeeaf0ea7ca0de9f6c0132772846bfe",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@silo.finance",
+            "security@silo.finance"
+        ],
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0xf19860895795bd7467a46cf3db64addd35b56a40",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pepepigtoken.com"
+        ],
+        "telegram_groups": [
+            "pepepigtoken"
+        ],
+        "holders": {
+            "ETH": 59
+        }
+    },
+    {
+        "contract_address": "0x45448e05020576929fcdeabc228e35b420098840",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 94
+        }
+    },
+    {
+        "contract_address": "0x0acc0fee1d86d2cd5af372615bf59b298d50cd69",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org"
+        ],
+        "holders": {
+            "ETH": 165
+        }
     }
 ]
