@@ -67150,7 +67150,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 94
-        }
+        },
+        "web_domains": [
+            "idavoll.network"
+        ]
     },
     {
         "contract_address": "0x0acc0fee1d86d2cd5af372615bf59b298d50cd69",
