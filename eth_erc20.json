@@ -39113,7 +39113,9 @@
         ],
         "holders": {
             "ETH": 4713
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb4efd85c19999d84251304bda99e90b92300bd93",
@@ -51018,7 +51020,9 @@
         ],
         "holders": {
             "ETH": 1450
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xdf574c24545e5ffecb9a659c229253d4111d87e1",
@@ -67054,7 +67058,8 @@
         ],
         "holders": {
             "ETH": 38
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xae5384a7119d380f960154d0683f5cd4343a6818",
@@ -67108,7 +67113,8 @@
         ],
         "holders": {
             "ETH": 54
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xfbc74f4cff1cf833997dd4d0a57a75687dadf7d6",
@@ -67143,7 +67149,8 @@
         ],
         "holders": {
             "ETH": 59
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x45448e05020576929fcdeabc228e35b420098840",
@@ -67153,7 +67160,12 @@
         },
         "web_domains": [
             "idavoll.network"
-        ]
+        ],
+        "telegram_groups": [
+            "idavollnetwork",
+            "idavollglobal"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0acc0fee1d86d2cd5af372615bf59b298d50cd69",
@@ -67169,6 +67181,8 @@
         ],
         "holders": {
             "ETH": 165
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     }
 ]
