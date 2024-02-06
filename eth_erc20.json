@@ -66973,7 +66973,8 @@
         ],
         "holders": {
             "ETH": 215
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xae3499c8f016faf4e23e3411f3a62192b0a1b6fe",
@@ -67014,7 +67015,11 @@
         ],
         "holders": {
             "ETH": 74
-        }
+        },
+        "emails": [
+            "info@presidentialbot.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x79740d53eb3bc798ec8455816211c4d6d9212bbd",
