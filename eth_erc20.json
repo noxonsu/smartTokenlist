@@ -68485,11 +68485,16 @@
             "Scopex.App"
         ],
         "telegram_groups": [
-            "ScopexAI"
+            "ScopexAI",
+            "ScopexAIBot"
         ],
         "holders": {
             "ETH": 119
-        }
+        },
+        "emails": [
+            "dev@scopex.app"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8b91f277501cf8322ebe34f137dd35b384b353c7",
@@ -68499,11 +68504,16 @@
             "docs.coreai.one"
         ],
         "telegram_groups": [
-            "CoreAIPortal"
+            "CoreAIPortal",
+            "CoreAIOne_Bot"
         ],
         "holders": {
             "ETH": 348
-        }
+        },
+        "emails": [
+            "Contact@coreai.one"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x912aed8f4648b49da7d928a84056b5825f951e19",
@@ -68513,11 +68523,17 @@
         ],
         "telegram_groups": [
             "ELONMAGA",
+            "MEMECOINSnews",
+            "MEMECOINSlife",
             "ELON_MAGA"
         ],
         "holders": {
             "ETH": 82
-        }
+        },
+        "emails": [
+            "\n                meme@memecoins.life\n                "
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd26ba814c26cedd82cd40da33b050e7b0b93f677",
@@ -68527,12 +68543,13 @@
             "the-mo-ai.gitbook.io"
         ],
         "telegram_groups": [
-            "moai_ai",
-            "Moai_chat_bot"
+            "Moai_chat_bot",
+            "moai_ai"
         ],
         "holders": {
             "ETH": 224
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe59b14e43479dc30d77f553e4b5c6fc67e1f6caf",
@@ -68545,7 +68562,8 @@
         },
         "web_domains": [
             "lexaai.app"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc73c167e7a4ba109e4052f70d5466d0c312a344d",
