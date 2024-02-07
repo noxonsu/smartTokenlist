@@ -68145,5 +68145,103 @@
         "holders": {
             "ETH": 189
         }
+    },
+    {
+        "contract_address": "0x3473315e4f7748589ef3b202215adcafe646ee76",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 148
+        }
+    },
+    {
+        "contract_address": "0xc469ed8da46a8f2c231da6d18e728deb6f2fde77",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "biaofork.vip"
+        ],
+        "telegram_groups": [
+            "biaofork_portal"
+        ],
+        "holders": {
+            "ETH": 46
+        }
+    },
+    {
+        "contract_address": "0xe901ec5fc8d576b48b75b42191abc3a2cc8d3cf8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 157
+        }
+    },
+    {
+        "contract_address": "0xa1abecc1b3958da78259fa2793653fc48e976420",
+        "sourceScanned": "processed",
+        "emails": [
+            "woof@dogggo.io"
+        ],
+        "holders": {
+            "ETH": 1584
+        }
+    },
+    {
+        "contract_address": "0x80d4f13acc30968fd6225b1ea79f5779f09fee60",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3556
+        }
+    },
+    {
+        "contract_address": "0x43b34bd6f74a2dd330c514724703e598760ed001",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "putin.wtf"
+        ],
+        "telegram_groups": [
+            "putincoinerc"
+        ],
+        "holders": {
+            "ETH": 28
+        }
+    },
+    {
+        "contract_address": "0xe62351bec078b72accc6ea728435f7663c1fe766",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x374fb05c96c36348b92e38fb088b26b8511e3b3d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1651
+        }
+    },
+    {
+        "contract_address": "0x842d275545b78526965019646923eca4a5ef9fff",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 354
+        }
+    },
+    {
+        "contract_address": "0xdfbc9050f5b01df53512dcc39b4f2b2bbacd517a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9732
+        }
+    },
+    {
+        "contract_address": "0xbb703412d47b681646f5b241a937b8136d9a2bc8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ripplechain.net"
+        ],
+        "telegram_groups": [
+            "XRPchainERC20"
+        ],
+        "holders": {
+            "ETH": 679
+        }
     }
 ]
