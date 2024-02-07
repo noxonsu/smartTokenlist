@@ -68577,7 +68577,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 135
-        }
+        },
+        "web_domains": [
+            "metapool.app"
+        ]
     },
     {
         "contract_address": "0xbfab6fa95e0091ed66058ad493189d2cb29385e6",
