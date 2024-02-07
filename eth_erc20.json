@@ -68408,5 +68408,50 @@
         "holders": {
             "ETH": 3
         }
+    },
+    {
+        "contract_address": "0x16f87caa2171aea2106400973c1df1bf931fa91f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0x10f2cf6ef155460c5b716080eb57928652867f2e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 750
+        }
+    },
+    {
+        "contract_address": "0x2f8bde13b6e7ffd3fc0333a6a6871000f025e454",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 36
+        }
+    },
+    {
+        "contract_address": "0x9004c267010bd784374417162e8bbdd4fad1da66",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9
+        }
+    },
+    {
+        "contract_address": "0x1929761e87667283f087ea9ab8370c174681b4e9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 231
+        }
+    },
+    {
+        "contract_address": "0x0d7d5b474063f1e2e1e7cec3c29fd97e51f2c6df",
+        "sourceScanned": "processed",
+        "emails": [
+            "pigwizwig@proton.me"
+        ],
+        "holders": {
+            "ETH": 62
+        }
     }
 ]
