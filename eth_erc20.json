@@ -68011,5 +68011,126 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x18e5f92103d1b34623738ee79214b1659f2ee109",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cellmates.io"
+        ],
+        "holders": {
+            "ETH": 71
+        }
+    },
+    {
+        "contract_address": "0x0fca7fbde293a5de02375ddad178ee2d4f68d2ff",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wokedisney.vip"
+        ],
+        "telegram_groups": [
+            "wokedisneyerc"
+        ],
+        "holders": {
+            "ETH": 72
+        }
+    },
+    {
+        "contract_address": "0xb258d97123c12c0880be958c8e2547487345eca2",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ignoreERC"
+        ],
+        "holders": {
+            "ETH": 195
+        }
+    },
+    {
+        "contract_address": "0xa3b3beaf9c0a6160a8e47f000c094d34121f1a57",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 328
+        }
+    },
+    {
+        "contract_address": "0xe5eda0e9554dbd09edb1fa1f66b2a18779db737c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.bonketh.xyz"
+        ],
+        "telegram_groups": [
+            "bonkonethcoin"
+        ],
+        "holders": {
+            "ETH": 181
+        }
+    },
+    {
+        "contract_address": "0xa686cc0f0c2d199646fb4f18e4b6dbc012f962b7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xc048f53e3e1d365902dd902b9fefc16b61d30a5b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 106
+        }
+    },
+    {
+        "contract_address": "0x5f3a3a469ea20741db52e9217196926136e4e49e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 89
+        }
+    },
+    {
+        "contract_address": "0x31bd628c038f08537e0229f0d8c0a7b18b0cda7b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "intelliquantcoin.com",
+            "docs.intelliquantcoin.com"
+        ],
+        "telegram_groups": [
+            "IntelliQuantVerify"
+        ],
+        "holders": {
+            "ETH": 96
+        }
+    },
+    {
+        "contract_address": "0x7f59b64c6ee521c0d7e590cf8e4b843caa236f96",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cellmates.io",
+            "cellmates.io",
+            "www.w3.org"
+        ],
+        "holders": {
+            "ETH": 121
+        }
+    },
+    {
+        "contract_address": "0x1bdfe84bd3604d49d6a39a9e357aee6b59d303a7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xd49374d1d6d2b2d793035a0116f2b0d19230de26",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 802
+        }
+    },
+    {
+        "contract_address": "0xd399b359c73f38fd72b5d1d17192465e802f2de8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 189
+        }
     }
 ]
