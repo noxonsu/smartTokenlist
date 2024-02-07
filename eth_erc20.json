@@ -68580,7 +68580,9 @@
         },
         "web_domains": [
             "metapool.app"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xbfab6fa95e0091ed66058ad493189d2cb29385e6",
