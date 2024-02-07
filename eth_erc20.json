@@ -68020,7 +68020,9 @@
         ],
         "holders": {
             "ETH": 71
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0fca7fbde293a5de02375ddad178ee2d4f68d2ff",
@@ -68033,7 +68035,8 @@
         ],
         "holders": {
             "ETH": 72
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb258d97123c12c0880be958c8e2547487345eca2",
@@ -68063,7 +68066,8 @@
         ],
         "holders": {
             "ETH": 181
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa686cc0f0c2d199646fb4f18e4b6dbc012f962b7",
@@ -68094,11 +68098,18 @@
             "docs.intelliquantcoin.com"
         ],
         "telegram_groups": [
-            "IntelliQuantVerify"
+            "ChainSentinelBot",
+            "IntelliQuantVerify",
+            "IntelliQuantAIBot",
+            "IntelliQuantOfficial"
         ],
         "holders": {
             "ETH": 96
-        }
+        },
+        "emails": [
+            "hello@intelliquantcoin.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7f59b64c6ee521c0d7e590cf8e4b843caa236f96",
@@ -68110,7 +68121,9 @@
         ],
         "holders": {
             "ETH": 121
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x1bdfe84bd3604d49d6a39a9e357aee6b59d303a7",
