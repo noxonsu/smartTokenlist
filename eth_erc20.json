@@ -68250,5 +68250,92 @@
         "holders": {
             "ETH": 679
         }
+    },
+    {
+        "contract_address": "0x2b95a1dcc3d405535f9ed33c219ab38e8d7e0884",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 327
+        }
+    },
+    {
+        "contract_address": "0x93c1aea62756bb3f7b1b7bb9c83d33c2368688ac",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x78faa79f713d0d8a39d3e52694833d42565576ca",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x781b2ed8e2f1d2080c4a6566bc5d07592cc0cdab",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x0de54cfdfed8005176f8b7a9d5438b45c4f1df1e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0x7c9f4c87d911613fe9ca58b579f737911aad2d43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1025
+        }
+    },
+    {
+        "contract_address": "0x3de34b44385bd53ba28f6365ed135e3bd3269434",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "DisneyEntry"
+        ],
+        "holders": {
+            "ETH": 180
+        }
+    },
+    {
+        "contract_address": "0x857154af6c7ff2f0de049eebeaa0122d2f9ba8a5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 135
+        }
+    },
+    {
+        "contract_address": "0x2960d71855a521c8414d29a27218efdb67c34180",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2377
+        }
+    },
+    {
+        "contract_address": "0xe57538e4075446e42907ea48abfa83b864f518e4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 91
+        }
+    },
+    {
+        "contract_address": "0x6dca1ec190dc00334a930cfd74b06a5905b4234e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 81
+        }
+    },
+    {
+        "contract_address": "0x29447cd99663aa6790be06fd150835f805a7f5fd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10
+        }
     }
 ]
