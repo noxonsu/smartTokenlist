@@ -68542,7 +68542,10 @@
         ],
         "holders": {
             "ETH": 213
-        }
+        },
+        "web_domains": [
+            "lexaai.app"
+        ]
     },
     {
         "contract_address": "0xc73c167e7a4ba109e4052f70d5466d0c312a344d",
