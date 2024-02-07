@@ -68337,5 +68337,64 @@
         "holders": {
             "ETH": 10
         }
+    },
+    {
+        "contract_address": "0x8cd66652c1b201ca7ce8bcf1e83bfc4d1c4fc518",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.createmytoken.com"
+        ],
+        "holders": {
+            "ETH": 315
+        }
+    },
+    {
+        "contract_address": "0xc437c2af9917b0ce00d831f75660e9720d49ffef",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 28
+        }
+    },
+    {
+        "contract_address": "0xc4e30d504fe3b18423d82a34e7ebe529a56f89c2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wojak20eth.pro",
+            "threads.net"
+        ],
+        "telegram_groups": [
+            "wojak20eth"
+        ],
+        "holders": {
+            "ETH": 222
+        }
+    },
+    {
+        "contract_address": "0xb8692e69a01d480c48bdc246044fd53e74df469d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4111
+        }
+    },
+    {
+        "contract_address": "0x851a980db8ea102ab65226be687f20d88755df75",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 82
+        }
+    },
+    {
+        "contract_address": "0xcab7ffc5a5759ab8c4f9a366f33a032bdac28ac1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 568
+        }
+    },
+    {
+        "contract_address": "0x07b68ca74e4fea68e8caf46a7e9b93aeffc22b87",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
     }
 ]
