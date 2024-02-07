@@ -68453,5 +68453,102 @@
         "holders": {
             "ETH": 62
         }
+    },
+    {
+        "contract_address": "0x8248270620aa532e4d64316017be5e873e37cc09",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4782
+        }
+    },
+    {
+        "contract_address": "0x0025a0418c56d74ccb770d75e0bf4dd4fb8b20af",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Milady404"
+        ],
+        "holders": {
+            "ETH": 80
+        }
+    },
+    {
+        "contract_address": "0xa37cef56609ed9980bd35608018e77b10045bacc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x6fc16de36e040e0c7d1a70d039ef701516516b32",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "Scopex.App"
+        ],
+        "telegram_groups": [
+            "ScopexAI"
+        ],
+        "holders": {
+            "ETH": 119
+        }
+    },
+    {
+        "contract_address": "0x8b91f277501cf8322ebe34f137dd35b384b353c7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.coreai.one",
+            "docs.coreai.one"
+        ],
+        "telegram_groups": [
+            "CoreAIPortal"
+        ],
+        "holders": {
+            "ETH": 348
+        }
+    },
+    {
+        "contract_address": "0x912aed8f4648b49da7d928a84056b5825f951e19",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "elonmaga.com"
+        ],
+        "telegram_groups": [
+            "ELONMAGA",
+            "ELON_MAGA"
+        ],
+        "holders": {
+            "ETH": 82
+        }
+    },
+    {
+        "contract_address": "0xd26ba814c26cedd82cd40da33b050e7b0b93f677",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mo-ai.chat",
+            "the-mo-ai.gitbook.io"
+        ],
+        "telegram_groups": [
+            "moai_ai",
+            "Moai_chat_bot"
+        ],
+        "holders": {
+            "ETH": 224
+        }
+    },
+    {
+        "contract_address": "0xe59b14e43479dc30d77f553e4b5c6fc67e1f6caf",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "lexabot_ai"
+        ],
+        "holders": {
+            "ETH": 213
+        }
+    },
+    {
+        "contract_address": "0xc73c167e7a4ba109e4052f70d5466d0c312a344d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 44962
+        }
     }
 ]
