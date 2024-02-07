@@ -52034,7 +52034,9 @@
         ],
         "holders": {
             "ETH": 688
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd1bcccc2c316d9eece9d5bf65c9caf1273bad11a",
@@ -67486,7 +67488,9 @@
         ],
         "holders": {
             "ETH": 652
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x30377540b74d5521083be68b731e90feb1e11ec7",
@@ -68346,7 +68350,9 @@
         ],
         "holders": {
             "ETH": 315
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc437c2af9917b0ce00d831f75660e9720d49ffef",
@@ -68356,7 +68362,9 @@
         },
         "web_domains": [
             "forgottenplayland.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc4e30d504fe3b18423d82a34e7ebe529a56f89c2",
@@ -68370,7 +68378,8 @@
         ],
         "holders": {
             "ETH": 222
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb8692e69a01d480c48bdc246044fd53e74df469d",
