@@ -69061,7 +69061,8 @@
         ],
         "holders": {
             "ETH": 294
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc9da78305d36f7da5a60c299f4f51b31c8a95288",
@@ -69070,11 +69071,13 @@
             "www.zoot-ai.com"
         ],
         "telegram_groups": [
-            "zootAIofficial"
+            "zootAIofficial",
+            "ZootAi_Bot"
         ],
         "holders": {
             "ETH": 62
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x44face2e310e543f6d85867eb06fb251e3bfe1fc",
@@ -69137,7 +69140,11 @@
         ],
         "holders": {
             "ETH": 15
-        }
+        },
+        "telegram_groups": [
+            "PeapodsFinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x106538cc16f938776c7c180186975bca23875287",
