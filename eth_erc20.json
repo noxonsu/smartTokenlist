@@ -69201,5 +69201,145 @@
         "holders": {
             "ETH": 1
         }
+    },
+    {
+        "contract_address": "0x77e182b1529d95bc2b33521d7871c8f974981b62",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "makeethgreatagain.org"
+        ],
+        "telegram_groups": [
+            "MakeEthGreatAgain_Portal"
+        ],
+        "holders": {
+            "ETH": 144
+        }
+    },
+    {
+        "contract_address": "0x719e7f0dadfdea25b78595da944f44d15d7e6795",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 107
+        }
+    },
+    {
+        "contract_address": "0x06b3aeb9caca25b45496dbacb86d5129e758b2c7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "erc404bot.io"
+        ],
+        "telegram_groups": [
+            "bot404portal",
+            "OfficialErc404Bot"
+        ],
+        "holders": {
+            "ETH": 140
+        }
+    },
+    {
+        "contract_address": "0xa833fee82c777a0df944554c59c6eb82499f98ee",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tswift.xyz"
+        ],
+        "telegram_groups": [
+            "TSWIFTETH"
+        ],
+        "holders": {
+            "ETH": 137
+        }
+    },
+    {
+        "contract_address": "0xd91c684b54d752de5fe8a89c9b80ca87df4828a6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "404deployer.xyz"
+        ],
+        "telegram_groups": [
+            "Deployer404Bot",
+            "Deployer404"
+        ],
+        "holders": {
+            "ETH": 421
+        }
+    },
+    {
+        "contract_address": "0x4b7e48862e0282db24d24c4ab05c0adb5b99a6da",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blockchat.gitbook.io"
+        ],
+        "telegram_groups": [
+            "BlockChatErc20"
+        ],
+        "holders": {
+            "ETH": 132
+        }
+    },
+    {
+        "contract_address": "0x90da2d83dcaabf2d5bd68b1ac13c7e3453a7b4da",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "potion404.com",
+            "potion404.gitbook.io"
+        ],
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0x3633219f59e07643c54ae0f2a2fa98538b7350f7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 29
+        }
+    },
+    {
+        "contract_address": "0x9471a367c34feb503d9a5f2c050cf2c28e5d7ac0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 46
+        }
+    },
+    {
+        "contract_address": "0xb398880e52775b584686ea74de785d06a60262d7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "joyerc20.com"
+        ],
+        "telegram_groups": [
+            "JOY_JD_INU"
+        ],
+        "holders": {
+            "ETH": 221
+        }
+    },
+    {
+        "contract_address": "0xd7f91853a3c5a9ae38dbb10098ddce80adb08277",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x34b782b1b75e445218a29c4c5a8b152fade03b85",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 64
+        }
+    },
+    {
+        "contract_address": "0xcb85607aa4330382b4fab2f884a5fe69c0b501bc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xf1db1b5afb630386dd8579c1c690502069323a57",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
     }
 ]
