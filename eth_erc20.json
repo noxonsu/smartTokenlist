@@ -69314,7 +69314,14 @@
         },
         "web_domains": [
             "puppylovecoin.com"
-        ]
+        ],
+        "telegram_groups": [
+            "PuppyLoveCoin"
+        ],
+        "emails": [
+            "info@puppylovecoin.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb398880e52775b584686ea74de785d06a60262d7",
@@ -69327,7 +69334,8 @@
         ],
         "holders": {
             "ETH": 221
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd7f91853a3c5a9ae38dbb10098ddce80adb08277",
