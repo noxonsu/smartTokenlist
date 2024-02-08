@@ -68707,5 +68707,124 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x01c4a7816a4d08013c7f5d1dd188a24a6441fa09",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "rattlerswap.com"
+        ],
+        "telegram_groups": [
+            "rattlerswap"
+        ],
+        "holders": {
+            "ETH": 38
+        }
+    },
+    {
+        "contract_address": "0xc7f93c68efac7bcec6ee4df4d89308792f6117d4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "peapods.finance"
+        ],
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0x48c87cdacb6bb6bf6e5cd85d8ee5c847084c7410",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hamsters.gg"
+        ],
+        "telegram_groups": [
+            "hamstersgg"
+        ],
+        "holders": {
+            "ETH": 3493
+        }
+    },
+    {
+        "contract_address": "0x226695abb15a2d9a04a880464ae0fde614545f52",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "gmatrixs.com",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "gmatrixsofficial"
+        ],
+        "holders": {
+            "ETH": 125
+        }
+    },
+    {
+        "contract_address": "0xb1c064c3f2908f741c9dea4afc5773238b53e6cc",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "WXDY69INU"
+        ],
+        "holders": {
+            "ETH": 832
+        }
+    },
+    {
+        "contract_address": "0xd12b2859227b88c8065b6216e6e1b980d8dfe152",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "satnode.io"
+        ],
+        "holders": {
+            "ETH": 146
+        }
+    },
+    {
+        "contract_address": "0xb5318027ef2c5004e9fdf6a9512e92dcfa98aed7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.federalcrypto.fund",
+            "app.federalcrypto.fund",
+            "docs.federalcrypto.fund"
+        ],
+        "telegram_groups": [
+            "fcbank_fund"
+        ],
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0x8c894d91748a42fc68f681090db06720779a7347",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x985e0df1f95729f054cf959a07362d33f22a6670",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "PINGERCPORTAL"
+        ],
+        "holders": {
+            "ETH": 1095
+        }
+    },
+    {
+        "contract_address": "0xab99872919766ea36111026973b04855bb26b803",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "lccportal"
+        ],
+        "holders": {
+            "ETH": 87
+        }
+    },
+    {
+        "contract_address": "0x8e4f01d590a9df47555bed3efaf26385e5c61185",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 59
+        }
     }
 ]
