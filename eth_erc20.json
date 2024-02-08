@@ -68618,5 +68618,80 @@
         "holders": {
             "ETH": 244
         }
+    },
+    {
+        "contract_address": "0x38d95158d13b544fe76fd4512a4b96bbde5c3939",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "R1C4RD0.io"
+        ],
+        "telegram_groups": [
+            "R1C4RDETH"
+        ],
+        "holders": {
+            "ETH": 87
+        }
+    },
+    {
+        "contract_address": "0x17bfcdf6df798a3f07e9b2afecb742f97323f476",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "tataErc"
+        ],
+        "holders": {
+            "ETH": 35
+        }
+    },
+    {
+        "contract_address": "0x7c06d4e1c70696e3c398c5b0f3db58544ca85980",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 85
+        }
+    },
+    {
+        "contract_address": "0x675c197203a632ab736bd657c12b7db46cf89e4f",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "MagaJrCoin"
+        ],
+        "holders": {
+            "ETH": 144
+        }
+    },
+    {
+        "contract_address": "0xc55d28ac155c1a43ef2309869b704df677788e81",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 39
+        }
+    },
+    {
+        "contract_address": "0xf2dfdbe1ea71bbdcb5a4662a16dbf5e487be3ebe",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "getde.cloud",
+            "dapp.getde.cloud"
+        ],
+        "telegram_groups": [
+            "getdecloud"
+        ],
+        "holders": {
+            "ETH": 260
+        }
+    },
+    {
+        "contract_address": "0x34fca40cbdfd854656ffd552c62f1d861d46d88c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 190
+        }
+    },
+    {
+        "contract_address": "0xc6bcf40470e0d6ee42f22da94a3c36830e4d76f5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 28
+        }
     }
 ]
