@@ -68626,11 +68626,16 @@
             "R1C4RD0.io"
         ],
         "telegram_groups": [
-            "R1C4RDETH"
+            "R1C4RDETH",
+            "r1c4rdeth"
         ],
         "holders": {
             "ETH": 87
-        }
+        },
+        "emails": [
+            "team@r1c4rd0.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x17bfcdf6df798a3f07e9b2afecb742f97323f476",
@@ -68678,7 +68683,11 @@
         ],
         "holders": {
             "ETH": 260
-        }
+        },
+        "emails": [
+            "Email : info@getde.cloud"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x34fca40cbdfd854656ffd552c62f1d861d46d88c",
@@ -68695,6 +68704,8 @@
         },
         "web_domains": [
             "nota.404.mn"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
