@@ -56872,7 +56872,11 @@
         ],
         "holders": {
             "ETH": 637
-        }
+        },
+        "telegram_groups": [
+            "LunaInuERC20"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7865af71cf0b288b4e7f654f4f7851eb46a2b7f8",
@@ -68864,7 +68868,11 @@
         ],
         "holders": {
             "ETH": 376
-        }
+        },
+        "telegram_groups": [
+            "LunaInuERC20"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xcd0063eaf579951c8be2018345e1ac19bdcfa8da",
