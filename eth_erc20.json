@@ -69299,7 +69299,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 46
-        }
+        },
+        "web_domains": [
+            "puppylovecoin.com"
+        ]
     },
     {
         "contract_address": "0xb398880e52775b584686ea74de785d06a60262d7",
