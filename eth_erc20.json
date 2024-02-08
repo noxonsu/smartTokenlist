@@ -69213,7 +69213,11 @@
         ],
         "holders": {
             "ETH": 144
-        }
+        },
+        "emails": [
+            "contact@makeethgreatagain.org"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x719e7f0dadfdea25b78595da944f44d15d7e6795",
@@ -69229,12 +69233,13 @@
             "erc404bot.io"
         ],
         "telegram_groups": [
-            "bot404portal",
-            "OfficialErc404Bot"
+            "OfficialErc404Bot",
+            "bot404portal"
         ],
         "holders": {
             "ETH": 140
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa833fee82c777a0df944554c59c6eb82499f98ee",
@@ -69247,7 +69252,8 @@
         ],
         "holders": {
             "ETH": 137
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd91c684b54d752de5fe8a89c9b80ca87df4828a6",
@@ -69261,7 +69267,8 @@
         ],
         "holders": {
             "ETH": 421
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4b7e48862e0282db24d24c4ab05c0adb5b99a6da",
@@ -69274,7 +69281,8 @@
         ],
         "holders": {
             "ETH": 132
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x90da2d83dcaabf2d5bd68b1ac13c7e3453a7b4da",
@@ -69285,7 +69293,11 @@
         ],
         "holders": {
             "ETH": 20
-        }
+        },
+        "telegram_groups": [
+            "potion404"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3633219f59e07643c54ae0f2a2fa98538b7350f7",
