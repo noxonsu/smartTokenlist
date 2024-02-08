@@ -68719,7 +68719,8 @@
         ],
         "holders": {
             "ETH": 38
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc7f93c68efac7bcec6ee4df4d89308792f6117d4",
@@ -68729,7 +68730,11 @@
         ],
         "holders": {
             "ETH": 7
-        }
+        },
+        "telegram_groups": [
+            "PeapodsFinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x48c87cdacb6bb6bf6e5cd85d8ee5c847084c7410",
@@ -68756,7 +68761,8 @@
         ],
         "holders": {
             "ETH": 125
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb1c064c3f2908f741c9dea4afc5773238b53e6cc",
@@ -68776,7 +68782,9 @@
         ],
         "holders": {
             "ETH": 146
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb5318027ef2c5004e9fdf6a9512e92dcfa98aed7",
@@ -68791,7 +68799,11 @@
         ],
         "holders": {
             "ETH": 30
-        }
+        },
+        "emails": [
+            "support@federalcrypto.fund"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8c894d91748a42fc68f681090db06720779a7347",
@@ -68828,6 +68840,13 @@
         },
         "web_domains": [
             "defi-lab.xyz"
-        ]
+        ],
+        "telegram_groups": [
+            "joinchat"
+        ],
+        "emails": [
+            "contact@defi-lab.xyz"
+        ],
+        "p6": true
     }
 ]
