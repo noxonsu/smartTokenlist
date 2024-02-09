@@ -69495,7 +69495,11 @@
         },
         "web_domains": [
             "greentoken.org"
-        ]
+        ],
+        "telegram_groups": [
+            "greentokenorg"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x44086035439e676c02d411880fccb9837ce37c57",
@@ -69519,7 +69523,11 @@
         ],
         "holders": {
             "ETH": 31
-        }
+        },
+        "telegram_groups": [
+            "wormholecrypto"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc481cb6ab13564350f2f4efc3bcfcb815f94731d",
@@ -69532,7 +69540,8 @@
         ],
         "holders": {
             "ETH": 159
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb4ae194a0dcf1b4080b164c1d775ee06e0817305",
@@ -69554,7 +69563,8 @@
         ],
         "holders": {
             "ETH": 4
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x835402b49abf72acaa25985091ec37d421bc69f6",
