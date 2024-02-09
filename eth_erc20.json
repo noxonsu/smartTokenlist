@@ -69833,5 +69833,93 @@
         "holders": {
             "ETH": 67
         }
+    },
+    {
+        "contract_address": "0xabc2ad42db09323eff909aa15778b600f061afc1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 22
+        }
+    },
+    {
+        "contract_address": "0x80ad6d17613deeaceb6ebc97f1c11b7f1a097c52",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bitpixel.tech",
+            "docs.bitpixel.tech"
+        ],
+        "telegram_groups": [
+            "bitpixel404",
+            "bitpixel_bot",
+            "bitpixel_feed"
+        ],
+        "holders": {
+            "ETH": 77
+        }
+    },
+    {
+        "contract_address": "0x69579470d2e471297701df7895a11fb3a7003c7c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 106
+        }
+    },
+    {
+        "contract_address": "0x7d7ef607a2b7ab675194d85eb03b276a93f6b71d",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ChadCommunity"
+        ],
+        "holders": {
+            "ETH": 412
+        }
+    },
+    {
+        "contract_address": "0xd4d4b7b55b30fb096c30ad202e746d010b47dc30",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "alphabotcalls.com"
+        ],
+        "telegram_groups": [
+            "AlphaBotCalls"
+        ],
+        "holders": {
+            "ETH": 522
+        }
+    },
+    {
+        "contract_address": "0xc7c8e683c02f2757b0e2ecaa9d5334234ee2e25c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "chain-ai.xyz",
+            "chain-ai.gitbook.io"
+        ],
+        "telegram_groups": [
+            "chain_ai_bot",
+            "chain_ai"
+        ],
+        "holders": {
+            "ETH": 105
+        }
+    },
+    {
+        "contract_address": "0x9686ab2891e08c76c918575c005c9c5e506f6dcf",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.launcher404bot.com"
+        ],
+        "telegram_groups": [
+            "launcher404"
+        ],
+        "holders": {
+            "ETH": 76
+        }
+    },
+    {
+        "contract_address": "0x99bb69ee1bbfc7706c3ebb79b21c5b698fe58ec0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 55
+        }
     }
 ]
