@@ -69572,5 +69572,75 @@
         "holders": {
             "ETH": 0
         }
+    },
+    {
+        "contract_address": "0x07834b06b5756056e065c0bd1639761ab8297513",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org"
+        ],
+        "holders": {
+            "ETH": 948
+        }
+    },
+    {
+        "contract_address": "0x5fc598d4c0d9a3be65b0f56c916c1d8b63c5c331",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x47ea24666bc2fc1a0dd90207f669392a680cfafa",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.w3.org"
+        ],
+        "telegram_groups": [
+            "Loot404ETH"
+        ],
+        "holders": {
+            "ETH": 290
+        }
+    },
+    {
+        "contract_address": "0xb712d62fe84258292d1961b5150a19bc4ab49026",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0xd17e16e283cbb7707eeb0cc53edb99a4c5d15e70",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools"
+        ],
+        "holders": {
+            "ETH": 115
+        }
+    },
+    {
+        "contract_address": "0x40dc02f1c16d936dbe4be405ccf1567b4366f84f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10
+        }
+    },
+    {
+        "contract_address": "0x36583633b08d4a7003b8c52a808933889f67f956",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
