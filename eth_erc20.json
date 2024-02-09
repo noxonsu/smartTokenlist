@@ -70037,7 +70037,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 43
-        }
+        },
+        "web_domains": [
+            "farming.deotoken.io"
+        ]
     },
     {
         "contract_address": "0x5aab3c2639bae8602e43ec520dbb89476220345d",
