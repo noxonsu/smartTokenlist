@@ -69428,5 +69428,54 @@
         "holders": {
             "ETH": 2285
         }
+    },
+    {
+        "contract_address": "0x1b44960b4edddd6743d79f636122e4a251416067",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "404tools.xyz",
+            "docs.404tools.xyz"
+        ],
+        "telegram_groups": [
+            "FourZeroFour_ToolsBot",
+            "tools404monitor"
+        ],
+        "holders": {
+            "ETH": 76
+        }
+    },
+    {
+        "contract_address": "0xfd414e39155f91e94443a9fe97e856569d0f5eec",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1219
+        }
+    },
+    {
+        "contract_address": "0x9c9f161772f2a1db74fff0209f40058875363fcb",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "GameStopClassic.xyz"
+        ],
+        "telegram_groups": [
+            "GameStopClassic"
+        ],
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0x62ea837559eef63ab62d815ba37d559fc9368bfe",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 39
+        }
+    },
+    {
+        "contract_address": "0x84cffa78b2fbbeec8c37391d2b12a04d2030845e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1426
+        }
     }
 ]
