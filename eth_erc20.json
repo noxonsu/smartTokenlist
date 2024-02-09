@@ -69930,5 +69930,120 @@
         "holders": {
             "ETH": 55
         }
+    },
+    {
+        "contract_address": "0xcce4c7348a208aba0a5b1e3bfadb96222f051662",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "peapods.finance"
+        ],
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x1be6761979de8c15a0dad9ee54c9443c1a26e0be",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "AmericaTokenETH"
+        ],
+        "holders": {
+            "ETH": 48
+        }
+    },
+    {
+        "contract_address": "0xdb09534a3d2bd5bc6bb35ff6c8baccc06ee0a80b",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "AMERICAERC20"
+        ],
+        "holders": {
+            "ETH": 48
+        }
+    },
+    {
+        "contract_address": "0x6953f27db0701e22616e701dba91acc2e4b6deca",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mystarbot.ai"
+        ],
+        "telegram_groups": [
+            "StarbotAI"
+        ],
+        "holders": {
+            "ETH": 88
+        }
+    },
+    {
+        "contract_address": "0x06d1d6077699d47b33d1cecdf7e11e6ea843e0fc",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tswift.io"
+        ],
+        "telegram_groups": [
+            "tswift_eth"
+        ],
+        "holders": {
+            "ETH": 96
+        }
+    },
+    {
+        "contract_address": "0x69f04c22a7225773305b121acd6596339668821e",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "americaamericaerc"
+        ],
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0x7c8159da4f86a506bd230e5c21747cb25f9d073b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 35
+        }
+    },
+    {
+        "contract_address": "0xa290be028cbfb00e2205fefecd397380f7d099c3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x63ef2048a8316faa42400daa332d814d2216f29d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xd9c811c3070e046d7882e928781ccaa7ca37c315",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2753
+        }
+    },
+    {
+        "contract_address": "0x5e7f20e72c21f6d0bf0a2814fd4164176401cf8e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 43
+        }
+    },
+    {
+        "contract_address": "0x5aab3c2639bae8602e43ec520dbb89476220345d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
