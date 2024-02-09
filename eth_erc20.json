@@ -69649,5 +69649,49 @@
         "holders": {
             "ETH": 1
         }
+    },
+    {
+        "contract_address": "0x866361b922cb7753a5035bf5dd68c02817fc7a39",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0x83e817e1574e2201a005ec0f7e700ed5606f555e",
+        "sourceScanned": "processed",
+        "emails": [
+            "goncalo.sa@consensys.net"
+        ],
+        "holders": {
+            "ETH": 121
+        }
+    },
+    {
+        "contract_address": "0x6d3bd4e50c9aae16edccb5d1aef32f9271aed9b0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools"
+        ],
+        "holders": {
+            "ETH": 138
+        }
+    },
+    {
+        "contract_address": "0xd2a530170d71a9cfe1651fb468e2b98f7ed7456b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0xfd6e5fa19e809f3a739c5d732b754cc1328c7fb7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
