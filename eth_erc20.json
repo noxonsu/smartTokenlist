@@ -69479,5 +69479,85 @@
         "holders": {
             "ETH": 1426
         }
+    },
+    {
+        "contract_address": "0x05f4ee0125da5f256419e3a215b9a1805f32847d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0x874464211649eb0c504903195902415fb6986aad",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0x44086035439e676c02d411880fccb9837ce37c57",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 205
+        }
+    },
+    {
+        "contract_address": "0x801f90f81786dc72b4b9d51ab613fbe99e5e4ccd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 52
+        }
+    },
+    {
+        "contract_address": "0x0bbf5d4aeb8d9fb9b2f56dad9246229921537e03",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wormhole.com"
+        ],
+        "holders": {
+            "ETH": 31
+        }
+    },
+    {
+        "contract_address": "0xc481cb6ab13564350f2f4efc3bcfcb815f94731d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.tickertopg.com"
+        ],
+        "telegram_groups": [
+            "tickertopg"
+        ],
+        "holders": {
+            "ETH": 159
+        }
+    },
+    {
+        "contract_address": "0xb4ae194a0dcf1b4080b164c1d775ee06e0817305",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 614
+        }
+    },
+    {
+        "contract_address": "0xdc2a0a5117e10f27f81a862717f7d969d6905837",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bitfrogs.org",
+            "app.ens.domains",
+            "app.ens.domains"
+        ],
+        "telegram_groups": [
+            "BitFrogsToken"
+        ],
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x835402b49abf72acaa25985091ec37d421bc69f6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
     }
 ]
