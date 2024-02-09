@@ -69798,11 +69798,13 @@
             "opensea.io"
         ],
         "telegram_groups": [
+            "RefundKitties_ERC",
             "pandoratwo_404"
         ],
         "holders": {
             "ETH": 286
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xca530408c3e552b020a2300debc7bd18820fb42f",
@@ -69812,7 +69814,11 @@
         ],
         "holders": {
             "ETH": 138
-        }
+        },
+        "telegram_groups": [
+            "LunaInuERC20"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0cc488a3f6c9a569614912e421115995493fdfec",
