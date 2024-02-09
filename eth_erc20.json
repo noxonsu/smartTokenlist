@@ -69783,5 +69783,49 @@
         "holders": {
             "ETH": 2
         }
+    },
+    {
+        "contract_address": "0x445d8fd3d09be4c5ea83e7f2ec08052bd0944af6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 140
+        }
+    },
+    {
+        "contract_address": "0x3f4d5fa72878ab1a3651662300eefe4dfc4e071b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "opensea.io"
+        ],
+        "telegram_groups": [
+            "pandoratwo_404"
+        ],
+        "holders": {
+            "ETH": 286
+        }
+    },
+    {
+        "contract_address": "0xca530408c3e552b020a2300debc7bd18820fb42f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tokenmint.io"
+        ],
+        "holders": {
+            "ETH": 138
+        }
+    },
+    {
+        "contract_address": "0x0cc488a3f6c9a569614912e421115995493fdfec",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0x7fa768e035f956c41d6aeaa3bd857e7e5141cad5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 67
+        }
     }
 ]
