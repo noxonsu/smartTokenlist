@@ -70056,5 +70056,86 @@
         "holders": {
             "ETH": 1
         }
+    },
+    {
+        "contract_address": "0x787b55fc90002bbb823262a698c0235f4813fb29",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 57
+        }
+    },
+    {
+        "contract_address": "0x7f2173f13924b9fbfc53f441f53dbb7641ed71b7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 70
+        }
+    },
+    {
+        "contract_address": "0x29e99517e3371674c17ac8aab12b7264bb9e37d5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "peapods.finance"
+        ],
+        "holders": {
+            "ETH": 10
+        }
+    },
+    {
+        "contract_address": "0x50d5118fb90d572b9d42ba65e0addc4900867809",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "osean.online"
+        ],
+        "telegram_groups": [
+            "oseadao"
+        ],
+        "holders": {
+            "ETH": 70
+        }
+    },
+    {
+        "contract_address": "0xeb83006b0aaddd15ad8afbebe2f4e0937f210673",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 22
+        }
+    },
+    {
+        "contract_address": "0x6e99277f5349614ae653b8ac9c5e2f105943e8d9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 121
+        }
+    },
+    {
+        "contract_address": "0xdc580d4dc6b702b72a3511ac1802fa700ad182bb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 737
+        }
+    },
+    {
+        "contract_address": "0x2906bdda4bde0338cf9af4370d5b838da4a0d08f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 22
+        }
+    },
+    {
+        "contract_address": "0xac9ef48865969da2c7d190a6beda58ef46dd0679",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org"
+        ],
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
