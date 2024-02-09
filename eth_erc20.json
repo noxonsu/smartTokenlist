@@ -69855,7 +69855,11 @@
         ],
         "holders": {
             "ETH": 77
-        }
+        },
+        "emails": [
+            "support@bitpixel.tech"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x69579470d2e471297701df7895a11fb3a7003c7c",
@@ -69895,12 +69899,16 @@
             "chain-ai.gitbook.io"
         ],
         "telegram_groups": [
-            "chain_ai_bot",
-            "chain_ai"
+            "chain_ai",
+            "chain_ai_bot"
         ],
         "holders": {
             "ETH": 105
-        }
+        },
+        "emails": [
+            "chainxai@proton.me"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9686ab2891e08c76c918575c005c9c5e506f6dcf",
@@ -69913,7 +69921,8 @@
         ],
         "holders": {
             "ETH": 76
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x99bb69ee1bbfc7706c3ebb79b21c5b698fe58ec0",
