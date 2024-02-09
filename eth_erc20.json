@@ -63988,7 +63988,8 @@
         ],
         "holders": {
             "ETH": 1034
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x542dd0b163022e556ac952867a98932435d781e9",
@@ -69719,7 +69720,8 @@
         ],
         "holders": {
             "ETH": 164
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xab171269842f7b0dcef571986bfac81794be7c36",
@@ -69728,11 +69730,13 @@
             "vitalik.eth.limo"
         ],
         "telegram_groups": [
+            "casinu_inu",
             "LFG_coinERC20"
         ],
         "holders": {
             "ETH": 95
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2614f86ef84b2033cfb78cc634fd7d4ea43d85eb",
@@ -69752,7 +69756,12 @@
         ],
         "holders": {
             "ETH": 3
-        }
+        },
+        "telegram_groups": [
+            "casinu_inu",
+            "LFG_coinERC20"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x55488fcb7adbd694c9e2fa8106feb7e5429555bd",
