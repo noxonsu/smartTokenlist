@@ -69685,7 +69685,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 6
-        }
+        },
+        "web_domains": [
+            "forteaud.com"
+        ]
     },
     {
         "contract_address": "0xfd6e5fa19e809f3a739c5d732b754cc1328c7fb7",
