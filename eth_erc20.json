@@ -69700,5 +69700,79 @@
         "holders": {
             "ETH": 1
         }
+    },
+    {
+        "contract_address": "0x6bf97caa7756529f0c3e1583db7a6b4c8c0c0a50",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0x778e7a9dd3b0fa07ed04ef2c16d9372da7347494",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "capybaraeth.life"
+        ],
+        "telegram_groups": [
+            "Capybara_ETH"
+        ],
+        "holders": {
+            "ETH": 164
+        }
+    },
+    {
+        "contract_address": "0xab171269842f7b0dcef571986bfac81794be7c36",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "vitalik.eth.limo"
+        ],
+        "telegram_groups": [
+            "LFG_coinERC20"
+        ],
+        "holders": {
+            "ETH": 95
+        }
+    },
+    {
+        "contract_address": "0x2614f86ef84b2033cfb78cc634fd7d4ea43d85eb",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "CapyBaraTATA"
+        ],
+        "holders": {
+            "ETH": 117
+        }
+    },
+    {
+        "contract_address": "0x7ecd86bede61d39d11d98b92d932e3a39510d8c0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "vitalik.eth.limo"
+        ],
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x55488fcb7adbd694c9e2fa8106feb7e5429555bd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 877
+        }
+    },
+    {
+        "contract_address": "0x8ae340d333ffb274969f505a6520b91024bc856c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 334
+        }
+    },
+    {
+        "contract_address": "0xb54ef64b4e06a442244aa898b97aa6cd536a258b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
     }
 ]
