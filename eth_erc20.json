@@ -69939,7 +69939,11 @@
         ],
         "holders": {
             "ETH": 4
-        }
+        },
+        "telegram_groups": [
+            "PeapodsFinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1be6761979de8c15a0dad9ee54c9443c1a26e0be",
@@ -69972,7 +69976,8 @@
         ],
         "holders": {
             "ETH": 88
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x06d1d6077699d47b33d1cecdf7e11e6ea843e0fc",
@@ -69985,7 +69990,8 @@
         ],
         "holders": {
             "ETH": 96
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x69f04c22a7225773305b121acd6596339668821e",
@@ -70040,7 +70046,9 @@
         },
         "web_domains": [
             "farming.deotoken.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x5aab3c2639bae8602e43ec520dbb89476220345d",
