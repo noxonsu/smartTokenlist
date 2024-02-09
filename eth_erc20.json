@@ -69492,7 +69492,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 30
-        }
+        },
+        "web_domains": [
+            "greentoken.org"
+        ]
     },
     {
         "contract_address": "0x44086035439e676c02d411880fccb9837ce37c57",
