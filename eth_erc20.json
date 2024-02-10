@@ -70467,21 +70467,30 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 55
-        }
+        },
+        "web_domains": [
+            "fio.net"
+        ]
     },
     {
         "contract_address": "0xbbe3a58585121f7dc4a5c6e7de6514ec86987a77",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 98
-        }
+        },
+        "web_domains": [
+            "www.londoncoin.io"
+        ]
     },
     {
         "contract_address": "0xaeb202756bb7784429e282da887650dcd672284a",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 11
-        }
+        },
+        "web_domains": [
+            "izmirtoken.io"
+        ]
     },
     {
         "contract_address": "0xe8eee524d1fd7281d95697d751dd705c866ddeb5",
