@@ -70377,5 +70377,81 @@
         "holders": {
             "ETH": 2706
         }
+    },
+    {
+        "contract_address": "0x257508ca6341337dd243d54afd964e19375b4af9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 223
+        }
+    },
+    {
+        "contract_address": "0x6dca182ac5e3f99985bc4ee0f726d6472ab1ec55",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5640
+        }
+    },
+    {
+        "contract_address": "0xbb1e43733d4632955422f92f603f34429ecc8d4c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0xf941fed95a8e0167fb4c14ce8f3343afcfb1fece",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2185
+        }
+    },
+    {
+        "contract_address": "0x842310b268d54546497920a8cab264741bb8d8cc",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "capybaraeth.vip"
+        ],
+        "telegram_groups": [
+            "capybaravip"
+        ],
+        "holders": {
+            "ETH": 59
+        }
+    },
+    {
+        "contract_address": "0x0ba11dee8b63f08ea25d0cc733601e8c15325a8d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x887bdd18d042a85b9c702698efe71e1c38d5c868",
+        "sourceScanned": "processed",
+        "emails": [
+            "arachnid@notdot.net",
+            "nick@perfectabstractions.com"
+        ],
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0x0eb3f11ed8ca69813744868d02d83d4fbf72841e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0x874286656ccf5fdfe479092aa3d68a499dbf5795",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "XPROETH"
+        ],
+        "holders": {
+            "ETH": 460
+        }
     }
 ]
