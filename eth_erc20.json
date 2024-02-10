@@ -70996,7 +70996,8 @@
         ],
         "holders": {
             "ETH": 24
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xedaa35ccb7fab43debd4c90053b13bf8372ae0bf",
@@ -71006,11 +71007,13 @@
             "discord.com"
         ],
         "telegram_groups": [
+            "BerachainEco",
             "BerachainPortal"
         ],
         "holders": {
             "ETH": 38
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2407d54b42a570aeb63819d433a63676163cb6d6",
@@ -71020,7 +71023,9 @@
         },
         "web_domains": [
             "thinkrngd.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xcc6f1e1b87cfcbe9221808d2d85c501aab0b5192",
@@ -71078,7 +71083,8 @@
         ],
         "holders": {
             "ETH": 83
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc8d3dcb63c38607cb0c9d3f55e8ecce628a01c36",
