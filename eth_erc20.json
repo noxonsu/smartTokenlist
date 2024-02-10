@@ -70771,7 +70771,10 @@
         ],
         "holders": {
             "ETH": 225
-        }
+        },
+        "web_domains": [
+            "www.kiwibot.com"
+        ]
     },
     {
         "contract_address": "0x47701298e8c4e47e73674eb9d5985b19c10d588c",
