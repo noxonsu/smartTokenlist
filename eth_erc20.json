@@ -70966,5 +70966,129 @@
             "WorldMobileTeam"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0xc73abe8d7a0da644743fe2ad24f4e16bb7ed43f8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "websiteai.io",
+            "support.websiteai.app"
+        ],
+        "telegram_groups": [
+            "WebsiteAIBot"
+        ],
+        "holders": {
+            "ETH": 870
+        }
+    },
+    {
+        "contract_address": "0xfe37d9f2a50a2d0c4d36f5c6a00b5042eb191cb4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "TrumpMagaCoin.com",
+            "www.reddit.com"
+        ],
+        "telegram_groups": [
+            "TrumpMaga_Coin"
+        ],
+        "emails": [
+            "cs@trumpmagacoin.com"
+        ],
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0xedaa35ccb7fab43debd4c90053b13bf8372ae0bf",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.berachain.com",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "BerachainPortal"
+        ],
+        "holders": {
+            "ETH": 38
+        }
+    },
+    {
+        "contract_address": "0x2407d54b42a570aeb63819d433a63676163cb6d6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 74
+        }
+    },
+    {
+        "contract_address": "0xcc6f1e1b87cfcbe9221808d2d85c501aab0b5192",
+        "sourceScanned": "processed",
+        "emails": [
+            "goncalo.sa@consensys.net"
+        ],
+        "holders": {
+            "ETH": 178
+        }
+    },
+    {
+        "contract_address": "0xd208b31addbefb587457dee484a6ce5806ae69e3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x7e743f75c2555a7c29068186feed7525d0fe9195",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2235
+        }
+    },
+    {
+        "contract_address": "0x893c47bc1ff55c2269236ac7a4288681532161e0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 29
+        }
+    },
+    {
+        "contract_address": "0x6e975115250b05c828ecb8ededb091975fc20a5d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2195
+        }
+    },
+    {
+        "contract_address": "0x8094412578e07bf1553da11ab8ad1d541753e819",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 21
+        }
+    },
+    {
+        "contract_address": "0x63d924fb2a9152d74cffbce6fc5e4d03b2f0b98d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "spyro.club"
+        ],
+        "telegram_groups": [
+            "Spyro_eth"
+        ],
+        "holders": {
+            "ETH": 83
+        }
+    },
+    {
+        "contract_address": "0xc8d3dcb63c38607cb0c9d3f55e8ecce628a01c36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1855
+        }
+    },
+    {
+        "contract_address": "0x731cbd21506aeb3018053378caec479474bd5229",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 14
+        }
     }
 ]
