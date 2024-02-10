@@ -70293,5 +70293,82 @@
         "holders": {
             "ETH": 1
         }
+    },
+    {
+        "contract_address": "0x4e6bb6b7447b7b2aa268c16ab87f4bb48bf57939",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x37b24ac19504c0c6fc1adc8deb5d24f5c4f6a2f2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x4875d5e7987c93431e6db9dc53a136f46270f0dc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 39
+        }
+    },
+    {
+        "contract_address": "0x2e564911548d41f896406ffcc633034523f25418",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "chinesedrag0ns.com"
+        ],
+        "telegram_groups": [
+            "dragons404"
+        ],
+        "holders": {
+            "ETH": 68
+        }
+    },
+    {
+        "contract_address": "0xf57bf1e5eae65ad7bbd4196635fbaf0805c074de",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.bobatea.xyz",
+            "www.bobatea.xyz",
+            "www.bobatea.xyz"
+        ],
+        "telegram_groups": [
+            "bobateaxyz"
+        ],
+        "holders": {
+            "ETH": 76
+        }
+    },
+    {
+        "contract_address": "0xc7c8fd2d89e8feb5c5395c2efe11f63a3a651dfe",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 48
+        }
+    },
+    {
+        "contract_address": "0x227756cf42247182bee26675cad9f8838a042abe",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 516
+        }
+    },
+    {
+        "contract_address": "0xbb1ee70778b60d392b505124f2e9ccb05c0f780a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 22
+        }
+    },
+    {
+        "contract_address": "0x7778360f035c589fce2f4ea5786cbd8b36e5396b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2706
+        }
     }
 ]
