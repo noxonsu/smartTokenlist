@@ -70867,7 +70867,9 @@
         ],
         "holders": {
             "ETH": 282
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x014377c0cb83d653828a343b7cba98f82d599ba9",
@@ -70887,7 +70889,8 @@
         ],
         "holders": {
             "ETH": 212
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x39bf31af45e7a7d57b107bbab3b5ef44fd57d7c9",
@@ -70904,7 +70907,11 @@
         ],
         "holders": {
             "ETH": 4
-        }
+        },
+        "telegram_groups": [
+            "CognitionAI"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6e1b4782c3b9db1986b90f0ff1e09160a63a2ed5",
@@ -70935,7 +70942,9 @@
         },
         "web_domains": [
             "fomomofo.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4c91126ee3970bf3120f1ee80d350baab028e617",
@@ -70952,6 +70961,10 @@
         },
         "web_domains": [
             "worldmobile.io"
-        ]
+        ],
+        "telegram_groups": [
+            "WorldMobileTeam"
+        ],
+        "p6": true
     }
 ]
