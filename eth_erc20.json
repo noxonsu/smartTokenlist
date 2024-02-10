@@ -70556,7 +70556,11 @@
         ],
         "holders": {
             "ETH": 48
-        }
+        },
+        "telegram_groups": [
+            "PeapodsFinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x900db999074d9277c5da2a43f252d74366230da0",
@@ -70566,7 +70570,9 @@
         },
         "web_domains": [
             "giveth.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf8bd632aade6b3955034aca0472785f3be39df1a",
@@ -70596,11 +70602,13 @@
             "www.w3.org"
         ],
         "telegram_groups": [
+            "Loot404ETH",
             "onchainpepe404"
         ],
         "holders": {
             "ETH": 173
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xdd2a36ae937bc134ea694d77fc7e2e36f5d86de0",
@@ -70610,7 +70618,14 @@
         },
         "web_domains": [
             "weld.money"
-        ]
+        ],
+        "telegram_groups": [
+            "weldmoney"
+        ],
+        "emails": [
+            "marketing@weld.money"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3d0cc7bd2f6b5d723c7975797078935deffed454",
@@ -70623,7 +70638,8 @@
         ],
         "holders": {
             "ETH": 406
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5ca5d0befcd63fe55874344c2bc7a564a2f4baee",
