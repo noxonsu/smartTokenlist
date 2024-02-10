@@ -70842,5 +70842,110 @@
         "holders": {
             "ETH": 2
         }
+    },
+    {
+        "contract_address": "0xa7c899b832dc3c9bd8a194d718cb276973d77bf4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 116
+        }
+    },
+    {
+        "contract_address": "0x064153b77108a93dd0ad1d3dd60057868f9d1b93",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 425
+        }
+    },
+    {
+        "contract_address": "0x7db72f6d5c624543e857f2af4c6cdaebc678d62c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mitoblobs.xyz",
+            "mitoblobs.xyz",
+            "nftstorage.link"
+        ],
+        "holders": {
+            "ETH": 282
+        }
+    },
+    {
+        "contract_address": "0x014377c0cb83d653828a343b7cba98f82d599ba9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 104
+        }
+    },
+    {
+        "contract_address": "0x32ab62141e912df3a33253d8a7e93df30bfa90b7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "vps66i.com"
+        ],
+        "telegram_groups": [
+            "vps66i"
+        ],
+        "holders": {
+            "ETH": 212
+        }
+    },
+    {
+        "contract_address": "0x39bf31af45e7a7d57b107bbab3b5ef44fd57d7c9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x9dd8889e29f7a00e3f24313439f4117284d0a0ae",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.cognitionai.ai"
+        ],
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x6e1b4782c3b9db1986b90f0ff1e09160a63a2ed5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xebebbecd89786bed7e24c5155488ca3438ba888a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x2febe88fefffdbdee7eba1784cb1d872c372567b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xcc173076d0f082651169fdf3f6d02fc0daab0976",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0x4c91126ee3970bf3120f1ee80d350baab028e617",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0x263b6b028f3e4ed8c4329eb2b5f409ee38d97296",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 207
+        }
     }
 ]
