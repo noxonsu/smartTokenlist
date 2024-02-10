@@ -70348,7 +70348,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 48
-        }
+        },
+        "web_domains": [
+            "pox.investments"
+        ]
     },
     {
         "contract_address": "0x227756cf42247182bee26675cad9f8838a042abe",
