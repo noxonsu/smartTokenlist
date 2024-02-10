@@ -70647,5 +70647,105 @@
         "holders": {
             "ETH": 25
         }
+    },
+    {
+        "contract_address": "0x6dde4ffd6db302bc9a46850f61399e082f6c2122",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 369
+        }
+    },
+    {
+        "contract_address": "0x7f4aa49cbb69442276b9cc8f5faaf08c14f4bc59",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xbf3f45645960b3e5ac45f4ef53ca7c5761de45f5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1339
+        }
+    },
+    {
+        "contract_address": "0x4ef4c7519023f30a78647eeab321d6cfabc2513c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x67268687e26d0f34cac5de30e6c2f63facb592bd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 199
+        }
+    },
+    {
+        "contract_address": "0x2b46578b7f06f2b373ad0e0c9b28f800dcc80bf3",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "echobotfinance"
+        ],
+        "holders": {
+            "ETH": 629
+        }
+    },
+    {
+        "contract_address": "0x11773c43f8b6a3796cfb9100c0a510a6b2570249",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.fredtrumpcoin.com"
+        ],
+        "telegram_groups": [
+            "FredTrumpCoin"
+        ],
+        "holders": {
+            "ETH": 68
+        }
+    },
+    {
+        "contract_address": "0x0c7adf09f760aeedc0c93a8b6d7289602f83b94e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x22d1d11126dabbf93c61d2ca664f236db1821ca8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xb82fa9f31612989525992fcfbb09ab22eff5c85a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0x08152ec1c2e5741562eee223bc0b4cd50a25577b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x11f66e14cc5902765ceefef59e0f06e28ba716f2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 65
+        }
+    },
+    {
+        "contract_address": "0x6ae2a128cd07d672164ca9f2712ea737d198dd41",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1053
+        }
     }
 ]
