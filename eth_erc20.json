@@ -70563,7 +70563,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 166
-        }
+        },
+        "web_domains": [
+            "giveth.io"
+        ]
     },
     {
         "contract_address": "0xf8bd632aade6b3955034aca0472785f3be39df1a",
@@ -70604,7 +70607,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 223
-        }
+        },
+        "web_domains": [
+            "weld.money"
+        ]
     },
     {
         "contract_address": "0x3d0cc7bd2f6b5d723c7975797078935deffed454",
