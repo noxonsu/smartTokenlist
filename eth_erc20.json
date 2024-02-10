@@ -70159,7 +70159,8 @@
         ],
         "holders": {
             "ETH": 34
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5aed3670cb181959e09d43209ab0d7d130c214e3",
@@ -70176,7 +70177,9 @@
         ],
         "holders": {
             "ETH": 309
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x5f2c9765537778d8b4140df6e8bd47a7ae50aef4",
@@ -70186,7 +70189,11 @@
         ],
         "holders": {
             "ETH": 9
-        }
+        },
+        "telegram_groups": [
+            "PeapodsFinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x28fda76721a8077a5de802ab0212849b8c38429e",
@@ -70208,7 +70215,8 @@
         ],
         "holders": {
             "ETH": 70
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xdadc4ee5445278478a2cc522b445e69ec8238a4c",
@@ -70231,7 +70239,8 @@
         ],
         "holders": {
             "ETH": 463
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x845c0179060362f071ff5c7f1d2703617a480f3e",
@@ -70265,7 +70274,11 @@
         ],
         "holders": {
             "ETH": 396
-        }
+        },
+        "emails": [
+            "support@gnomeai.cloud"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1e9d0bb190ac34492aa11b80d28c1c86487a341f",
