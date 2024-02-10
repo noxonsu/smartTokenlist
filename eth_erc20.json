@@ -70748,5 +70748,53 @@
         "holders": {
             "ETH": 1053
         }
+    },
+    {
+        "contract_address": "0xdb8d6d3ac21e4efe3675bbb18514010ac9c5558f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 475
+        }
+    },
+    {
+        "contract_address": "0xe25db4baa49ea3b8627986ffc22c7bd5e0c88d49",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 40
+        }
+    },
+    {
+        "contract_address": "0x0f59bfdd1d95a3736d2e219f905ae9b2e69c6638",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "KIWIERC"
+        ],
+        "holders": {
+            "ETH": 225
+        }
+    },
+    {
+        "contract_address": "0x47701298e8c4e47e73674eb9d5985b19c10d588c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 125
+        }
+    },
+    {
+        "contract_address": "0x9adc7710e9d1b29d8a78c04d52d32532297c2ef3",
+        "sourceScanned": "processed",
+        "emails": [
+            "dave@akomba.com"
+        ],
+        "holders": {
+            "ETH": 1096
+        }
+    },
+    {
+        "contract_address": "0x0345173a92742e9daf55d44ac65e0d987b22379e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 386
+        }
     }
 ]
