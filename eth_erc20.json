@@ -70326,7 +70326,8 @@
         ],
         "holders": {
             "ETH": 68
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf57bf1e5eae65ad7bbd4196635fbaf0805c074de",
@@ -70341,7 +70342,8 @@
         ],
         "holders": {
             "ETH": 76
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc7c8fd2d89e8feb5c5395c2efe11f63a3a651dfe",
@@ -70351,7 +70353,9 @@
         },
         "web_domains": [
             "pox.investments"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x227756cf42247182bee26675cad9f8838a042abe",
