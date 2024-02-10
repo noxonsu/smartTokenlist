@@ -70146,5 +70146,139 @@
         },
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x050058638985181790c553dd22cd8486579d55ae",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wormhole.com",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "wormholecrypto"
+        ],
+        "holders": {
+            "ETH": 34
+        }
+    },
+    {
+        "contract_address": "0x5aed3670cb181959e09d43209ab0d7d130c214e3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 126
+        }
+    },
+    {
+        "contract_address": "0xb9416923a026014ad9203122a8742216852c4215",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.barkat.dev"
+        ],
+        "holders": {
+            "ETH": 309
+        }
+    },
+    {
+        "contract_address": "0x5f2c9765537778d8b4140df6e8bd47a7ae50aef4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "peapods.finance"
+        ],
+        "holders": {
+            "ETH": 9
+        }
+    },
+    {
+        "contract_address": "0x28fda76721a8077a5de802ab0212849b8c38429e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1662
+        }
+    },
+    {
+        "contract_address": "0x0c71c4e0e16ba9225f89337718ac46f64ac46851",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "404cells.xyz",
+            "errorCells.io",
+            "www.w3.org"
+        ],
+        "telegram_groups": [
+            "ErrorCells"
+        ],
+        "holders": {
+            "ETH": 70
+        }
+    },
+    {
+        "contract_address": "0xdadc4ee5445278478a2cc522b445e69ec8238a4c",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "JEFF1000X"
+        ],
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0xb84cd5e38ba7bd70ae67699842459961d5f156af",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.dada-token.com"
+        ],
+        "telegram_groups": [
+            "DadaThePepeKillerERC"
+        ],
+        "holders": {
+            "ETH": 463
+        }
+    },
+    {
+        "contract_address": "0x845c0179060362f071ff5c7f1d2703617a480f3e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1703
+        }
+    },
+    {
+        "contract_address": "0xded0c22acd80e7a4bd6ec91ced451fc83f04cab2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 407
+        }
+    },
+    {
+        "contract_address": "0x9ee8c380e1926730ad89e91665ff27063b13c90a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 93
+        }
+    },
+    {
+        "contract_address": "0x80b051652edfe224331430b158da73ce58156835",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "gmnomeai.cloud"
+        ],
+        "telegram_groups": [
+            "GNoMEai"
+        ],
+        "holders": {
+            "ETH": 396
+        }
+    },
+    {
+        "contract_address": "0x1e9d0bb190ac34492aa11b80d28c1c86487a341f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1447
+        }
+    },
+    {
+        "contract_address": "0xa212cade2fecedf7973b00d94c17317ea90fbd52",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
