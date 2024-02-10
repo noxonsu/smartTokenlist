@@ -70442,7 +70442,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 26
-        }
+        },
+        "web_domains": [
+            "pendle.finance"
+        ]
     },
     {
         "contract_address": "0x874286656ccf5fdfe479092aa3d68a499dbf5795",
