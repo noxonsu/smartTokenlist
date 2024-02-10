@@ -70461,5 +70461,70 @@
         "holders": {
             "ETH": 460
         }
+    },
+    {
+        "contract_address": "0xbea269038eb75bdab47a9c04d0f5c572d94b93d5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 55
+        }
+    },
+    {
+        "contract_address": "0xbbe3a58585121f7dc4a5c6e7de6514ec86987a77",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 98
+        }
+    },
+    {
+        "contract_address": "0xaeb202756bb7784429e282da887650dcd672284a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0xe8eee524d1fd7281d95697d751dd705c866ddeb5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x3741d5c5f40a4add29ca8240cb33acae730ee065",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x3de27efa2f1aa663ae5d458857e731c129069f29",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi"
+        ],
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x9eda81c21c273a82be9bbc19b6a6182212068101",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x4f5704d9d2cbccaf11e70b34048d41a0d572993f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
     }
 ]
