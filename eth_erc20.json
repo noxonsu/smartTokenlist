@@ -70470,7 +70470,11 @@
         },
         "web_domains": [
             "fio.net"
-        ]
+        ],
+        "telegram_groups": [
+            "joinFIO"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbbe3a58585121f7dc4a5c6e7de6514ec86987a77",
@@ -70480,7 +70484,11 @@
         },
         "web_domains": [
             "www.londoncoin.io"
-        ]
+        ],
+        "telegram_groups": [
+            "londoncoingold"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xaeb202756bb7784429e282da887650dcd672284a",
@@ -70490,7 +70498,9 @@
         },
         "web_domains": [
             "izmirtoken.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe8eee524d1fd7281d95697d751dd705c866ddeb5",
@@ -70520,7 +70530,9 @@
         ],
         "holders": {
             "ETH": 4
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9eda81c21c273a82be9bbc19b6a6182212068101",
