@@ -70417,7 +70417,8 @@
         ],
         "holders": {
             "ETH": 59
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0ba11dee8b63f08ea25d0cc733601e8c15325a8d",
@@ -70445,7 +70446,11 @@
         },
         "web_domains": [
             "pendle.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "pendlefinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x874286656ccf5fdfe479092aa3d68a499dbf5795",
