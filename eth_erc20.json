@@ -71017,7 +71017,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 74
-        }
+        },
+        "web_domains": [
+            "thinkrngd.com"
+        ]
     },
     {
         "contract_address": "0xcc6f1e1b87cfcbe9221808d2d85c501aab0b5192",
