@@ -71285,7 +71285,11 @@
         },
         "web_domains": [
             "crypthub.io"
-        ]
+        ],
+        "telegram_groups": [
+            "CryptHubMain"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0bcdb6d9b27bd62d3de605393902c7d1a2c71aab",
@@ -71310,7 +71314,9 @@
         ],
         "holders": {
             "ETH": 55
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x77777777772cf0455fb38ee0e75f38034dfa50de",
@@ -71340,7 +71346,8 @@
         ],
         "holders": {
             "ETH": 45
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd14dd26e90fd7f003a649dc56c6c4316d31a617a",
@@ -71350,7 +71357,9 @@
         },
         "web_domains": [
             "cube.exchange"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3496b523e5c00a4b4150d6721320cddb234c3079",
