@@ -71583,7 +71583,11 @@
         ],
         "holders": {
             "ETH": 0
-        }
+        },
+        "emails": [
+            "email: info@theparallels404.xyz"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbe6a8f4cc514d6bc6c5a4d35b56e1928e80b5fef",
@@ -71620,6 +71624,7 @@
         ],
         "holders": {
             "ETH": 283
-        }
+        },
+        "p6": true
     }
 ]
