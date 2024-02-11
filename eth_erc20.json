@@ -71626,5 +71626,98 @@
             "ETH": 283
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xb7b1570e26315baad369b8ea0a943b7f140db9eb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 104
+        }
+    },
+    {
+        "contract_address": "0x4b4c8abe2dc873f04068075908f4719554b2cb2c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.penguin-token.com"
+        ],
+        "telegram_groups": [
+            "penguinmemecoin"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x41bf30ac0284a1eb286611984f1663441fbce857",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "uniswap.org"
+        ],
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0xe77ec1bf3a5c95bfe3be7bdbacfe3ac1c7e454cd",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "graphics.stanford.edu",
+            "token-cdn-domain",
+            "token-cdn-domain",
+            "token-cdn-domain",
+            "i.ibb.co",
+            "miner.build"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xa9e6d6b6c619b20e6ab09cbdff0f3f6f1f800a1b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x4bc3263eb5bb2ef7ad9ab6fb68be80e43b43801f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 157
+        }
+    },
+    {
+        "contract_address": "0x72ccb560ec634a43583a7d30687996c852c899ba",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 91
+        }
+    },
+    {
+        "contract_address": "0x0770e5018b71f5fbda00f42dd13507e03d101a90",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 352
+        }
+    },
+    {
+        "contract_address": "0x9a71d68724e04309dab21d3e87f819341530833f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.boobjustrock.vip"
+        ],
+        "telegram_groups": [
+            "BoobsRock_ethcoin"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x89e8e084cc60e6988527f0904b4be71656e8bfa9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 83
+        }
     }
 ]
