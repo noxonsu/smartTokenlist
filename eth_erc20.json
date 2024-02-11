@@ -71374,5 +71374,42 @@
         "holders": {
             "ETH": 399
         }
+    },
+    {
+        "contract_address": "0x69eb53f7281c8a4fe926d02402b28fd5c0b96011",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "NUDES_ERC20"
+        ],
+        "holders": {
+            "ETH": 760
+        }
+    },
+    {
+        "contract_address": "0xcf91b70017eabde82c9671e30e5502d312ea6eb2",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "puppies_coineth"
+        ],
+        "holders": {
+            "ETH": 1975
+        }
+    },
+    {
+        "contract_address": "0xa8b6cbf26128596339c61939e18e7c12af868191",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Puppiesethcoin"
+        ],
+        "holders": {
+            "ETH": 222
+        }
+    },
+    {
+        "contract_address": "0x476908d9f75687684ce3dbf6990e722129cdbcc6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 408
+        }
     }
 ]
