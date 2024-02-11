@@ -71118,7 +71118,8 @@
         ],
         "holders": {
             "ETH": 254
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x053296878aff1276dfcd8f181c68cda00923b570",
@@ -71138,7 +71139,8 @@
         ],
         "holders": {
             "ETH": 66
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0f4a858ec9f83d6b0b2520dd69187763bcc5866f",
@@ -71148,7 +71150,11 @@
         ],
         "holders": {
             "ETH": 65
-        }
+        },
+        "telegram_groups": [
+            "forge_erc"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdd227b646ec90b472c8284d0446ea8479249c8c9",
@@ -71157,11 +71163,13 @@
             "anonymous.wf"
         ],
         "telegram_groups": [
+            "projectanon256",
             "anon_portal"
         ],
         "holders": {
             "ETH": 116
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6bf765c43030387a983f429c1438e9d2025b7e12",
@@ -71187,7 +71195,8 @@
         ],
         "holders": {
             "ETH": 50
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xcf339e1acb051e39a53187068db98b5123ec114c",
@@ -71200,7 +71209,8 @@
         ],
         "holders": {
             "ETH": 127
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xbcb12f52d61a1abc61e502216931127be6b5c06b",
