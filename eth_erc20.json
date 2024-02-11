@@ -71411,5 +71411,116 @@
         "holders": {
             "ETH": 408
         }
+    },
+    {
+        "contract_address": "0x8420d4f8945127d79589285aca224f47119cf70c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2262
+        }
+    },
+    {
+        "contract_address": "0x9cd10945747143d85dd9fa6defee098e066f1b0c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blog.shibaswap.com"
+        ],
+        "holders": {
+            "ETH": 340
+        }
+    },
+    {
+        "contract_address": "0xd993518260e6409a7229b2642dfaefafaf9273ec",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xaedff2cb2738ceffad8eb237283d223eb8737e52",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x556713e6a6a928af55bf3967f847c62402acbadc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 923
+        }
+    },
+    {
+        "contract_address": "0x37b1b0d665024fa6d741f7e9d5fdc11d7d45d412",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@silo.finance",
+            "security@silo.finance"
+        ],
+        "holders": {
+            "ETH": 10
+        }
+    },
+    {
+        "contract_address": "0x197ca4e76a9e75702f3fb45707be060748fb0adf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x8f647302addf0a1cc9cc4e2a6e0270b8ad00fc36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xab86b582eb502243d8dfe1795760f86d98d6637a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0xd59eef88c6397a34c8e6b3aa47c2b7596cf41d3f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xdab566eb1da3f9ee393c9672394b8c709a66393b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x5f3aaff3c10c05d11261519c7b01964cdd8686fd",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.btcape404.com"
+        ],
+        "telegram_groups": [
+            "btcape404"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x77549eadc9ba341e661c9c7ff1857cbae4346de9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x0268b03103f59d5213be791c8113dcc08fc5affd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
     }
 ]
