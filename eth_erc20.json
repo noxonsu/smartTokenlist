@@ -71282,7 +71282,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 13
-        }
+        },
+        "web_domains": [
+            "crypthub.io"
+        ]
     },
     {
         "contract_address": "0x0bcdb6d9b27bd62d3de605393902c7d1a2c71aab",
@@ -71344,7 +71347,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 21
-        }
+        },
+        "web_domains": [
+            "cube.exchange"
+        ]
     },
     {
         "contract_address": "0x3496b523e5c00a4b4150d6721320cddb234c3079",
