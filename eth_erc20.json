@@ -71099,5 +71099,121 @@
         "holders": {
             "ETH": 14
         }
+    },
+    {
+        "contract_address": "0xce012740fdd250fc93bda5bacc1e57a999bf6d3a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 95
+        }
+    },
+    {
+        "contract_address": "0x939d2d647e2186a53deaade793dce929a07b7679",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "goat-eth.com"
+        ],
+        "telegram_groups": [
+            "erc_goat"
+        ],
+        "holders": {
+            "ETH": 254
+        }
+    },
+    {
+        "contract_address": "0x053296878aff1276dfcd8f181c68cda00923b570",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9
+        }
+    },
+    {
+        "contract_address": "0x24bff4fe25b5807bad49b2c08d79bb271766e68a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "alea.gg"
+        ],
+        "telegram_groups": [
+            "aleaeth"
+        ],
+        "holders": {
+            "ETH": 66
+        }
+    },
+    {
+        "contract_address": "0x0f4a858ec9f83d6b0b2520dd69187763bcc5866f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.forgetoken.io"
+        ],
+        "holders": {
+            "ETH": 65
+        }
+    },
+    {
+        "contract_address": "0xdd227b646ec90b472c8284d0446ea8479249c8c9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "anonymous.wf"
+        ],
+        "telegram_groups": [
+            "anon_portal"
+        ],
+        "holders": {
+            "ETH": 116
+        }
+    },
+    {
+        "contract_address": "0x6bf765c43030387a983f429c1438e9d2025b7e12",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mcpepes.com"
+        ],
+        "telegram_groups": [
+            "mcpepes"
+        ],
+        "holders": {
+            "ETH": 1860
+        }
+    },
+    {
+        "contract_address": "0x7178ac3ca3aec50f122716064f5843136566093d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "meowbit.io"
+        ],
+        "telegram_groups": [
+            "meowbitETH"
+        ],
+        "holders": {
+            "ETH": 50
+        }
+    },
+    {
+        "contract_address": "0xcf339e1acb051e39a53187068db98b5123ec114c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.crow-bot.xyz"
+        ],
+        "telegram_groups": [
+            "crowbotportal"
+        ],
+        "holders": {
+            "ETH": 127
+        }
+    },
+    {
+        "contract_address": "0xbcb12f52d61a1abc61e502216931127be6b5c06b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 248
+        }
+    },
+    {
+        "contract_address": "0x766d2fcece1e3eef32aae8711ab886ee95fd5b2a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 252
+        }
     }
 ]
