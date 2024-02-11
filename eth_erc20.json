@@ -25984,7 +25984,9 @@
         ],
         "holders": {
             "ETH": 1322
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0b085e8aaddafc58c6ec0fd6e909a6c20c4e9aba",
@@ -71635,7 +71637,11 @@
         },
         "web_domains": [
             "deepspace.game"
-        ]
+        ],
+        "telegram_groups": [
+            "DeepSpaceGame"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4b4c8abe2dc873f04068075908f4719554b2cb2c",
@@ -71648,7 +71654,11 @@
         ],
         "holders": {
             "ETH": 0
-        }
+        },
+        "emails": [
+            "pudgypenguinofficial@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x41bf30ac0284a1eb286611984f1663441fbce857",
@@ -71658,7 +71668,12 @@
         ],
         "holders": {
             "ETH": 20
-        }
+        },
+        "telegram_groups": [],
+        "emails": [
+            "media@uniswap.org"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe77ec1bf3a5c95bfe3be7bdbacfe3ac1c7e454cd",
@@ -71673,7 +71688,9 @@
         ],
         "holders": {
             "ETH": 0
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa9e6d6b6c619b20e6ab09cbdff0f3f6f1f800a1b",
@@ -71714,7 +71731,8 @@
         ],
         "holders": {
             "ETH": 0
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x89e8e084cc60e6988527f0904b4be71656e8bfa9",
