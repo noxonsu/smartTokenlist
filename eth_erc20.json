@@ -71533,5 +71533,93 @@
         "holders": {
             "ETH": 0
         }
+    },
+    {
+        "contract_address": "0xd34d68a92f4e37d388bb6a72d801da575503b1c3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 81
+        }
+    },
+    {
+        "contract_address": "0x9b7b9957f886ee8440a601c26c58d2f78ea452f4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xe84457f2c5ccdd94bf0109e5476d1f791c734ccd",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "BlobsETH"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x8ca82016e5efc3b028c4bd7ed35c3d6585105360",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 272
+        }
+    },
+    {
+        "contract_address": "0xc3dd23a0a854b4f9ae80670f528094e9eb607ccb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 694
+        }
+    },
+    {
+        "contract_address": "0xf8b75c11d54ea1cc63cbd4404447cbe83c63f70b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "theparallels404.xyz"
+        ],
+        "telegram_groups": [
+            "theparallels404"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xbe6a8f4cc514d6bc6c5a4d35b56e1928e80b5fef",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x26c9fef69e570e8446f641ddc40a9192f2dd99e8",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "sendnudeserc"
+        ],
+        "holders": {
+            "ETH": 346
+        }
+    },
+    {
+        "contract_address": "0xedf978ee4beafbeefd7a0f55faa5a7c6c3cd467d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 75
+        }
+    },
+    {
+        "contract_address": "0xaddeadd3d33efd3a9fc3c1e7e6d1502c212141ec",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nitro-os.io"
+        ],
+        "telegram_groups": [
+            "Nitroosai"
+        ],
+        "holders": {
+            "ETH": 283
+        }
     }
 ]
