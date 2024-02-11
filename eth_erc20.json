@@ -71234,7 +71234,17 @@
         },
         "web_domains": [
             "antibot.live"
-        ]
+        ],
+        "telegram_groups": [
+            "Antibotburn",
+            "solana_scanner",
+            "Anti_snipebot",
+            "antibotelitescanner",
+            "antibotscannerbsc",
+            "antibotcommunity",
+            "AntiBotcheckany"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xca4b70beccabce29efa5bc5c86311e5d38461842",
