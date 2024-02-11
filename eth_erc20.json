@@ -71632,7 +71632,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 104
-        }
+        },
+        "web_domains": [
+            "deepspace.game"
+        ]
     },
     {
         "contract_address": "0x4b4c8abe2dc873f04068075908f4719554b2cb2c",
