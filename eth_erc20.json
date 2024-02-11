@@ -71276,5 +71276,88 @@
         "holders": {
             "ETH": 54
         }
+    },
+    {
+        "contract_address": "0xe754b84d0a077c5e2f3ddca567e24f1683d9ab45",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0x0bcdb6d9b27bd62d3de605393902c7d1a2c71aab",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x7761b6e0daa04e70637d81f1da7d186c205c2ade",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi"
+        ],
+        "holders": {
+            "ETH": 55
+        }
+    },
+    {
+        "contract_address": "0x77777777772cf0455fb38ee0e75f38034dfa50de",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2141
+        }
+    },
+    {
+        "contract_address": "0x5df2724fdc41745a438bab09a26b13c101089888",
+        "sourceScanned": "processed",
+        "emails": [
+            "daxtech@proton.me"
+        ],
+        "holders": {
+            "ETH": 2829
+        }
+    },
+    {
+        "contract_address": "0xddc6933d06f2a85de09463cbd840b00b15d55e85",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "superbowl-lviii.xyz"
+        ],
+        "telegram_groups": [
+            "ChiefsVS49ers"
+        ],
+        "holders": {
+            "ETH": 45
+        }
+    },
+    {
+        "contract_address": "0xd14dd26e90fd7f003a649dc56c6c4316d31a617a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 21
+        }
+    },
+    {
+        "contract_address": "0x3496b523e5c00a4b4150d6721320cddb234c3079",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1093
+        }
+    },
+    {
+        "contract_address": "0xb5b29320d2dde5ba5bafa1ebcd270052070483ec",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 399
+        }
     }
 ]
