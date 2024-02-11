@@ -71427,7 +71427,9 @@
         ],
         "holders": {
             "ETH": 340
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd993518260e6409a7229b2642dfaefafaf9273ec",
@@ -71483,7 +71485,12 @@
         },
         "web_domains": [
             "uostico.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "\ninfo@uniports.net"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd59eef88c6397a34c8e6b3aa47c2b7596cf41d3f",
@@ -71510,7 +71517,8 @@
         ],
         "holders": {
             "ETH": 0
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x77549eadc9ba341e661c9c7ff1857cbae4346de9",
