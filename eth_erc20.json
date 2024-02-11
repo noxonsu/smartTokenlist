@@ -71480,7 +71480,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 30
-        }
+        },
+        "web_domains": [
+            "uostico.com"
+        ]
     },
     {
         "contract_address": "0xd59eef88c6397a34c8e6b3aa47c2b7596cf41d3f",
