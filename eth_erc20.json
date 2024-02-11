@@ -71225,5 +71225,43 @@
         "holders": {
             "ETH": 252
         }
+    },
+    {
+        "contract_address": "0xe6f28389daf01ae12b33ee5e7f1e130c454e8494",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 137
+        }
+    },
+    {
+        "contract_address": "0xca4b70beccabce29efa5bc5c86311e5d38461842",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 800
+        }
+    },
+    {
+        "contract_address": "0x9181f633e9b9f15a32d5e37094f4c93b333e0e92",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0xe0bff53f6a75fbbf917b652ecc8611aab1fd2cd7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 659
+        }
+    },
+    {
+        "contract_address": "0xacad93d2e154660a510c6122f4192856f679ea14",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ZUCKDICK_coineth"
+        ],
+        "holders": {
+            "ETH": 54
+        }
     }
 ]
