@@ -72708,5 +72708,84 @@
         "holders": {
             "ETH": 1777
         }
+    },
+    {
+        "contract_address": "0x54832d8724f8581e7cc0914b3a4e70adc0d94872",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ipfs.io"
+        ],
+        "holders": {
+            "ETH": 527
+        }
+    },
+    {
+        "contract_address": "0x9934de39ca93102321175536bea7d6fe1a1dce37",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 265
+        }
+    },
+    {
+        "contract_address": "0xc7937b44532bf4c0a1f0de3a46c79dddb6dd169d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 460
+        }
+    },
+    {
+        "contract_address": "0xfa7221be35c6606d69dd1c80018f7b053a63a9a5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 66
+        }
+    },
+    {
+        "contract_address": "0x3b54ccb1d5bb0edbabb3872afdff133ae9defd29",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0x6d7497751656618fc38cfb5478994a20f7e235df",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 298
+        }
+    },
+    {
+        "contract_address": "0x649c9fa214fc798852427600940ac50ef2377e2c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 153
+        }
+    },
+    {
+        "contract_address": "0xde5756b3c4e403351e54e0914ceda39b0753377a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xe8b1e79d937c648ce1fe96e6739ddb2714058a18",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "colonizemars.space"
+        ],
+        "telegram_groups": [
+            "GatewayToMars_Portal"
+        ],
+        "holders": {
+            "ETH": 100
+        }
+    },
+    {
+        "contract_address": "0xc3b36424c70e0e6aee3b91d1894c2e336447dbd3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 281
+        }
     }
 ]
