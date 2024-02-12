@@ -71740,5 +71740,95 @@
         "holders": {
             "ETH": 83
         }
+    },
+    {
+        "contract_address": "0xbea98c05eeae2f3bc8c3565db7551eb738c8ccab",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1720
+        }
+    },
+    {
+        "contract_address": "0x848a5564158d84b8a8fb68ab5d004fae11619a54",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi"
+        ],
+        "holders": {
+            "ETH": 205
+        }
+    },
+    {
+        "contract_address": "0xb7955695d1df86f35bfbda5e5b7d3069a5639a19",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xb11f1e254cce81a2abfc2b2606bc7a3d5177ddb4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "anongrok.com",
+            "metadrop.com."
+        ],
+        "telegram_groups": [
+            "anongrok"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x459d5c962d5a4426fac0d089036dfcab6691140f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "layzerswap.com"
+        ],
+        "telegram_groups": [
+            "LAYZERswap"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x814e351ea87288501d52ae0e62b9f77b992f18ab",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 70
+        }
+    },
+    {
+        "contract_address": "0xc152732d78d31674649fee60aed675f833f5d89e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 154
+        }
+    },
+    {
+        "contract_address": "0x97effb790f2fbb701d88f89db4521348a2b77be8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 399
+        }
+    },
+    {
+        "contract_address": "0xed1a210aca072d1c9e27e81aaea5d243f600909b",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Doge404ERC"
+        ],
+        "holders": {
+            "ETH": 0
+        }
     }
 ]
