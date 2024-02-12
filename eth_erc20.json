@@ -71838,5 +71838,146 @@
         "holders": {
             "ETH": 0
         }
+    },
+    {
+        "contract_address": "0x959873fb4fc11825fba83c80c4c632db1e936e15",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0x2b68c44dc9887e4bc584ae350d920f6aa71e636c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 107
+        }
+    },
+    {
+        "contract_address": "0xd69dd2c37e97b583e00ac326f5ff0dbb2e6924d8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x1dc5628646a18bb9de7992510f61b94400bb1989",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x0356aa1d30bc212890098889125e493c41ac4139",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xeb2a0992cdb060bd9f17d8463cc965eff25acd35",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tokenmint.io"
+        ],
+        "telegram_groups": [
+            "remilios"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x201d5e6e9b760ae5b2bc1874b5906da42f125340",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x48607651416a943bf5ac71c41be1420538e78f87",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0x95742fe0470212143f53ab51cc49e7c29d9cd6f0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x07919dd08bffe164c06e34edaea5e59f224a4e86",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 246
+        }
+    },
+    {
+        "contract_address": "0xe3818504c1b32bf1557b16c238b2e01fd3149c17",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 22077
+        }
+    },
+    {
+        "contract_address": "0xf71a2d1303d2798d2c134597bce1f95928b62fca",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bluefin.io",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "bluefinapp"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x5e2c61de16ec4d8d7ea8d85a03616eb0f10b358a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 527
+        }
+    },
+    {
+        "contract_address": "0x6ec59fe8b9cf13cfd36ce9ed24aaf689ab15b589",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x21c439d754be08e700b6e663a3ec76214d0bbe7d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "matmo.cc"
+        ],
+        "telegram_groups": [
+            "MatmoChain"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x4aa788bc7f00b118e10bce250359d2ab9d1f90da",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ShibFork_Erc"
+        ],
+        "holders": {
+            "ETH": 44
+        }
+    },
+    {
+        "contract_address": "0x766fe2092cc4857323d57e4b7898f2a49e4c717a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 73
+        }
     }
 ]
