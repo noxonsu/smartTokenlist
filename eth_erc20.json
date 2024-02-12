@@ -72240,5 +72240,108 @@
         "holders": {
             "ETH": 175
         }
+    },
+    {
+        "contract_address": "0x39de85301c78f4d623e5c05cde2fd119a3a92cd9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.theblock.co"
+        ],
+        "telegram_groups": [
+            "blobserc20coin"
+        ],
+        "holders": {
+            "ETH": 212
+        }
+    },
+    {
+        "contract_address": "0x82904fa267ec9588e5cd5a91ec28ea11ea69182f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "holograph.xyz",
+            "holograph.xyz",
+            "holograph.xyz",
+            "holograph.xyz",
+            "holograph.xyz",
+            "holograph.xyz",
+            "holograph.xyz"
+        ],
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xdfa1a58780ef2208cb55a1a77ecee05e7a295397",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 311
+        }
+    },
+    {
+        "contract_address": "0xac5a4c9f38da637606dcda7c3f2520d347b92294",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Flunkle"
+        ],
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0xe3a5576505c14fc4ce383d8cf45e35beb3cd3582",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x08599af739becb36ba034d7d68e8978b47d722fd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x2b99bf9d214aec6a8fb799f0e47d3f02a7ab2a6a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x597012b0fc97e891ec39dc1cda1463529b622d01",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 43
+        }
+    },
+    {
+        "contract_address": "0x211c310f734eb5a18f3cb247704671ffc07f44f5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 240
+        }
+    },
+    {
+        "contract_address": "0x3ef7f19ee989cf1454099baaad58eb7d6f3f3a5f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "manybit.exchange",
+            "app.manybit.exchange",
+            "docs.manybit.exchange"
+        ],
+        "telegram_groups": [
+            "manybit_official"
+        ],
+        "holders": {
+            "ETH": 42
+        }
+    },
+    {
+        "contract_address": "0xae7ec5086de29bf9aa9d00ae2bca5864ae10e0d0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 259
+        }
     }
 ]
