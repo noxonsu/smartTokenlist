@@ -72088,5 +72088,90 @@
         "holders": {
             "ETH": 4
         }
+    },
+    {
+        "contract_address": "0x8b42dd505b2b4c0b21f75eb284c7295bc71e580b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 195
+        }
+    },
+    {
+        "contract_address": "0xef07761144bb676f1db1ab216e8a62e7ad549b9f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "darkbrandon.live"
+        ],
+        "holders": {
+            "ETH": 693
+        }
+    },
+    {
+        "contract_address": "0xefc0e198974b22590d520f3af380fce917d00fb0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 274
+        }
+    },
+    {
+        "contract_address": "0x06ff2b0d592ee9f6f83b9938c3a114ce762aba6c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "peapods.finance"
+        ],
+        "holders": {
+            "ETH": 10
+        }
+    },
+    {
+        "contract_address": "0x03cce75a4795c1cfab8b7c0a1fb38df46d2f4159",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Major_Erc"
+        ],
+        "holders": {
+            "ETH": 228
+        }
+    },
+    {
+        "contract_address": "0xec67dc9060fc8f22d07dfcc46fdf95e67bca752e",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@silo.finance",
+            "security@silo.finance"
+        ],
+        "holders": {
+            "ETH": 75
+        }
+    },
+    {
+        "contract_address": "0xac41a8e0228d1813f50a45bd2f5a5ddf2df0b2c1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.apetools.bot"
+        ],
+        "telegram_groups": [
+            "Ape_Tools"
+        ],
+        "holders": {
+            "ETH": 109
+        }
+    },
+    {
+        "contract_address": "0xd42af86fe2a49fb74f85c920f4d95a84c555b256",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "WillowErc"
+        ],
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x821a24551f44a3f8eacb4857e246d0011458830c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
     }
 ]
