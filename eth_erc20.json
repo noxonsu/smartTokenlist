@@ -72181,5 +72181,64 @@
         "holders": {
             "ETH": 0
         }
+    },
+    {
+        "contract_address": "0x586386fd01a598b21870558cef7f4d9201dfd3b9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xc3f6c665fad30fbbf8351ebb4983bc9d64a25fcd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x5b9f4ff49ea16ce698440e5e1ca76e13669feb12",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 86
+        }
+    },
+    {
+        "contract_address": "0x62003030f45b8bcd272d54ab8f782c1ae894eaf6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 154
+        }
+    },
+    {
+        "contract_address": "0x3736ce2a9ea75b1c245d6caae5f7e1e89b57303a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 37
+        }
+    },
+    {
+        "contract_address": "0xb58e61c3098d85632df34eecfb899a1ed80921cb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0xf63d582f2e7cd98232b75e24ef7cfebdbbf19c77",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "LaserEyes_Portal"
+        ],
+        "holders": {
+            "ETH": 281
+        }
+    },
+    {
+        "contract_address": "0xa88842ae47dbe87116cf7001dddd1b246fcd8262",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 175
+        }
     }
 ]
