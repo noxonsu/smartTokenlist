@@ -72348,5 +72348,103 @@
         "holders": {
             "ETH": 259
         }
+    },
+    {
+        "contract_address": "0x82b8c7c6fb62d09cfd004309c1f353fb1a926edc",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi"
+        ],
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0x731a2572b1cf56cfb804c74555715c8c8b5e980b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 148
+        }
+    },
+    {
+        "contract_address": "0x3e2f9544c5297e0444b0d1ec4c520b19342d2ad7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "gate-keeper.tech",
+            "gate-keeper.gitbook.io"
+        ],
+        "telegram_groups": [
+            "GATEKeeperGATE",
+            "GATE_Keeper_Robot"
+        ],
+        "holders": {
+            "ETH": 142
+        }
+    },
+    {
+        "contract_address": "0xf83ff7d7dadf1730589a956737f7a66af400f0a7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 28
+        }
+    },
+    {
+        "contract_address": "0x5f0a5c75b7d0e88251fc08096570d4c06b48d89b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 68
+        }
+    },
+    {
+        "contract_address": "0x4fb9564308a9de8005dd9f90fe4aa79ee7367d04",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "cognitokenerc",
+            "cognitoken",
+            "Cognibot_bot"
+        ],
+        "holders": {
+            "ETH": 21
+        }
+    },
+    {
+        "contract_address": "0x4de118e618f38bc83591b8fcbd16b8a8a70d19b0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "404tools.io"
+        ],
+        "telegram_groups": [
+            "tools404"
+        ],
+        "holders": {
+            "ETH": 100
+        }
+    },
+    {
+        "contract_address": "0x0690bb2ac8ba389722b625f717117d4ba165145c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 414
+        }
+    },
+    {
+        "contract_address": "0x202d152c07b0f4e8562438c875053371068c23b4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x3d1e50dda03f62740c4cedf5932ea7d24bd096a0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
     }
 ]
