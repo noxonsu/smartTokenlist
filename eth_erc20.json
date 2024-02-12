@@ -37499,8 +37499,8 @@
             "matmo.cc"
         ],
         "telegram_groups": [
-            "matmochain_I",
-            "MatmoChain"
+            "MatmoChain",
+            "matmochain_I"
         ],
         "holders": {
             "ETH": 11
@@ -38883,8 +38883,8 @@
             "matmo.cc"
         ],
         "telegram_groups": [
-            "matmochain_I",
-            "MatmoChain"
+            "MatmoChain",
+            "matmochain_I"
         ],
         "holders": {
             "ETH": 19
@@ -39655,8 +39655,8 @@
             "matmo.cc"
         ],
         "telegram_groups": [
-            "matmochain_I",
-            "MatmoChain"
+            "MatmoChain",
+            "matmochain_I"
         ],
         "holders": {
             "ETH": 28
@@ -39883,8 +39883,8 @@
             "matmo.cc"
         ],
         "telegram_groups": [
-            "matmochain_I",
-            "MatmoChain"
+            "MatmoChain",
+            "matmochain_I"
         ],
         "holders": {
             "ETH": 32
@@ -56846,8 +56846,8 @@
             "matmo.cc"
         ],
         "telegram_groups": [
-            "matmochain_I",
-            "MatmoChain"
+            "MatmoChain",
+            "matmochain_I"
         ],
         "holders": {
             "ETH": 20
@@ -57471,8 +57471,8 @@
             "matmo.cc"
         ],
         "telegram_groups": [
-            "matmochain_I",
-            "MatmoChain"
+            "MatmoChain",
+            "matmochain_I"
         ],
         "holders": {
             "ETH": 18
@@ -59895,8 +59895,8 @@
             "matmo.cc"
         ],
         "telegram_groups": [
-            "matmochain_I",
-            "MatmoChain"
+            "MatmoChain",
+            "matmochain_I"
         ],
         "holders": {
             "ETH": 22
@@ -61163,8 +61163,8 @@
             "matmo.cc"
         ],
         "telegram_groups": [
-            "matmochain_I",
-            "MatmoChain"
+            "MatmoChain",
+            "matmochain_I"
         ],
         "holders": {
             "ETH": 26
@@ -62707,8 +62707,8 @@
             "matmo.cc"
         ],
         "telegram_groups": [
-            "matmochain_I",
-            "MatmoChain"
+            "MatmoChain",
+            "matmochain_I"
         ],
         "holders": {
             "ETH": 13
@@ -66457,8 +66457,8 @@
             "matmo.cc"
         ],
         "telegram_groups": [
-            "matmochain_I",
-            "MatmoChain"
+            "MatmoChain",
+            "matmochain_I"
         ],
         "holders": {
             "ETH": 24
@@ -71881,11 +71881,13 @@
             "tokenmint.io"
         ],
         "telegram_groups": [
-            "remilios"
+            "remilios",
+            "LunaInuERC20"
         ],
         "holders": {
             "ETH": 0
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x201d5e6e9b760ae5b2bc1874b5906da42f125340",
@@ -71934,7 +71936,8 @@
         ],
         "holders": {
             "ETH": 0
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5e2c61de16ec4d8d7ea8d85a03616eb0f10b358a",
@@ -71957,11 +71960,13 @@
             "matmo.cc"
         ],
         "telegram_groups": [
-            "MatmoChain"
+            "MatmoChain",
+            "matmochain_I"
         ],
         "holders": {
             "ETH": 0
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4aa788bc7f00b118e10bce250359d2ab9d1f90da",
