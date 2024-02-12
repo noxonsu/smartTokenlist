@@ -72647,5 +72647,64 @@
         "holders": {
             "ETH": 2
         }
+    },
+    {
+        "contract_address": "0x4a229c665cfbb286f26b0f3e045563d49316951d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "RaceBetsERC.live",
+            "T.me",
+            "X.com",
+            "docs.RaceBetsERC.live",
+            "app.RaceBetsERC.live"
+        ],
+        "holders": {
+            "ETH": 172
+        }
+    },
+    {
+        "contract_address": "0xc627f58e424d3d0c83ee5e9919ff73bef2460b7d",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "deeznutserc"
+        ],
+        "holders": {
+            "ETH": 155
+        }
+    },
+    {
+        "contract_address": "0x323842918099cbf1488f00f573c54aac571e0627",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 101
+        }
+    },
+    {
+        "contract_address": "0xc0d922b92b35c7b3f1a5311875e4716c7d913a55",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 21
+        }
+    },
+    {
+        "contract_address": "0x6d6506e6f438ede269877a0a720026559110b7d5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 945
+        }
+    },
+    {
+        "contract_address": "0x874bde83cda6aa224527a3f43aebc3cc60f49428",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 216
+        }
+    },
+    {
+        "contract_address": "0x6e8908cfa881c9f6f2c64d3436e7b80b1bf0093f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1777
+        }
     }
 ]
