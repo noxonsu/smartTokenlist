@@ -71984,5 +71984,105 @@
         "holders": {
             "ETH": 73
         }
+    },
+    {
+        "contract_address": "0x863e894fabe51783849e16df657e7e8f1180506c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "graphics.stanford.edu",
+            "token-cdn-domain",
+            "token-cdn-domain",
+            "token-cdn-domain",
+            "dawn404.com",
+            "dawn404.com"
+        ],
+        "telegram_groups": [
+            "Dawn404Portal"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xf392c0f36b098ca28b6e96a875017ffb60679571",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "404index.xyz"
+        ],
+        "telegram_groups": [
+            "ERC404Index"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x04969cd041c0cafb6ac462bd65b536a5bdb3a670",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5990
+        }
+    },
+    {
+        "contract_address": "0x86cf40956b56f2880fb8e64525e908df9e67f5ed",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x0f3ea25559bd4c7437d67ea756bb53aca48d101e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "matmo.cc"
+        ],
+        "telegram_groups": [
+            "MatmoChain"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x0f78fd40c11344fecb47edad7767702e6fcd7dc7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x6df3448738c1adbe5a035d591856e5d2096ad1a9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 837
+        }
+    },
+    {
+        "contract_address": "0x9783b81438c24848f85848f8df31845097341771",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6058
+        }
+    },
+    {
+        "contract_address": "0x1122b6a0e00dce0563082b6e2953f3a943855c1f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5223
+        }
+    },
+    {
+        "contract_address": "0xd3cd37a7299b963bbc69592e5ba933388f70dc88",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 248
+        }
+    },
+    {
+        "contract_address": "0x71cb3c6c5d30af1eca48a8fe0818c987f269b7e1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
     }
 ]
