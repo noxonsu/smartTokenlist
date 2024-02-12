@@ -71764,7 +71764,9 @@
         ],
         "holders": {
             "ETH": 205
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb7955695d1df86f35bfbda5e5b7d3069a5639a19",
@@ -71785,7 +71787,11 @@
         ],
         "holders": {
             "ETH": 0
-        }
+        },
+        "emails": [
+            "contact@anongrok.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x459d5c962d5a4426fac0d089036dfcab6691140f",
@@ -71794,11 +71800,13 @@
             "layzerswap.com"
         ],
         "telegram_groups": [
+            "joinchat",
             "LAYZERswap"
         ],
         "holders": {
             "ETH": 0
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x814e351ea87288501d52ae0e62b9f77b992f18ab",
