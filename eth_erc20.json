@@ -72001,7 +72001,8 @@
         ],
         "holders": {
             "ETH": 0
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf392c0f36b098ca28b6e96a875017ffb60679571",
@@ -72014,7 +72015,8 @@
         ],
         "holders": {
             "ETH": 0
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x04969cd041c0cafb6ac462bd65b536a5bdb3a670",
@@ -72037,11 +72039,13 @@
             "matmo.cc"
         ],
         "telegram_groups": [
-            "MatmoChain"
+            "MatmoChain",
+            "matmochain_I"
         ],
         "holders": {
             "ETH": 0
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0f78fd40c11344fecb47edad7767702e6fcd7dc7",
