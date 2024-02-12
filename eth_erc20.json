@@ -72248,11 +72248,13 @@
             "www.theblock.co"
         ],
         "telegram_groups": [
+            "the_block_crypto",
             "blobserc20coin"
         ],
         "holders": {
             "ETH": 212
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x82904fa267ec9588e5cd5a91ec28ea11ea69182f",
@@ -72268,7 +72270,9 @@
         ],
         "holders": {
             "ETH": 1
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xdfa1a58780ef2208cb55a1a77ecee05e7a295397",
@@ -72335,7 +72339,8 @@
         ],
         "holders": {
             "ETH": 42
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xae7ec5086de29bf9aa9d00ae2bca5864ae10e0d0",
