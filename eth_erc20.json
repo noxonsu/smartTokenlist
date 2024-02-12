@@ -72121,7 +72121,11 @@
         ],
         "holders": {
             "ETH": 10
-        }
+        },
+        "telegram_groups": [
+            "PeapodsFinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x03cce75a4795c1cfab8b7c0a1fb38df46d2f4159",
@@ -72155,7 +72159,11 @@
         ],
         "holders": {
             "ETH": 109
-        }
+        },
+        "emails": [
+            "contact@apetools.pro"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd42af86fe2a49fb74f85c920f4d95a84c555b256",
