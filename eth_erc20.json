@@ -72995,5 +72995,60 @@
         "holders": {
             "ETH": 106
         }
+    },
+    {
+        "contract_address": "0x6084a36328bdfbe0edbc19f6819712357dc737e1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "graphics.stanford.edu",
+            "token-cdn-domain",
+            "token-cdn-domain",
+            "token-cdn-domain"
+        ],
+        "holders": {
+            "ETH": 144
+        }
+    },
+    {
+        "contract_address": "0xc7757805b983ee1b6272c1840c18e66837de858e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 883
+        }
+    },
+    {
+        "contract_address": "0xcf9560b9e952b195d408be966e4f6cf4ab8206e5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1442
+        }
+    },
+    {
+        "contract_address": "0x23d7ff057c696fee679c60cef61fee6614218f04",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 93
+        }
+    },
+    {
+        "contract_address": "0x57654ae132413e81459ad2ae70c2570a9b89fb53",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 478
+        }
+    },
+    {
+        "contract_address": "0xc366c6fe8393c7d88aecd95de1acad28f4b24bbb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 28
+        }
+    },
+    {
+        "contract_address": "0x66861d5f0fbfb7b2711712fef2172c560d08d0ab",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 701
+        }
     }
 ]
