@@ -72788,5 +72788,64 @@
         "holders": {
             "ETH": 281
         }
+    },
+    {
+        "contract_address": "0x0000000000ca73a6df4c58b84c5b4b847fe8ff39",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1182
+        }
+    },
+    {
+        "contract_address": "0xfec46833cf37668d7feb9351101c302a8cf32040",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 213
+        }
+    },
+    {
+        "contract_address": "0xe38d8b05d5eeb3b8536d9e1fa0efb7280ca579d5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x3200e777536650203963b4d2aed1622bf01e4a8b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 36
+        }
+    },
+    {
+        "contract_address": "0x4d06eb689d33a5a044d3db9f9cf7c280b66dcdb6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 59
+        }
+    },
+    {
+        "contract_address": "0xbc119a9b2683271c048f52c104d84983a8578b28",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "minecraft404.xyz",
+            "minecraft404.xyz",
+            "minecraft404.xyz",
+            "minecraft.xyz",
+            "minecraft404.xyz",
+            "minecraft404.xyz",
+            "minecraft404.xyz"
+        ],
+        "telegram_groups": [
+            "Minecraft404tg",
+            "Minecraft404tg",
+            "Minecraft404tg",
+            "Minecraft404tg",
+            "Minecraft404tg",
+            "Minecraft404tg"
+        ],
+        "holders": {
+            "ETH": 27
+        }
     }
 ]
