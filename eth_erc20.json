@@ -72906,5 +72906,63 @@
         "holders": {
             "ETH": 1
         }
+    },
+    {
+        "contract_address": "0x18480fd31626f0c48f308ad60bf8aaf058e0d5fd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x6930450a416252c7206fbce76c01ecc850a36cb9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.sheboshis.net"
+        ],
+        "telegram_groups": [
+            "SHEBOSHIS_ERC"
+        ],
+        "holders": {
+            "ETH": 189
+        }
+    },
+    {
+        "contract_address": "0x93b73171ebd8cc26d019c97e9afe8016e9921968",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dn404rocks.com"
+        ],
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0xc9e6f8eb127666e138a9c33e792fc0309a861eba",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 64
+        }
+    },
+    {
+        "contract_address": "0x2034649f339c38efef15280ba33aed28fa830ed4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 243
+        }
+    },
+    {
+        "contract_address": "0xde12c7959e1a72bbe8a5f7a1dc8f8eef9ab011b3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 54
+        }
+    },
+    {
+        "contract_address": "0xb87a29c7b4291e267c2c096229fd05482163920b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 124
+        }
     }
 ]
