@@ -72970,5 +72970,30 @@
         "holders": {
             "ETH": 124
         }
+    },
+    {
+        "contract_address": "0x45b3cf56896c4547426a4145ad1d0ae971120214",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 532
+        }
+    },
+    {
+        "contract_address": "0x3477df04a649b7787fc7efd2e7f2ba52231c837e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 52
+        }
+    },
+    {
+        "contract_address": "0xf6d038bd0bfd89057543e228d9c35368a9ab2c31",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "WatcherGuru",
+            "jackdorseysatoshicoin"
+        ],
+        "holders": {
+            "ETH": 106
+        }
     }
 ]
