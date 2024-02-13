@@ -73255,5 +73255,123 @@
         "holders": {
             "ETH": 3
         }
+    },
+    {
+        "contract_address": "0x376e23eb751b4722ceee123c924aca46f23e1ca1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 58
+        }
+    },
+    {
+        "contract_address": "0x305d3b44678899b40ae64a36794ab927953ea2c5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0xfc68e4da4f69dffbaf80a8d3f5abebe55cba79ba",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "0xmev.io",
+            "0xmev-1.gitbook.io"
+        ],
+        "holders": {
+            "ETH": 71
+        }
+    },
+    {
+        "contract_address": "0xdc49108ce5c57bc3408c3a5e95f3d864ec386ed3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 410
+        }
+    },
+    {
+        "contract_address": "0x41d321e0365a42058a465dc5bf98242a92c2e9f3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "xtools.ist",
+            "xtools.gitbook.io"
+        ],
+        "telegram_groups": [
+            "XTOOLSPORTAL"
+        ],
+        "holders": {
+            "ETH": 118
+        }
+    },
+    {
+        "contract_address": "0xf1d1a5306daae314af6c5d027a492b313e07e1a0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 184
+        }
+    },
+    {
+        "contract_address": "0x3bf862093cbb6412b6ee498f4d652bba005aa7f3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 46
+        }
+    },
+    {
+        "contract_address": "0x5746742271f6c7c3e65b39b187c8b98039a749ee",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "rtxcoinerc20"
+        ],
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x95fca0ef592de0dbe5e7fdf9913a4421c2040e1b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x915e3794ce8106496302b2e55fd07183e238e67e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x0f74e0aaf7e607b7186644d25587868207df1f83",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xf730ce7ce81d786c6a199b4e41e13504459b2976",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wptinvestingcorp.io"
+        ],
+        "telegram_groups": [
+            "piggybankpreverify"
+        ],
+        "holders": {
+            "ETH": 200
+        }
+    },
+    {
+        "contract_address": "0x064bd880a97857f6d14344399083b853f19d3af9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "token.script.tv",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "scriptnetwork"
+        ],
+        "holders": {
+            "ETH": 40
+        }
     }
 ]
