@@ -73054,5 +73054,111 @@
         "holders": {
             "ETH": 701
         }
+    },
+    {
+        "contract_address": "0x7b123f53421b1bf8533339bfbdc7c98aa94163db",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2345
+        }
+    },
+    {
+        "contract_address": "0x134a3fbcf41d2d0004ec3f0218d7104bde717d2b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x3a95746ccb647d29ee11f3816d8751e1d81badcd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 47
+        }
+    },
+    {
+        "contract_address": "0xbcf9c470c1e87dd0d17d5613f7ca13bb24ca918f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 93
+        }
+    },
+    {
+        "contract_address": "0xea52b67f57823c772bb803b3a43a60eb9f687f7c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xdabb0a38e6e7302705da885c90c274f166927c80",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xc1e4189f7120b460d3522abd1bf81bceb3d44219",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 517
+        }
+    },
+    {
+        "contract_address": "0xfd4fdf2a57c29be8b804f655848c2fa62fb9dcb9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 73
+        }
+    },
+    {
+        "contract_address": "0xc297f0eeace5afdaf4e39f7fd1f82c0335d05deb",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "grokaiportal"
+        ],
+        "holders": {
+            "ETH": 1136
+        }
+    },
+    {
+        "contract_address": "0xffc459b1d454532ab826e138a7ae96e47d0dfbe0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mcdonalserc.vip"
+        ],
+        "telegram_groups": [
+            "mcdonaldserc"
+        ],
+        "holders": {
+            "ETH": 106
+        }
+    },
+    {
+        "contract_address": "0x5eadd81f820a9cda59464afa20685bdda1bf86b4",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "snappythedragon"
+        ],
+        "emails": [
+            "snappyisthename@gmail.com"
+        ],
+        "holders": {
+            "ETH": 23
+        }
+    },
+    {
+        "contract_address": "0x4e58819d50e6127140e4ad3445d1fab979cad5a7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10
+        }
+    },
+    {
+        "contract_address": "0x2854fbda37ac17aa184772bca10d2ca731e06c8c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
     }
 ]
