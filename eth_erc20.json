@@ -73174,7 +73174,11 @@
         ],
         "holders": {
             "ETH": 306
-        }
+        },
+        "emails": [
+            "admin@neu-tron.org"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xcd8fa5f47948d4bc05c4e527110f20c0616e0645",
@@ -73187,7 +73191,11 @@
         ],
         "holders": {
             "ETH": 88
-        }
+        },
+        "emails": [
+            "support@snaptify.net"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf3ecac48287f81e124ad6e9412f2bb065f657461",
@@ -73200,7 +73208,8 @@
         ],
         "holders": {
             "ETH": 15
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xeec6def547e59f12e7af8ebe539920cb030e73d6",
