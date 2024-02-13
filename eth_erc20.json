@@ -73007,7 +73007,11 @@
         ],
         "holders": {
             "ETH": 144
-        }
+        },
+        "telegram_groups": [
+            "Dawn404Portal"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc7757805b983ee1b6272c1840c18e66837de858e",
