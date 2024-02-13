@@ -73128,11 +73128,13 @@
             "mcdonalserc.vip"
         ],
         "telegram_groups": [
-            "mcdonaldserc"
+            "mcdonaldserc",
+            "mcdonalserc"
         ],
         "holders": {
             "ETH": 106
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5eadd81f820a9cda59464afa20685bdda1bf86b4",
