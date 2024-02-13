@@ -73279,7 +73279,11 @@
         ],
         "holders": {
             "ETH": 71
-        }
+        },
+        "telegram_groups": [
+            "Portal0xMev"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdc49108ce5c57bc3408c3a5e95f3d864ec386ed3",
@@ -73296,11 +73300,14 @@
             "xtools.gitbook.io"
         ],
         "telegram_groups": [
-            "XTOOLSPORTAL"
+            "XTOOLSPORTAL",
+            "xtoolsannouncements",
+            "XToolsERCBot"
         ],
         "holders": {
             "ETH": 118
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf1d1a5306daae314af6c5d027a492b313e07e1a0",
@@ -73354,11 +73361,13 @@
             "wptinvestingcorp.io"
         ],
         "telegram_groups": [
+            "wptwarpigstoken",
             "piggybankpreverify"
         ],
         "holders": {
             "ETH": 200
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x064bd880a97857f6d14344399083b853f19d3af9",
@@ -73372,6 +73381,7 @@
         ],
         "holders": {
             "ETH": 40
-        }
+        },
+        "p6": true
     }
 ]
