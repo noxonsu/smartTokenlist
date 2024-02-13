@@ -73383,5 +73383,137 @@
             "ETH": 40
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xdd66781d0e9a08d4fbb5ec7bac80b691be27f21d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 408
+        }
+    },
+    {
+        "contract_address": "0x867b2a0ccb3297a6e73c26655d52c4b0548a59c7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x5e055a39e915903675952550a6bba353e9f1c3c4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 54
+        }
+    },
+    {
+        "contract_address": "0xbd711c4df6769ad63be5db4270ae7de0cc531bb9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 35
+        }
+    },
+    {
+        "contract_address": "0x79ddd2ce146588aa442ecf9d02aeb4e6569858ad",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x9360f473a533d7f8855c768437dd0c8caeccb9e6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10
+        }
+    },
+    {
+        "contract_address": "0xf6a7ad46b00300344c7d4739c0518db70e722dc4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x49cbd67651fbabce12d1df18499896ec87bef46f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi"
+        ],
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0xdda31d354a519ecfb0bc2a536b5e7be147c0f7f4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 119
+        }
+    },
+    {
+        "contract_address": "0xe4cbd3ff926796e6e95e81f1268258418a0c5cda",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0x39c95241fe3b64b49b9c1f838fdc95523edf4d53",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "vivek_Entry"
+        ],
+        "holders": {
+            "ETH": 92
+        }
+    },
+    {
+        "contract_address": "0xe92344b4edf545f3209094b192e46600a19e7c2d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zkml.gitbook.io",
+            "zkml.systems"
+        ],
+        "telegram_groups": [
+            "zkmlsystems"
+        ],
+        "holders": {
+            "ETH": 513
+        }
+    },
+    {
+        "contract_address": "0x82967568a57625675b260ebab1294038c9accc6e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nova-dao.com",
+            "novadao.io",
+            "nova-dao.com",
+            "novadao.io"
+        ],
+        "holders": {
+            "ETH": 510
+        }
+    },
+    {
+        "contract_address": "0x5bf30f8487f99e6f3ca3b6be8e151978958e5cd8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0x071fe1027e1064390083019019e9182cb4fb43fb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 464
+        }
     }
 ]
