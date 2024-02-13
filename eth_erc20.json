@@ -72925,7 +72925,8 @@
         ],
         "holders": {
             "ETH": 189
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x93b73171ebd8cc26d019c97e9afe8016e9921968",
@@ -72935,7 +72936,12 @@
         ],
         "holders": {
             "ETH": 19
-        }
+        },
+        "telegram_groups": [],
+        "emails": [
+            "alex@company.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc9e6f8eb127666e138a9c33e792fc0309a861eba",
