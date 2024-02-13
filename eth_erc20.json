@@ -73162,5 +73162,89 @@
         "holders": {
             "ETH": 2
         }
+    },
+    {
+        "contract_address": "0x6141bdc53a28ed85631a542956508d3e94b8380a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "neu-tron.org"
+        ],
+        "telegram_groups": [
+            "Neutron_technology"
+        ],
+        "holders": {
+            "ETH": 306
+        }
+    },
+    {
+        "contract_address": "0xcd8fa5f47948d4bc05c4e527110f20c0616e0645",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "snaptify.net"
+        ],
+        "telegram_groups": [
+            "snaptifyportal"
+        ],
+        "holders": {
+            "ETH": 88
+        }
+    },
+    {
+        "contract_address": "0xf3ecac48287f81e124ad6e9412f2bb065f657461",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.ryoshiresearch.com"
+        ],
+        "telegram_groups": [
+            "Ryoshi_L2"
+        ],
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0xeec6def547e59f12e7af8ebe539920cb030e73d6",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "dogwifsockscoinerc20"
+        ],
+        "holders": {
+            "ETH": 214
+        }
+    },
+    {
+        "contract_address": "0x4609d712190764d215f97e157e59a8df1d2a0a2a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x5095d6202b70045453a3062a179d7c41f8ef3076",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 131
+        }
+    },
+    {
+        "contract_address": "0x49d226e61016fc9483dae853bce6f80418eb2bc8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0x6f4b31704038a79162d5e9ff43fd9ed62c3af03e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x37df5ac017befab28b81f701f04a6c98d401eea3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
     }
 ]
