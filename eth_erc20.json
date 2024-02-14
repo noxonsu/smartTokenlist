@@ -74336,5 +74336,85 @@
             "ETH": 72
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x205ed31c867bf715e4182137af95afe9177cd8e7",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@defylabs.xyz"
+        ],
+        "holders": {
+            "ETH": 206
+        }
+    },
+    {
+        "contract_address": "0x89224f4f0112f399b15426eb1c63e4dff4743175",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ShootAIETH.com"
+        ],
+        "telegram_groups": [
+            "ShootAIETH"
+        ],
+        "holders": {
+            "ETH": 193
+        }
+    },
+    {
+        "contract_address": "0x6520995753392a5b0a7c2a7fb2bde5a70d6731e1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fuckjared.org"
+        ],
+        "telegram_groups": [
+            "fuckjaredfromsubway"
+        ],
+        "holders": {
+            "ETH": 112
+        }
+    },
+    {
+        "contract_address": "0x9349911349d16bab67bf6fbe146d99256d26a372",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 829
+        }
+    },
+    {
+        "contract_address": "0xc03e7e05aa82ef3838d1a23d4c456c2bbb9cbd4c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.foxfam404.art"
+        ],
+        "telegram_groups": [
+            "foxfam_404"
+        ],
+        "holders": {
+            "ETH": 55
+        }
+    },
+    {
+        "contract_address": "0xf79b0aa5cea87fb342852654a3a7de586943d9ca",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xb61ebb6bceb7635ecd7e59884ee2e2bcdfd810ba",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1110
+        }
+    },
+    {
+        "contract_address": "0x561906967a5918465b09b5628a14a5791dee7f88",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "MrsBob_ERC"
+        ],
+        "holders": {
+            "ETH": 389
+        }
     }
 ]
