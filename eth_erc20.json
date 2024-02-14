@@ -74589,5 +74589,120 @@
         "holders": {
             "ETH": 13
         }
+    },
+    {
+        "contract_address": "0xa24a83ef611d119c277284703432ab469378ac47",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 304
+        }
+    },
+    {
+        "contract_address": "0xc975342a95ccb75378ddc646b8620fa3cd5bc051",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 40
+        }
+    },
+    {
+        "contract_address": "0x76c5d6c6b97def4efb61d77d9577f8c2e79c8872",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x2583a4c9aeb2c6922b39373afb7535dcecefdbb4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.dreambrowser.xyz"
+        ],
+        "telegram_groups": [
+            "dream_browser"
+        ],
+        "holders": {
+            "ETH": 44
+        }
+    },
+    {
+        "contract_address": "0xdf18e57b64407f8a0e89065cc42d5fa774eddc0d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 80
+        }
+    },
+    {
+        "contract_address": "0xaf9f549774ecedbd0966c52f250acc548d3f36e5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6984
+        }
+    },
+    {
+        "contract_address": "0x828796ce863d29d4755b80a4230596c416635641",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x1b54ea73fd9ec172d1edc46544caae85e03b8a1b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x7d329eca91f11133e274ba2748af3ecd8ad38e32",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.goldenfrogeth.com"
+        ],
+        "telegram_groups": [
+            "goldenfrogeth"
+        ],
+        "holders": {
+            "ETH": 223
+        }
+    },
+    {
+        "contract_address": "0x16484d73ac08d2355f466d448d2b79d2039f6ebb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 15631
+        }
+    },
+    {
+        "contract_address": "0x49f8a29217df7791d3f226200014ad725122a4d4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "alone.af"
+        ],
+        "telegram_groups": [
+            "AlonePortal"
+        ],
+        "holders": {
+            "ETH": 154
+        }
+    },
+    {
+        "contract_address": "0xeebec66614d4b5543532e9c88408cb670d746fb9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "milkcow.tech"
+        ],
+        "telegram_groups": [
+            "milkcow_portal"
+        ],
+        "holders": {
+            "ETH": 60
+        }
+    },
+    {
+        "contract_address": "0xbc6da0fe9ad5f3b0d58160288917aa56653660e9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1651
+        }
     }
 ]
