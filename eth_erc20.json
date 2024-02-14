@@ -73820,5 +73820,97 @@
             "ETH": 187
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xccd438a78376955a3b174be619e50aa3ddd65469",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0x643d448cea0d3616f0b32e3718f563b164e7edd2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x198db0bd12c6f12cd0c1d03d340851a7e72f3e9e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xfb244b6ef1ea55021ef1931d86fcbece7579ecd4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x7db20bce6a036b98db3e3781ac8dca8f5109b8d3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xe3dbc4f88eaa632ddf9708732e2832eeaa6688ab",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.apache.org"
+        ],
+        "holders": {
+            "ETH": 290
+        }
+    },
+    {
+        "contract_address": "0x7f0cba748c81ff47d9fc3756d27dbc0e63552608",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.seizon404.art"
+        ],
+        "telegram_groups": [
+            "seizon_404"
+        ],
+        "holders": {
+            "ETH": 55
+        }
+    },
+    {
+        "contract_address": "0x60dd03f39b929f35cf88f2a5ba52898f712b7b6c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bunyip.info"
+        ],
+        "telegram_groups": [
+            "BunyipETH"
+        ],
+        "holders": {
+            "ETH": 167
+        }
+    },
+    {
+        "contract_address": "0xd30b2024c8708d41cb5ce1377e44e2dbfa4881be",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 113
+        }
+    },
+    {
+        "contract_address": "0x878cf148ccbb50426043a9affe54ba408221c7fa",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 332
+        }
+    },
+    {
+        "contract_address": "0x616ef40d55c0d2c506f4d6873bda8090b79bf8fc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2521
+        }
     }
 ]
