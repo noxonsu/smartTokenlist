@@ -74445,7 +74445,8 @@
         ],
         "holders": {
             "ETH": 134
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x02e6e1b23f0ae8de07355372fd5e4574bf4704e9",
@@ -74465,7 +74466,8 @@
         ],
         "holders": {
             "ETH": 61
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7a153b35678cbf79ed92f1e31f835dbccdce8b11",
@@ -74478,7 +74480,9 @@
         ],
         "holders": {
             "ETH": 233
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xdb0d9fb0cabe7c0a396feacf916e05d01a83f649",
@@ -74496,7 +74500,8 @@
         ],
         "holders": {
             "ETH": 7
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xce3ee7435a5bedbe73b92f39828b0cfd9d0ff568",
@@ -74505,11 +74510,14 @@
             "unidexai.xyz"
         ],
         "telegram_groups": [
+            "mikescave",
+            "unidexdev",
             "UniDexAI"
         ],
         "holders": {
             "ETH": 457
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x258d7a3f50b03a9f75263733fc0c2a155cf512b4",
@@ -74522,7 +74530,8 @@
         ],
         "holders": {
             "ETH": 344
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x659298aa4be6d761f6814cf935e8cd9ca85ac112",
