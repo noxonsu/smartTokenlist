@@ -73916,5 +73916,87 @@
         "holders": {
             "ETH": 2521
         }
+    },
+    {
+        "contract_address": "0x45ad75d56c69ff0f85b3571bdc98cc043d0f6f4e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 283
+        }
+    },
+    {
+        "contract_address": "0xda16cf041e2780618c49dbae5d734b89a6bac9b3",
+        "sourceScanned": "processed",
+        "emails": [
+            "goncalo.sa@consensys.net"
+        ],
+        "holders": {
+            "ETH": 165
+        }
+    },
+    {
+        "contract_address": "0x53e79ef1cf6ac0cdf6f1743c3be3ad48fa3c5657",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xc07a150ecadf2cc352f5586396e344a6b17625eb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1164
+        }
+    },
+    {
+        "contract_address": "0xa7fb37ba4eaee672465953afbf6b1f910f166f14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 35
+        }
+    },
+    {
+        "contract_address": "0x9297155e19333d65054e81bdbc10b168ce8f1378",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xf7cc58df0b1a39a8675f68c934712f03e766c925",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "moabcoin.neocities.org"
+        ],
+        "holders": {
+            "ETH": 147
+        }
+    },
+    {
+        "contract_address": "0xee9e7bb7e55bbc86414047b61d65c9c0d91ffbd0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 75
+        }
+    },
+    {
+        "contract_address": "0xde2a67ba7c4d54933727de9efe2d03feab45e607",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.ameca-ai.com"
+        ],
+        "telegram_groups": [
+            "AmecaAICoin"
+        ],
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0x8af78f0c818302164f73b2365fe152c2d1fe80e1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 321
+        }
     }
 ]
