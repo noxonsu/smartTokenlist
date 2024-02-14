@@ -74109,5 +74109,67 @@
         "holders": {
             "ETH": 52
         }
+    },
+    {
+        "contract_address": "0x028958f4ce0b37aed302ec2208a5c7b4097632fa",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 28
+        }
+    },
+    {
+        "contract_address": "0x9b29b75ae7025369bdacf49ea1e4ef462f7511d2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xea132dc54fa6144fa4bc09b3473e7660c1da3c38",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.pepa.wtf"
+        ],
+        "telegram_groups": [
+            "pepacoineth"
+        ],
+        "holders": {
+            "ETH": 73
+        }
+    },
+    {
+        "contract_address": "0x04e54821aba5b3b0f3b5321eb6ad3c7561bd6d73",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 46
+        }
+    },
+    {
+        "contract_address": "0xc585622fcabf4e44126ca37842be2cf76a066666",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 29
+        }
+    },
+    {
+        "contract_address": "0x0fda9b40401d512e9513ef38c62e2060a3d9b5bf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x9978c6b08d28d3b74437c917c5dd7c026df9d55c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0xe2277cc76f806925dc6c9a5e4e5933605f43c3c4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
     }
 ]
