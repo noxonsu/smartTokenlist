@@ -74540,11 +74540,13 @@
             "www.tulipaierc.com"
         ],
         "telegram_groups": [
+            "TulipAiStandard_bot",
             "tulipaierc"
         ],
         "holders": {
             "ETH": 78
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe548f00b6f14ae9b92b86efeeb03ac96f2713a70",
@@ -74557,7 +74559,8 @@
         ],
         "holders": {
             "ETH": 183
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4c2e59d098df7b6cbae0848d66de2f8a4889b9c3",
