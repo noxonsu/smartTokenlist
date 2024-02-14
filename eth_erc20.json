@@ -74273,5 +74273,65 @@
         "holders": {
             "ETH": 15
         }
+    },
+    {
+        "contract_address": "0xe684dcf219d823c01d9dbc76a5543685a766d4fb",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.babytrumpcoin.vip"
+        ],
+        "telegram_groups": [
+            "BabyTrumpBallon"
+        ],
+        "holders": {
+            "ETH": 52
+        }
+    },
+    {
+        "contract_address": "0x4063141b29dedf509d5789675aac21bf763ebdd1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "echo.xyz"
+        ],
+        "telegram_groups": [
+            "echodotxyz"
+        ],
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0x5a2002f7272f7f7c3e90fc0ba1e2b1cba5774acc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 872
+        }
+    },
+    {
+        "contract_address": "0x4ed443b334f22ee38bc2cf0a536d8bfe2799546a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 471
+        }
+    },
+    {
+        "contract_address": "0xd0d19f52ad8705e60ff31df75a7aca8f1399a69e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x1e4fbef07987ac097a2313b77597c2407799e2d9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "miladymaker404.xyz"
+        ],
+        "telegram_groups": [
+            "miladymaker404_group"
+        ],
+        "holders": {
+            "ETH": 72
+        }
     }
 ]
