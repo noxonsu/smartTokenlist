@@ -73661,5 +73661,46 @@
             "ETH": 105
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xb4e1bba882e1058dc9088c69f26f832394cabc77",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 181
+        }
+    },
+    {
+        "contract_address": "0xdb86e9d8a28f5beab6c191cf329c8d3663206ed6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bidendog.xyz"
+        ],
+        "telegram_groups": [
+            "Germanshepherderc"
+        ],
+        "holders": {
+            "ETH": 99
+        }
+    },
+    {
+        "contract_address": "0xb2912397566dafc9cdee555a38e980661858a61a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x07a319a023859bbd49cc9c38ee891c3ea9283cc5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 21
+        }
+    },
+    {
+        "contract_address": "0xc859bf9d7b8c557bbd229565124c2c09269f3aef",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 320
+        }
     }
 ]
