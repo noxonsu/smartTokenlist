@@ -74043,5 +74043,69 @@
         "holders": {
             "ETH": 12
         }
+    },
+    {
+        "contract_address": "0x0525bc7ee00d1216feb760eddca953e6c4e2df3f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "thecybertruck.io"
+        ],
+        "telegram_groups": [
+            "cybertruck3011"
+        ],
+        "holders": {
+            "ETH": 123
+        }
+    },
+    {
+        "contract_address": "0x0b0b482dd433fca63d897dc882fc887f9984ca6f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 51
+        }
+    },
+    {
+        "contract_address": "0xfe60fba03048effb4acf3f0088ec2f53d779d3bb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 521
+        }
+    },
+    {
+        "contract_address": "0xdf533d14a36fff183109848663152a8c413ccc1c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 891
+        }
+    },
+    {
+        "contract_address": "0xcf0278321549ff4984fc446b099a61bd05bf1b8d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.trumpbank.xyz"
+        ],
+        "telegram_groups": [
+            "trumpbanktg"
+        ],
+        "holders": {
+            "ETH": 82
+        }
+    },
+    {
+        "contract_address": "0x147faf8de9d8d8daae129b187f0d02d819126750",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2468
+        }
+    },
+    {
+        "contract_address": "0xb54240f81be27c0e67ec03613f0f29fa1188a715",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "BTCcoinethereum"
+        ],
+        "holders": {
+            "ETH": 52
+        }
     }
 ]
