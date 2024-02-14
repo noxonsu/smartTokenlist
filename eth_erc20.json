@@ -74354,11 +74354,16 @@
             "ShootAIETH.com"
         ],
         "telegram_groups": [
-            "ShootAIETH"
+            "ShootAIETH",
+            "ShootAIBot"
         ],
         "holders": {
             "ETH": 193
-        }
+        },
+        "emails": [
+            "ShootAIETH@proton.me\n          "
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6520995753392a5b0a7c2a7fb2bde5a70d6731e1",
@@ -74371,7 +74376,8 @@
         ],
         "holders": {
             "ETH": 112
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9349911349d16bab67bf6fbe146d99256d26a372",
@@ -74391,7 +74397,8 @@
         ],
         "holders": {
             "ETH": 55
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf79b0aa5cea87fb342852654a3a7de586943d9ca",
