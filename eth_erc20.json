@@ -73736,7 +73736,8 @@
         ],
         "holders": {
             "ETH": 216
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3db233d92d6fda6f87897d1d039e50d1445ddf0e",
@@ -73749,7 +73750,11 @@
         ],
         "holders": {
             "ETH": 80
-        }
+        },
+        "emails": [
+            "admin@versemetachain.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbacacd83b68c92ae07ef382d0c0277d1bd1c7c4d",
@@ -73781,7 +73786,12 @@
         ],
         "holders": {
             "ETH": 48
-        }
+        },
+        "telegram_groups": [],
+        "emails": [
+            " thecrew@0xpa.net"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9afbbb2f8820f5f1db69c8dff773478634e1449d",
@@ -73808,6 +73818,7 @@
         ],
         "holders": {
             "ETH": 187
-        }
+        },
+        "p6": true
     }
 ]
