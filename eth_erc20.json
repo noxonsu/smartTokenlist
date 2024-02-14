@@ -73703,5 +73703,111 @@
         "holders": {
             "ETH": 320
         }
+    },
+    {
+        "contract_address": "0x9a52590bce99dcab5c6dc83b8da08974eeeaa06b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 714
+        }
+    },
+    {
+        "contract_address": "0x95d8bf2f57cf973251972b496dc6b1d9c6b5bce3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 388
+        }
+    },
+    {
+        "contract_address": "0xddcc69879e1d2376ce799051afa98c689f234cca",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 291
+        }
+    },
+    {
+        "contract_address": "0x811c94f62f571c710bbacd5cca59ad40ae8c9839",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "404shape.fi"
+        ],
+        "telegram_groups": [
+            "Shape404"
+        ],
+        "holders": {
+            "ETH": 216
+        }
+    },
+    {
+        "contract_address": "0x3db233d92d6fda6f87897d1d039e50d1445ddf0e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "versemetachain.com"
+        ],
+        "telegram_groups": [
+            "VerseMetaChain"
+        ],
+        "holders": {
+            "ETH": 80
+        }
+    },
+    {
+        "contract_address": "0xbacacd83b68c92ae07ef382d0c0277d1bd1c7c4d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 787
+        }
+    },
+    {
+        "contract_address": "0x8bfce2ae30879d144f72ff96e133b92d93a239c9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0xb47fa9346960914ae1e18ba4e4b1aa2205347ebd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 157
+        }
+    },
+    {
+        "contract_address": "0x9bfd76b6fbace2a2627dd34a0b0709b02295291e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "0xpa.net",
+            "snprbot.com"
+        ],
+        "holders": {
+            "ETH": 48
+        }
+    },
+    {
+        "contract_address": "0x9afbbb2f8820f5f1db69c8dff773478634e1449d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0x4159ec2ace34df270b627f22a4f45ea8a27a40bd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xf0607300cb81b1bfdb55768d7386863a759a4e06",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cyclepunk.life"
+        ],
+        "telegram_groups": [
+            "cyclepunk_BIKE"
+        ],
+        "holders": {
+            "ETH": 187
+        }
     }
 ]
