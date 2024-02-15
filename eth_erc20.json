@@ -75450,5 +75450,57 @@
             "ETH": 51
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xc5260f22a810646f767fcd61164d40f48f4491b9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 57
+        }
+    },
+    {
+        "contract_address": "0xb416a8709767a2fb7fbf0b3f12b3aaf851f5f164",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10
+        }
+    },
+    {
+        "contract_address": "0xb8e08dda1a886013f8526f0b76584d27e6527bf7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0xe11b023b790147624542f595fa0768881c576c89",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8
+        }
+    },
+    {
+        "contract_address": "0xbb48199145e56e5702071d16a04394f639dd2602",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Valhalla_Coin"
+        ],
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0xafd9268fdfebee905f7439b12c943bc18ad293c2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 71
+        }
+    },
+    {
+        "contract_address": "0xcdecf59af06df996b830fb78575068b92bef33f8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 468
+        }
     }
 ]
