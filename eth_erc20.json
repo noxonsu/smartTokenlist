@@ -75233,5 +75233,89 @@
         },
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x000000007a58f5f58e697e51ab0357bc9e260a04",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1054
+        }
+    },
+    {
+        "contract_address": "0xcca582bee40f486892718dd1437860fd15e941da",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 61
+        }
+    },
+    {
+        "contract_address": "0x7ab1d95a5a006d7c1ee95e3c858a14f8406caa9d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "trolldoge.vip"
+        ],
+        "telegram_groups": [
+            "TrollDogeCoin"
+        ],
+        "holders": {
+            "ETH": 31
+        }
+    },
+    {
+        "contract_address": "0xdb6fa6431641b3a2333a0107c1de05626a45dcf5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.hydraecosystem.com"
+        ],
+        "telegram_groups": [
+            "Hydra_Ecosystem"
+        ],
+        "holders": {
+            "ETH": 318
+        }
+    },
+    {
+        "contract_address": "0xdf1d6405df92d981a2fb3ce68f6a03bac6c0e41f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8217
+        }
+    },
+    {
+        "contract_address": "0x565b26e7d37e4f64b5c48bc8f08eb83fcf880c5f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "peapods.finance"
+        ],
+        "holders": {
+            "ETH": 8
+        }
+    },
+    {
+        "contract_address": "0xf9834692f0b869d80072d1b6bbaa8d06e4a1cb68",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 128
+        }
+    },
+    {
+        "contract_address": "0x77252494c25444f8598a0c74ffc90adc535291a9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 452
+        }
+    },
+    {
+        "contract_address": "0xc873827716d28d36cbdcf442e0f7fcb27d89c002",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "vforvendetta.live"
+        ],
+        "telegram_groups": [
+            "vendetta_eth"
+        ],
+        "holders": {
+            "ETH": 99
+        }
     }
 ]
