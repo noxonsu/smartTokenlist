@@ -56804,8 +56804,10 @@
             "www.astrodogex.com"
         ],
         "telegram_groups": [
-            "SenseiAI_Portal",
-            "XAstroDoge_Portal"
+            "Astro_Doge_X_Portal",
+            "AstroDogeX_Portl",
+            "XAstroDoge_Portal",
+            "SenseiAI_Portal"
         ],
         "holders": {
             "ETH": 16
@@ -74934,7 +74936,11 @@
         ],
         "holders": {
             "ETH": 399
-        }
+        },
+        "telegram_groups": [
+            "Dawn404Portal"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa5ed54f0f4ee4b5521b28e77b510ed8a03986f0c",
@@ -74946,7 +74952,9 @@
         ],
         "holders": {
             "ETH": 32
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0634afe839cca5e177af3d3182713df1c111274f",
@@ -74955,11 +74963,15 @@
             "www.astrodogex.com"
         ],
         "telegram_groups": [
+            "SenseiAI_Portal",
+            "AstroDogeX_Portl",
+            "XAstroDoge_Portal",
             "Astro_Doge_X_Portal"
         ],
         "holders": {
             "ETH": 12
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe89c20096b636ffec9fd26d1a623f42a33ead309",
@@ -74980,7 +74992,8 @@
         ],
         "holders": {
             "ETH": 88
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x083a96c390c942def68b6343d1c651eeae604b50",
