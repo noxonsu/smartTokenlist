@@ -75394,5 +75394,59 @@
         "holders": {
             "ETH": 3
         }
+    },
+    {
+        "contract_address": "0xc51d1eb52fba6a36d3c856168a77c3b935fc3b8f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 79
+        }
+    },
+    {
+        "contract_address": "0x382edfe4c6168858c81893fe00fcb7b68914d929",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1090
+        }
+    },
+    {
+        "contract_address": "0x1b396cf90504686b7ede2760eebb053d30d1f389",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 536
+        }
+    },
+    {
+        "contract_address": "0x1960d8a3994444b54814a8f5bcf56a1d5a8e8a68",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "eth-scriptions.com"
+        ],
+        "telegram_groups": [
+            "eth_scriptions"
+        ],
+        "holders": {
+            "ETH": 154
+        }
+    },
+    {
+        "contract_address": "0xf161583c15bdf168358f618eb096caae00cd1548",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 123
+        }
+    },
+    {
+        "contract_address": "0x47f0cd4852a635d04a32259b64787b932f3daa5c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blog.google"
+        ],
+        "telegram_groups": [
+            "gemini1pointfive"
+        ],
+        "holders": {
+            "ETH": 51
+        }
     }
 ]
