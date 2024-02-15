@@ -75578,7 +75578,8 @@
         ],
         "holders": {
             "ETH": 375
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x33d12a69b081321b78253906b2a6182619a76bd4",
@@ -75591,7 +75592,8 @@
         ],
         "holders": {
             "ETH": 168
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf81afff2f46609305e3dc0bf99941b1b70a16649",
@@ -75628,14 +75630,12 @@
             "farmland.build"
         ],
         "telegram_groups": [
-            "Land_Erc20721",
-            "Land_Erc20721",
-            "Land_Erc20721",
             "Land_Erc20721"
         ],
         "holders": {
             "ETH": 57
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xcd152e2a8c19bbfc2c89c5d9b19e53ab17a29b2a",
@@ -75646,12 +75646,16 @@
             "cloudinaryio.medium.com"
         ],
         "telegram_groups": [
-            "cloudinaryio",
-            "cloudinary_bot"
+            "cloudinary_bot",
+            "cloudinaryio"
         ],
         "holders": {
             "ETH": 315
-        }
+        },
+        "emails": [
+            "support@cloudinary.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd97db2e8c1dc15d485d61553f07b2280a73080d1",
@@ -75671,7 +75675,8 @@
         ],
         "holders": {
             "ETH": 44
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xfec10df696a49ed82781a011e638920c08ced33f",
@@ -75682,7 +75687,9 @@
         ],
         "holders": {
             "ETH": 29
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd4dcc83e35aac4a92a1f2fcd74d5852b32c6dce2",
