@@ -75152,5 +75152,79 @@
         "holders": {
             "ETH": 4
         }
+    },
+    {
+        "contract_address": "0x25707e5fe03deedc9bc7cdd118f9d952c496febe",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0x9fee65d5a627e73212989c8bbedc5fa5cae3821f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x5a035e3f1551a15230d0cde3357fb1bf89369261",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1190
+        }
+    },
+    {
+        "contract_address": "0x21b83314af7dff68c9292a431bf315dab9cad378",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 381
+        }
+    },
+    {
+        "contract_address": "0x0262e9374e95b9667b78136c3897cb4e4ef7f0c2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 109
+        }
+    },
+    {
+        "contract_address": "0x5552e5a89a70cb2ef5adbbc45a6be442fe7160ec",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2173
+        }
+    },
+    {
+        "contract_address": "0x676741a1f19ead0b3b46ae09e9c15728b4d162be",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "patex.io",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "cpatexexchange"
+        ],
+        "holders": {
+            "ETH": 38
+        }
+    },
+    {
+        "contract_address": "0xb06bfbd7b50f80c8d9da57fc4cf5cbd5b3e2f148",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi"
+        ],
+        "holders": {
+            "ETH": 5
+        }
     }
 ]
