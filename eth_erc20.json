@@ -75090,5 +75090,66 @@
         "holders": {
             "ETH": 56
         }
+    },
+    {
+        "contract_address": "0x02ae7305cef85c855a67a59de4f1e2bb47e8ef2c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xead188779ed4bad2938c4d161f5e00422526b427",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x9f0725088863b1355d2a9469a0ce4bee39697e6e",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "lunarlandereth"
+        ],
+        "holders": {
+            "ETH": 104
+        }
+    },
+    {
+        "contract_address": "0xf3e826d458527616466a97fcfde3c79481bcc50c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "trump20.xyz"
+        ],
+        "telegram_groups": [
+            "trump20magaportal"
+        ],
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0x6c3d78e55fc939da4ca94760f6b27c3425a7a865",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "megadethERC"
+        ],
+        "holders": {
+            "ETH": 549
+        }
+    },
+    {
+        "contract_address": "0x712e119e35c5bd2778ba12363656156e3017c6dd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x5df66bf82a3096d886368149acb3de561143f530",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
     }
 ]
