@@ -75054,11 +75054,21 @@
             "deepw3b.com"
         ],
         "telegram_groups": [
-            "Deepw3b_com"
+            "xibita_dw3b",
+            "xibita_dev",
+            "callerscanbot",
+            "dw3bBot",
+            "Deepw3b_com",
+            "deepw3b_com",
+            "shil_me_bot"
         ],
         "holders": {
             "ETH": 280
-        }
+        },
+        "emails": [
+            "Email: admin@deepw3b.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xfd452b3d6c3879374ce5fd7e8e97e8e3afcd80d0",
