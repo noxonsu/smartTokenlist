@@ -74708,5 +74708,67 @@
         "holders": {
             "ETH": 1651
         }
+    },
+    {
+        "contract_address": "0x70e36f6bf80a52b3b46b3af8e106cc0ed743e8e4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5128
+        }
+    },
+    {
+        "contract_address": "0x7d7513bba1af295574c24bbe425873d0c431ff9f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1046
+        }
+    },
+    {
+        "contract_address": "0x9d10291b6b624ef7a9389bb1c8507ac727e2f25b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xb67f7bc187920113ec54b75c19629d3e7a9a719f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.starknet.io",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "nibirufi"
+        ],
+        "holders": {
+            "ETH": 48
+        }
+    },
+    {
+        "contract_address": "0xdf9c82c67f396d336aedccdb85886749827601dc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 36
+        }
+    },
+    {
+        "contract_address": "0xf494e9916e7f1ecc3584167dde1e56d625c4f5f4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x7e57ecb14188fe1afebaab982f97a8e640eb5575",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tatsuecosystem.com",
+            "docs.uniswap.org",
+            "docs.uniswap.org",
+            "docs.uniswap.org"
+        ],
+        "holders": {
+            "ETH": 72
+        }
     }
 ]
