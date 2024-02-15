@@ -75008,5 +75008,77 @@
         "holders": {
             "ETH": 1
         }
+    },
+    {
+        "contract_address": "0x8d983cb9388eac77af0474fa441c4815500cb7bb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 246
+        }
+    },
+    {
+        "contract_address": "0x57fbb81f894ee9fb6f8d18ddd866a9206b15f192",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "dontpanicgrok"
+        ],
+        "holders": {
+            "ETH": 83
+        }
+    },
+    {
+        "contract_address": "0x6a8193f7c2f42bf45094a2a9f3defe5f47b84e41",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 343
+        }
+    },
+    {
+        "contract_address": "0xf22bbdad6b3dd9314bdf97724df32b09ff95c216",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8
+        }
+    },
+    {
+        "contract_address": "0x97c8321b9434db4110b1d75a551e561036ff2e6a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 542
+        }
+    },
+    {
+        "contract_address": "0xca2d88fc1e60239f40257dc651cb2cbad927adb7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "deepw3b.com"
+        ],
+        "telegram_groups": [
+            "Deepw3b_com"
+        ],
+        "holders": {
+            "ETH": 280
+        }
+    },
+    {
+        "contract_address": "0xfd452b3d6c3879374ce5fd7e8e97e8e3afcd80d0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 63
+        }
+    },
+    {
+        "contract_address": "0x07b701ac44aacb03d8bed42eb85ec38210bdf513",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 287
+        }
+    },
+    {
+        "contract_address": "0xcae6ebacef456e5a942afb40fc99f2f38639ef01",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 56
+        }
     }
 ]
