@@ -75327,5 +75327,71 @@
             "ETH": 99
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x37ea8183fe0cb82e493d6ff47d4fc033b25f7b0e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bitground.finance",
+            "docs.bitground.finance"
+        ],
+        "telegram_groups": [
+            "BitGround_Official"
+        ],
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0xab069f70aaa5ee3afee2b168d9b56110afa352e2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 187
+        }
+    },
+    {
+        "contract_address": "0x581911b360b6eb3a14ef295a83a91dc2bce2d6f7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1472
+        }
+    },
+    {
+        "contract_address": "0x188fb5f5ae5bbe4154d5778f2bbb2fb985c94d25",
+        "sourceScanned": "processed",
+        "emails": [
+            "goncalo.sa@consensys.net"
+        ],
+        "holders": {
+            "ETH": 41
+        }
+    },
+    {
+        "contract_address": "0xc0e1f8de8f06c5c01bad9bac8cca671caad68169",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x450cbbcc8b0dee9c345fc8649940e1fa15d9dc21",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 21
+        }
+    },
+    {
+        "contract_address": "0x04b9788559db3869eb48c76acac7af17c0165b00",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1083
+        }
+    },
+    {
+        "contract_address": "0x12446a71fcedb10adfd275a1bc78d69ac3450d2a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
     }
 ]
