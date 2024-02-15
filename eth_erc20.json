@@ -74907,5 +74907,93 @@
         "holders": {
             "ETH": 545
         }
+    },
+    {
+        "contract_address": "0x4742ba1631d01ed681baf7db180cea5ec626884d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xf38feedb0c85c1e1d6864c7513ac646d28bb0cfc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xa72332af4a7efbce221903e7a09175be64f0400d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "graphics.stanford.edu",
+            "token-cdn-domain",
+            "token-cdn-domain",
+            "token-cdn-domain",
+            "brown-premier-mollusk-514.mypinata.cloud"
+        ],
+        "holders": {
+            "ETH": 399
+        }
+    },
+    {
+        "contract_address": "0xa5ed54f0f4ee4b5521b28e77b510ed8a03986f0c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "token-cdn-domain",
+            "token-cdn-domain",
+            "www.bytehelix.org"
+        ],
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0x0634afe839cca5e177af3d3182713df1c111274f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.astrodogex.com"
+        ],
+        "telegram_groups": [
+            "Astro_Doge_X_Portal"
+        ],
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0xe89c20096b636ffec9fd26d1a623f42a33ead309",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4618
+        }
+    },
+    {
+        "contract_address": "0x5293f5956a7ae9bcb69f3aa63260fb8133e1e42e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "yydscaishen.com",
+            "yydsdao.org"
+        ],
+        "telegram_groups": [
+            "yydsportal"
+        ],
+        "holders": {
+            "ETH": 88
+        }
+    },
+    {
+        "contract_address": "0x083a96c390c942def68b6343d1c651eeae604b50",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 34
+        }
+    },
+    {
+        "contract_address": "0x849535b729768321aded4ede1acefa03a5f96fde",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
