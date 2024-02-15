@@ -75203,11 +75203,16 @@
             "discord.com"
         ],
         "telegram_groups": [
+            "cpatexeng",
             "cpatexexchange"
         ],
         "holders": {
             "ETH": 38
-        }
+        },
+        "emails": [
+            "info@patex.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb06bfbd7b50f80c8d9da57fc4cf5cbd5b3e2f148",
@@ -75225,6 +75230,8 @@
         ],
         "holders": {
             "ETH": 5
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     }
 ]
