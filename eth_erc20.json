@@ -75259,7 +75259,8 @@
         ],
         "holders": {
             "ETH": 31
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xdb6fa6431641b3a2333a0107c1de05626a45dcf5",
@@ -75272,7 +75273,11 @@
         ],
         "holders": {
             "ETH": 318
-        }
+        },
+        "emails": [
+            "dev@hydraecosystem.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdf1d6405df92d981a2fb3ce68f6a03bac6c0e41f",
@@ -75289,7 +75294,11 @@
         ],
         "holders": {
             "ETH": 8
-        }
+        },
+        "telegram_groups": [
+            "PeapodsFinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf9834692f0b869d80072d1b6bbaa8d06e4a1cb68",
@@ -75316,6 +75325,7 @@
         ],
         "holders": {
             "ETH": 99
-        }
+        },
+        "p6": true
     }
 ]
