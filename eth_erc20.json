@@ -75802,5 +75802,106 @@
         "holders": {
             "ETH": 234
         }
+    },
+    {
+        "contract_address": "0x653f375511e1518a12b935cfd2d4574cfcb1bb08",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "babypepefork.fun"
+        ],
+        "telegram_groups": [
+            "BabyPepeFork_portal"
+        ],
+        "holders": {
+            "ETH": 122
+        }
+    },
+    {
+        "contract_address": "0xf55b0f6f2da5ffddb104b58a60f2862745960442",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0x997be9f68df07ee507a772c09cfb86a0d0b16f8c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "travis-ci.com"
+        ],
+        "holders": {
+            "ETH": 43
+        }
+    },
+    {
+        "contract_address": "0xaebef5e60d93f255f14328c154f0f4d1402cffa7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4063
+        }
+    },
+    {
+        "contract_address": "0x72831eebef4e3f3697a6b216e3713958210ae8cd",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blob.gg",
+            "docs.blob.gg"
+        ],
+        "telegram_groups": [
+            "bloberc20"
+        ],
+        "holders": {
+            "ETH": 230
+        }
+    },
+    {
+        "contract_address": "0xde10f2d1e7413720e2d34b3dc44ddd45323c995b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.mode.network",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "ModeNetworkOfficial"
+        ],
+        "holders": {
+            "ETH": 21
+        }
+    },
+    {
+        "contract_address": "0xa86e4b3faecbf989a886cbc0a8a8030bd92f6053",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "shibbo.site"
+        ],
+        "telegram_groups": [
+            "ShibboOfficial"
+        ],
+        "holders": {
+            "ETH": 93
+        }
+    },
+    {
+        "contract_address": "0x257eef05f232b566cd0af298ec0b45c2c18d16c7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "gudetama.io"
+        ],
+        "telegram_groups": [
+            "GudetamaCoin"
+        ],
+        "holders": {
+            "ETH": 140
+        }
+    },
+    {
+        "contract_address": "0x7db5af2b9624e1b3b4bb69d6debd9ad1016a58ac",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "VoltInuOfficial"
+        ],
+        "holders": {
+            "ETH": 17655
+        }
     }
 ]
