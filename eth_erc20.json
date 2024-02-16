@@ -76129,5 +76129,119 @@
         "holders": {
             "ETH": 1
         }
+    },
+    {
+        "contract_address": "0xd9ed35075f47078160170a74459a5af6bdbbb2c2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 74
+        }
+    },
+    {
+        "contract_address": "0x5e37718cedad7cc99cc220c417f5095573b510c6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "emutoken.com"
+        ],
+        "telegram_groups": [
+            "emutokenerc"
+        ],
+        "holders": {
+            "ETH": 193
+        }
+    },
+    {
+        "contract_address": "0x7f267ba63a174e2de2a10d97ef8ffdf7759ccb46",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "SoraInuErc20"
+        ],
+        "holders": {
+            "ETH": 102
+        }
+    },
+    {
+        "contract_address": "0xc813ea5e3b48bebeedb796ab42a30c5599b01740",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2344
+        }
+    },
+    {
+        "contract_address": "0x97ad67561e54f1233866c0bfb43ddd3eccd47acc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 60
+        }
+    },
+    {
+        "contract_address": "0x7743fbf9b8b9977d9677336e036ff5d6d7b5eb9a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "billtoken.io"
+        ],
+        "holders": {
+            "ETH": 135
+        }
+    },
+    {
+        "contract_address": "0xee1c139ea09924a95b98b56a68efc1104f049f21",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sinutoken.com"
+        ],
+        "telegram_groups": [
+            "sorainueth"
+        ],
+        "holders": {
+            "ETH": 309
+        }
+    },
+    {
+        "contract_address": "0xbe3cd04f1aa40d8a4c157c378c6d3bc379e6aae2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "monke.wiki"
+        ],
+        "telegram_groups": [
+            "monkecoinerc"
+        ],
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0xd1cf83c348401af2028317dd967f43604abb63cc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9
+        }
+    },
+    {
+        "contract_address": "0x1596f7f7a0c495daf141376321d3ecac66a10a42",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sora-ai.vip"
+        ],
+        "telegram_groups": [
+            "SoraAIToken"
+        ],
+        "holders": {
+            "ETH": 128
+        }
+    },
+    {
+        "contract_address": "0x3bac404dcf868cb3261196d7f9a34866ecbf0db9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0x5e670f0a4eb5904b70a69d4b6e89282580b7452f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
