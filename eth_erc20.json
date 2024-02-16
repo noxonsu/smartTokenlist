@@ -76249,5 +76249,60 @@
         "holders": {
             "ETH": 1
         }
+    },
+    {
+        "contract_address": "0x52602b5eee7f0c4709e99ae7677ae8d8920177a0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0x32bced6e535b2101fb700a77a972f5be2c8eff13",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x1ab3d612ea7df26117554dddd379764ebce1a5ad",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0x4e40e998b87a377a4ddad7b476522ba562123a0d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 880
+        }
+    },
+    {
+        "contract_address": "0xb619afca00272dcc5ea038e1c105de39a2e295a2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 704
+        }
+    },
+    {
+        "contract_address": "0x05fb86775fd5c16290f1e838f5caaa7342bd9a63",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 641
+        }
+    },
+    {
+        "contract_address": "0xdede880fc7526eb75eaee6c63cdcd752fe5ef486",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ecovadao.com"
+        ],
+        "telegram_groups": [
+            "ecova_dao"
+        ],
+        "holders": {
+            "ETH": 51
+        }
     }
 ]
