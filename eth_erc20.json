@@ -76553,5 +76553,66 @@
         "holders": {
             "ETH": 9
         }
+    },
+    {
+        "contract_address": "0xf013da71fabdecfd0c0e0388f2abfa8bf494c8e7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "moderatorai.tech"
+        ],
+        "telegram_groups": [
+            "moderatorAi_Erc"
+        ],
+        "holders": {
+            "ETH": 112
+        }
+    },
+    {
+        "contract_address": "0x9e51522f2906e001f21492b519038aab1b9a2520",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.sminem.online"
+        ],
+        "telegram_groups": [
+            "theboywhosavedcrypto"
+        ],
+        "holders": {
+            "ETH": 86
+        }
+    },
+    {
+        "contract_address": "0x9836d8323586fac6d95c7b081614bf86ff1a47a7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "amplefi.cash",
+            "docs.amplefi.cash"
+        ],
+        "telegram_groups": [
+            "ample_cash"
+        ],
+        "holders": {
+            "ETH": 71
+        }
+    },
+    {
+        "contract_address": "0x37a4080943f7a083144320339799ec77d0e5a2f0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0x990046c834ea56a45de61f5d3aeb309a8e036a9f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "yardboyz.xyz",
+            "jvwgtygk3tt6jgfavflntvhahksrk6pqzznp4ehau5yebjg3azja.arweave.net"
+        ],
+        "telegram_groups": [
+            "YardBoyzPortal"
+        ],
+        "holders": {
+            "ETH": 429
+        }
     }
 ]
