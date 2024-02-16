@@ -75924,11 +75924,14 @@
             "warpcast.com"
         ],
         "telegram_groups": [
-            "Farcastereth"
+            "Farcastereth",
+            "LFGcoinerc20",
+            "Hullo_Erc"
         ],
         "holders": {
             "ETH": 195
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8a57bc4fb8bcdf32180e98f511a264db5a24a879",
@@ -75941,7 +75944,8 @@
         ],
         "holders": {
             "ETH": 97
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5dc1bf6f1e983c0b21efb003c105133736fa0743",
@@ -75968,7 +75972,8 @@
         ],
         "holders": {
             "ETH": 101
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x471c2ae83c560809579e0695192845e4d5f9af03",
@@ -75977,11 +75982,13 @@
             "www.aethergames.io"
         ],
         "telegram_groups": [
+            "jenxkz",
             "aethergames"
         ],
         "holders": {
             "ETH": 148
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7aaeb604c1a7b5f6f5a6558107b7b667a1ff440c",
