@@ -76565,7 +76565,8 @@
         ],
         "holders": {
             "ETH": 112
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9e51522f2906e001f21492b519038aab1b9a2520",
@@ -76578,7 +76579,11 @@
         ],
         "holders": {
             "ETH": 86
-        }
+        },
+        "emails": [
+            "info@mysite.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9836d8323586fac6d95c7b081614bf86ff1a47a7",
@@ -76592,7 +76597,8 @@
         ],
         "holders": {
             "ETH": 71
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x37a4080943f7a083144320339799ec77d0e5a2f0",
@@ -76613,6 +76619,7 @@
         ],
         "holders": {
             "ETH": 429
-        }
+        },
+        "p6": true
     }
 ]
