@@ -45195,6 +45195,7 @@
             "lendprotocol.xyz"
         ],
         "telegram_groups": [
+            "TheLendPortal",
             "LendPortal"
         ],
         "holders": {
@@ -76407,7 +76408,8 @@
         ],
         "holders": {
             "ETH": 73
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6267bce3af7f41f2b625dd8d322ea6032dbb99d8",
@@ -76420,7 +76422,8 @@
         ],
         "holders": {
             "ETH": 51
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xef29ad65d36cb08f30ba798440f32e7fc327c45e",
@@ -76446,11 +76449,13 @@
             "lendprotocol.xyz"
         ],
         "telegram_groups": [
-            "TheLendPortal"
+            "TheLendPortal",
+            "LendPortal"
         ],
         "holders": {
             "ETH": 30
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x76823d645b503083a13d3dac3b9c768ec0b79e59",
@@ -76463,7 +76468,8 @@
         ],
         "holders": {
             "ETH": 68
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa700781270d52f08c32cbc8374ead4d81a0bdcad",
@@ -76509,7 +76515,8 @@
         ],
         "holders": {
             "ETH": 84
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9c38688e5acb9ed6049c8502650db5ac8ef96465",
@@ -76537,7 +76544,8 @@
         ],
         "holders": {
             "ETH": 11
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x180efc1349a69390ade25667487a826164c9c6e4",
