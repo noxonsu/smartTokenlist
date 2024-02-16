@@ -76305,5 +76305,91 @@
             "ETH": 51
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x93d97eefc0453fd1aa883dab9e79ac68c309de73",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 27
+        }
+    },
+    {
+        "contract_address": "0xc57b97b890aa3ab3e9f8cbd7d26c87cebef1ee68",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "shibawifberet.vip"
+        ],
+        "telegram_groups": [
+            "Shibawifberet"
+        ],
+        "holders": {
+            "ETH": 283
+        }
+    },
+    {
+        "contract_address": "0x5f2b130ba4486b2be05b646b5bcb9a01e4ff51e3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 161
+        }
+    },
+    {
+        "contract_address": "0x0b452278223d3954f4ac050949d7998e373e7e43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1836
+        }
+    },
+    {
+        "contract_address": "0x1358a12374c4eaa6a429bf44b62c42545825211f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1049
+        }
+    },
+    {
+        "contract_address": "0x28360c44daee01c1743105724bcc485fd901ab42",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.createmytoken.com"
+        ],
+        "holders": {
+            "ETH": 305
+        }
+    },
+    {
+        "contract_address": "0x1d1fdf0691e13a27041c1ec63afdf8a29a7fcc52",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 102
+        }
+    },
+    {
+        "contract_address": "0x21e783bcf445b515957a10e992ad3c8e9ff51288",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11170
+        }
+    },
+    {
+        "contract_address": "0x3526989ba0dbc5e4163f4e453d20f9fedcc87081",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 676
+        }
+    },
+    {
+        "contract_address": "0xaa6a914c605f9134a8480745729c6d0e00be0384",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 88
+        }
+    },
+    {
+        "contract_address": "0xf61bf4d1a948487d61b8fa63808aac06bda55f98",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1524
+        }
     }
 ]
