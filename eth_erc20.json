@@ -37839,7 +37839,9 @@
         ],
         "holders": {
             "ETH": 9832
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe52fa148e1dc6f84f68f94a5fcf4d10e46e0acfc",
@@ -45782,7 +45784,9 @@
         ],
         "holders": {
             "ETH": 18927
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x18d1d3aff281f40aaafa3889405c6cf845a925e8",
@@ -53532,7 +53536,9 @@
         ],
         "holders": {
             "ETH": 6073
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xade6fdaba1643e4d1eef68da7170f234470938c6",
@@ -75814,7 +75820,8 @@
         ],
         "holders": {
             "ETH": 122
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf55b0f6f2da5ffddb104b58a60f2862745960442",
@@ -75831,7 +75838,9 @@
         ],
         "holders": {
             "ETH": 43
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xaebef5e60d93f255f14328c154f0f4d1402cffa7",
@@ -75852,7 +75861,8 @@
         ],
         "holders": {
             "ETH": 230
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xde10f2d1e7413720e2d34b3dc44ddd45323c995b",
@@ -75866,7 +75876,8 @@
         ],
         "holders": {
             "ETH": 21
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa86e4b3faecbf989a886cbc0a8a8030bd92f6053",
@@ -75879,7 +75890,8 @@
         ],
         "holders": {
             "ETH": 93
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x257eef05f232b566cd0af298ec0b45c2c18d16c7",
@@ -75892,7 +75904,8 @@
         ],
         "holders": {
             "ETH": 140
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7db5af2b9624e1b3b4bb69d6debd9ad1016a58ac",
