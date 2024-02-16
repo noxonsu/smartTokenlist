@@ -75916,5 +75916,88 @@
         "holders": {
             "ETH": 17655
         }
+    },
+    {
+        "contract_address": "0x096deae23d5e58f47c6ffc0b48d015756a2b21d3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "warpcast.com"
+        ],
+        "telegram_groups": [
+            "Farcastereth"
+        ],
+        "holders": {
+            "ETH": 195
+        }
+    },
+    {
+        "contract_address": "0x8a57bc4fb8bcdf32180e98f511a264db5a24a879",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.error410.net"
+        ],
+        "telegram_groups": [
+            "GONEERC"
+        ],
+        "holders": {
+            "ETH": 97
+        }
+    },
+    {
+        "contract_address": "0x5dc1bf6f1e983c0b21efb003c105133736fa0743",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x5ffa082c4247ce0da1649948082a3c82d188e431",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 50
+        }
+    },
+    {
+        "contract_address": "0x8a3e61a754090ef375e18fbf92f32b7bfe564fe2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "samaltmanerc.xyz"
+        ],
+        "telegram_groups": [
+            "SamAltman_ERC"
+        ],
+        "holders": {
+            "ETH": 101
+        }
+    },
+    {
+        "contract_address": "0x471c2ae83c560809579e0695192845e4d5f9af03",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.aethergames.io"
+        ],
+        "telegram_groups": [
+            "aethergames"
+        ],
+        "holders": {
+            "ETH": 148
+        }
+    },
+    {
+        "contract_address": "0x7aaeb604c1a7b5f6f5a6558107b7b667a1ff440c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9000
+        }
+    },
+    {
+        "contract_address": "0x61e631e8339dbe4d4a190a14d80775e5beb3ba39",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "rebelfuryeth"
+        ],
+        "holders": {
+            "ETH": 11
+        }
     }
 ]
