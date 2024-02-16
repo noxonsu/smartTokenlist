@@ -76006,5 +76006,60 @@
         "holders": {
             "ETH": 11
         }
+    },
+    {
+        "contract_address": "0xff262396f2a35cd7aa24b7255e7d3f45f057cdba",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 41
+        }
+    },
+    {
+        "contract_address": "0xcb166f0148ae815313039d735e28fcec617b21fe",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x4e6068a92ac7fdf3f17c591bdbe8063bbeb2d4e0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 327
+        }
+    },
+    {
+        "contract_address": "0x44f0ffe0cda2027d2f99aa8d9af19a1629d23734",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xbc695ff4eecbea83e577245d762890c85f4c5fb4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.theverge.com",
+            "www.keyframer.net"
+        ],
+        "telegram_groups": [
+            "Keyframer_ETH"
+        ],
+        "holders": {
+            "ETH": 242
+        }
+    },
+    {
+        "contract_address": "0xea340c20c4760e4d63dea31eb74bcd251f316f62",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "lumiereai.top"
+        ],
+        "telegram_groups": [
+            "LumiereERC"
+        ],
+        "holders": {
+            "ETH": 188
+        }
     }
 ]
