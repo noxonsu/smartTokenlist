@@ -75725,5 +75725,81 @@
             "ETH": 12
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x7b70d04099cb9cfb1db7b6820badafb4c5c70a67",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0xa31fcd3a269f8d80c2f92a0cf577f0edcf482f9c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x0298501f77e8e70bd79858f4f3a423bb57955e0a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x3da19bd72575bf6e766656fac87fe3edc9f78215",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x95e39dbaff979d3b30fcb239743a6e9e65aa7118",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x11040a8305336d4ddec66b31e4bf6ad2ddd51a68",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "finance.yahoo.com"
+        ],
+        "telegram_groups": [
+            "LucasAI_ERC"
+        ],
+        "holders": {
+            "ETH": 45
+        }
+    },
+    {
+        "contract_address": "0x407620353cd0eb34e1f90195905c5053a34d664d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x718da2a140aa4719abd4d0b532168140849c6c1c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x45b72bfd8bcf1f1bd21639c2cf7334066695a8f1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xe063f04f280c60aeca68b38341c2eecbec703ae2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 234
+        }
     }
 ]
