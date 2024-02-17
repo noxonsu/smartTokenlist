@@ -76621,5 +76621,80 @@
             "ETH": 429
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x62489aead5d588fc358b92b93b32f55cba9b93bb",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "longcateth.com"
+        ],
+        "telegram_groups": [
+            "Longcaterc"
+        ],
+        "holders": {
+            "ETH": 138
+        }
+    },
+    {
+        "contract_address": "0xe8ab9100fa0c4a1f9d947b6913a9dbf556cdc002",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "PORTAL404.io"
+        ],
+        "holders": {
+            "ETH": 161
+        }
+    },
+    {
+        "contract_address": "0xc96113eed8cab59cd8a66813bcb0ceb29f06d2e4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 226
+        }
+    },
+    {
+        "contract_address": "0xbb556b0ee2cbd89ed95ddea881477723a3aa8f8b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 644
+        }
+    },
+    {
+        "contract_address": "0x2e7df7000ae6c34e6c25c309c87d27c799adddc2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "peapods.finance"
+        ],
+        "holders": {
+            "ETH": 29
+        }
+    },
+    {
+        "contract_address": "0x52fa7326c31d6f92f1e49a1eb008b1d828b1cd44",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 47
+        }
+    },
+    {
+        "contract_address": "0x0316eb71485b0ab14103307bf65a021042c6d380",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2647
+        }
+    },
+    {
+        "contract_address": "0x8143bcd32a7905dc262f2d2e8206ab25d86463cc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x8747ffefcb8223508855c37164b105da51f0cc9e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
