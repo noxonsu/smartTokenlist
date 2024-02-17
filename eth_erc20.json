@@ -15779,7 +15779,9 @@
         ],
         "holders": {
             "ETH": 9246
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8bd4a1e74a27182d23b98c10fd21d4fbb0ed4ba0",
@@ -77018,7 +77020,8 @@
         ],
         "holders": {
             "ETH": 112
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0bf43350076f95e0d16120b4d6bdfa1c9d50bdbd",
@@ -77062,11 +77065,13 @@
             "johnbarron.xyz"
         ],
         "telegram_groups": [
-            "JohnBarronErc"
+            "JohnBarronErc",
+            "JohnBarronCoin"
         ],
         "holders": {
             "ETH": 41
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf3d41b377c93fa5c3b0071966f1811c5063fad40",
@@ -77083,7 +77088,9 @@
         ],
         "holders": {
             "ETH": 390
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xca0253a98d16e9c1e3614cafda19318ee69772d0",
