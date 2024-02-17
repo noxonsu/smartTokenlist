@@ -76992,5 +76992,104 @@
         "holders": {
             "ETH": 16
         }
+    },
+    {
+        "contract_address": "0x2f9f68721460ce9cc4b5755702083f4e337bba64",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0xfaca2edbf3abdb1a64eefbff50b79411f2aaac0d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0x7b77a76f56ebe1b3b97804ee896dedc63c5c306b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "elmocoin.lol"
+        ],
+        "telegram_groups": [
+            "ELMO_ETH"
+        ],
+        "holders": {
+            "ETH": 112
+        }
+    },
+    {
+        "contract_address": "0x0bf43350076f95e0d16120b4d6bdfa1c9d50bdbd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 63
+        }
+    },
+    {
+        "contract_address": "0x518b63da813d46556fea041a88b52e3caa8c16a8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 403
+        }
+    },
+    {
+        "contract_address": "0x99295f1141d58a99e939f7be6bbe734916a875b8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1422
+        }
+    },
+    {
+        "contract_address": "0x89b641464e82697adfc6cccbf52b93a89b791e1f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 795
+        }
+    },
+    {
+        "contract_address": "0x027ea05c0110126327e8ea5c14d39661b29141ac",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 754
+        }
+    },
+    {
+        "contract_address": "0x380274f92dc7b00fd87dee5037de57154ea06268",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "johnbarron.xyz"
+        ],
+        "telegram_groups": [
+            "JohnBarronErc"
+        ],
+        "holders": {
+            "ETH": 41
+        }
+    },
+    {
+        "contract_address": "0xf3d41b377c93fa5c3b0071966f1811c5063fad40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 96
+        }
+    },
+    {
+        "contract_address": "0x075b1bb99792c9e1041ba13afef80c91a1e70fb3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "vyper.readthedocs.io"
+        ],
+        "holders": {
+            "ETH": 390
+        }
+    },
+    {
+        "contract_address": "0xca0253a98d16e9c1e3614cafda19318ee69772d0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
     }
 ]
