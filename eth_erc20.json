@@ -76894,7 +76894,8 @@
         ],
         "holders": {
             "ETH": 28
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa103acd89f50d8d5f03bbb0a3365b33bfd8888ee",
@@ -76918,11 +76919,13 @@
         ],
         "telegram_groups": [
             "modai_portal",
-            "modaigroup_bot"
+            "modaigroup_bot",
+            "modAI_portl"
         ],
         "holders": {
             "ETH": 53
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xbe1a4ff6ed8ae6cd6f2bee0c6a3301c870c4c155",
@@ -76935,7 +76938,8 @@
         ],
         "holders": {
             "ETH": 82
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xea103277c6a902345b3b8496a3fb910fb249e4c9",
@@ -76972,7 +76976,8 @@
         ],
         "holders": {
             "ETH": 11
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xbb94e0d1b051516b9b9a907ef708d20ef97d8edc",
