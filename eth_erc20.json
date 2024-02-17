@@ -76703,5 +76703,95 @@
         "holders": {
             "ETH": 1
         }
+    },
+    {
+        "contract_address": "0x08349c5b142c81778d841b018bc5a401c9ebbd7a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xf6d2224916ddfbbab6e6bd0d1b7034f4ae0cab18",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 154
+        }
+    },
+    {
+        "contract_address": "0xc52adbbd08bab4ddf8343b73ed32282d6fc7eff1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.pegasustech.xyz"
+        ],
+        "telegram_groups": [
+            "pegasuserc"
+        ],
+        "holders": {
+            "ETH": 220
+        }
+    },
+    {
+        "contract_address": "0x41252e8691e964f7de35156b68493bab6797a275",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 72
+        }
+    },
+    {
+        "contract_address": "0x6c197bd04a2349fe7250d6174ba930cb6667a5af",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "CATECOINerc20.lol"
+        ],
+        "telegram_groups": [
+            "CATECOINETH"
+        ],
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0x753cd33a41a7b4857681ab2498ce66ae977aa3de",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "vaxlabs.xyz",
+            "vaxlabs.gitbook.io"
+        ],
+        "telegram_groups": [
+            "vaxlabs_portal",
+            "vaxlab_tracker"
+        ],
+        "holders": {
+            "ETH": 70
+        }
+    },
+    {
+        "contract_address": "0x8193711b2763bc7dfd67da0d6c8c26642eafdaf3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 351
+        }
+    },
+    {
+        "contract_address": "0x6036250b1db579ad5f333a130ea5a4ec28b5789e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 325
+        }
+    },
+    {
+        "contract_address": "0x8dcc22dcc33fa7fab495596f3310dc1b0fc78583",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 705
+        }
+    },
+    {
+        "contract_address": "0xe5a4ea979c9cf323a1d5877a219e9c7f1f6c2a0c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 71
+        }
     }
 ]
