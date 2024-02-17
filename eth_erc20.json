@@ -77098,5 +77098,46 @@
         "holders": {
             "ETH": 6
         }
+    },
+    {
+        "contract_address": "0x5bb1b0700faf85e35f560de73f7dc21fd6bfd0ec",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 46
+        }
+    },
+    {
+        "contract_address": "0x355a824bea1adc22733978a3748271e1bbb34130",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1865
+        }
+    },
+    {
+        "contract_address": "0x9f66eb710ba3d8a2a9941fbb27359e25c7ecaeb2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 127
+        }
+    },
+    {
+        "contract_address": "0xeda55c23d8fb2ca6e93b078a0b8dcb456426ea7b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "doraerc404.com"
+        ],
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0x6d6b11219a15aefc32a430ac7ad6429ad36748c9",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "shuggitoken"
+        ],
+        "holders": {
+            "ETH": 422
+        }
     }
 ]
