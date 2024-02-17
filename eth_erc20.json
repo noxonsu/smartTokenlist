@@ -77260,5 +77260,84 @@
         "holders": {
             "ETH": 712
         }
+    },
+    {
+        "contract_address": "0x876d0e98f598c793f1851ba3b6324eb8c21dc969",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.peakfi.org",
+            "docs.peakfi.org"
+        ],
+        "telegram_groups": [
+            "peak_fi"
+        ],
+        "holders": {
+            "ETH": 70
+        }
+    },
+    {
+        "contract_address": "0x725b9787fc9daf3bfd3fa21ec1bd88315181d164",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 204
+        }
+    },
+    {
+        "contract_address": "0x4c8e461f90886bd15231d4897e40f6633550e8b7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.berachain.com",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "BerachainPortal"
+        ],
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0x1684aad9d3e158f2bdb04a7c0bbc64fa1cce98aa",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "WizOfSora"
+        ],
+        "holders": {
+            "ETH": 119
+        }
+    },
+    {
+        "contract_address": "0xd04772a2cbe85a8851714d428ff1c7344965325a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 210
+        }
+    },
+    {
+        "contract_address": "0x33216b9bb0f2d03083a721ce603ec34741b9555c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 440
+        }
+    },
+    {
+        "contract_address": "0x3a14c592a1fbdd6e513cf418352cd052f20e09d1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 27
+        }
+    },
+    {
+        "contract_address": "0x9d92bc56c1e0c6905ea7bcbaf19518256bf48010",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "rkl404.club"
+        ],
+        "telegram_groups": [
+            "rkl404_official"
+        ],
+        "holders": {
+            "ETH": 62
+        }
     }
 ]
