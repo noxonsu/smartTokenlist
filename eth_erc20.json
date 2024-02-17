@@ -77209,5 +77209,55 @@
         "holders": {
             "ETH": 69
         }
+    },
+    {
+        "contract_address": "0x00e030dc8a414f9b54a9a11cc56bcce20ae4ca98",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x84193321f5c99085e402077d308ff711f83fd342",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x2b38d55ea5a6549fcdea91aa5aac91f4bed6a73b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.0xnodes.pro",
+            "app.0xnodes.pro",
+            "docs.0xnodes.pro"
+        ],
+        "telegram_groups": [
+            "node0xPro"
+        ],
+        "holders": {
+            "ETH": 59
+        }
+    },
+    {
+        "contract_address": "0xc6ff86a0096ebe5d9b6aa9b9c52eda1c14ca4ebe",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x16368ae7d33a5f7fb5fcfd48d7e29092e81a2661",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 838
+        }
+    },
+    {
+        "contract_address": "0x45f93404ae1e4f0411a7f42bc6a5dc395792738d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 712
+        }
     }
 ]
