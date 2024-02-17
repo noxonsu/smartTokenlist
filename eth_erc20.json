@@ -77343,5 +77343,108 @@
             "ETH": 62
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x2b9bfbf0d47a7ba9338d0719ff925e7431ad616a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.planktos-coin.com"
+        ],
+        "holders": {
+            "ETH": 122
+        }
+    },
+    {
+        "contract_address": "0xbcdac3f3684d4cdf04fdfabc59cebd9aa71cbf1e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 59
+        }
+    },
+    {
+        "contract_address": "0x3aa7486accb4f7b43d9556d50a42117ded6df579",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blassnode.com"
+        ],
+        "telegram_groups": [
+            "BlassNode"
+        ],
+        "holders": {
+            "ETH": 199
+        }
+    },
+    {
+        "contract_address": "0x0472bb2a329593e6a660137e370328c200d6e03c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "siriai.cc",
+            "rewards.siriai.cc",
+            "docs.siriai.cc"
+        ],
+        "telegram_groups": [
+            "siri_ai_channel"
+        ],
+        "holders": {
+            "ETH": 53
+        }
+    },
+    {
+        "contract_address": "0x0ce49000b2857cc0030cc4566c469993eb5bde18",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nftstorage.link"
+        ],
+        "holders": {
+            "ETH": 249
+        }
+    },
+    {
+        "contract_address": "0x0599282297a15ca86a10dabfc2bd5781f610e246",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x07c61cef2ae28cbfbccab630ce56c596d4c8435c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "befilabs.com",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "BeFiLabsAnn"
+        ],
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0xeb89212328f34081c82b185fa50daea9101cedd1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 321
+        }
+    },
+    {
+        "contract_address": "0x660a049db36ad72a7f72f3a813ff627af1561e0a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "trumpinu.site"
+        ],
+        "telegram_groups": [
+            "trumpinuportal"
+        ],
+        "holders": {
+            "ETH": 61
+        }
+    },
+    {
+        "contract_address": "0xd4ae236a5080a09c0f7bd6e6b84919523573a43b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2048
+        }
     }
 ]
