@@ -77128,7 +77128,11 @@
         ],
         "holders": {
             "ETH": 32
-        }
+        },
+        "telegram_groups": [
+            "DORA_ERC404"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6d6b11219a15aefc32a430ac7ad6429ad36748c9",
