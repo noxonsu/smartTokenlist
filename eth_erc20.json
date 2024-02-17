@@ -76817,7 +76817,11 @@
         ],
         "holders": {
             "ETH": 308
-        }
+        },
+        "emails": [
+            "admin@kermitthefrog.lol"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9a7c27f2bfd86001c0e9b5b9096564f64f37439e",
@@ -76842,7 +76846,9 @@
         ],
         "holders": {
             "ETH": 14
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4e8fb5c321abedf495d368d161d46a3401916ee7",
@@ -76863,7 +76869,11 @@
         ],
         "holders": {
             "ETH": 122
-        }
+        },
+        "emails": [
+            "info@mysite.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc840e5ed7a1b6a9c1a6bf1ecaca6ddb151b2fd6e",
