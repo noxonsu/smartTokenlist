@@ -76798,5 +76798,78 @@
         "holders": {
             "ETH": 71
         }
+    },
+    {
+        "contract_address": "0x781a26c8a92bb5843ead4228f06c7e2e9d7dcca8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0xf13ce9fc9444e46dbbaf2b32162cdc32cc1e5228",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "KermitTheFrog.lol"
+        ],
+        "telegram_groups": [
+            "KermitOnETH"
+        ],
+        "holders": {
+            "ETH": 308
+        }
+    },
+    {
+        "contract_address": "0x9a7c27f2bfd86001c0e9b5b9096564f64f37439e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0x42ed016f826165c2e5976fe5bc3df540c5ad0af7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi"
+        ],
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0x4e8fb5c321abedf495d368d161d46a3401916ee7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xa06fe81465ca125c72eb2a52e16cac1b2e9f1eca",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.trogdoroneth.com"
+        ],
+        "telegram_groups": [
+            "TROGDReth",
+            "trogdormemes"
+        ],
+        "holders": {
+            "ETH": 122
+        }
+    },
+    {
+        "contract_address": "0xc840e5ed7a1b6a9c1a6bf1ecaca6ddb151b2fd6e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
     }
 ]
