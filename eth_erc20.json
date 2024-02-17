@@ -76881,5 +76881,111 @@
         "holders": {
             "ETH": 5
         }
+    },
+    {
+        "contract_address": "0xf032ae32b86fa2af4a9bbab9d54ce3d1753b5d8f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hydronfi.com",
+            "hydron-labs.gitbook.io"
+        ],
+        "telegram_groups": [
+            "HydronPortal"
+        ],
+        "holders": {
+            "ETH": 28
+        }
+    },
+    {
+        "contract_address": "0xa103acd89f50d8d5f03bbb0a3365b33bfd8888ee",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x65260fefa456206e9daea5ac025ad82e4271f155",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 229
+        }
+    },
+    {
+        "contract_address": "0x5fede06c417943b3c58ba19593c2c2618db359c3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "modai.info"
+        ],
+        "telegram_groups": [
+            "modai_portal",
+            "modaigroup_bot"
+        ],
+        "holders": {
+            "ETH": 53
+        }
+    },
+    {
+        "contract_address": "0xbe1a4ff6ed8ae6cd6f2bee0c6a3301c870c4c155",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "stankmemes.co"
+        ],
+        "telegram_groups": [
+            "stankmemesEntry"
+        ],
+        "holders": {
+            "ETH": 82
+        }
+    },
+    {
+        "contract_address": "0xea103277c6a902345b3b8496a3fb910fb249e4c9",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@p00ls.com"
+        ],
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x470ebf5f030ed85fc1ed4c2d36b9dd02e77cf1b7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3179
+        }
+    },
+    {
+        "contract_address": "0x3e985250cb137fc1ff55922116934c5982d29f85",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 45
+        }
+    },
+    {
+        "contract_address": "0xe6ed8cd85ccd9d4b74402e373cca513a29fa10c9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "DORKERC20.lol"
+        ],
+        "telegram_groups": [
+            "DORKerc20"
+        ],
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0xbb94e0d1b051516b9b9a907ef708d20ef97d8edc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 287
+        }
+    },
+    {
+        "contract_address": "0x6111e0fd605911356f40b8a177f4cebcd6e5b365",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 16
+        }
     }
 ]
