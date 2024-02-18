@@ -78047,5 +78047,110 @@
         "holders": {
             "ETH": 781
         }
+    },
+    {
+        "contract_address": "0x2d0ce8f9606e0445f0b36a4a6dcc5fd7fa030eb6",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ChatGPTDOGPIXEL"
+        ],
+        "holders": {
+            "ETH": 83
+        }
+    },
+    {
+        "contract_address": "0xdfb03da57a3c56124c72a47729a1d0ed54d38ff5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hedexbot.com",
+            "youtube.com"
+        ],
+        "telegram_groups": [
+            "hedexbotgateway"
+        ],
+        "holders": {
+            "ETH": 224
+        }
+    },
+    {
+        "contract_address": "0x40aed45ca637e2da74f675092e531187f09e0e90",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.pixels.xyz",
+            "discord.com"
+        ],
+        "holders": {
+            "ETH": 138
+        }
+    },
+    {
+        "contract_address": "0xd665dc68550fadda275c7e327ac2c6c5136187d4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xbe9cf4f19df407b026d9b3eae2dd1fccfa1f1803",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x4fd51ff51fc16b37d85c70ac5044ec413fbedb8b",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "DGX"
+        ],
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0xfb5c46ff72f5c1aacd1ceb647f560bdcbcd53b56",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "fakedfloat"
+        ],
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xc9aacb97068cbcf831c4f8aafcb598e64a33cbe6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "lecagood.live"
+        ],
+        "telegram_groups": [
+            "LecaGood_Channel"
+        ],
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0xb6d78683a4e54b91031acb41510bd8e144fed025",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "coinforge.ai"
+        ],
+        "telegram_groups": [
+            "coinforge_portal"
+        ],
+        "holders": {
+            "ETH": 253
+        }
+    },
+    {
+        "contract_address": "0xe6c6caac7ca64de0e80c33f3ab3a705b25f010e9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.xtracker.ai"
+        ],
+        "holders": {
+            "ETH": 19
+        }
     }
 ]
