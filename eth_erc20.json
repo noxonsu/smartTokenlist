@@ -78066,11 +78066,17 @@
             "youtube.com"
         ],
         "telegram_groups": [
-            "hedexbotgateway"
+            "HedexPortalBot",
+            "hedexbotgateway",
+            "Hedex_Alpha"
         ],
         "holders": {
             "ETH": 224
-        }
+        },
+        "emails": [
+            "Info@hedexbot.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x40aed45ca637e2da74f675092e531187f09e0e90",
@@ -78081,7 +78087,12 @@
         ],
         "holders": {
             "ETH": 138
-        }
+        },
+        "telegram_groups": [],
+        "emails": [
+            "hello@pixels.online"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd665dc68550fadda275c7e327ac2c6c5136187d4",
@@ -78128,7 +78139,8 @@
         ],
         "holders": {
             "ETH": 13
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb6d78683a4e54b91031acb41510bd8e144fed025",
@@ -78141,7 +78153,8 @@
         ],
         "holders": {
             "ETH": 253
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe6c6caac7ca64de0e80c33f3ab3a705b25f010e9",
@@ -78151,6 +78164,10 @@
         ],
         "holders": {
             "ETH": 19
-        }
+        },
+        "telegram_groups": [
+            "XtrackerChat"
+        ],
+        "p6": true
     }
 ]
