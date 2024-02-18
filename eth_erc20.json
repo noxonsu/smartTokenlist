@@ -78399,5 +78399,67 @@
             "ETH": 105
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x6abb8f336de91bf603e30cf37daa3afd42beb6b4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x59f3ea047b2786f81630a1bf26f318b30fd416b2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 66
+        }
+    },
+    {
+        "contract_address": "0x00240e4cc8e07dad1ca0167f5a0ba52a8327f45e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dragonducketh.com"
+        ],
+        "telegram_groups": [
+            "dragonducketh"
+        ],
+        "holders": {
+            "ETH": 203
+        }
+    },
+    {
+        "contract_address": "0xd27b128dc6536309cdebf7f1aff0cb7717bc0268",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 42
+        }
+    },
+    {
+        "contract_address": "0xe2342f79a4e4c6ff7a16e46d2192f81c3b62067a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x3d229e1b4faab62f621ef2f6a610961f7bd7b23b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 17
+        }
+    },
+    {
+        "contract_address": "0x65ca7dc5cb661fc58de57b1e1af404649a27ad35",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x18f320b124a80ee2fa491e1438cda771c3d8c84b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
