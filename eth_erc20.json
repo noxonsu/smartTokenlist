@@ -78293,5 +78293,106 @@
         "holders": {
             "ETH": 9597
         }
+    },
+    {
+        "contract_address": "0x75d43d86cfb54b4bb2490bccb80d766d06b7273e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 187
+        }
+    },
+    {
+        "contract_address": "0x70323c9c0bf8f6c6b3d5b368339ca6abfd948b75",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 34
+        }
+    },
+    {
+        "contract_address": "0xe7c495316ebc8a4b83aeaac215a3dd44a0cc8fd9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.sollycoin.vip"
+        ],
+        "telegram_groups": [
+            "SollyCoin"
+        ],
+        "holders": {
+            "ETH": 449
+        }
+    },
+    {
+        "contract_address": "0xd4ad80656a982b01fbe15a7e8e14efdcdfd1dc22",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0x387100be5d0e44bb2e8f2830e6f63c5828120635",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x5d488c7c71aa8aa224831135bd65177d7127cc33",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "LORDcoinerc20"
+        ],
+        "holders": {
+            "ETH": 61
+        }
+    },
+    {
+        "contract_address": "0x3e329c19152b1e0f79ed504a4816fab30f8d9ce6",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "nvidiacudaxai"
+        ],
+        "holders": {
+            "ETH": 98
+        }
+    },
+    {
+        "contract_address": "0x593f5d8b02db6fec2a5ed0669f0b41489c967c79",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x4f15ccd4a877a817ffcf7bd3d6a221ec4663daba",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "OpenAIPortal"
+        ],
+        "holders": {
+            "ETH": 238
+        }
+    },
+    {
+        "contract_address": "0xb93bbb00827c627817b2192296480b0bce729f82",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "OPENAI_ERC"
+        ],
+        "holders": {
+            "ETH": 286
+        }
+    },
+    {
+        "contract_address": "0xebfda4e8d9a4a7ed845a98b52ff95bf92f5716ae",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "trumpdog.site"
+        ],
+        "telegram_groups": [
+            "trumpdog_portal"
+        ],
+        "holders": {
+            "ETH": 105
+        }
     }
 ]
