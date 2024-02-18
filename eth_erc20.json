@@ -77827,5 +77827,113 @@
         "holders": {
             "ETH": 59
         }
+    },
+    {
+        "contract_address": "0x2e9493174421f1d2673d62a36736b7f7f3920966",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "DGX1Portal"
+        ],
+        "holders": {
+            "ETH": 1147
+        }
+    },
+    {
+        "contract_address": "0x571d9b73dc04ed88b4e273e048c8d4848f83b779",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "closedaiportal"
+        ],
+        "holders": {
+            "ETH": 349
+        }
+    },
+    {
+        "contract_address": "0x66c98075c12e631d4bfd732350b5717990acb3a0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.cliffdoge.com"
+        ],
+        "holders": {
+            "ETH": 17
+        }
+    },
+    {
+        "contract_address": "0x67d77bb09c3a4fd037425c10a15b90eacc7a9edc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0x47082a75bc16313ef92cfaca1feb885659c3c9b5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 23
+        }
+    },
+    {
+        "contract_address": "0xe09fb60e8d6e7e1cebbe821bd5c3fc67a40f86bf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7615
+        }
+    },
+    {
+        "contract_address": "0x06bbb0c95a0fbee7cdffc1a255a7b8a1556edb41",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "saladcoinerc20"
+        ],
+        "holders": {
+            "ETH": 261
+        }
+    },
+    {
+        "contract_address": "0x5799ad201261ededf9ef3c47f1b3a1b145df6288",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.greenery.today"
+        ],
+        "telegram_groups": [
+            "greeneryeth"
+        ],
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x613712df32a5a639993b3e3d28c40060a1f3be8a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 382
+        }
+    },
+    {
+        "contract_address": "0x5fbef875526b5da26241ab49dde9b80a93e433e8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 56
+        }
+    },
+    {
+        "contract_address": "0xd68eb446e7dc724e1262848bce84cd18c1fb9994",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "TAIportal"
+        ],
+        "holders": {
+            "ETH": 434
+        }
+    },
+    {
+        "contract_address": "0xbcb9ba23a77d2f7c0c4d0de049164e1ef757f822",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "TESLATOKENETH"
+        ],
+        "holders": {
+            "ETH": 410
+        }
     }
 ]
