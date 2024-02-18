@@ -77691,5 +77691,102 @@
             "ETH": 200
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xe54613083f60bbabde389320074953053562c685",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 78
+        }
+    },
+    {
+        "contract_address": "0x388fc8727a8f7b7574b971fcf474c7624124e0ec",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "patex.io"
+        ],
+        "telegram_groups": [
+            "cpatexexchange"
+        ],
+        "holders": {
+            "ETH": 35
+        }
+    },
+    {
+        "contract_address": "0xdf5ecb0f5bc3c60a1f1f3cd571f7a51af00ea4d4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0xf5f83d26f31ac7cb48da4df8201a4ff9c7f8df80",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sora-origin.vip"
+        ],
+        "telegram_groups": [
+            "Sora_Origin"
+        ],
+        "holders": {
+            "ETH": 190
+        }
+    },
+    {
+        "contract_address": "0x9b92e758d357d00eb8e662e686caa9af8197ccc7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.skysora.xyz"
+        ],
+        "telegram_groups": [
+            "SKYsoraportal"
+        ],
+        "holders": {
+            "ETH": 80
+        }
+    },
+    {
+        "contract_address": "0x52871b77cd51c26e64ea3f34b9ecc05864cd2e5a",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "SamAltman_ERC20"
+        ],
+        "holders": {
+            "ETH": 375
+        }
+    },
+    {
+        "contract_address": "0x351f1ffdf5f7c027970fde683029d1e7bcddf040",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 27
+        }
+    },
+    {
+        "contract_address": "0xcf8ec261d5fa89be76403b65053c970b320ca34d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "runwayai-erc.xyz"
+        ],
+        "telegram_groups": [
+            "RunwayAI_ERC"
+        ],
+        "holders": {
+            "ETH": 366
+        }
+    },
+    {
+        "contract_address": "0x814fbebc79b30f058334d8a5d05c4561eb7724d6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xc8af46fdc7a8a286aed762a1a9f3f4c3e30af912",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 187
+        }
     }
 ]
