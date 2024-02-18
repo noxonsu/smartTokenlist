@@ -78255,5 +78255,42 @@
         "holders": {
             "ETH": 264
         }
+    },
+    {
+        "contract_address": "0xb192f5a22d01f39811c2f992d403682684130daf",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wimpykid.site"
+        ],
+        "telegram_groups": [
+            "wimpykid_erc20"
+        ],
+        "holders": {
+            "ETH": 113
+        }
+    },
+    {
+        "contract_address": "0xb33f174b80f7f79c9ed0b2e825e922b73e6dadce",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 90
+        }
+    },
+    {
+        "contract_address": "0xc37d124a616768eea4445b36701b5a6068514250",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "block404erc"
+        ],
+        "holders": {
+            "ETH": 51
+        }
+    },
+    {
+        "contract_address": "0x53bd789f2cdb846b227d8ffc7b46ed4263231fdf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9597
+        }
     }
 ]
