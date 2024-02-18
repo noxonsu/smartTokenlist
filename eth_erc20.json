@@ -75216,8 +75216,8 @@
             "discord.com"
         ],
         "telegram_groups": [
-            "cpatexeng",
-            "cpatexexchange"
+            "cpatexexchange",
+            "cpatexeng"
         ],
         "holders": {
             "ETH": 38
@@ -77706,11 +77706,16 @@
             "patex.io"
         ],
         "telegram_groups": [
-            "cpatexexchange"
+            "cpatexexchange",
+            "cpatexeng"
         ],
         "holders": {
             "ETH": 35
-        }
+        },
+        "emails": [
+            "info@patex.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdf5ecb0f5bc3c60a1f1f3cd571f7a51af00ea4d4",
@@ -77730,7 +77735,11 @@
         ],
         "holders": {
             "ETH": 190
-        }
+        },
+        "emails": [
+            "team@Sora-origin.vip"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9b92e758d357d00eb8e662e686caa9af8197ccc7",
@@ -77743,7 +77752,8 @@
         ],
         "holders": {
             "ETH": 80
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x52871b77cd51c26e64ea3f34b9ecc05864cd2e5a",
@@ -77773,7 +77783,8 @@
         ],
         "holders": {
             "ETH": 366
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x814fbebc79b30f058334d8a5d05c4561eb7724d6",
