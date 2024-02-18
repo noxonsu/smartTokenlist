@@ -78188,7 +78188,14 @@
         ],
         "holders": {
             "ETH": 193
-        }
+        },
+        "telegram_groups": [
+            "anycoinerc"
+        ],
+        "emails": [
+            "Email: hey@anycoin.wtf"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4c01dd192827b3d4040a3cff5b2e7acdc73a9b5d",
@@ -78201,7 +78208,8 @@
         ],
         "holders": {
             "ETH": 159
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb1e9157c2fdcc5a856c8da8b2d89b6c32b3c1229",
@@ -78235,7 +78243,11 @@
         ],
         "holders": {
             "ETH": 121
-        }
+        },
+        "emails": [
+            "team@teslaaierc20.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5947c488b9d4e084a39d87c7c08bba373465c957",
