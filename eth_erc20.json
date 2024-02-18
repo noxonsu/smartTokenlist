@@ -77596,5 +77596,91 @@
         "holders": {
             "ETH": 1290
         }
+    },
+    {
+        "contract_address": "0xf36a4ba50c603204c3fc6d2da8b78a7b69cbc67d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x59c1427c658e97a7d568541dac780b2e5c8affb4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "developer.offchainlabs.com"
+        ],
+        "holders": {
+            "ETH": 210
+        }
+    },
+    {
+        "contract_address": "0xfd03d92154e9176c65940955c652977bb1cad5c0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0xd12571c0fb8b9a2d6c373f02fa50522d7df4af7f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ghosties.finance",
+            "app.ghosties.finance",
+            "ghosties.gitbook.io",
+            "graphics.stanford.edu",
+            "token-cdn-domain",
+            "token-cdn-domain",
+            "token-cdn-domain"
+        ],
+        "telegram_groups": [
+            "GhostiesETH"
+        ],
+        "holders": {
+            "ETH": 104
+        }
+    },
+    {
+        "contract_address": "0xabc6fe7e446ee3f5863250506caaf1991d8591ef",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 35
+        }
+    },
+    {
+        "contract_address": "0x3b3cb8c1184e5aa2bb7a4cbf63f5cec8c30c1c8b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "BiboCoinerc20.club"
+        ],
+        "telegram_groups": [
+            "BiboCoinMoon"
+        ],
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0x4d4f3715050571a447fffa2cd4cf091c7014ca5c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 845
+        }
+    },
+    {
+        "contract_address": "0xb49cc981ae870b0b92cd25b21f0a198ae086d401",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.publish0x.com",
+            "www.blockchain.com",
+            "www.coindesk.com",
+            "halfin.tech"
+        ],
+        "telegram_groups": [
+            "halfin_erc"
+        ],
+        "holders": {
+            "ETH": 200
+        }
     }
 ]
