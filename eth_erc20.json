@@ -78169,5 +78169,79 @@
             "XtrackerChat"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x77fe53233f5fc6fab7576e1e9ed61296ed829e96",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "VJEPA_ERC"
+        ],
+        "holders": {
+            "ETH": 504
+        }
+    },
+    {
+        "contract_address": "0xc08e31eb3ab0c460e43bf746be25f78088d749d8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "anycoin.wtf"
+        ],
+        "holders": {
+            "ETH": 193
+        }
+    },
+    {
+        "contract_address": "0x4c01dd192827b3d4040a3cff5b2e7acdc73a9b5d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "chatgpt-5.website"
+        ],
+        "telegram_groups": [
+            "GPT5_ETH"
+        ],
+        "holders": {
+            "ETH": 159
+        }
+    },
+    {
+        "contract_address": "0xb1e9157c2fdcc5a856c8da8b2d89b6c32b3c1229",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2773
+        }
+    },
+    {
+        "contract_address": "0xb60acd2057067dc9ed8c083f5aa227a244044fd6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 190
+        }
+    },
+    {
+        "contract_address": "0x3d000462fb9826804a45c0ea869b83b69587f2db",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 121
+        }
+    },
+    {
+        "contract_address": "0x5cb13e28c5b587d04ec8f72b6f51fecbb1b9f242",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "teslaaierc20.com"
+        ],
+        "telegram_groups": [
+            "Teslaai_Portal"
+        ],
+        "holders": {
+            "ETH": 121
+        }
+    },
+    {
+        "contract_address": "0x5947c488b9d4e084a39d87c7c08bba373465c957",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 264
+        }
     }
 ]
