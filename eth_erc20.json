@@ -78319,7 +78319,11 @@
         ],
         "holders": {
             "ETH": 449
-        }
+        },
+        "emails": [
+            "\n                sollycoinerc@gmail.com\n                "
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd4ad80656a982b01fbe15a7e8e14efdcdfd1dc22",
@@ -78393,6 +78397,7 @@
         ],
         "holders": {
             "ETH": 105
-        }
+        },
+        "p6": true
     }
 ]
