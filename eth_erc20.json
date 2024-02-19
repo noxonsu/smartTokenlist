@@ -78675,7 +78675,11 @@
         ],
         "holders": {
             "ETH": 12
-        }
+        },
+        "telegram_groups": [
+            "PeapodsFinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x00762a249925967a4a238586b14675c3625c8e44",
