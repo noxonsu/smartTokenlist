@@ -77426,8 +77426,8 @@
             "discord.com"
         ],
         "telegram_groups": [
-            "BeFi_Labs",
-            "BeFiLabsAnn"
+            "BeFiLabsAnn",
+            "BeFi_Labs"
         ],
         "holders": {
             "ETH": 26
@@ -78746,7 +78746,8 @@
         ],
         "holders": {
             "ETH": 25
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9dc7b4538c7eb1dc97c100b604273b54ef99dbc8",
@@ -78766,7 +78767,9 @@
         ],
         "holders": {
             "ETH": 492
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3d36635f1eaef3bc2c91adbad04ad49b008b0228",
@@ -78779,7 +78782,11 @@
         ],
         "holders": {
             "ETH": 123
-        }
+        },
+        "emails": [
+            "team@sora20erc.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x84543e28c58ac7866ec26fb55dd3a5d7e37bf459",
@@ -78799,11 +78806,13 @@
             "discord.com"
         ],
         "telegram_groups": [
+            "BeFiLabsAnn",
             "BeFi_Labs"
         ],
         "holders": {
             "ETH": 141
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc80d49e04b31b31e6bb346157bcdcad55d50d7f5",
@@ -78830,7 +78839,8 @@
         ],
         "holders": {
             "ETH": 156
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc5e516adc497690980823397a63846cc77b7f6ce",
