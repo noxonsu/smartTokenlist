@@ -79456,7 +79456,9 @@
         ],
         "holders": {
             "ETH": 82
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x42069d11a2cc72388a2e06210921e839cfbd3280",
@@ -79469,7 +79471,9 @@
         ],
         "holders": {
             "ETH": 283
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x992d339532a9c42f1b0e59a57e95f38da38c66f6",
@@ -79496,7 +79500,11 @@
         ],
         "holders": {
             "ETH": 478
-        }
+        },
+        "emails": [
+            "info@smartauditai.org"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf4c3b959155357a4cfe3fdbf24e092d3c3561286",
