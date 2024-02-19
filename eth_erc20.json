@@ -78876,5 +78876,46 @@
         "holders": {
             "ETH": 131
         }
+    },
+    {
+        "contract_address": "0x13339fd07934cd674269726edf3b5ccee9dd93de",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1147
+        }
+    },
+    {
+        "contract_address": "0xc4144ccd73dc8906c7f5f7068708add5dc23e466",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0x8b8aa7777e18408c07b0ed52ca3dd5bdab34eb7e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 325
+        }
+    },
+    {
+        "contract_address": "0x5b8a50d68acdc10d85b7b486dcd266c3afad2912",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "warpcast.com"
+        ],
+        "telegram_groups": [
+            "aicoinerc20"
+        ],
+        "holders": {
+            "ETH": 250
+        }
+    },
+    {
+        "contract_address": "0xed354cae598148846aa9694254c854fc7051163c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2279
+        }
     }
 ]
