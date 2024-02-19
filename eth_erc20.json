@@ -79512,5 +79512,96 @@
         "holders": {
             "ETH": 22
         }
+    },
+    {
+        "contract_address": "0xef32a227c3a8ce7371c656f0afef5aec6abeb76f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cryptai.bot"
+        ],
+        "telegram_groups": [
+            "CRYPTAIerc"
+        ],
+        "holders": {
+            "ETH": 289
+        }
+    },
+    {
+        "contract_address": "0x8bc31478f95fc8e4c7fe578fb86bad1fe851e41a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 78
+        }
+    },
+    {
+        "contract_address": "0xb3b3f6683dfcb5b3fe1756dc10b713fe794fed34",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "openaierc.org"
+        ],
+        "telegram_groups": [
+            "openaimascot"
+        ],
+        "holders": {
+            "ETH": 160
+        }
+    },
+    {
+        "contract_address": "0x4fdf9408b32c706026bfb954d6d33d69f1f4e13b",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "OterBySora"
+        ],
+        "holders": {
+            "ETH": 59
+        }
+    },
+    {
+        "contract_address": "0x4131fb03ad39f4dea72f36956af40738a1cbb425",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x4c7cc9061d6b6d00dc6069b340c2ecc93cdd546f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x8f4cbf31b4129e8c25ffdba93ca3a1625c6b1f25",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x1bbee1d513a83e46fe95104b40a1aa4bab189d43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 339
+        }
+    },
+    {
+        "contract_address": "0xb30386d53300f311e4f4025fb38bf84833cb8d22",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 39
+        }
+    },
+    {
+        "contract_address": "0x2c07a172eac7b5f2861edd11880d35b040e1ae70",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "amazonq.lol"
+        ],
+        "telegram_groups": [
+            "amazonQeth"
+        ],
+        "holders": {
+            "ETH": 49
+        }
     }
 ]
