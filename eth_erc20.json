@@ -75931,9 +75931,9 @@
             "warpcast.com"
         ],
         "telegram_groups": [
+            "Hullo_Erc",
             "Farcastereth",
-            "LFGcoinerc20",
-            "Hullo_Erc"
+            "LFGcoinerc20"
         ],
         "holders": {
             "ETH": 195
@@ -78905,11 +78905,15 @@
             "warpcast.com"
         ],
         "telegram_groups": [
-            "aicoinerc20"
+            "aicoinerc20",
+            "Hullo_Erc",
+            "Farcastereth",
+            "LFGcoinerc20"
         ],
         "holders": {
             "ETH": 250
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xed354cae598148846aa9694254c854fc7051163c",
