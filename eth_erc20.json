@@ -78587,5 +78587,77 @@
         "holders": {
             "ETH": 615
         }
+    },
+    {
+        "contract_address": "0xd21b139fdb5c159d0133ae81d0760715853b40d6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 66
+        }
+    },
+    {
+        "contract_address": "0x3805c8d32ad5b6ebd221991eab804a68bc4b2654",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 163
+        }
+    },
+    {
+        "contract_address": "0x1fcdba6db331ca3e2f8fb77326ba92a3872b87f3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 22
+        }
+    },
+    {
+        "contract_address": "0x3b728c6b16bbb68ace92142743ea52820be327f4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8
+        }
+    },
+    {
+        "contract_address": "0x23cbb9f0de3258de03baad2bcea4fccc55233af0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "token-cdn-domain",
+            "token-cdn-domain",
+            "token-cdn-domain",
+            "i.ibb.co",
+            "miner.build",
+            "graphics.stanford.edu",
+            "graphics.stanford.edu"
+        ],
+        "holders": {
+            "ETH": 2219
+        }
+    },
+    {
+        "contract_address": "0x018dd3a0dd7f213cc822076b3800816d3ce1ed86",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 140
+        }
+    },
+    {
+        "contract_address": "0xdadc82e26b3739750e036dfd9defd3ed459b877a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 49
+        }
+    },
+    {
+        "contract_address": "0x54fa79be66c2c76f2f4942e1f387d6512040e1e0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xa56482985cad84a9cabb10ad4e3dfe628d5fbd12",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 184
+        }
     }
 ]
