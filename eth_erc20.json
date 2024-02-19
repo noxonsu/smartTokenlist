@@ -79524,7 +79524,8 @@
         ],
         "holders": {
             "ETH": 289
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8bc31478f95fc8e4c7fe578fb86bad1fe851e41a",
@@ -79544,7 +79545,11 @@
         ],
         "holders": {
             "ETH": 160
-        }
+        },
+        "emails": [
+            "demo@email.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4fdf9408b32c706026bfb954d6d33d69f1f4e13b",
@@ -79602,6 +79607,7 @@
         ],
         "holders": {
             "ETH": 49
-        }
+        },
+        "p6": true
     }
 ]
