@@ -79367,5 +79367,68 @@
             "ETH": 81
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xb6c2fcd7c1a55fe7957285f44343a5aa6bbab588",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.smiley404.com"
+        ],
+        "telegram_groups": [
+            "smileydn404Portal"
+        ],
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x31e6506751437428ae8f2e15ec4a3d2e33d4f8a4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "aepos.network"
+        ],
+        "telegram_groups": [
+            "AeposNetwork"
+        ],
+        "holders": {
+            "ETH": 256
+        }
+    },
+    {
+        "contract_address": "0x1de3281692feeaa81baf571e3f74dc411ad78fe4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "peapods.finance"
+        ],
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0x59d1e836f7b7210a978b25a855085cc46fd090b5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5821
+        }
+    },
+    {
+        "contract_address": "0xf49392fba17c123253fb66f1ca60c545a9819c5d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "alonrtx.world"
+        ],
+        "telegram_groups": [
+            "AlonRTXToken"
+        ],
+        "holders": {
+            "ETH": 29
+        }
+    },
+    {
+        "contract_address": "0xcd6926193308d3b371fdd6a6219067e550000000",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 177
+        }
     }
 ]
