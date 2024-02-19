@@ -78921,5 +78921,78 @@
         "holders": {
             "ETH": 2279
         }
+    },
+    {
+        "contract_address": "0x3429d03c6f7521aec737a0bbf2e5ddcef2c3ae31",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 165
+        }
+    },
+    {
+        "contract_address": "0x0dd3450b9029a235473d756a65771a2ed4eb7c03",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "groqerc20.com"
+        ],
+        "telegram_groups": [
+            "groqcoinerc20"
+        ],
+        "holders": {
+            "ETH": 120
+        }
+    },
+    {
+        "contract_address": "0x8a7930cd83a0c8c74f6dd003a7513c6f23346b15",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.metabtc.org",
+            "app.metabtc.org",
+            "docs.metabtc.org"
+        ],
+        "telegram_groups": [
+            "metabtc_fi"
+        ],
+        "holders": {
+            "ETH": 31
+        }
+    },
+    {
+        "contract_address": "0x721f95242e8972ab08d9696d26ec81a14d341bb2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 80
+        }
+    },
+    {
+        "contract_address": "0xe4bfeba69287c0d6387778fdf3a9ea7e661c4dec",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4376
+        }
+    },
+    {
+        "contract_address": "0x69c8b20238a601bfee6380eb3297a410199710c8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 49
+        }
+    },
+    {
+        "contract_address": "0xc1f0d29f2fb038edc7e1aa55a3c1dbfac2ed177e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.createmytoken.com"
+        ],
+        "holders": {
+            "ETH": 121
+        }
+    },
+    {
+        "contract_address": "0x4092678e4e78230f46a1534c0fbc8fa39780892b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 235969
+        }
     }
 ]
