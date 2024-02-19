@@ -79628,7 +79628,8 @@
         ],
         "holders": {
             "ETH": 59
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xfceeadc436b28b686fa376671a7739e509fae4ab",
@@ -79655,7 +79656,8 @@
         ],
         "holders": {
             "ETH": 345
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xcb4615c34ea0fea363f7cb8ea6cfef1f2fc7e330",
@@ -79678,11 +79680,13 @@
             "fetchinu.com"
         ],
         "telegram_groups": [
+            "fetinueth",
             "fetchinuerc"
         ],
         "holders": {
             "ETH": 84
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf3617e8a04265160b9ee10253a2c78565571cb76",
@@ -79695,6 +79699,10 @@
         ],
         "holders": {
             "ETH": 151
-        }
+        },
+        "emails": [
+            "blepetheblue@gmail.com"
+        ],
+        "p6": true
     }
 ]
