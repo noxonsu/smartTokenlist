@@ -79379,7 +79379,8 @@
         ],
         "holders": {
             "ETH": 19
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x31e6506751437428ae8f2e15ec4a3d2e33d4f8a4",
@@ -79392,7 +79393,11 @@
         ],
         "holders": {
             "ETH": 256
-        }
+        },
+        "emails": [
+            " contactus@aepos.network"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1de3281692feeaa81baf571e3f74dc411ad78fe4",
@@ -79402,7 +79407,11 @@
         ],
         "holders": {
             "ETH": 15
-        }
+        },
+        "telegram_groups": [
+            "PeapodsFinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x59d1e836f7b7210a978b25a855085cc46fd090b5",
@@ -79422,7 +79431,8 @@
         ],
         "holders": {
             "ETH": 29
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xcd6926193308d3b371fdd6a6219067e550000000",
