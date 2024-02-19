@@ -79017,7 +79017,8 @@
         ],
         "holders": {
             "ETH": 131
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7434030a95fc907afe4c5b5b55aef340162b27b3",
@@ -79033,6 +79034,7 @@
             "docs.earnmates.io"
         ],
         "telegram_groups": [
+            "earnmates_news",
             "earnmates"
         ],
         "emails": [
@@ -79040,7 +79042,8 @@
         ],
         "holders": {
             "ETH": 163
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7e6f60e237c34307d516ef80218c2b04bccbca40",
@@ -79049,11 +79052,16 @@
             "trackr.bot"
         ],
         "telegram_groups": [
-            "TrackrCommunity"
+            "trackrtrending",
+            "shillbots",
+            "TrackrCommunity",
+            "TrackrBuyBotTrending_bot",
+            "TrackrBuyBot_Bot"
         ],
         "holders": {
             "ETH": 218
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8d9bde8c9fd75fda882784b4ccfdbe941634fa6e",
@@ -79309,7 +79317,9 @@
         ],
         "holders": {
             "ETH": 114
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2193f599eb1440fb5a413d591fd3c8b1c32c74e7",
@@ -79322,7 +79332,8 @@
         ],
         "holders": {
             "ETH": 39
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe0e90fcea996b1ae97929beb2fdb7237156b42c8",
@@ -79332,7 +79343,9 @@
         ],
         "holders": {
             "ETH": 91
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd718ad25285d65ef4d79262a6cd3aea6a8e01023",
