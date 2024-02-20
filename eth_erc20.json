@@ -72823,7 +72823,9 @@
         },
         "web_domains": [
             "xpepecopy.art"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6e8908cfa881c9f6f2c64d3436e7b80b1bf0093f",
@@ -72864,7 +72866,9 @@
         },
         "web_domains": [
             "medusa-adsume.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3b54ccb1d5bb0edbabb3872afdff133ae9defd29",
@@ -72874,7 +72878,9 @@
         },
         "web_domains": [
             "coingecko.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6d7497751656618fc38cfb5478994a20f7e235df",
@@ -72891,7 +72897,9 @@
         },
         "web_domains": [
             "pangeajeans.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xde5756b3c4e403351e54e0914ceda39b0753377a",
@@ -72950,7 +72958,9 @@
         },
         "web_domains": [
             "pandorax.co"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4d06eb689d33a5a044d3db9f9cf7c280b66dcdb6",
@@ -72987,7 +72997,36 @@
         },
         "web_domains": [
             "top100token.com"
-        ]
+        ],
+        "telegram_groups": [
+            "WorldofRewards",
+            "GigaChadGPTOfficial",
+            "PUPPYINU_Bsc",
+            "buyholdearn",
+            "cloudinaryio",
+            "baofu2024cn",
+            "QlasifyPortal",
+            "TamadogeOfficial",
+            "pepecoin_solana",
+            "anontokenchat",
+            "SuperFarmDAO",
+            "CecilOnSol",
+            "S0lStory",
+            "block_website",
+            "burnny3",
+            "moai_ai",
+            "solana_forge",
+            "JARYTOKEN",
+            "InverseFinance",
+            "top100tokenChat",
+            "pepecoins",
+            "XPAY_SOL",
+            "sbwmickeycoin",
+            "HBSC_IO",
+            "elonpepeofficial",
+            "cryptoai_erc"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0c0eea10fa1ce165d0cbe7eb86181bd6eea6f250",
