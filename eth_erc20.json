@@ -72230,14 +72230,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 37
-        }
+        },
+        "web_domains": [
+            "cardsahoy.metalist.io"
+        ]
     },
     {
         "contract_address": "0xb58e61c3098d85632df34eecfb899a1ed80921cb",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 19
-        }
+        },
+        "web_domains": [
+            "frankencoin.com"
+        ]
     },
     {
         "contract_address": "0xf63d582f2e7cd98232b75e24ef7cfebdbbf19c77",
@@ -72304,21 +72310,30 @@
         ],
         "holders": {
             "ETH": 32
-        }
+        },
+        "web_domains": [
+            "moralismoney.com"
+        ]
     },
     {
         "contract_address": "0xe3a5576505c14fc4ce383d8cf45e35beb3cd3582",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "defimarketcap.io"
+        ]
     },
     {
         "contract_address": "0x08599af739becb36ba034d7d68e8978b47d722fd",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 0
-        }
+        },
+        "web_domains": [
+            "sourcify.dev"
+        ]
     },
     {
         "contract_address": "0x2b99bf9d214aec6a8fb799f0e47d3f02a7ab2a6a",
@@ -72410,14 +72425,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 28
-        }
+        },
+        "web_domains": [
+            "mizar.com"
+        ]
     },
     {
         "contract_address": "0x5f0a5c75b7d0e88251fc08096570d4c06b48d89b",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 68
-        }
+        },
+        "web_domains": [
+            "hospitable.com"
+        ]
     },
     {
         "contract_address": "0x4fb9564308a9de8005dd9f90fe4aa79ee7367d04",
@@ -72429,7 +72450,10 @@
         ],
         "holders": {
             "ETH": 21
-        }
+        },
+        "web_domains": [
+            "getcogni.com"
+        ]
     },
     {
         "contract_address": "0x4de118e618f38bc83591b8fcbd16b8a8a70d19b0",
@@ -72464,7 +72488,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 18
-        }
+        },
+        "web_domains": [
+            "coinscan.com"
+        ]
     },
     {
         "contract_address": "0x75b5a70cdcef22b4ae82ed7df81e9cc61438883a",
@@ -72481,7 +72508,10 @@
         ],
         "holders": {
             "ETH": 131
-        }
+        },
+        "web_domains": [
+            "newtype.us"
+        ]
     },
     {
         "contract_address": "0xd2c418ba8c9cc429827f79dc7470263a387aae31",
@@ -72505,14 +72535,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 113
-        }
+        },
+        "web_domains": [
+            "senecaprotocol.com"
+        ]
     },
     {
         "contract_address": "0xbb62da70e88e4e1214796c515d0d0468b2a74694",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 23
-        }
+        },
+        "web_domains": [
+            "wildwildwet.com"
+        ]
     },
     {
         "contract_address": "0xcfd61204926e9f841c63bc1173ca790e6cd0b69c",
@@ -72550,14 +72586,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 0
-        }
+        },
+        "web_domains": [
+            "immunebytes.com"
+        ]
     },
     {
         "contract_address": "0x17b06e961bb8d2f9c211388c094dd2280b03d912",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 85
-        }
+        },
+        "web_domains": [
+            "monkees.com"
+        ]
     },
     {
         "contract_address": "0x895760786fad380835c1365e72289bd44665de70",
@@ -72574,7 +72616,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 7
-        }
+        },
+        "web_domains": [
+            "geckoterminal.com"
+        ]
     },
     {
         "contract_address": "0x898ad60d7ff0f8b5fc0078cb8efc39cf5794b1a5",
@@ -72584,7 +72629,10 @@
         ],
         "holders": {
             "ETH": 74
-        }
+        },
+        "web_domains": [
+            "deezcookies.com"
+        ]
     },
     {
         "contract_address": "0x33f430a3fc1ee5d6309b9986581b6a54ee93c660",
