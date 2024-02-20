@@ -81047,5 +81047,52 @@
         "holders": {
             "ETH": 281
         }
+    },
+    {
+        "contract_address": "0x8edc6f7d2f23c10653972e611f707ce0562d61b1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "multidexai.com"
+        ],
+        "telegram_groups": [
+            "MultiDexAIETH"
+        ],
+        "holders": {
+            "ETH": 216
+        }
+    },
+    {
+        "contract_address": "0x85649c0bc71825339e5c265c76569f022b119028",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xcf4885feada6f45a2194a73e6bfadbe6f0e7bd98",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x148af0cada405380e8e3b2f694a6a7de848759b0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 535
+        }
+    },
+    {
+        "contract_address": "0x9ab033177bf71b8836144556ebf01732b3c850bd",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "soraai-2.vip"
+        ],
+        "telegram_groups": [
+            "SoraTwoEth"
+        ],
+        "holders": {
+            "ETH": 122
+        }
     }
 ]
