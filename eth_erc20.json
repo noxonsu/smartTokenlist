@@ -79861,5 +79861,71 @@
         "holders": {
             "ETH": 72
         }
+    },
+    {
+        "contract_address": "0x87796c75bd03bb1dd9822d9181cb1ad564cd9238",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.starknet.io",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "StarkWareLtd"
+        ],
+        "holders": {
+            "ETH": 29
+        }
+    },
+    {
+        "contract_address": "0xe03296991542a545edadd9855dca9dc326dc6159",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x84c18ee47df9c2add02ae655e4508ed6e0b8c2b2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x2c974b2d0ba1716e644c1fc59982a89ddd2ff724",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10827
+        }
+    },
+    {
+        "contract_address": "0x6732efaf6f39926346bef8b821a04b6361c4f3e5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 102
+        }
+    },
+    {
+        "contract_address": "0xc559f6716d8b1471fc2dc10aafeb0faa219fe9df",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 39
+        }
+    },
+    {
+        "contract_address": "0x66c77fa059855dd97401ee3cfed095fb25185334",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Grokv15"
+        ],
+        "holders": {
+            "ETH": 45
+        }
+    },
+    {
+        "contract_address": "0x5646c411762e834211eb0d1bef70a8903f608538",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 36
+        }
     }
 ]
