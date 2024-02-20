@@ -72233,7 +72233,9 @@
         },
         "web_domains": [
             "cardsahoy.metalist.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb58e61c3098d85632df34eecfb899a1ed80921cb",
@@ -72243,7 +72245,11 @@
         },
         "web_domains": [
             "frankencoin.com"
-        ]
+        ],
+        "telegram_groups": [
+            "frankencoinzchf"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf63d582f2e7cd98232b75e24ef7cfebdbbf19c77",
@@ -72313,7 +72319,8 @@
         },
         "web_domains": [
             "moralismoney.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe3a5576505c14fc4ce383d8cf45e35beb3cd3582",
@@ -72323,7 +72330,9 @@
         },
         "web_domains": [
             "defimarketcap.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x08599af739becb36ba034d7d68e8978b47d722fd",
@@ -72333,7 +72342,12 @@
         },
         "web_domains": [
             "sourcify.dev"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "hello@sourcify.dev"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2b99bf9d214aec6a8fb799f0e47d3f02a7ab2a6a",
@@ -72428,7 +72442,12 @@
         },
         "web_domains": [
             "mizar.com"
-        ]
+        ],
+        "telegram_groups": [
+            "MizarTradingBot",
+            "mizar_com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5f0a5c75b7d0e88251fc08096570d4c06b48d89b",
