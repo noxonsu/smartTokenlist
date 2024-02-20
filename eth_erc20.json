@@ -77112,7 +77112,12 @@
         },
         "web_domains": [
             "initse.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "webmaster@initse.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb55006133ce89295cab0c75ab8066613718882a9",
@@ -77290,7 +77295,9 @@
         },
         "web_domains": [
             "ch4n63.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x990046c834ea56a45de61f5d3aeb309a8e036a9f",
@@ -77369,7 +77376,11 @@
         },
         "web_domains": [
             "shibatoken.com"
-        ]
+        ],
+        "telegram_groups": [
+            "ShibaInu_Dogecoinkiller"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0316eb71485b0ab14103307bf65a021042c6d380",
@@ -77495,7 +77506,9 @@
         },
         "web_domains": [
             "btcfork.consider.it"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf13ce9fc9444e46dbbaf2b32162cdc32cc1e5228",
@@ -77522,7 +77535,9 @@
         },
         "web_domains": [
             "capitaldex.exchange"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x42ed016f826165c2e5976fe5bc3df540c5ad0af7",
@@ -77606,7 +77621,9 @@
         },
         "web_domains": [
             "birdcoin.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x5fede06c417943b3c58ba19593c2c2618db359c3",
