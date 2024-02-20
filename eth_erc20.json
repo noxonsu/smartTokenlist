@@ -79870,8 +79870,8 @@
             "discord.com"
         ],
         "telegram_groups": [
-            "StarkWareLtd",
-            "nibirufi"
+            "nibirufi",
+            "StarkWareLtd"
         ],
         "holders": {
             "ETH": 29
@@ -80217,7 +80217,9 @@
         ],
         "holders": {
             "ETH": 2
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x46a55bdb2aa3d81d8f6432972dda103d11555cc3",
@@ -80227,7 +80229,9 @@
         ],
         "holders": {
             "ETH": 14
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xaad1b9a53ee43cce381298c51a1c47a2aa1fc03b",
@@ -80255,7 +80259,8 @@
         ],
         "holders": {
             "ETH": 32
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x258b5584c3e8cdc8e3f5aeb86b4862bd246a31f1",
@@ -80279,11 +80284,13 @@
             "discord.com"
         ],
         "telegram_groups": [
+            "nibirufi",
             "StarkWareLtd"
         ],
         "holders": {
             "ETH": 33
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa242adbfa4a2e7cd6730f8dbf58f8aa0a9f99261",
@@ -80303,7 +80310,11 @@
         ],
         "holders": {
             "ETH": 7
-        }
+        },
+        "emails": [
+            "mail@anua.ai"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1b5e16c5b20fb5ee87c61fe9afe735cca3b21a65",
@@ -80319,7 +80330,9 @@
         ],
         "holders": {
             "ETH": 45
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x1c97c7a7b9d987768c0252046e008ceb68532748",
