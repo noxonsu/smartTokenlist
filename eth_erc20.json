@@ -81314,5 +81314,89 @@
         "holders": {
             "ETH": 122
         }
+    },
+    {
+        "contract_address": "0x0b498ff89709d3838a063f1dfa463091f9801c2b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org"
+        ],
+        "holders": {
+            "ETH": 796
+        }
+    },
+    {
+        "contract_address": "0x63f81d330a8f44f882839cfa322cb9150e66087a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cloudmine404.com"
+        ],
+        "telegram_groups": [
+            "cloudmine404",
+            "cloudmine404"
+        ],
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xaeb3607ec434454ceb308f5cd540875efb54309a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1062
+        }
+    },
+    {
+        "contract_address": "0x111593e459c9a5be2c2496c35e1e415f10a1c283",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "microresearch.vip"
+        ],
+        "telegram_groups": [
+            "microresearchportal"
+        ],
+        "holders": {
+            "ETH": 108
+        }
+    },
+    {
+        "contract_address": "0xe08cd119df4c2f147f623559d6985b8afe315873",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "burningpork.com"
+        ],
+        "telegram_groups": [
+            "BurningPork"
+        ],
+        "holders": {
+            "ETH": 103
+        }
+    },
+    {
+        "contract_address": "0xb5af758a26cbbdec29e6e53c5dcd9d85369f49d2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0x7dbd7a3935c6f8024127ddf462cba9f849edc660",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "arsenic.network",
+            "arsenic-whitepaper.gitbook.io"
+        ],
+        "telegram_groups": [
+            "arsenicofficial"
+        ],
+        "holders": {
+            "ETH": 140
+        }
     }
 ]
