@@ -75925,7 +75925,9 @@
         },
         "web_domains": [
             "morselspork.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x04b9788559db3869eb48c76acac7af17c0165b00",
@@ -75942,7 +75944,15 @@
         },
         "web_domains": [
             "bank11.io"
-        ]
+        ],
+        "telegram_groups": [
+            "bank11x",
+            "x11fund"
+        ],
+        "emails": [
+            "x@bank11.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc51d1eb52fba6a36d3c856168a77c3b935fc3b8f",
@@ -76008,7 +76018,9 @@
         },
         "web_domains": [
             "erald.gumroad.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb416a8709767a2fb7fbf0b3f12b3aaf851f5f164",
@@ -76018,7 +76030,9 @@
         },
         "web_domains": [
             "nftgo.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb8e08dda1a886013f8526f0b76584d27e6527bf7",
@@ -76028,7 +76042,14 @@
         },
         "web_domains": [
             "clima-coins.com"
-        ]
+        ],
+        "telegram_groups": [
+            "Co2Coin_CCC"
+        ],
+        "emails": [
+            "info@clima-coins.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe11b023b790147624542f595fa0768881c576c89",
@@ -76048,7 +76069,8 @@
         },
         "web_domains": [
             "valhalladsp.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xafd9268fdfebee905f7439b12c943bc18ad293c2",
