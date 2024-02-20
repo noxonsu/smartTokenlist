@@ -72457,22 +72457,28 @@
         },
         "web_domains": [
             "hospitable.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4fb9564308a9de8005dd9f90fe4aa79ee7367d04",
         "sourceScanned": "processed",
         "telegram_groups": [
+            "Cognibot_bot",
             "cognitokenerc",
-            "cognitoken",
-            "Cognibot_bot"
+            "cognitoken"
         ],
         "holders": {
             "ETH": 21
         },
         "web_domains": [
             "getcogni.com"
-        ]
+        ],
+        "emails": [
+            "member-services@getcogni.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4de118e618f38bc83591b8fcbd16b8a8a70d19b0",
@@ -72510,7 +72516,11 @@
         },
         "web_domains": [
             "coinscan.com"
-        ]
+        ],
+        "telegram_groups": [
+            "officialcoinscan"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x75b5a70cdcef22b4ae82ed7df81e9cc61438883a",
@@ -72530,7 +72540,8 @@
         },
         "web_domains": [
             "newtype.us"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd2c418ba8c9cc429827f79dc7470263a387aae31",
@@ -72557,7 +72568,11 @@
         },
         "web_domains": [
             "senecaprotocol.com"
-        ]
+        ],
+        "telegram_groups": [
+            "seneca_protocol"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbb62da70e88e4e1214796c515d0d0468b2a74694",
@@ -72567,7 +72582,9 @@
         },
         "web_domains": [
             "wildwildwet.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xcfd61204926e9f841c63bc1173ca790e6cd0b69c",
