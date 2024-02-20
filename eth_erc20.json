@@ -81159,7 +81159,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 72
-        }
+        },
+        "web_domains": [
+            "bitscrunch.network"
+        ]
     },
     {
         "contract_address": "0xddf03cc8868b899dcebe20a39c58253a1aae7128",
@@ -81212,7 +81215,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 98
-        }
+        },
+        "web_domains": [
+            "hkt.co.jp"
+        ]
     },
     {
         "contract_address": "0xd9471f5029bcc420d4c04af88a94f1163b1c7b36",
@@ -81240,7 +81246,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 79
-        }
+        },
+        "web_domains": [
+            "8bitchain.io"
+        ]
     },
     {
         "contract_address": "0x5cac718a3ae330d361e39244bf9e67ab17514ce8",
@@ -81267,7 +81276,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 26
-        }
+        },
+        "web_domains": [
+            "0x.org"
+        ]
     },
     {
         "contract_address": "0xc3fa123e4460bbf9c17012bccb65ecd10c95cd08",
@@ -81413,7 +81425,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 30
-        }
+        },
+        "web_domains": [
+            "promoplace.com"
+        ]
     },
     {
         "contract_address": "0x7dbd7a3935c6f8024127ddf462cba9f849edc660",
