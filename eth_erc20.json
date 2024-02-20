@@ -76222,7 +76222,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 234
-        }
+        },
+        "web_domains": [
+            "aladdin.club"
+        ]
     },
     {
         "contract_address": "0x653f375511e1518a12b935cfd2d4574cfcb1bb08",
@@ -76427,7 +76430,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 41
-        }
+        },
+        "web_domains": [
+            "snowtrace.io"
+        ]
     },
     {
         "contract_address": "0xcb166f0148ae815313039d735e28fcec617b21fe",
@@ -76448,7 +76454,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 2
-        }
+        },
+        "web_domains": [
+            "rendernetwork.com"
+        ]
     },
     {
         "contract_address": "0xbc695ff4eecbea83e577245d762890c85f4c5fb4",
@@ -76484,7 +76493,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 2
-        }
+        },
+        "web_domains": [
+            "milkroad.com"
+        ]
     },
     {
         "contract_address": "0xa82871b8cd31b4b70db956afc22dc2acbcbb9540",
@@ -76536,7 +76548,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 36
-        }
+        },
+        "web_domains": [
+            "vitekcctv.com"
+        ]
     },
     {
         "contract_address": "0x8a3b201e88059bec5c1f4e324942c3342012363b",
@@ -76588,7 +76603,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 60
-        }
+        },
+        "web_domains": [
+            "minerwines.com"
+        ]
     },
     {
         "contract_address": "0x7743fbf9b8b9977d9677336e036ff5d6d7b5eb9a",
@@ -76635,7 +76653,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 9
-        }
+        },
+        "web_domains": [
+            "dora.chat"
+        ]
     },
     {
         "contract_address": "0x1596f7f7a0c495daf141376321d3ecac66a10a42",
@@ -76663,28 +76684,40 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "bitget.com"
+        ]
     },
     {
         "contract_address": "0x52602b5eee7f0c4709e99ae7677ae8d8920177a0",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 15
-        }
+        },
+        "web_domains": [
+            "pcrm.org"
+        ]
     },
     {
         "contract_address": "0x32bced6e535b2101fb700a77a972f5be2c8eff13",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "ipubglobalconnection.com"
+        ]
     },
     {
         "contract_address": "0x1ab3d612ea7df26117554dddd379764ebce1a5ad",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 14
-        }
+        },
+        "web_domains": [
+            "evm.storage"
+        ]
     },
     {
         "contract_address": "0x4e40e998b87a377a4ddad7b476522ba562123a0d",
@@ -76747,7 +76780,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 161
-        }
+        },
+        "web_domains": [
+            "coinghost.com"
+        ]
     },
     {
         "contract_address": "0x0b452278223d3954f4ac050949d7998e373e7e43",
