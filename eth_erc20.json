@@ -79086,14 +79086,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 4
-        }
+        },
+        "web_domains": [
+            "run.ai"
+        ]
     },
     {
         "contract_address": "0x3d229e1b4faab62f621ef2f6a610961f7bd7b23b",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 17
-        }
+        },
+        "web_domains": [
+            "defiearns.com"
+        ]
     },
     {
         "contract_address": "0x65ca7dc5cb661fc58de57b1e1af404649a27ad35",
@@ -79128,7 +79134,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 46
-        }
+        },
+        "web_domains": [
+            "pepe.finance"
+        ]
     },
     {
         "contract_address": "0xd09bb70089c6baa474b9f0dfe6156beeae0bc4b4",
@@ -79166,7 +79175,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 66
-        }
+        },
+        "web_domains": [
+            "verkle.info"
+        ]
     },
     {
         "contract_address": "0x7ad9c4432abb0be2b9af840e48e7e7996399f387",
@@ -79283,14 +79295,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 140
-        }
+        },
+        "web_domains": [
+            "hotkeyswap.com"
+        ]
     },
     {
         "contract_address": "0xdadc82e26b3739750e036dfd9defd3ed459b877a",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 49
-        }
+        },
+        "web_domains": [
+            "sommelier.finance"
+        ]
     },
     {
         "contract_address": "0x54fa79be66c2c76f2f4942e1f387d6512040e1e0",
@@ -79311,7 +79329,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 116
-        }
+        },
+        "web_domains": [
+            "lebronjames.com"
+        ]
     },
     {
         "contract_address": "0x35828ed60d3a36f464038fca58a0c5896f400389",
@@ -79346,7 +79367,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 117
-        }
+        },
+        "web_domains": [
+            "arkhamintelligence.com"
+        ]
     },
     {
         "contract_address": "0x7aca14dd0f8c23243a13cf6052398518268402ca",
