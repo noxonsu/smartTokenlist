@@ -80181,5 +80181,186 @@
         "holders": {
             "ETH": 0
         }
+    },
+    {
+        "contract_address": "0xa0e8f00fd859d6693b7e1f80bd4830defa19be9b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x8660f02ca94970c45add17ceddcc81dd4d90ffed",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xcc6a23446f6388d78f3037bd55f2eb820352d982",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x6228f64d5ba8376652bfe7e36569d595347cf6fb",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi"
+        ],
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x46a55bdb2aa3d81d8f6432972dda103d11555cc3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.bitscrunch.com"
+        ],
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0xaad1b9a53ee43cce381298c51a1c47a2aa1fc03b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0x2af7b8d5aa383beba2001805e82bdf27760e7363",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x13e786d64d348d79f1606e1b6f7d4f8901192014",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "carbonfoundation.one",
+            "app.carbonfoundation.one"
+        ],
+        "telegram_groups": [
+            "carbon_foundation"
+        ],
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0x258b5584c3e8cdc8e3f5aeb86b4862bd246a31f1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xd7afbf2d4675c9bcec9d36a3c020086e5daa6370",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 194
+        }
+    },
+    {
+        "contract_address": "0x0b280b9bc98de46066b2a910127b9bb72cfc9e82",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.starknet.io",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "StarkWareLtd"
+        ],
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0xa242adbfa4a2e7cd6730f8dbf58f8aa0a9f99261",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xcc71af85b660a689159f0b0cf5f04a8125b7d72d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "anua.ai"
+        ],
+        "telegram_groups": [
+            "anua_ai"
+        ],
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0x1b5e16c5b20fb5ee87c61fe9afe735cca3b21a65",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org"
+        ],
+        "holders": {
+            "ETH": 45
+        }
+    },
+    {
+        "contract_address": "0x1c97c7a7b9d987768c0252046e008ceb68532748",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.starkware.co",
+            "starknet.io",
+            "starknet.io"
+        ],
+        "holders": {
+            "ETH": 37
+        }
+    },
+    {
+        "contract_address": "0x63f8363b5464bf1efd813f2518a558cd3dc67b15",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.bloomberg.com"
+        ],
+        "telegram_groups": [
+            "SIERRAcoinerc20"
+        ],
+        "holders": {
+            "ETH": 505
+        }
+    },
+    {
+        "contract_address": "0xeca6c6bcdebbfcaf8cd4cdce7bff2ecc8f4c1baf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0x3c0b11b235e517b4b020aa69fb134520e85cfd7d",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "SamGangmanFried"
+        ],
+        "holders": {
+            "ETH": 203
+        }
     }
 ]
