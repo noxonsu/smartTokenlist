@@ -73626,14 +73626,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 119
-        }
+        },
+        "web_domains": [
+            "everlodge.io"
+        ]
     },
     {
         "contract_address": "0xe4cbd3ff926796e6e95e81f1268258418a0c5cda",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 14
-        }
+        },
+        "web_domains": [
+            "radiologex.tech"
+        ]
     },
     {
         "contract_address": "0x39c95241fe3b64b49b9c1f838fdc95523edf4d53",
@@ -73643,7 +73649,10 @@
         ],
         "holders": {
             "ETH": 92
-        }
+        },
+        "web_domains": [
+            "coinbrain.com"
+        ]
     },
     {
         "contract_address": "0xe92344b4edf545f3209094b192e46600a19e7c2d",
@@ -73730,7 +73739,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 56
-        }
+        },
+        "web_domains": [
+            "aliceaiproject.com"
+        ]
     },
     {
         "contract_address": "0xfe74172b1d2562513d892de2a193ff89a7f9ef96",
@@ -73749,7 +73761,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 6
-        }
+        },
+        "web_domains": [
+            "barista-pro.com"
+        ]
     },
     {
         "contract_address": "0x5138f3c16f743bb38f2447883ff7556c491123a5",
@@ -73800,7 +73815,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 5
-        }
+        },
+        "web_domains": [
+            "icoholder.com"
+        ]
     },
     {
         "contract_address": "0x1258d60b224c0c5cd888d37bbf31aa5fcfb7e870",
@@ -73835,7 +73853,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 181
-        }
+        },
+        "web_domains": [
+            "trytreats.com"
+        ]
     },
     {
         "contract_address": "0xdb86e9d8a28f5beab6c191cf329c8d3663206ed6",
@@ -73891,7 +73912,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 291
-        }
+        },
+        "web_domains": [
+            "smartmoneyinternational.com"
+        ]
     },
     {
         "contract_address": "0x811c94f62f571c710bbacd5cca59ad40ae8c9839",
@@ -73936,7 +73960,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 5
-        }
+        },
+        "web_domains": [
+            "rstgovernance.com"
+        ]
     },
     {
         "contract_address": "0xb47fa9346960914ae1e18ba4e4b1aa2205347ebd",
@@ -73966,7 +73993,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 26
-        }
+        },
+        "web_domains": [
+            "coalapay.org"
+        ]
     },
     {
         "contract_address": "0x4159ec2ace34df270b627f22a4f45ea8a27a40bd",
