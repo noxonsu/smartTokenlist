@@ -76423,7 +76423,11 @@
         },
         "web_domains": [
             "aladdin.club"
-        ]
+        ],
+        "telegram_groups": [
+            "aladdin_dao"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x653f375511e1518a12b935cfd2d4574cfcb1bb08",
@@ -76631,7 +76635,9 @@
         },
         "web_domains": [
             "snowtrace.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xcb166f0148ae815313039d735e28fcec617b21fe",
@@ -76655,7 +76661,11 @@
         },
         "web_domains": [
             "rendernetwork.com"
-        ]
+        ],
+        "telegram_groups": [
+            "rendernetwork"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbc695ff4eecbea83e577245d762890c85f4c5fb4",
@@ -76694,7 +76704,9 @@
         },
         "web_domains": [
             "milkroad.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa82871b8cd31b4b70db956afc22dc2acbcbb9540",
@@ -76749,7 +76761,12 @@
         },
         "web_domains": [
             "vitekcctv.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "Sales@vitekcctv.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8a3b201e88059bec5c1f4e324942c3342012363b",
@@ -76804,7 +76821,9 @@
         },
         "web_domains": [
             "minerwines.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7743fbf9b8b9977d9677336e036ff5d6d7b5eb9a",
