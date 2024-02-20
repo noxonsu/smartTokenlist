@@ -73054,21 +73054,30 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 243
-        }
+        },
+        "web_domains": [
+            "jakmagic.com"
+        ]
     },
     {
         "contract_address": "0xde12c7959e1a72bbe8a5f7a1dc8f8eef9ab011b3",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 54
-        }
+        },
+        "web_domains": [
+            "deidei.co"
+        ]
     },
     {
         "contract_address": "0xb87a29c7b4291e267c2c096229fd05482163920b",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 124
-        }
+        },
+        "web_domains": [
+            "artships.com"
+        ]
     },
     {
         "contract_address": "0x45b3cf56896c4547426a4145ad1d0ae971120214",
@@ -73093,7 +73102,10 @@
         ],
         "holders": {
             "ETH": 106
-        }
+        },
+        "web_domains": [
+            "nextlevela.com"
+        ]
     },
     {
         "contract_address": "0x6084a36328bdfbe0edbc19f6819712357dc737e1",
@@ -73131,7 +73143,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 93
-        }
+        },
+        "web_domains": [
+            "unipolycoin.com"
+        ]
     },
     {
         "contract_address": "0x57654ae132413e81459ad2ae70c2570a9b89fb53",
@@ -73173,7 +73188,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 47
-        }
+        },
+        "web_domains": [
+            "gamestop.com"
+        ]
     },
     {
         "contract_address": "0xbcf9c470c1e87dd0d17d5613f7ca13bb24ca918f",
@@ -73246,14 +73264,20 @@
         ],
         "holders": {
             "ETH": 23
-        }
+        },
+        "web_domains": [
+            "snappydragon.com"
+        ]
     },
     {
         "contract_address": "0x4e58819d50e6127140e4ad3445d1fab979cad5a7",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 10
-        }
+        },
+        "web_domains": [
+            "lavalavabeachclub.com"
+        ]
     },
     {
         "contract_address": "0x2854fbda37ac17aa184772bca10d2ca731e06c8c",
@@ -73360,7 +73384,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 58
-        }
+        },
+        "web_domains": [
+            "yieldrone.xyz"
+        ]
     },
     {
         "contract_address": "0x305d3b44678899b40ae64a36794ab927953ea2c5",
@@ -73413,7 +73440,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 184
-        }
+        },
+        "web_domains": [
+            "envoy.network"
+        ]
     },
     {
         "contract_address": "0x3bf862093cbb6412b6ee498f4d652bba005aa7f3",
@@ -73430,7 +73460,10 @@
         ],
         "holders": {
             "ETH": 5
-        }
+        },
+        "web_domains": [
+            "nvidia.com"
+        ]
     },
     {
         "contract_address": "0x95fca0ef592de0dbe5e7fdf9913a4421c2040e1b",
