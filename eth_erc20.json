@@ -73507,7 +73507,9 @@
         },
         "web_domains": [
             "yieldrone.xyz"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x305d3b44678899b40ae64a36794ab927953ea2c5",
@@ -73563,7 +73565,9 @@
         },
         "web_domains": [
             "envoy.network"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3bf862093cbb6412b6ee498f4d652bba005aa7f3",
@@ -73583,7 +73587,8 @@
         },
         "web_domains": [
             "nvidia.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x95fca0ef592de0dbe5e7fdf9913a4421c2040e1b",
@@ -73713,7 +73718,14 @@
         },
         "web_domains": [
             "everlodge.io"
-        ]
+        ],
+        "telegram_groups": [
+            "everlodge"
+        ],
+        "emails": [
+            "support@everlodge.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe4cbd3ff926796e6e95e81f1268258418a0c5cda",
@@ -73723,20 +73735,26 @@
         },
         "web_domains": [
             "radiologex.tech"
-        ]
+        ],
+        "telegram_groups": [
+            "RDGXOfficialGroup"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x39c95241fe3b64b49b9c1f838fdc95523edf4d53",
         "sourceScanned": "processed",
         "telegram_groups": [
-            "vivek_Entry"
+            "vivek_Entry",
+            "coinbraincomann"
         ],
         "holders": {
             "ETH": 92
         },
         "web_domains": [
             "coinbrain.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe92344b4edf545f3209094b192e46600a19e7c2d",
