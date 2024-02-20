@@ -74405,7 +74405,9 @@
         },
         "web_domains": [
             "kegandcoinjax.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0525bc7ee00d1216feb760eddca953e6c4e2df3f",
@@ -74429,7 +74431,9 @@
         },
         "web_domains": [
             "moonai.app"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xfe60fba03048effb4acf3f0088ec2f53d779d3bb",
@@ -74477,7 +74481,8 @@
         },
         "web_domains": [
             "thepeoplesbitcoin.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x028958f4ce0b37aed302ec2208a5c7b4097632fa",
@@ -74515,7 +74520,12 @@
         },
         "web_domains": [
             "komp.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "mmrrc@ucdavis.edu"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc585622fcabf4e44126ca37842be2cf76a066666",
@@ -74525,7 +74535,9 @@
         },
         "web_domains": [
             "smileyssaloon.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0fda9b40401d512e9513ef38c62e2060a3d9b5bf",
@@ -74583,7 +74595,11 @@
         },
         "web_domains": [
             "primenumbers.xyz"
-        ]
+        ],
+        "telegram_groups": [
+            "PrimeNumbersFi"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa518125f9f9480aff5581773a9f45f49ee3bf1b9",
