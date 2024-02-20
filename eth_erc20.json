@@ -76873,7 +76873,9 @@
         },
         "web_domains": [
             "dora.chat"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x1596f7f7a0c495daf141376321d3ecac66a10a42",
@@ -76904,7 +76906,9 @@
         },
         "web_domains": [
             "bitget.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x52602b5eee7f0c4709e99ae7677ae8d8920177a0",
@@ -76914,7 +76918,9 @@
         },
         "web_domains": [
             "pcrm.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x32bced6e535b2101fb700a77a972f5be2c8eff13",
@@ -76924,7 +76930,9 @@
         },
         "web_domains": [
             "ipubglobalconnection.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x1ab3d612ea7df26117554dddd379764ebce1a5ad",
@@ -76934,7 +76942,9 @@
         },
         "web_domains": [
             "evm.storage"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4e40e998b87a377a4ddad7b476522ba562123a0d",
@@ -77000,7 +77010,9 @@
         },
         "web_domains": [
             "coinghost.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0b452278223d3954f4ac050949d7998e373e7e43",
