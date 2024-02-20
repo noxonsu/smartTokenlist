@@ -79870,11 +79870,13 @@
             "discord.com"
         ],
         "telegram_groups": [
-            "StarkWareLtd"
+            "StarkWareLtd",
+            "nibirufi"
         ],
         "holders": {
             "ETH": 29
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe03296991542a545edadd9855dca9dc326dc6159",
