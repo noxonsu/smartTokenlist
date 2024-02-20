@@ -80417,7 +80417,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 118
-        }
+        },
+        "web_domains": [
+            "luminance.com"
+        ]
     },
     {
         "contract_address": "0xdabc8b07900791d5918176ed73ef8de6025a3031",
@@ -80498,7 +80501,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 44
-        }
+        },
+        "web_domains": [
+            "steamdeck.com"
+        ]
     },
     {
         "contract_address": "0xde52a16c6db7914e6953e27a7df4ce6a315f8b45",
@@ -80684,14 +80690,20 @@
         ],
         "holders": {
             "ETH": 296
-        }
+        },
+        "web_domains": [
+            "midjourney.com"
+        ]
     },
     {
         "contract_address": "0x8d3cd9ec5bf4eb1bdd071f79d76fb73a81715469",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 59
-        }
+        },
+        "web_domains": [
+            "wemix.com"
+        ]
     },
     {
         "contract_address": "0xad8b942851a9bef968bc39904d39e3b45c936012",
@@ -80701,7 +80713,10 @@
         ],
         "holders": {
             "ETH": 126
-        }
+        },
+        "web_domains": [
+            "grok-ai.net"
+        ]
     },
     {
         "contract_address": "0xe763a09583f755b7c7cfacc6b88651f7f8886d99",
@@ -80807,7 +80822,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 5
-        }
+        },
+        "web_domains": [
+            "poodl.com"
+        ]
     },
     {
         "contract_address": "0x6d48ec8fe2d2ed3fac882826ad62382be1ebec9a",
@@ -80838,7 +80856,10 @@
         ],
         "holders": {
             "ETH": 136
-        }
+        },
+        "web_domains": [
+            "sierradesigns.com"
+        ]
     },
     {
         "contract_address": "0xcae1d363cc5b4362fc6d7c2db806e89498efa4f6",
@@ -80881,7 +80902,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 6
-        }
+        },
+        "web_domains": [
+            "livecoinwatch.com"
+        ]
     },
     {
         "contract_address": "0x9534ad65fb398e27ac8f4251dae1780b989d136e",
@@ -80912,14 +80936,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 74
-        }
+        },
+        "web_domains": [
+            "coinboom.net"
+        ]
     },
     {
         "contract_address": "0xa4ca122502f818c4e4ad3b5200bfe9ad117496dd",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 67
-        }
+        },
+        "web_domains": [
+            "runway-ai.ai"
+        ]
     },
     {
         "contract_address": "0xaa0bb89429a7e9149c4bd9fb8e382c5cb6b56529",
