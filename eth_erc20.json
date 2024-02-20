@@ -79704,5 +79704,71 @@
             "blepetheblue@gmail.com"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0xee62411c55e8057df2bdb956b67eae23141cf274",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "auto.cellmates.io",
+            "discord.com",
+            "www.w3.org"
+        ],
+        "holders": {
+            "ETH": 285
+        }
+    },
+    {
+        "contract_address": "0x3d3d35bb9bec23b06ca00fe472b50e7a4c692c30",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2129
+        }
+    },
+    {
+        "contract_address": "0x43fe2b0c5485c10e772a1843e32a7642ace5b88c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2198
+        }
+    },
+    {
+        "contract_address": "0x3c335679d5ec3117180e011b978ed9eb5ed473eb",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "frenzroom.world"
+        ],
+        "telegram_groups": [
+            "frenzroom_official"
+        ],
+        "holders": {
+            "ETH": 113
+        }
+    },
+    {
+        "contract_address": "0xe8c4a489a650ce4ad53c308ae8d1b15b0ad216d3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 44
+        }
+    },
+    {
+        "contract_address": "0xde52a16c6db7914e6953e27a7df4ce6a315f8b45",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1884
+        }
+    },
+    {
+        "contract_address": "0x2a14e7d8b1f7f0d9f51b510998390827db1082af",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.makeavideo.top"
+        ],
+        "telegram_groups": [
+            "MakeAVideoERC"
+        ],
+        "holders": {
+            "ETH": 45
+        }
     }
 ]
