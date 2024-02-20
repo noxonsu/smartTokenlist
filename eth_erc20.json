@@ -79968,7 +79968,8 @@
         ],
         "holders": {
             "ETH": 67
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc21541c2b0d1fd7bd46bfb8d12a951c3ba6de649",
@@ -79985,7 +79986,11 @@
         ],
         "holders": {
             "ETH": 66
-        }
+        },
+        "telegram_groups": [
+            "PastorPortal"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xea83ae0b4f0ad8dfa4947c3afdd8206968ead1a5",
@@ -79999,7 +80004,8 @@
         ],
         "holders": {
             "ETH": 28
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x07f17f81c3eec1afaf537b0dc264fa51bd4a4343",
@@ -80026,7 +80032,8 @@
         ],
         "holders": {
             "ETH": 17
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa4be4cdc552891a6702e1ae9645ef445179a4463",
