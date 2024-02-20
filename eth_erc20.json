@@ -74623,7 +74623,9 @@
         },
         "web_domains": [
             "zamzamwater.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8cbc304e2ab7c238673364745603ea9a6d7bed28",
@@ -74655,7 +74657,12 @@
         },
         "web_domains": [
             "skolmfg.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "sales@skolmfg.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd25e9108e497765ee4a60ec0e2cac04eccfc75c7",
@@ -74668,7 +74675,8 @@
         },
         "web_domains": [
             "michael.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5f40796797904ec01be9f8b683e42cb174ab876b",
@@ -74727,7 +74735,9 @@
         },
         "web_domains": [
             "dropstab.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x1e4fbef07987ac097a2313b77597c2407799e2d9",
@@ -74754,7 +74764,9 @@
         },
         "web_domains": [
             "defy.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x89224f4f0112f399b15426eb1c63e4dff4743175",
@@ -74817,7 +74829,9 @@
         },
         "web_domains": [
             "canuchat.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb61ebb6bceb7635ecd7e59884ee2e2bcdfd810ba",
