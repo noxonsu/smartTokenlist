@@ -80055,5 +80055,129 @@
         "holders": {
             "ETH": 1212
         }
+    },
+    {
+        "contract_address": "0x4b7c762af92dbd917d159eb282b85aa13e955739",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x6d48ec8fe2d2ed3fac882826ad62382be1ebec9a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 362
+        }
+    },
+    {
+        "contract_address": "0x4ef7c56ef644c345039ac94c18944810e86c39f2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "agierc20.com"
+        ],
+        "telegram_groups": [
+            "AGIERC20"
+        ],
+        "holders": {
+            "ETH": 84
+        }
+    },
+    {
+        "contract_address": "0xfaa5f19a025efae6737906c6416da111e232779e",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "SIERRAPORTAL"
+        ],
+        "holders": {
+            "ETH": 136
+        }
+    },
+    {
+        "contract_address": "0xcae1d363cc5b4362fc6d7c2db806e89498efa4f6",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "AdrianDittmannETH"
+        ],
+        "holders": {
+            "ETH": 148
+        }
+    },
+    {
+        "contract_address": "0xe70e1d6a2e971ff6debc21dd2540064c25c9bc0d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "spider-man.space",
+            "spider-man.space"
+        ],
+        "holders": {
+            "ETH": 1083
+        }
+    },
+    {
+        "contract_address": "0x4666f3e6300852157fdddd2df443ae4ac859d9c9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "Plasma-ai.live"
+        ],
+        "telegram_groups": [
+            "Plasma_GPT_AI_Bot",
+            "plasmaai"
+        ],
+        "holders": {
+            "ETH": 38
+        }
+    },
+    {
+        "contract_address": "0x23afd24c7cccb5a6c28b0c02f5e1a7fa5054784c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x9534ad65fb398e27ac8f4251dae1780b989d136e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6800
+        }
+    },
+    {
+        "contract_address": "0xd9747964cf3917bb888e2bcada2a38b209a6140b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 181
+        }
+    },
+    {
+        "contract_address": "0x9971948101ae890971dbdec417b9eb494b433287",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "mememetokenerc"
+        ],
+        "holders": {
+            "ETH": 82
+        }
+    },
+    {
+        "contract_address": "0x5f9289994507ebdfb7880067d1e8e95964c81e53",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 74
+        }
+    },
+    {
+        "contract_address": "0xa4ca122502f818c4e4ad3b5200bfe9ad117496dd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 67
+        }
+    },
+    {
+        "contract_address": "0xaa0bb89429a7e9149c4bd9fb8e382c5cb6b56529",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
     }
 ]
