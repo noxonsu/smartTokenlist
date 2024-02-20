@@ -76080,7 +76080,11 @@
         },
         "web_domains": [
             "obius-presale.io"
-        ]
+        ],
+        "telegram_groups": [
+            "ObiusERP"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xcdecf59af06df996b830fb78575068b92bef33f8",
@@ -76124,7 +76128,8 @@
         },
         "web_domains": [
             "soraapp.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xac68270c8fbeaea00a6a8d856c96978dda038912",
@@ -76202,7 +76207,9 @@
         },
         "web_domains": [
             "shippingsolutions.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe5509292682d2eb4ad941795840a180066a06aa0",
@@ -76212,7 +76219,14 @@
         },
         "web_domains": [
             "ryoshitoken.com"
-        ]
+        ],
+        "telegram_groups": [
+            "ryoshitokenofficial"
+        ],
+        "emails": [
+            "hi@ryoshitoken.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x898d1dde196c410c4ae3d3819d68efdd5ce22851",
@@ -76308,7 +76322,9 @@
         },
         "web_domains": [
             "chickchickchicken.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3f0f4da4b02f8510bf52e10e55223b3d528d5097",
@@ -76346,7 +76362,9 @@
         },
         "web_domains": [
             "liquideth.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3da19bd72575bf6e766656fac87fe3edc9f78215",
