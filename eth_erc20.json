@@ -75010,7 +75010,9 @@
         },
         "web_domains": [
             "arcade.xyz"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7262a43c94258e6071d3bac00ebec6d7c9b4ef30",
@@ -75062,7 +75064,14 @@
         },
         "web_domains": [
             "cyberscope.io"
-        ]
+        ],
+        "telegram_groups": [
+            "coinscopeco_admin",
+            "johnnysbe",
+            "raf_cyberscope",
+            "michael_coinscope"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xaf9f549774ecedbd0966c52f250acc548d3f36e5",
@@ -75086,7 +75095,9 @@
         },
         "web_domains": [
             "shieldapp.ai"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7d329eca91f11133e274ba2748af3ecd8ad38e32",
@@ -75195,7 +75206,9 @@
         },
         "web_domains": [
             "arc.codes"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7e57ecb14188fe1afebaab982f97a8e640eb5575",
@@ -75241,7 +75254,9 @@
         },
         "web_domains": [
             "blueberry.garden"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x01ef8cc6200f2d88bd7b9ca6c0e6131a19458e06",
@@ -75330,7 +75345,9 @@
         },
         "web_domains": [
             "compassionoutreach.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9132a1598b277555d8029b59f638c48b9194a342",
