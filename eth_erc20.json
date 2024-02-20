@@ -76880,7 +76880,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 41
-        }
+        },
+        "web_domains": [
+            "initse.com"
+        ]
     },
     {
         "contract_address": "0xb55006133ce89295cab0c75ab8066613718882a9",
@@ -77055,7 +77058,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 32
-        }
+        },
+        "web_domains": [
+            "ch4n63.org"
+        ]
     },
     {
         "contract_address": "0x990046c834ea56a45de61f5d3aeb309a8e036a9f",
@@ -77131,7 +77137,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 47
-        }
+        },
+        "web_domains": [
+            "shibatoken.com"
+        ]
     },
     {
         "contract_address": "0x0316eb71485b0ab14103307bf65a021042c6d380",
@@ -77254,7 +77263,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 18
-        }
+        },
+        "web_domains": [
+            "btcfork.consider.it"
+        ]
     },
     {
         "contract_address": "0xf13ce9fc9444e46dbbaf2b32162cdc32cc1e5228",
@@ -77278,7 +77290,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 11
-        }
+        },
+        "web_domains": [
+            "capitaldex.exchange"
+        ]
     },
     {
         "contract_address": "0x42ed016f826165c2e5976fe5bc3df540c5ad0af7",
@@ -77359,7 +77374,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 229
-        }
+        },
+        "web_domains": [
+            "birdcoin.org"
+        ]
     },
     {
         "contract_address": "0x5fede06c417943b3c58ba19593c2c2618db359c3",
@@ -77399,7 +77417,10 @@
         ],
         "holders": {
             "ETH": 2
-        }
+        },
+        "web_domains": [
+            "cultgrowth.com"
+        ]
     },
     {
         "contract_address": "0x470ebf5f030ed85fc1ed4c2d36b9dd02e77cf1b7",
@@ -77413,7 +77434,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 45
-        }
+        },
+        "web_domains": [
+            "genesis.zentu.com"
+        ]
     },
     {
         "contract_address": "0xe6ed8cd85ccd9d4b74402e373cca513a29fa10c9",
@@ -77441,14 +77465,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 16
-        }
+        },
+        "web_domains": [
+            "brevite.co"
+        ]
     },
     {
         "contract_address": "0x2f9f68721460ce9cc4b5755702083f4e337bba64",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 30
-        }
+        },
+        "web_domains": [
+            "artela.network"
+        ]
     },
     {
         "contract_address": "0xfaca2edbf3abdb1a64eefbff50b79411f2aaac0d",
@@ -77476,7 +77506,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 63
-        }
+        },
+        "web_domains": [
+            "antfarm.finance"
+        ]
     },
     {
         "contract_address": "0x518b63da813d46556fea041a88b52e3caa8c16a8",
@@ -77552,7 +77585,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 46
-        }
+        },
+        "web_domains": [
+            "gochain.io"
+        ]
     },
     {
         "contract_address": "0x355a824bea1adc22733978a3748271e1bbb34130",
