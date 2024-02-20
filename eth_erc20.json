@@ -79774,5 +79774,87 @@
             "ETH": 45
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xaf75d880b3128981d1fed3292fc02e3fb37acd53",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2167
+        }
+    },
+    {
+        "contract_address": "0x78e5adf1447a730358517ea5e2724becf26fc636",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.pengufoods.xyz"
+        ],
+        "holders": {
+            "ETH": 106
+        }
+    },
+    {
+        "contract_address": "0x3932b187f440ce7703653b3908edc5bb7676c283",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0xc2bd7a597391f31d2e36c2cb769fce0e5bd6d482",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 977
+        }
+    },
+    {
+        "contract_address": "0x62883ea516a5704d8b141907fe6c87563653dacb",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.dork-pepe.com"
+        ],
+        "telegram_groups": [
+            "DorkPepe_Portal"
+        ],
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0xe62bb48bbb7334b3eadf7f70b3f3e65c776f6507",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "aitokenerc.pro"
+        ],
+        "telegram_groups": [
+            "AITokens_Portal"
+        ],
+        "holders": {
+            "ETH": 208
+        }
+    },
+    {
+        "contract_address": "0x9f8ae89b695fd1773175ccb9106a90ce868acab0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "altfi.org",
+            "altfiofficial.medium.com",
+            "altfi.gitbook.io"
+        ],
+        "telegram_groups": [
+            "altfiofficial"
+        ],
+        "holders": {
+            "ETH": 388
+        }
+    },
+    {
+        "contract_address": "0x417b1ba3aa8da0c2ea86e2683925df509d12c6f4",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Gemini1dot5"
+        ],
+        "holders": {
+            "ETH": 72
+        }
     }
 ]
