@@ -77659,14 +77659,17 @@
         "contract_address": "0xea103277c6a902345b3b8496a3fb910fb249e4c9",
         "sourceScanned": "processed",
         "emails": [
-            "security@p00ls.com"
+            "security@p00ls.com",
+            ":  support@cultgrowthventures.zohodesk.in"
         ],
         "holders": {
             "ETH": 2
         },
         "web_domains": [
             "cultgrowth.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x470ebf5f030ed85fc1ed4c2d36b9dd02e77cf1b7",
@@ -77683,7 +77686,9 @@
         },
         "web_domains": [
             "genesis.zentu.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe6ed8cd85ccd9d4b74402e373cca513a29fa10c9",
@@ -77714,7 +77719,12 @@
         },
         "web_domains": [
             "brevite.co"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "support@brevite.co"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2f9f68721460ce9cc4b5755702083f4e337bba64",
@@ -77724,7 +77734,11 @@
         },
         "web_domains": [
             "artela.network"
-        ]
+        ],
+        "telegram_groups": [
+            "artela_official"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xfaca2edbf3abdb1a64eefbff50b79411f2aaac0d",
@@ -77755,7 +77769,11 @@
         },
         "web_domains": [
             "antfarm.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "antfarmfinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x518b63da813d46556fea041a88b52e3caa8c16a8",
@@ -77834,7 +77852,9 @@
         },
         "web_domains": [
             "gochain.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x355a824bea1adc22733978a3748271e1bbb34130",
