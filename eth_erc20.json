@@ -80081,7 +80081,8 @@
         ],
         "holders": {
             "ETH": 84
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xfaa5f19a025efae6737906c6416da111e232779e",
@@ -80121,12 +80122,13 @@
             "Plasma-ai.live"
         ],
         "telegram_groups": [
-            "Plasma_GPT_AI_Bot",
-            "plasmaai"
+            "plasmaai",
+            "Plasma_GPT_AI_Bot"
         ],
         "holders": {
             "ETH": 38
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x23afd24c7cccb5a6c28b0c02f5e1a7fa5054784c",
