@@ -72625,7 +72625,11 @@
         },
         "web_domains": [
             "immunebytes.com"
-        ]
+        ],
+        "telegram_groups": [
+            "immunebytes"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x17b06e961bb8d2f9c211388c094dd2280b03d912",
@@ -72635,7 +72639,9 @@
         },
         "web_domains": [
             "monkees.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x895760786fad380835c1365e72289bd44665de70",
@@ -72655,7 +72661,9 @@
         },
         "web_domains": [
             "geckoterminal.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x898ad60d7ff0f8b5fc0078cb8efc39cf5794b1a5",
@@ -72668,7 +72676,8 @@
         },
         "web_domains": [
             "deezcookies.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x33f430a3fc1ee5d6309b9986581b6a54ee93c660",
@@ -72698,7 +72707,11 @@
         },
         "web_domains": [
             "deeznuts.store"
-        ]
+        ],
+        "emails": [
+            "info@peanutgalleryfoods.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe8a68c9439b470fb047a6b70f45d8c57e8610ac6",
@@ -72791,7 +72804,9 @@
         },
         "web_domains": [
             "smowl.net"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6d6506e6f438ede269877a0a720026559110b7d5",
