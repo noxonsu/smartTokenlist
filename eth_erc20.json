@@ -74126,7 +74126,12 @@
         },
         "web_domains": [
             "coalapay.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "hello@coalapay.org"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4159ec2ace34df270b627f22a4f45ea8a27a40bd",
@@ -74263,7 +74268,9 @@
         },
         "web_domains": [
             "bsgg.betswap.gg"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x53e79ef1cf6ac0cdf6f1743c3be3ad48fa3c5657",
@@ -74287,7 +74294,9 @@
         },
         "web_domains": [
             "hydroprotocol.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9297155e19333d65054e81bdbc10b168ce8f1378",
@@ -74316,7 +74325,9 @@
         },
         "web_domains": [
             "fracton.cool"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xde2a67ba7c4d54933727de9efe2d03feab45e607",
@@ -74361,7 +74372,9 @@
         },
         "web_domains": [
             "akaomegaomegachapter.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc8068ca599814ee980ab3e86648a98c881a22e6b",
@@ -74371,7 +74384,11 @@
         },
         "web_domains": [
             "analog.one"
-        ]
+        ],
+        "telegram_groups": [
+            "analogtimer"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7a1db400272600b371e16f207ff239fd2c34dadb",
