@@ -75592,7 +75592,15 @@
         },
         "web_domains": [
             "cloudbtc.io"
-        ]
+        ],
+        "telegram_groups": [
+            "cloudbtcofficial_1",
+            "CloudBTC_Global"
+        ],
+        "emails": [
+            "contact@cloudbtc.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x02ae7305cef85c855a67a59de4f1e2bb47e8ef2c",
@@ -75619,7 +75627,8 @@
         },
         "web_domains": [
             "intuitivemachines.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf3e826d458527616466a97fcfde3c79481bcc50c",
@@ -75695,7 +75704,14 @@
         },
         "web_domains": [
             "medifakt.com"
-        ]
+        ],
+        "telegram_groups": [
+            "MedifaktOfficial"
+        ],
+        "emails": [
+            "support@medifakt.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5552e5a89a70cb2ef5adbbc45a6be442fe7160ec",
@@ -75758,7 +75774,9 @@
         },
         "web_domains": [
             "sundelaware.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7ab1d95a5a006d7c1ee95e3c858a14f8406caa9d",
@@ -75820,7 +75838,9 @@
         },
         "web_domains": [
             "moneyark.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x77252494c25444f8598a0c74ffc90adc535291a9",
@@ -75876,6 +75896,7 @@
         "contract_address": "0x188fb5f5ae5bbe4154d5778f2bbb2fb985c94d25",
         "sourceScanned": "processed",
         "emails": [
+            "marketing@openblox.io",
             "goncalo.sa@consensys.net"
         ],
         "holders": {
@@ -75883,7 +75904,11 @@
         },
         "web_domains": [
             "openblox.io"
-        ]
+        ],
+        "telegram_groups": [
+            "openblox_eng"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc0e1f8de8f06c5c01bad9bac8cca671caad68169",
