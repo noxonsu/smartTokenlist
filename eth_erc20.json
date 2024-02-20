@@ -75357,7 +75357,9 @@
         },
         "web_domains": [
             "pepetrump.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x556bb0b27e855e6f2cebb47174495b9bbeb97ff1",
@@ -75380,7 +75382,11 @@
         },
         "web_domains": [
             "accumulated.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "accumulatedfi"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf38feedb0c85c1e1d6864c7513ac646d28bb0cfc",
@@ -75468,7 +75474,11 @@
         },
         "web_domains": [
             "passivecoin.org"
-        ]
+        ],
+        "telegram_groups": [
+            "joinchat"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x849535b729768321aded4ede1acefa03a5f96fde",
@@ -75478,7 +75488,14 @@
         },
         "web_domains": [
             "bitquery.io"
-        ]
+        ],
+        "telegram_groups": [
+            "bloxy_info"
+        ],
+        "emails": [
+            "hello@bitquery.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8d983cb9388eac77af0474fa441c4815500cb7bb",
@@ -75488,7 +75505,11 @@
         },
         "web_domains": [
             "cosmos.network"
-        ]
+        ],
+        "telegram_groups": [
+            "cosmosproject"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x57fbb81f894ee9fb6f8d18ddd866a9206b15f192",
@@ -75559,7 +75580,9 @@
         },
         "web_domains": [
             "taprootmag.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xcae6ebacef456e5a942afb40fc99f2f38639ef01",
