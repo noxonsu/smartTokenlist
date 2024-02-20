@@ -73036,7 +73036,9 @@
         },
         "web_domains": [
             "nftx.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x28165056b6a147874334505243b6347a2674f7e9",
@@ -73046,7 +73048,9 @@
         },
         "web_domains": [
             "yield.nftx.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe035e27a8ed6842b478933820f90093d205f7098",
@@ -73056,7 +73060,9 @@
         },
         "web_domains": [
             "rebellious.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x76237bcfdbe8e06fb774663add96216961df4ff3",
@@ -73137,7 +73143,9 @@
         },
         "web_domains": [
             "rawrawrpetfoods.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2034649f339c38efef15280ba33aed28fa830ed4",
@@ -73147,7 +73155,9 @@
         },
         "web_domains": [
             "jakmagic.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xde12c7959e1a72bbe8a5f7a1dc8f8eef9ab011b3",
@@ -73157,7 +73167,12 @@
         },
         "web_domains": [
             "deidei.co"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "hello@deidei.co"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb87a29c7b4291e267c2c096229fd05482163920b",
