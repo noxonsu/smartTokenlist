@@ -73844,7 +73844,14 @@
         },
         "web_domains": [
             "aliceaiproject.com"
-        ]
+        ],
+        "telegram_groups": [
+            "aliceaieth"
+        ],
+        "emails": [
+            "support@aliceaiproject.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xfe74172b1d2562513d892de2a193ff89a7f9ef96",
@@ -73866,7 +73873,12 @@
         },
         "web_domains": [
             "barista-pro.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "sales@barista-pro.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5138f3c16f743bb38f2447883ff7556c491123a5",
@@ -73920,7 +73932,14 @@
         },
         "web_domains": [
             "icoholder.com"
-        ]
+        ],
+        "telegram_groups": [
+            "joinchat"
+        ],
+        "emails": [
+            " info@icoholder.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1258d60b224c0c5cd888d37bbf31aa5fcfb7e870",
@@ -73958,7 +73977,12 @@
         },
         "web_domains": [
             "trytreats.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "hello@trytreats.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdb86e9d8a28f5beab6c191cf329c8d3663206ed6",
@@ -74017,7 +74041,9 @@
         },
         "web_domains": [
             "smartmoneyinternational.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x811c94f62f571c710bbacd5cca59ad40ae8c9839",
@@ -74065,7 +74091,9 @@
         },
         "web_domains": [
             "rstgovernance.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb47fa9346960914ae1e18ba4e4b1aa2205347ebd",
