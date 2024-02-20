@@ -80425,5 +80425,65 @@
         "holders": {
             "ETH": 203
         }
+    },
+    {
+        "contract_address": "0xbef26bd568e421d6708cca55ad6e35f8bfa0c406",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 72
+        }
+    },
+    {
+        "contract_address": "0xddf03cc8868b899dcebe20a39c58253a1aae7128",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.businessinsider.com"
+        ],
+        "telegram_groups": [
+            "Sandor_ERC"
+        ],
+        "holders": {
+            "ETH": 73
+        }
+    },
+    {
+        "contract_address": "0xbc4efa00117c570eb1865a7e7bab7b4bffdc2265",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 56
+        }
+    },
+    {
+        "contract_address": "0xda1a872a0729676c2d507268519e37d01f360580",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.starknet.io",
+            "starknet.io"
+        ],
+        "holders": {
+            "ETH": 140
+        }
+    },
+    {
+        "contract_address": "0x47f7b78436d5d93fa36953fd6540b397d305c0df",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "officialmongoose.com",
+            "youtu.be",
+            "mongoosetoken.gitbook.io"
+        ],
+        "telegram_groups": [
+            "mongoose_portal"
+        ],
+        "holders": {
+            "ETH": 262
+        }
+    },
+    {
+        "contract_address": "0xdafe2b7d99b95b0d4b3ea4eb366643debb1839c6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 98
+        }
     }
 ]
