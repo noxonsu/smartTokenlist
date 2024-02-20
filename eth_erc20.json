@@ -80725,5 +80725,89 @@
         "holders": {
             "ETH": 98
         }
+    },
+    {
+        "contract_address": "0xd9471f5029bcc420d4c04af88a94f1163b1c7b36",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.deepaitoken.xyz",
+            "deepai.org"
+        ],
+        "telegram_groups": [
+            "DeepAI_Erc"
+        ],
+        "holders": {
+            "ETH": 81
+        }
+    },
+    {
+        "contract_address": "0xaa4e3edb11afa93c41db59842b29de64b72e355b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1048
+        }
+    },
+    {
+        "contract_address": "0xbc6378faae98fb2207bb6c35c0f8ce5846fd4c6c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 79
+        }
+    },
+    {
+        "contract_address": "0x5cac718a3ae330d361e39244bf9e67ab17514ce8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5987
+        }
+    },
+    {
+        "contract_address": "0x014337b35167b3711195361bb85259009e50a8a4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "decentranode.org"
+        ],
+        "telegram_groups": [
+            "decentranode"
+        ],
+        "holders": {
+            "ETH": 171
+        }
+    },
+    {
+        "contract_address": "0xba0dda8762c24da9487f5fa026a9b64b695a07ea",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0xc3fa123e4460bbf9c17012bccb65ecd10c95cd08",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xac2b91c49342a9359f8d4521dad0c700a151b133",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x9cc8df59b56ad435e01a52c8f62e0d3115fb7e85",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "stackset.xyz",
+            "stackset.gitbook.io",
+            "forms.gle"
+        ],
+        "telegram_groups": [
+            "stackset_chat"
+        ],
+        "holders": {
+            "ETH": 281
+        }
     }
 ]
