@@ -79929,5 +79929,124 @@
         "holders": {
             "ETH": 36
         }
+    },
+    {
+        "contract_address": "0xdb32be67eef29f21b2a0452cf87ec44aef4d0350",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "xmidjourneycoinerc20"
+        ],
+        "holders": {
+            "ETH": 296
+        }
+    },
+    {
+        "contract_address": "0x8d3cd9ec5bf4eb1bdd071f79d76fb73a81715469",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 59
+        }
+    },
+    {
+        "contract_address": "0xad8b942851a9bef968bc39904d39e3b45c936012",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "grokaiETH"
+        ],
+        "holders": {
+            "ETH": 126
+        }
+    },
+    {
+        "contract_address": "0xe763a09583f755b7c7cfacc6b88651f7f8886d99",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.nftifi.org"
+        ],
+        "telegram_groups": [
+            "NFTiFi_erc"
+        ],
+        "holders": {
+            "ETH": 67
+        }
+    },
+    {
+        "contract_address": "0xc21541c2b0d1fd7bd46bfb8d12a951c3ba6de649",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 40
+        }
+    },
+    {
+        "contract_address": "0x2604d415a72a5d2ea0cbd6a782ab2cea29cb0acc",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pastortoken.com"
+        ],
+        "holders": {
+            "ETH": 66
+        }
+    },
+    {
+        "contract_address": "0xea83ae0b4f0ad8dfa4947c3afdd8206968ead1a5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wormhole.com",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "wormholecrypto"
+        ],
+        "holders": {
+            "ETH": 28
+        }
+    },
+    {
+        "contract_address": "0x07f17f81c3eec1afaf537b0dc264fa51bd4a4343",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x1045f5ccb01daea4f8eab055f5fcbb7c0e7c89f0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 527
+        }
+    },
+    {
+        "contract_address": "0xc6981019b0e52d0263ec4754e19301117891f256",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.chidoriinu-ai.com"
+        ],
+        "telegram_groups": [
+            "ChidoriInuAI"
+        ],
+        "holders": {
+            "ETH": 17
+        }
+    },
+    {
+        "contract_address": "0xa4be4cdc552891a6702e1ae9645ef445179a4463",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 17525
+        }
+    },
+    {
+        "contract_address": "0x9972d4fb697538fd5451da19377d4acffc9735dd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 54
+        }
+    },
+    {
+        "contract_address": "0xa87135285ae208e22068acdbff64b11ec73eaa5a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1212
+        }
     }
 ]
