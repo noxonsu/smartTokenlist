@@ -81531,5 +81531,106 @@
         "holders": {
             "ETH": 140
         }
+    },
+    {
+        "contract_address": "0xf3ea5034ba2733aa8e6038be643bd0bb7a5d13d5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.magma.foundation",
+            "www.pond0x.com"
+        ],
+        "holders": {
+            "ETH": 389
+        }
+    },
+    {
+        "contract_address": "0x66ba6bc10aa1b414af363a783e7cfaf6335184c9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "olympus404.xyz",
+            "olympus404.xyz",
+            "olympus404.xyz",
+            "olympus404.xyz",
+            "olympus404.xyz",
+            "olympus404.xyz",
+            "olympus404.xyz",
+            "olympus404.xyz"
+        ],
+        "telegram_groups": [
+            "Olympus404Portal",
+            "Olympus404Portal",
+            "Olympus404Portal",
+            "Olympus404Portal",
+            "Olympus404Portal",
+            "Olympus404Portal",
+            "Olympus404Portal"
+        ],
+        "holders": {
+            "ETH": 90
+        }
+    },
+    {
+        "contract_address": "0x6bc9f629c0a2a177479170825e3385ee6c4b0468",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0x9062422afd836466f9275ef3d157deaf61873d01",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "revenuesharks.tech"
+        ],
+        "telegram_groups": [
+            "RevenueSharksPortal"
+        ],
+        "holders": {
+            "ETH": 69
+        }
+    },
+    {
+        "contract_address": "0x9e8ce0b2a5e3f6c1c78b77bddeaba4de101bbffa",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "shiboshiworld.com"
+        ],
+        "telegram_groups": [
+            "shibioshiworld"
+        ],
+        "holders": {
+            "ETH": 113
+        }
+    },
+    {
+        "contract_address": "0x5de869e3e62b0fb2c15573246ba3bb3fd97a2275",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 406
+        }
+    },
+    {
+        "contract_address": "0xba700d66ec93bf96aeb693c163acaf277ca5a903",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.fluxtoken.net",
+            "flux-official.gitbook.io"
+        ],
+        "telegram_groups": [
+            "FluxCoinOfficial"
+        ],
+        "holders": {
+            "ETH": 150
+        }
+    },
+    {
+        "contract_address": "0x66941924c3fb536abb76ba4567327e102230ff14",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Extra_erc20"
+        ],
+        "holders": {
+            "ETH": 59
+        }
     }
 ]
