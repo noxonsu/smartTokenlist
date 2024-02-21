@@ -81839,5 +81839,98 @@
         "web_domains": [
             "komodoplatform.com"
         ]
+    },
+    {
+        "contract_address": "0xf9c8daf65c4aef481a219174f3bed129d684d241",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 28
+        }
+    },
+    {
+        "contract_address": "0xb753571401ca0be8a83471911b42af4e5eeda133",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 66
+        }
+    },
+    {
+        "contract_address": "0x0d0161da562e9338af273336b399138eb6424279",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 122
+        }
+    },
+    {
+        "contract_address": "0x0cc8d1c358c007cac55fa0bb3c750e723538f659",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0x8a50ab13dd364ecb44cb201cbc98193fc14b9238",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 118
+        }
+    },
+    {
+        "contract_address": "0x0000000016e6cb3038203c1129c8b4aee7af7a11",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x854b816ac312190e2e27bc08f6a9a59661f9416d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "intimateai.space"
+        ],
+        "telegram_groups": [
+            "intimate_ai_web3_official"
+        ],
+        "holders": {
+            "ETH": 54
+        }
+    },
+    {
+        "contract_address": "0x46014562684c336fe37fd46ac25344bbedf0a5dc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xbc544207ff1c5b2bc47a35f745010b603b97e99e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ai-pin.io"
+        ],
+        "telegram_groups": [
+            "aipinio"
+        ],
+        "emails": [
+            "hello@ai-pin.io"
+        ],
+        "holders": {
+            "ETH": 1379
+        }
+    },
+    {
+        "contract_address": "0x378878af3228d23891de306cb2b123d837d0dcf1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "anonify.bot",
+            "docs.anonify.bot"
+        ],
+        "telegram_groups": [
+            "AnonifyPortal",
+            "anonify_swap_bot"
+        ],
+        "holders": {
+            "ETH": 291
+        }
     }
 ]
