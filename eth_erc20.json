@@ -83000,5 +83000,88 @@
             "PeapodsFinance"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0xbf72ee725f9b06dc564324774801acebad061946",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dapp-ai-1.gitbook.io"
+        ],
+        "telegram_groups": [
+            "d_appai"
+        ],
+        "holders": {
+            "ETH": 474
+        }
+    },
+    {
+        "contract_address": "0x70a0d38d30e94a55bdee9b92326853d3ba3559ce",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "nvidiaentryeth"
+        ],
+        "holders": {
+            "ETH": 144
+        }
+    },
+    {
+        "contract_address": "0x9e415a67d166375bc4986109b5ea97ef0047b40c",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "NvidiaPortal"
+        ],
+        "holders": {
+            "ETH": 442
+        }
+    },
+    {
+        "contract_address": "0xeb9b5741f21ec8ed13bbd9f1db8fa071214207cd",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "0x-metaverse.com"
+        ],
+        "telegram_groups": [
+            "zeroxmetaverse"
+        ],
+        "holders": {
+            "ETH": 97
+        }
+    },
+    {
+        "contract_address": "0x2e2bc9f61ba4ca673d7794ad7e68499843a4e42a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "redenv.org"
+        ],
+        "telegram_groups": [
+            "redenvbot",
+            "redenvtestnetbot"
+        ],
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0x4f7a67464b5976d7547c860109e4432d50afb38e",
+        "sourceScanned": "processed",
+        "emails": [
+            "goncalo.sa@consensys.net"
+        ],
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x96c72808d31fb4036e4aa125e058f76bf23c16ee",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.hcamag.com"
+        ],
+        "telegram_groups": [
+            "AskPicklesETH"
+        ],
+        "holders": {
+            "ETH": 42
+        }
     }
 ]
