@@ -83008,11 +83008,15 @@
             "dapp-ai-1.gitbook.io"
         ],
         "telegram_groups": [
-            "d_appai"
+            "DAppaiContracts_bot",
+            "d_appai",
+            "DAppaiDApp_bot",
+            "DAppaiWebsite_bot"
         ],
         "holders": {
             "ETH": 474
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x70a0d38d30e94a55bdee9b92326853d3ba3559ce",
@@ -83025,7 +83029,8 @@
         },
         "web_domains": [
             "investor.nvidia.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9e415a67d166375bc4986109b5ea97ef0047b40c",
@@ -83048,7 +83053,8 @@
         ],
         "holders": {
             "ETH": 97
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2e2bc9f61ba4ca673d7794ad7e68499843a4e42a",
@@ -83062,7 +83068,8 @@
         ],
         "holders": {
             "ETH": 30
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4f7a67464b5976d7547c860109e4432d50afb38e",
@@ -83075,7 +83082,9 @@
         },
         "web_domains": [
             "internetcomputer.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x96c72808d31fb4036e4aa125e058f76bf23c16ee",
@@ -83088,6 +83097,7 @@
         ],
         "holders": {
             "ETH": 42
-        }
+        },
+        "p6": true
     }
 ]
