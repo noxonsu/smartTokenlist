@@ -83022,7 +83022,10 @@
         ],
         "holders": {
             "ETH": 144
-        }
+        },
+        "web_domains": [
+            "investor.nvidia.com"
+        ]
     },
     {
         "contract_address": "0x9e415a67d166375bc4986109b5ea97ef0047b40c",
@@ -83069,7 +83072,10 @@
         ],
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "internetcomputer.org"
+        ]
     },
     {
         "contract_address": "0x96c72808d31fb4036e4aa125e058f76bf23c16ee",
