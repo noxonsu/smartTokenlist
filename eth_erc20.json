@@ -80993,7 +80993,8 @@
         },
         "web_domains": [
             "midjourney.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8d3cd9ec5bf4eb1bdd071f79d76fb73a81715469",
@@ -81003,7 +81004,11 @@
         },
         "web_domains": [
             "wemix.com"
-        ]
+        ],
+        "telegram_groups": [
+            "WEMIX_ANNouncement"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xad8b942851a9bef968bc39904d39e3b45c936012",
@@ -81016,7 +81021,8 @@
         },
         "web_domains": [
             "grok-ai.net"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe763a09583f755b7c7cfacc6b88651f7f8886d99",
@@ -81125,7 +81131,9 @@
         },
         "web_domains": [
             "poodl.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6d48ec8fe2d2ed3fac882826ad62382be1ebec9a",
@@ -81159,7 +81167,8 @@
         },
         "web_domains": [
             "sierradesigns.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xcae1d363cc5b4362fc6d7c2db806e89498efa4f6",
@@ -81205,7 +81214,9 @@
         },
         "web_domains": [
             "livecoinwatch.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9534ad65fb398e27ac8f4251dae1780b989d136e",
