@@ -27,7 +27,7 @@ def load_system_message(filename):
 
 
 def generate_message(targetSummary):
-    chat = ChatOpenAI(temperature=0.5, model_name="gpt-4")
+    chat = ChatOpenAI(temperature=0.1, model_name="gpt-4")
     system_message_content = load_system_message('GPT_proposal.txt')
     messages = [
         SystemMessage(content=system_message_content),
