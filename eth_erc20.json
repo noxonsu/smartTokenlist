@@ -79648,7 +79648,21 @@
         },
         "web_domains": [
             "arkhamintelligence.com"
-        ]
+        ],
+        "telegram_groups": [
+            "ArkhamIntelligence_CN",
+            "ArkhamIntelligence_ES",
+            "arkhamintelligence",
+            "ArkhamIntelligence_KR",
+            "ArkhamIntelligence_RU",
+            "joinchat",
+            "ArkhamIntelligence_TR",
+            "ArkhamIntelligence_JP"
+        ],
+        "emails": [
+            " | contact@arkhamintelligence.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7aca14dd0f8c23243a13cf6052398518268402ca",
@@ -79665,7 +79679,9 @@
         },
         "web_domains": [
             "blockexplorer.one"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb92deb2e6ee7ac24af246cf8e42555ae4253c76f",
@@ -79711,7 +79727,8 @@
         },
         "web_domains": [
             "dora.dev"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4581af35199bbde87a89941220e04e27ce4b0099",
@@ -79753,7 +79770,8 @@
         },
         "web_domains": [
             "coracoraeats.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x29401e5dfce99c42adf723a456f8beacf1b0d5d5",
@@ -79786,7 +79804,14 @@
         },
         "web_domains": [
             "goldenmagfi.io"
-        ]
+        ],
+        "telegram_groups": [
+            "GoldenMagfi"
+        ],
+        "emails": [
+            "admin@goldenmagfi.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf57c4e71b5efcca9153b2b5959e57d0508cbe28a",
@@ -79824,7 +79849,9 @@
         },
         "web_domains": [
             "rosnet.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xcd240872ce2fe6266fed8d851f47ef553c88c0db",
