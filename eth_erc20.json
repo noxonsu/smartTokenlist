@@ -82075,5 +82075,104 @@
         "holders": {
             "ETH": 291
         }
+    },
+    {
+        "contract_address": "0xf689ac2361c89f56df9e07ac4d7dceb28e70d335",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x79dbe8c482e2fdab1d1874560a9ba60161c7561d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 135
+        }
+    },
+    {
+        "contract_address": "0xdadb4ae5b5d3099dd1f586f990b845f2404a1c4c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.lenny-coin.com"
+        ],
+        "telegram_groups": [
+            "LennyFaceCoin"
+        ],
+        "holders": {
+            "ETH": 688
+        }
+    },
+    {
+        "contract_address": "0xab734b66834ba7f29bbd81774163f28a4ac90e12",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.beoble.io",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "beoble_official"
+        ],
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0x26d87ad72823c0cf0c308064fb5d8952e710c2a6",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "BOXIMATOR_ETH"
+        ],
+        "holders": {
+            "ETH": 299
+        }
+    },
+    {
+        "contract_address": "0xa660de6602e455134b737c460b1e03790b1bd184",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 297
+        }
+    },
+    {
+        "contract_address": "0xb7b4ce7e7a896342d5987ab2e40cb10fec94fce8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x47cd7e91c3cbaaf266369fe8518345fc4fc12935",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 415
+        }
+    },
+    {
+        "contract_address": "0x87c22db324b8b0637c8f09d2670ae7777651dbb8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 270
+        }
+    },
+    {
+        "contract_address": "0x19373ecbb4b8cc2253d70f2a246fa299303227ba",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x2888e1cc418cce7757034b638a348d1cd117bd96",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "acropolis-fi.com"
+        ],
+        "telegram_groups": [
+            "acropoliseth"
+        ],
+        "holders": {
+            "ETH": 50
+        }
     }
 ]
