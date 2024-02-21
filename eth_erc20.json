@@ -77871,7 +77871,9 @@
         },
         "web_domains": [
             "openai.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xeda55c23d8fb2ca6e93b078a0b8dcb456426ea7b",
@@ -77922,7 +77924,9 @@
         },
         "web_domains": [
             "rillavoice.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc17272c3e15074c55b810bceba02ba0c4481cd79",
@@ -77932,7 +77936,13 @@
         },
         "web_domains": [
             "superalgos.org"
-        ]
+        ],
+        "telegram_groups": [
+            "superalgostrading",
+            "superalgoscommunity",
+            "superalgossupport"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb88b337c153e82c864dcbc823b4450854e97c064",
@@ -77956,7 +77966,12 @@
         },
         "web_domains": [
             "inkzny.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "Orders@inkzny.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa478c2975ab1ea89e8196811f51a7b7ade33eb11",
@@ -78046,7 +78061,9 @@
         },
         "web_domains": [
             "sydnord.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4c8e461f90886bd15231d4897e40f6633550e8b7",
@@ -78075,7 +78092,8 @@
         },
         "web_domains": [
             "dexscreener.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd04772a2cbe85a8851714d428ff1c7344965325a",
