@@ -82857,7 +82857,9 @@
         },
         "web_domains": [
             "oasis-database.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0bca4184c9eb88347452326fd66eaf3ef987f359",
@@ -82870,7 +82872,8 @@
         ],
         "holders": {
             "ETH": 48
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2c184b2ca7495b1a94deb466b3904cc904a3749a",
@@ -82885,7 +82888,8 @@
         ],
         "holders": {
             "ETH": 204
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xcbed28c7fb3bbb57dd050b0a9ed2933125831510",
@@ -82899,7 +82903,11 @@
         ],
         "holders": {
             "ETH": 143
-        }
+        },
+        "emails": [
+            "info@zkdt.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xff3f8227c3b0241848e1420ec77d61aee2ad5f67",
@@ -82912,7 +82920,8 @@
         ],
         "holders": {
             "ETH": 236
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0cb3db489c7d17491d8a252cdf9d90d479874e59",
@@ -82927,7 +82936,8 @@
         ],
         "holders": {
             "ETH": 12
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x71c639e6869367bc3dfb6dff403e527048fc286c",
