@@ -82406,14 +82406,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 18
-        }
+        },
+        "web_domains": [
+            "ham.finance"
+        ]
     },
     {
         "contract_address": "0x46ffcc4500769c3dcdbf1ce0ec2723ac57d67120",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "firegoatranch.com"
+        ]
     },
     {
         "contract_address": "0x6b306d7fc73ad4df4eaef8194e417e2bf7088b46",
