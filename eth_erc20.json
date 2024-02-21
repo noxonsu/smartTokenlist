@@ -82538,5 +82538,113 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x5cc5e64ab764a0f1e97f23984e20fd4528356a6a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 618
+        }
+    },
+    {
+        "contract_address": "0x2b00ac9dadfb2fbad02a924e9ff4b9bbf4689574",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Gemmacoinethereum"
+        ],
+        "holders": {
+            "ETH": 329
+        }
+    },
+    {
+        "contract_address": "0xa0fd6144ab4c98d576345433e798d1b2c08c893b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ShowOffYourSize.com"
+        ],
+        "telegram_groups": [
+            "MYINCHES"
+        ],
+        "holders": {
+            "ETH": 78
+        }
+    },
+    {
+        "contract_address": "0xab44be6168205c4f8182231408f80066d3965867",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "CAVA_AI"
+        ],
+        "holders": {
+            "ETH": 51
+        }
+    },
+    {
+        "contract_address": "0xb51feb12da1fdac134dc4befe00a533416ebb9c3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "arcticai.pro"
+        ],
+        "telegram_groups": [
+            "arcticai"
+        ],
+        "holders": {
+            "ETH": 251
+        }
+    },
+    {
+        "contract_address": "0x64d2bed713e8ed556a4117853ca5d18481a3dd97",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 152
+        }
+    },
+    {
+        "contract_address": "0xfa99e789aa0164a7eac475f3eda666be1d0669f2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 766
+        }
+    },
+    {
+        "contract_address": "0x866f8a50a64e68ca66e97e032c5da99538b3f942",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 634
+        }
+    },
+    {
+        "contract_address": "0x108a850856db3f85d0269a2693d896b394c80325",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3435
+        }
+    },
+    {
+        "contract_address": "0x0cf836ef828358a7758db87eaecaeb75c4112a5e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ainuerc.com"
+        ],
+        "telegram_groups": [
+            "ainuerc"
+        ],
+        "holders": {
+            "ETH": 95
+        }
+    },
+    {
+        "contract_address": "0x2857fbb8659cfd16caded5cddc4207a7ba8e284e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hatsunemikuai.technology",
+            "docs.hatsunemikuai.technology"
+        ],
+        "telegram_groups": [
+            "HatsuneMiku_AI_official"
+        ],
+        "holders": {
+            "ETH": 66
+        }
     }
 ]
