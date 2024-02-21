@@ -82487,7 +82487,9 @@
         },
         "web_domains": [
             "bitcoinethereumnews.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xab49a792e55a0cbb83048a77cb1bd6f0b399a70b",
@@ -82500,7 +82502,8 @@
         ],
         "holders": {
             "ETH": 82
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4ab77527dcdb2aa52922f79dcb59893b7c5bc722",
@@ -82509,11 +82512,13 @@
             "insiderai.site"
         ],
         "telegram_groups": [
-            "InsiderAIETH"
+            "InsiderAIETH",
+            "Insider_AI_bot"
         ],
         "holders": {
             "ETH": 26
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x995636c00b520136adb3a65313ca4e946ac3156e",
@@ -82530,6 +82535,8 @@
         },
         "web_domains": [
             "ash-hq.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
