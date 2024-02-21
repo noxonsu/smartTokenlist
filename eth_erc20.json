@@ -78103,7 +78103,9 @@
         },
         "web_domains": [
             "samgpt.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x33216b9bb0f2d03083a721ce603ec34741b9555c",
@@ -78272,7 +78274,9 @@
         },
         "web_domains": [
             "nium.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa98d758e228622f8fd81135c6e172261a87804e2",
@@ -78282,7 +78286,11 @@
         },
         "web_domains": [
             "mumu-the-bull.com"
-        ]
+        ],
+        "telegram_groups": [
+            "MumuTheBull"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7bc5bc184e4618f2e70ea300e7c204c577eb3ebe",
@@ -78316,7 +78324,11 @@
         },
         "web_domains": [
             "babyspyro.vip"
-        ]
+        ],
+        "telegram_groups": [
+            "babyspyro"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3d34a5b3db0876bda2a6a34a00e4fbd83ff44b88",
@@ -78422,7 +78434,9 @@
         },
         "web_domains": [
             "shibandco.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd12571c0fb8b9a2d6c373f02fa50522d7df4af7f",
@@ -78452,7 +78466,9 @@
         },
         "web_domains": [
             "concreteconcrete.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3b3cb8c1184e5aa2bb7a4cbf63f5cec8c30c1c8b",
