@@ -81802,7 +81802,11 @@
         ],
         "holders": {
             "ETH": 140
-        }
+        },
+        "emails": [
+            "admin@arsenic.network"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf3ea5034ba2733aa8e6038be643bd0bb7a5d13d5",
@@ -81813,7 +81817,9 @@
         ],
         "holders": {
             "ETH": 389
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x66ba6bc10aa1b414af363a783e7cfaf6335184c9",
@@ -81829,17 +81835,12 @@
             "olympus404.xyz"
         ],
         "telegram_groups": [
-            "Olympus404Portal",
-            "Olympus404Portal",
-            "Olympus404Portal",
-            "Olympus404Portal",
-            "Olympus404Portal",
-            "Olympus404Portal",
             "Olympus404Portal"
         ],
         "holders": {
             "ETH": 90
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6bc9f629c0a2a177479170825e3385ee6c4b0468",
@@ -81859,7 +81860,8 @@
         ],
         "holders": {
             "ETH": 69
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9e8ce0b2a5e3f6c1c78b77bddeaba4de101bbffa",
@@ -81868,11 +81870,13 @@
             "shiboshiworld.com"
         ],
         "telegram_groups": [
-            "shibioshiworld"
+            "shibioshiworld",
+            "shiboshiworld"
         ],
         "holders": {
             "ETH": 113
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5de869e3e62b0fb2c15573246ba3bb3fd97a2275",
@@ -81893,7 +81897,8 @@
         ],
         "holders": {
             "ETH": 150
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x66941924c3fb536abb76ba4567327e102230ff14",
