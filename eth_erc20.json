@@ -82471,5 +82471,59 @@
             "ETH": 295
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x7b97615c8efab5d7225e0fecd1fc86f12c892e6c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xdc02a292c09446832b229223a364d1a067c4bb6f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xab49a792e55a0cbb83048a77cb1bd6f0b399a70b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.redpepe.site"
+        ],
+        "telegram_groups": [
+            "redpepe_portal"
+        ],
+        "holders": {
+            "ETH": 82
+        }
+    },
+    {
+        "contract_address": "0x4ab77527dcdb2aa52922f79dcb59893b7c5bc722",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "insiderai.site"
+        ],
+        "telegram_groups": [
+            "InsiderAIETH"
+        ],
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0x995636c00b520136adb3a65313ca4e946ac3156e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 178
+        }
+    },
+    {
+        "contract_address": "0x003ab0a003c79cb496d9c82ac5bef3d8f84b8015",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 52
+        }
     }
 ]
