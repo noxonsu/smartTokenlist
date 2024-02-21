@@ -79358,7 +79358,11 @@
         },
         "web_domains": [
             "defiearns.com"
-        ]
+        ],
+        "telegram_groups": [
+            "defiearns_chat"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x65ca7dc5cb661fc58de57b1e1af404649a27ad35",
@@ -79396,7 +79400,9 @@
         },
         "web_domains": [
             "pepe.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd09bb70089c6baa474b9f0dfe6156beeae0bc4b4",
@@ -79437,7 +79443,9 @@
         },
         "web_domains": [
             "verkle.info"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7ad9c4432abb0be2b9af840e48e7e7996399f387",
@@ -79557,7 +79565,12 @@
         },
         "web_domains": [
             "hotkeyswap.com"
-        ]
+        ],
+        "telegram_groups": [
+            "HotKeySwap",
+            "HotKeySwapBot"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdadc82e26b3739750e036dfd9defd3ed459b877a",
@@ -79567,7 +79580,11 @@
         },
         "web_domains": [
             "sommelier.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "getsomm"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x54fa79be66c2c76f2f4942e1f387d6512040e1e0",
@@ -79591,7 +79608,9 @@
         },
         "web_domains": [
             "lebronjames.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x35828ed60d3a36f464038fca58a0c5896f400389",
