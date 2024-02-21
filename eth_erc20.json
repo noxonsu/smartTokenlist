@@ -78516,7 +78516,9 @@
         },
         "web_domains": [
             "metaverseconvergence.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x388fc8727a8f7b7574b971fcf474c7624124e0ec",
@@ -78544,7 +78546,9 @@
         },
         "web_domains": [
             "redpandalab.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf5f83d26f31ac7cb48da4df8201a4ff9c7f8df80",
@@ -78595,7 +78599,9 @@
         },
         "web_domains": [
             "witness.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xcf8ec261d5fa89be76403b65053c970b320ca34d",
@@ -78633,7 +78639,9 @@
         },
         "web_domains": [
             "nordicai.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd20523b39faf1d6e9023a4d6085f87b7b0de7926",
@@ -78696,7 +78704,9 @@
         },
         "web_domains": [
             "shincoin.gitbook.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x47082a75bc16313ef92cfaca1feb885659c3c9b5",
@@ -78723,7 +78733,8 @@
         },
         "web_domains": [
             "thesaladlab.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5799ad201261ededf9ef3c47f1b3a1b145df6288",
