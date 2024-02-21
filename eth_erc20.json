@@ -82261,7 +82261,10 @@
         ],
         "holders": {
             "ETH": 15
-        }
+        },
+        "web_domains": [
+            "gettrumpsneakers.com"
+        ]
     },
     {
         "contract_address": "0x8c1b561004815b1259c18329f87794b9985cb3ac",
