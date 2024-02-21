@@ -82685,7 +82685,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 210
-        }
+        },
+        "web_domains": [
+            "otxexchange.com"
+        ]
     },
     {
         "contract_address": "0xeeee2a2e650697d2a8e8bc990c2f3d04203be06f",
