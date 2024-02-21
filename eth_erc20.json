@@ -82567,7 +82567,8 @@
         ],
         "holders": {
             "ETH": 78
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xab44be6168205c4f8182231408f80066d3965867",
@@ -82580,7 +82581,8 @@
         },
         "web_domains": [
             "cava.bandcamp.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb51feb12da1fdac134dc4befe00a533416ebb9c3",
@@ -82593,7 +82595,8 @@
         ],
         "holders": {
             "ETH": 251
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x64d2bed713e8ed556a4117853ca5d18481a3dd97",
@@ -82603,7 +82606,12 @@
         },
         "web_domains": [
             "dfusetech.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "info@dfusetech.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xfa99e789aa0164a7eac475f3eda666be1d0669f2",
@@ -82637,7 +82645,8 @@
         ],
         "holders": {
             "ETH": 95
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2857fbb8659cfd16caded5cddc4207a7ba8e284e",
@@ -82651,6 +82660,7 @@
         ],
         "holders": {
             "ETH": 66
-        }
+        },
+        "p6": true
     }
 ]
