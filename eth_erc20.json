@@ -79868,7 +79868,9 @@
         },
         "web_domains": [
             "siren.fi"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x13339fd07934cd674269726edf3b5ccee9dd93de",
@@ -79885,7 +79887,9 @@
         },
         "web_domains": [
             "goose.ai"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8b8aa7777e18408c07b0ed52ca3dd5bdab34eb7e",
@@ -79926,7 +79930,12 @@
         },
         "web_domains": [
             "pxpx.co.uk"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "hello@pxpx.co.uk"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0dd3450b9029a235473d756a65771a2ed4eb7c03",
@@ -79980,7 +79989,9 @@
         },
         "web_domains": [
             "ordifi.xyz"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc1f0d29f2fb038edc7e1aa55a3c1dbfac2ed177e",
@@ -80444,7 +80455,9 @@
         },
         "web_domains": [
             "nestwatch.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x04e80db3f84873e4132b221831af1045d27f140f",
@@ -80519,7 +80532,9 @@
         },
         "web_domains": [
             "padz.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xef32a227c3a8ce7371c656f0afef5aec6abeb76f",
