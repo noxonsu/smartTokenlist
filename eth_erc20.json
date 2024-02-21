@@ -80922,8 +80922,8 @@
             "discord.com"
         ],
         "telegram_groups": [
-            "nibirufi",
-            "StarkWareLtd"
+            "StarkWareLtd",
+            "nibirufi"
         ],
         "holders": {
             "ETH": 29
@@ -81250,7 +81250,9 @@
         },
         "web_domains": [
             "coinboom.net"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa4ca122502f818c4e4ad3b5200bfe9ad117496dd",
@@ -81260,7 +81262,9 @@
         },
         "web_domains": [
             "runway-ai.ai"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xaa0bb89429a7e9149c4bd9fb8e382c5cb6b56529",
@@ -81371,8 +81375,8 @@
             "discord.com"
         ],
         "telegram_groups": [
-            "nibirufi",
-            "StarkWareLtd"
+            "StarkWareLtd",
+            "nibirufi"
         ],
         "holders": {
             "ETH": 33
@@ -81473,7 +81477,9 @@
         },
         "web_domains": [
             "bitscrunch.network"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xddf03cc8868b899dcebe20a39c58253a1aae7128",
@@ -81482,11 +81488,13 @@
             "www.businessinsider.com"
         ],
         "telegram_groups": [
-            "Sandor_ERC"
+            "Sandor_ERC",
+            "DandroidEntry"
         ],
         "holders": {
             "ETH": 73
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xbc4efa00117c570eb1865a7e7bab7b4bffdc2265",
@@ -81504,7 +81512,12 @@
         ],
         "holders": {
             "ETH": 140
-        }
+        },
+        "telegram_groups": [
+            "StarkWareLtd",
+            "nibirufi"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x47f7b78436d5d93fa36953fd6540b397d305c0df",
@@ -81519,7 +81532,8 @@
         ],
         "holders": {
             "ETH": 262
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xdafe2b7d99b95b0d4b3ea4eb366643debb1839c6",
