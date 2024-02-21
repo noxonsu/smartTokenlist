@@ -78866,7 +78866,9 @@
         },
         "web_domains": [
             "base.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7c369a33e7d715ab528c2117d7eeea8321bc17a4",
@@ -78876,7 +78878,9 @@
         },
         "web_domains": [
             "aigcchain.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3294395e62f4eb6af3f1fcf89f5602d90fb3ef69",
@@ -78886,7 +78890,9 @@
         },
         "web_domains": [
             "celo.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x497ce58f34605b9944e6b15ecafe6b001206fd25",
@@ -78913,7 +78919,8 @@
         },
         "web_domains": [
             "quadlockcase.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdfb03da57a3c56124c72a47729a1d0ed54d38ff5",
@@ -78976,7 +78983,11 @@
         },
         "web_domains": [
             "compecta.com"
-        ]
+        ],
+        "emails": [
+            "info@compecta.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xfb5c46ff72f5c1aacd1ceb647f560bdcbcd53b56",
@@ -78989,7 +79000,8 @@
         },
         "web_domains": [
             "apespace.io"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc9aacb97068cbcf831c4f8aafcb598e64a33cbe6",
