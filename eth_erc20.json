@@ -81665,7 +81665,11 @@
         ],
         "holders": {
             "ETH": 216
-        }
+        },
+        "emails": [
+            "mail@MultiDexAI.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x85649c0bc71825339e5c265c76569f022b119028",
@@ -81699,7 +81703,11 @@
         ],
         "holders": {
             "ETH": 122
-        }
+        },
+        "emails": [
+            "soratwoeth@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0b498ff89709d3838a063f1dfa463091f9801c2b",
@@ -81724,12 +81732,12 @@
             "cloudmine404.com"
         ],
         "telegram_groups": [
-            "cloudmine404",
             "cloudmine404"
         ],
         "holders": {
             "ETH": 1
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xaeb3607ec434454ceb308f5cd540875efb54309a",
@@ -81749,7 +81757,8 @@
         ],
         "holders": {
             "ETH": 108
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe08cd119df4c2f147f623559d6985b8afe315873",
@@ -81758,11 +81767,16 @@
             "burningpork.com"
         ],
         "telegram_groups": [
+            "Saqking",
             "BurningPork"
         ],
         "holders": {
             "ETH": 103
-        }
+        },
+        "emails": [
+            "Team@BurningPork.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb5af758a26cbbdec29e6e53c5dcd9d85369f49d2",
@@ -81772,7 +81786,9 @@
         },
         "web_domains": [
             "promoplace.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7dbd7a3935c6f8024127ddf462cba9f849edc660",
