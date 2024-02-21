@@ -82662,5 +82662,67 @@
             "ETH": 66
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x7068263eda099fb93bb3215c05e728c0b54b3137",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2818
+        }
+    },
+    {
+        "contract_address": "0xc9c23f2bba3b8618fb163fbd93561e5f78db2e88",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "kektoken.com"
+        ],
+        "holders": {
+            "ETH": 64
+        }
+    },
+    {
+        "contract_address": "0x7717f2828fe4dac8558d23ee4cdfed9544e9321f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 210
+        }
+    },
+    {
+        "contract_address": "0xeeee2a2e650697d2a8e8bc990c2f3d04203be06f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2037
+        }
+    },
+    {
+        "contract_address": "0x2a2a4b224cd91272a731a3587736c16827c56c6e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 99
+        }
+    },
+    {
+        "contract_address": "0x79349edd0b8e83ffaa1af2e6ba0c8ce87731c267",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "WcdonaldsCoin"
+        ],
+        "holders": {
+            "ETH": 188
+        }
+    },
+    {
+        "contract_address": "0x7a65cb87f596caf31a4932f074c59c0592be77d7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4498
+        }
+    },
+    {
+        "contract_address": "0x66e11bdd4a80c46756458c6a8cedfb538977b67e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 87
+        }
     }
 ]
