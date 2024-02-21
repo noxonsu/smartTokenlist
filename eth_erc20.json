@@ -82765,7 +82765,8 @@
         ],
         "holders": {
             "ETH": 28
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xdd159ed4f6b6e597f662e3783f95a6203c531a6b",
@@ -82779,7 +82780,11 @@
         ],
         "holders": {
             "ETH": 71
-        }
+        },
+        "emails": [
+            "OlympusAiTokenERC@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x330cfd12e0e97b0adf46158d2a81e8bd2985c6cb",
@@ -82804,7 +82809,9 @@
         ],
         "holders": {
             "ETH": 384
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x25e28da668dc3c85936d49a57bb17e6786d5de71",
@@ -82824,7 +82831,8 @@
         ],
         "holders": {
             "ETH": 99
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8dce83eca4af45dbe618da1779f9aaca43201084",
@@ -82833,10 +82841,12 @@
             "alphakek.ai"
         ],
         "telegram_groups": [
+            "alphakek_bot",
             "alphakek"
         ],
         "holders": {
             "ETH": 187
-        }
+        },
+        "p6": true
     }
 ]
