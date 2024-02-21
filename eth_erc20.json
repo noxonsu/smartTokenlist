@@ -79101,7 +79101,9 @@
         },
         "web_domains": [
             "tensorplex.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3d000462fb9826804a45c0ea869b83b69587f2db",
@@ -79135,7 +79137,9 @@
         },
         "web_domains": [
             "retireoneth.pro"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb192f5a22d01f39811c2f992d403682684130daf",
@@ -79159,7 +79163,9 @@
         },
         "web_domains": [
             "evolutionm.net"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc37d124a616768eea4445b36701b5a6068514250",
@@ -79193,7 +79199,9 @@
         },
         "web_domains": [
             "zuckzuck.land"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe7c495316ebc8a4b83aeaac215a3dd44a0cc8fd9",
@@ -79220,7 +79228,9 @@
         },
         "web_domains": [
             "dive-xtras.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x387100be5d0e44bb2e8f2830e6f63c5828120635",
@@ -79333,7 +79343,12 @@
         },
         "web_domains": [
             "run.ai"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "info@run.ai"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3d229e1b4faab62f621ef2f6a610961f7bd7b23b",
