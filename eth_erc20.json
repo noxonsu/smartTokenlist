@@ -82125,21 +82125,30 @@
         ],
         "holders": {
             "ETH": 299
-        }
+        },
+        "web_domains": [
+            "boximator.github.io"
+        ]
     },
     {
         "contract_address": "0xa660de6602e455134b737c460b1e03790b1bd184",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 297
-        }
+        },
+        "web_domains": [
+            "streamr.network"
+        ]
     },
     {
         "contract_address": "0xb7b4ce7e7a896342d5987ab2e40cb10fec94fce8",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "stkwallet.io"
+        ]
     },
     {
         "contract_address": "0x47cd7e91c3cbaaf266369fe8518345fc4fc12935",
@@ -82153,14 +82162,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 270
-        }
+        },
+        "web_domains": [
+            "isme.is"
+        ]
     },
     {
         "contract_address": "0x19373ecbb4b8cc2253d70f2a246fa299303227ba",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "orchai.io"
+        ]
     },
     {
         "contract_address": "0x2888e1cc418cce7757034b638a348d1cd117bd96",
