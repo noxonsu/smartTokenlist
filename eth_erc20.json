@@ -81928,7 +81928,11 @@
         },
         "web_domains": [
             "sakamotoneko.vip"
-        ]
+        ],
+        "telegram_groups": [
+            "sakamotoneko_eth"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbcb02fd634bf310d7987867f82e5cf17d61d1df8",
@@ -81939,7 +81943,11 @@
         ],
         "holders": {
             "ETH": 184
-        }
+        },
+        "telegram_groups": [
+            "UWU420ENTRY"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb17d69c91135516b0256c67e8bd32cd238b56161",
@@ -81962,7 +81970,8 @@
         ],
         "holders": {
             "ETH": 63
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa5870e60c6ba8f6f0a281d9bae858fd6f348c1e4",
@@ -81980,7 +81989,15 @@
         ],
         "holders": {
             "ETH": 168
-        }
+        },
+        "telegram_groups": [
+            "bakeyour404",
+            "Bakery404_bot"
+        ],
+        "emails": [
+            "404bakeryeth@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x81f30871b5e6e3d11d3ab9aac4d5b5ecdee9e48c",
@@ -81990,7 +82007,11 @@
         },
         "web_domains": [
             "komodoplatform.com"
-        ]
+        ],
+        "telegram_groups": [
+            "KomodoPlatform_Official"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf9c8daf65c4aef481a219174f3bed129d684d241",
@@ -82007,7 +82028,9 @@
         },
         "web_domains": [
             "bachinthedark.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0d0161da562e9338af273336b399138eb6424279",
