@@ -82678,7 +82678,9 @@
         ],
         "holders": {
             "ETH": 64
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7717f2828fe4dac8558d23ee4cdfed9544e9321f",
@@ -82688,7 +82690,14 @@
         },
         "web_domains": [
             "otxexchange.com"
-        ]
+        ],
+        "telegram_groups": [
+            "MillionMoneyWinners"
+        ],
+        "emails": [
+            "opentradeexchange@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xeeee2a2e650697d2a8e8bc990c2f3d04203be06f",
