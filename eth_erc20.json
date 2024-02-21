@@ -82854,7 +82854,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 143
-        }
+        },
+        "web_domains": [
+            "oasis-database.org"
+        ]
     },
     {
         "contract_address": "0x0bca4184c9eb88347452326fd66eaf3ef987f359",
