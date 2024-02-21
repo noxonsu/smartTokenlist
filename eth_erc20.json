@@ -82736,5 +82736,107 @@
         "holders": {
             "ETH": 87
         }
+    },
+    {
+        "contract_address": "0x167478921b907422f8e88b43c4af2b8bea278d3a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 27
+        }
+    },
+    {
+        "contract_address": "0x553afe6468949e0685959022217336717df5fbe8",
+        "sourceScanned": "processed",
+        "emails": [
+            "chance@utc24.io"
+        ],
+        "holders": {
+            "ETH": 2268
+        }
+    },
+    {
+        "contract_address": "0x8cd2c9f078d147f81ac1fdd55bd62b54699a712c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.videoprismcoin.pro"
+        ],
+        "telegram_groups": [
+            "VideoPrismETH"
+        ],
+        "holders": {
+            "ETH": 28
+        }
+    },
+    {
+        "contract_address": "0xdd159ed4f6b6e597f662e3783f95a6203c531a6b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "olympus-ai.vip"
+        ],
+        "telegram_groups": [
+            "OlympusAiTokenERC",
+            "OlympusAI_BOT"
+        ],
+        "holders": {
+            "ETH": 71
+        }
+    },
+    {
+        "contract_address": "0x330cfd12e0e97b0adf46158d2a81e8bd2985c6cb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x321b133c0564254a8b8c14c7b3683e6b81a646ad",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x08afad29be887b44aead73c4784ca29c15355cb2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "puppyscan.shib.io",
+            "puppyscan.shib.io"
+        ],
+        "holders": {
+            "ETH": 384
+        }
+    },
+    {
+        "contract_address": "0x25e28da668dc3c85936d49a57bb17e6786d5de71",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 23
+        }
+    },
+    {
+        "contract_address": "0x188f5a5d622888d70184d404f425e02d09cb9b3d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "gamifyai.app"
+        ],
+        "telegram_groups": [
+            "GamifyAIOfficial"
+        ],
+        "holders": {
+            "ETH": 99
+        }
+    },
+    {
+        "contract_address": "0x8dce83eca4af45dbe618da1779f9aaca43201084",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "alphakek.ai"
+        ],
+        "telegram_groups": [
+            "alphakek"
+        ],
+        "holders": {
+            "ETH": 187
+        }
     }
 ]
