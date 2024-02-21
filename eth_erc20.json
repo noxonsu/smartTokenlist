@@ -81543,7 +81543,9 @@
         },
         "web_domains": [
             "hkt.co.jp"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd9471f5029bcc420d4c04af88a94f1163b1c7b36",
@@ -81557,7 +81559,8 @@
         ],
         "holders": {
             "ETH": 81
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xaa4e3edb11afa93c41db59842b29de64b72e355b",
@@ -81574,7 +81577,18 @@
         },
         "web_domains": [
             "8bitchain.io"
-        ]
+        ],
+        "telegram_groups": [
+            "jpceo_8Bit",
+            "mr_cryptoin",
+            "Official_8Bitchain",
+            "lovep_8Bit",
+            "upasanasharma1"
+        ],
+        "emails": [
+            "Email Us : admin@8bitchain.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5cac718a3ae330d361e39244bf9e67ab17514ce8",
@@ -81594,7 +81608,8 @@
         ],
         "holders": {
             "ETH": 171
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xba0dda8762c24da9487f5fa026a9b64b695a07ea",
@@ -81604,7 +81619,9 @@
         },
         "web_domains": [
             "0x.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc3fa123e4460bbf9c17012bccb65ecd10c95cd08",
@@ -81629,11 +81646,13 @@
             "forms.gle"
         ],
         "telegram_groups": [
+            "stackset",
             "stackset_chat"
         ],
         "holders": {
             "ETH": 281
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8edc6f7d2f23c10653972e611f707ce0562d61b1",
