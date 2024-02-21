@@ -81700,5 +81700,81 @@
         "holders": {
             "ETH": 59
         }
+    },
+    {
+        "contract_address": "0x817f772398fe3d804ecfd418b944eab7ce662ca3",
+        "sourceScanned": "processed",
+        "emails": [
+            "chance@utc24.io"
+        ],
+        "holders": {
+            "ETH": 983
+        }
+    },
+    {
+        "contract_address": "0x6d5afc1ba192417345cf68c62d81415a536233ef",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 54
+        }
+    },
+    {
+        "contract_address": "0xbcb02fd634bf310d7987867f82e5cf17d61d1df8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "uwu404.com",
+            "uwu404.com"
+        ],
+        "holders": {
+            "ETH": 184
+        }
+    },
+    {
+        "contract_address": "0xb17d69c91135516b0256c67e8bd32cd238b56161",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "GravitasGROK"
+        ],
+        "holders": {
+            "ETH": 1674
+        }
+    },
+    {
+        "contract_address": "0x30533f2b25bd52422d9992513826eb7826aedfab",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "0xportfolioai.com"
+        ],
+        "telegram_groups": [
+            "portfolioaiportal"
+        ],
+        "holders": {
+            "ETH": 63
+        }
+    },
+    {
+        "contract_address": "0xa5870e60c6ba8f6f0a281d9bae858fd6f348c1e4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 158
+        }
+    },
+    {
+        "contract_address": "0x05bd6b9bc125fee6e670420f11d4e1817c0fc132",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bakeyour404.com",
+            "404wheels.xyz"
+        ],
+        "holders": {
+            "ETH": 168
+        }
+    },
+    {
+        "contract_address": "0x81f30871b5e6e3d11d3ab9aac4d5b5ecdee9e48c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
