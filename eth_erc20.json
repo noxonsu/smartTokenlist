@@ -82577,7 +82577,10 @@
         ],
         "holders": {
             "ETH": 51
-        }
+        },
+        "web_domains": [
+            "cava.bandcamp.com"
+        ]
     },
     {
         "contract_address": "0xb51feb12da1fdac134dc4befe00a533416ebb9c3",
@@ -82597,7 +82600,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 152
-        }
+        },
+        "web_domains": [
+            "dfusetech.com"
+        ]
     },
     {
         "contract_address": "0xfa99e789aa0164a7eac475f3eda666be1d0669f2",
