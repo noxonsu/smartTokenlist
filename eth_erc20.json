@@ -82848,5 +82848,135 @@
             "ETH": 187
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xa74a05b17d72e9b0781d973e7963dfaacd266b94",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 143
+        }
+    },
+    {
+        "contract_address": "0x0bca4184c9eb88347452326fd66eaf3ef987f359",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dontdoubturvibe.com"
+        ],
+        "telegram_groups": [
+            "DontDoubturVibeETH"
+        ],
+        "holders": {
+            "ETH": 48
+        }
+    },
+    {
+        "contract_address": "0x2c184b2ca7495b1a94deb466b3904cc904a3749a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.pixel-art.io",
+            "www.pixel-art.app",
+            "pixelai-1.gitbook.io"
+        ],
+        "telegram_groups": [
+            "pixelaierc"
+        ],
+        "holders": {
+            "ETH": 204
+        }
+    },
+    {
+        "contract_address": "0xcbed28c7fb3bbb57dd050b0a9ed2933125831510",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zkdt.io",
+            "data-trace.gitbook.io"
+        ],
+        "telegram_groups": [
+            "DataTrace_entry"
+        ],
+        "holders": {
+            "ETH": 143
+        }
+    },
+    {
+        "contract_address": "0xff3f8227c3b0241848e1420ec77d61aee2ad5f67",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "txworx.com"
+        ],
+        "telegram_groups": [
+            "txworx"
+        ],
+        "holders": {
+            "ETH": 236
+        }
+    },
+    {
+        "contract_address": "0x0cb3db489c7d17491d8a252cdf9d90d479874e59",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "apexfoundry.io",
+            "apexfoundry.gitbook.io",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "apexfoundry"
+        ],
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0x71c639e6869367bc3dfb6dff403e527048fc286c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0xdf04dee220f78eed0affc7da60ceb225477420ca",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools"
+        ],
+        "holders": {
+            "ETH": 121
+        }
+    },
+    {
+        "contract_address": "0xf2156cdc10cedc0ff49dcbde9cc37ae789df334b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "decentrahub.shop"
+        ],
+        "telegram_groups": [
+            "DecentraHubBot"
+        ],
+        "holders": {
+            "ETH": 122
+        }
+    },
+    {
+        "contract_address": "0xba16bd5c4932c2302c4bd016b5933cd55b1be25b",
+        "sourceScanned": "processed",
+        "emails": [
+            "chance@utc24.io"
+        ],
+        "holders": {
+            "ETH": 51
+        }
+    },
+    {
+        "contract_address": "0x7edf26be312d797e0ebb12660d2932781b2ac114",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "peapods.finance"
+        ],
+        "holders": {
+            "ETH": 6
+        }
     }
 ]
