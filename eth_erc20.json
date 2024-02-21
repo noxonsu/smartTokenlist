@@ -81716,7 +81716,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 54
-        }
+        },
+        "web_domains": [
+            "sakamotoneko.vip"
+        ]
     },
     {
         "contract_address": "0xbcb02fd634bf310d7987867f82e5cf17d61d1df8",
@@ -81775,6 +81778,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "komodoplatform.com"
+        ]
     }
 ]
