@@ -82245,5 +82245,89 @@
         "holders": {
             "ETH": 50
         }
+    },
+    {
+        "contract_address": "0x28c415cff99ff6e92de02865ec867fe3132f753d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 323
+        }
+    },
+    {
+        "contract_address": "0x4cb6654aa16163f7a4e5be0aa4def4084d94535c",
+        "sourceScanned": "processed",
+        "emails": [
+            "gettrumpsneakers@gmail.com"
+        ],
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0x8c1b561004815b1259c18329f87794b9985cb3ac",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "stead.builders"
+        ],
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x507e7faa4989d5bcb939deef93becba40510b345",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pipecoin.vip"
+        ],
+        "holders": {
+            "ETH": 211
+        }
+    },
+    {
+        "contract_address": "0xea3881ffb8c1254f5f07060a6f9490f2616f014c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "flipsora-ai.vip"
+        ],
+        "telegram_groups": [
+            "FlipSora"
+        ],
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0x3f445a52f225a9e12efe926f72c64e6e31c8b419",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "aigferc.com"
+        ],
+        "telegram_groups": [
+            "aigferc"
+        ],
+        "holders": {
+            "ETH": 154
+        }
+    },
+    {
+        "contract_address": "0xc28e931814725bbeb9e670676fabbcb694fe7df2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3767
+        }
+    },
+    {
+        "contract_address": "0xca1262e77fb25c0a4112cfc9bad3ff54f617f2e6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 517
+        }
+    },
+    {
+        "contract_address": "0x62dc4817588d53a056cbbd18231d91ffccd34b2a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2020
+        }
     }
 ]
