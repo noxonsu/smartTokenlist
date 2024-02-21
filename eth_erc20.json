@@ -82040,7 +82040,12 @@
         },
         "web_domains": [
             "hirefirefire.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "info@hirefirefire.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0cc8d1c358c007cac55fa0bb3c750e723538f659",
@@ -82057,7 +82062,9 @@
         },
         "web_domains": [
             "amazon.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0000000016e6cb3038203c1129c8b4aee7af7a11",
@@ -82067,7 +82074,9 @@
         },
         "web_domains": [
             "asymmetry.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x854b816ac312190e2e27bc08f6a9a59661f9416d",
@@ -82080,7 +82089,8 @@
         ],
         "holders": {
             "ETH": 54
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x46014562684c336fe37fd46ac25344bbedf0a5dc",
@@ -82118,7 +82128,8 @@
         ],
         "holders": {
             "ETH": 291
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf689ac2361c89f56df9e07ac4d7dceb28e70d335",
@@ -82159,7 +82170,8 @@
         ],
         "holders": {
             "ETH": 32
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x26d87ad72823c0cf0c308064fb5d8952e710c2a6",
