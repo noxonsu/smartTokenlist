@@ -83514,7 +83514,8 @@
         },
         "web_domains": [
             "wcnuggets.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xfac8fa90d12b1d171a9f3e73b95c8c5845ac57cc",
@@ -83541,7 +83542,11 @@
         },
         "web_domains": [
             "taobank.ai"
-        ]
+        ],
+        "telegram_groups": [
+            "taobnk"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc01aa0fa2d7833c8b7a509503d17fdcb271c4e02",
@@ -83551,7 +83556,9 @@
         ],
         "holders": {
             "ETH": 131
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2d46012abea1a9f1e44af061896f14c30026e230",
@@ -83585,6 +83592,11 @@
         },
         "web_domains": [
             "shimashima.com.mx"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "yumiko10000@gmail.com"
+        ],
+        "p6": true
     }
 ]
