@@ -83763,7 +83763,8 @@
         ],
         "holders": {
             "ETH": 9
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x68d009f251ff3a271477f77acb704c3b0f32a0c0",
@@ -83780,7 +83781,12 @@
         ],
         "holders": {
             "ETH": 130
-        }
+        },
+        "telegram_groups": [],
+        "emails": [
+            "team@ecosapiens.xyz"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3e63694351a6585304d375f773bdf811c8f695ed",
@@ -83794,7 +83800,8 @@
         ],
         "holders": {
             "ETH": 50
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x62e79906569beb077fcf59037a8718cafb07c408",
@@ -83814,7 +83821,8 @@
         ],
         "holders": {
             "ETH": 8
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xaeae882c4ebc5dee91da1b7f37f573528ece4c20",
@@ -83834,11 +83842,12 @@
             "docs.aimoji.tech"
         ],
         "telegram_groups": [
-            "AiMojiToken",
-            "aimoji_bot"
+            "aimoji_bot",
+            "AiMojiToken"
         ],
         "holders": {
             "ETH": 136
-        }
+        },
+        "p6": true
     }
 ]
