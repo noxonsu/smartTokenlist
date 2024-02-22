@@ -83295,7 +83295,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 101
-        }
+        },
+        "web_domains": [
+            "okx.com"
+        ]
     },
     {
         "contract_address": "0x4fabacac8c41466117d6a38f46d08ddd4948a0cb",
