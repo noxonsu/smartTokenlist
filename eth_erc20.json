@@ -83364,5 +83364,120 @@
         "holders": {
             "ETH": 1006
         }
+    },
+    {
+        "contract_address": "0xadf15ec41689fc5b6dca0db7c53c9bfe7981e655",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 125
+        }
+    },
+    {
+        "contract_address": "0x436112aa92ff64e706a18c8a7a025a5f11dea670",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "adamas.exchange",
+            "docs.adamas.exchange"
+        ],
+        "telegram_groups": [
+            "adamas_dex"
+        ],
+        "holders": {
+            "ETH": 63
+        }
+    },
+    {
+        "contract_address": "0xb40ed868f133ad41618ab92b2a04e55b7c0e5678",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x700a5e5e933738358d166572fc553876072aa273",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nyan-cat.vip"
+        ],
+        "telegram_groups": [
+            "NyanCat_Eth"
+        ],
+        "holders": {
+            "ETH": 131
+        }
+    },
+    {
+        "contract_address": "0x527d1363dd4f39d451bf995119287eb30885eee9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.wcdonalds.com"
+        ],
+        "telegram_groups": [
+            "BurgEth"
+        ],
+        "holders": {
+            "ETH": 351
+        }
+    },
+    {
+        "contract_address": "0x481f718cc65fbe5c5e40076ea36d325c5ebc0620",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 35
+        }
+    },
+    {
+        "contract_address": "0x11fc06fa0c57354acb5d8f90bce7cc4f2860a1f2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.wcdonalds.com"
+        ],
+        "telegram_groups": [
+            "WcDIZER3000"
+        ],
+        "holders": {
+            "ETH": 218
+        }
+    },
+    {
+        "contract_address": "0xb3207935ff56120f3499e8ad08461dd403bf16b8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 175
+        }
+    },
+    {
+        "contract_address": "0xa957c958c74fc70e6f21f85caa69f99a85d27f9c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "grimacenft.com"
+        ],
+        "telegram_groups": [
+            "GrimaceCoin_ETH"
+        ],
+        "holders": {
+            "ETH": 636
+        }
+    },
+    {
+        "contract_address": "0x0f552684d5e1448f829a137487d30d8c06a2e5c6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0xf30224eb7104aca47235beb3362e331ece70616a",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Quin_6",
+            "Defi_Owll"
+        ],
+        "emails": [
+            "goncalo.sa@consensys.net"
+        ],
+        "holders": {
+            "ETH": 13
+        }
     }
 ]
