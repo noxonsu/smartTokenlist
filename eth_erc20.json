@@ -83663,5 +83663,83 @@
             "admin@nebleblock.com"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x5cf2d7d3c5baf8057af3beb0c72c62c92780715e",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ShakaCat_ERC"
+        ],
+        "holders": {
+            "ETH": 386
+        }
+    },
+    {
+        "contract_address": "0x7c12ee03b317a3e96196f3f4d899d993d92b58a6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "queenpepicrypto.com"
+        ],
+        "telegram_groups": [
+            "PepiPortal"
+        ],
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0x4e10b9e8d6d7ac33e386fa59ce9fa830924bdb8c",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "GeorgeOrwellErc"
+        ],
+        "holders": {
+            "ETH": 226
+        }
+    },
+    {
+        "contract_address": "0x41472fddbaec17e2a98f125cacf8f76f919ea095",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 56
+        }
+    },
+    {
+        "contract_address": "0xa4e523dfd6e0b1888dab974c324cf6047b9a60ac",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "WOKEcoinethereum"
+        ],
+        "holders": {
+            "ETH": 291
+        }
+    },
+    {
+        "contract_address": "0x3baaef9dd3bd9412d53167854e291dac154d11e1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 268
+        }
+    },
+    {
+        "contract_address": "0xc775c0c30840cb9f51e21061b054ebf1a00acc29",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2734
+        }
+    },
+    {
+        "contract_address": "0x9bea38fea6bf3e297e75a5e33e9ada30467678a3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "iwallet.cc",
+            "docs.iwallet.cc"
+        ],
+        "telegram_groups": [
+            "iWalletProject"
+        ],
+        "holders": {
+            "ETH": 61
+        }
     }
 ]
