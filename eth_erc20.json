@@ -83424,7 +83424,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 35
-        }
+        },
+        "web_domains": [
+            "oursorai.com"
+        ]
     },
     {
         "contract_address": "0x11fc06fa0c57354acb5d8f90bce7cc4f2860a1f2",
@@ -83444,7 +83447,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 175
-        }
+        },
+        "web_domains": [
+            "damm.finance"
+        ]
     },
     {
         "contract_address": "0xa957c958c74fc70e6f21f85caa69f99a85d27f9c",
@@ -83464,7 +83470,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 15
-        }
+        },
+        "web_domains": [
+            "flurry.com"
+        ]
     },
     {
         "contract_address": "0xf30224eb7104aca47235beb3362e331ece70616a",
