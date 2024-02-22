@@ -83153,13 +83153,19 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 147
-        }
+        },
+        "web_domains": [
+            "bitvalve.com"
+        ]
     },
     {
         "contract_address": "0x0a7b89e66a1dc16633abdfd132bae05827d3bfa5",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 17
-        }
+        },
+        "web_domains": [
+            "hibirds.com"
+        ]
     }
 ]
