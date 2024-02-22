@@ -83229,7 +83229,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 44
-        }
+        },
+        "web_domains": [
+            "eth30.io"
+        ]
     },
     {
         "contract_address": "0x5413efac95fe21af9f644c76babbb715a422c10c",
@@ -83250,7 +83253,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 6
-        }
+        },
+        "web_domains": [
+            "opensesamegames.com"
+        ]
     },
     {
         "contract_address": "0xa84c08aacd8e4d0b190a10b92968cab03910dcf9",
