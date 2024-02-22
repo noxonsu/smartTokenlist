@@ -83750,5 +83750,95 @@
             "ETH": 61
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xea406942fd7d751c77b9838530663e1ce5012bfb",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "porke404.com",
+            "airdrop.porke404.com"
+        ],
+        "telegram_groups": [
+            "Porke404"
+        ],
+        "holders": {
+            "ETH": 9
+        }
+    },
+    {
+        "contract_address": "0x68d009f251ff3a271477f77acb704c3b0f32a0c0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 318
+        }
+    },
+    {
+        "contract_address": "0x1bc71108e898586068caba9ee09397a2d275c092",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ecosapiens.xyz"
+        ],
+        "holders": {
+            "ETH": 130
+        }
+    },
+    {
+        "contract_address": "0x3e63694351a6585304d375f773bdf811c8f695ed",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "chowchowerc.com",
+            "chow-chow.gitbook.io"
+        ],
+        "telegram_groups": [
+            "ChowChowP2E"
+        ],
+        "holders": {
+            "ETH": 50
+        }
+    },
+    {
+        "contract_address": "0x62e79906569beb077fcf59037a8718cafb07c408",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x6682ac8aeb5adaf278b1cfbdafa793c7c3a3b11d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "porke404.com"
+        ],
+        "telegram_groups": [
+            "Porke404"
+        ],
+        "holders": {
+            "ETH": 8
+        }
+    },
+    {
+        "contract_address": "0xaeae882c4ebc5dee91da1b7f37f573528ece4c20",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "tpandacoin"
+        ],
+        "holders": {
+            "ETH": 273
+        }
+    },
+    {
+        "contract_address": "0x6ad797b6d00e4b904d3ae7cf8c4209db3c93c8d6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "aimoji.tech",
+            "docs.aimoji.tech"
+        ],
+        "telegram_groups": [
+            "AiMojiToken",
+            "aimoji_bot"
+        ],
+        "holders": {
+            "ETH": 136
+        }
     }
 ]
