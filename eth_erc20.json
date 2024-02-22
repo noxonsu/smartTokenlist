@@ -83502,5 +83502,80 @@
         "holders": {
             "ETH": 13
         }
+    },
+    {
+        "contract_address": "0x1d56dc853e6171dc0e0b25c6bb0e0dc95c32bac8",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Wcnuggets_Erc"
+        ],
+        "holders": {
+            "ETH": 265
+        }
+    },
+    {
+        "contract_address": "0xfac8fa90d12b1d171a9f3e73b95c8c5845ac57cc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xe796202be37c333e5bd079a2d90704cfd20e521c",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "midnighterc"
+        ],
+        "holders": {
+            "ETH": 116
+        }
+    },
+    {
+        "contract_address": "0x95ccffae3eb8767d4a941ec43280961dde89f4de",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 44
+        }
+    },
+    {
+        "contract_address": "0xc01aa0fa2d7833c8b7a509503d17fdcb271c4e02",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.createmytoken.com"
+        ],
+        "holders": {
+            "ETH": 131
+        }
+    },
+    {
+        "contract_address": "0x2d46012abea1a9f1e44af061896f14c30026e230",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 144
+        }
+    },
+    {
+        "contract_address": "0xaa95f26e30001251fb905d264aa7b00ee9df6c18",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "KenduInu"
+        ],
+        "holders": {
+            "ETH": 180
+        }
+    },
+    {
+        "contract_address": "0xc6c289fb51dcc35924604fbbf2f8c2fe9bb0ae29",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x995685218a10795a90d787b999104f9cb707f45d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 213
+        }
     }
 ]
