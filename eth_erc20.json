@@ -83849,5 +83849,119 @@
             "ETH": 136
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xdfd422b9f7b6e7082e9ce03529fb63cda3383a92",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "deerc.io"
+        ],
+        "telegram_groups": [
+            "Dee_erc"
+        ],
+        "holders": {
+            "ETH": 74
+        }
+    },
+    {
+        "contract_address": "0xfa816739edaac4ebf329219d4ef575085cc28037",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "0xsearch.gitbook.io",
+            "0xSearch.io",
+            "0xSearch.com",
+            "blockbrowser.io",
+            "blockbrowser.gitbook.io",
+            "coinmarketcap.com",
+            "apps.microsoft.com",
+            "apps.apple.com"
+        ],
+        "telegram_groups": [
+            "TheSearchToken"
+        ],
+        "holders": {
+            "ETH": 200
+        }
+    },
+    {
+        "contract_address": "0x72555cbafc1667bbcc3ffb207ca66200943d4b6d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tokenmint.io"
+        ],
+        "holders": {
+            "ETH": 102
+        }
+    },
+    {
+        "contract_address": "0x935c270b984b631953a858bb28c931a97370754c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xb86f0c45433555119b5fcba43a4b97227a2a6905",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x1253c5a80cb7b52b85ddbde90f24a480b6f5b2e1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x3b0cd416755cb30393afaa8b150d8fd71dacbb1e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.ant.trading"
+        ],
+        "holders": {
+            "ETH": 110
+        }
+    },
+    {
+        "contract_address": "0x02c2e0ecbc2cf313ac0182240b6b05de0c24f987",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "migcoin.xyz"
+        ],
+        "telegram_groups": [
+            "migcoineth"
+        ],
+        "holders": {
+            "ETH": 114
+        }
+    },
+    {
+        "contract_address": "0xda6e8b3ae86e1ef23bcc07e42ca318e0c36d0183",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 156
+        }
+    },
+    {
+        "contract_address": "0xd60abfb751db36514a592963fd71dd50c6cf9ba9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 385
+        }
+    },
+    {
+        "contract_address": "0x6e51293a4adbace0082067312cc0110e7dd33b2e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "spatialsync-ai.tech"
+        ],
+        "telegram_groups": [
+            "spatialsyncai"
+        ],
+        "holders": {
+            "ETH": 217
+        }
     }
 ]
