@@ -31809,7 +31809,14 @@
         ],
         "holders": {
             "ETH": 762
-        }
+        },
+        "telegram_groups": [
+            "PROOFPlatform"
+        ],
+        "emails": [
+            "hi@proofplatform.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab",
@@ -71896,8 +71903,8 @@
             "tokenmint.io"
         ],
         "telegram_groups": [
-            "remilios",
-            "LunaInuERC20"
+            "LunaInuERC20",
+            "remilios"
         ],
         "holders": {
             "ETH": 0
@@ -83212,7 +83219,14 @@
         ],
         "holders": {
             "ETH": 423
-        }
+        },
+        "telegram_groups": [
+            "PROOFPlatform"
+        ],
+        "emails": [
+            "hi@proofplatform.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x15ee3f09712f4715904e1923c1ad504a673e88ac",
@@ -83222,7 +83236,12 @@
         ],
         "holders": {
             "ETH": 166
-        }
+        },
+        "telegram_groups": [
+            "LunaInuERC20",
+            "remilios"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf6931c816f2ec82295c9e058d27fad008ee816b7",
@@ -83232,7 +83251,11 @@
         },
         "web_domains": [
             "eth30.io"
-        ]
+        ],
+        "telegram_groups": [
+            "eth30_cc"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5413efac95fe21af9f644c76babbb715a422c10c",
@@ -83256,7 +83279,9 @@
         },
         "web_domains": [
             "opensesamegames.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa84c08aacd8e4d0b190a10b92968cab03910dcf9",
