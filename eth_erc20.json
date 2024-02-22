@@ -83298,7 +83298,11 @@
         },
         "web_domains": [
             "okx.com"
-        ]
+        ],
+        "telegram_groups": [
+            "OKXOfficial_English"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4fabacac8c41466117d6a38f46d08ddd4948a0cb",
@@ -83308,7 +83312,9 @@
         ],
         "holders": {
             "ETH": 275
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc83f571b384fd089aa08aaf3ff8dc0a5af45df2e",
@@ -83342,7 +83348,8 @@
         ],
         "holders": {
             "ETH": 364
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xcb19f6828bc3203b1f133783a16e7d77671660bd",
