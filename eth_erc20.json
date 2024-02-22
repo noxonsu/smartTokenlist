@@ -83604,7 +83604,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 11
-        }
+        },
+        "web_domains": [
+            "taiko.xyz"
+        ]
     },
     {
         "contract_address": "0x26ce7a755b82568f9e5bf0aa7721118ca9906a8a",
