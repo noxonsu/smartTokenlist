@@ -79555,7 +79555,9 @@
         ],
         "holders": {
             "ETH": 2219
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x018dd3a0dd7f213cc822076b3800816d3ce1ed86",
@@ -83112,7 +83114,9 @@
         ],
         "holders": {
             "ETH": 137
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2c6c138ac0bc039687cf125d8a6573ff7229f1f2",
@@ -83125,7 +83129,11 @@
         ],
         "holders": {
             "ETH": 53
-        }
+        },
+        "emails": [
+            "info@efficientai.energy"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5cb12d56f5346a016dbba8ca90635d82e6d1bcea",
@@ -83156,7 +83164,9 @@
         },
         "web_domains": [
             "bitvalve.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0a7b89e66a1dc16633abdfd132bae05827d3bfa5",
@@ -83166,6 +83176,8 @@
         },
         "web_domains": [
             "hibirds.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
