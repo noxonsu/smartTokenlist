@@ -83607,7 +83607,9 @@
         },
         "web_domains": [
             "taiko.xyz"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x26ce7a755b82568f9e5bf0aa7721118ca9906a8a",
@@ -83627,7 +83629,8 @@
         ],
         "holders": {
             "ETH": 128
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd3f77ccb78cce203e7fdde065d8ae1b9ebc7da77",
@@ -83655,6 +83658,10 @@
         ],
         "holders": {
             "ETH": 264
-        }
+        },
+        "emails": [
+            "admin@nebleblock.com"
+        ],
+        "p6": true
     }
 ]
