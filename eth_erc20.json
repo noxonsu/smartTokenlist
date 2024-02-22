@@ -83511,7 +83511,10 @@
         ],
         "holders": {
             "ETH": 265
-        }
+        },
+        "web_domains": [
+            "wcnuggets.com"
+        ]
     },
     {
         "contract_address": "0xfac8fa90d12b1d171a9f3e73b95c8c5845ac57cc",
@@ -83535,7 +83538,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 44
-        }
+        },
+        "web_domains": [
+            "taobank.ai"
+        ]
     },
     {
         "contract_address": "0xc01aa0fa2d7833c8b7a509503d17fdcb271c4e02",
@@ -83576,6 +83582,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 213
-        }
+        },
+        "web_domains": [
+            "shimashima.com.mx"
+        ]
     }
 ]
