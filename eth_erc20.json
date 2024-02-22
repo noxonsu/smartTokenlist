@@ -83289,5 +83289,70 @@
         "holders": {
             "ETH": 286
         }
+    },
+    {
+        "contract_address": "0x1c4152a840db73a8d4fa89f83d26e43629b8e14b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 101
+        }
+    },
+    {
+        "contract_address": "0x4fabacac8c41466117d6a38f46d08ddd4948a0cb",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "developer.offchainlabs.com"
+        ],
+        "holders": {
+            "ETH": 275
+        }
+    },
+    {
+        "contract_address": "0xc83f571b384fd089aa08aaf3ff8dc0a5af45df2e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 266
+        }
+    },
+    {
+        "contract_address": "0xa965446177de2bd68e38e472ad143cfdf4efcbad",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 423
+        }
+    },
+    {
+        "contract_address": "0x19d97d8fa813ee2f51ad4b4e04ea08baf4dffc28",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2253
+        }
+    },
+    {
+        "contract_address": "0x3c1ed68521c9f1ccb13c12a97c71f3f29a987d9e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nvidiameme.com"
+        ],
+        "telegram_groups": [
+            "Nvidia_Erc"
+        ],
+        "holders": {
+            "ETH": 364
+        }
+    },
+    {
+        "contract_address": "0xcb19f6828bc3203b1f133783a16e7d77671660bd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 695
+        }
+    },
+    {
+        "contract_address": "0xa68fcae7937808f83650e58ed53b19754d3a3e56",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1006
+        }
     }
 ]
