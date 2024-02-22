@@ -71903,8 +71903,8 @@
             "tokenmint.io"
         ],
         "telegram_groups": [
-            "LunaInuERC20",
-            "remilios"
+            "remilios",
+            "LunaInuERC20"
         ],
         "holders": {
             "ETH": 0
@@ -83238,8 +83238,8 @@
             "ETH": 166
         },
         "telegram_groups": [
-            "LunaInuERC20",
-            "remilios"
+            "remilios",
+            "LunaInuERC20"
         ],
         "p6": true
     },
@@ -83861,7 +83861,8 @@
         ],
         "holders": {
             "ETH": 74
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xfa816739edaac4ebf329219d4ef575085cc28037",
@@ -83881,7 +83882,8 @@
         ],
         "holders": {
             "ETH": 200
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x72555cbafc1667bbcc3ffb207ca66200943d4b6d",
@@ -83891,7 +83893,12 @@
         ],
         "holders": {
             "ETH": 102
-        }
+        },
+        "telegram_groups": [
+            "remilios",
+            "LunaInuERC20"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x935c270b984b631953a858bb28c931a97370754c",
@@ -83922,7 +83929,11 @@
         ],
         "holders": {
             "ETH": 110
-        }
+        },
+        "telegram_groups": [
+            "ANTSONCHAIN"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x02c2e0ecbc2cf313ac0182240b6b05de0c24f987",
@@ -83935,7 +83946,11 @@
         ],
         "holders": {
             "ETH": 114
-        }
+        },
+        "emails": [
+            "hi@migcoin.xyz"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xda6e8b3ae86e1ef23bcc07e42ca318e0c36d0183",
@@ -83962,6 +83977,7 @@
         ],
         "holders": {
             "ETH": 217
-        }
+        },
+        "p6": true
     }
 ]
