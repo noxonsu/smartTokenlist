@@ -84848,5 +84848,147 @@
             "ETH": 81
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x3a1069c675f870e0c426364f65037e9e3febdfa9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wolfpackcoin.com"
+        ],
+        "telegram_groups": [
+            "TheWolfpackCoin"
+        ],
+        "holders": {
+            "ETH": 408
+        }
+    },
+    {
+        "contract_address": "0x91b03836759a83be76f4a9117823b6377049fe55",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "aladdin-eth.xyz"
+        ],
+        "telegram_groups": [
+            "Aladdin_Portal"
+        ],
+        "holders": {
+            "ETH": 43
+        }
+    },
+    {
+        "contract_address": "0xc3ddb85a92a38e05d31061c842f8d8d9fcd4478d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 418
+        }
+    },
+    {
+        "contract_address": "0x71eeba415a523f5c952cc2f06361d5443545ad28",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3282
+        }
+    },
+    {
+        "contract_address": "0x66ca02e4f3c5b09e7d2a0e901323e72b5dbf906d",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "swiftprotocolerc"
+        ],
+        "holders": {
+            "ETH": 87
+        }
+    },
+    {
+        "contract_address": "0xde1548f52d5f64b09fb1e1bfb2bf8469dc68df0c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "stubbsai.pro"
+        ],
+        "telegram_groups": [
+            "StubbsAI"
+        ],
+        "holders": {
+            "ETH": 153
+        }
+    },
+    {
+        "contract_address": "0x73f442ddcd18bd372f7cd4dd2a836c8c716a247a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0xb617965329a84704c32025ad63b94f03619c150a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "elonaiofficial.com"
+        ],
+        "telegram_groups": [
+            "ElonAiOfficiaI",
+            "ElonVoiceAIBot"
+        ],
+        "holders": {
+            "ETH": 118
+        }
+    },
+    {
+        "contract_address": "0xe39d3febcb0c040bed66a03a237289a09bbd911f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.open-hi.org"
+        ],
+        "telegram_groups": [
+            "HI_ENTRY"
+        ],
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0x9985152bdedc08b7a3c1108122ebb0cc62e0a13f",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "emoticoin_io"
+        ],
+        "holders": {
+            "ETH": 576
+        }
+    },
+    {
+        "contract_address": "0x20f031e2eca9e9247eb8c57bab5db9a1daa9c5d1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "piuai.io"
+        ],
+        "telegram_groups": [
+            "piuaibot",
+            "piuai_bot"
+        ],
+        "holders": {
+            "ETH": 291
+        }
+    },
+    {
+        "contract_address": "0xd32cb863c00f9b28fadaebfbc478f734da2ff062",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 36
+        }
+    },
+    {
+        "contract_address": "0xed7d7c476e12b880f3a7e778ff86edb15a810ff6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0xe7eaec9bca79d537539c00c58ae93117fb7280b9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1014
+        }
     }
 ]
