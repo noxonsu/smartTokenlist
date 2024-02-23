@@ -84575,5 +84575,70 @@
             "info@gritcycle.com"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0xa738dc8999ee39e3447d2e5f4ab55a432dbd95b5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "chimpfinance.xyz"
+        ],
+        "telegram_groups": [
+            "chimp_finance"
+        ],
+        "holders": {
+            "ETH": 56
+        }
+    },
+    {
+        "contract_address": "0x38ab58fb2388cc9e7cb1d08b627aadf334c0f511",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wwwai.io"
+        ],
+        "telegram_groups": [
+            "WorldWideWebAI"
+        ],
+        "holders": {
+            "ETH": 28
+        }
+    },
+    {
+        "contract_address": "0xfccb9288bf2a583b918e4ea810d8a75563404b21",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0xdfe6e7e18f6cc65fa13c8d8966013d4fda74b6ba",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi"
+        ],
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0xbf65b3fa6c208762ed74e82d4aefcddfd0323648",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x1e8274af74c8ecb9098c9a19b92fff1b702126c2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
