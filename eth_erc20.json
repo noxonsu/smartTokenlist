@@ -84459,7 +84459,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 54
-        }
+        },
+        "web_domains": [
+            "kelvpn.com"
+        ]
     },
     {
         "contract_address": "0x31de6cd5d380b2312887154b42a688c9e64e0406",
@@ -84493,7 +84496,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "ethvm.com"
+        ]
     },
     {
         "contract_address": "0xc5833f7fe80ecda97358d49d5cd1155eef6c12f4",
@@ -84507,7 +84513,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "coinalpha.app"
+        ]
     },
     {
         "contract_address": "0x253ed65fff980aee7e94a0dc57be304426048b35",
@@ -84535,6 +84544,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 37
-        }
+        },
+        "web_domains": [
+            "gritcycle.com"
+        ]
     }
 ]
