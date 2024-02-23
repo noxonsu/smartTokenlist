@@ -84975,12 +84975,14 @@
             "piuai.io"
         ],
         "telegram_groups": [
-            "piuaibot",
-            "piuai_bot"
+            "piuaiart_bot",
+            "piuai_bot",
+            "piuaibot"
         ],
         "holders": {
             "ETH": 291
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd32cb863c00f9b28fadaebfbc478f734da2ff062",
@@ -84990,7 +84992,12 @@
         },
         "web_domains": [
             "stubbs.pro"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "contact@stubbs.pro"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xed7d7c476e12b880f3a7e778ff86edb15a810ff6",
@@ -85000,7 +85007,9 @@
         },
         "web_domains": [
             "celestial.ai"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe7eaec9bca79d537539c00c58ae93117fb7280b9",
