@@ -84154,5 +84154,83 @@
             "xmailserver.org"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x927402ab67c0cda3c187e9dfe34554ac581441f2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "saitabit.com"
+        ],
+        "holders": {
+            "ETH": 2748
+        }
+    },
+    {
+        "contract_address": "0x6a8dee1d929cca0e6f149d2724cfaf013f7422a2",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "GTROK_ERC"
+        ],
+        "holders": {
+            "ETH": 28
+        }
+    },
+    {
+        "contract_address": "0xd78cb66b3affd27569782737fa5b842277e1add7",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "GTROKcoinethereum"
+        ],
+        "holders": {
+            "ETH": 427
+        }
+    },
+    {
+        "contract_address": "0x42f272726687340a914e28ccc5d8cd5680b93a98",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 239
+        }
+    },
+    {
+        "contract_address": "0x1f9ac2c94379ffcca113cb469edc39ad1910a65e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1287
+        }
+    },
+    {
+        "contract_address": "0xc584b0c31ae414fdfbcc2c2bd63479985bb955cc",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.threads.net"
+        ],
+        "telegram_groups": [
+            "MarkZuckerbergERC"
+        ],
+        "holders": {
+            "ETH": 333
+        }
+    },
+    {
+        "contract_address": "0x9fb7b4477576fe5b32be4c1843afb1e55f251b33",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xb2f7eb1f2c37645be61d73953035360e768d81e6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19888
+        }
+    },
+    {
+        "contract_address": "0xa4a539e60364e0fdda7ced68c71f90b02dfa6233",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
