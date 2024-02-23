@@ -84310,7 +84310,8 @@
         },
         "web_domains": [
             "thefour-facedliar.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x60e683c6514edd5f758a55b6f393bebbafaa8d5e",
@@ -84320,7 +84321,9 @@
         },
         "web_domains": [
             "page.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3dfb54eec4be0a19ae14821218cd94e75599c7d5",
@@ -84340,7 +84343,8 @@
         ],
         "holders": {
             "ETH": 45
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xbafdabadcf19d0cfbbe0ab9c69cf050d86ff888c",
@@ -84357,6 +84361,8 @@
         },
         "web_domains": [
             "pulsecoinlist.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
