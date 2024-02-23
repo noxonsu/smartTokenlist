@@ -84754,5 +84754,31 @@
         "holders": {
             "ETH": 48
         }
+    },
+    {
+        "contract_address": "0x93059c8c6f88be1e7f42e410636683c06e86994d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nvidiamoney.xyz"
+        ],
+        "telegram_groups": [
+            "nvidiamoney"
+        ],
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0x62126ec407eae34393ab88b1f5d57e8566e570be",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.virtumate.pro"
+        ],
+        "telegram_groups": [
+            "VirtumatePortal"
+        ],
+        "holders": {
+            "ETH": 134
+        }
     }
 ]
