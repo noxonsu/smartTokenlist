@@ -84117,7 +84117,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 189
-        }
+        },
+        "web_domains": [
+            "safepal.com"
+        ]
     },
     {
         "contract_address": "0x940bdcb99a0ee5fb008a606778ae87ed9789f257",
@@ -84134,6 +84137,9 @@
         ],
         "holders": {
             "ETH": 282
-        }
+        },
+        "web_domains": [
+            "xmailserver.org"
+        ]
     }
 ]
