@@ -84307,14 +84307,20 @@
         ],
         "holders": {
             "ETH": 50
-        }
+        },
+        "web_domains": [
+            "thefour-facedliar.com"
+        ]
     },
     {
         "contract_address": "0x60e683c6514edd5f758a55b6f393bebbafaa8d5e",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 133
-        }
+        },
+        "web_domains": [
+            "page.com"
+        ]
     },
     {
         "contract_address": "0x3dfb54eec4be0a19ae14821218cd94e75599c7d5",
@@ -84348,6 +84354,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 119
-        }
+        },
+        "web_domains": [
+            "pulsecoinlist.com"
+        ]
     }
 ]
