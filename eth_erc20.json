@@ -84390,7 +84390,9 @@
         },
         "web_domains": [
             "crocoinu.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x584ed8c285382e18975d2690ef6653993f52668d",
@@ -84407,6 +84409,8 @@
         },
         "web_domains": [
             "oracle.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
