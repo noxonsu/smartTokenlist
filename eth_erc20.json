@@ -84063,5 +84063,77 @@
             "ETH": 121
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xface851a4921ce59e912d19329929ce6da6eb0c7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 914
+        }
+    },
+    {
+        "contract_address": "0x74e9fee3fcb56bccac22e726cce7a78ca90185e1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 458
+        }
+    },
+    {
+        "contract_address": "0x68a3637ba6e75c0f66b61a42639c4e9fcd3d4824",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3448
+        }
+    },
+    {
+        "contract_address": "0x9bf40cb74ec7b5de2d7ace8ddf43f96724862d2d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.bignewsnetwork.com",
+            "www.clarityx.xyz"
+        ],
+        "telegram_groups": [
+            "clarityxofficialportal"
+        ],
+        "holders": {
+            "ETH": 107
+        }
+    },
+    {
+        "contract_address": "0x290b30198aa05585a029f9d5130af1e59ded7916",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.alch3my.vip"
+        ],
+        "telegram_groups": [
+            "alch3myerc"
+        ],
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0x12e2b8033420270db2f3b328e32370cb5b2ca134",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 189
+        }
+    },
+    {
+        "contract_address": "0x940bdcb99a0ee5fb008a606778ae87ed9789f257",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1840
+        }
+    },
+    {
+        "contract_address": "0xd739de4c22d8f6e9da6a0be4f8800ea9c146cd29",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "XMailErc20"
+        ],
+        "holders": {
+            "ETH": 282
+        }
     }
 ]
