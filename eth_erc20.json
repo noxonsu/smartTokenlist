@@ -83995,7 +83995,9 @@
         },
         "web_domains": [
             "apestake.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd155fa55c40d010335aa152891aa687e2f3090bd",
@@ -84004,11 +84006,17 @@
             "ainalysis.net"
         ],
         "telegram_groups": [
-            "ainalysiseth"
+            "ainalysiseth",
+            "AInalysis_bot",
+            "AInalysisETH"
         ],
         "holders": {
             "ETH": 192
-        }
+        },
+        "emails": [
+            "info@ainalysis.net"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc72a60cc310ee98beab39c1a23ace7d73a248a6a",
@@ -84039,7 +84047,8 @@
         ],
         "holders": {
             "ETH": 1
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa0c7e61ee4faa9fcefdc8e8fc5697d54bf8c8141",
@@ -84052,6 +84061,7 @@
         ],
         "holders": {
             "ETH": 121
-        }
+        },
+        "p6": true
     }
 ]
