@@ -84897,7 +84897,10 @@
         ],
         "holders": {
             "ETH": 87
-        }
+        },
+        "web_domains": [
+            "swiftprotocol.cash"
+        ]
     },
     {
         "contract_address": "0xde1548f52d5f64b09fb1e1bfb2bf8469dc68df0c",
@@ -84975,14 +84978,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 36
-        }
+        },
+        "web_domains": [
+            "stubbs.pro"
+        ]
     },
     {
         "contract_address": "0xed7d7c476e12b880f3a7e778ff86edb15a810ff6",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 3
-        }
+        },
+        "web_domains": [
+            "celestial.ai"
+        ]
     },
     {
         "contract_address": "0xe7eaec9bca79d537539c00c58ae93117fb7280b9",
