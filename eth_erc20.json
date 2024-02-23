@@ -84281,5 +84281,73 @@
         "holders": {
             "ETH": 1304
         }
+    },
+    {
+        "contract_address": "0xdb82c0d91e057e05600c8f8dc836beb41da6df14",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "resources.smarttokenlabs.com"
+        ],
+        "holders": {
+            "ETH": 23818
+        }
+    },
+    {
+        "contract_address": "0x76becdbfd476ea6d7ae6a3c9ccc3b7eb153223e9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1210
+        }
+    },
+    {
+        "contract_address": "0xd5ead79cb83ec7da0e44a47c1f50529fec116eb8",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "liarcomerc20"
+        ],
+        "holders": {
+            "ETH": 50
+        }
+    },
+    {
+        "contract_address": "0x60e683c6514edd5f758a55b6f393bebbafaa8d5e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 133
+        }
+    },
+    {
+        "contract_address": "0x3dfb54eec4be0a19ae14821218cd94e75599c7d5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 44
+        }
+    },
+    {
+        "contract_address": "0x0de1bfcfac62e2ae9036535ee1aa1de96b176375",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "equibliss.xyz"
+        ],
+        "telegram_groups": [
+            "equibliss_official"
+        ],
+        "holders": {
+            "ETH": 45
+        }
+    },
+    {
+        "contract_address": "0xbafdabadcf19d0cfbbe0ab9c69cf050d86ff888c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 392
+        }
+    },
+    {
+        "contract_address": "0xa4cc15eb688de9f5b6a5dec52a9c65c6fc5de0db",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 119
+        }
     }
 ]
