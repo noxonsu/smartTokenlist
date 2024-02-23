@@ -84233,5 +84233,51 @@
         "holders": {
             "ETH": 1
         }
+    },
+    {
+        "contract_address": "0x548e063ce6f3bac31457e4f5b4e2345286274257",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0xd10c17d82053dd0ab65851a9a93a0abe0c4f4794",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x39e1ea9cb87a352cffd43e0b19d573d12cf110cc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x1288242882eb136400a9e68c9fc7c5fc2096ed5f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1066
+        }
+    },
+    {
+        "contract_address": "0x0173661769325565d4f011b2e5cda688689cc87c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blogs.sas.com",
+            "docs.uniswap.org"
+        ],
+        "holders": {
+            "ETH": 163
+        }
+    },
+    {
+        "contract_address": "0x9c2dc0c3cc2badde84b0025cf4df1c5af288d835",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1304
+        }
     }
 ]
