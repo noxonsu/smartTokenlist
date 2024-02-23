@@ -84644,5 +84644,91 @@
         "holders": {
             "ETH": 1
         }
+    },
+    {
+        "contract_address": "0xd8924385cd46e6af6f377871c732bde2f8e9dd18",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pylon-network.org"
+        ],
+        "holders": {
+            "ETH": 94
+        }
+    },
+    {
+        "contract_address": "0x7703c35cffdc5cda8d27aa3df2f9ba6964544b6e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 929
+        }
+    },
+    {
+        "contract_address": "0x7a96126938a37f3e5bf73844aec57d1974d528c6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0x31bbfbb609fb3d9e18ca82b4dadc5e4a28d3267a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xca736a7bf1a1a8ff3276047b8d29b552e6574742",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ask_erc"
+        ],
+        "holders": {
+            "ETH": 263
+        }
+    },
+    {
+        "contract_address": "0x751a734ad666c5f3b4f70cc69b853eff5ae0da00",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 49
+        }
+    },
+    {
+        "contract_address": "0x4dc2fa2bf220cff2d22658d18586251f192d75fd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8
+        }
+    },
+    {
+        "contract_address": "0x286f851b049ccce1419e09b6468dc3297f86a703",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 35
+        }
+    },
+    {
+        "contract_address": "0x23ec9319e6b0832435b52cf667c9c67da659894f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x6f3277ad0782a7da3eb676b85a8346a100bf9c1c",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "DogPadFinance"
+        ],
+        "holders": {
+            "ETH": 2388
+        }
+    },
+    {
+        "contract_address": "0x580d58b34a42d547bd877965b8e3062034502c09",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 48
+        }
     }
 ]
