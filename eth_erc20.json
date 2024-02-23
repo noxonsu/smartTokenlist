@@ -84425,7 +84425,8 @@
         ],
         "holders": {
             "ETH": 62
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9a3e3188380653ff1f93c26292790b27d7488326",
@@ -84438,7 +84439,8 @@
         ],
         "holders": {
             "ETH": 37
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7b89fd2a122ffc6b3a24a255fd4f92bf58c24dc3",
@@ -84452,7 +84454,8 @@
         ],
         "holders": {
             "ETH": 32
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xda6a3876ad460194cd7ba28062d838c98ee2fd1d",
@@ -84462,7 +84465,9 @@
         },
         "web_domains": [
             "kelvpn.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x31de6cd5d380b2312887154b42a688c9e64e0406",
@@ -84475,7 +84480,11 @@
         ],
         "holders": {
             "ETH": 73
-        }
+        },
+        "emails": [
+            "team@x-mailerc.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x341cea5b5206b106f97c74967a68da2f20f1660b",
@@ -84499,7 +84508,11 @@
         },
         "web_domains": [
             "ethvm.com"
-        ]
+        ],
+        "telegram_groups": [
+            "myetherwallet"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc5833f7fe80ecda97358d49d5cd1155eef6c12f4",
