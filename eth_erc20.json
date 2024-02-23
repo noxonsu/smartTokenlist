@@ -84387,7 +84387,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 62
-        }
+        },
+        "web_domains": [
+            "crocoinu.com"
+        ]
     },
     {
         "contract_address": "0x584ed8c285382e18975d2690ef6653993f52668d",
@@ -84401,6 +84404,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 264
-        }
+        },
+        "web_domains": [
+            "oracle.com"
+        ]
     }
 ]
