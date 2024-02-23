@@ -84782,5 +84782,60 @@
             "ETH": 134
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x580e809253cc1405b77d8bb152da2d49dad02e2b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.quantumchainai.org"
+        ],
+        "telegram_groups": [
+            "QuantumChainAI_BOT",
+            "quantumchainai"
+        ],
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0xc2aeedc081d4cb6797a681e9403a82211f97b308",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zeal-ai.net"
+        ],
+        "telegram_groups": [
+            "ZealAiPortal",
+            "ZealAI_bot"
+        ],
+        "holders": {
+            "ETH": 123
+        }
+    },
+    {
+        "contract_address": "0x6bc8a981db2eea5a6384bb990241e49028446524",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "liquid-ai.xyz",
+            "liquidai.gitbook.io"
+        ],
+        "telegram_groups": [
+            "LiquidAIerc"
+        ],
+        "holders": {
+            "ETH": 47
+        }
+    },
+    {
+        "contract_address": "0x4124f0cde61dd2eae4140ca24c73afe817ead6de",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "systemoneup.xyz"
+        ],
+        "telegram_groups": [
+            "oneupsystem"
+        ],
+        "holders": {
+            "ETH": 81
+        }
     }
 ]
