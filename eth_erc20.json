@@ -83992,7 +83992,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 9
-        }
+        },
+        "web_domains": [
+            "apestake.io"
+        ]
     },
     {
         "contract_address": "0xd155fa55c40d010335aa152891aa687e2f3090bd",
