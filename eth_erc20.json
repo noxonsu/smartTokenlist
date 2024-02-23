@@ -84364,5 +84364,43 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x09395a2a58db45db0da254c7eaa5ac469d8bdc85",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2141
+        }
+    },
+    {
+        "contract_address": "0xc4bc9e71f22f54226f3ee38adafd7e9de2f93ee4",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "xmailcoinethereum"
+        ],
+        "holders": {
+            "ETH": 150
+        }
+    },
+    {
+        "contract_address": "0x2b42c3d2fe0db609ea37089e3364a42626717964",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 62
+        }
+    },
+    {
+        "contract_address": "0x584ed8c285382e18975d2690ef6653993f52668d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 127
+        }
+    },
+    {
+        "contract_address": "0x57b49219614859176ddb029298486b6c30193cbd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 264
+        }
     }
 ]
