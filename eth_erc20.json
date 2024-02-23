@@ -84653,7 +84653,12 @@
         ],
         "holders": {
             "ETH": 94
-        }
+        },
+        "telegram_groups": [],
+        "emails": [
+            "info@pylondata.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7703c35cffdc5cda8d27aa3df2f9ba6964544b6e",
@@ -84687,7 +84692,8 @@
         },
         "web_domains": [
             "askamanager.org"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x751a734ad666c5f3b4f70cc69b853eff5ae0da00",
@@ -84697,7 +84703,9 @@
         },
         "web_domains": [
             "uni404.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4dc2fa2bf220cff2d22658d18586251f192d75fd",
@@ -84707,7 +84715,9 @@
         },
         "web_domains": [
             "xuirin.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x286f851b049ccce1419e09b6468dc3297f86a703",
@@ -84717,7 +84727,9 @@
         },
         "web_domains": [
             "hiseals.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x23ec9319e6b0832435b52cf667c9c67da659894f",
