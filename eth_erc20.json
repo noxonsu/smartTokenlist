@@ -84097,7 +84097,8 @@
         ],
         "holders": {
             "ETH": 107
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x290b30198aa05585a029f9d5130af1e59ded7916",
@@ -84110,7 +84111,11 @@
         ],
         "holders": {
             "ETH": 33
-        }
+        },
+        "emails": [
+            " |  contact@alch3my.vip\n          "
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x12e2b8033420270db2f3b328e32370cb5b2ca134",
@@ -84120,7 +84125,14 @@
         },
         "web_domains": [
             "safepal.com"
-        ]
+        ],
+        "telegram_groups": [
+            "SafePal_official"
+        ],
+        "emails": [
+            "Marketing@safepal.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x940bdcb99a0ee5fb008a606778ae87ed9789f257",
@@ -84140,6 +84152,7 @@
         },
         "web_domains": [
             "xmailserver.org"
-        ]
+        ],
+        "p6": true
     }
 ]
