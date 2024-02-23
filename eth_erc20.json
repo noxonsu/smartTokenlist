@@ -84529,7 +84529,15 @@
         },
         "web_domains": [
             "coinalpha.app"
-        ]
+        ],
+        "telegram_groups": [
+            "coinalpha_x100",
+            "onepercentprotocol"
+        ],
+        "emails": [
+            "contact@coinalpha.app"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x253ed65fff980aee7e94a0dc57be304426048b35",
@@ -84550,7 +84558,8 @@
         ],
         "holders": {
             "ETH": 30
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x582744bdb51ad9a4eb9a11c54a6a2a5b29b050b6",
@@ -84560,6 +84569,11 @@
         },
         "web_domains": [
             "gritcycle.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "info@gritcycle.com"
+        ],
+        "p6": true
     }
 ]
