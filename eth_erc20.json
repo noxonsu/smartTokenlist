@@ -84412,5 +84412,129 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x68561facc2e045f0d08c3cb7c52689cf21d229e8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "openhaven.pro",
+            "app.openhaven.pro"
+        ],
+        "telegram_groups": [
+            "openhaven_official"
+        ],
+        "holders": {
+            "ETH": 62
+        }
+    },
+    {
+        "contract_address": "0x9a3e3188380653ff1f93c26292790b27d7488326",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wcshib.com"
+        ],
+        "telegram_groups": [
+            "wcshib"
+        ],
+        "holders": {
+            "ETH": 37
+        }
+    },
+    {
+        "contract_address": "0x7b89fd2a122ffc6b3a24a255fd4f92bf58c24dc3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "almond.lol",
+            "docs.almond.lol"
+        ],
+        "telegram_groups": [
+            "almondprotocol"
+        ],
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0xda6a3876ad460194cd7ba28062d838c98ee2fd1d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 54
+        }
+    },
+    {
+        "contract_address": "0x31de6cd5d380b2312887154b42a688c9e64e0406",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "x-mailerc.com"
+        ],
+        "telegram_groups": [
+            "X_MaiLERC"
+        ],
+        "holders": {
+            "ETH": 73
+        }
+    },
+    {
+        "contract_address": "0x341cea5b5206b106f97c74967a68da2f20f1660b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x339a8b2e202e46473648332e56c23644bcb03a95",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x0bf0b93c3760d656b5daaa658cdc82eac176cbc0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xc5833f7fe80ecda97358d49d5cd1155eef6c12f4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x9fb1d0a9264321ba0eab673fb2b85c529579dd97",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x253ed65fff980aee7e94a0dc57be304426048b35",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 85
+        }
+    },
+    {
+        "contract_address": "0x8aff12160bb32c4a691ff8636bcb6b953980e23f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.dechat.io",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "joinchat"
+        ],
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0x582744bdb51ad9a4eb9a11c54a6a2a5b29b050b6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 37
+        }
     }
 ]
