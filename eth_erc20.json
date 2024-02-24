@@ -85277,5 +85277,52 @@
         "holders": {
             "ETH": 0
         }
+    },
+    {
+        "contract_address": "0xbdba4b7707ceb9e3f025e6046d64b8ec8f3b8dcb",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "TitcoinERC11"
+        ],
+        "holders": {
+            "ETH": 651
+        }
+    },
+    {
+        "contract_address": "0xa990debd73271257929842b7e90e6eb648437ba7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.basedaltech.com"
+        ],
+        "telegram_groups": [
+            "BasedAltech"
+        ],
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0xde9c799c83b3b3b7315b20200c4a2937a3a277dd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 314
+        }
+    },
+    {
+        "contract_address": "0x179f782d7fbe745f40b20e0c7dbb6205d43fa4b9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "theinspire.ai"
+        ],
+        "holders": {
+            "ETH": 210
+        }
+    },
+    {
+        "contract_address": "0xf256cc7847e919fac9b808cc216cac87ccf2f47a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 520
+        }
     }
 ]
