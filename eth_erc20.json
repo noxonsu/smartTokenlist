@@ -85189,7 +85189,8 @@
         },
         "web_domains": [
             "bitcoinblack.org"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x09abef05f5b55636acc2cf867f095e144f08cc5a",
@@ -85199,7 +85200,9 @@
         },
         "web_domains": [
             "bafta.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb21a7f37970043e66bf38bd18afaf0c6265735f7",
@@ -85209,7 +85212,9 @@
         },
         "web_domains": [
             "bufficornbuidlbrigade.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4c386e2a6082a36f93490063bb7bb3ca01799c3e",
@@ -85233,7 +85238,9 @@
         },
         "web_domains": [
             "txain.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3dfa3a1126a851967bf2778089d276a5a05fc15c",
@@ -85246,7 +85253,8 @@
         ],
         "holders": {
             "ETH": 411
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb0255250efc2d51adad5146134e5df850d9c9d32",
@@ -85256,7 +85264,12 @@
         ],
         "holders": {
             "ETH": 7
-        }
+        },
+        "telegram_groups": [
+            "RefundKitties_ERC",
+            "pandoratwo_404"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x352cb2fa7c23b3a69df35a3ec4cf86abd72cbca1",
