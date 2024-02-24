@@ -85856,7 +85856,9 @@
         },
         "web_domains": [
             "portaportal.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x89678404797e02bb1d8113a22c2d642062168a85",
@@ -85866,7 +85868,9 @@
         ],
         "holders": {
             "ETH": 15
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf13cfcf856c8098d6a4c552222c9a9efdfab893d",
@@ -85879,6 +85883,10 @@
         ],
         "holders": {
             "ETH": 47
-        }
+        },
+        "emails": [
+            "job@mcdoge.lol"
+        ],
+        "p6": true
     }
 ]
