@@ -85295,11 +85295,13 @@
             "www.basedaltech.com"
         ],
         "telegram_groups": [
+            "basedaltech",
             "BasedAltech"
         ],
         "holders": {
             "ETH": 15
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xde9c799c83b3b3b7315b20200c4a2937a3a277dd",
@@ -85316,7 +85318,11 @@
         ],
         "holders": {
             "ETH": 210
-        }
+        },
+        "telegram_groups": [
+            "inspireAI_portal"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf256cc7847e919fac9b808cc216cac87ccf2f47a",
