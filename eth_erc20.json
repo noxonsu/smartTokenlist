@@ -85758,7 +85758,8 @@
         ],
         "holders": {
             "ETH": 153
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1de87b5347f216b7952bdfab85952b58b105794c",
@@ -85768,7 +85769,11 @@
         ],
         "holders": {
             "ETH": 98
-        }
+        },
+        "telegram_groups": [
+            "UniswapEmeralds"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0d4a11d5eeaac28ec3f61d100daf4d40471f1852",
@@ -85791,7 +85796,9 @@
         ],
         "holders": {
             "ETH": 269
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2d7a43e356893f5a9abad88d5f88024796c41fe0",
@@ -85805,7 +85812,8 @@
         ],
         "holders": {
             "ETH": 48
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x23568b18ace00d5b0802bea42f0c9c90a796ef29",
@@ -85825,7 +85833,8 @@
         ],
         "holders": {
             "ETH": 99
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xffaec6411b3b86dac4ceed873b70590c52c8f372",
@@ -85835,7 +85844,9 @@
         },
         "web_domains": [
             "memedroid.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x57693cbe3427748463201c05596cc0ec3a40b943",
