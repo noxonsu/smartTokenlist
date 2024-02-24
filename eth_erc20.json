@@ -85471,5 +85471,85 @@
         "holders": {
             "ETH": 68
         }
+    },
+    {
+        "contract_address": "0xcb5ab3f47bef834722c51a793f2e3a4d1b75a791",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0xaa0e3acecb0ff56f8a86be599085668333061b2b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bandscrypto.com",
+            "https"
+        ],
+        "telegram_groups": [
+            "BandsCrypto"
+        ],
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0xf1fd4834636dd897e3b56c1d870794ad7e4bc2e0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x894d03ec0d3f9bbae792b42396d21bbec3cc55ab",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x0a9b3e9040be8a8106647994fd41c20c51b6c8b9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xfe1526af7f53115d7fc47078289082cc548dfea2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 51
+        }
+    },
+    {
+        "contract_address": "0x830614ae209ff9d8706d386fcdbc7a55206fcffc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0xe19d1c837b8a1c83a56cd9165b2c0256d39653ad",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0x136571f0e474cdebd2f1270ed3d0d9022f2c3076",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "QCoin_portal"
+        ],
+        "holders": {
+            "ETH": 83
+        }
+    },
+    {
+        "contract_address": "0x9008064e6cf73e27a3aba4b10e69f855a4f8efcc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 384
+        }
     }
 ]
