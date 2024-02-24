@@ -85832,14 +85832,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 8
-        }
+        },
+        "web_domains": [
+            "memedroid.com"
+        ]
     },
     {
         "contract_address": "0x57693cbe3427748463201c05596cc0ec3a40b943",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 17
-        }
+        },
+        "web_domains": [
+            "portaportal.com"
+        ]
     },
     {
         "contract_address": "0x89678404797e02bb1d8113a22c2d642062168a85",
