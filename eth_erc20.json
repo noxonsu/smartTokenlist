@@ -85029,7 +85029,8 @@
         ],
         "holders": {
             "ETH": 128
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1d1e3c1caf6d17594593f51f7800315549906bd8",
@@ -85039,7 +85040,9 @@
         },
         "web_domains": [
             "peacharmywear.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x34b573c77cb0c0c5c4d66f8b5b4486c531b9a871",
@@ -85049,7 +85052,11 @@
         },
         "web_domains": [
             "skel404.art"
-        ]
+        ],
+        "telegram_groups": [
+            "Skel404"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7b6ff2312c22177458b24a441a0b2bf9528dac57",
@@ -85059,7 +85066,9 @@
         },
         "web_domains": [
             "oremob.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9dcd4170ca9b6afe5c98b4ea45b692a78e12c6d7",
@@ -85069,6 +85078,8 @@
         },
         "web_domains": [
             "concrete.xyz"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
