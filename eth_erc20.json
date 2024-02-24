@@ -85081,5 +85081,85 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xdfd21cd1d7505030e6884491bbdcad13a62b9073",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0x4e60241335aaf1eba97dee9a8c7d9f0387529286",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "127.0.0.1",
+            "mainnet.infura.io",
+            "goerli.infura.io",
+            "sepolia.infura.io",
+            "mainnet.optimism.io",
+            "goerli.optimism.io",
+            "arb1.arbitrum.io",
+            "goerli-rollup.arbitrum.io",
+            "nova.arbitrum.io",
+            "polygon-rpc.com",
+            "rpc-mumbai.maticvigil.com",
+            "api.avax.network",
+            "api.avax-test.network",
+            "bsc-dataseed1.binance.org",
+            "rpc.ankr.com",
+            "rpc.gnosischain.com",
+            "rpc.api.moonbeam.network",
+            "rpc.api.moonriver.moonbeam.network",
+            "rpc.testnet.moonbeam.network",
+            "goerli.base.org",
+            "mainnet.base.org",
+            "developer.arbitrum.io"
+        ],
+        "holders": {
+            "ETH": 105
+        }
+    },
+    {
+        "contract_address": "0xdc14c643d2e7de53ed68a44daad2ff4156810de8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xfb4fddc7aee35d67c60122b0e4ecf74465312923",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xbd20ae088dee315ace2c08add700775f461fea64",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0xc91a77ad739ae3b64efb203c05e056500690f6fa",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "liquidity.best",
+            "docs.liquidity.best"
+        ],
+        "telegram_groups": [
+            "Liquidity_Best"
+        ],
+        "holders": {
+            "ETH": 117
+        }
+    },
+    {
+        "contract_address": "0xdeb9239512171fcde962089ac3a3f9dcd8da2318",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12
+        }
     }
 ]
