@@ -85699,7 +85699,10 @@
         ],
         "holders": {
             "ETH": 118
-        }
+        },
+        "web_domains": [
+            "figure01.tech"
+        ]
     },
     {
         "contract_address": "0xedf129e9e88bc1643bd4ce52ce08f0964636dbb0",
@@ -85719,7 +85722,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 9
-        }
+        },
+        "web_domains": [
+            "figr.com"
+        ]
     },
     {
         "contract_address": "0xab7d26316f5c0add393c2dda2e6da43d750dd399",
