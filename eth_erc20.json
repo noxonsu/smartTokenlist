@@ -41586,8 +41586,8 @@
             "saintbots-organization.gitbook.io"
         ],
         "telegram_groups": [
-            "saintbot_deployer_bot",
-            "saintbot_deployers"
+            "saintbot_deployers",
+            "saintbot_deployer_bot"
         ],
         "holders": {
             "ETH": 315
@@ -85581,7 +85581,8 @@
         ],
         "holders": {
             "ETH": 109
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xcc09f34accdb36ee3ed98358a3b8a6ae5c29ea07",
@@ -85591,7 +85592,9 @@
         },
         "web_domains": [
             "aw3shield.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xcbb9623d20fe4ba176a0c2e661e7e564df7ce724",
@@ -85601,7 +85604,12 @@
         ],
         "holders": {
             "ETH": 34
-        }
+        },
+        "telegram_groups": [],
+        "emails": [
+            "info@monprotocol.ai"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9874ddf774aafd901f5e3b3a3d871abb8c349001",
@@ -85611,7 +85619,9 @@
         },
         "web_domains": [
             "evolvingforest.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x447c1f04919b1abb8a927c1a2064f9e29730e89d",
@@ -85621,7 +85631,9 @@
         },
         "web_domains": [
             "bai.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8c4d5cedb239d163c76e76b83f297207b49e5476",
@@ -85638,6 +85650,8 @@
         },
         "web_domains": [
             "chickenbonds.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
