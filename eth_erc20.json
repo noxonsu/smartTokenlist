@@ -85568,5 +85568,64 @@
         "holders": {
             "ETH": 384
         }
+    },
+    {
+        "contract_address": "0xd06889ccec1aedddf0c11d9df013e9a51115fbd5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "saintbots-organization.gitbook.io"
+        ],
+        "telegram_groups": [
+            "saintbot_deployers",
+            "saintbot_deployer_bot"
+        ],
+        "holders": {
+            "ETH": 109
+        }
+    },
+    {
+        "contract_address": "0xcc09f34accdb36ee3ed98358a3b8a6ae5c29ea07",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 234
+        }
+    },
+    {
+        "contract_address": "0xcbb9623d20fe4ba176a0c2e661e7e564df7ce724",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.monprotocol.ai"
+        ],
+        "holders": {
+            "ETH": 34
+        }
+    },
+    {
+        "contract_address": "0x9874ddf774aafd901f5e3b3a3d871abb8c349001",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 198
+        }
+    },
+    {
+        "contract_address": "0x447c1f04919b1abb8a927c1a2064f9e29730e89d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0x8c4d5cedb239d163c76e76b83f297207b49e5476",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0xb9d7dddca9a4ac480991865efef82e01273f79c3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 152
+        }
     }
 ]
