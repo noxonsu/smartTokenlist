@@ -85666,7 +85666,8 @@
         ],
         "holders": {
             "ETH": 56
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd989304fe6ff49065674e995e8ff6245deaefdfc",
@@ -85679,7 +85680,8 @@
         ],
         "holders": {
             "ETH": 271
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x23fac187fb15d13295dfa9486c83af5c1abd7b5a",
@@ -85702,7 +85704,8 @@
         },
         "web_domains": [
             "figure01.tech"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xedf129e9e88bc1643bd4ce52ce08f0964636dbb0",
@@ -85715,7 +85718,8 @@
         ],
         "holders": {
             "ETH": 159
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x97f94095c3c7d8a1d29adc973c42d0e3d750e2d8",
@@ -85725,7 +85729,9 @@
         },
         "web_domains": [
             "figr.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xab7d26316f5c0add393c2dda2e6da43d750dd399",
