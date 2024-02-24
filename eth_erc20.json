@@ -85588,7 +85588,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 234
-        }
+        },
+        "web_domains": [
+            "aw3shield.io"
+        ]
     },
     {
         "contract_address": "0xcbb9623d20fe4ba176a0c2e661e7e564df7ce724",
@@ -85605,14 +85608,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 198
-        }
+        },
+        "web_domains": [
+            "evolvingforest.io"
+        ]
     },
     {
         "contract_address": "0x447c1f04919b1abb8a927c1a2064f9e29730e89d",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 13
-        }
+        },
+        "web_domains": [
+            "bai.org"
+        ]
     },
     {
         "contract_address": "0x8c4d5cedb239d163c76e76b83f297207b49e5476",
@@ -85626,6 +85635,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 152
-        }
+        },
+        "web_domains": [
+            "chickenbonds.org"
+        ]
     }
 ]
