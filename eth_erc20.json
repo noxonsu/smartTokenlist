@@ -85739,5 +85739,129 @@
         "holders": {
             "ETH": 1066
         }
+    },
+    {
+        "contract_address": "0xed2f4cef505907de06fa1f9f6a2ea5bdf5dfea5e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 43
+        }
+    },
+    {
+        "contract_address": "0xd5dba26ff2a148f31ad43d7eebd093f260c209f6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "usbaldeagle.xyz"
+        ],
+        "telegram_groups": [
+            "baldeagleeth"
+        ],
+        "holders": {
+            "ETH": 153
+        }
+    },
+    {
+        "contract_address": "0x1de87b5347f216b7952bdfab85952b58b105794c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "741.gg"
+        ],
+        "holders": {
+            "ETH": 98
+        }
+    },
+    {
+        "contract_address": "0x0d4a11d5eeaac28ec3f61d100daf4d40471f1852",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2509
+        }
+    },
+    {
+        "contract_address": "0x1c4ab1dcec906a78bcdf809ad99b7c83d26dd37d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dnner.shop",
+            "datatracker.ietf.org",
+            "dnner.shop",
+            "dnner.shop"
+        ],
+        "emails": [
+            "brecht@loopring.org"
+        ],
+        "holders": {
+            "ETH": 269
+        }
+    },
+    {
+        "contract_address": "0x2d7a43e356893f5a9abad88d5f88024796c41fe0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "launcher-ai.tech",
+            "launcher-ai.gitbook.io"
+        ],
+        "telegram_groups": [
+            "LauncherAI"
+        ],
+        "holders": {
+            "ETH": 48
+        }
+    },
+    {
+        "contract_address": "0x23568b18ace00d5b0802bea42f0c9c90a796ef29",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1054
+        }
+    },
+    {
+        "contract_address": "0x9344ab3e8ab7e7db2fee36c5ecb4577f118ab3b0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "caldlend.live"
+        ],
+        "telegram_groups": [
+            "cald_lend"
+        ],
+        "holders": {
+            "ETH": 99
+        }
+    },
+    {
+        "contract_address": "0xffaec6411b3b86dac4ceed873b70590c52c8f372",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8
+        }
+    },
+    {
+        "contract_address": "0x57693cbe3427748463201c05596cc0ec3a40b943",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 17
+        }
+    },
+    {
+        "contract_address": "0x89678404797e02bb1d8113a22c2d642062168a85",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.createmytoken.com"
+        ],
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0xf13cfcf856c8098d6a4c552222c9a9efdfab893d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mcdoge.lol"
+        ],
+        "telegram_groups": [
+            "McDogeWow"
+        ],
+        "holders": {
+            "ETH": 47
+        }
     }
 ]
