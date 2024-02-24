@@ -85177,5 +85177,80 @@
         "holders": {
             "ETH": 12
         }
+    },
+    {
+        "contract_address": "0xe387fcf958b717713aaa66e1719d165bb28a2206",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "BTCBlackERC20"
+        ],
+        "holders": {
+            "ETH": 55
+        }
+    },
+    {
+        "contract_address": "0x09abef05f5b55636acc2cf867f095e144f08cc5a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 21
+        }
+    },
+    {
+        "contract_address": "0xb21a7f37970043e66bf38bd18afaf0c6265735f7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 17
+        }
+    },
+    {
+        "contract_address": "0x4c386e2a6082a36f93490063bb7bb3ca01799c3e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0x1a88df1cfe15af22b3c4c783d4e6f7f9e0c1885d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 122
+        }
+    },
+    {
+        "contract_address": "0xaaa234b42d35e3a459b15c5066cf30793f68a275",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x3dfa3a1126a851967bf2778089d276a5a05fc15c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.abe-inu.com"
+        ],
+        "telegram_groups": [
+            "Abe_Inu"
+        ],
+        "holders": {
+            "ETH": 411
+        }
+    },
+    {
+        "contract_address": "0xb0255250efc2d51adad5146134e5df850d9c9d32",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "opensea.io"
+        ],
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0x352cb2fa7c23b3a69df35a3ec4cf86abd72cbca1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
     }
 ]
