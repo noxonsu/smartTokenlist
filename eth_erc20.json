@@ -85653,5 +85653,79 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x1accf8cfe170307a504149c4ffbb22ce4a062ce4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.rmrk.pro",
+            "app.rmrk.pro"
+        ],
+        "telegram_groups": [
+            "rmrk_erc"
+        ],
+        "holders": {
+            "ETH": 56
+        }
+    },
+    {
+        "contract_address": "0xd989304fe6ff49065674e995e8ff6245deaefdfc",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.figure01.tech"
+        ],
+        "telegram_groups": [
+            "f01project"
+        ],
+        "holders": {
+            "ETH": 271
+        }
+    },
+    {
+        "contract_address": "0x23fac187fb15d13295dfa9486c83af5c1abd7b5a",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "FigureAI_ERC20"
+        ],
+        "holders": {
+            "ETH": 547
+        }
+    },
+    {
+        "contract_address": "0x4693eebb367a0f900cc20f911666395637b61377",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "figure01coinethereum"
+        ],
+        "holders": {
+            "ETH": 118
+        }
+    },
+    {
+        "contract_address": "0xedf129e9e88bc1643bd4ce52ce08f0964636dbb0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "aiexplorerbot.tech"
+        ],
+        "telegram_groups": [
+            "ExplorerAi_Erc"
+        ],
+        "holders": {
+            "ETH": 159
+        }
+    },
+    {
+        "contract_address": "0x97f94095c3c7d8a1d29adc973c42d0e3d750e2d8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9
+        }
+    },
+    {
+        "contract_address": "0xab7d26316f5c0add393c2dda2e6da43d750dd399",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1066
+        }
     }
 ]
