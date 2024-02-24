@@ -85456,7 +85456,11 @@
         ],
         "holders": {
             "ETH": 365
-        }
+        },
+        "emails": [
+            "contact@xbtworldwide.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x27a5eb8d6e89c11e96462780b3d72ceb07a76aa8",
