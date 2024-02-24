@@ -85087,7 +85087,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 25
-        }
+        },
+        "web_domains": [
+            "smartlayer.network"
+        ]
     },
     {
         "contract_address": "0x4e60241335aaf1eba97dee9a8c7d9f0387529286",
@@ -85125,7 +85128,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "explorer.bitquery.io"
+        ]
     },
     {
         "contract_address": "0xfb4fddc7aee35d67c60122b0e4ecf74465312923",
