@@ -85186,21 +85186,30 @@
         ],
         "holders": {
             "ETH": 55
-        }
+        },
+        "web_domains": [
+            "bitcoinblack.org"
+        ]
     },
     {
         "contract_address": "0x09abef05f5b55636acc2cf867f095e144f08cc5a",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 21
-        }
+        },
+        "web_domains": [
+            "bafta.org"
+        ]
     },
     {
         "contract_address": "0xb21a7f37970043e66bf38bd18afaf0c6265735f7",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 17
-        }
+        },
+        "web_domains": [
+            "bufficornbuidlbrigade.com"
+        ]
     },
     {
         "contract_address": "0x4c386e2a6082a36f93490063bb7bb3ca01799c3e",
@@ -85221,7 +85230,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "txain.com"
+        ]
     },
     {
         "contract_address": "0x3dfa3a1126a851967bf2778089d276a5a05fc15c",
