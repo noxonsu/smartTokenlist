@@ -85330,5 +85330,126 @@
         "holders": {
             "ETH": 520
         }
+    },
+    {
+        "contract_address": "0x060720649dd16a907d05bcc9468446bda15836ac",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "b-moneycoin.com"
+        ],
+        "telegram_groups": [
+            "bmoneyeth"
+        ],
+        "holders": {
+            "ETH": 292
+        }
+    },
+    {
+        "contract_address": "0x14da7b27b2e0fedefe0a664118b0c9bc68e2e9af",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2856
+        }
+    },
+    {
+        "contract_address": "0x8382aeab50c5d60e06cf3b68a51cd88c39a061c6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0x629e11898fc64174340072c0413d01477ec51a05",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "bmoneycoinethereum"
+        ],
+        "holders": {
+            "ETH": 77
+        }
+    },
+    {
+        "contract_address": "0xdc83bfca4aeb246bc2e812ec740d0112e6dcf144",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "titcoinerc20chain"
+        ],
+        "holders": {
+            "ETH": 201
+        }
+    },
+    {
+        "contract_address": "0xb92e40c0bd1a135c5cb19ea98d2d729909ceab61",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 391
+        }
+    },
+    {
+        "contract_address": "0xfe886c71f8db58e6d8b4d8204de1b91a027eed6a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mmalmi.github.io"
+        ],
+        "telegram_groups": [
+            "bitcoinexBTCX"
+        ],
+        "emails": [
+            "mmalmi@cc.hut.fi",
+            "satoshin@gmx.com"
+        ],
+        "holders": {
+            "ETH": 38
+        }
+    },
+    {
+        "contract_address": "0xcf113897ade310b985eedd21b644f04d95a3ddeb",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "SIRIUSCOINERC"
+        ],
+        "holders": {
+            "ETH": 39
+        }
+    },
+    {
+        "contract_address": "0x74c9f0bb3b69d412d275da50195d908130b2935c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mmalmi.github.io"
+        ],
+        "telegram_groups": [
+            "bitcoinmarketeth"
+        ],
+        "emails": [
+            "satoshin@gmx.com",
+            "mmalmi@cc.hut.fi"
+        ],
+        "holders": {
+            "ETH": 126
+        }
+    },
+    {
+        "contract_address": "0xe1f09bc205dd966c0c56b42d0068de842d12391e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.xbtworldwide.com"
+        ],
+        "telegram_groups": [
+            "XBTWORLDWIDE"
+        ],
+        "holders": {
+            "ETH": 365
+        }
+    },
+    {
+        "contract_address": "0x27a5eb8d6e89c11e96462780b3d72ceb07a76aa8",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Titcoin_erc20"
+        ],
+        "holders": {
+            "ETH": 68
+        }
     }
 ]
