@@ -85491,7 +85491,8 @@
         ],
         "holders": {
             "ETH": 16
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf1fd4834636dd897e3b56c1d870794ad7e4bc2e0",
@@ -85529,7 +85530,9 @@
         },
         "web_domains": [
             "convergence.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe19d1c837b8a1c83a56cd9165b2c0256d39653ad",
@@ -85539,7 +85542,11 @@
         },
         "web_domains": [
             "beta.stakedao.org"
-        ]
+        ],
+        "telegram_groups": [
+            "StakedaoHQ"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x136571f0e474cdebd2f1270ed3d0d9022f2c3076",
@@ -85552,7 +85559,8 @@
         },
         "web_domains": [
             "xiao-haijing.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9008064e6cf73e27a3aba4b10e69f855a4f8efcc",
