@@ -86257,12 +86257,13 @@
             "docs.fusedfloat.com"
         ],
         "telegram_groups": [
-            "FusedFloat",
-            "FusedFloatBot"
+            "FusedFloatBot",
+            "FusedFloat"
         ],
         "holders": {
             "ETH": 89
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7e6401a290c40cb2d18344cec4bedc7d7ae810b2",
@@ -86275,7 +86276,11 @@
         ],
         "holders": {
             "ETH": 71
-        }
+        },
+        "emails": [
+            "joebidenscreamery@proton.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0000000000eaebd95dafca37a39fd09745739b78",
