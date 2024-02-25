@@ -86153,7 +86153,11 @@
         ],
         "holders": {
             "ETH": 138
-        }
+        },
+        "telegram_groups": [
+            "beoble_official"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x466d69cba6854283e7617cd518ae76e11e57fdbd",
@@ -86163,7 +86167,9 @@
         },
         "web_domains": [
             "terrabyte.ai"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x5972a9689ee53481ad6301d60e1e15092754ffa3",
@@ -86176,7 +86182,8 @@
         ],
         "holders": {
             "ETH": 276
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe328fd8720ee4ef3a5582f6bd24f360a0301b260",
@@ -86189,7 +86196,11 @@
         ],
         "holders": {
             "ETH": 235
-        }
+        },
+        "emails": [
+            "team@aipepecoin.vip"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x02716c55f49a9107467507b82f9889480949afe4",
@@ -86205,11 +86216,13 @@
             "matmo.cc"
         ],
         "telegram_groups": [
-            "MatmoChain"
+            "MatmoChain",
+            "matmochain_I"
         ],
         "holders": {
             "ETH": 14
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x85fc9e40dc9d5d78e12b7dcb047ec4b0a107b645",
