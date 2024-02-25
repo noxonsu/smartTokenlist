@@ -86038,7 +86038,11 @@
         },
         "web_domains": [
             "flare.network"
-        ]
+        ],
+        "telegram_groups": [
+            "FlareNetwork"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbec771d15f7e67bc0bb4571c7eb409228cc6fef9",
@@ -86053,7 +86057,8 @@
         ],
         "holders": {
             "ETH": 293
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4aef3c32c965a9aa92940aef1d166f553a81989b",
@@ -86067,7 +86072,8 @@
         ],
         "holders": {
             "ETH": 54
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x046af788a9ba540cbb2c383102c6daa2482d415c",
@@ -86106,7 +86112,9 @@
         ],
         "holders": {
             "ETH": 84
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4b94c8567763654101f690cf4d54957206383b75",
@@ -86130,6 +86138,11 @@
         },
         "web_domains": [
             "mooxmoo.com"
-        ]
+        ],
+        "telegram_groups": [
+            "BitMartExchange_Channel",
+            "MOOXMOO_Official"
+        ],
+        "p6": true
     }
 ]
