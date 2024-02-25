@@ -58387,7 +58387,8 @@
             "www.zuzuvitalik.xyz"
         ],
         "telegram_groups": [
-            "zuzuerc_Portal"
+            "zuzuerc_Portal",
+            "Zuzuinu_Portal"
         ],
         "holders": {
             "ETH": 178
@@ -86708,10 +86709,12 @@
             "www.zuzuvitalik.xyz"
         ],
         "telegram_groups": [
+            "zuzuerc_Portal",
             "Zuzuinu_Portal"
         ],
         "holders": {
             "ETH": 35
-        }
+        },
+        "p6": true
     }
 ]
