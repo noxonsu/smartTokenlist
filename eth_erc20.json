@@ -86716,5 +86716,34 @@
             "ETH": 35
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x10ba2e5ac2e91d5a89fe0f89bb625ebcefff812d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 43
+        }
+    },
+    {
+        "contract_address": "0x3e8d2b9b7458e68c3ea845699e557b9a6fa7480e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fortunabank.xyz",
+            "app.fortunabank.xyz",
+            "docs.fortunabank.xyz"
+        ],
+        "telegram_groups": [
+            "fortunabank_portal"
+        ],
+        "holders": {
+            "ETH": 66
+        }
+    },
+    {
+        "contract_address": "0x8e60e8feeee72cd2eaf8d2e8c50075b79cce8a58",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 45
+        }
     }
 ]
