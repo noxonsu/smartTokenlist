@@ -76551,8 +76551,8 @@
             "warpcast.com"
         ],
         "telegram_groups": [
-            "Hullo_Erc",
             "Farcastereth",
+            "Hullo_Erc",
             "LFGcoinerc20"
         ],
         "holders": {
@@ -79914,9 +79914,9 @@
             "warpcast.com"
         ],
         "telegram_groups": [
+            "Farcastereth",
             "aicoinerc20",
             "Hullo_Erc",
-            "Farcastereth",
             "LFGcoinerc20"
         ],
         "holders": {
@@ -86445,7 +86445,8 @@
         ],
         "holders": {
             "ETH": 221
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6e2a919deba1a09edf1d632d2e29b171e947c5fd",
@@ -86469,7 +86470,12 @@
         },
         "web_domains": [
             "marqhqo.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "ENQUIRIES@MARQUISHQO.COM"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8cefbeb2172a9382753de431a493e21ba9694004",
@@ -86482,7 +86488,8 @@
         },
         "web_domains": [
             "melaniatrump.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd6a23df20fa5685c69b458f014b5cbdd2f8b285f",
@@ -86492,11 +86499,16 @@
             "ethismonkey.com"
         ],
         "telegram_groups": [
-            "ethismonkey_erc"
+            "Farcastereth",
+            "Hullo_Erc",
+            "LFGcoinerc20",
+            "ethismonkey_erc",
+            "aicoinerc20"
         ],
         "holders": {
             "ETH": 184
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa482a4b93812312be3c0dc19ea10e6825133ac9d",
