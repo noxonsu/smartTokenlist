@@ -86160,7 +86160,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 209
-        }
+        },
+        "web_domains": [
+            "terrabyte.ai"
+        ]
     },
     {
         "contract_address": "0x5972a9689ee53481ad6301d60e1e15092754ffa3",
