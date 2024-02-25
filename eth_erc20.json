@@ -86583,5 +86583,116 @@
             "ETH": 118
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xa825d9b5b09276894af4666a1bf341b2fca0f9af",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 119
+        }
+    },
+    {
+        "contract_address": "0x52abc24e127e7e329da218994c0d1d9b906a64ab",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 58
+        }
+    },
+    {
+        "contract_address": "0x710f35e16faa41dc000a5ba4d54020402ae766d0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "trumpinucoin.vip"
+        ],
+        "telegram_groups": [
+            "TrumpInuCoin"
+        ],
+        "holders": {
+            "ETH": 86
+        }
+    },
+    {
+        "contract_address": "0x99bd071000228c2052e4c6a96d7ebb8b40fb76a7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "trumptowermeta.tech"
+        ],
+        "telegram_groups": [
+            "TrumpTowerMETA"
+        ],
+        "holders": {
+            "ETH": 27
+        }
+    },
+    {
+        "contract_address": "0x44d03e7ee25caee19172eaddf5fbfbff07990c7e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 193
+        }
+    },
+    {
+        "contract_address": "0xf72ad9879263749241316fdfa2c600f46900d631",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10
+        }
+    },
+    {
+        "contract_address": "0xf48408b6845fcf637024bb44a6c3471082920d92",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "galaxyringerc.com"
+        ],
+        "telegram_groups": [
+            "GalaxyRingErc"
+        ],
+        "holders": {
+            "ETH": 23
+        }
+    },
+    {
+        "contract_address": "0x64ef3dd8cb9cf09ba7c0c4c403812292adae1c20",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0x661e324c11813b00866e768ea3aa17f58aa54885",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0x00a97f32e64049e2122909abdd2b915b5c86eae1",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "OBAMAERC"
+        ],
+        "holders": {
+            "ETH": 150
+        }
+    },
+    {
+        "contract_address": "0x733b5056a0697e7a4357305fe452999a0c409feb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 62
+        }
+    },
+    {
+        "contract_address": "0x9b18de4296deaaef1910ca135af198ac40331bcd",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.zuzuvitalik.xyz"
+        ],
+        "telegram_groups": [
+            "Zuzuinu_Portal"
+        ],
+        "holders": {
+            "ETH": 35
+        }
     }
 ]
