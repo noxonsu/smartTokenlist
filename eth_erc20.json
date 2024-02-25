@@ -86382,5 +86382,53 @@
         "holders": {
             "ETH": 106
         }
+    },
+    {
+        "contract_address": "0x49492de97028992a2d1f056a62ae98840aa85306",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0xd6a0588db1aa907f1ec171c51b67f3db902fb070",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools"
+        ],
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x2048e0d048224381cac3ea06012ced4a6f122d32",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bandscrypto.com",
+            "https"
+        ],
+        "telegram_groups": [
+            "BandsCrypto"
+        ],
+        "holders": {
+            "ETH": 205
+        }
+    },
+    {
+        "contract_address": "0x5b0c64c317488fc263df007c03bbb8784c5df05c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 60
+        }
+    },
+    {
+        "contract_address": "0x9a14e23a58edf4efdcb360f68cd1b95ce2081a2f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 226
+        }
     }
 ]
