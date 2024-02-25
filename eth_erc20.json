@@ -86546,7 +86546,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 126
-        }
+        },
+        "web_domains": [
+            "wally.me"
+        ]
     },
     {
         "contract_address": "0x275e77ce626d531ff7d5fd9ba835e8a7acfccba1",
