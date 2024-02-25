@@ -86144,5 +86144,82 @@
             "MOOXMOO_Official"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x24144b145cedda33edcde172a5e1183150a8c81e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.beoble.io"
+        ],
+        "holders": {
+            "ETH": 138
+        }
+    },
+    {
+        "contract_address": "0x466d69cba6854283e7617cd518ae76e11e57fdbd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 209
+        }
+    },
+    {
+        "contract_address": "0x5972a9689ee53481ad6301d60e1e15092754ffa3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nodebet.app"
+        ],
+        "telegram_groups": [
+            "nodebetcommunity"
+        ],
+        "holders": {
+            "ETH": 276
+        }
+    },
+    {
+        "contract_address": "0xe328fd8720ee4ef3a5582f6bd24f360a0301b260",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pepeaipepe.io"
+        ],
+        "telegram_groups": [
+            "PepeAiPepe"
+        ],
+        "holders": {
+            "ETH": 235
+        }
+    },
+    {
+        "contract_address": "0x02716c55f49a9107467507b82f9889480949afe4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 39
+        }
+    },
+    {
+        "contract_address": "0x7e893b5f346dd7af6fb51e8f7e4f8da7f8e8a60a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "matmo.cc"
+        ],
+        "telegram_groups": [
+            "MatmoChain"
+        ],
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0x85fc9e40dc9d5d78e12b7dcb047ec4b0a107b645",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x5fc64860ba5ac58c3483dcdcf2964afcf101dde8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 21
+        }
     }
 ]
