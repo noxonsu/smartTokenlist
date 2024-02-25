@@ -86526,5 +86526,53 @@
         "holders": {
             "ETH": 250
         }
+    },
+    {
+        "contract_address": "0x77f357891e2c9250fb3ba44892017290edd434a7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 29
+        }
+    },
+    {
+        "contract_address": "0x9c3defd3469a235e7f933d3a233bda58d2fcc1db",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 156
+        }
+    },
+    {
+        "contract_address": "0x0e2ccda24c2a1e91947a254516357bb631a0b84f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 126
+        }
+    },
+    {
+        "contract_address": "0x275e77ce626d531ff7d5fd9ba835e8a7acfccba1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0x30d9410ed1d5da1f6c8391af5338c93ab8d4035c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0x397684c917418841dcb7a0733929434f2d059746",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "copiloterc.vip"
+        ],
+        "telegram_groups": [
+            "MicrosoftAi_Erc"
+        ],
+        "holders": {
+            "ETH": 118
+        }
     }
 ]
