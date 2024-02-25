@@ -86433,5 +86433,80 @@
         "holders": {
             "ETH": 226
         }
+    },
+    {
+        "contract_address": "0x2196d47abf6715ee6570e8affd86e81ea1439b8a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pepe3erc.vip"
+        ],
+        "telegram_groups": [
+            "Pepe3pointZero"
+        ],
+        "holders": {
+            "ETH": 221
+        }
+    },
+    {
+        "contract_address": "0x6e2a919deba1a09edf1d632d2e29b171e947c5fd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0xdb525fc07a505a2fe693075a0b3accb49650dfb5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xe5516d1e13183cfe79f30f0c0da1effbd7539ba8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x8cefbeb2172a9382753de431a493e21ba9694004",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Melania_Erc20"
+        ],
+        "holders": {
+            "ETH": 112
+        }
+    },
+    {
+        "contract_address": "0xd6a23df20fa5685c69b458f014b5cbdd2f8b285f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "warpcast.com",
+            "ethismonkey.com"
+        ],
+        "telegram_groups": [
+            "ethismonkey_erc"
+        ],
+        "holders": {
+            "ETH": 184
+        }
+    },
+    {
+        "contract_address": "0xa482a4b93812312be3c0dc19ea10e6825133ac9d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 46
+        }
+    },
+    {
+        "contract_address": "0xf079cbffc8161ee6723db39c68beeef47e4e4bd5",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "MagaTwoMemeCoin"
+        ],
+        "holders": {
+            "ETH": 250
+        }
     }
 ]
