@@ -86035,7 +86035,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 17
-        }
+        },
+        "web_domains": [
+            "flare.network"
+        ]
     },
     {
         "contract_address": "0xbec771d15f7e67bc0bb4571c7eb409228cc6fef9",
@@ -86124,6 +86127,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 91
-        }
+        },
+        "web_domains": [
+            "mooxmoo.com"
+        ]
     }
 ]
