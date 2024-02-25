@@ -86237,5 +86237,75 @@
         "holders": {
             "ETH": 21
         }
+    },
+    {
+        "contract_address": "0xc0f9bd5fa5698b6505f643900ffa515ea5df54a9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5828
+        }
+    },
+    {
+        "contract_address": "0xdfb101d6114e530a13115b64c570f365ef2aa06a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fusedfloat.com",
+            "fusedfloat.com",
+            "docs.fusedfloat.com",
+            "docs.fusedfloat.com",
+            "docs.fusedfloat.com",
+            "docs.fusedfloat.com"
+        ],
+        "telegram_groups": [
+            "FusedFloat",
+            "FusedFloatBot"
+        ],
+        "holders": {
+            "ETH": 89
+        }
+    },
+    {
+        "contract_address": "0x7e6401a290c40cb2d18344cec4bedc7d7ae810b2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "joebidenscreamery.netlify.app"
+        ],
+        "telegram_groups": [
+            "BidensCreameryPortal"
+        ],
+        "holders": {
+            "ETH": 71
+        }
+    },
+    {
+        "contract_address": "0x0000000000eaebd95dafca37a39fd09745739b78",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@molecularlabs.io",
+            "security@molecularlabs.io"
+        ],
+        "holders": {
+            "ETH": 10
+        }
+    },
+    {
+        "contract_address": "0x54a7cee7b02976ace1bdd4afad87273251ed34cf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2266
+        }
+    },
+    {
+        "contract_address": "0x8e32b8a41f2e86a3ee198912ac8d756c84295b40",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.ttfbot.io"
+        ],
+        "telegram_groups": [
+            "TTFBotOfficial"
+        ],
+        "holders": {
+            "ETH": 521
+        }
     }
 ]
