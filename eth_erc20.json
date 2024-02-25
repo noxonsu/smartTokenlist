@@ -86312,5 +86312,74 @@
         "holders": {
             "ETH": 521
         }
+    },
+    {
+        "contract_address": "0x082596caa8a97a608323dcc547547daccff99775",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.vanityfair.com"
+        ],
+        "telegram_groups": [
+            "CONAN_ERC20"
+        ],
+        "holders": {
+            "ETH": 140
+        }
+    },
+    {
+        "contract_address": "0xb4577d084f289e696ddfac178c11663e573900f1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 213
+        }
+    },
+    {
+        "contract_address": "0xfb835c9cfc0dcc1b84fb5efeeadf753b90e2bee5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xadb33228a692b9cde1177beff5c8f0b219ab1c5d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x39b25b7e62bc4b53117901a00613e58cf31e283b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x06da0fd433c1a5d7a4faa01111c044910a184553",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 850
+        }
+    },
+    {
+        "contract_address": "0x4d4b6f8efb685b774234fd427201b3a9bf36ffc8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x9461173740d27311b176476fa27e94c681b1ea6b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 63
+        }
+    },
+    {
+        "contract_address": "0xced67a187b923f0e5ebcc77c7f2f7da20099e378",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 106
+        }
     }
 ]
