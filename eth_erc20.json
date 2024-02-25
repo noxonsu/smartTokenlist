@@ -86722,7 +86722,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 43
-        }
+        },
+        "web_domains": [
+            "arbuz.com"
+        ]
     },
     {
         "contract_address": "0x3e8d2b9b7458e68c3ea845699e557b9a6fa7480e",
