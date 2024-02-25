@@ -86805,7 +86805,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 190
-        }
+        },
+        "web_domains": [
+            "looted.network"
+        ]
     },
     {
         "contract_address": "0x707d5c228fd13140cba91f8013aedd00bc2928e9",
@@ -86841,7 +86844,10 @@
         ],
         "holders": {
             "ETH": 93
-        }
+        },
+        "web_domains": [
+            "focusonfeathers.com"
+        ]
     },
     {
         "contract_address": "0xdb04fb08378129621634c151e9b61fef56947920",
