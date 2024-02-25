@@ -86015,5 +86015,115 @@
         "holders": {
             "ETH": 772
         }
+    },
+    {
+        "contract_address": "0x00d8318e44780edeefcf3020a5448f636788883c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 596
+        }
+    },
+    {
+        "contract_address": "0xed9f6aa6532869576211fd6367e3c328810fbeb3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 359
+        }
+    },
+    {
+        "contract_address": "0x36c257c14035892bc59d1af29115cd319f93b0a3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 17
+        }
+    },
+    {
+        "contract_address": "0xbec771d15f7e67bc0bb4571c7eb409228cc6fef9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bribeai.com",
+            "docs.bribeai.com"
+        ],
+        "telegram_groups": [
+            "bribeai",
+            "BribeAI_Bot"
+        ],
+        "holders": {
+            "ETH": 293
+        }
+    },
+    {
+        "contract_address": "0x4aef3c32c965a9aa92940aef1d166f553a81989b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.puckbtc.app",
+            "trade.puckbtc.app"
+        ],
+        "telegram_groups": [
+            "puckbtc"
+        ],
+        "holders": {
+            "ETH": 54
+        }
+    },
+    {
+        "contract_address": "0x046af788a9ba540cbb2c383102c6daa2482d415c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x1729981345aa5cacdc19ea9eeffea90cf1c6e28b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 137
+        }
+    },
+    {
+        "contract_address": "0xe1240ac7bb51333510cbf37efd678ca46137f84b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 616
+        }
+    },
+    {
+        "contract_address": "0x86612ead4493c1f72bff66a686a481a379832ca5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0xa8218cbdb4accce36ee92874fe34a999abc30a7a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.thlm.com",
+            "www.thlm.org"
+        ],
+        "holders": {
+            "ETH": 84
+        }
+    },
+    {
+        "contract_address": "0x4b94c8567763654101f690cf4d54957206383b75",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3865
+        }
+    },
+    {
+        "contract_address": "0x066798d9ef0833ccc719076dab77199ecbd178b0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3996
+        }
+    },
+    {
+        "contract_address": "0x77ebcf0659bbf4e68d8ce6d84bb25c5cde207b97",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 91
+        }
     }
 ]
