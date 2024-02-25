@@ -86867,7 +86867,8 @@
         ],
         "holders": {
             "ETH": 1
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6c74ebb3d9b4a1e77558f1871cd9c8ef07b4dfb2",
@@ -86891,7 +86892,8 @@
         ],
         "holders": {
             "ETH": 116
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7960602b97fb9fb75843af13a2a7abdcff9cd265",
@@ -86904,7 +86906,8 @@
         ],
         "holders": {
             "ETH": 467
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x05be74ef20d24f59a581e88726778d940daf2feb",
@@ -86937,10 +86940,12 @@
             "gexc.finance"
         ],
         "telegram_groups": [
+            "GEXCFinance",
             "gexcfinance"
         ],
         "holders": {
             "ETH": 171
-        }
+        },
+        "p6": true
     }
 ]
