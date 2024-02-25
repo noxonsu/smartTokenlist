@@ -86549,7 +86549,12 @@
         },
         "web_domains": [
             "wally.me"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "hello@wally.me"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x275e77ce626d531ff7d5fd9ba835e8a7acfccba1",
@@ -86576,6 +86581,7 @@
         ],
         "holders": {
             "ETH": 118
-        }
+        },
+        "p6": true
     }
 ]
