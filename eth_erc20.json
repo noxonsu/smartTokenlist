@@ -85888,5 +85888,119 @@
             "job@mcdoge.lol"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0xbcde47cf91466f474591255eb0929ad3e496d3a3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "soulfulai.fun",
+            "apps.apple.com"
+        ],
+        "telegram_groups": [
+            "soulful_ai_web3_official"
+        ],
+        "holders": {
+            "ETH": 126
+        }
+    },
+    {
+        "contract_address": "0xe0e76ab9789956df10982f86a2496579a70cf09f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.Oxdrop.app"
+        ],
+        "holders": {
+            "ETH": 134
+        }
+    },
+    {
+        "contract_address": "0x053692e3e32a6c10160a2960a1793613b530369c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pixierealm.io"
+        ],
+        "holders": {
+            "ETH": 226
+        }
+    },
+    {
+        "contract_address": "0xc67d9fa0c4f86a10a148f0226ef854ec4b88dc97",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "misspeaches.xyz"
+        ],
+        "telegram_groups": [
+            "MissPeachesToken"
+        ],
+        "holders": {
+            "ETH": 151
+        }
+    },
+    {
+        "contract_address": "0xb7810116c82a572d64dc85c06a2574acf0039d4b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "baldeagleeth.vip"
+        ],
+        "telegram_groups": [
+            "baldeagleerc"
+        ],
+        "holders": {
+            "ETH": 365
+        }
+    },
+    {
+        "contract_address": "0x8afe4055ebc86bd2afb3940c0095c9aca511d852",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.apache.org"
+        ],
+        "holders": {
+            "ETH": 77
+        }
+    },
+    {
+        "contract_address": "0x89bd2e7e388fab44ae88bef4e1ad12b4f1e0911c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2048
+        }
+    },
+    {
+        "contract_address": "0xbdbd83db17384ebf306f10a445f3fa0107df2041",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "viridianfi.com"
+        ],
+        "telegram_groups": [
+            "viridianerc"
+        ],
+        "holders": {
+            "ETH": 115
+        }
+    },
+    {
+        "contract_address": "0xc0b5e3e6504a35487fa706a72cd16698beae933c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9
+        }
+    },
+    {
+        "contract_address": "0x9ba93e56be4d046363f43e76b462a6767e2a9978",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "OdysseusErc"
+        ],
+        "holders": {
+            "ETH": 95
+        }
+    },
+    {
+        "contract_address": "0x52f4d5ee6c91e01be67ca1f64b11ed0ee370817d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 772
+        }
     }
 ]
