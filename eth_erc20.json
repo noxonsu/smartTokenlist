@@ -86599,7 +86599,11 @@
         },
         "web_domains": [
             "mongtwo.xyz"
-        ]
+        ],
+        "telegram_groups": [
+            "mongtwo_eth"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x710f35e16faa41dc000a5ba4d54020402ae766d0",
@@ -86612,7 +86616,8 @@
         ],
         "holders": {
             "ETH": 86
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x99bd071000228c2052e4c6a96d7ebb8b40fb76a7",
@@ -86625,7 +86630,8 @@
         ],
         "holders": {
             "ETH": 27
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x44d03e7ee25caee19172eaddf5fbfbff07990c7e",
@@ -86652,7 +86658,8 @@
         ],
         "holders": {
             "ETH": 23
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x64ef3dd8cb9cf09ba7c0c4c403812292adae1c20",
@@ -86679,7 +86686,8 @@
         },
         "web_domains": [
             "obama.org"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x733b5056a0697e7a4357305fe452999a0c409feb",
@@ -86689,7 +86697,9 @@
         },
         "web_domains": [
             "vcore.yonex.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9b18de4296deaaef1910ca135af198ac40331bcd",
