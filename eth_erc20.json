@@ -81732,7 +81732,9 @@
         ],
         "holders": {
             "ETH": 796
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x63f81d330a8f44f882839cfa322cb9150e66087a",
@@ -85901,7 +85903,8 @@
         ],
         "holders": {
             "ETH": 126
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe0e76ab9789956df10982f86a2496579a70cf09f",
@@ -85911,7 +85914,9 @@
         ],
         "holders": {
             "ETH": 134
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x053692e3e32a6c10160a2960a1793613b530369c",
@@ -85921,7 +85926,9 @@
         ],
         "holders": {
             "ETH": 226
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc67d9fa0c4f86a10a148f0226ef854ec4b88dc97",
@@ -85930,11 +85937,13 @@
             "misspeaches.xyz"
         ],
         "telegram_groups": [
-            "MissPeachesToken"
+            "MissPeachesToken",
+            "misspeachestoken"
         ],
         "holders": {
             "ETH": 151
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb7810116c82a572d64dc85c06a2574acf0039d4b",
@@ -85947,7 +85956,8 @@
         ],
         "holders": {
             "ETH": 365
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8afe4055ebc86bd2afb3940c0095c9aca511d852",
@@ -85957,7 +85967,9 @@
         ],
         "holders": {
             "ETH": 77
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x89bd2e7e388fab44ae88bef4e1ad12b4f1e0911c",
