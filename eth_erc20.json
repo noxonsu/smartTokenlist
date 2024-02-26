@@ -72559,7 +72559,8 @@
         },
         "p6": true,
         "myuser": 6119567381,
-        "tgGroupJoined": "error: The chat_id \"dexaaibot\" belongs to a user"
+        "tgGroupJoined": "error: The chat_id \"dexaaibot\" belongs to a user",
+        "p8": true
     },
     {
         "contract_address": "0xed0e2041bfb5a426e5ed426a73765624e08bbb75",
@@ -72582,7 +72583,8 @@
         },
         "p6": true,
         "myuser": 6119567381,
-        "tgGroupJoined": "error: Can't send messages"
+        "tgGroupJoined": "error: Can't send messages",
+        "p8": true
     },
     {
         "contract_address": "0x7c0e72f431fd69560d951e4c04a4de3657621a88",
@@ -72594,7 +72596,8 @@
             "ETH": 136
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x54da724e13d64619a36e1ee6f4bf92d5a410da41",
@@ -72613,7 +72616,8 @@
         ],
         "p6": true,
         "myuser": 6119567381,
-        "tgGroupJoined": "error: Can't send messages"
+        "tgGroupJoined": "error: Can't send messages",
+        "p8": true
     },
     {
         "contract_address": "0x3ca33f22893a51a80ed4ed8afebc900ae813ca02",
@@ -72640,7 +72644,8 @@
             "ETH": 5
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x1b94812f00fdc207ce94741048d60a3af86f9019",
@@ -72656,7 +72661,8 @@
         },
         "p6": true,
         "myuser": 6119567381,
-        "tgGroupJoined": "error: Can't send messages"
+        "tgGroupJoined": "error: Can't send messages",
+        "p8": true
     },
     {
         "contract_address": "0x949f131f0c6e29693d2ffabe4d1e30c3af450418",
@@ -72711,7 +72717,8 @@
         ],
         "p6": true,
         "myuser": 6119567381,
-        "tgGroupJoined": "error: Chat is too large1908"
+        "tgGroupJoined": "error: Chat is too large1908",
+        "p8": true
     },
     {
         "contract_address": "0x39a9728fb398583154e6cc5e3defa60908f58e2f",
@@ -72759,7 +72766,8 @@
         "emails": [
             "marketing@inceptionlrt.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xde8cd13b812bcd82218754a740b27e76ec1e86ad",
@@ -72806,7 +72814,8 @@
         },
         "p6": true,
         "myuser": 6119567381,
-        "tgGroupJoined": "error: Chat is too large91164"
+        "tgGroupJoined": "error: Chat is too large91164",
+        "p8": true
     },
     {
         "contract_address": "0x8eeaf9b4e356f858311db8edb25ee0b91b21fb3c",
@@ -72874,7 +72883,8 @@
             "yeth.yearn.fi"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xa43fe16908251ee70ef74718545e4fe6c5ccec9f",
