@@ -87266,5 +87266,79 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x9dceeb7201b17a9b42dd8d9d70df4b89fe242fb9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "CatGirlErc20.com"
+        ],
+        "telegram_groups": [
+            "CATGIRL_ERC"
+        ],
+        "holders": {
+            "ETH": 120
+        }
+    },
+    {
+        "contract_address": "0x8ec4e567b64d5c32e8aa009931cc5c81ce45c6cb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x6aedabcbbb7fb2083f5a4f0ece141bdfedc37c60",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "originsai.pro"
+        ],
+        "telegram_groups": [
+            "originsAi"
+        ],
+        "holders": {
+            "ETH": 45
+        }
+    },
+    {
+        "contract_address": "0x713f3829d585c35703340873b6a9e5bb8809d5e8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 43
+        }
+    },
+    {
+        "contract_address": "0xa8f0496f7a1890a9b6c28bada402c5343c48e65d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 483
+        }
+    },
+    {
+        "contract_address": "0x26b42cf385a49150f907251c2775ade9d03d58a7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "matmo.cc"
+        ],
+        "telegram_groups": [
+            "MatmoChain"
+        ],
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0x07840b4825b74cc6ce264bf2743dee647194f49b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0xff9cb08752d3a9be72de14cce63f22fa19c24637",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 81
+        }
     }
 ]
