@@ -94327,11 +94327,13 @@
             "alphabyte.technology"
         ],
         "telegram_groups": [
+            "Alphabyte_Bot",
             "alphabyteportal"
         ],
         "holders": {
             "ETH": 299
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd0bcb2c156a3507670f9bedc319a6409c41ba68e",
@@ -94344,7 +94346,11 @@
         ],
         "holders": {
             "ETH": 494
-        }
+        },
+        "emails": [
+            "\n\ne-mail : deeplnetwork22@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3f71c622b910b48a3276691f63677e77e17e8f81",
@@ -94354,11 +94360,16 @@
             "pyramidai.org"
         ],
         "telegram_groups": [
-            "PYRAMIDAIorg"
+            "PYRAMIDAIorg",
+            "PYRAMID_AI_BOT"
         ],
         "holders": {
             "ETH": 277
-        }
+        },
+        "emails": [
+            "team@pyramidai.org"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xfe98796e0af4ababd716508429e51ff9ac1bb4d5",
@@ -94373,7 +94384,8 @@
         ],
         "holders": {
             "ETH": 256
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5352e89243296204c9a6d141c6a1da26369390e9",
@@ -94386,7 +94398,11 @@
         ],
         "holders": {
             "ETH": 56
-        }
+        },
+        "emails": [
+            "admin@cosmostationai.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd8cade75ffd5f5fb014aecbab76a90d7c8068866",
@@ -94396,6 +94412,8 @@
         },
         "web_domains": [
             "aibabygenerator.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
