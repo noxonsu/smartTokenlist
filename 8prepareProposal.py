@@ -13,7 +13,7 @@ MAINFILE = os.environ.get("MAINFILE")
 print("mainfie"+MAINFILE)
 
 def filter_sites_without_proposal(data):
-    return [(entry['web_domains'][0], entry['contract_address']) for entry in data if not entry.get('p8') and entry.get('p6') and entry.get('tgGroupJoined') and entry.get('tgGroupJoined') == "success" and entry.get('web_domains')]
+    return [(entry['web_domains'][0], entry['contract_address']) for entry in data if not entry.get('p8') and entry.get('p6') and entry.get('web_domains')]
 
 
 def load_summary(contract_address):
