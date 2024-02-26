@@ -94447,7 +94447,8 @@
         ],
         "holders": {
             "ETH": 160
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xec502596d5d4835f72ed031a08ad2d43f6638bf8",
@@ -94457,7 +94458,11 @@
         },
         "web_domains": [
             "frogwifhattoken.com"
-        ]
+        ],
+        "telegram_groups": [
+            "FrogWifHatToken"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x97df0441fc62f5c374a721da1b67f6b660ccfbed",
@@ -94467,7 +94472,11 @@
         },
         "web_domains": [
             "pepemon.world"
-        ]
+        ],
+        "telegram_groups": [
+            "pepemonfinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf11b0eea040ca16709a42039f7d4ca7e420152d5",
@@ -94476,11 +94485,17 @@
             "www.skynex.tech"
         ],
         "telegram_groups": [
+            "OfficialSkyNex",
+            "SkynexCloudBot",
             "SkyNexOfficial"
         ],
         "holders": {
             "ETH": 95
-        }
+        },
+        "emails": [
+            "Contact: team@skynex.tech"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8faf730fa08bb4a4490a563d35986e4e8c9ba6d2",
@@ -94500,6 +94515,10 @@
         ],
         "holders": {
             "ETH": 47
-        }
+        },
+        "emails": [
+            "POU@pou-coin.com"
+        ],
+        "p6": true
     }
 ]
