@@ -87059,7 +87059,12 @@
         },
         "web_domains": [
             "sportpepe.com"
-        ]
+        ],
+        "telegram_groups": [
+            "sportpepe",
+            "SportPepePortal"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2fe16dd18bba26e457b7dd2080d5674312b026a2",
@@ -87069,7 +87074,11 @@
         },
         "web_domains": [
             "lp.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "LP_Defi_Official_group"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4452278b9a584951f53db20cb1d0e1c2cfe47196",
