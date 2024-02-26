@@ -94319,5 +94319,80 @@
             "Contact: team@polybet.com"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x7ba441772fdd56dda03e7e91284db2ea2ba237da",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "alphabyte.technology"
+        ],
+        "telegram_groups": [
+            "alphabyteportal"
+        ],
+        "holders": {
+            "ETH": 299
+        }
+    },
+    {
+        "contract_address": "0xd0bcb2c156a3507670f9bedc319a6409c41ba68e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "deeplnetwork.org"
+        ],
+        "telegram_groups": [
+            "deeplnetcoin"
+        ],
+        "holders": {
+            "ETH": 494
+        }
+    },
+    {
+        "contract_address": "0x3f71c622b910b48a3276691f63677e77e17e8f81",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pyramidai.org",
+            "pyramidai.org"
+        ],
+        "telegram_groups": [
+            "PYRAMIDAIorg"
+        ],
+        "holders": {
+            "ETH": 277
+        }
+    },
+    {
+        "contract_address": "0xfe98796e0af4ababd716508429e51ff9ac1bb4d5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "transactra.fi",
+            "docs.transactra.fi"
+        ],
+        "telegram_groups": [
+            "transactra",
+            "transactra_bot"
+        ],
+        "holders": {
+            "ETH": 256
+        }
+    },
+    {
+        "contract_address": "0x5352e89243296204c9a6d141c6a1da26369390e9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cosmostationai.com"
+        ],
+        "telegram_groups": [
+            "CosmostationAI"
+        ],
+        "holders": {
+            "ETH": 56
+        }
+    },
+    {
+        "contract_address": "0xd8cade75ffd5f5fb014aecbab76a90d7c8068866",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 51
+        }
     }
 ]
