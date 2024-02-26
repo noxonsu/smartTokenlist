@@ -87285,7 +87285,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "cusdc.tech"
+        ]
     },
     {
         "contract_address": "0x6aedabcbbb7fb2083f5a4f0ece141bdfedc37c60",
@@ -87339,6 +87342,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 81
-        }
+        },
+        "web_domains": [
+            "wrappedprotocol.io"
+        ]
     }
 ]
