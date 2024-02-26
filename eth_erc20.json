@@ -87100,5 +87100,68 @@
         "holders": {
             "ETH": 27
         }
+    },
+    {
+        "contract_address": "0x17f8e6694080c07d7414c918dd9b9c32a2981ea1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 663
+        }
+    },
+    {
+        "contract_address": "0xc63697b397e4dac697b1f6c130f703e9065307a5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "qna3.ai",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "qna3_official"
+        ],
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0xcb8fb2438a805664cd8c3e640b85ac473da5be87",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1426
+        }
+    },
+    {
+        "contract_address": "0x3a810ff7211b40c4fa76205a14efe161615d0385",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 654
+        }
+    },
+    {
+        "contract_address": "0xb7446b185085e019f0008f1d338de26486a4db10",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 97
+        }
+    },
+    {
+        "contract_address": "0x33dde19c163cdcce4e5a81f04a2af561b9ef58d7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 205
+        }
+    },
+    {
+        "contract_address": "0x7c9cf12d783821d5c63d8e9427af5c44bad92445",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 111
+        }
+    },
+    {
+        "contract_address": "0x9961bdbe8b7091e584c2bf9d0a160c583f564a8c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9
+        }
     }
 ]
