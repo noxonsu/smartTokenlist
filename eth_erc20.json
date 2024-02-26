@@ -94435,5 +94435,65 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x61fe38164fc071a688198d5f850809f25a9d1fa3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ethismonkey.vip"
+        ],
+        "telegram_groups": [
+            "ethismonkeyerc"
+        ],
+        "holders": {
+            "ETH": 160
+        }
+    },
+    {
+        "contract_address": "0xec502596d5d4835f72ed031a08ad2d43f6638bf8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x97df0441fc62f5c374a721da1b67f6b660ccfbed",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 101
+        }
+    },
+    {
+        "contract_address": "0xf11b0eea040ca16709a42039f7d4ca7e420152d5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.skynex.tech"
+        ],
+        "telegram_groups": [
+            "SkyNexOfficial"
+        ],
+        "holders": {
+            "ETH": 95
+        }
+    },
+    {
+        "contract_address": "0x8faf730fa08bb4a4490a563d35986e4e8c9ba6d2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 74
+        }
+    },
+    {
+        "contract_address": "0x0bcdcb6898c3b48cbb3cc8ece5ec1ff11d2ecc34",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pou-coin.com"
+        ],
+        "telegram_groups": [
+            "POUOfficialPortal"
+        ],
+        "holders": {
+            "ETH": 47
+        }
     }
 ]
