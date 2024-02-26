@@ -7067,6 +7067,7 @@
         ],
         "telegram_groups": [
             "spark_ai_official",
+            "sparkai_official",
             "sparkai_life_official"
         ],
         "holders": {
@@ -24407,6 +24408,7 @@
         ],
         "telegram_groups": [
             "spark_ai_official",
+            "sparkai_official",
             "sparkai_life_official"
         ],
         "holders": {
@@ -87368,7 +87370,8 @@
         ],
         "holders": {
             "ETH": 166
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6034372fb915c4a21c9a77299c28b82b6ec8ae89",
@@ -87379,11 +87382,17 @@
             "apps.apple.com"
         ],
         "telegram_groups": [
-            "sparkai_official"
+            "spark_ai_official",
+            "sparkai_official",
+            "sparkai_life_official"
         ],
         "holders": {
             "ETH": 100
-        }
+        },
+        "emails": [
+            "admin@sparkai.life"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5757c8703f520e9e672f59e972b19ab5ee9578ea",
