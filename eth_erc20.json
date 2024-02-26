@@ -87534,7 +87534,9 @@
         },
         "web_domains": [
             "beoble.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf3402ec8ecdd14a139e73576b1a09c1d32f37a09",
@@ -87544,7 +87546,11 @@
         },
         "web_domains": [
             "theblock.co"
-        ]
+        ],
+        "telegram_groups": [
+            "the_block_crypto"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc7bfca69a71097c044382da9385df27e39c3a5ba",
@@ -87561,7 +87567,9 @@
         },
         "web_domains": [
             "reformdao.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0418feb7d0b25c411eb77cd654305d29fcbff685",
@@ -87595,6 +87603,7 @@
         ],
         "holders": {
             "ETH": 103
-        }
+        },
+        "p6": true
     }
 ]
