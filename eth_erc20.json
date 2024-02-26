@@ -87407,5 +87407,93 @@
         "holders": {
             "ETH": 453
         }
+    },
+    {
+        "contract_address": "0x46210312aae76bfb6543ba198a30bbc6c859e487",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xd6784b3587c1749562b3dc8b181121313ac02a81",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 17
+        }
+    },
+    {
+        "contract_address": "0x9e8c30b79ab843b9f00a90ac1cfc0df1de7eaffe",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bluefin.io",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "bluefinapp"
+        ],
+        "holders": {
+            "ETH": 35
+        }
+    },
+    {
+        "contract_address": "0x0f7495b3dcdf2accb2a12bd4839cca5ffdb1856e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x95cef13441be50d20ca4558cc0a27b601ac544e5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 31
+        }
+    },
+    {
+        "contract_address": "0xfc1cb4920dc1110fd61afab75cf085c1f871b8c6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1355
+        }
+    },
+    {
+        "contract_address": "0x068e8c05edcd392ac997a15b9135eed8a6ea0c46",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.dechat.io",
+            "discord.com"
+        ],
+        "holders": {
+            "ETH": 101
+        }
+    },
+    {
+        "contract_address": "0xa9ceadafda5c7bc4f380785e15d0405b8ddcae0b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools"
+        ],
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0x019c94127df08f839348182f8736d7348ac36ec3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.0xnodes.org",
+            "app.0xnodes.org",
+            "docs.0xnodes.org"
+        ],
+        "telegram_groups": [
+            "node0x_org"
+        ],
+        "holders": {
+            "ETH": 48
+        }
     }
 ]
