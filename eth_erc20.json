@@ -94454,14 +94454,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 3
-        }
+        },
+        "web_domains": [
+            "frogwifhattoken.com"
+        ]
     },
     {
         "contract_address": "0x97df0441fc62f5c374a721da1b67f6b660ccfbed",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 101
-        }
+        },
+        "web_domains": [
+            "pepemon.world"
+        ]
     },
     {
         "contract_address": "0xf11b0eea040ca16709a42039f7d4ca7e420152d5",
