@@ -87531,14 +87531,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 8
-        }
+        },
+        "web_domains": [
+            "beoble.io"
+        ]
     },
     {
         "contract_address": "0xf3402ec8ecdd14a139e73576b1a09c1d32f37a09",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 59
-        }
+        },
+        "web_domains": [
+            "theblock.co"
+        ]
     },
     {
         "contract_address": "0xc7bfca69a71097c044382da9385df27e39c3a5ba",
@@ -87552,7 +87558,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 4
-        }
+        },
+        "web_domains": [
+            "reformdao.com"
+        ]
     },
     {
         "contract_address": "0x0418feb7d0b25c411eb77cd654305d29fcbff685",
