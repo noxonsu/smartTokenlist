@@ -87179,5 +87179,71 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xfc6ccc11c91577842c4843a335eac4a586ba6ae0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "vitalikai.io",
+            "firstcryptobank.capital"
+        ],
+        "telegram_groups": [
+            "vitalikaieth"
+        ],
+        "holders": {
+            "ETH": 66
+        }
+    },
+    {
+        "contract_address": "0xb3c8ce1ee157b0dcaa96897c9170aee6281706c9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 388
+        }
+    },
+    {
+        "contract_address": "0xa7111e8e9f02c8ce89e9a2bcb40c88f34b1c23ad",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 102
+        }
+    },
+    {
+        "contract_address": "0xb6ec26a3433d6cd11084c2094f12c4e571806d06",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 92
+        }
+    },
+    {
+        "contract_address": "0xc236bae6e35b3fb7335e1c35ca0862ce92bd5de3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x4dfca4bcb92235d6f89bb478a2ac98ee4fb529be",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Google_Genie"
+        ],
+        "holders": {
+            "ETH": 201
+        }
+    },
+    {
+        "contract_address": "0xd99563940f296eb2384989f8e7314d7dbdc48535",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x8c282c35b5e1088bb208991c151182a782637699",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
