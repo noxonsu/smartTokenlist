@@ -87413,14 +87413,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "challenge.place"
+        ]
     },
     {
         "contract_address": "0xd6784b3587c1749562b3dc8b181121313ac02a81",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 17
-        }
+        },
+        "web_domains": [
+            "masq.ai"
+        ]
     },
     {
         "contract_address": "0x9e8c30b79ab843b9f00a90ac1cfc0df1de7eaffe",
@@ -87448,7 +87454,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 31
-        }
+        },
+        "web_domains": [
+            "manta.io"
+        ]
     },
     {
         "contract_address": "0xfc1cb4920dc1110fd61afab75cf085c1f871b8c6",
