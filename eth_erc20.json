@@ -86955,11 +86955,13 @@
             "applevisiondev.xyz"
         ],
         "telegram_groups": [
-            "AppleVisionDev"
+            "AppleVisionDev",
+            "applevisiondev"
         ],
         "holders": {
             "ETH": 232
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe82a91a081c31d61b471857bb6f62a448260232d",
@@ -86975,7 +86977,8 @@
         ],
         "holders": {
             "ETH": 123
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe1ea45e1edfbdc200de628fbaa0bae735adecbd4",
@@ -87003,7 +87006,8 @@
         ],
         "holders": {
             "ETH": 33
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x93d3a08c1c976570b3c4e4645cdcbed8ed761db0",
@@ -87016,7 +87020,8 @@
         ],
         "holders": {
             "ETH": 73
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8cc379a292a47cb8406fb1bd8a6d98f442275f0e",
@@ -87026,7 +87031,11 @@
         },
         "web_domains": [
             "uranium3o8.com"
-        ]
+        ],
+        "telegram_groups": [
+            "uranium3o8community"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x01597e397605bf280674bf292623460b4204c375",
