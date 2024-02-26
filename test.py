@@ -1,18 +1,15 @@
 import json
-import os
 
-#load json file
-with open('eth_erc20.json') as f:
+input_file = "eth_erc20.json"
+output_file = "eth_erc20_withp8skip.json"
+
+with open(input_file, "r") as f:
     data = json.load(f)
 
+for item in data:
+    if item["contract_address"] == "0x0cd5cda0e120f7e22516f074284e5416949882c2":
+        break
+    item["p8skip"] = True
 
-# Sort the data by holders in descending order
-sorted_data = sorted(data, key=lambda x: x["holders"]["ETH"], reverse=True)
-
-
-# Extracting just the addresses
-addresses = [item["contract_address"] for item in sorted_data]
-
-# Comma separated addresses
-comma_separated_addresses = ',\n '.join(addresses)
-print(comma_separated_addresses)
+with open(output_file, "w") as f:
+    json.dump(data, f, indent=4)
