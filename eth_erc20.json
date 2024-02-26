@@ -87416,7 +87416,9 @@
         },
         "web_domains": [
             "challenge.place"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd6784b3587c1749562b3dc8b181121313ac02a81",
@@ -87426,7 +87428,9 @@
         },
         "web_domains": [
             "masq.ai"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9e8c30b79ab843b9f00a90ac1cfc0df1de7eaffe",
@@ -87440,7 +87444,8 @@
         ],
         "holders": {
             "ETH": 35
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0f7495b3dcdf2accb2a12bd4839cca5ffdb1856e",
@@ -87457,7 +87462,9 @@
         },
         "web_domains": [
             "manta.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xfc1cb4920dc1110fd61afab75cf085c1f871b8c6",
@@ -87475,7 +87482,11 @@
         ],
         "holders": {
             "ETH": 101
-        }
+        },
+        "telegram_groups": [
+            "joinchat"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa9ceadafda5c7bc4f380785e15d0405b8ddcae0b",
@@ -87488,7 +87499,9 @@
         ],
         "holders": {
             "ETH": 16
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x019c94127df08f839348182f8736d7348ac36ec3",
