@@ -87192,7 +87192,8 @@
         ],
         "holders": {
             "ETH": 66
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb3c8ce1ee157b0dcaa96897c9170aee6281706c9",
@@ -87209,7 +87210,12 @@
         },
         "web_domains": [
             "syn-grp.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "info@syn-grp.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb6ec26a3433d6cd11084c2094f12c4e571806d06",
@@ -87236,7 +87242,11 @@
         },
         "web_domains": [
             "learning-genie.com"
-        ]
+        ],
+        "emails": [
+            "\u00a0help@learning-genie.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd99563940f296eb2384989f8e7314d7dbdc48535",
@@ -87253,6 +87263,8 @@
         },
         "web_domains": [
             "monai.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
