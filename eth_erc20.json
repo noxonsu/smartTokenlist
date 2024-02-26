@@ -87206,7 +87206,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 102
-        }
+        },
+        "web_domains": [
+            "syn-grp.com"
+        ]
     },
     {
         "contract_address": "0xb6ec26a3433d6cd11084c2094f12c4e571806d06",
@@ -87230,7 +87233,10 @@
         ],
         "holders": {
             "ETH": 201
-        }
+        },
+        "web_domains": [
+            "learning-genie.com"
+        ]
     },
     {
         "contract_address": "0xd99563940f296eb2384989f8e7314d7dbdc48535",
@@ -87244,6 +87250,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "monai.io"
+        ]
     }
 ]
