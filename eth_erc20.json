@@ -22,7 +22,8 @@
         },
         "p6": true,
         "myuser": 6761555344,
-        "tgGroupJoined": "error: Can't send messages"
+        "tgGroupJoined": "error: Can't send messages",
+        "p8": true
     },
     {
         "contract_address": "0xd91bf741430439e17da5ddb7848512688b9c5559",
@@ -69,7 +70,8 @@
         ],
         "p6": true,
         "myuser": 6761555344,
-        "tgGroupJoined": "error: Can't send messages"
+        "tgGroupJoined": "error: Can't send messages",
+        "p8": true
     },
     {
         "contract_address": "0xd9adfb67381d392c6e9671f64cdd9014bfcd74f2",
@@ -81,7 +83,8 @@
             "ETH": 2130
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xb954562066c71b3e6e7b2ac330b03c74c0dcd5ae",
@@ -128,7 +131,8 @@
         },
         "p6": true,
         "myuser": 6761555344,
-        "tgGroupJoined": "error: Can't send messages"
+        "tgGroupJoined": "error: Can't send messages",
+        "p8": true
     },
     {
         "contract_address": "0x0ebe16fdda617619cb6b6755084914c3a17c70c1",
@@ -157,7 +161,8 @@
             "ETH": 1354770
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x238cefec182679c27a3035713416fa0a8198b302",
@@ -180,7 +185,8 @@
         },
         "p6": true,
         "myuser": 6761555344,
-        "tgGroupJoined": "error: Can't send messages"
+        "tgGroupJoined": "error: Can't send messages",
+        "p8": true
     },
     {
         "contract_address": "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f",
@@ -219,7 +225,8 @@
             "ETH": 15638
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x614da3b37b6f66f7ce69b4bbbcf9a55ce6168707",
@@ -290,7 +297,8 @@
         },
         "p6": true,
         "myuser": 6761555344,
-        "tgGroupJoined": "error: Can't send messages"
+        "tgGroupJoined": "error: Can't send messages",
+        "p8": true
     },
     {
         "contract_address": "0xbddc20ed7978b7d59ef190962f441cd18c14e19f",
@@ -313,7 +321,8 @@
         },
         "p6": true,
         "myuser": 6761555344,
-        "tgGroupJoined": "error: Can't send messages"
+        "tgGroupJoined": "error: Can't send messages",
+        "p8": true
     },
     {
         "contract_address": "0x30a4aa1d14d44f0f5bfe887447ab6facc94a549f",
@@ -357,7 +366,8 @@
         },
         "p6": true,
         "myuser": 6761555344,
-        "tgGroupJoined": "error: Can't send messages"
+        "tgGroupJoined": "error: Can't send messages",
+        "p8": true
     },
     {
         "contract_address": "0xa0ef786bf476fe0810408caba05e536ac800ff86",
