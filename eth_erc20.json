@@ -87356,5 +87356,47 @@
             "wrappedprotocol"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x4f2a3e9adb81edd8570430c4eebb0f6459964c71",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dogvisionpro.co"
+        ],
+        "telegram_groups": [
+            "VISION_portal"
+        ],
+        "holders": {
+            "ETH": 166
+        }
+    },
+    {
+        "contract_address": "0x6034372fb915c4a21c9a77299c28b82b6ec8ae89",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sparkai.life",
+            "chat.sparkai.life",
+            "apps.apple.com"
+        ],
+        "telegram_groups": [
+            "sparkai_official"
+        ],
+        "holders": {
+            "ETH": 100
+        }
+    },
+    {
+        "contract_address": "0x5757c8703f520e9e672f59e972b19ab5ee9578ea",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 113
+        }
+    },
+    {
+        "contract_address": "0x6dc02164d75651758ac74435806093e421b64605",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 453
+        }
     }
 ]
