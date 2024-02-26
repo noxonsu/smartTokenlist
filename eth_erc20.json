@@ -87518,5 +87518,74 @@
             "ETH": 48
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x670a72e6d22b0956c0d2573288f82dcc5d6e3a61",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 29
+        }
+    },
+    {
+        "contract_address": "0xe736b7f48d8ed81604cce36f67e47b38b6d6a6d2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8
+        }
+    },
+    {
+        "contract_address": "0xf3402ec8ecdd14a139e73576b1a09c1d32f37a09",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 59
+        }
+    },
+    {
+        "contract_address": "0xc7bfca69a71097c044382da9385df27e39c3a5ba",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0xea3eed8616877f5d3c4aebf5a799f2e8d6de9a5e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x0418feb7d0b25c411eb77cd654305d29fcbff685",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 138
+        }
+    },
+    {
+        "contract_address": "0xda0002859b2d05f66a753d8241fcde8623f26f4f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x51a6ac33a85d5945b049dcb40691f8d8af007722",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0x9ffb564bef81965cc772e6cb9e3675d79c9d82da",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "usinutoken.com"
+        ],
+        "telegram_groups": [
+            "usinuportal"
+        ],
+        "holders": {
+            "ETH": 103
+        }
     }
 ]
