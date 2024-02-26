@@ -87120,7 +87120,8 @@
         ],
         "holders": {
             "ETH": 32
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xcb8fb2438a805664cd8c3e640b85ac473da5be87",
@@ -87144,7 +87145,14 @@
         },
         "web_domains": [
             "bullmoon.xyz"
-        ]
+        ],
+        "telegram_groups": [
+            "Bull_mooon"
+        ],
+        "emails": [
+            "EMAIL:info@bullmoon.xyz"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x33dde19c163cdcce4e5a81f04a2af561b9ef58d7",
@@ -87168,6 +87176,8 @@
         },
         "web_domains": [
             "conic.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
