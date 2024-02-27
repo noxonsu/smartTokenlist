@@ -95399,7 +95399,11 @@
         ],
         "holders": {
             "ETH": 108
-        }
+        },
+        "emails": [
+            "info@solanext.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9a0aba393aac4dfbff4333b06c407458002c6183",
@@ -95420,7 +95424,8 @@
         ],
         "holders": {
             "ETH": 376
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x244c30fc6f1a667848961f960f76d013d3dc3126",
@@ -95437,6 +95442,8 @@
         },
         "web_domains": [
             "verified.x.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
