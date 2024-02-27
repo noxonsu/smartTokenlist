@@ -95229,7 +95229,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 129
-        }
+        },
+        "web_domains": [
+            "protocol.iearn.finance"
+        ]
     },
     {
         "contract_address": "0xa5e19f636040f9b44cf45875bed7e1cdabdb6746",
@@ -95250,7 +95253,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 53
-        }
+        },
+        "web_domains": [
+            "zenbuddhisttemple.org"
+        ]
     },
     {
         "contract_address": "0x3808708e761b988d23ae011ed0e12674fb66bd62",
