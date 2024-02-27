@@ -4636,7 +4636,8 @@
         "holders": {
             "ETH": 1024
         },
-        "p8skip": true
+        "p8skip": true,
+        "p6": true
     },
     {
         "contract_address": "0xee3c722d177559f73288cec91fa3e4bbfd8c27fc",
@@ -72559,7 +72560,8 @@
         },
         "p6": true,
         "myuser": 6119567381,
-        "tgGroupJoined": "error: The chat_id \"dexaaibot\" belongs to a user"
+        "tgGroupJoined": "error: The chat_id \"dexaaibot\" belongs to a user",
+        "p8": true
     },
     {
         "contract_address": "0xed0e2041bfb5a426e5ed426a73765624e08bbb75",
@@ -72582,7 +72584,8 @@
         },
         "p6": true,
         "myuser": 6119567381,
-        "tgGroupJoined": "error: Can't send messages"
+        "tgGroupJoined": "error: Can't send messages",
+        "p8": true
     },
     {
         "contract_address": "0x7c0e72f431fd69560d951e4c04a4de3657621a88",
@@ -72594,7 +72597,8 @@
             "ETH": 136
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x54da724e13d64619a36e1ee6f4bf92d5a410da41",
@@ -72613,7 +72617,8 @@
         ],
         "p6": true,
         "myuser": 6119567381,
-        "tgGroupJoined": "error: Can't send messages"
+        "tgGroupJoined": "error: Can't send messages",
+        "p8": true
     },
     {
         "contract_address": "0x3ca33f22893a51a80ed4ed8afebc900ae813ca02",
@@ -72640,7 +72645,8 @@
             "ETH": 5
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x1b94812f00fdc207ce94741048d60a3af86f9019",
@@ -72656,7 +72662,8 @@
         },
         "p6": true,
         "myuser": 6119567381,
-        "tgGroupJoined": "error: Can't send messages"
+        "tgGroupJoined": "error: Can't send messages",
+        "p8": true
     },
     {
         "contract_address": "0x949f131f0c6e29693d2ffabe4d1e30c3af450418",
@@ -72711,7 +72718,8 @@
         ],
         "p6": true,
         "myuser": 6119567381,
-        "tgGroupJoined": "error: Chat is too large1908"
+        "tgGroupJoined": "error: Chat is too large1908",
+        "p8": true
     },
     {
         "contract_address": "0x39a9728fb398583154e6cc5e3defa60908f58e2f",
@@ -72759,7 +72767,8 @@
         "emails": [
             "marketing@inceptionlrt.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xde8cd13b812bcd82218754a740b27e76ec1e86ad",
@@ -72806,7 +72815,8 @@
         },
         "p6": true,
         "myuser": 6119567381,
-        "tgGroupJoined": "error: Chat is too large91164"
+        "tgGroupJoined": "error: Chat is too large91164",
+        "p8": true
     },
     {
         "contract_address": "0x8eeaf9b4e356f858311db8edb25ee0b91b21fb3c",
@@ -72874,7 +72884,8 @@
             "yeth.yearn.fi"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xa43fe16908251ee70ef74718545e4fe6c5ccec9f",
@@ -72902,7 +72913,8 @@
         "holders": {
             "ETH": 79
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xbe92b510007bd3ec0adb3d1fca338dd631e98de7",
@@ -72953,7 +72965,8 @@
         "holders": {
             "ETH": 154
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x740a5ac14d0096c81d331adc1611cf2fd28ae317",
@@ -72973,7 +72986,8 @@
             "ETH": 7
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xc647af11c3cd7feb1e5e55afa8cfa8fd5b2fb218",
@@ -73029,7 +73043,8 @@
         "telegram_groups": [
             "stormwarfareHQ"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x96db9ff74c02c0514dafbe4945784a0740e883c1",
@@ -73066,7 +73081,8 @@
         "holders": {
             "ETH": 50
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xcf75f2bb76e6064760a5e1fb24fa01efaf349044",
@@ -73111,11 +73127,14 @@
             "discord.com"
         ],
         "telegram_groups": [
-            "luffytokenchannel"
+            "luffytokenchannel",
+            "MononokeTokenOfficial"
         ],
         "holders": {
             "ETH": 23209
-        }
+        },
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x42e27e36bbd0a8c08652a3e980e7476e813bfef0",
@@ -73130,7 +73149,8 @@
         "holders": {
             "ETH": 24
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xdfb44a21e3b3113f84a37ce26f43f6209edf924b",
@@ -73163,7 +73183,8 @@
             "docs.subsquid.io"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x786dbff3f1292ae8f92ea68cf93c30b34b1ed04b",
@@ -73194,7 +73215,8 @@
         "holders": {
             "ETH": 201
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xf8ca040af262d95bd9bb2c526bfa5ee8f587983f",
@@ -73209,7 +73231,8 @@
         "holders": {
             "ETH": 197
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x8eb1779a32678452eb273a22d413207299904d90",
@@ -73233,7 +73256,8 @@
         "emails": [
             "admin@hashmind.tech"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x7c31587ee47b41963b25019eb7dfee49488f51f0",
@@ -73291,7 +73315,8 @@
         "emails": [
             "info@protocol.style"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xc6b9c3fa037303d10d50d71ae3cedb0eea7a1c78",
@@ -73316,7 +73341,8 @@
         "emails": [
             "support@autominderc.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xf3f929a39a3945677d33e386f4c6768e20279200",
@@ -73330,7 +73356,8 @@
         "holders": {
             "ETH": 51
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xb4a3b0faf0ab53df58001804dda5bfc6a3d59008",
@@ -73351,7 +73378,8 @@
         "holders": {
             "ETH": 70
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x6ef3d766dfe02dc4bf04aae9122eb9a0ded25615",
@@ -73395,7 +73423,8 @@
         "holders": {
             "ETH": 16
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x1272b792e571d887fd50791aeccb463b9bb9fa42",
@@ -73409,7 +73438,8 @@
         "holders": {
             "ETH": 107
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x7a4ef93109f936f17d8611562f4be728d6fb6c40",
@@ -73423,7 +73453,8 @@
         "holders": {
             "ETH": 174
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xdc349913d53b446485e98b76800b6254f43df695",
@@ -73480,7 +73511,8 @@
         "emails": [
             "ecom.operations@sharpex.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x28300d1c687b1f982d67f8a74efded5427da6ec1",
@@ -73494,7 +73526,8 @@
         "holders": {
             "ETH": 335
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x97c22109da1dd0c5a8fa207702511e19e9e2c51f",
@@ -73508,7 +73541,8 @@
         "holders": {
             "ETH": 114
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x9fd5555d0360adc2b5d92179e9bc36802bba8621",
@@ -73542,7 +73576,8 @@
         "holders": {
             "ETH": 326
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x9a1722b1f4a1bb2f271211ade8e851afc54f77e5",
@@ -73660,7 +73695,8 @@
         "holders": {
             "ETH": 215
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xae3499c8f016faf4e23e3411f3a62192b0a1b6fe",
@@ -73705,7 +73741,8 @@
         "emails": [
             "info@presidentialbot.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x79740d53eb3bc798ec8455816211c4d6d9212bbd",
@@ -73741,7 +73778,8 @@
         "holders": {
             "ETH": 38
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xae5384a7119d380f960154d0683f5cd4343a6818",
@@ -73796,7 +73834,8 @@
         "holders": {
             "ETH": 54
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xfbc74f4cff1cf833997dd4d0a57a75687dadf7d6",
@@ -73832,7 +73871,8 @@
         "holders": {
             "ETH": 59
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x45448e05020576929fcdeabc228e35b420098840",
@@ -73847,7 +73887,8 @@
             "idavollnetwork",
             "idavollglobal"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x0acc0fee1d86d2cd5af372615bf59b298d50cd69",
@@ -73865,7 +73906,8 @@
             "ETH": 165
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x5fb001d2990aa1703e9323150ad69891f12b7f97",
@@ -73893,7 +73935,8 @@
         "holders": {
             "ETH": 178
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x58fb30a61c218a3607e9273d52995a49ff2697ee",
@@ -73922,7 +73965,8 @@
         "holders": {
             "ETH": 139
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x99c0e6637e3abd84b4d10767a36a681bcf2b2ce1",
@@ -73988,7 +74032,8 @@
         "telegram_groups": [
             "chirpley"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xbb404e5e1f80ea5d03679408b94dd677f486dc55",
@@ -74067,7 +74112,8 @@
         "emails": [
             "contact@kstarlive.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x0e52319d98c1e81c87aca872500736d8dd44c2c4",
@@ -74133,7 +74179,8 @@
         "emails": [
             "info@produceai.io"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x24fcfc492c1393274b6bcd568ac9e225bec93584",
@@ -74154,7 +74201,8 @@
         "holders": {
             "ETH": 103
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xc4c346edc55504574cceb00aa1091d22404a4bc3",
@@ -74168,7 +74216,8 @@
             "ETH": 652
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x30377540b74d5521083be68b731e90feb1e11ec7",
@@ -74192,7 +74241,8 @@
         "holders": {
             "ETH": 132
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x762d94ca7d6539609646fed4c1657a05463223f9",
@@ -74220,7 +74270,8 @@
         "telegram_groups": [
             "PeapodsFinance"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xbe59baad09b07086ee6c39bd0fc234c157c31ccc",
@@ -74250,7 +74301,8 @@
         "holders": {
             "ETH": 34
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x0cf580a0759410de2e3c6974301ec12c024ef4c7",
@@ -74402,7 +74454,8 @@
         "holders": {
             "ETH": 483
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xa719cb79af39a9c10eda2755e0938bce35e9de24",
@@ -74416,7 +74469,8 @@
         "telegram_groups": [
             "starfishfinanceofficial"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x0c65423182cf3617255d8e5242e884069258d912",
@@ -74454,7 +74508,8 @@
         "emails": [
             "contact@lockdao.io"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x80647556f67ccbd2bed66a8556ace7f5a9fbf40c",
@@ -74485,7 +74540,8 @@
         "holders": {
             "ETH": 44
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x244e9c35972847a306c5c9c73489249c3326ee40",
@@ -74499,7 +74555,8 @@
         "holders": {
             "ETH": 145
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x4156d3342d5c385a87d264f90653733592000581",
@@ -74540,7 +74597,8 @@
             "ETH": 159
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xdcb322683d7e1f6f4b779125fbf2991577447c53",
@@ -74623,7 +74681,8 @@
         "holders": {
             "ETH": 169
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xd60313c21e7e6cbc8f3da483a99c953b47a9c3ca",
@@ -74659,7 +74718,8 @@
         "holders": {
             "ETH": 33
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xa6a7fce4affe059548fc39ebbc74555952a6fb0d",
@@ -74680,7 +74740,8 @@
         "holders": {
             "ETH": 25
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xa1aeea28896f18ba85715ce9367f3689925ed428",
@@ -74692,7 +74753,8 @@
             "euclidfinance.io"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x18e5f92103d1b34623738ee79214b1659f2ee109",
@@ -74704,7 +74766,8 @@
             "ETH": 71
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x0fca7fbde293a5de02375ddad178ee2d4f68d2ff",
@@ -74718,7 +74781,8 @@
         "holders": {
             "ETH": 72
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xb258d97123c12c0880be958c8e2547487345eca2",
@@ -74749,7 +74813,8 @@
         "holders": {
             "ETH": 181
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xa686cc0f0c2d199646fb4f18e4b6dbc012f962b7",
@@ -74791,7 +74856,8 @@
         "emails": [
             "hello@intelliquantcoin.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x7f59b64c6ee521c0d7e590cf8e4b843caa236f96",
@@ -74805,7 +74871,8 @@
             "ETH": 121
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x1bdfe84bd3604d49d6a39a9e357aee6b59d303a7",
@@ -74847,7 +74914,8 @@
         "holders": {
             "ETH": 46
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xe901ec5fc8d576b48b75b42191abc3a2cc8d3cf8",
@@ -74885,7 +74953,8 @@
         "holders": {
             "ETH": 28
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xe62351bec078b72accc6ea728435f7663c1fe766",
@@ -74897,7 +74966,8 @@
             "www.filmtoken.io"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x374fb05c96c36348b92e38fb088b26b8511e3b3d",
@@ -75030,7 +75100,8 @@
             "ETH": 315
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xc437c2af9917b0ce00d831f75660e9720d49ffef",
@@ -75042,7 +75113,8 @@
             "forgottenplayland.com"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xc4e30d504fe3b18423d82a34e7ebe529a56f89c2",
@@ -75057,7 +75129,8 @@
         "holders": {
             "ETH": 222
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xb8692e69a01d480c48bdc246044fd53e74df469d",
@@ -75172,7 +75245,8 @@
         "emails": [
             "dev@scopex.app"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x8b91f277501cf8322ebe34f137dd35b384b353c7",
@@ -75191,7 +75265,8 @@
         "emails": [
             "Contact@coreai.one"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x912aed8f4648b49da7d928a84056b5825f951e19",
@@ -75211,7 +75286,8 @@
         "emails": [
             "\n                meme@memecoins.life\n                "
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xd26ba814c26cedd82cd40da33b050e7b0b93f677",
@@ -75227,7 +75303,8 @@
         "holders": {
             "ETH": 224
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xe59b14e43479dc30d77f553e4b5c6fc67e1f6caf",
@@ -75241,7 +75318,8 @@
         "web_domains": [
             "lexaai.app"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xc73c167e7a4ba109e4052f70d5466d0c312a344d",
@@ -75260,7 +75338,8 @@
             "metapool.app"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xbfab6fa95e0091ed66058ad493189d2cb29385e6",
@@ -75313,7 +75392,8 @@
         "emails": [
             "team@r1c4rd0.io"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x17bfcdf6df798a3f07e9b2afecb742f97323f476",
@@ -75365,7 +75445,8 @@
         "emails": [
             "Email : info@getde.cloud"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x34fca40cbdfd854656ffd552c62f1d861d46d88c",
@@ -75384,7 +75465,8 @@
             "nota.404.mn"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x01c4a7816a4d08013c7f5d1dd188a24a6441fa09",
@@ -75398,7 +75480,8 @@
         "holders": {
             "ETH": 38
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xc7f93c68efac7bcec6ee4df4d89308792f6117d4",
@@ -75412,7 +75495,8 @@
         "telegram_groups": [
             "PeapodsFinance"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x48c87cdacb6bb6bf6e5cd85d8ee5c847084c7410",
@@ -75440,7 +75524,8 @@
         "holders": {
             "ETH": 125
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xb1c064c3f2908f741c9dea4afc5773238b53e6cc",
@@ -75462,7 +75547,8 @@
             "ETH": 146
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xb5318027ef2c5004e9fdf6a9512e92dcfa98aed7",
@@ -75481,7 +75567,8 @@
         "emails": [
             "support@federalcrypto.fund"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x8c894d91748a42fc68f681090db06720779a7347",
@@ -75525,7 +75612,8 @@
         "emails": [
             "contact@defi-lab.xyz"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xccf4429db6322d5c611ee964527d42e5d685dd6a",
@@ -75546,7 +75634,8 @@
         "telegram_groups": [
             "LunaInuERC20"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xcd0063eaf579951c8be2018345e1ac19bdcfa8da",
@@ -75649,7 +75738,8 @@
         "holders": {
             "ETH": 415
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x2c06ba9e7f0daccbc1f6a33ea67e85bb68fbee3a",
@@ -75736,7 +75826,8 @@
         "holders": {
             "ETH": 294
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xc9da78305d36f7da5a60c299f4f51b31c8a95288",
@@ -75751,7 +75842,8 @@
         "holders": {
             "ETH": 62
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x44face2e310e543f6d85867eb06fb251e3bfe1fc",
@@ -75818,7 +75910,8 @@
         "telegram_groups": [
             "PeapodsFinance"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x106538cc16f938776c7c180186975bca23875287",
@@ -75891,7 +75984,8 @@
         "emails": [
             "contact@makeethgreatagain.org"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x719e7f0dadfdea25b78595da944f44d15d7e6795",
@@ -75913,7 +76007,8 @@
         "holders": {
             "ETH": 140
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xa833fee82c777a0df944554c59c6eb82499f98ee",
@@ -75927,7 +76022,8 @@
         "holders": {
             "ETH": 137
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xd91c684b54d752de5fe8a89c9b80ca87df4828a6",
@@ -75942,7 +76038,8 @@
         "holders": {
             "ETH": 421
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x4b7e48862e0282db24d24c4ab05c0adb5b99a6da",
@@ -75956,7 +76053,8 @@
         "holders": {
             "ETH": 132
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x90da2d83dcaabf2d5bd68b1ac13c7e3453a7b4da",
@@ -75971,7 +76069,8 @@
         "telegram_groups": [
             "potion404"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x3633219f59e07643c54ae0f2a2fa98538b7350f7",
@@ -75995,7 +76094,8 @@
         "emails": [
             "info@puppylovecoin.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xb398880e52775b584686ea74de785d06a60262d7",
@@ -76009,7 +76109,8 @@
         "holders": {
             "ETH": 221
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xd7f91853a3c5a9ae38dbb10098ddce80adb08277",
@@ -76087,7 +76188,8 @@
         "holders": {
             "ETH": 92
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x276e62c70e0b540262491199bc1206087f523af6",
@@ -76117,7 +76219,8 @@
         "holders": {
             "ETH": 76
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xfd414e39155f91e94443a9fe97e856569d0f5eec",
@@ -76138,7 +76241,8 @@
         "holders": {
             "ETH": 25
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x62ea837559eef63ab62d815ba37d559fc9368bfe",
@@ -76173,7 +76277,8 @@
         "telegram_groups": [
             "greentokenorg"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x44086035439e676c02d411880fccb9837ce37c57",
@@ -76201,7 +76306,8 @@
         "telegram_groups": [
             "wormholecrypto"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xc481cb6ab13564350f2f4efc3bcfcb815f94731d",
@@ -76215,7 +76321,8 @@
         "holders": {
             "ETH": 159
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xb4ae194a0dcf1b4080b164c1d775ee06e0817305",
@@ -76238,7 +76345,8 @@
         "holders": {
             "ETH": 4
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x835402b49abf72acaa25985091ec37d421bc69f6",
@@ -76263,7 +76371,8 @@
             "ETH": 948
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x5fc598d4c0d9a3be65b0f56c916c1d8b63c5c331",
@@ -76284,7 +76393,8 @@
         "holders": {
             "ETH": 290
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xb712d62fe84258292d1961b5150a19bc4ab49026",
@@ -76306,7 +76416,8 @@
             "ETH": 115
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x40dc02f1c16d936dbe4be405ccf1567b4366f84f",
@@ -76352,7 +76463,8 @@
             "ETH": 138
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xd2a530170d71a9cfe1651fb468e2b98f7ed7456b",
@@ -76364,7 +76476,8 @@
             "forteaud.com"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xfd6e5fa19e809f3a739c5d732b754cc1328c7fb7",
@@ -76392,7 +76505,8 @@
         "holders": {
             "ETH": 164
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xab171269842f7b0dcef571986bfac81794be7c36",
@@ -76407,7 +76521,8 @@
         "holders": {
             "ETH": 95
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x2614f86ef84b2033cfb78cc634fd7d4ea43d85eb",
@@ -76432,7 +76547,8 @@
             "casinu_inu",
             "LFG_coinERC20"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x55488fcb7adbd694c9e2fa8106feb7e5429555bd",
@@ -76475,7 +76591,8 @@
         "holders": {
             "ETH": 286
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xca530408c3e552b020a2300debc7bd18820fb42f",
@@ -76489,7 +76606,8 @@
         "telegram_groups": [
             "LunaInuERC20"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x0cc488a3f6c9a569614912e421115995493fdfec",
@@ -76530,7 +76648,8 @@
         "emails": [
             "support@bitpixel.tech"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x69579470d2e471297701df7895a11fb3a7003c7c",
@@ -76579,7 +76698,8 @@
         "emails": [
             "chainxai@proton.me"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x9686ab2891e08c76c918575c005c9c5e506f6dcf",
@@ -76593,7 +76713,8 @@
         "holders": {
             "ETH": 76
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x99bb69ee1bbfc7706c3ebb79b21c5b698fe58ec0",
@@ -76614,7 +76735,8 @@
         "telegram_groups": [
             "PeapodsFinance"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x1be6761979de8c15a0dad9ee54c9443c1a26e0be",
@@ -76648,7 +76770,8 @@
         "holders": {
             "ETH": 88
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x06d1d6077699d47b33d1cecdf7e11e6ea843e0fc",
@@ -76662,7 +76785,8 @@
         "holders": {
             "ETH": 96
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x69f04c22a7225773305b121acd6596339668821e",
@@ -76719,7 +76843,8 @@
             "farming.deotoken.io"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x5aab3c2639bae8602e43ec520dbb89476220345d",
@@ -76754,7 +76879,8 @@
         "telegram_groups": [
             "PeapodsFinance"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x50d5118fb90d572b9d42ba65e0addc4900867809",
@@ -76768,7 +76894,8 @@
         "holders": {
             "ETH": 70
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xeb83006b0aaddd15ad8afbebe2f4e0937f210673",
@@ -76814,7 +76941,8 @@
             "ETH": 1
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x050058638985181790c553dd22cd8486579d55ae",
@@ -76829,7 +76957,8 @@
         "holders": {
             "ETH": 34
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x5aed3670cb181959e09d43209ab0d7d130c214e3",
@@ -76848,7 +76977,8 @@
             "ETH": 309
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x5f2c9765537778d8b4140df6e8bd47a7ae50aef4",
@@ -76862,7 +76992,8 @@
         "telegram_groups": [
             "PeapodsFinance"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x28fda76721a8077a5de802ab0212849b8c38429e",
@@ -76885,7 +77016,8 @@
         "holders": {
             "ETH": 70
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xdadc4ee5445278478a2cc522b445e69ec8238a4c",
@@ -76909,7 +77041,8 @@
         "holders": {
             "ETH": 463
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x845c0179060362f071ff5c7f1d2703617a480f3e",
@@ -76947,7 +77080,8 @@
         "emails": [
             "support@gnomeai.cloud"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x1e9d0bb190ac34492aa11b80d28c1c86487a341f",
@@ -76996,7 +77130,8 @@
         "holders": {
             "ETH": 68
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xf57bf1e5eae65ad7bbd4196635fbaf0805c074de",
@@ -77012,7 +77147,8 @@
         "holders": {
             "ETH": 76
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xc7c8fd2d89e8feb5c5395c2efe11f63a3a651dfe",
@@ -77024,7 +77160,8 @@
             "pox.investments"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x227756cf42247182bee26675cad9f8838a042abe",
@@ -77087,7 +77224,8 @@
         "holders": {
             "ETH": 59
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x0ba11dee8b63f08ea25d0cc733601e8c15325a8d",
@@ -77119,7 +77257,8 @@
         "telegram_groups": [
             "pendlefinance"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x874286656ccf5fdfe479092aa3d68a499dbf5795",
@@ -77143,7 +77282,8 @@
         "telegram_groups": [
             "joinFIO"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xbbe3a58585121f7dc4a5c6e7de6514ec86987a77",
@@ -77157,7 +77297,8 @@
         "telegram_groups": [
             "londoncoingold"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xaeb202756bb7784429e282da887650dcd672284a",
@@ -77169,7 +77310,8 @@
             "izmirtoken.io"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xe8eee524d1fd7281d95697d751dd705c866ddeb5",
@@ -77201,7 +77343,8 @@
             "ETH": 4
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x9eda81c21c273a82be9bbc19b6a6182212068101",
@@ -77229,7 +77372,8 @@
         "telegram_groups": [
             "PeapodsFinance"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x900db999074d9277c5da2a43f252d74366230da0",
@@ -77241,7 +77385,8 @@
             "giveth.io"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xf8bd632aade6b3955034aca0472785f3be39df1a",
@@ -77277,7 +77422,8 @@
         "holders": {
             "ETH": 173
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xdd2a36ae937bc134ea694d77fc7e2e36f5d86de0",
@@ -77294,7 +77440,8 @@
         "emails": [
             "marketing@weld.money"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x3d0cc7bd2f6b5d723c7975797078935deffed454",
@@ -77308,7 +77455,8 @@
         "holders": {
             "ETH": 406
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x5ca5d0befcd63fe55874344c2bc7a564a2f4baee",
@@ -77374,7 +77522,8 @@
         "holders": {
             "ETH": 68
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x0c7adf09f760aeedc0c93a8b6d7289602f83b94e",
@@ -77444,7 +77593,8 @@
         "web_domains": [
             "www.kiwibot.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x47701298e8c4e47e73674eb9d5985b19c10d588c",
@@ -77538,7 +77688,8 @@
             "ETH": 282
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x014377c0cb83d653828a343b7cba98f82d599ba9",
@@ -77559,7 +77710,8 @@
         "holders": {
             "ETH": 212
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x39bf31af45e7a7d57b107bbab3b5ef44fd57d7c9",
@@ -77580,7 +77732,8 @@
         "telegram_groups": [
             "CognitionAI"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x6e1b4782c3b9db1986b90f0ff1e09160a63a2ed5",
@@ -94297,6 +94450,569 @@
         ],
         "emails": [
             "Contact: team@polybet.com"
+        ],
+        "p6": true
+    },
+    {
+        "contract_address": "0x7ba441772fdd56dda03e7e91284db2ea2ba237da",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "alphabyte.technology"
+        ],
+        "telegram_groups": [
+            "Alphabyte_Bot",
+            "alphabyteportal"
+        ],
+        "holders": {
+            "ETH": 299
+        },
+        "p6": true
+    },
+    {
+        "contract_address": "0xd0bcb2c156a3507670f9bedc319a6409c41ba68e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "deeplnetwork.org"
+        ],
+        "telegram_groups": [
+            "deeplnetcoin"
+        ],
+        "holders": {
+            "ETH": 494
+        },
+        "emails": [
+            "\n\ne-mail : deeplnetwork22@gmail.com"
+        ],
+        "p6": true
+    },
+    {
+        "contract_address": "0x3f71c622b910b48a3276691f63677e77e17e8f81",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pyramidai.org",
+            "pyramidai.org"
+        ],
+        "telegram_groups": [
+            "PYRAMIDAIorg",
+            "PYRAMID_AI_BOT"
+        ],
+        "holders": {
+            "ETH": 277
+        },
+        "emails": [
+            "team@pyramidai.org"
+        ],
+        "p6": true
+    },
+    {
+        "contract_address": "0xfe98796e0af4ababd716508429e51ff9ac1bb4d5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "transactra.fi",
+            "docs.transactra.fi"
+        ],
+        "telegram_groups": [
+            "transactra",
+            "transactra_bot"
+        ],
+        "holders": {
+            "ETH": 256
+        },
+        "p6": true
+    },
+    {
+        "contract_address": "0x5352e89243296204c9a6d141c6a1da26369390e9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cosmostationai.com"
+        ],
+        "telegram_groups": [
+            "CosmostationAI"
+        ],
+        "holders": {
+            "ETH": 56
+        },
+        "emails": [
+            "admin@cosmostationai.com"
+        ],
+        "p6": true
+    },
+    {
+        "contract_address": "0xd8cade75ffd5f5fb014aecbab76a90d7c8068866",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 51
+        },
+        "web_domains": [
+            "aibabygenerator.com"
+        ],
+        "telegram_groups": [],
+        "p6": true
+    },
+    {
+        "contract_address": "0x61fe38164fc071a688198d5f850809f25a9d1fa3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ethismonkey.vip"
+        ],
+        "telegram_groups": [
+            "ethismonkeyerc"
+        ],
+        "holders": {
+            "ETH": 160
+        },
+        "p6": true
+    },
+    {
+        "contract_address": "0xec502596d5d4835f72ed031a08ad2d43f6638bf8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        },
+        "web_domains": [
+            "frogwifhattoken.com"
+        ],
+        "telegram_groups": [
+            "FrogWifHatToken"
+        ],
+        "p6": true
+    },
+    {
+        "contract_address": "0x97df0441fc62f5c374a721da1b67f6b660ccfbed",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 101
+        },
+        "web_domains": [
+            "pepemon.world"
+        ],
+        "telegram_groups": [
+            "pepemonfinance"
+        ],
+        "p6": true
+    },
+    {
+        "contract_address": "0xf11b0eea040ca16709a42039f7d4ca7e420152d5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.skynex.tech"
+        ],
+        "telegram_groups": [
+            "OfficialSkyNex",
+            "SkynexCloudBot",
+            "SkyNexOfficial"
+        ],
+        "holders": {
+            "ETH": 95
+        },
+        "emails": [
+            "Contact: team@skynex.tech"
+        ],
+        "p6": true
+    },
+    {
+        "contract_address": "0x8faf730fa08bb4a4490a563d35986e4e8c9ba6d2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 74
+        }
+    },
+    {
+        "contract_address": "0x0bcdcb6898c3b48cbb3cc8ece5ec1ff11d2ecc34",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pou-coin.com"
+        ],
+        "telegram_groups": [
+            "POUOfficialPortal"
+        ],
+        "holders": {
+            "ETH": 47
+        },
+        "emails": [
+            "POU@pou-coin.com"
+        ],
+        "p6": true
+    },
+    {
+        "contract_address": "0x3cb2e9394a67f96d876a2991920b24aa32158979",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "anonymousinu.com"
+        ],
+        "telegram_groups": [
+            "AnonymousInuPortal"
+        ],
+        "holders": {
+            "ETH": 99
+        },
+        "p6": true
+    },
+    {
+        "contract_address": "0x3d8b9ccd13c854a17cef795d6f6a0871b9abb294",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 456
+        }
+    },
+    {
+        "contract_address": "0x13b6afde17de396f11c3b0f73c21a8f1694763de",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ordizk.io",
+            "ordizk.gitbook.io"
+        ],
+        "telegram_groups": [
+            "ordizk",
+            "ordizk_bridge_bot"
+        ],
+        "holders": {
+            "ETH": 134
+        },
+        "p6": true
+    },
+    {
+        "contract_address": "0xa00b2bfb87008a422cc43619b3e0688e6efc3b58",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.reddit.com"
+        ],
+        "telegram_groups": [
+            "luffytokenchannel",
+            "WagieTokenSOL",
+            "WagieTokenERC",
+            "MononokeTokenOfficial"
+        ],
+        "holders": {
+            "ETH": 93
+        },
+        "p6": true
+    },
+    {
+        "contract_address": "0x4253421e01e72c34aac349b3f1485d0b69f82247",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "BobacatERC"
+        ],
+        "holders": {
+            "ETH": 211
+        },
+        "web_domains": [
+            "bobaboba.com"
+        ],
+        "p6": true
+    },
+    {
+        "contract_address": "0x52b552c4a698c9b1de4c7fe0dd4462af141f7c3e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.alpha-bot-calls.com"
+        ],
+        "telegram_groups": [
+            "ABCAlphaBot",
+            "AlphaBotCalls"
+        ],
+        "holders": {
+            "ETH": 201
+        },
+        "p6": true
+    },
+    {
+        "contract_address": "0x8402a82cd29d11a4100594ccd04bb3aeb5c2d411",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0xdc4ee1b6a178e7514befd262117a593655ef794c",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@silo.finance",
+            "security@silo.finance"
+        ],
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x2e1cdb03d3596d3fcc0d299d31aa29cc62d812a8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fafo.gay",
+            "firstcryptobank.capital"
+        ],
+        "telegram_groups": [
+            "fafoclub_erc"
+        ],
+        "holders": {
+            "ETH": 170
+        },
+        "emails": [
+            "wtf@fafo.gay"
+        ],
+        "p6": true
+    },
+    {
+        "contract_address": "0xbb3afdf821da19b7cebe4ed4e8cd73d45edf79c1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ordiumai.tech",
+            "docs.ordiumai.tech"
+        ],
+        "telegram_groups": [
+            "Ordium_AI_Portal"
+        ],
+        "holders": {
+            "ETH": 43
+        },
+        "p6": true
+    },
+    {
+        "contract_address": "0x777af11120044b2e35912b1d6051f2a1ce8576f6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 100
+        }
+    },
+    {
+        "contract_address": "0xf5ea85e512713d69f80dba8f25c728653fc48524",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 167
+        }
+    },
+    {
+        "contract_address": "0x517a3592913eb3988c1b906a94c326656b35c1d8",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "trumpwifhatcoinerc20"
+        ],
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0xc57f1d079c862b70aa12faab19293f827187aaf6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1150
+        }
+    },
+    {
+        "contract_address": "0x63b4f3e3fa4e438698ce330e365e831f7ccd1ef4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7928
+        }
+    },
+    {
+        "contract_address": "0x41cbb6cdf5ed49a8481352ec2b1f96df33fea941",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "DogeTwoERC"
+        ],
+        "holders": {
+            "ETH": 1067
+        }
+    },
+    {
+        "contract_address": "0x317663019187fc04a9c1d4ccb76f6c5b06470718",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "taiinu.pro"
+        ],
+        "telegram_groups": [
+            "TAIINU_Portal"
+        ],
+        "holders": {
+            "ETH": 129
+        },
+        "p6": true
+    },
+    {
+        "contract_address": "0x4a86c01d67965f8cb3d0aaa2c655705e64097c31",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 77
+        }
+    },
+    {
+        "contract_address": "0xbc24c261854d08611eb0979cc34b32259329f660",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tickerpepe.vip"
+        ],
+        "telegram_groups": [
+            "TickerIsPepe"
+        ],
+        "holders": {
+            "ETH": 312
+        },
+        "p6": true
+    },
+    {
+        "contract_address": "0x45ddb1113142943896e07dd203a770343d640a29",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "peepoarmy",
+            "PeepoErc20"
+        ],
+        "holders": {
+            "ETH": 201
+        },
+        "web_domains": [
+            "peepo.army"
+        ],
+        "emails": [
+            "peepo@peepo.army"
+        ],
+        "p6": true
+    },
+    {
+        "contract_address": "0x6a6e42c1a356cc56117185846621d2e875126d59",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "MPGAERC20"
+        ],
+        "holders": {
+            "ETH": 127
+        }
+    },
+    {
+        "contract_address": "0x5052fa4a2a147eaaa4c0242e9cc54a10a4f42070",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 93
+        },
+        "web_domains": [
+            "holder.io"
+        ],
+        "telegram_groups": [
+            "s"
+        ],
+        "p6": true
+    },
+    {
+        "contract_address": "0x6aa3ecec75ceb388d2e929814ead4fc4cd0648fc",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "reversalbot.com"
+        ],
+        "telegram_groups": [
+            "RvslBot",
+            "ReversalETH"
+        ],
+        "holders": {
+            "ETH": 405
+        },
+        "p6": true
+    },
+    {
+        "contract_address": "0xcaec8ed1d0e23f598c9dfc287e54d1c04bc3d417",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "purepou.com"
+        ],
+        "telegram_groups": [
+            "PurePouERC"
+        ],
+        "holders": {
+            "ETH": 60
+        },
+        "p6": true
+    },
+    {
+        "contract_address": "0x98fbdd8a591fa6248b4337b76125379b9df4b5c4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 288
+        }
+    },
+    {
+        "contract_address": "0x99fa1493c9193fe059a67b6e56f9787ae49e006d",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "LINUXERC"
+        ],
+        "holders": {
+            "ETH": 359
+        }
+    },
+    {
+        "contract_address": "0x49c3d304f24cac59afe332d2ef4817115381f7e7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x93d89bf6a59c71830ca53f92e866cc608336f281",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x6d1a4af16d0e1ba103ae6710f4ccb885a335cee3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x078cab7eecf6bfe04c0081d5831ae4e99c43f51f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pepe-inu.com"
+        ],
+        "telegram_groups": [
+            "pepeinuentry"
+        ],
+        "holders": {
+            "ETH": 65
+        },
+        "p6": true
+    },
+    {
+        "contract_address": "0xcd74cf66c43e45abd5703f3642f73d0675d6aff7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 425
+        }
+    },
+    {
+        "contract_address": "0x40ea81066321da24af02f87e05ded5b85e79e437",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 450
+        }
+    },
+    {
+        "contract_address": "0xd487892bb4c57edbe7ab401d9fe801c8fe6473f5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1436
+        }
+    },
+    {
+        "contract_address": "0x4daeb4a06f70f4b1a5c329115731fe4b89c0b227",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1613
+        }
+    },
+    {
+        "contract_address": "0xe857734840dc188b4283d5af14ab8685467ab87d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        },
+        "web_domains": [
+            "stoic.ai"
+        ],
+        "telegram_groups": [
+            "cindicator_chat"
         ],
         "p6": true
     }
