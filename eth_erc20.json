@@ -95216,5 +95216,61 @@
         "holders": {
             "ETH": 1
         }
+    },
+    {
+        "contract_address": "0x78688eb50cf6fcff197db9b2370a27a7f98adb88",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x26ea744e5b887e5205727f55dfbe8685e3b21951",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 129
+        }
+    },
+    {
+        "contract_address": "0xa5e19f636040f9b44cf45875bed7e1cdabdb6746",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cortexai.link"
+        ],
+        "telegram_groups": [
+            "CORX_PORTAL",
+            "CORX_Bot"
+        ],
+        "holders": {
+            "ETH": 107
+        }
+    },
+    {
+        "contract_address": "0x90fb012e1ee8f7d3e0d7a48dc5eabf482bdcdaee",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 53
+        }
+    },
+    {
+        "contract_address": "0x3808708e761b988d23ae011ed0e12674fb66bd62",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 338
+        }
+    },
+    {
+        "contract_address": "0x725c263e32c72ddc3a19bea12c5a0479a81ee688",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11604
+        }
+    },
+    {
+        "contract_address": "0x53813285cc60b13fcd2105c6472a47af01f8ac84",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 22
+        }
     }
 ]
