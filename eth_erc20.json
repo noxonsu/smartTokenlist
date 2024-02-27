@@ -94828,7 +94828,10 @@
         ],
         "holders": {
             "ETH": 201
-        }
+        },
+        "web_domains": [
+            "peepo.army"
+        ]
     },
     {
         "contract_address": "0x6a6e42c1a356cc56117185846621d2e875126d59",
@@ -94845,7 +94848,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 93
-        }
+        },
+        "web_domains": [
+            "holder.io"
+        ]
     },
     {
         "contract_address": "0x6aa3ecec75ceb388d2e929814ead4fc4cd0648fc",
