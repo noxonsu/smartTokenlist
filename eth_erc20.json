@@ -94911,5 +94911,91 @@
             "ETH": 60
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x98fbdd8a591fa6248b4337b76125379b9df4b5c4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 288
+        }
+    },
+    {
+        "contract_address": "0x99fa1493c9193fe059a67b6e56f9787ae49e006d",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "LINUXERC"
+        ],
+        "holders": {
+            "ETH": 359
+        }
+    },
+    {
+        "contract_address": "0x49c3d304f24cac59afe332d2ef4817115381f7e7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x93d89bf6a59c71830ca53f92e866cc608336f281",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x6d1a4af16d0e1ba103ae6710f4ccb885a335cee3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x078cab7eecf6bfe04c0081d5831ae4e99c43f51f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pepe-inu.com"
+        ],
+        "telegram_groups": [
+            "pepeinuentry"
+        ],
+        "holders": {
+            "ETH": 65
+        }
+    },
+    {
+        "contract_address": "0xcd74cf66c43e45abd5703f3642f73d0675d6aff7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 425
+        }
+    },
+    {
+        "contract_address": "0x40ea81066321da24af02f87e05ded5b85e79e437",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 450
+        }
+    },
+    {
+        "contract_address": "0xd487892bb4c57edbe7ab401d9fe801c8fe6473f5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1436
+        }
+    },
+    {
+        "contract_address": "0x4daeb4a06f70f4b1a5c329115731fe4b89c0b227",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1613
+        }
+    },
+    {
+        "contract_address": "0xe857734840dc188b4283d5af14ab8685467ab87d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
     }
 ]
