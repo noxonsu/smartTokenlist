@@ -95025,5 +95025,61 @@
             "cindicator_chat"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x728766761480129190c68622ff8a1ef4ad2c45c8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0x16f6452e53bcaabff801c0285c80eb49b1a3da54",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "xmailerc.com"
+        ],
+        "telegram_groups": [
+            "xmail_erc"
+        ],
+        "holders": {
+            "ETH": 172
+        }
+    },
+    {
+        "contract_address": "0xb26cedcaf93afd2b61f51b96b922ab313848b74c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.wcdonalds.com"
+        ],
+        "telegram_groups": [
+            "MiteroPortal"
+        ],
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0xedb1e72f5009c7a12ee56af26ff97f89812dbb0d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "metahumanai.world"
+        ],
+        "telegram_groups": [
+            "MetaHumanAI_world_official"
+        ],
+        "holders": {
+            "ETH": 50
+        }
+    },
+    {
+        "contract_address": "0x9b53e429b0badd98ef7f01f03702986c516a5715",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hybrix.io"
+        ],
+        "holders": {
+            "ETH": 1814
+        }
     }
 ]
