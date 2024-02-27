@@ -95232,7 +95232,9 @@
         },
         "web_domains": [
             "protocol.iearn.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa5e19f636040f9b44cf45875bed7e1cdabdb6746",
@@ -95241,12 +95243,13 @@
             "cortexai.link"
         ],
         "telegram_groups": [
-            "CORX_PORTAL",
-            "CORX_Bot"
+            "CORX_Bot",
+            "CORX_PORTAL"
         ],
         "holders": {
             "ETH": 107
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x90fb012e1ee8f7d3e0d7a48dc5eabf482bdcdaee",
@@ -95256,7 +95259,9 @@
         },
         "web_domains": [
             "zenbuddhisttemple.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3808708e761b988d23ae011ed0e12674fb66bd62",
