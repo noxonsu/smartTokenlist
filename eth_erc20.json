@@ -94597,7 +94597,10 @@
         ],
         "holders": {
             "ETH": 211
-        }
+        },
+        "web_domains": [
+            "bobaboba.com"
+        ]
     },
     {
         "contract_address": "0x52b552c4a698c9b1de4c7fe0dd4462af141f7c3e",
