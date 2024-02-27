@@ -81056,7 +81056,8 @@
         "emails": [
             "hello@coalapay.org"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x4159ec2ace34df270b627f22a4f45ea8a27a40bd",
@@ -81077,7 +81078,8 @@
         "holders": {
             "ETH": 187
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xccd438a78376955a3b174be619e50aa3ddd65469",
@@ -81124,7 +81126,8 @@
             "ETH": 290
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x7f0cba748c81ff47d9fc3756d27dbc0e63552608",
@@ -81138,7 +81141,8 @@
         "holders": {
             "ETH": 55
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x60dd03f39b929f35cf88f2a5ba52898f712b7b6c",
@@ -81152,7 +81156,8 @@
         "holders": {
             "ETH": 167
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xd30b2024c8708d41cb5ce1377e44e2dbfa4881be",
@@ -81195,7 +81200,8 @@
             "bsgg.betswap.gg"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x53e79ef1cf6ac0cdf6f1743c3be3ad48fa3c5657",
@@ -81221,7 +81227,8 @@
             "hydroprotocol.finance"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x9297155e19333d65054e81bdbc10b168ce8f1378",
@@ -81240,7 +81247,8 @@
             "ETH": 147
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xee9e7bb7e55bbc86414047b61d65c9c0d91ffbd0",
@@ -81252,7 +81260,8 @@
             "fracton.cool"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xde2a67ba7c4d54933727de9efe2d03feab45e607",
@@ -81266,7 +81275,8 @@
         "holders": {
             "ETH": 15
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x8af78f0c818302164f73b2365fe152c2d1fe80e1",
