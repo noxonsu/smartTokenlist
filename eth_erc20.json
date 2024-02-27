@@ -94961,7 +94961,8 @@
         ],
         "holders": {
             "ETH": 65
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xcd74cf66c43e45abd5703f3642f73d0675d6aff7",
@@ -94999,6 +95000,10 @@
         },
         "web_domains": [
             "stoic.ai"
-        ]
+        ],
+        "telegram_groups": [
+            "cindicator_chat"
+        ],
+        "p6": true
     }
 ]
