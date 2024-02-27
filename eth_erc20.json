@@ -95494,11 +95494,15 @@
             "docs.TeleCard.org"
         ],
         "telegram_groups": [
-            "TeleCardPortal"
+            "TeleCardPortal",
+            "telecard_Autobot",
+            "TeleCard_AutoBot",
+            "telecardportal"
         ],
         "holders": {
             "ETH": 162
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x64d5fea7d2d600918b76159285994d6ed218f264",
@@ -95518,7 +95522,11 @@
         ],
         "holders": {
             "ETH": 476
-        }
+        },
+        "emails": [
+            "contact@virtuclouds.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xaf6aca2769be86b9910165bff78fea643c086c61",
@@ -95538,7 +95546,8 @@
         ],
         "holders": {
             "ETH": 265
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa08898cabe14680cdfea55398143bc120889182e",
@@ -95548,7 +95557,14 @@
         },
         "web_domains": [
             "mbdfinancials.com"
-        ]
+        ],
+        "telegram_groups": [
+            "MBDFinancials"
+        ],
+        "emails": [
+            "info@mbdfinancials.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x851fbd5d5bb554eee2a11fee69fc5090c2cca0bb",
@@ -95561,6 +95577,7 @@
         ],
         "holders": {
             "ETH": 152
-        }
+        },
+        "p6": true
     }
 ]
