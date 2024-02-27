@@ -94664,5 +94664,94 @@
         "holders": {
             "ETH": 5
         }
+    },
+    {
+        "contract_address": "0x2e1cdb03d3596d3fcc0d299d31aa29cc62d812a8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fafo.gay",
+            "firstcryptobank.capital"
+        ],
+        "telegram_groups": [
+            "fafoclub_erc"
+        ],
+        "holders": {
+            "ETH": 170
+        }
+    },
+    {
+        "contract_address": "0xbb3afdf821da19b7cebe4ed4e8cd73d45edf79c1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ordiumai.tech",
+            "docs.ordiumai.tech"
+        ],
+        "telegram_groups": [
+            "Ordium_AI_Portal"
+        ],
+        "holders": {
+            "ETH": 43
+        }
+    },
+    {
+        "contract_address": "0x777af11120044b2e35912b1d6051f2a1ce8576f6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 100
+        }
+    },
+    {
+        "contract_address": "0xf5ea85e512713d69f80dba8f25c728653fc48524",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 167
+        }
+    },
+    {
+        "contract_address": "0x517a3592913eb3988c1b906a94c326656b35c1d8",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "trumpwifhatcoinerc20"
+        ],
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0xc57f1d079c862b70aa12faab19293f827187aaf6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1150
+        }
+    },
+    {
+        "contract_address": "0x63b4f3e3fa4e438698ce330e365e831f7ccd1ef4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7928
+        }
+    },
+    {
+        "contract_address": "0x41cbb6cdf5ed49a8481352ec2b1f96df33fea941",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "DogeTwoERC"
+        ],
+        "holders": {
+            "ETH": 1067
+        }
+    },
+    {
+        "contract_address": "0x317663019187fc04a9c1d4ccb76f6c5b06470718",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "taiinu.pro"
+        ],
+        "telegram_groups": [
+            "TAIINU_Portal"
+        ],
+        "holders": {
+            "ETH": 129
+        }
     }
 ]
