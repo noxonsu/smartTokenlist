@@ -95303,5 +95303,59 @@
         "holders": {
             "ETH": 22
         }
+    },
+    {
+        "contract_address": "0x449ba4b8520daf1d8022053907590cbb38c35ff4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blastsuite.com"
+        ],
+        "telegram_groups": [
+            "blastsuite",
+            "BlastSuite_bot"
+        ],
+        "holders": {
+            "ETH": 154
+        }
+    },
+    {
+        "contract_address": "0xbaf9baefcc7be03189f670e6eaa3cc7247e22e5b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sites.google.com"
+        ],
+        "telegram_groups": [
+            "genieoneth"
+        ],
+        "holders": {
+            "ETH": 91
+        }
+    },
+    {
+        "contract_address": "0xba13afecda9beb75de5c56bbaf696b880a5a50dd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0x07d2b06b9cdb83481116d83439ef4ebef4ccb2d3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x8fa9e1c648412d78d0f16aab4a736c3a704b7e80",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "babypepe.biz"
+        ],
+        "telegram_groups": [
+            "babypepecoineth"
+        ],
+        "holders": {
+            "ETH": 34
+        }
     }
 ]
