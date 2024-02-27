@@ -94799,5 +94799,79 @@
             "ETH": 129
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x4a86c01d67965f8cb3d0aaa2c655705e64097c31",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 77
+        }
+    },
+    {
+        "contract_address": "0xbc24c261854d08611eb0979cc34b32259329f660",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tickerpepe.vip"
+        ],
+        "telegram_groups": [
+            "TickerIsPepe"
+        ],
+        "holders": {
+            "ETH": 312
+        }
+    },
+    {
+        "contract_address": "0x45ddb1113142943896e07dd203a770343d640a29",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "PeepoErc20"
+        ],
+        "holders": {
+            "ETH": 201
+        }
+    },
+    {
+        "contract_address": "0x6a6e42c1a356cc56117185846621d2e875126d59",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "MPGAERC20"
+        ],
+        "holders": {
+            "ETH": 127
+        }
+    },
+    {
+        "contract_address": "0x5052fa4a2a147eaaa4c0242e9cc54a10a4f42070",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 93
+        }
+    },
+    {
+        "contract_address": "0x6aa3ecec75ceb388d2e929814ead4fc4cd0648fc",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "reversalbot.com"
+        ],
+        "telegram_groups": [
+            "RvslBot",
+            "ReversalETH"
+        ],
+        "holders": {
+            "ETH": 405
+        }
+    },
+    {
+        "contract_address": "0xcaec8ed1d0e23f598c9dfc287e54d1c04bc3d417",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "purepou.com"
+        ],
+        "telegram_groups": [
+            "PurePouERC"
+        ],
+        "holders": {
+            "ETH": 60
+        }
     }
 ]
