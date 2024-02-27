@@ -90254,8 +90254,8 @@
             "www.wcdonalds.com"
         ],
         "telegram_groups": [
-            "BurgEth",
-            "WcDIZER3000"
+            "WcDIZER3000",
+            "BurgEth"
         ],
         "holders": {
             "ETH": 218
@@ -95044,7 +95044,8 @@
         ],
         "holders": {
             "ETH": 172
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb26cedcaf93afd2b61f51b96b922ab313848b74c",
@@ -95053,11 +95054,14 @@
             "www.wcdonalds.com"
         ],
         "telegram_groups": [
-            "MiteroPortal"
+            "MiteroPortal",
+            "BurgEth",
+            "WcDIZER3000"
         ],
         "holders": {
             "ETH": 6
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xedb1e72f5009c7a12ee56af26ff97f89812dbb0d",
@@ -95070,7 +95074,8 @@
         ],
         "holders": {
             "ETH": 50
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9b53e429b0badd98ef7f01f03702986c516a5715",
