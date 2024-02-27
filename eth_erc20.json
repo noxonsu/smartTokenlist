@@ -95434,6 +95434,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 150
-        }
+        },
+        "web_domains": [
+            "verified.x.com"
+        ]
     }
 ]
