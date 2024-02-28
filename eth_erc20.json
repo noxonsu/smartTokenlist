@@ -95599,5 +95599,92 @@
             "ETH": 152
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xaaa70ff01820ca9b9c91e00767f7251c171e63b1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "officialpepe.com"
+        ],
+        "telegram_groups": [
+            "OfficialPepeETH"
+        ],
+        "holders": {
+            "ETH": 60
+        }
+    },
+    {
+        "contract_address": "0x3af8984d901471df8ccaa589ab5523c2357b598f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 126
+        }
+    },
+    {
+        "contract_address": "0xbf16c4528b1970ec522dbeabab9c93d2a4b722c6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xdef1520261f9a7bd8cdae88412bcdd47321bbb67",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "shepe.net"
+        ],
+        "telegram_groups": [
+            "shepeETH"
+        ],
+        "holders": {
+            "ETH": 52
+        }
+    },
+    {
+        "contract_address": "0x10c90749fcc18b814ddc1a4f6c40e1edc8b90422",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "officialbrett.com"
+        ],
+        "telegram_groups": [
+            "brettonethereum"
+        ],
+        "holders": {
+            "ETH": 57
+        }
+    },
+    {
+        "contract_address": "0xc9109ec5f011c452739da857ff2451914e1de4ee",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x21d1b3f171f3af809241341bdc6ed0802feebb23",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "simpepeyellow.xyz"
+        ],
+        "telegram_groups": [
+            "SimPepeYellow_Portal"
+        ],
+        "holders": {
+            "ETH": 105
+        }
+    },
+    {
+        "contract_address": "0xe85eb7333b9d77d6e60811cb87a58ed66243771e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 42
+        }
+    },
+    {
+        "contract_address": "0x3107605dc3ce19d65abd6784c15842a0a5f9bc0b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
     }
 ]
