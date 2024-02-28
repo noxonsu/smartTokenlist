@@ -95945,7 +95945,9 @@
         },
         "web_domains": [
             "babyxmail.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xecb881e122a8d542b8a7ba333db72f90601f6b60",
@@ -95961,13 +95963,15 @@
         "contract_address": "0xddfa35610022ed90ccfea6b7e3e0f6288918a398",
         "sourceScanned": "processed",
         "telegram_groups": [
-            "MOGEcoinerc20"
+            "MOGEcoinerc20",
+            "mogebsc"
         ],
         "holders": {
             "ETH": 131
         },
         "web_domains": [
             "mogebsc.xyz"
-        ]
+        ],
+        "p6": true
     }
 ]
