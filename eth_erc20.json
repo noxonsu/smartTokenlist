@@ -96797,7 +96797,11 @@
         },
         "web_domains": [
             "staking.biconomy.io"
-        ]
+        ],
+        "telegram_groups": [
+            "biconomy"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe8231d82bb34b5d95de53de17b8c535ef7cfea4a",
@@ -96814,7 +96818,9 @@
         },
         "web_domains": [
             "aegislaunchpad.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xeb247fa756e362b7e5510e16284f50dd457ebb7a",
@@ -96824,7 +96830,9 @@
         },
         "web_domains": [
             "realnobody.xyz"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x14620e2a3b8103518102512cb669b865afd80a3d",
