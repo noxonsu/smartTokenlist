@@ -95894,5 +95894,74 @@
         "holders": {
             "ETH": 1
         }
+    },
+    {
+        "contract_address": "0x5c76ad4764a4607cd57644faa937a8ca16729e39",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1099
+        }
+    },
+    {
+        "contract_address": "0x94aa96af2b6b96f24adda1439b83ab3f58216091",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 298
+        }
+    },
+    {
+        "contract_address": "0x7fa7df4996ac59f398476892cfb195ed38543520",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1009
+        }
+    },
+    {
+        "contract_address": "0x00000000a6dcb65cff59202b627b628c288769d7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 262
+        }
+    },
+    {
+        "contract_address": "0x2ef52ed7de8c5ce03a4ef0efbe9b7450f2d7edc9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 91600
+        }
+    },
+    {
+        "contract_address": "0x5ac6efe0d74c7938027c7c52130f2209a0c4f9a7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 141
+        }
+    },
+    {
+        "contract_address": "0x9136e93c95e8f4eb5cc98c93187ae790e2742740",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0xecb881e122a8d542b8a7ba333db72f90601f6b60",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Snowflakecoinerc20"
+        ],
+        "holders": {
+            "ETH": 113
+        }
+    },
+    {
+        "contract_address": "0xddfa35610022ed90ccfea6b7e3e0f6288918a398",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "MOGEcoinerc20"
+        ],
+        "holders": {
+            "ETH": 131
+        }
     }
 ]
