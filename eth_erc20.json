@@ -95611,7 +95611,11 @@
         ],
         "holders": {
             "ETH": 60
-        }
+        },
+        "emails": [
+            "hi@officialpepe.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3af8984d901471df8ccaa589ab5523c2357b598f",
@@ -95634,11 +95638,13 @@
             "shepe.net"
         ],
         "telegram_groups": [
-            "shepeETH"
+            "shepeETH",
+            "pacacentral"
         ],
         "holders": {
             "ETH": 52
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x10c90749fcc18b814ddc1a4f6c40e1edc8b90422",
@@ -95647,11 +95653,16 @@
             "officialbrett.com"
         ],
         "telegram_groups": [
-            "brettonethereum"
+            "brettonethereum",
+            "Brett_erc"
         ],
         "holders": {
             "ETH": 57
-        }
+        },
+        "emails": [
+            "Contact Us: team@officialbrett.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc9109ec5f011c452739da857ff2451914e1de4ee",
@@ -95671,7 +95682,8 @@
         ],
         "holders": {
             "ETH": 105
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe85eb7333b9d77d6e60811cb87a58ed66243771e",
@@ -95681,7 +95693,11 @@
         },
         "web_domains": [
             "healthmedi.io"
-        ]
+        ],
+        "telegram_groups": [
+            "joinchat"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3107605dc3ce19d65abd6784c15842a0a5f9bc0b",
