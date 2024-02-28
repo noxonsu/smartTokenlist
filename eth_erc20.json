@@ -96754,7 +96754,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 14
-        }
+        },
+        "web_domains": [
+            "alvaraprotocol.io"
+        ]
     },
     {
         "contract_address": "0x97c996ddc895022eb30e75ac673f604444c513d8",
@@ -96775,7 +96778,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 37
-        }
+        },
+        "web_domains": [
+            "staking.biconomy.io"
+        ]
     },
     {
         "contract_address": "0xe8231d82bb34b5d95de53de17b8c535ef7cfea4a",
@@ -96789,14 +96795,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 5
-        }
+        },
+        "web_domains": [
+            "aegislaunchpad.com"
+        ]
     },
     {
         "contract_address": "0xeb247fa756e362b7e5510e16284f50dd457ebb7a",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 9
-        }
+        },
+        "web_domains": [
+            "realnobody.xyz"
+        ]
     },
     {
         "contract_address": "0x14620e2a3b8103518102512cb669b865afd80a3d",
