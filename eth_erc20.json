@@ -96975,7 +96975,8 @@
         ],
         "holders": {
             "ETH": 82
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7ca4abddda71c61c172b670997130a1e4da32079",
@@ -96985,7 +96986,11 @@
         },
         "web_domains": [
             "datboiofficial.com"
-        ]
+        ],
+        "telegram_groups": [
+            "DatBoiOfficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7e291890b01e5181f7ecc98d79ffbe12ad23df9e",
