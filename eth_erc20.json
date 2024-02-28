@@ -96586,5 +96586,56 @@
         },
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xf6fee3a8ac8040c3d6d81d9a4a168516ec9b51d2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0xfe5d07fc86f7b758cf489ea65aec3d1f9c658cd3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "weresoback.today"
+        ],
+        "holders": {
+            "ETH": 21
+        }
+    },
+    {
+        "contract_address": "0x890a60b4450484847380bddca0c3c3ee2ff0dfbe",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "xratio.net",
+            "docs.xratio.net"
+        ],
+        "telegram_groups": [
+            "xratio_ai"
+        ],
+        "holders": {
+            "ETH": 289
+        }
+    },
+    {
+        "contract_address": "0x8a944bb731e302fdb3571350513f149f15fcbe34",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1492
+        }
+    },
+    {
+        "contract_address": "0xd3b9a9e5ee4aab3963c95dd715882def4f22b449",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "revhuberc.com"
+        ],
+        "telegram_groups": [
+            "Revhubercportal"
+        ],
+        "holders": {
+            "ETH": 319
+        }
     }
 ]
