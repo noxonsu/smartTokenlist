@@ -96468,5 +96468,90 @@
             "team@cosmowallet.app"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x4c73c1c8c95de5674d53604b15d968485414cb32",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 265
+        }
+    },
+    {
+        "contract_address": "0xb4460e76d99ecad95030204d3c25fb33c4833997",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0x1ce7a393d61dc0149d5c397fa2d10b3c0b9fde92",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "uncensored-ai.gitbook.io",
+            "un-censored.ai"
+        ],
+        "telegram_groups": [
+            "uncensoredai_UAI"
+        ],
+        "holders": {
+            "ETH": 77
+        }
+    },
+    {
+        "contract_address": "0xbccd27062ae1a2bea5731c904b96edfb163aba21",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 244
+        }
+    },
+    {
+        "contract_address": "0x85225ed797fd4128ac45a992c46ea4681a7a15da",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3274
+        }
+    },
+    {
+        "contract_address": "0xd6ad7a6750a7593e092a9b218d66c0a814a3436e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1774
+        }
+    },
+    {
+        "contract_address": "0x6e81b866a72075dccd935e01ef9325e63357b81d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.magicinternettoucans.wtf"
+        ],
+        "telegram_groups": [
+            "MagicInternetToucans"
+        ],
+        "holders": {
+            "ETH": 125
+        }
+    },
+    {
+        "contract_address": "0xaadcb3b14bd9d0d04aab03ada882bea698aa1638",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "proxerc20.com"
+        ],
+        "telegram_groups": [
+            "proxerc20"
+        ],
+        "holders": {
+            "ETH": 67
+        }
+    },
+    {
+        "contract_address": "0x6081d7f04a8c31e929f25152d4ad37c83638c62b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "developer.mozilla.org"
+        ],
+        "holders": {
+            "ETH": 28
+        }
     }
 ]
