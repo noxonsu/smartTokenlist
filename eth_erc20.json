@@ -96355,7 +96355,10 @@
         ],
         "holders": {
             "ETH": 42
-        }
+        },
+        "web_domains": [
+            "egod.win"
+        ]
     },
     {
         "contract_address": "0xd6f12931679b43f92808c37ebfff53423676d795",
