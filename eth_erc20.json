@@ -96474,7 +96474,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 265
-        }
+        },
+        "web_domains": [
+            "bombshelterinu.com"
+        ]
     },
     {
         "contract_address": "0xb4460e76d99ecad95030204d3c25fb33c4833997",
