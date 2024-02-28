@@ -95758,7 +95758,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 34
-        }
+        },
+        "web_domains": [
+            "linqai.net"
+        ]
     },
     {
         "contract_address": "0xb93746dc7a8bf5e381ffb278085b1f62bd0a1fc8",
@@ -95805,14 +95808,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 94
-        }
+        },
+        "web_domains": [
+            "zombygun.com"
+        ]
     },
     {
         "contract_address": "0xc862eff8b770167b969e56a1526b3c8a4c4f62ec",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 5
-        }
+        },
+        "web_domains": [
+            "alphamodz.io"
+        ]
     },
     {
         "contract_address": "0x2dc0b7bf8150b104d75215194556da9db6e4d258",
