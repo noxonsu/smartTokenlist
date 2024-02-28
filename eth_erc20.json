@@ -96477,7 +96477,11 @@
         },
         "web_domains": [
             "bombshelterinu.com"
-        ]
+        ],
+        "telegram_groups": [
+            "bombshelterinu"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb4460e76d99ecad95030204d3c25fb33c4833997",
@@ -96498,7 +96502,8 @@
         ],
         "holders": {
             "ETH": 77
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xbccd27062ae1a2bea5731c904b96edfb163aba21",
@@ -96532,7 +96537,8 @@
         ],
         "holders": {
             "ETH": 125
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xaadcb3b14bd9d0d04aab03ada882bea698aa1638",
@@ -96541,11 +96547,13 @@
             "proxerc20.com"
         ],
         "telegram_groups": [
-            "proxerc20"
+            "proxerc20",
+            "TauDGX1_bot"
         ],
         "holders": {
             "ETH": 67
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6081d7f04a8c31e929f25152d4ad37c83638c62b",
@@ -96555,6 +96563,8 @@
         ],
         "holders": {
             "ETH": 28
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     }
 ]
