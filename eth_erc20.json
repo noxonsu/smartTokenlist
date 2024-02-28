@@ -96318,5 +96318,117 @@
         "holders": {
             "ETH": 1
         }
+    },
+    {
+        "contract_address": "0xd979c468a68062e7bdff4ba6df7842dfd3492e0f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2229
+        }
+    },
+    {
+        "contract_address": "0x0869055c098fe927e1816caafb16e9133e5258fe",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0xa99a4329c49369fb41e6cb6852535bbf3d4f749b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 46
+        }
+    },
+    {
+        "contract_address": "0x248d83f7ac03cebcc06d5c1a52c9b5d0ebb9936e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x0a962dd04402bbde048c7050587258c954e5507d",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "EGODErc20coin"
+        ],
+        "holders": {
+            "ETH": 42
+        }
+    },
+    {
+        "contract_address": "0xd6f12931679b43f92808c37ebfff53423676d795",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x72f713d11480dcf08b37e1898670e736688d218d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nettensor.com",
+            "docs.nettensor.com"
+        ],
+        "telegram_groups": [
+            "nettensor"
+        ],
+        "holders": {
+            "ETH": 179
+        }
+    },
+    {
+        "contract_address": "0x9a13f8214184c6f2ea14f1f171ee1989e09efe80",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "rddt.lol"
+        ],
+        "telegram_groups": [
+            "redditportal_rddt"
+        ],
+        "holders": {
+            "ETH": 110
+        }
+    },
+    {
+        "contract_address": "0xd6cab5ccb04fa2047be0c16b91ee5b601302f928",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.herai.tech",
+            "app.herai.tech"
+        ],
+        "telegram_groups": [
+            "HERAI_erc"
+        ],
+        "holders": {
+            "ETH": 131
+        }
+    },
+    {
+        "contract_address": "0xd0bc55fefe9094668161de80b44ee5c4c3c3475a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ainteltools.app"
+        ],
+        "telegram_groups": [
+            "ainteltools"
+        ],
+        "holders": {
+            "ETH": 108
+        }
+    },
+    {
+        "contract_address": "0xaef7d7cd4a176d647086282c99c69dde1570f70f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cosmowallet.app"
+        ],
+        "telegram_groups": [
+            "cosmowalletERC"
+        ],
+        "holders": {
+            "ETH": 178
+        }
     }
 ]
