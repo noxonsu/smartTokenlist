@@ -96215,12 +96215,12 @@
             "0xchat.ai"
         ],
         "telegram_groups": [
-            "xchat_ai",
             "xchat_ai"
         ],
         "holders": {
             "ETH": 107
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf715116d1bec85bb75c5f896261d677b053b883e",
@@ -96234,7 +96234,8 @@
         ],
         "holders": {
             "ETH": 151
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x648de8a5576a42d6790d3a28f70cc2957dbe7cee",
@@ -96243,11 +96244,16 @@
             "mevdao.org"
         ],
         "telegram_groups": [
+            "MevDao",
             "mevdao"
         ],
         "holders": {
             "ETH": 40
-        }
+        },
+        "emails": [
+            "hi@mevdao.org"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8e3a59427b1d87db234dd4ff63b25e4bf94672f4",
@@ -96257,7 +96263,9 @@
         },
         "web_domains": [
             "kelpdao.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xff42a9af956617e4c3532ef2fc7567465efe4909",
@@ -96273,7 +96281,9 @@
         ],
         "holders": {
             "ETH": 1
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x063fa24de351f0de04bb665ee2aa2f2cf7eddbba",
