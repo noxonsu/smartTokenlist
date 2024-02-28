@@ -96602,7 +96602,11 @@
         ],
         "holders": {
             "ETH": 21
-        }
+        },
+        "telegram_groups": [
+            "weresobacktoday"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x890a60b4450484847380bddca0c3c3ee2ff0dfbe",
@@ -96616,7 +96620,11 @@
         ],
         "holders": {
             "ETH": 289
-        }
+        },
+        "emails": [
+            "\n\t\t\t\t\t\tcontact@xratio.net\n\t\t\t\t\t\t"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8a944bb731e302fdb3571350513f149f15fcbe34",
@@ -96632,10 +96640,12 @@
             "revhuberc.com"
         ],
         "telegram_groups": [
-            "Revhubercportal"
+            "Revhubercportal",
+            "Revhuberc"
         ],
         "holders": {
             "ETH": 319
-        }
+        },
+        "p6": true
     }
 ]
