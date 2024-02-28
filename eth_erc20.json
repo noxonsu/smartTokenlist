@@ -96667,5 +96667,142 @@
             "ETH": 319
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x31d97bee76213230d1798c0a6efd941d02d6ca60",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "work-ai.pro"
+        ],
+        "telegram_groups": [
+            "WorkAICoin"
+        ],
+        "holders": {
+            "ETH": 49
+        }
+    },
+    {
+        "contract_address": "0x1c92c0295807f1f7c0726cf51a1d26298563f14a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "coinracer.io",
+            "documentation.coinracer.io"
+        ],
+        "telegram_groups": [
+            "Coinracer_Reloaded"
+        ],
+        "holders": {
+            "ETH": 515
+        }
+    },
+    {
+        "contract_address": "0xb3aa0db51f6053089c392439eaad9a781fe36459",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "boomerc.sbs"
+        ],
+        "telegram_groups": [
+            "Boom_ERC20",
+            "BoomDeployerBot"
+        ],
+        "holders": {
+            "ETH": 84
+        }
+    },
+    {
+        "contract_address": "0x32d2ffeb16da46d006ed8ab010b13eb200cfbe90",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pepo.lol"
+        ],
+        "telegram_groups": [
+            "pepocoinerc"
+        ],
+        "holders": {
+            "ETH": 74
+        }
+    },
+    {
+        "contract_address": "0x808688c820ab080a6ff1019f03e5ec227d9b522b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10
+        }
+    },
+    {
+        "contract_address": "0x996dc5dfc819408dd98cd92c9a76f64b0738dc3d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 676
+        }
+    },
+    {
+        "contract_address": "0x0caa29cc8fc91f09c3d0510a941a9c11e31f180b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fr33gpt.com"
+        ],
+        "telegram_groups": [
+            "FR33GPTPortal"
+        ],
+        "holders": {
+            "ETH": 56
+        }
+    },
+    {
+        "contract_address": "0x8e729198d1c59b82bd6bba579310c40d740a11c2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0x97c996ddc895022eb30e75ac673f604444c513d8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.nrgai.app",
+            "whitepaper.nrgai.app"
+        ],
+        "telegram_groups": [
+            "NRGAIportal"
+        ],
+        "holders": {
+            "ETH": 419
+        }
+    },
+    {
+        "contract_address": "0x9137f3a026fa419a7a9a0ba8df6601d4b0abfd26",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 37
+        }
+    },
+    {
+        "contract_address": "0xe8231d82bb34b5d95de53de17b8c535ef7cfea4a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 39
+        }
+    },
+    {
+        "contract_address": "0x1962c242f11445bc6d905c2a7a1cda1dbb0d56c2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0xeb247fa756e362b7e5510e16284f50dd457ebb7a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9
+        }
+    },
+    {
+        "contract_address": "0x14620e2a3b8103518102512cb669b865afd80a3d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
