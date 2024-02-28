@@ -96860,5 +96860,116 @@
         "holders": {
             "ETH": 1
         }
+    },
+    {
+        "contract_address": "0x419586c41f164a82b9bb578ae1825a05fcea36ec",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.PepaEthCoin.com"
+        ],
+        "telegram_groups": [
+            "PepaOnEth"
+        ],
+        "holders": {
+            "ETH": 220
+        }
+    },
+    {
+        "contract_address": "0x950072f07ab91c1d29f186df49ccee95a41f7db5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "meme.market"
+        ],
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x3d3c1ac3b4f8a852a6f70ed193e4483f1cf4ff71",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x21597ad2ef64be1f68a02eae30fb681715a3c3b0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0xc07ee336b7d73cf93dcc179c599666551473df8b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 188
+        }
+    },
+    {
+        "contract_address": "0xafa42b8ba6ba9dace46dae129a2a1ef54b73fa8b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "modaieth.com",
+            "modai.gitbook.io"
+        ],
+        "telegram_groups": [
+            "modaieth",
+            "tgmodai_bot"
+        ],
+        "holders": {
+            "ETH": 277
+        }
+    },
+    {
+        "contract_address": "0x695afdb42edff97af470a15920a66df81a234c0e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 629
+        }
+    },
+    {
+        "contract_address": "0x2115651d2ad8f71da2609dc9955c2889bba16a56",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "LarryFinkCoin"
+        ],
+        "holders": {
+            "ETH": 195
+        }
+    },
+    {
+        "contract_address": "0xb30ad43cbdff63da73d4300a90791d5fb0c4d5f2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 39
+        }
+    },
+    {
+        "contract_address": "0x4975541f03904334c0d2ee98395dafa2c75f4439",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.traderaierc.com",
+            "trader-ai.gitbook.io"
+        ],
+        "telegram_groups": [
+            "TraderAi_ETH"
+        ],
+        "holders": {
+            "ETH": 82
+        }
+    },
+    {
+        "contract_address": "0x7ca4abddda71c61c172b670997130a1e4da32079",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 117
+        }
+    },
+    {
+        "contract_address": "0x7e291890b01e5181f7ecc98d79ffbe12ad23df9e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1699
+        }
     }
 ]
