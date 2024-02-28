@@ -96142,5 +96142,22 @@
         "holders": {
             "ETH": 935
         }
+    },
+    {
+        "contract_address": "0x4ff8b6050b076fd601bbee794cbb4a8452edba42",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "newteslaroadster"
+        ],
+        "holders": {
+            "ETH": 191
+        }
+    },
+    {
+        "contract_address": "0x7f8f7dd53d1f3ac1052565e3ff451d7fe666a311",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 86
+        }
     }
 ]
