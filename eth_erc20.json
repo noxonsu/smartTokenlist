@@ -86901,7 +86901,8 @@
         "holders": {
             "ETH": 25
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x9dc7b4538c7eb1dc97c100b604273b54ef99dbc8",
@@ -86915,7 +86916,8 @@
         "web_domains": [
             "dora.dev"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x4581af35199bbde87a89941220e04e27ce4b0099",
@@ -86927,7 +86929,8 @@
             "ETH": 492
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x3d36635f1eaef3bc2c91adbad04ad49b008b0228",
@@ -86944,7 +86947,8 @@
         "emails": [
             "team@sora20erc.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x84543e28c58ac7866ec26fb55dd3a5d7e37bf459",
@@ -86958,7 +86962,8 @@
         "web_domains": [
             "coracoraeats.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x29401e5dfce99c42adf723a456f8beacf1b0d5d5",
@@ -86974,7 +86979,8 @@
         "holders": {
             "ETH": 141
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xc80d49e04b31b31e6bb346157bcdcad55d50d7f5",
@@ -86998,7 +87004,8 @@
         "emails": [
             "admin@goldenmagfi.io"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xf57c4e71b5efcca9153b2b5959e57d0508cbe28a",
@@ -87012,7 +87019,8 @@
         "holders": {
             "ETH": 156
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xc5e516adc497690980823397a63846cc77b7f6ce",
@@ -87038,7 +87046,8 @@
             "rosnet.com"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xcd240872ce2fe6266fed8d851f47ef553c88c0db",
@@ -87057,7 +87066,8 @@
             "siren.fi"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x13339fd07934cd674269726edf3b5ccee9dd93de",
