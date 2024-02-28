@@ -95993,5 +95993,111 @@
             "mogebsc.xyz"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0xabe0dfaf703406bb430c55e15d49cbd189cc6e29",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 69
+        }
+    },
+    {
+        "contract_address": "0x29ef81cc8737f19449d501396d4968d138140675",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "0xConnectHQ.io",
+            "whitepaper.0xconnecthq.io"
+        ],
+        "telegram_groups": [
+            "ZeroxconnectHQ"
+        ],
+        "holders": {
+            "ETH": 503
+        }
+    },
+    {
+        "contract_address": "0xaba16cda60b232174f672805790fa9ae9f2a2442",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "elon-x.us"
+        ],
+        "telegram_groups": [
+            "ELON_X_Memecoin"
+        ],
+        "holders": {
+            "ETH": 143
+        }
+    },
+    {
+        "contract_address": "0x5a13728858c8f3041d606057dfc617101bf1b59a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x33d4109baa2100df21d7603a8abc898c742a094b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "atlasai.pro",
+            "docs.atlasai.pro"
+        ],
+        "telegram_groups": [
+            "atlasai_entry"
+        ],
+        "holders": {
+            "ETH": 53
+        }
+    },
+    {
+        "contract_address": "0xc452966d9e51d924e9309b532a46957f0a1b14ad",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 892
+        }
+    },
+    {
+        "contract_address": "0x1712aad2c773ee04bdc9114b32163c058321cd85",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "travis-ci.com"
+        ],
+        "holders": {
+            "ETH": 618
+        }
+    },
+    {
+        "contract_address": "0x4123a68092fcdc2369f2025a8896646c4a476216",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 456
+        }
+    },
+    {
+        "contract_address": "0x593b5411c9dfa116c00f48b9404851c249572540",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pepeai.io",
+            "pepeai.medium.com"
+        ],
+        "telegram_groups": [
+            "pepeaiChannel"
+        ],
+        "holders": {
+            "ETH": 34
+        }
+    },
+    {
+        "contract_address": "0xddaf34288456cf58f87350d144d4699f88692e9f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sdopecoin.com"
+        ],
+        "telegram_groups": [
+            "SDOPE_PORTAL"
+        ],
+        "holders": {
+            "ETH": 935
+        }
     }
 ]
