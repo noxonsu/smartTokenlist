@@ -96154,7 +96154,8 @@
         },
         "web_domains": [
             "arenaev.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7f8f7dd53d1f3ac1052565e3ff451d7fe666a311",
