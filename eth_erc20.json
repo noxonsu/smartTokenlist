@@ -95942,7 +95942,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 13
-        }
+        },
+        "web_domains": [
+            "babyxmail.com"
+        ]
     },
     {
         "contract_address": "0xecb881e122a8d542b8a7ba333db72f90601f6b60",
@@ -95962,6 +95965,9 @@
         ],
         "holders": {
             "ETH": 131
-        }
+        },
+        "web_domains": [
+            "mogebsc.xyz"
+        ]
     }
 ]
