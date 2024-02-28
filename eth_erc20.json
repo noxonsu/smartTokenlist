@@ -96868,11 +96868,13 @@
             "www.PepaEthCoin.com"
         ],
         "telegram_groups": [
-            "PepaOnEth"
+            "PepaOnEth",
+            "pepaOnEth"
         ],
         "holders": {
             "ETH": 220
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x950072f07ab91c1d29f186df49ccee95a41f7db5",
@@ -96882,7 +96884,9 @@
         ],
         "holders": {
             "ETH": 3
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3d3c1ac3b4f8a852a6f70ed193e4483f1cf4ff71",
@@ -96899,7 +96903,9 @@
         },
         "web_domains": [
             "predictionio.apache.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc07ee336b7d73cf93dcc179c599666551473df8b",
@@ -96916,12 +96922,13 @@
             "modai.gitbook.io"
         ],
         "telegram_groups": [
-            "modaieth",
-            "tgmodai_bot"
+            "tgmodai_bot",
+            "modaieth"
         ],
         "holders": {
             "ETH": 277
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x695afdb42edff97af470a15920a66df81a234c0e",
@@ -96941,7 +96948,8 @@
         },
         "web_domains": [
             "blackrock.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb30ad43cbdff63da73d4300a90791d5fb0c4d5f2",
@@ -96951,7 +96959,9 @@
         },
         "web_domains": [
             "heritages.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4975541f03904334c0d2ee98395dafa2c75f4439",
