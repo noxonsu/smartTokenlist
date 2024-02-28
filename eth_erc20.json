@@ -95725,5 +95725,114 @@
         "holders": {
             "ETH": 3
         }
+    },
+    {
+        "contract_address": "0xdab5b7faefb143014cc0bdb442c65cc041094559",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "kfc-erc.com"
+        ],
+        "telegram_groups": [
+            "KentuckyFriedChicken_erc20"
+        ],
+        "holders": {
+            "ETH": 57
+        }
+    },
+    {
+        "contract_address": "0xa868952bc622905528f61c5de74cc1cf652ca503",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 60
+        }
+    },
+    {
+        "contract_address": "0xf03c1ce7698e0095ca2bd395861093c75be8870e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 75
+        }
+    },
+    {
+        "contract_address": "0xd4f4d0a10bcae123bb6655e8fe93a30d01eebd04",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 34
+        }
+    },
+    {
+        "contract_address": "0xb93746dc7a8bf5e381ffb278085b1f62bd0a1fc8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sendex.ai",
+            "docs.sendex.ai",
+            "app.sendex.ai"
+        ],
+        "telegram_groups": [
+            "SendexAI",
+            "SendexAI_bot"
+        ],
+        "holders": {
+            "ETH": 323
+        }
+    },
+    {
+        "contract_address": "0x272f97b7a56a387ae942350bbc7df5700f8a4576",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1728
+        }
+    },
+    {
+        "contract_address": "0x80295cd5edb003f26d58a6b398f8d28cfa56cc1d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bwstcoin.com"
+        ],
+        "holders": {
+            "ETH": 57
+        }
+    },
+    {
+        "contract_address": "0xb399511642fe1666c6a07f83483e6e4feaed9a00",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 125
+        }
+    },
+    {
+        "contract_address": "0x24eca7fb221c4128bf7283fe16f5cd02dede6616",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 94
+        }
+    },
+    {
+        "contract_address": "0xc862eff8b770167b969e56a1526b3c8a4c4f62ec",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x2dc0b7bf8150b104d75215194556da9db6e4d258",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xbb7e7a029981fddfb796aaf2ef65a4c1f428e5c6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x28bf43bf96cfa27724cbed59aa77c06106cfdc45",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
