@@ -96254,7 +96254,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 6
-        }
+        },
+        "web_domains": [
+            "kelpdao.com"
+        ]
     },
     {
         "contract_address": "0xff42a9af956617e4c3532ef2fc7567465efe4909",
