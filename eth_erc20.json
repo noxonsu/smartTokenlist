@@ -95678,7 +95678,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 42
-        }
+        },
+        "web_domains": [
+            "healthmedi.io"
+        ]
     },
     {
         "contract_address": "0x3107605dc3ce19d65abd6784c15842a0a5f9bc0b",
