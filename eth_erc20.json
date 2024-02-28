@@ -95737,7 +95737,8 @@
         ],
         "holders": {
             "ETH": 57
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa868952bc622905528f61c5de74cc1cf652ca503",
@@ -95761,7 +95762,11 @@
         },
         "web_domains": [
             "linqai.net"
-        ]
+        ],
+        "telegram_groups": [
+            "Linq_ai"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb93746dc7a8bf5e381ffb278085b1f62bd0a1fc8",
@@ -95773,11 +95778,17 @@
         ],
         "telegram_groups": [
             "SendexAI",
+            "sendexai_bot",
+            "sendexai",
             "SendexAI_bot"
         ],
         "holders": {
             "ETH": 323
-        }
+        },
+        "emails": [
+            "\n                            pr@sendex.ai"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x272f97b7a56a387ae942350bbc7df5700f8a4576",
@@ -95794,7 +95805,14 @@
         ],
         "holders": {
             "ETH": 57
-        }
+        },
+        "telegram_groups": [
+            "BWSTCOINportal"
+        ],
+        "emails": [
+            "Email: admin@BWSTcoin.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb399511642fe1666c6a07f83483e6e4feaed9a00",
@@ -95811,7 +95829,13 @@
         },
         "web_domains": [
             "zombygun.com"
-        ]
+        ],
+        "telegram_groups": [
+            "zombygun_bridge_bot",
+            "zombygun_bot",
+            "zombygun_portal"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc862eff8b770167b969e56a1526b3c8a4c4f62ec",
@@ -95821,7 +95845,14 @@
         },
         "web_domains": [
             "alphamodz.io"
-        ]
+        ],
+        "telegram_groups": [
+            "AlphaModzAI"
+        ],
+        "emails": [
+            "Copyright \u00a92024 AlphaModzAI || support@alphamodz.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2dc0b7bf8150b104d75215194556da9db6e4d258",
