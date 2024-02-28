@@ -96351,6 +96351,7 @@
         "contract_address": "0x0a962dd04402bbde048c7050587258c954e5507d",
         "sourceScanned": "processed",
         "telegram_groups": [
+            "egodthemoon",
             "EGODErc20coin"
         ],
         "holders": {
@@ -96358,7 +96359,8 @@
         },
         "web_domains": [
             "egod.win"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd6f12931679b43f92808c37ebfff53423676d795",
@@ -96375,11 +96377,13 @@
             "docs.nettensor.com"
         ],
         "telegram_groups": [
+            "nettensor_netcloudbot",
             "nettensor"
         ],
         "holders": {
             "ETH": 179
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9a13f8214184c6f2ea14f1f171ee1989e09efe80",
@@ -96392,7 +96396,8 @@
         ],
         "holders": {
             "ETH": 110
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd6cab5ccb04fa2047be0c16b91ee5b601302f928",
@@ -96406,7 +96411,8 @@
         ],
         "holders": {
             "ETH": 131
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd0bc55fefe9094668161de80b44ee5c4c3c3475a",
@@ -96415,11 +96421,16 @@
             "ainteltools.app"
         ],
         "telegram_groups": [
-            "ainteltools"
+            "ainteltools",
+            "aintelsniperdetector_bot"
         ],
         "holders": {
             "ETH": 108
-        }
+        },
+        "emails": [
+            "info@ainteltools.app"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xaef7d7cd4a176d647086282c99c69dde1570f70f",
@@ -96432,6 +96443,10 @@
         ],
         "holders": {
             "ETH": 178
-        }
+        },
+        "emails": [
+            "team@cosmowallet.app"
+        ],
+        "p6": true
     }
 ]
