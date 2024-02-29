@@ -97368,11 +97368,13 @@
             "andy.limo"
         ],
         "telegram_groups": [
-            "andycoineth"
+            "andycoineth",
+            "AndyCoinETH"
         ],
         "holders": {
             "ETH": 49
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x72630b1e3b42874bf335020ba0249e3e9e47bafc",
