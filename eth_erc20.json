@@ -97075,7 +97075,11 @@
         },
         "web_domains": [
             "robopepe.com"
-        ]
+        ],
+        "telegram_groups": [
+            "RoboPepeCoin"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb08c567824cdcb530b9da4adc3a3001ee2f170ae",
@@ -97085,7 +97089,11 @@
         },
         "web_domains": [
             "whitehive.io"
-        ]
+        ],
+        "telegram_groups": [
+            "whitehive_chat"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb9edbe853ddccb4baaf49201be6c39ee1816e120",
@@ -97102,7 +97110,11 @@
         },
         "web_domains": [
             "coinpaprika.com"
-        ]
+        ],
+        "telegram_groups": [
+            "coinpaprika"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x406d76a39ad72e7d13c8b697c9972a7742195157",
