@@ -97843,7 +97843,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 65
-        }
+        },
+        "web_domains": [
+            "esats.net"
+        ]
     },
     {
         "contract_address": "0xa1147413cbf11737eff228fb0073c5ce101e9d87",
@@ -97914,7 +97917,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 238
-        }
+        },
+        "web_domains": [
+            "dogwifyama.com"
+        ]
     },
     {
         "contract_address": "0x3259ecf7f9d18e7d483eba0ad2c4c6606404857e",
