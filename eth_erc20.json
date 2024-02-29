@@ -97589,7 +97589,9 @@
         ],
         "holders": {
             "ETH": 57
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x22514ffb0d7232a56f0c24090e7b68f179faa940",
