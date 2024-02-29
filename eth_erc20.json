@@ -45541,8 +45541,8 @@
             "xtrackerc.com"
         ],
         "telegram_groups": [
-            "XtrackERC",
             "CybertruckETH",
+            "XtrackERC",
             "JesterBotEth"
         ],
         "holders": {
@@ -61026,8 +61026,8 @@
             "ETH": 343
         },
         "telegram_groups": [
-            "XtrackERC",
             "CybertruckETH",
+            "XtrackERC",
             "JesterBotEth"
         ],
         "p6": true,
@@ -71055,8 +71055,8 @@
             "www.reddit.com"
         ],
         "telegram_groups": [
-            "XtrackERC",
             "CybertruckETH",
+            "XtrackERC",
             "LeverageToken_Entry",
             "JesterBotEth"
         ],
@@ -71182,11 +71182,11 @@
             "linktr.ee"
         ],
         "telegram_groups": [
-            "LeverageToken_Entry",
             "CybertruckETH",
+            "LeverageToken_Entry",
+            "JesterBotEth",
             "XtrackERC",
-            "aitechnologyportal",
-            "JesterBotEth"
+            "aitechnologyportal"
         ],
         "holders": {
             "ETH": 284
@@ -97683,7 +97683,15 @@
         ],
         "holders": {
             "ETH": 183
-        }
+        },
+        "telegram_groups": [
+            "CybertruckETH",
+            "LeverageToken_Entry",
+            "aitechnologyportal",
+            "JesterBotEth",
+            "XtrackERC"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa6cf475e2319fcc0cb418925b3fd871af4cb9245",
@@ -97693,7 +97701,11 @@
         ],
         "holders": {
             "ETH": 61
-        }
+        },
+        "telegram_groups": [
+            "HOLD10_erc20"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xccc91b69b1975285923b40aa5f75d6563fc458f6",
@@ -97703,7 +97715,9 @@
         },
         "web_domains": [
             "elonx.net"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0d3c2da03bbafd5d401ab51701e1fb2f4adf7833",
@@ -97722,10 +97736,12 @@
             "BlockXpressio"
         ],
         "emails": [
+            " info@blockxpress.io",
             "info@BlockXpress.io"
         ],
         "holders": {
             "ETH": 149
-        }
+        },
+        "p6": true
     }
 ]
