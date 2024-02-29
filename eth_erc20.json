@@ -97763,5 +97763,55 @@
             "ETH": 149
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x0e4e7f2aecf408aff4f82f067677050239bdc58a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 685
+        }
+    },
+    {
+        "contract_address": "0x0a41044b5183ed7007cc7c5800cde33b897c26d0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tensorai.app",
+            "docs.tensorai.app"
+        ],
+        "telegram_groups": [
+            "TensorAIPortal",
+            "TensorAIbot"
+        ],
+        "holders": {
+            "ETH": 239
+        }
+    },
+    {
+        "contract_address": "0x857de36f92330e1b9a21e8745c692f2ce13866cb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5958
+        }
+    },
+    {
+        "contract_address": "0x9ef444a6d7f4a5adcd68fd5329aa5240c90e14d2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 76
+        }
+    },
+    {
+        "contract_address": "0xda00000035fef4082f78def6a8903bee419fbf8e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0xae8eeb1f92f0f76d3f21d5887096999254f06ea5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
     }
 ]
