@@ -97674,5 +97674,55 @@
             "ETH": 153
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x6ff764d7e9ecde15b1bc6b6228dc7acdad9def9e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "linktr.ee"
+        ],
+        "holders": {
+            "ETH": 183
+        }
+    },
+    {
+        "contract_address": "0xa6cf475e2319fcc0cb418925b3fd871af4cb9245",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "metadrop.com."
+        ],
+        "holders": {
+            "ETH": 61
+        }
+    },
+    {
+        "contract_address": "0xccc91b69b1975285923b40aa5f75d6563fc458f6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 36
+        }
+    },
+    {
+        "contract_address": "0x0d3c2da03bbafd5d401ab51701e1fb2f4adf7833",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 920
+        }
+    },
+    {
+        "contract_address": "0x946ed522c737fbda8b155bb375865b08061c0089",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "BlockXpress.io"
+        ],
+        "telegram_groups": [
+            "BlockXpressio"
+        ],
+        "emails": [
+            "info@BlockXpress.io"
+        ],
+        "holders": {
+            "ETH": 149
+        }
     }
 ]
