@@ -97837,5 +97837,90 @@
         "holders": {
             "ETH": 5
         }
+    },
+    {
+        "contract_address": "0x5de98c0a261e9b5e101101e1dc0506d359be57c8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 65
+        }
+    },
+    {
+        "contract_address": "0xa1147413cbf11737eff228fb0073c5ce101e9d87",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 109
+        }
+    },
+    {
+        "contract_address": "0xe8196181c5fe192b83c5ca34be910d93d691d935",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "soai.info",
+            "whitepaper.soai.pro"
+        ],
+        "telegram_groups": [
+            "SelfOperatingAI"
+        ],
+        "holders": {
+            "ETH": 203
+        }
+    },
+    {
+        "contract_address": "0xd2cbc0ab613e2dde91a46d53508eb478ac3be9c5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "0xaierc.com"
+        ],
+        "telegram_groups": [
+            "zeroxaierc",
+            "zeroxaipast",
+            "zeroxaihighsniper"
+        ],
+        "holders": {
+            "ETH": 79
+        }
+    },
+    {
+        "contract_address": "0x8a0a9b663693a22235b896f70a229c4a22597623",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 394
+        }
+    },
+    {
+        "contract_address": "0xa87f04c9743fd1933f82bddec9692e9d97673769",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x7d106fd2754aee4555836dd27b7e0c5f27800d57",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 49
+        }
+    },
+    {
+        "contract_address": "0x05767d9ef41dc40689678ffca0608878fb3de906",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 55
+        }
+    },
+    {
+        "contract_address": "0xa7606281f7808167b5faf89f4d898685a8b87549",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 238
+        }
+    },
+    {
+        "contract_address": "0x3259ecf7f9d18e7d483eba0ad2c4c6606404857e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 431
+        }
     }
 ]
