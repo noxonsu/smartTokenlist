@@ -97428,7 +97428,9 @@
         ],
         "holders": {
             "ETH": 8
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x82a91a0d599a45d8e9af781d67f695d7c72869bd",
@@ -97445,7 +97447,11 @@
         },
         "web_domains": [
             "mai.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "QiDaoProtocol"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb813322cd994a2f7808c340ea12e0a2283a7a757",
@@ -97455,7 +97461,11 @@
         },
         "web_domains": [
             "cosmo.baby"
-        ]
+        ],
+        "telegram_groups": [
+            "cosmobaby"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0be1c7b5e778e0189c3a575e0c8749ea40e17583",
@@ -97498,7 +97508,8 @@
         ],
         "holders": {
             "ETH": 33
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6e6775139af555d6108813676b62323a1e25f1a3",
@@ -97507,10 +97518,12 @@
             "encryptix.org"
         ],
         "telegram_groups": [
-            "encryptix"
+            "encryptix",
+            "Encryptix"
         ],
         "holders": {
             "ETH": 1
-        }
+        },
+        "p6": true
     }
 ]
