@@ -21063,7 +21063,9 @@
         "holders": {
             "ETH": 9242
         },
-        "p8skip": true
+        "p8skip": true,
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x5c147e74d63b1d31aa3fd78eb229b65161983b2b",
@@ -97974,7 +97976,8 @@
         ],
         "holders": {
             "ETH": 16
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x89f98ff009d0003015e1535d23f7b696f705e14d",
@@ -97988,7 +97991,11 @@
         ],
         "holders": {
             "ETH": 35
-        }
+        },
+        "emails": [
+            "Email : reveal_labs@proton.me"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb9c89c441c2963da7f72bf07c85f7fa6fb3756ff",
@@ -98005,7 +98012,9 @@
         ],
         "holders": {
             "ETH": 493
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2d1d297705643170f8c1898df2282b3e27431273",
@@ -98018,7 +98027,8 @@
         ],
         "holders": {
             "ETH": 113
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2416092f143378750bb29b79ed961ab195cceea5",
@@ -98035,11 +98045,12 @@
             "docs.intellion.tech"
         ],
         "telegram_groups": [
-            "intellion",
-            "intellionbot"
+            "intellionbot",
+            "intellion"
         ],
         "holders": {
             "ETH": 330
-        }
+        },
+        "p6": true
     }
 ]
