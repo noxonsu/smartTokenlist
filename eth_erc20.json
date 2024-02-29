@@ -97151,7 +97151,9 @@
         },
         "web_domains": [
             "unusd.cloud"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x84a7bdbbd231002d97c32f594047f80a40e00205",
@@ -97164,7 +97166,8 @@
         ],
         "holders": {
             "ETH": 160
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xafea31099d09afb8630b54ed7ff5ff5a75745abd",
@@ -97173,11 +97176,13 @@
             "andy.limo"
         ],
         "telegram_groups": [
-            "andycoineth"
+            "andycoineth",
+            "AndyCoinETH"
         ],
         "holders": {
             "ETH": 12
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6e399e8058edb352aa613f89f9bc9c9607480d6e",
@@ -97190,7 +97195,8 @@
         },
         "web_domains": [
             "tigratigra.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x537edd52ebcb9f48ff2f8a28c51fcdb9d6a6e0d4",
@@ -97206,11 +97212,13 @@
             "www.pepewifhateth.xyz"
         ],
         "telegram_groups": [
-            "pepewifhat_coin"
+            "pepewifhat_coin",
+            "bitcoinforkcoin"
         ],
         "holders": {
             "ETH": 210
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xedb73d4ed90be7a49d06d0d940055e6d181d22fa",
@@ -97230,6 +97238,7 @@
         ],
         "holders": {
             "ETH": 161
-        }
+        },
+        "p6": true
     }
 ]
