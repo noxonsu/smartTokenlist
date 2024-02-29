@@ -97018,5 +97018,88 @@
         "holders": {
             "ETH": 1699
         }
+    },
+    {
+        "contract_address": "0x0335a7610d817aeca1bebbefbd392ecc2ed587b8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 422
+        }
+    },
+    {
+        "contract_address": "0xdea928f4ee1d2c84c70d674c9077557d30e9b5af",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0xea17e0d0df6843593f299cad13fa81c3e018fedc",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "xpvpcoin"
+        ],
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0x6eeb539d662bb971a4a01211c67cb7f65b09b802",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 169
+        }
+    },
+    {
+        "contract_address": "0x05f4a42e251f2d52b8ed15e9fedaacfcef1fad27",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 23399
+        }
+    },
+    {
+        "contract_address": "0x9b44793a0177c84dd01ad81137db696531902871",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "pvpgameportal"
+        ],
+        "holders": {
+            "ETH": 832
+        }
+    },
+    {
+        "contract_address": "0x85c6e78e3fbfc7a980cb5172c5ce7704b24af610",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 208
+        }
+    },
+    {
+        "contract_address": "0xb08c567824cdcb530b9da4adc3a3001ee2f170ae",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 192
+        }
+    },
+    {
+        "contract_address": "0xb9edbe853ddccb4baaf49201be6c39ee1816e120",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 173
+        }
+    },
+    {
+        "contract_address": "0x28e318b2063ed3945f86f1ef13bdeb29923c9f02",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 148
+        }
+    },
+    {
+        "contract_address": "0x406d76a39ad72e7d13c8b697c9972a7742195157",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
     }
 ]
