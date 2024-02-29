@@ -97700,7 +97700,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 36
-        }
+        },
+        "web_domains": [
+            "elonx.net"
+        ]
     },
     {
         "contract_address": "0x0d3c2da03bbafd5d401ab51701e1fb2f4adf7833",
