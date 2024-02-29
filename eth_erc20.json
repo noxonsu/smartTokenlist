@@ -97142,5 +97142,88 @@
         "holders": {
             "ETH": 11
         }
+    },
+    {
+        "contract_address": "0x7cac7523771cd368f9e90f9f13d92ffa323cc0a7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 252
+        }
+    },
+    {
+        "contract_address": "0x84a7bdbbd231002d97c32f594047f80a40e00205",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.babymog.xyz"
+        ],
+        "telegram_groups": [
+            "babymogerc"
+        ],
+        "holders": {
+            "ETH": 160
+        }
+    },
+    {
+        "contract_address": "0xafea31099d09afb8630b54ed7ff5ff5a75745abd",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "andy.limo"
+        ],
+        "telegram_groups": [
+            "andycoineth"
+        ],
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0x6e399e8058edb352aa613f89f9bc9c9607480d6e",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "TigraEntryportal"
+        ],
+        "holders": {
+            "ETH": 76
+        }
+    },
+    {
+        "contract_address": "0x537edd52ebcb9f48ff2f8a28c51fcdb9d6a6e0d4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9252
+        }
+    },
+    {
+        "contract_address": "0x09f3f636ed6141f513fdfb83f526172851da2af6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.pepewifhateth.xyz"
+        ],
+        "telegram_groups": [
+            "pepewifhat_coin"
+        ],
+        "holders": {
+            "ETH": 210
+        }
+    },
+    {
+        "contract_address": "0xedb73d4ed90be7a49d06d0d940055e6d181d22fa",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0x7f8c106a0919eb3193a0565dc26921be187559a1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "V2Pepe.wtf"
+        ],
+        "telegram_groups": [
+            "V2PepePortal"
+        ],
+        "holders": {
+            "ETH": 161
+        }
     }
 ]
