@@ -97846,7 +97846,14 @@
         },
         "web_domains": [
             "esats.net"
-        ]
+        ],
+        "telegram_groups": [
+            "ethsats"
+        ],
+        "emails": [
+            "business@esats.net"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa1147413cbf11737eff228fb0073c5ce101e9d87",
@@ -97863,11 +97870,13 @@
             "whitepaper.soai.pro"
         ],
         "telegram_groups": [
-            "SelfOperatingAI"
+            "SelfOperatingAI",
+            "editbydenzel_portfolio"
         ],
         "holders": {
             "ETH": 203
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd2cbc0ab613e2dde91a46d53508eb478ac3be9c5",
@@ -97876,13 +97885,14 @@
             "0xaierc.com"
         ],
         "telegram_groups": [
+            "zeroxaihighsniper",
             "zeroxaierc",
-            "zeroxaipast",
-            "zeroxaihighsniper"
+            "zeroxaipast"
         ],
         "holders": {
             "ETH": 79
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8a0a9b663693a22235b896f70a229c4a22597623",
@@ -97920,7 +97930,11 @@
         },
         "web_domains": [
             "dogwifyama.com"
-        ]
+        ],
+        "telegram_groups": [
+            "dogwifyama"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3259ecf7f9d18e7d483eba0ad2c4c6606404857e",
