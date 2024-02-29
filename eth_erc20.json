@@ -97962,5 +97962,84 @@
         "holders": {
             "ETH": 431
         }
+    },
+    {
+        "contract_address": "0x4a97e18956cbca49737129a4b052184730477b3f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "gemify-bot.com"
+        ],
+        "telegram_groups": [
+            "gemifyeth"
+        ],
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0x89f98ff009d0003015e1535d23f7b696f705e14d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "reveallabs.org",
+            "revealbot.org"
+        ],
+        "telegram_groups": [
+            "Reveal_Labs"
+        ],
+        "holders": {
+            "ETH": 35
+        }
+    },
+    {
+        "contract_address": "0xb9c89c441c2963da7f72bf07c85f7fa6fb3756ff",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xe4f726adc8e89c6a6017f01eada77865db22da14",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "buidler.dev"
+        ],
+        "holders": {
+            "ETH": 493
+        }
+    },
+    {
+        "contract_address": "0x2d1d297705643170f8c1898df2282b3e27431273",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.oneaitech.io"
+        ],
+        "telegram_groups": [
+            "oneaiportal"
+        ],
+        "holders": {
+            "ETH": 113
+        }
+    },
+    {
+        "contract_address": "0x2416092f143378750bb29b79ed961ab195cceea5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x1f626b816cb598a1fcc6013e0d5bd8a13e6136aa",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "intellion.tech",
+            "docs.intellion.tech"
+        ],
+        "telegram_groups": [
+            "intellion",
+            "intellionbot"
+        ],
+        "holders": {
+            "ETH": 330
+        }
     }
 ]
