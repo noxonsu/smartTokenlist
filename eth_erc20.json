@@ -97072,14 +97072,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 208
-        }
+        },
+        "web_domains": [
+            "robopepe.com"
+        ]
     },
     {
         "contract_address": "0xb08c567824cdcb530b9da4adc3a3001ee2f170ae",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 192
-        }
+        },
+        "web_domains": [
+            "whitehive.io"
+        ]
     },
     {
         "contract_address": "0xb9edbe853ddccb4baaf49201be6c39ee1816e120",
@@ -97093,7 +97099,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 148
-        }
+        },
+        "web_domains": [
+            "coinpaprika.com"
+        ]
     },
     {
         "contract_address": "0x406d76a39ad72e7d13c8b697c9972a7742195157",
