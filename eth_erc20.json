@@ -97442,14 +97442,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 217
-        }
+        },
+        "web_domains": [
+            "mai.finance"
+        ]
     },
     {
         "contract_address": "0xb813322cd994a2f7808c340ea12e0a2283a7a757",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 172
-        }
+        },
+        "web_domains": [
+            "cosmo.baby"
+        ]
     },
     {
         "contract_address": "0x0be1c7b5e778e0189c3a575e0c8749ea40e17583",
