@@ -97565,5 +97565,51 @@
             "ETH": 1
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x1bbe973bef3a977fc51cbed703e8ffdefe001fed",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4529
+        }
+    },
+    {
+        "contract_address": "0xa069add2d093f9df0e82ab64ec7dd0320cb4f65d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 278
+        }
+    },
+    {
+        "contract_address": "0xf0632011496dc63bb2b90e7cba2e1ed4647e4310",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.portalgaming.com",
+            "portalcoin.xyz"
+        ],
+        "holders": {
+            "ETH": 57
+        }
+    },
+    {
+        "contract_address": "0x22514ffb0d7232a56f0c24090e7b68f179faa940",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 551
+        }
+    },
+    {
+        "contract_address": "0xd779eea9936b4e323cddff2529eb6f13d0a4d66e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1096
+        }
+    },
+    {
+        "contract_address": "0x59e9261255644c411afdd00bd89162d09d862e38",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1626
+        }
     }
 ]
