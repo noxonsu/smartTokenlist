@@ -97419,5 +97419,92 @@
         "holders": {
             "ETH": 27
         }
+    },
+    {
+        "contract_address": "0x79ff96e85d3a905258063efa8c684e160247fb3f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bullfi.xyz"
+        ],
+        "holders": {
+            "ETH": 8
+        }
+    },
+    {
+        "contract_address": "0x82a91a0d599a45d8e9af781d67f695d7c72869bd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 200
+        }
+    },
+    {
+        "contract_address": "0x8d6cebd76f18e1558d4db88138e2defb3909fad6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 217
+        }
+    },
+    {
+        "contract_address": "0xb813322cd994a2f7808c340ea12e0a2283a7a757",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 172
+        }
+    },
+    {
+        "contract_address": "0x0be1c7b5e778e0189c3a575e0c8749ea40e17583",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Majorcoinerc20"
+        ],
+        "holders": {
+            "ETH": 112
+        }
+    },
+    {
+        "contract_address": "0x2cd3a2eebb970be23f97de8a942f77a4334bbab5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "rondesantis.space"
+        ],
+        "telegram_groups": [
+            "DesantisERC"
+        ],
+        "holders": {
+            "ETH": 812
+        }
+    },
+    {
+        "contract_address": "0xd8ba4b9176165fb90f5669b0485f374ca82dd351",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 367
+        }
+    },
+    {
+        "contract_address": "0xf16d2ed8fbe38a44181c2798910bce43afffa302",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fantasia-ai.xyz"
+        ],
+        "telegram_groups": [
+            "fantaierc"
+        ],
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0x6e6775139af555d6108813676b62323a1e25f1a3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "encryptix.org"
+        ],
+        "telegram_groups": [
+            "encryptix"
+        ],
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
