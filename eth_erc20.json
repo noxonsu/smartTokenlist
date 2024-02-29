@@ -97633,5 +97633,25 @@
         "holders": {
             "ETH": 1626
         }
+    },
+    {
+        "contract_address": "0xc2e3e44b1de19317bc58a5c641204e5ed680262d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1182
+        }
+    },
+    {
+        "contract_address": "0xc6366bf812d357182e48debad9faf3b00fe8e67f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sagasofdestiny.com"
+        ],
+        "telegram_groups": [
+            "Sagas_Of_Destiny"
+        ],
+        "holders": {
+            "ETH": 153
+        }
     }
 ]
