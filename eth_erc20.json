@@ -98706,7 +98706,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 141
-        }
+        },
+        "web_domains": [
+            "yakyak.org"
+        ]
     },
     {
         "contract_address": "0x1c77d15857646687005dbbafff5873f4495a9731",
