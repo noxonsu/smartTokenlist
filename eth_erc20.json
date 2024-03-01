@@ -98927,7 +98927,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 258
-        }
+        },
+        "web_domains": [
+            "symlix.com"
+        ]
     },
     {
         "contract_address": "0x7fe0b79c1c17fe676223eb7f526b0038e6b419d6",
