@@ -98178,5 +98178,80 @@
         "holders": {
             "ETH": 60
         }
+    },
+    {
+        "contract_address": "0x71442bd3be4c3a5f5b4f8006c3b93507905a15c4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x15d94ec1c8e98812dac23bf6a341bd6c83e4cb11",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 161
+        }
+    },
+    {
+        "contract_address": "0x4581ce7a1b68f32fce97cf9f516f3550053b32a6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x0a6e8a6e6b0fbeadd9d6eadaecc44292dd0bc496",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.animai.tech"
+        ],
+        "telegram_groups": [
+            "animai_erc"
+        ],
+        "holders": {
+            "ETH": 99
+        }
+    },
+    {
+        "contract_address": "0x74fe27e70db10147f8b6b38b3c9d12bbdcf3b5af",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 81
+        }
+    },
+    {
+        "contract_address": "0xa767a5573457633b6c16b6cec4c930ce70f92a06",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.axiomai.tools",
+            "app.axiomai.tools"
+        ],
+        "telegram_groups": [
+            "axiom_ai_coin"
+        ],
+        "holders": {
+            "ETH": 78
+        }
+    },
+    {
+        "contract_address": "0x5c47c9ab05716d26d6e339eb19d2be3a0b0b097e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x83eefb8fd14591632424289a28c5862dc07ee292",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cadence.money"
+        ],
+        "telegram_groups": [
+            "cadence_money"
+        ],
+        "holders": {
+            "ETH": 54
+        }
     }
 ]
