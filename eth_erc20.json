@@ -98072,5 +98072,39 @@
             "ETH": 330
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xf35b31b941d94b249eaded041db1b05b7097feb6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ape.tessera.co"
+        ],
+        "holders": {
+            "ETH": 21
+        }
+    },
+    {
+        "contract_address": "0x33be1da2ba1e16ec5648aa79c9bc30d1c7af6253",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xdbafce87875aefc171020d718c96fb5a20905e1e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0x3e024fb7923fe6859e8153c4c800e85eac0989e9",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "pepeonatrip"
+        ],
+        "holders": {
+            "ETH": 80
+        }
     }
 ]
