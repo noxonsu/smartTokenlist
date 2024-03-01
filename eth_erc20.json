@@ -99032,7 +99032,8 @@
         ],
         "holders": {
             "ETH": 240
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x857ffc55b1aa61a7ff847c82072790cae73cd883",
@@ -99053,7 +99054,8 @@
         ],
         "holders": {
             "ETH": 122
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8063c82b22e92e6f8dfa5e03e65d40fc5a1f1249",
@@ -99063,7 +99065,9 @@
         ],
         "holders": {
             "ETH": 66
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x79743257af19450d9dbf0cf5b634ff7c1e8ba4c9",
@@ -99077,6 +99081,10 @@
         ],
         "holders": {
             "ETH": 324
-        }
+        },
+        "emails": [
+            "support@bitestate.finance"
+        ],
+        "p6": true
     }
 ]
