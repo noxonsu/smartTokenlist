@@ -98145,7 +98145,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 5
-        }
+        },
+        "web_domains": [
+            "sftspacefeet.com"
+        ]
     },
     {
         "contract_address": "0x96546afe4a21515a3a30cd3fd64a70eb478dc174",
