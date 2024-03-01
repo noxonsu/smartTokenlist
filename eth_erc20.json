@@ -98649,5 +98649,93 @@
             "ETH": 86
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x0cbda0b3fafc4f3730e2c574f52c01c7d94a8a0c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.videoai.in"
+        ],
+        "telegram_groups": [
+            "videoaierc20"
+        ],
+        "holders": {
+            "ETH": 98
+        }
+    },
+    {
+        "contract_address": "0xdedb11a6a23263469567c2881a9b9f8629ee0041",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi"
+        ],
+        "holders": {
+            "ETH": 22
+        }
+    },
+    {
+        "contract_address": "0xd7908ec84de7d17ede7517b02b8ca9f825222af4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nazareai.io"
+        ],
+        "telegram_groups": [
+            "NazareAi"
+        ],
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x5f944b0c4315cb7c3a846b025ab4045da44abf6c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1743
+        }
+    },
+    {
+        "contract_address": "0xe842e272a18625319cc36f64eb9f97e5ad0c32af",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 141
+        }
+    },
+    {
+        "contract_address": "0x1c77d15857646687005dbbafff5873f4495a9731",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 485
+        }
+    },
+    {
+        "contract_address": "0x1b95d57457fecdaead60f13745b360dd24f9d2d0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.elsalvadoreth.com"
+        ],
+        "telegram_groups": [
+            "ELSalvadorETH"
+        ],
+        "holders": {
+            "ETH": 312
+        }
+    },
+    {
+        "contract_address": "0x30672ae2680c319ec1028b69670a4a786baa0f35",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "NodeSynapse"
+        ],
+        "holders": {
+            "ETH": 526
+        }
     }
 ]
