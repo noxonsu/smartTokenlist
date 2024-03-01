@@ -98824,7 +98824,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 27
-        }
+        },
+        "web_domains": [
+            "shoperror404.org"
+        ]
     },
     {
         "contract_address": "0x391fb9429d8685d5d0f14a185fc0820c6ac2817e",
