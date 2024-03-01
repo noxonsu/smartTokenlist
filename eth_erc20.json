@@ -98439,7 +98439,9 @@
         },
         "web_domains": [
             "helioshlx.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa350ec480f53a6b9ee4f96ccebaacf09e9bc8645",
@@ -98452,7 +98454,8 @@
         ],
         "holders": {
             "ETH": 91
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1dffb366b5c5a37a12af2c127f31e8e0ed86bdbe",
