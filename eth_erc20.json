@@ -98564,5 +98564,59 @@
         "holders": {
             "ETH": 35
         }
+    },
+    {
+        "contract_address": "0xc8044a5e8a04c53d48e0b6f494744e7fed5813a7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "knobai.cloud",
+            "docs.knobai.cloud"
+        ],
+        "telegram_groups": [
+            "knobai"
+        ],
+        "holders": {
+            "ETH": 84
+        }
+    },
+    {
+        "contract_address": "0x28dc2407225b3a9e75ecc65525e66920372a059f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 173
+        }
+    },
+    {
+        "contract_address": "0x67ac5c4dd3c086b28f3630026f48f896c1244070",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 118
+        }
+    },
+    {
+        "contract_address": "0xcd32cfe65ef6796f19089f2886bbfa33cbc8339c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "godzillaeth.world"
+        ],
+        "telegram_groups": [
+            "GodzillaCoinETH"
+        ],
+        "holders": {
+            "ETH": 324
+        }
+    },
+    {
+        "contract_address": "0xe2b785a27e1dd312b3669499b64ce44504bea608",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pepewhale.vip"
+        ],
+        "telegram_groups": [
+            "pepewhale_erc20_official"
+        ],
+        "holders": {
+            "ETH": 86
+        }
     }
 ]
