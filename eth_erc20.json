@@ -98907,5 +98907,85 @@
         },
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x1f557fb2aa33dce484902695ca1374f413875519",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 65
+        }
+    },
+    {
+        "contract_address": "0x40e5a14e1d151f34fea6b8e6197c338e737f9bf2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 315
+        }
+    },
+    {
+        "contract_address": "0xfa95c67a8e5f4809c7d5b5a3e3a1845d5ec0ee45",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 258
+        }
+    },
+    {
+        "contract_address": "0x7fe0b79c1c17fe676223eb7f526b0038e6b419d6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 67
+        }
+    },
+    {
+        "contract_address": "0xf7e9c3ef62693a42512b8097159eebce47eaff5f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nudeai.club"
+        ],
+        "telegram_groups": [
+            "NUDEAIerc"
+        ],
+        "holders": {
+            "ETH": 131
+        }
+    },
+    {
+        "contract_address": "0xd62baa6f3c579316b2798262a219b367c549c7dc",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.reflectaudit.com",
+            "docs.reflectaudit.com",
+            "create.reflectaudit.com",
+            "stake.reflectaudit.com",
+            "academy.reflectaudit.com",
+            "play.google.com"
+        ],
+        "telegram_groups": [
+            "ReflectAudit"
+        ],
+        "holders": {
+            "ETH": 252
+        }
+    },
+    {
+        "contract_address": "0xadd5e881984783dd432f80381fb52f45b53f3e70",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2313
+        }
+    },
+    {
+        "contract_address": "0xb56b6e590867f87c00a11057bdcefca908c40036",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "aeroxerc.com",
+            "aerox.gitbook.io"
+        ],
+        "telegram_groups": [
+            "aerox_portal"
+        ],
+        "holders": {
+            "ETH": 241
+        }
     }
 ]
