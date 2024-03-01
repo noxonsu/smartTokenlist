@@ -98081,7 +98081,9 @@
         ],
         "holders": {
             "ETH": 21
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x33be1da2ba1e16ec5648aa79c9bc30d1c7af6253",
@@ -98108,6 +98110,7 @@
         },
         "web_domains": [
             "pepe420.com"
-        ]
+        ],
+        "p6": true
     }
 ]
