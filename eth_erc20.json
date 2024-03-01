@@ -94054,7 +94054,8 @@
         "emails": [
             "hello@wally.me"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x275e77ce626d531ff7d5fd9ba835e8a7acfccba1",
@@ -94082,7 +94083,8 @@
         "holders": {
             "ETH": 118
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xa825d9b5b09276894af4666a1bf341b2fca0f9af",
@@ -94103,7 +94105,8 @@
         "telegram_groups": [
             "mongtwo_eth"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x710f35e16faa41dc000a5ba4d54020402ae766d0",
@@ -94117,7 +94120,8 @@
         "holders": {
             "ETH": 86
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x99bd071000228c2052e4c6a96d7ebb8b40fb76a7",
@@ -94131,7 +94135,8 @@
         "holders": {
             "ETH": 27
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x44d03e7ee25caee19172eaddf5fbfbff07990c7e",
@@ -94159,7 +94164,8 @@
         "holders": {
             "ETH": 23
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x64ef3dd8cb9cf09ba7c0c4c403812292adae1c20",
@@ -94187,7 +94193,8 @@
         "web_domains": [
             "obama.org"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x733b5056a0697e7a4357305fe452999a0c409feb",
@@ -94199,7 +94206,8 @@
             "vcore.yonex.com"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x9b18de4296deaaef1910ca135af198ac40331bcd",
@@ -94214,7 +94222,8 @@
         "holders": {
             "ETH": 35
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x10ba2e5ac2e91d5a89fe0f89bb625ebcefff812d",
@@ -94226,7 +94235,8 @@
             "arbuz.com"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x3e8d2b9b7458e68c3ea845699e557b9a6fa7480e",
