@@ -98930,7 +98930,9 @@
         },
         "web_domains": [
             "symlix.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7fe0b79c1c17fe676223eb7f526b0038e6b419d6",
@@ -98946,11 +98948,13 @@
             "nudeai.club"
         ],
         "telegram_groups": [
+            "NUDE_AI_ERC_BOT",
             "NUDEAIerc"
         ],
         "holders": {
             "ETH": 131
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd62baa6f3c579316b2798262a219b367c549c7dc",
@@ -98964,11 +98968,13 @@
             "play.google.com"
         ],
         "telegram_groups": [
-            "ReflectAudit"
+            "ReflectAudit",
+            "MarkXODev"
         ],
         "holders": {
             "ETH": 252
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xadd5e881984783dd432f80381fb52f45b53f3e70",
@@ -98985,10 +98991,14 @@
             "aerox.gitbook.io"
         ],
         "telegram_groups": [
-            "aerox_portal"
+            "Gryffin_claw",
+            "AeroxHypeAlertsETH",
+            "aerox_portal",
+            "AeroxHypeAlertsSOL"
         ],
         "holders": {
             "ETH": 241
-        }
+        },
+        "p6": true
     }
 ]
