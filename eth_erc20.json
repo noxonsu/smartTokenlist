@@ -98218,7 +98218,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 81
-        }
+        },
+        "web_domains": [
+            "iryde.com"
+        ]
     },
     {
         "contract_address": "0xa767a5573457633b6c16b6cec4c930ce70f92a06",
