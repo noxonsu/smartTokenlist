@@ -98148,7 +98148,9 @@
         },
         "web_domains": [
             "sftspacefeet.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x96546afe4a21515a3a30cd3fd64a70eb478dc174",
