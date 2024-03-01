@@ -97658,7 +97658,8 @@
         "web_domains": [
             "tigratigra.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x537edd52ebcb9f48ff2f8a28c51fcdb9d6a6e0d4",
@@ -97680,7 +97681,8 @@
         "holders": {
             "ETH": 210
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xedb73d4ed90be7a49d06d0d940055e6d181d22fa",
@@ -97701,7 +97703,8 @@
         "holders": {
             "ETH": 161
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x538429c057c8695c62194028c57b540c4bf13a6c",
@@ -97796,7 +97799,8 @@
         "holders": {
             "ETH": 49
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x72630b1e3b42874bf335020ba0249e3e9e47bafc",
@@ -97832,7 +97836,8 @@
             "ETH": 8
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x82a91a0d599a45d8e9af781d67f695d7c72869bd",
@@ -97853,7 +97858,8 @@
         "telegram_groups": [
             "QiDaoProtocol"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xb813322cd994a2f7808c340ea12e0a2283a7a757",
@@ -97867,7 +97873,8 @@
         "telegram_groups": [
             "cosmobaby"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x0be1c7b5e778e0189c3a575e0c8749ea40e17583",
@@ -97911,7 +97918,8 @@
         "holders": {
             "ETH": 33
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x6e6775139af555d6108813676b62323a1e25f1a3",
@@ -97926,7 +97934,8 @@
         "holders": {
             "ETH": 1
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x1bbe973bef3a977fc51cbed703e8ffdefe001fed",
@@ -97953,7 +97962,8 @@
             "ETH": 57
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x22514ffb0d7232a56f0c24090e7b68f179faa940",
