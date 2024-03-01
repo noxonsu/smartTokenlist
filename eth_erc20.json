@@ -98423,5 +98423,46 @@
         "holders": {
             "ETH": 2618
         }
+    },
+    {
+        "contract_address": "0x20382e285eace577903fe1346422370f2c736c75",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 65
+        }
+    },
+    {
+        "contract_address": "0x2614f29c39de46468a921fd0b41fdd99a01f2edf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 69
+        }
+    },
+    {
+        "contract_address": "0xa350ec480f53a6b9ee4f96ccebaacf09e9bc8645",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "xvel.pro"
+        ],
+        "telegram_groups": [
+            "xvel_official"
+        ],
+        "holders": {
+            "ETH": 91
+        }
+    },
+    {
+        "contract_address": "0x1dffb366b5c5a37a12af2c127f31e8e0ed86bdbe",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x56dac7aae6a91fc82cd121c8b39eec9f817c47fd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 261
+        }
     }
 ]
