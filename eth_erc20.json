@@ -98319,7 +98319,11 @@
         },
         "web_domains": [
             "metronome.io"
-        ]
+        ],
+        "telegram_groups": [
+            "metronometoken"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf43de8e0c2596e30c77d69d158842d1d9b937d7c",
