@@ -98657,11 +98657,13 @@
             "www.videoai.in"
         ],
         "telegram_groups": [
+            "VideoAIERC20Bot",
             "videoaierc20"
         ],
         "holders": {
             "ETH": 98
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xdedb11a6a23263469567c2881a9b9f8629ee0041",
@@ -98679,7 +98681,9 @@
         ],
         "holders": {
             "ETH": 22
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd7908ec84de7d17ede7517b02b8ca9f825222af4",
@@ -98692,7 +98696,8 @@
         ],
         "holders": {
             "ETH": 1
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5f944b0c4315cb7c3a846b025ab4045da44abf6c",
@@ -98709,7 +98714,9 @@
         },
         "web_domains": [
             "yakyak.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x1c77d15857646687005dbbafff5873f4495a9731",
@@ -98729,7 +98736,8 @@
         ],
         "holders": {
             "ETH": 312
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x30672ae2680c319ec1028b69670a4a786baa0f35",
