@@ -98577,7 +98577,8 @@
         ],
         "holders": {
             "ETH": 84
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x28dc2407225b3a9e75ecc65525e66920372a059f",
@@ -98587,7 +98588,12 @@
         },
         "web_domains": [
             "ghiblistudio.store"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "contact@ghiblistudio.store"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x67ac5c4dd3c086b28f3630026f48f896c1244070",
@@ -98607,7 +98613,8 @@
         ],
         "holders": {
             "ETH": 324
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe2b785a27e1dd312b3669499b64ce44504bea608",
@@ -98620,6 +98627,7 @@
         ],
         "holders": {
             "ETH": 86
-        }
+        },
+        "p6": true
     }
 ]
