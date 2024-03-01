@@ -98584,7 +98584,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 173
-        }
+        },
+        "web_domains": [
+            "ghiblistudio.store"
+        ]
     },
     {
         "contract_address": "0x67ac5c4dd3c086b28f3630026f48f896c1244070",
