@@ -13820,7 +13820,9 @@
         "holders": {
             "ETH": 7403
         },
-        "p8skip": true
+        "p8skip": true,
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6f222e04f6c53cc688ffb0abe7206aac66a8ff98",
@@ -21575,7 +21577,9 @@
         "holders": {
             "ETH": 4171
         },
-        "p8skip": true
+        "p8skip": true,
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc4f6e93aeddc11dc22268488465babcaf09399ac",
@@ -28401,7 +28405,9 @@
         "holders": {
             "ETH": 14077
         },
-        "p8skip": true
+        "p8skip": true,
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd3a95d8363709fbd04e84c84809cd1589f6f2c50",
@@ -45587,7 +45593,9 @@
         "holders": {
             "ETH": 2649
         },
-        "p8skip": true
+        "p8skip": true,
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2596825a84888e8f24b747df29e11b5dd03c81d7",
@@ -96741,7 +96749,9 @@
         ],
         "holders": {
             "ETH": 11137
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6fdb90535c09b82825e38d41edf5e66211d4b442",
@@ -98787,7 +98797,11 @@
         ],
         "holders": {
             "ETH": 257
-        }
+        },
+        "emails": [
+            "PredictAIETH@proton.me"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x19dbee11abba4bf77df010508db8c8e3470ccc1e",
@@ -98800,7 +98814,8 @@
         ],
         "holders": {
             "ETH": 127
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x94c62d127ae8044fd49908f70d370ea59f6ac4d0",
@@ -98810,7 +98825,11 @@
         ],
         "holders": {
             "ETH": 25
-        }
+        },
+        "telegram_groups": [
+            "Block_ERC"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xfa3118b34522580c35ae27f6cf52da1dbb756288",
@@ -98827,7 +98846,9 @@
         },
         "web_domains": [
             "shoperror404.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x391fb9429d8685d5d0f14a185fc0820c6ac2817e",
@@ -98841,7 +98862,11 @@
         ],
         "holders": {
             "ETH": 143
-        }
+        },
+        "emails": [
+            "team@neonai.app"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x958a03181806cb8807bef40e864e55f89b3393d3",
@@ -98859,6 +98884,8 @@
         ],
         "holders": {
             "ETH": 131
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     }
 ]
