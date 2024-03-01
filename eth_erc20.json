@@ -98768,5 +98768,94 @@
         "holders": {
             "ETH": 526
         }
+    },
+    {
+        "contract_address": "0xc310f77b58219e67ce166249ae81ce96c3eda661",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xe4ed15998e7310f0d0125f91ead6f3d56644f0ed",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "predictaidapp.com"
+        ],
+        "telegram_groups": [
+            "PredictAIETH"
+        ],
+        "holders": {
+            "ETH": 257
+        }
+    },
+    {
+        "contract_address": "0x19dbee11abba4bf77df010508db8c8e3470ccc1e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hoppyerc.com"
+        ],
+        "telegram_groups": [
+            "HoppyEthereum"
+        ],
+        "holders": {
+            "ETH": 127
+        }
+    },
+    {
+        "contract_address": "0x94c62d127ae8044fd49908f70d370ea59f6ac4d0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blockfair.org"
+        ],
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0xfa3118b34522580c35ae27f6cf52da1dbb756288",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 69938
+        }
+    },
+    {
+        "contract_address": "0x8b6cb0f99c0af775a8463748db37d07041bf338f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 27
+        }
+    },
+    {
+        "contract_address": "0x391fb9429d8685d5d0f14a185fc0820c6ac2817e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.neonai.app",
+            "neonai.gitbook.io"
+        ],
+        "telegram_groups": [
+            "NeonAIapp"
+        ],
+        "holders": {
+            "ETH": 143
+        }
+    },
+    {
+        "contract_address": "0x958a03181806cb8807bef40e864e55f89b3393d3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tokenmarket.net",
+            "tokenmarket.net",
+            "tokenmarket.net",
+            "tokenmarket.net",
+            "tokenmarket.net",
+            "blog.aragon.one",
+            "tokenmarket.net",
+            "tokenmarket.net",
+            "tokenmarket.net"
+        ],
+        "holders": {
+            "ETH": 131
+        }
     }
 ]
