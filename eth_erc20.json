@@ -98351,5 +98351,55 @@
         "holders": {
             "ETH": 44
         }
+    },
+    {
+        "contract_address": "0xe61e9544c47851f04667ed3f832da5bd86d453e3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 37
+        }
+    },
+    {
+        "contract_address": "0xd74fe3f65e8ceee006e1a3143e85843484fcc149",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 43
+        }
+    },
+    {
+        "contract_address": "0x712e3354d0b5340b9ab6ed1480d45a1c86ce306b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "swobbels.com"
+        ],
+        "holders": {
+            "ETH": 71
+        }
+    },
+    {
+        "contract_address": "0x1456688345527be1f37e9e627da0837d6f08c925",
+        "sourceScanned": "processed",
+        "emails": [
+            "az@unit.xyz",
+            "az@unit.xyz",
+            "az@unit.xyz"
+        ],
+        "holders": {
+            "ETH": 796
+        }
+    },
+    {
+        "contract_address": "0x7eb40e450b9655f4b3cc4259bcc731c63ff55ae6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 40
+        }
+    },
+    {
+        "contract_address": "0x297e4e5e59ad72b1b0a2fd446929e76117be0e0a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2618
+        }
     }
 ]
