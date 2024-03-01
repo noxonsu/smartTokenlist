@@ -98524,7 +98524,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 158
-        }
+        },
+        "web_domains": [
+            "genfit.com"
+        ]
     },
     {
         "contract_address": "0xa55576918117bcc925b76ab1f3f9adccf0f6faf5",
