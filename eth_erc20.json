@@ -99487,5 +99487,64 @@
         "telegram_groups": [],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xdaaf59bbe0658bc930f07d090b6cf3d4b2e1deae",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bretteth.com"
+        ],
+        "telegram_groups": [
+            "BlepeETH"
+        ],
+        "holders": {
+            "ETH": 774
+        }
+    },
+    {
+        "contract_address": "0xb3e2960999e9f1ac9f3c8e767a134970c1d4152c",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "FlokiWifHat_Eth"
+        ],
+        "holders": {
+            "ETH": 151
+        }
+    },
+    {
+        "contract_address": "0x856c83b7c8e2f259af7c90810ff8a85f93925dbd",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "forever-floki.com"
+        ],
+        "telegram_groups": [
+            "ForeverFlokiERC"
+        ],
+        "holders": {
+            "ETH": 690
+        }
+    },
+    {
+        "contract_address": "0xf23fd5ef8f228104c1f2f57b2a7db32e8119dfb8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "xforesightai.net"
+        ],
+        "telegram_groups": [
+            "foresightai_eth"
+        ],
+        "holders": {
+            "ETH": 54
+        }
+    },
+    {
+        "contract_address": "0x5499b9a16df25ac8ced96cc2cf701b0ae6ef8878",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "xpayment_ERC20"
+        ],
+        "holders": {
+            "ETH": 224
+        }
     }
 ]
