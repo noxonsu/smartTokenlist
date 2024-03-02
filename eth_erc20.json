@@ -99314,5 +99314,35 @@
         "holders": {
             "ETH": 2
         }
+    },
+    {
+        "contract_address": "0x6c73e80f4caa0fe0fdac6c8b5ea1ec63d4f1facd",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ordibank.org"
+        ],
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x794fcee2c16e9495c3f590958b1209400751ba80",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "syntaxai.app"
+        ],
+        "telegram_groups": [
+            "SyntaxErc"
+        ],
+        "holders": {
+            "ETH": 267
+        }
+    },
+    {
+        "contract_address": "0x83da47279d3dd0ad13c7b0f2622318ef64e78d3a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 60
+        }
     }
 ]
