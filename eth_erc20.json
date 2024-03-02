@@ -99247,7 +99247,9 @@
         },
         "web_domains": [
             "supertrump.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x12f23686c4898e47830530f38e7b01016ded46b6",
@@ -99257,11 +99259,13 @@
             "docs.liteservers.xyz"
         ],
         "telegram_groups": [
-            "liteserverserc"
+            "liteserverserc",
+            "LiteGPUBot"
         ],
         "holders": {
             "ETH": 96
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3dd98c8a089dbcff7e8fc8d4f532bd493501ab7f",
@@ -99281,7 +99285,11 @@
         ],
         "holders": {
             "ETH": 37
-        }
+        },
+        "emails": [
+            "team@pepe3.digital"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd3d74d2323ac228285c4da80de7044444180a832",
