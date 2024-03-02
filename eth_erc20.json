@@ -99660,5 +99660,49 @@
         "holders": {
             "ETH": 2774
         }
+    },
+    {
+        "contract_address": "0x875e901465a639f2e71fcfc10f426ed32f5a909a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 165
+        }
+    },
+    {
+        "contract_address": "0x3f083f1c2e5a28670ddf9222524b6a0d63bdc119",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sadhamstererc.com"
+        ],
+        "telegram_groups": [
+            "SadHamsterERC"
+        ],
+        "holders": {
+            "ETH": 323
+        }
+    },
+    {
+        "contract_address": "0xa76cec201e939660f8afb1fb8d5865d069df0750",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wanna.bot",
+            "zealy.io",
+            "discord.com",
+            "mirror.xyz",
+            "docs.wanna.bot"
+        ],
+        "telegram_groups": [
+            "WannaBotBet"
+        ],
+        "holders": {
+            "ETH": 249
+        }
+    },
+    {
+        "contract_address": "0x93eeb426782bd88fcd4b48d7b0368cf061044928",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1464
+        }
     }
 ]
