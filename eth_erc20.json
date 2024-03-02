@@ -99708,5 +99708,57 @@
         "holders": {
             "ETH": 1464
         }
+    },
+    {
+        "contract_address": "0x17cab1076da17928144bc8ca0c1a1931577884de",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "shiftctrl.software",
+            "app.shiftctrl.software",
+            "docs.shiftctrl.software"
+        ],
+        "telegram_groups": [
+            "shiftctrleth"
+        ],
+        "holders": {
+            "ETH": 54
+        }
+    },
+    {
+        "contract_address": "0x95ad62da7f7469b75374be51d2c8f34d7198adab",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "EPA_PORTAL"
+        ],
+        "holders": {
+            "ETH": 183
+        }
+    },
+    {
+        "contract_address": "0x84018071282d4b2996272659d9c01cb08dd7327f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 683
+        }
+    },
+    {
+        "contract_address": "0x9eb0aad5bb943d3b2f7603deb772faa35f60adf9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0x9af0e7495553a6250d1459f3aab172adfa6f385f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sentensor.io"
+        ],
+        "telegram_groups": [
+            "Sentensor"
+        ],
+        "holders": {
+            "ETH": 144
+        }
     }
 ]
