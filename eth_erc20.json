@@ -99367,7 +99367,11 @@
         ],
         "holders": {
             "ETH": 137
-        }
+        },
+        "emails": [
+            "admin@viirtuslane.org"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc2eab7d33d3cb97692ecb231a5d0e4a649cb539d",
