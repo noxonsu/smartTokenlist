@@ -99789,11 +99789,13 @@
             "cryptopirates.digital"
         ],
         "telegram_groups": [
-            "CryptoPiratesDAO"
+            "CryptoPiratesDAO",
+            "cryptopiratesdao"
         ],
         "holders": {
             "ETH": 77
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x967d09c9b92a0f0b956626664e92a8d3399e0f99",
@@ -99803,10 +99805,15 @@
             "firstcryptobank.capital"
         ],
         "telegram_groups": [
+            "Halving2k24",
             "halving2k24"
         ],
         "holders": {
             "ETH": 49
-        }
+        },
+        "emails": [
+            "team@halving2k24.info"
+        ],
+        "p6": true
     }
 ]
