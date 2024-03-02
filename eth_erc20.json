@@ -99764,5 +99764,49 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x15ff34e6504319fb380b17d254b64fc2cf36aaba",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 79
+        }
+    },
+    {
+        "contract_address": "0x41dbecc1cdc5517c6f76f6a6e836adbee2754de3",
+        "sourceScanned": "processed",
+        "emails": [
+            "info@validitylabs.org"
+        ],
+        "holders": {
+            "ETH": 7350
+        }
+    },
+    {
+        "contract_address": "0x81c25424cb59587d6cffc60571d69306a1a8d5c2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cryptopirates.digital"
+        ],
+        "telegram_groups": [
+            "CryptoPiratesDAO"
+        ],
+        "holders": {
+            "ETH": 77
+        }
+    },
+    {
+        "contract_address": "0x967d09c9b92a0f0b956626664e92a8d3399e0f99",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "halving2k24.info",
+            "firstcryptobank.capital"
+        ],
+        "telegram_groups": [
+            "halving2k24"
+        ],
+        "holders": {
+            "ETH": 49
+        }
     }
 ]
