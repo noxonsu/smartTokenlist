@@ -99126,5 +99126,72 @@
             "support@bitestate.finance"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x9a31a748aa02df9f8e8c4e2385c5af937d39b381",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "simbatrump.com"
+        ],
+        "telegram_groups": [
+            "SimbaTrump"
+        ],
+        "holders": {
+            "ETH": 181
+        }
+    },
+    {
+        "contract_address": "0xbe8eff45293598919c99d1cbe5297f2a6935bc64",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Tigraethportal"
+        ],
+        "holders": {
+            "ETH": 307
+        }
+    },
+    {
+        "contract_address": "0x899ea95cb1f0fd9140a873d6e556be0d25e20c94",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "kermiteth.vip"
+        ],
+        "telegram_groups": [
+            "KermitCoinOnEth"
+        ],
+        "holders": {
+            "ETH": 158
+        }
+    },
+    {
+        "contract_address": "0x207b5887c17bd07ce091b70d0a2c1b5c64234f28",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "babymog.vip"
+        ],
+        "telegram_groups": [
+            "bmogcoin"
+        ],
+        "holders": {
+            "ETH": 84
+        }
+    },
+    {
+        "contract_address": "0x92fff23f977e0be140c206e60224e9491dab9d46",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.apache.org",
+            "www.apache.org"
+        ],
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xe2512a2f19f0388ad3d7a5263eaa82acd564827b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3268
+        }
     }
 ]
