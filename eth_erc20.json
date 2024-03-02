@@ -99795,7 +99795,8 @@
         "holders": {
             "ETH": 77
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x967d09c9b92a0f0b956626664e92a8d3399e0f99",
@@ -99814,6 +99815,7 @@
         "emails": [
             "team@halving2k24.info"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
