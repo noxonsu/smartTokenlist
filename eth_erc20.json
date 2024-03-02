@@ -99393,7 +99393,8 @@
         "holders": {
             "ETH": 92
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x78e3b2ee11950df78a35fd924e92fbb8d1403780",
@@ -99415,7 +99416,8 @@
         "holders": {
             "ETH": 43
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x0f0bbaf936f7ada2aca5b80bed7b655758d66950",
@@ -99446,7 +99448,8 @@
         "holders": {
             "ETH": 218
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x53f201e65240cb7d1c07439e7ec169cc8c00c8ba",
@@ -99482,6 +99485,7 @@
             "pepesimpsons.io"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
