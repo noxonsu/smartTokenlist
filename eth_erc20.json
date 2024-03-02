@@ -99556,5 +99556,48 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x738fddc4108c714a1e100993dbab35c05839bd35",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "magicgpt.live",
+            "store.magicgpt.live",
+            "docs.magicgpt.live"
+        ],
+        "telegram_groups": [
+            "magicgpt_portal"
+        ],
+        "holders": {
+            "ETH": 66
+        }
+    },
+    {
+        "contract_address": "0x45cbdf200357539e08782472818e0b1e3c0d61a3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 341
+        }
+    },
+    {
+        "contract_address": "0xfa99e1c98868f392704b7395ece5d66cb9041bc8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 237
+        }
+    },
+    {
+        "contract_address": "0xc0b68eb52c89e3fffa62d78012ac8b661bfaa323",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1082
+        }
+    },
+    {
+        "contract_address": "0x1b17dbb40fbed8735e7fe8c9eb02c20984fadfd6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1638
+        }
     }
 ]
