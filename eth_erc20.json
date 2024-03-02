@@ -99545,6 +99545,9 @@
         ],
         "holders": {
             "ETH": 224
-        }
+        },
+        "web_domains": [
+            "x-payments.com"
+        ]
     }
 ]
