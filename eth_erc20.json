@@ -99221,5 +99221,70 @@
         "holders": {
             "ETH": 3268
         }
+    },
+    {
+        "contract_address": "0x1730fa740214526601113ccbc46421a237290a49",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "MissPDog"
+        ],
+        "holders": {
+            "ETH": 10
+        }
+    },
+    {
+        "contract_address": "0xb2689c4b57d11a202f85aae810d54ab8e5f6601d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x7039cd6d7966672f194e8139074c3d5c4e6dcf65",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 221
+        }
+    },
+    {
+        "contract_address": "0x12f23686c4898e47830530f38e7b01016ded46b6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "liteservers.xyz",
+            "docs.liteservers.xyz"
+        ],
+        "telegram_groups": [
+            "liteserverserc"
+        ],
+        "holders": {
+            "ETH": 96
+        }
+    },
+    {
+        "contract_address": "0x3dd98c8a089dbcff7e8fc8d4f532bd493501ab7f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19803
+        }
+    },
+    {
+        "contract_address": "0xbaefa6a0c561d13573f6c0e12cfaa25c6169c6d7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pepe3.digital"
+        ],
+        "telegram_groups": [
+            "Pepecoin3"
+        ],
+        "holders": {
+            "ETH": 37
+        }
+    },
+    {
+        "contract_address": "0xd3d74d2323ac228285c4da80de7044444180a832",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
     }
 ]
