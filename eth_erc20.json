@@ -99323,7 +99323,11 @@
         ],
         "holders": {
             "ETH": 19
-        }
+        },
+        "telegram_groups": [
+            "ordibank"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x794fcee2c16e9495c3f590958b1209400751ba80",
@@ -99336,7 +99340,11 @@
         ],
         "holders": {
             "ETH": 267
-        }
+        },
+        "emails": [
+            "info@syntaxai.app"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x83da47279d3dd0ad13c7b0f2622318ef64e78d3a",
