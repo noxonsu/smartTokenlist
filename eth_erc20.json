@@ -99601,5 +99601,55 @@
         "holders": {
             "ETH": 1638
         }
+    },
+    {
+        "contract_address": "0x89819b5f4d890624c61f5c942ea1b3b5089ca22e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "loopy-eth.vip"
+        ],
+        "holders": {
+            "ETH": 92
+        }
+    },
+    {
+        "contract_address": "0x25ea70181f9b089a3751ea278001318b07a971b8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.devofinance.com"
+        ],
+        "telegram_groups": [
+            "devo_finance"
+        ],
+        "holders": {
+            "ETH": 45
+        }
+    },
+    {
+        "contract_address": "0x0ce29595bafde7d9832d475175160b4780f03a17",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.pepinaerc.com"
+        ],
+        "telegram_groups": [
+            "PepinaOfficial"
+        ],
+        "holders": {
+            "ETH": 86
+        }
+    },
+    {
+        "contract_address": "0x6c6085d42f016a3dbd4c4add492e70ad10389d4a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x8db1d28ee0d822367af8d220c0dc7cb6fe9dc442",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2774
+        }
     }
 ]
