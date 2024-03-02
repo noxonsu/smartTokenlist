@@ -99244,7 +99244,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 221
-        }
+        },
+        "web_domains": [
+            "supertrump.io"
+        ]
     },
     {
         "contract_address": "0x12f23686c4898e47830530f38e7b01016ded46b6",
