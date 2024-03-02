@@ -99354,5 +99354,26 @@
         "holders": {
             "ETH": 60
         }
+    },
+    {
+        "contract_address": "0x1195c3fc6f3bc1d134f9d20395e806a115111f40",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "viirtuslane.org",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "ViirtusLane"
+        ],
+        "holders": {
+            "ETH": 137
+        }
+    },
+    {
+        "contract_address": "0xc2eab7d33d3cb97692ecb231a5d0e4a649cb539d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
     }
 ]
