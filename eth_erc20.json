@@ -99610,7 +99610,11 @@
         ],
         "holders": {
             "ETH": 92
-        }
+        },
+        "telegram_groups": [
+            "loopycoineth"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x25ea70181f9b089a3751ea278001318b07a971b8",
@@ -99623,7 +99627,8 @@
         ],
         "holders": {
             "ETH": 45
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0ce29595bafde7d9832d475175160b4780f03a17",
@@ -99636,7 +99641,8 @@
         ],
         "holders": {
             "ETH": 86
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6c6085d42f016a3dbd4c4add492e70ad10389d4a",
