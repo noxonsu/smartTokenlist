@@ -100253,5 +100253,93 @@
         "telegram_groups": [],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x0f23d49bc92ec52ff591d091b3e16c937034496e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0xb7cf1ee2b2a26d22516e9053cb22d1c7da37154c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "barsiketh.com"
+        ],
+        "telegram_groups": [
+            "barsiketh"
+        ],
+        "holders": {
+            "ETH": 240
+        }
+    },
+    {
+        "contract_address": "0x7346ad4c8cd1886ff6d16072bcea5dfc0bc24ca2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 159
+        }
+    },
+    {
+        "contract_address": "0x122303734c898e9d233affc234271f04e42e77ad",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "maxwellthecat.info"
+        ],
+        "holders": {
+            "ETH": 433
+        }
+    },
+    {
+        "contract_address": "0x5782c2201155dd21c5a855c36a1fa28ca75b283b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "chinesepepeerc.com"
+        ],
+        "holders": {
+            "ETH": 112
+        }
+    },
+    {
+        "contract_address": "0x8c130499d33097d4d000d3332e1672f75b431543",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hoppytoken.com"
+        ],
+        "telegram_groups": [
+            "HOPPYToken"
+        ],
+        "holders": {
+            "ETH": 3015
+        }
+    },
+    {
+        "contract_address": "0x78e34f992de5200589a0aeb2a29a2ebf25c0c93a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ethchat.org",
+            "docs.ethchat.org",
+            "207.180.215.222"
+        ],
+        "telegram_groups": [
+            "ETHCHATerc"
+        ],
+        "holders": {
+            "ETH": 303
+        }
+    },
+    {
+        "contract_address": "0x665f4709940f557e9dde63df0fd9cf6425852b4d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "halvingbtc.xyz"
+        ],
+        "telegram_groups": [
+            "HalvingERC20"
+        ],
+        "holders": {
+            "ETH": 400
+        }
     }
 ]
