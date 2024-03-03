@@ -100227,7 +100227,11 @@
         ],
         "holders": {
             "ETH": 126
-        }
+        },
+        "telegram_groups": [
+            "porcelainportal"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xfbbe098ee65238e4d9f771404edddcbf89cd689b",
@@ -100244,6 +100248,8 @@
         },
         "web_domains": [
             "desci.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
