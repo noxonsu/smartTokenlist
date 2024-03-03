@@ -100163,7 +100163,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 192
-        }
+        },
+        "web_domains": [
+            "futureoffrance.com"
+        ]
     },
     {
         "contract_address": "0x389fb29230d02e67eb963c1f5a00f2b16f95beb7",
