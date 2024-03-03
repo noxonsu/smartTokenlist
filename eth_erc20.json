@@ -100409,7 +100409,8 @@
         "holders": {
             "ETH": 312
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x4533317cb687813400876da25852ee8af6203021",
@@ -100421,6 +100422,7 @@
             "striveassetmanagement.com"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
