@@ -99962,5 +99962,108 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x32d3e84741a4b79b157dce8270eb4e813d2cda2d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "who404.wtf",
+            "who404.wtf"
+        ],
+        "holders": {
+            "ETH": 191
+        }
+    },
+    {
+        "contract_address": "0x2be59db3a6030ac65cd3d286a4d7a122264f628a",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "hachikoinuentry"
+        ],
+        "holders": {
+            "ETH": 286
+        }
+    },
+    {
+        "contract_address": "0xc7bd32bede1394d450a55e4dff652ad0865cce24",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "titty.ink"
+        ],
+        "telegram_groups": [
+            "TITTY_ERC"
+        ],
+        "holders": {
+            "ETH": 103
+        }
+    },
+    {
+        "contract_address": "0x5c544e6aaff63eac2a3adffec26626c9eb7ff026",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xb8befc4cb041b91575571ab9fc351a817a383d40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x186905c9476213b50256b6b0304689229e413b1e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xcbfef8fdd706cde6f208460f2bf39aa9c785f05d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3094
+        }
+    },
+    {
+        "contract_address": "0x567d2c1b9400dab6e939014697c18ceab2a05cdc",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "dogwifhateth"
+        ],
+        "holders": {
+            "ETH": 74
+        }
+    },
+    {
+        "contract_address": "0x23b608675a2b2fb1890d3abbd85c5775c51691d5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3820
+        }
+    },
+    {
+        "contract_address": "0xf25ae962ed9d94e80ee60bfe86f7f606ea313f86",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x15439af48fe6aac4d0dc4dda5da2d00e58cf61f1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "qubic.org"
+        ],
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0x7a692557de8f83b62a071a2b990d5f2c815d8ff8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 22
+        }
     }
 ]
