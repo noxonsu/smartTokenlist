@@ -100403,11 +100403,13 @@
             "0xbetbot.com"
         ],
         "telegram_groups": [
+            "ZeroXBetsChannel",
             "OXBetEth"
         ],
         "holders": {
             "ETH": 312
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4533317cb687813400876da25852ee8af6203021",
@@ -100417,6 +100419,8 @@
         },
         "web_domains": [
             "striveassetmanagement.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
