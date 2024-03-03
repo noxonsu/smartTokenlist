@@ -100437,7 +100437,8 @@
         "telegram_groups": [
             "starheroes_game_announcements"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xff0a024b66739357c4ed231fb3dbc0c8c22749f5",
@@ -100456,7 +100457,8 @@
             "testnetbridge.com"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xafe1f646018e778f504b51cfe46bc5e2b8178677",
@@ -100470,7 +100472,8 @@
         "telegram_groups": [
             "PeapodsFinance"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xf1f508c7c9f0d1b15a76fba564eef2d956220cf7",
@@ -100492,7 +100495,8 @@
         "holders": {
             "ETH": 61
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xff7854d3ab956d38687068bd4b891c2f94a1352e",
@@ -100507,7 +100511,8 @@
         "holders": {
             "ETH": 245
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xc445ccb76ef8f9b6e9fd93d03fc83ccf3ad95cd5",
@@ -100522,6 +100527,7 @@
         "emails": [
             "frank.senatra27323@gmail.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
