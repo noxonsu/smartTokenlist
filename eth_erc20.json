@@ -99817,5 +99817,99 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x2ffed18096b7700b08ad2868ad6d325716b47b65",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blast.io",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "blast"
+        ],
+        "holders": {
+            "ETH": 27
+        }
+    },
+    {
+        "contract_address": "0xf64265e65c4529879a7abf467e00d39e39c0b0da",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 213
+        }
+    },
+    {
+        "contract_address": "0xc03fef1c425956a3cd5762022e511e0d4148b3d6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x35282d87011f87508d457f08252bc5bfa52e10a0",
+        "sourceScanned": "processed",
+        "emails": [
+            "goncalo.sa@consensys.net"
+        ],
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0x69cbaf6c147086c3c234385556f8a0c6488d3420",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "69420.wtf"
+        ],
+        "telegram_groups": [
+            "ethcoin69420"
+        ],
+        "holders": {
+            "ETH": 211
+        }
+    },
+    {
+        "contract_address": "0x710cea0a333200d2651b2e634aa1144737ccbeac",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "weveth.xyz"
+        ],
+        "telegram_groups": [
+            "wev_eth_official"
+        ],
+        "holders": {
+            "ETH": 49
+        }
+    },
+    {
+        "contract_address": "0x4d4e338bbdd90f8b0a7b8a78a4e805150491c95c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.mumucoin.lol"
+        ],
+        "telegram_groups": [
+            "coin_mumu"
+        ],
+        "holders": {
+            "ETH": 156
+        }
+    },
+    {
+        "contract_address": "0xfc09c7cfd9c175dd9423ca02ae1249579ab12f12",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "TotoroInu"
+        ],
+        "holders": {
+            "ETH": 8587
+        }
+    },
+    {
+        "contract_address": "0x1e4e46b7bf03ece908c88ff7cc4975560010893a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1032
+        }
     }
 ]
