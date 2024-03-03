@@ -100447,7 +100447,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 256
-        }
+        },
+        "web_domains": [
+            "testnetbridge.com"
+        ]
     },
     {
         "contract_address": "0xafe1f646018e778f504b51cfe46bc5e2b8178677",
@@ -100499,6 +100502,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 12
-        }
+        },
+        "web_domains": [
+            "xmail.com"
+        ]
     }
 ]
