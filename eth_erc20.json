@@ -100395,5 +100395,25 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x78993f9bee8b68f2531a92427595405f294161db",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "0xbetbot.com"
+        ],
+        "telegram_groups": [
+            "OXBetEth"
+        ],
+        "holders": {
+            "ETH": 312
+        }
+    },
+    {
+        "contract_address": "0x4533317cb687813400876da25852ee8af6203021",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 298
+        }
     }
 ]
