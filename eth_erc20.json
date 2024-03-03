@@ -99854,7 +99854,10 @@
         ],
         "holders": {
             "ETH": 18
-        }
+        },
+        "web_domains": [
+            "ultrasliceamerica.com"
+        ]
     },
     {
         "contract_address": "0x69cbaf6c147086c3c234385556f8a0c6488d3420",
