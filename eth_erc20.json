@@ -99982,7 +99982,10 @@
         ],
         "holders": {
             "ETH": 286
-        }
+        },
+        "web_domains": [
+            "hachikoinu.org"
+        ]
     },
     {
         "contract_address": "0xc7bd32bede1394d450a55e4dff652ad0865cce24",
@@ -100033,7 +100036,10 @@
         ],
         "holders": {
             "ETH": 74
-        }
+        },
+        "web_domains": [
+            "dogwifcoin.org"
+        ]
     },
     {
         "contract_address": "0x23b608675a2b2fb1890d3abbd85c5775c51691d5",
@@ -100047,7 +100053,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "pitviper.com"
+        ]
     },
     {
         "contract_address": "0x15439af48fe6aac4d0dc4dda5da2d00e58cf61f1",
