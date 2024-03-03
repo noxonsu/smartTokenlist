@@ -99925,5 +99925,32 @@
         "holders": {
             "ETH": 1032
         }
+    },
+    {
+        "contract_address": "0x022057c3ef9166433750165bfda21d52988e0756",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 194
+        }
+    },
+    {
+        "contract_address": "0xbbff34e47e559ef680067a6b1c980639eeb64d24",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1299
+        }
+    },
+    {
+        "contract_address": "0x6ada5af7c6d31912b6214f99dbcb3d6ef16e6eeb",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "snibbu.vip"
+        ],
+        "telegram_groups": [
+            "SnibbuEthToken"
+        ],
+        "holders": {
+            "ETH": 216
+        }
     }
 ]
