@@ -100135,6 +100135,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 55
-        }
+        },
+        "web_domains": [
+            "amuletum.io"
+        ]
     }
 ]
