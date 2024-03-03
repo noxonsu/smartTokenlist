@@ -100424,5 +100424,81 @@
         "telegram_groups": [],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xdc0b8ba0bdaec97d449e28b1578db5e71565312f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "starheroes.io"
+        ],
+        "holders": {
+            "ETH": 45
+        }
+    },
+    {
+        "contract_address": "0xff0a024b66739357c4ed231fb3dbc0c8c22749f5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 344
+        }
+    },
+    {
+        "contract_address": "0xe6fbd1f2dd1a9209e9f4d2e9109128481907c430",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 256
+        }
+    },
+    {
+        "contract_address": "0xafe1f646018e778f504b51cfe46bc5e2b8178677",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "peapods.finance"
+        ],
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0xf1f508c7c9f0d1b15a76fba564eef2d956220cf7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1146
+        }
+    },
+    {
+        "contract_address": "0x21bae9673784ef9f954ce0253ecb9031883bb521",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dododollars.com",
+            "doge-dollars.gitbook.io"
+        ],
+        "telegram_groups": [
+            "DogeDollarsPortal"
+        ],
+        "holders": {
+            "ETH": 61
+        }
+    },
+    {
+        "contract_address": "0xff7854d3ab956d38687068bd4b891c2f94a1352e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "chipai.app",
+            "docs.chipai.app"
+        ],
+        "telegram_groups": [
+            "chipai_eth"
+        ],
+        "holders": {
+            "ETH": 245
+        }
+    },
+    {
+        "contract_address": "0xc445ccb76ef8f9b6e9fd93d03fc83ccf3ad95cd5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12
+        }
     }
 ]
