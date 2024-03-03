@@ -100144,5 +100144,51 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xd1ab694a03d4ffaf5baf819d2dde0b9a11d0df2e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.duneeth.xyz"
+        ],
+        "telegram_groups": [
+            "duneofficialportal"
+        ],
+        "holders": {
+            "ETH": 105
+        }
+    },
+    {
+        "contract_address": "0x0dff9fdc1098b17337e480782019cae4401f245d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 192
+        }
+    },
+    {
+        "contract_address": "0x389fb29230d02e67eb963c1f5a00f2b16f95beb7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "token-cdn-domain",
+            "token-cdn-domain",
+            "token-cdn-domain"
+        ],
+        "holders": {
+            "ETH": 9
+        }
+    },
+    {
+        "contract_address": "0x4de2ab8177fc5ffafb7ad11fb8beb1e5fb95f71c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x8a9e6d160d7c0087121e40e398fa3f67a4598b75",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 647
+        }
     }
 ]
