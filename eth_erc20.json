@@ -100364,5 +100364,30 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x1410434b0346f5be678d0fb554e5c7ab620f8f4a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 54616
+        }
+    },
+    {
+        "contract_address": "0x65b062550d86464744b32fc433662adaa6bfb6ae",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 61
+        }
+    },
+    {
+        "contract_address": "0x7216ddf18fc7e57650655bca2751360fec6e21f2",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Twifcoin",
+            "c"
+        ],
+        "holders": {
+            "ETH": 220
+        }
     }
 ]
