@@ -100122,5 +100122,19 @@
         "holders": {
             "ETH": 1
         }
+    },
+    {
+        "contract_address": "0xa487bf43cf3b10dffc97a9a744cbb7036965d3b9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 985
+        }
+    },
+    {
+        "contract_address": "0x952a1de3644f981fb9277913947c2c8d16c053dc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 55
+        }
     }
 ]
