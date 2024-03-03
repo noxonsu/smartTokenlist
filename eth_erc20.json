@@ -99976,7 +99976,8 @@
         "telegram_groups": [
             "WHO_ERC404_Official"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x2be59db3a6030ac65cd3d286a4d7a122264f628a",
@@ -99991,7 +99992,8 @@
         "web_domains": [
             "hachikoinu.org"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xc7bd32bede1394d450a55e4dff652ad0865cce24",
@@ -100005,7 +100007,8 @@
         "holders": {
             "ETH": 103
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x5c544e6aaff63eac2a3adffec26626c9eb7ff026",
@@ -100047,7 +100050,8 @@
         "web_domains": [
             "dogwifcoin.org"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x23b608675a2b2fb1890d3abbd85c5775c51691d5",
@@ -100066,7 +100070,8 @@
             "pitviper.com"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x15439af48fe6aac4d0dc4dda5da2d00e58cf61f1",
@@ -100080,7 +100085,8 @@
         "telegram_groups": [
             "qubic_network"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x7a692557de8f83b62a071a2b990d5f2c815d8ff8",
