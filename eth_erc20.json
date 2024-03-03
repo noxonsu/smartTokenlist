@@ -100276,7 +100276,8 @@
         "emails": [
             "team@bariketh.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x7346ad4c8cd1886ff6d16072bcea5dfc0bc24ca2",
@@ -100300,7 +100301,8 @@
         "emails": [
             "business@maxwellthecat.info"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x5782c2201155dd21c5a855c36a1fa28ca75b283b",
@@ -100314,7 +100316,8 @@
         "telegram_groups": [
             "chinesepepeoff"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x8c130499d33097d4d000d3332e1672f75b431543",
@@ -100343,7 +100346,8 @@
         "holders": {
             "ETH": 303
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x665f4709940f557e9dde63df0fd9cf6425852b4d",
@@ -100358,6 +100362,7 @@
         "holders": {
             "ETH": 400
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
