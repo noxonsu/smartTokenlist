@@ -100231,7 +100231,8 @@
         "telegram_groups": [
             "porcelainportal"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xfbbe098ee65238e4d9f771404edddcbf89cd689b",
@@ -100250,6 +100251,7 @@
             "desci.com"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
