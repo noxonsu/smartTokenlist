@@ -101066,7 +101066,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 59
-        }
+        },
+        "web_domains": [
+            "meme-moguls.com"
+        ]
     },
     {
         "contract_address": "0x058b2b4191564f2bf5686ca338fed0a092608a1c",
