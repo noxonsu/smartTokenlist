@@ -101336,7 +101336,8 @@
         "emails": [
             "contact@xauditorai.org"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xe13cf110176e0dd6590536cd391b8a3522475f82",
@@ -101369,6 +101370,7 @@
             "babymeta.io"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
