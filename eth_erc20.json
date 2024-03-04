@@ -100529,5 +100529,131 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x500289228ecad32345f4e37a28208dc25e59ea57",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "peipei.meme"
+        ],
+        "telegram_groups": [
+            "PeiPei_Eth"
+        ],
+        "holders": {
+            "ETH": 266
+        }
+    },
+    {
+        "contract_address": "0xd8a8442013f071bb118c3c3e03f6d07576d85a53",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0xd9f21558084d8a97ca26299b67d7db05fc344ba9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 114
+        }
+    },
+    {
+        "contract_address": "0xdad33e12e61dc2f2692f2c12e6303b5ade7277ba",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 149
+        }
+    },
+    {
+        "contract_address": "0x34bc56483f484096bde24d5c0e46d67103a0a7cf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 137
+        }
+    },
+    {
+        "contract_address": "0x3714fbfa2cf4df5951a76a025da730ca248d865f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 59
+        }
+    },
+    {
+        "contract_address": "0xa54e259138403c1a09c1e58d64d5928bee19c90a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 150
+        }
+    },
+    {
+        "contract_address": "0x12512a46d971bd035d9466246bc46daf389e281c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 210
+        }
+    },
+    {
+        "contract_address": "0xbb493ac6e9a18dae9f60060da3d7b6a20639ba24",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "danktoken.vip"
+        ],
+        "telegram_groups": [
+            "danktokenportal"
+        ],
+        "holders": {
+            "ETH": 53
+        }
+    },
+    {
+        "contract_address": "0x66ee3353ed866da6f34d5c3c6acef750edf31218",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pocus.finance",
+            "app.pocus.finance"
+        ],
+        "telegram_groups": [
+            "pocus_finance_erc_official"
+        ],
+        "holders": {
+            "ETH": 59
+        }
+    },
+    {
+        "contract_address": "0xfea43f8a7647895349623f1d55fcbb8b84fb6bb8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 96
+        }
+    },
+    {
+        "contract_address": "0x44b01c46cbed1f4b50c99eabee6aab9a78c26584",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Wormgodemperor"
+        ],
+        "holders": {
+            "ETH": 316
+        }
+    },
+    {
+        "contract_address": "0xe6b40d64adca27910a8c90201fd292e44a47dad3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "WomensRights.xyz"
+        ],
+        "telegram_groups": [
+            "WomensRightsDAO"
+        ],
+        "holders": {
+            "ETH": 315
+        }
+    },
+    {
+        "contract_address": "0x9f91d9f9070b0478abb5a9918c79b5dd533f672c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3284
+        }
     }
 ]
