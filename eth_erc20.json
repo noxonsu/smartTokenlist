@@ -101378,7 +101378,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 115
-        }
+        },
+        "web_domains": [
+            "polyhedra.network"
+        ]
     },
     {
         "contract_address": "0x5fa05306fa97ae764594b5d75318846e96ab70db",
@@ -101463,6 +101466,9 @@
         ],
         "holders": {
             "ETH": 69
-        }
+        },
+        "web_domains": [
+            "claude.ai"
+        ]
     }
 ]
