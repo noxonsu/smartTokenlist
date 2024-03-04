@@ -101002,7 +101002,8 @@
         ],
         "holders": {
             "ETH": 81
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x109548dc14c0b8d7908a168202a4ab08bb449613",
@@ -101028,7 +101029,9 @@
         ],
         "holders": {
             "ETH": 150
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4e18c5639261b62ba100fa66f1f0d2b5e0892c7d",
@@ -101041,6 +101044,7 @@
         },
         "web_domains": [
             "nodetopia.com"
-        ]
+        ],
+        "p6": true
     }
 ]
