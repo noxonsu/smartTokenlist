@@ -101501,5 +101501,100 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x4bc90010290d7737f4b955ee1696e526f3734494",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "AiCatSchr"
+        ],
+        "holders": {
+            "ETH": 148
+        }
+    },
+    {
+        "contract_address": "0xf938346d7117534222b48d09325a6b8162b3a9e7",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "choppyportal"
+        ],
+        "holders": {
+            "ETH": 167
+        }
+    },
+    {
+        "contract_address": "0xf4aaa9428a881a5c054d0ed041f5749a336c9ab5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 261
+        }
+    },
+    {
+        "contract_address": "0xec96cad71fe34246ece21dc6411d4bb52ba911ba",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "flepe.io"
+        ],
+        "telegram_groups": [
+            "flepeth"
+        ],
+        "holders": {
+            "ETH": 136
+        }
+    },
+    {
+        "contract_address": "0xf38a873a0d6729c3a1d0ccf2ffcf5e90dfc51ab8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bundlefinance.io",
+            "bundle-finance.gitbook.io"
+        ],
+        "telegram_groups": [
+            "bundlefinanceerc20"
+        ],
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0x0f5def84ced3e9e295dae28df96d0b846de92c1a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 208
+        }
+    },
+    {
+        "contract_address": "0x83d31aa1afa60ae5f1b08e92f61dc2d6d8f100bc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 47
+        }
+    },
+    {
+        "contract_address": "0x87fd01183ba0235e1568995884a78f61081267ef",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "opmnd.ai"
+        ],
+        "telegram_groups": [
+            "OpenMind_AI"
+        ],
+        "holders": {
+            "ETH": 205
+        }
+    },
+    {
+        "contract_address": "0xcb368be0b2bdc6824c441a870619339e59436e7a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.multitooltoken.com"
+        ],
+        "telegram_groups": [
+            "multitoolportal",
+            "multitoolsniperbot"
+        ],
+        "holders": {
+            "ETH": 57
+        }
     }
 ]
