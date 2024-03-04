@@ -100893,7 +100893,8 @@
         "emails": [
             " gucivangoghtoken@gmail.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xde4bca276e9b74612bc7ab3dd74cfc1e73627428",
@@ -100905,7 +100906,8 @@
             "microstrategy.com"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xa8b42c82a628dc43c2c2285205313e5106ea2853",
@@ -100924,7 +100926,8 @@
             "aifork.net"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xa8c14e4f318a3b6f0b006b1c7781c84217f55bb9",
@@ -100938,7 +100941,8 @@
         "holders": {
             "ETH": 298
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x25b91b317cb95232d49c829e555c2fe695598ff7",
@@ -100966,6 +100970,7 @@
         "holders": {
             "ETH": 87
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
