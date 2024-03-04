@@ -100972,5 +100972,72 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x90b0916ec12704da969aeec1c04dbdbcd60a39c7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1017
+        }
+    },
+    {
+        "contract_address": "0x7f3b4b68ca0238f387d8b1a8fbc002d0e6d4cd5b",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "AlphaFrogKermit"
+        ],
+        "holders": {
+            "ETH": 462
+        }
+    },
+    {
+        "contract_address": "0x11d1411f1033a003a678c4cee7161e34c8b2df68",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.instantswap.bond",
+            "app.instantswap.bond"
+        ],
+        "telegram_groups": [
+            "instantswap_portal"
+        ],
+        "holders": {
+            "ETH": 81
+        }
+    },
+    {
+        "contract_address": "0x109548dc14c0b8d7908a168202a4ab08bb449613",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cloudbinary.org",
+            "docs.cloudbinary.org",
+            "cloudbinaryorg.medium.com"
+        ],
+        "telegram_groups": [
+            "cloudbinaryorg",
+            "CloudBinary_Bot"
+        ],
+        "holders": {
+            "ETH": 888
+        }
+    },
+    {
+        "contract_address": "0x51940e2d6120b84912a656e9ba489d4a6f43d5d1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.newsyjohnson.com"
+        ],
+        "holders": {
+            "ETH": 150
+        }
+    },
+    {
+        "contract_address": "0x4e18c5639261b62ba100fa66f1f0d2b5e0892c7d",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "nodetopiaerc"
+        ],
+        "holders": {
+            "ETH": 49
+        }
     }
 ]
