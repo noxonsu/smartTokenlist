@@ -101524,7 +101524,8 @@
         "web_domains": [
             "slightlychoppy.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xf4aaa9428a881a5c054d0ed041f5749a336c9ab5",
@@ -101545,7 +101546,8 @@
         "holders": {
             "ETH": 136
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xf38a873a0d6729c3a1d0ccf2ffcf5e90dfc51ab8",
@@ -101560,7 +101562,8 @@
         "holders": {
             "ETH": 12
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x0f5def84ced3e9e295dae28df96d0b846de92c1a",
@@ -101588,7 +101591,8 @@
         "holders": {
             "ETH": 205
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xcb368be0b2bdc6824c441a870619339e59436e7a",
@@ -101604,6 +101608,7 @@
         "holders": {
             "ETH": 57
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
