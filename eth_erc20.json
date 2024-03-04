@@ -100772,5 +100772,82 @@
         "holders": {
             "ETH": 41576
         }
+    },
+    {
+        "contract_address": "0x3400c133af79aaa8207d0351355df70e1117b042",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "DollarCoinETH"
+        ],
+        "holders": {
+            "ETH": 252
+        }
+    },
+    {
+        "contract_address": "0x96aa4ec47e0f66b337f976f8f25aecef40599391",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.artsy.net",
+            "dirtypilot.com",
+            "www.artsy.net",
+            "doggen.vip"
+        ],
+        "telegram_groups": [
+            "Doggen_ETH"
+        ],
+        "holders": {
+            "ETH": 126
+        }
+    },
+    {
+        "contract_address": "0x1b9b4ca412e2288e06515a64da5566cd51a0c293",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "BigAssDickERC"
+        ],
+        "holders": {
+            "ETH": 34
+        }
+    },
+    {
+        "contract_address": "0x3708dea52a5846fd16d0060aab01c87bb5932b02",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 509
+        }
+    },
+    {
+        "contract_address": "0x7f60adb2818d0ff87b93b1772696ab306c7b4878",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mosespepe.online"
+        ],
+        "telegram_groups": [
+            "mosespepetoken"
+        ],
+        "holders": {
+            "ETH": 31
+        }
+    },
+    {
+        "contract_address": "0x922be8e5165d0ab5b5abb73a6b2426b8ae286bbf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 173
+        }
+    },
+    {
+        "contract_address": "0xd775997452923437ca96065ba15ed02f4a33ed39",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 175
+        }
+    },
+    {
+        "contract_address": "0x50f273701acf4a0eee18788d3623eeba65cd95c9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 188
+        }
     }
 ]
