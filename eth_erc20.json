@@ -100704,5 +100704,64 @@
         "holders": {
             "ETH": 3284
         }
+    },
+    {
+        "contract_address": "0x416de9ad46c53aaab2352f91120952393946d2ac",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@silo.finance",
+            "security@silo.finance"
+        ],
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0xe32037adaa634617a90b4277e8ff5f56a67c63d5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "kariondao.org",
+            "docs.kariondao.org"
+        ],
+        "telegram_groups": [
+            "kariondao_official"
+        ],
+        "holders": {
+            "ETH": 64
+        }
+    },
+    {
+        "contract_address": "0x414080b300d61b0a7beaf3f6b6786fb74288fd58",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "interchainerc.com"
+        ],
+        "telegram_groups": [
+            "interchainerc"
+        ],
+        "holders": {
+            "ETH": 147
+        }
+    },
+    {
+        "contract_address": "0xb9793f7bbca74f12977ab4be1c72fcd296a3aeb3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "trumpe.lol",
+            "trumpe.lol"
+        ],
+        "holders": {
+            "ETH": 72
+        }
+    },
+    {
+        "contract_address": "0xfa1a856cfa3409cfa145fa4e20eb270df3eb21ab",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.apache.org"
+        ],
+        "holders": {
+            "ETH": 41576
+        }
     }
 ]
