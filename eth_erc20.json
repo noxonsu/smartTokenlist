@@ -101238,5 +101238,70 @@
         "holders": {
             "ETH": 91
         }
+    },
+    {
+        "contract_address": "0x32e6c34cd57087abbd59b5a4aecc4cb495924356",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 322
+        }
+    },
+    {
+        "contract_address": "0x7bfc76198fa4352d059f0edb9e8f9e0a0b755c09",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x826882eb1c4d770cff51c2929d487b46ba20c908",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 177
+        }
+    },
+    {
+        "contract_address": "0xfa2e0517682b977c3429ad7cc59eb0570ac98e0d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nextar.io",
+            "nextar.gitbook.io"
+        ],
+        "telegram_groups": [
+            "NextarOfficial"
+        ],
+        "holders": {
+            "ETH": 164
+        }
+    },
+    {
+        "contract_address": "0x4fe8d4775b7cb2546b9ee86182081cdf8f77b053",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "kaiju.buzz"
+        ],
+        "telegram_groups": [
+            "Kaijuno8_ETH"
+        ],
+        "holders": {
+            "ETH": 289
+        }
+    },
+    {
+        "contract_address": "0x69e5c11a7c30f0bf84a9faecbd5161aa7a94deca",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 147
+        }
+    },
+    {
+        "contract_address": "0x79986af15539de2db9a5086382daeda917a9cf0c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.cryptovoxels.com"
+        ],
+        "holders": {
+            "ETH": 2504
+        }
     }
 ]
