@@ -100895,7 +100895,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 7
-        }
+        },
+        "web_domains": [
+            "microstrategy.com"
+        ]
     },
     {
         "contract_address": "0xa8b42c82a628dc43c2c2285205313e5106ea2853",
@@ -100909,7 +100912,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 119
-        }
+        },
+        "web_domains": [
+            "aifork.net"
+        ]
     },
     {
         "contract_address": "0xa8c14e4f318a3b6f0b006b1c7781c84217f55bb9",
