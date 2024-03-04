@@ -101151,7 +101151,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 282
-        }
+        },
+        "web_domains": [
+            "spooky.fi"
+        ]
     },
     {
         "contract_address": "0xcb8a95e76a16b58c30b01e39dd6aad5949e5e802",
@@ -101181,7 +101184,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 45
-        }
+        },
+        "web_domains": [
+            "paipai.mx"
+        ]
     },
     {
         "contract_address": "0x0c58ee13483604abda345b95294785dbe245ba22",
