@@ -101059,7 +101059,9 @@
         ],
         "holders": {
             "ETH": 6
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xda251891e21e6edb0e6828e77621c7b98ea4e8ba",
@@ -101069,7 +101071,9 @@
         },
         "web_domains": [
             "meme-moguls.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x058b2b4191564f2bf5686ca338fed0a092608a1c",
@@ -101082,7 +101086,8 @@
         ],
         "holders": {
             "ETH": 54
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2cc16116f72ba7ef8ac9f5984fa6ef7ffcd3e33a",
