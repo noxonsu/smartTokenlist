@@ -101520,7 +101520,10 @@
         ],
         "holders": {
             "ETH": 167
-        }
+        },
+        "web_domains": [
+            "slightlychoppy.com"
+        ]
     },
     {
         "contract_address": "0xf4aaa9428a881a5c054d0ed041f5749a336c9ab5",
