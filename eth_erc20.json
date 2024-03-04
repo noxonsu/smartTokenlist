@@ -101049,5 +101049,64 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x020cce37d15407e0a6b10681466e47d75f11d3ee",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "example.com",
+            "example.com"
+        ],
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0xda251891e21e6edb0e6828e77621c7b98ea4e8ba",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 59
+        }
+    },
+    {
+        "contract_address": "0x058b2b4191564f2bf5686ca338fed0a092608a1c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "shuneth.com"
+        ],
+        "telegram_groups": [
+            "shunETH"
+        ],
+        "holders": {
+            "ETH": 54
+        }
+    },
+    {
+        "contract_address": "0x2cc16116f72ba7ef8ac9f5984fa6ef7ffcd3e33a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 226
+        }
+    },
+    {
+        "contract_address": "0xc32db1d3282e872d98f6437d3bcfa57801ca6d5c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 625
+        }
+    },
+    {
+        "contract_address": "0x8c88538688aca3b733ad08b12bee4574c0c00907",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x39795344cbcc76cc3fb94b9d1b15c23c2070c66d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1138
+        }
     }
 ]
