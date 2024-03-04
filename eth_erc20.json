@@ -101319,5 +101319,47 @@
         "holders": {
             "ETH": 2504
         }
+    },
+    {
+        "contract_address": "0xdccd2cde3c7c1e4ecc84e94f588d71fab4a5edf5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.xauditorai.org"
+        ],
+        "telegram_groups": [
+            "xauditoraichannel",
+            "xauditoraibot"
+        ],
+        "holders": {
+            "ETH": 184
+        }
+    },
+    {
+        "contract_address": "0xe13cf110176e0dd6590536cd391b8a3522475f82",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 406
+        }
+    },
+    {
+        "contract_address": "0x9783087683a866fff4d0e30749031bcd905ca8c1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 78
+        }
+    },
+    {
+        "contract_address": "0x179a60a8acf90b000cef6f4288ad8307f41301c0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x1ccf27211e8bf052f6255329ed641b4e94e80603",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 107
+        }
     }
 ]
