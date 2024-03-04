@@ -100872,5 +100872,83 @@
         "telegram_groups": [],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xa6aaa3139364214d0dc9729ae414eb7737e08ea8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xe4040ee2cc7069d62c80ba4467a5aa806cc13e07",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "guccivangogh.com"
+        ],
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0xde4bca276e9b74612bc7ab3dd74cfc1e73627428",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0xa8b42c82a628dc43c2c2285205313e5106ea2853",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 34
+        }
+    },
+    {
+        "contract_address": "0xeddbf1dfce3681b1ae51ccf712c241155a9f6be3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 119
+        }
+    },
+    {
+        "contract_address": "0xa8c14e4f318a3b6f0b006b1c7781c84217f55bb9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hunter.fail"
+        ],
+        "telegram_groups": [
+            "huntertoken123"
+        ],
+        "holders": {
+            "ETH": 298
+        }
+    },
+    {
+        "contract_address": "0x25b91b317cb95232d49c829e555c2fe695598ff7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1263
+        }
+    },
+    {
+        "contract_address": "0x9af0a630931f5d8369e13f8832606b14fc591cbd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 93
+        }
+    },
+    {
+        "contract_address": "0xda210cacc039bd0608c4aec92cb93e10a5fcd23d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.niqq.one"
+        ],
+        "telegram_groups": [
+            "NIQABETH"
+        ],
+        "holders": {
+            "ETH": 87
+        }
     }
 ]
