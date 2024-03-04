@@ -101276,7 +101276,8 @@
         "emails": [
             "admin@nextar.io"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x4fe8d4775b7cb2546b9ee86182081cdf8f77b053",
@@ -101290,7 +101291,8 @@
         "holders": {
             "ETH": 289
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x69e5c11a7c30f0bf84a9faecbd5161aa7a94deca",
@@ -101305,7 +101307,8 @@
             "loser_coin_english",
             "loser_coin"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x79986af15539de2db9a5086382daeda917a9cf0c",
