@@ -101386,7 +101386,8 @@
         "emails": [
             "hello@polyhedra.network"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x5fa05306fa97ae764594b5d75318846e96ab70db",
@@ -101401,7 +101402,8 @@
         "holders": {
             "ETH": 154
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x689dff8723ed28fa217d04a302d363ca536f1187",
@@ -101426,7 +101428,8 @@
         "emails": [
             "Injectionprotocolofficial@injection-protocol.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xaeb2ac53c33ddd020af0333ec2c8f07bb58ec1fe",
@@ -101440,7 +101443,8 @@
         "telegram_groups": [
             "bountyfinanceportal"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xa562912e1328eea987e04c2650efb5703757850c",
@@ -101458,7 +101462,8 @@
         "emails": [
             "Team@drops.site"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x0e3b7e5442d3dc6043f1193fa60acde19623d797",
@@ -101472,7 +101477,8 @@
         "telegram_groups": [
             "MuteCommunity"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x351c3702414c0f1d8acb0156fdc20aeda8d07a8f",
@@ -101493,6 +101499,7 @@
         "web_domains": [
             "claude.ai"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
