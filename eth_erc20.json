@@ -101131,7 +101131,9 @@
         ],
         "holders": {
             "ETH": 126
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc305ea3cadf3715b144c77e4182e06a47fa59d06",
@@ -101144,7 +101146,8 @@
         ],
         "holders": {
             "ETH": 40
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x55af5865807b196bd0197e0902746f31fbccfa58",
@@ -101154,7 +101157,9 @@
         },
         "web_domains": [
             "spooky.fi"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xcb8a95e76a16b58c30b01e39dd6aad5949e5e802",
@@ -101177,7 +101182,8 @@
         ],
         "holders": {
             "ETH": 179
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf937055ae3a38dd9f7a36ddccc439a9e7d139443",
@@ -101187,7 +101193,9 @@
         },
         "web_domains": [
             "paipai.mx"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0c58ee13483604abda345b95294785dbe245ba22",
@@ -101214,7 +101222,9 @@
         ],
         "holders": {
             "ETH": 177
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x540c57a187e8405df4522b3786b774cecbf2fb5f",
