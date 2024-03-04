@@ -100728,7 +100728,8 @@
         ],
         "holders": {
             "ETH": 64
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x414080b300d61b0a7beaf3f6b6786fb74288fd58",
@@ -100741,7 +100742,8 @@
         ],
         "holders": {
             "ETH": 147
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb9793f7bbca74f12977ab4be1c72fcd296a3aeb3",
@@ -100752,7 +100754,11 @@
         ],
         "holders": {
             "ETH": 72
-        }
+        },
+        "telegram_groups": [
+            "trumpecoin"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xfa1a856cfa3409cfa145fa4e20eb270df3eb21ab",
