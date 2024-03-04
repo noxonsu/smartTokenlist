@@ -100788,7 +100788,8 @@
         "emails": [
             "info@fcmint.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x96aa4ec47e0f66b337f976f8f25aecef40599391",
@@ -100805,7 +100806,8 @@
         "holders": {
             "ETH": 126
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x1b9b4ca412e2288e06515a64da5566cd51a0c293",
@@ -100819,7 +100821,8 @@
         "web_domains": [
             "gearadult.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x3708dea52a5846fd16d0060aab01c87bb5932b02",
@@ -100840,7 +100843,8 @@
         "holders": {
             "ETH": 31
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x922be8e5165d0ab5b5abb73a6b2426b8ae286bbf",
@@ -100866,6 +100870,7 @@
             "president.gov.ua"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
