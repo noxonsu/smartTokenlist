@@ -101372,5 +101372,97 @@
         "telegram_groups": [],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x0182e2c99b269e0465b9e7cc729ac413a1937477",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 115
+        }
+    },
+    {
+        "contract_address": "0x5fa05306fa97ae764594b5d75318846e96ab70db",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.zk-nam.cloud",
+            "gitlab.com"
+        ],
+        "telegram_groups": [
+            "ZKNAM_Portal"
+        ],
+        "holders": {
+            "ETH": 154
+        }
+    },
+    {
+        "contract_address": "0x689dff8723ed28fa217d04a302d363ca536f1187",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 62
+        }
+    },
+    {
+        "contract_address": "0x88bb60842d9dff0adaf153436f208be039580240",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "Injection-Protocol.com",
+            "injection-protocol.gitbook.io"
+        ],
+        "telegram_groups": [
+            "InjectionProtocol"
+        ],
+        "holders": {
+            "ETH": 174
+        }
+    },
+    {
+        "contract_address": "0xaeb2ac53c33ddd020af0333ec2c8f07bb58ec1fe",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "playbountyfinance.com"
+        ],
+        "holders": {
+            "ETH": 222
+        }
+    },
+    {
+        "contract_address": "0xa562912e1328eea987e04c2650efb5703757850c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "drops.site"
+        ],
+        "telegram_groups": [
+            "dropserc"
+        ],
+        "holders": {
+            "ETH": 312
+        }
+    },
+    {
+        "contract_address": "0x0e3b7e5442d3dc6043f1193fa60acde19623d797",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mutetoken.com"
+        ],
+        "holders": {
+            "ETH": 119
+        }
+    },
+    {
+        "contract_address": "0x351c3702414c0f1d8acb0156fdc20aeda8d07a8f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 255
+        }
+    },
+    {
+        "contract_address": "0x3c40d15c4d368993b6189ae72c00a921793decf0",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Claude3Token"
+        ],
+        "holders": {
+            "ETH": 69
+        }
     }
 ]
