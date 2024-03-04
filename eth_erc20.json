@@ -100781,7 +100781,10 @@
         ],
         "holders": {
             "ETH": 252
-        }
+        },
+        "web_domains": [
+            "fcmint.com"
+        ]
     },
     {
         "contract_address": "0x96aa4ec47e0f66b337f976f8f25aecef40599391",
@@ -100807,7 +100810,10 @@
         ],
         "holders": {
             "ETH": 34
-        }
+        },
+        "web_domains": [
+            "gearadult.com"
+        ]
     },
     {
         "contract_address": "0x3708dea52a5846fd16d0060aab01c87bb5932b02",
@@ -100848,6 +100854,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 188
-        }
+        },
+        "web_domains": [
+            "president.gov.ua"
+        ]
     }
 ]
