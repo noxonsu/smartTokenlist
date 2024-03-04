@@ -100541,7 +100541,8 @@
         ],
         "holders": {
             "ETH": 266
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd8a8442013f071bb118c3c3e03f6d07576d85a53",
@@ -100565,7 +100566,11 @@
         },
         "web_domains": [
             "brewlabs.info"
-        ]
+        ],
+        "telegram_groups": [
+            "brewlabs"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x34bc56483f484096bde24d5c0e46d67103a0a7cf",
@@ -100575,7 +100580,12 @@
         },
         "web_domains": [
             "dots.dev"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "you@example.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3714fbfa2cf4df5951a76a025da730ca248d865f",
@@ -100585,7 +100595,12 @@
         },
         "web_domains": [
             "tasteofhaitibox.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "info@tasteofhaitibox.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa54e259138403c1a09c1e58d64d5928bee19c90a",
@@ -100595,7 +100610,9 @@
         },
         "web_domains": [
             "ottoskingoods.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x12512a46d971bd035d9466246bc46daf389e281c",
@@ -100615,7 +100632,11 @@
         ],
         "holders": {
             "ETH": 53
-        }
+        },
+        "emails": [
+            "team@danktoken.vip"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x66ee3353ed866da6f34d5c3c6acef750edf31218",
