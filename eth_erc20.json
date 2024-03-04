@@ -100562,28 +100562,40 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 149
-        }
+        },
+        "web_domains": [
+            "brewlabs.info"
+        ]
     },
     {
         "contract_address": "0x34bc56483f484096bde24d5c0e46d67103a0a7cf",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 137
-        }
+        },
+        "web_domains": [
+            "dots.dev"
+        ]
     },
     {
         "contract_address": "0x3714fbfa2cf4df5951a76a025da730ca248d865f",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 59
-        }
+        },
+        "web_domains": [
+            "tasteofhaitibox.com"
+        ]
     },
     {
         "contract_address": "0xa54e259138403c1a09c1e58d64d5928bee19c90a",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 150
-        }
+        },
+        "web_domains": [
+            "ottoskingoods.com"
+        ]
     },
     {
         "contract_address": "0x12512a46d971bd035d9466246bc46daf389e281c",
@@ -100624,7 +100636,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 96
-        }
+        },
+        "web_domains": [
+            "agi.eth"
+        ]
     },
     {
         "contract_address": "0x44b01c46cbed1f4b50c99eabee6aab9a78c26584",
