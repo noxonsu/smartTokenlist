@@ -101837,7 +101837,8 @@
         ],
         "holders": {
             "ETH": 159
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x747e550a7b848ace786c3cfe754aa78febc8a022",
@@ -101847,7 +101848,11 @@
         ],
         "holders": {
             "ETH": 385
-        }
+        },
+        "telegram_groups": [
+            "dodoethcoin"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x829b6d840d87cef1e165e1d2563cb89b1b10bfea",
@@ -101860,7 +101865,8 @@
         ],
         "holders": {
             "ETH": 270
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9db71713d333694c9289e9083e68ddfa9f2e91e4",
@@ -101873,7 +101879,11 @@
         ],
         "holders": {
             "ETH": 83
-        }
+        },
+        "emails": [
+            "Contact us: admin@0xcryptai.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe1dbf6598767f97074b2982d24a49e1cb954eeff",
@@ -101887,7 +101897,11 @@
         ],
         "holders": {
             "ETH": 48
-        }
+        },
+        "emails": [
+            "support@alphieai.xyz"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x46be9f2c48ee5a01d10698c134b2f07a00fdcefc",
@@ -101900,7 +101914,8 @@
         ],
         "holders": {
             "ETH": 109
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb1d00340887ccdc371279b5ed4154b6c64409f0b",
