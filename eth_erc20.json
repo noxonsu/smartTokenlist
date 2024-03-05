@@ -52138,8 +52138,8 @@
             "www.hullo-erc.com"
         ],
         "telegram_groups": [
-            "Hullo_Erc",
-            "LFGcoinerc20"
+            "LFGcoinerc20",
+            "Hullo_Erc"
         ],
         "holders": {
             "ETH": 267
@@ -87114,9 +87114,9 @@
         ],
         "telegram_groups": [
             "Farcastereth",
-            "aicoinerc20",
             "Hullo_Erc",
-            "LFGcoinerc20"
+            "LFGcoinerc20",
+            "aicoinerc20"
         ],
         "holders": {
             "ETH": 250
@@ -94006,10 +94006,10 @@
             "ethismonkey.com"
         ],
         "telegram_groups": [
+            "ethismonkey_erc",
             "Farcastereth",
             "Hullo_Erc",
             "LFGcoinerc20",
-            "ethismonkey_erc",
             "aicoinerc20"
         ],
         "holders": {
@@ -102076,7 +102076,11 @@
         ],
         "holders": {
             "ETH": 148
-        }
+        },
+        "emails": [
+            "Contact Us: team@pepepredator.net"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9f1fe7af2909d7eb3e891d33a7f5ac5237425f37",
@@ -102095,11 +102099,17 @@
             "warpcast.com"
         ],
         "telegram_groups": [
-            "thepurgevitalik"
+            "Farcastereth",
+            "LFGcoinerc20",
+            "ethismonkey_erc",
+            "thepurgevitalik",
+            "Hullo_Erc",
+            "aicoinerc20"
         ],
         "holders": {
             "ETH": 38
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x05490bc08fdae1d1952cb4cc6e3991ab619edd10",
@@ -102116,7 +102126,9 @@
         },
         "web_domains": [
             "coingolive.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x19efa7d0fc88ffe461d1091f8cbe56dc2708a84f",
@@ -102143,7 +102155,8 @@
         ],
         "holders": {
             "ETH": 38
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3b5cb1617e6d4cad9d43d60796f2264c6b52e0a9",
@@ -102153,6 +102166,10 @@
         },
         "web_domains": [
             "pug-on-rug.com"
-        ]
+        ],
+        "telegram_groups": [
+            "PugOnRug"
+        ],
+        "p6": true
     }
 ]
