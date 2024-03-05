@@ -101689,5 +101689,47 @@
         "telegram_groups": [],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x1d7ca62f6af49ec66f6680b8606e634e55ef22c1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 196
+        }
+    },
+    {
+        "contract_address": "0x008faa8bc8157f8d19cd716e8cf1bae0ccad74be",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.postandcourier.com"
+        ],
+        "telegram_groups": [
+            "ChappyERC"
+        ],
+        "holders": {
+            "ETH": 317
+        }
+    },
+    {
+        "contract_address": "0xdf9e83c9bfeff6bd230f396f9baf8a847532cb51",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 255
+        }
+    },
+    {
+        "contract_address": "0x7e68c3bb5a3485cf624bdfb75545150ca1f0377a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "solvm.network",
+            "solvm.network"
+        ],
+        "telegram_groups": [
+            "SOLVM_PORTAL",
+            "SOLVM_PORTAL"
+        ],
+        "holders": {
+            "ETH": 105
+        }
     }
 ]
