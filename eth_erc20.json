@@ -101939,5 +101939,39 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x3f0c858c26775df75e45934b189154c436bd7335",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 195
+        }
+    },
+    {
+        "contract_address": "0x95aa5d2dbd3c16ee3fdea82d5c6ec3e38ce3314f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10542
+        }
+    },
+    {
+        "contract_address": "0x6048afc5890e2e98294143acd2452ed90d6d3f3b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.trumpinatorerc20.com"
+        ],
+        "telegram_groups": [
+            "thetrumpinator"
+        ],
+        "holders": {
+            "ETH": 51
+        }
+    },
+    {
+        "contract_address": "0x5228dce61a6d66a98fa0cd27c7926fdc883c816f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
