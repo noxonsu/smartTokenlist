@@ -101700,7 +101700,8 @@
             "bscstarter.finance"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x008faa8bc8157f8d19cd716e8cf1bae0ccad74be",
@@ -101717,7 +101718,8 @@
         "emails": [
             "By Danny Kelly\ndkelly@postandcourier.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xdf9e83c9bfeff6bd230f396f9baf8a847532cb51",
@@ -101739,6 +101741,7 @@
         "holders": {
             "ETH": 105
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
