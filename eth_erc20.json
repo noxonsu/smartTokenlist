@@ -101991,7 +101991,10 @@
         ],
         "holders": {
             "ETH": 110
-        }
+        },
+        "web_domains": [
+            "brics2023.gov.za"
+        ]
     },
     {
         "contract_address": "0x42bcd52b7f290d194d4722b6c6c934cc9ba4425b",
