@@ -102262,7 +102262,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 107
-        }
+        },
+        "web_domains": [
+            "potustheprimaryparty.com"
+        ]
     },
     {
         "contract_address": "0x6f54759dd375fd3a8cc60b593ff5a76f524a9143",
@@ -102272,6 +102275,9 @@
         ],
         "holders": {
             "ETH": 109
-        }
+        },
+        "web_domains": [
+            "pez.com"
+        ]
     }
 ]
