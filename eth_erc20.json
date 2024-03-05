@@ -102309,7 +102309,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 11
-        }
+        },
+        "web_domains": [
+            "albemarledowntown.com"
+        ]
     },
     {
         "contract_address": "0x5caf454ba92e6f2c929df14667ee360ed9fd5b26",
@@ -102333,7 +102336,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 153
-        }
+        },
+        "web_domains": [
+            "l3th1mc00k.xyz"
+        ]
     },
     {
         "contract_address": "0xf018518dcce6669694358c4edb66799aa90edd2f",
