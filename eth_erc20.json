@@ -102176,5 +102176,102 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xcf6daab95c476106eca715d48de4b13287ffdeaa",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3377
+        }
+    },
+    {
+        "contract_address": "0x07e128e823d2b9b22edbda43820aa1a72de99613",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hostai.ai"
+        ],
+        "holders": {
+            "ETH": 212
+        }
+    },
+    {
+        "contract_address": "0xd6a3ea7c2201ad5c6e6b32983e9ff002748361e1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x58fb6e0fe9af2093a5639bf7f62ba2bcc525d6dd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xcb39a89d027c9aee45e1b86868cc60d29be9167e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x5c523661cbf5a0e33260db4316a36e6bb598dc15",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x750c3a0a0ce9984eeb8c5d146dff024b584e5e33",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 618
+        }
+    },
+    {
+        "contract_address": "0x2d0405406f75e75f83457d2d3d2933d7244beb30",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "scouterai.vip",
+            "scouterai.vip",
+            "linktr.ee"
+        ],
+        "telegram_groups": [
+            "ScouterAI"
+        ],
+        "holders": {
+            "ETH": 72
+        }
+    },
+    {
+        "contract_address": "0x4e3a12ded36a93959eaf1f7b1b8abccfadfaef15",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "veriscan.finance"
+        ],
+        "telegram_groups": [
+            "VeriscanAnnouncement"
+        ],
+        "holders": {
+            "ETH": 56
+        }
+    },
+    {
+        "contract_address": "0xb1cce0c1040255d56e9ddf8465bd6a66d8243c21",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 107
+        }
+    },
+    {
+        "contract_address": "0x6f54759dd375fd3a8cc60b593ff5a76f524a9143",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "PezToken"
+        ],
+        "holders": {
+            "ETH": 109
+        }
     }
 ]
