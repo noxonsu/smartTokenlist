@@ -101627,7 +101627,8 @@
             "LeverageToken_Entry",
             "JesterBotEth"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xc219190a81a8a313ec4e723b1c51c5933d567c37",
@@ -101651,7 +101652,8 @@
         "holders": {
             "ETH": 337
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x53c8395465a84955c95159814461466053dedede",
@@ -101672,7 +101674,8 @@
         "telegram_groups": [
             "k9finance"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x0026dfbd8dbb6f8d0c88303cc1b1596409fda542",
@@ -101684,6 +101687,7 @@
             "sanshu.com"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
