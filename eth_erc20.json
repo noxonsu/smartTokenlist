@@ -102080,7 +102080,8 @@
         "emails": [
             "Contact Us: team@pepepredator.net"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x9f1fe7af2909d7eb3e891d33a7f5ac5237425f37",
@@ -102109,7 +102110,8 @@
         "holders": {
             "ETH": 38
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x05490bc08fdae1d1952cb4cc6e3991ab619edd10",
@@ -102128,7 +102130,8 @@
             "coingolive.com"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x19efa7d0fc88ffe461d1091f8cbe56dc2708a84f",
@@ -102156,7 +102159,8 @@
         "holders": {
             "ETH": 38
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x3b5cb1617e6d4cad9d43d60796f2264c6b52e0a9",
@@ -102170,6 +102174,7 @@
         "telegram_groups": [
             "PugOnRug"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
