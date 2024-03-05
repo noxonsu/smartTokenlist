@@ -102312,7 +102312,12 @@
         },
         "web_domains": [
             "albemarledowntown.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "jalmond@albemarlenc.gov"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5caf454ba92e6f2c929df14667ee360ed9fd5b26",
@@ -102339,7 +102344,9 @@
         },
         "web_domains": [
             "l3th1mc00k.xyz"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf018518dcce6669694358c4edb66799aa90edd2f",
@@ -102365,11 +102372,17 @@
             "gptechai.tech"
         ],
         "telegram_groups": [
-            "GPTechAI_ETH"
+            "GPTechAi_ETH",
+            "GPTechAI_ETH",
+            "GPTechAi_bot"
         ],
         "holders": {
             "ETH": 67
-        }
+        },
+        "emails": [
+            "contact@gptechai.tech"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x417ff87f843c834cb41a237c825ad99bb079c907",
