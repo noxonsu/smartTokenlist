@@ -101818,5 +101818,103 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x5c20b550819128074fd538edf79791733ccedd18",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x420b2dde6425037784bcff325fbf4209e009d052",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tps.pics"
+        ],
+        "telegram_groups": [
+            "tpsprotocolportal"
+        ],
+        "holders": {
+            "ETH": 159
+        }
+    },
+    {
+        "contract_address": "0x747e550a7b848ace786c3cfe754aa78febc8a022",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dodo.lol"
+        ],
+        "holders": {
+            "ETH": 385
+        }
+    },
+    {
+        "contract_address": "0x829b6d840d87cef1e165e1d2563cb89b1b10bfea",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "melaniatrump.meme"
+        ],
+        "telegram_groups": [
+            "melaniaeth"
+        ],
+        "holders": {
+            "ETH": 270
+        }
+    },
+    {
+        "contract_address": "0x9db71713d333694c9289e9083e68ddfa9f2e91e4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "0xcryptai.com"
+        ],
+        "telegram_groups": [
+            "zeroxcryptai"
+        ],
+        "holders": {
+            "ETH": 83
+        }
+    },
+    {
+        "contract_address": "0xe1dbf6598767f97074b2982d24a49e1cb954eeff",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.alphieai.xyz",
+            "app.alphieai.xyz"
+        ],
+        "telegram_groups": [
+            "AlphieAI_portal"
+        ],
+        "holders": {
+            "ETH": 48
+        }
+    },
+    {
+        "contract_address": "0x46be9f2c48ee5a01d10698c134b2f07a00fdcefc",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.apustaja.wtf"
+        ],
+        "telegram_groups": [
+            "apuapustajaerc20"
+        ],
+        "holders": {
+            "ETH": 109
+        }
+    },
+    {
+        "contract_address": "0xb1d00340887ccdc371279b5ed4154b6c64409f0b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.euclidai.org",
+            "app.euclidai.org",
+            "docs.euclidai.org"
+        ],
+        "telegram_groups": [
+            "euclidai_farm"
+        ],
+        "holders": {
+            "ETH": 50
+        }
     }
 ]
