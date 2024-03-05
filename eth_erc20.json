@@ -102113,7 +102113,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 10
-        }
+        },
+        "web_domains": [
+            "coingolive.com"
+        ]
     },
     {
         "contract_address": "0x19efa7d0fc88ffe461d1091f8cbe56dc2708a84f",
@@ -102147,6 +102150,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 47
-        }
+        },
+        "web_domains": [
+            "pug-on-rug.com"
+        ]
     }
 ]
