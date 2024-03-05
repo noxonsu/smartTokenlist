@@ -71065,10 +71065,10 @@
             "www.reddit.com"
         ],
         "telegram_groups": [
+            "JesterBotEth",
             "CybertruckETH",
             "XtrackERC",
-            "LeverageToken_Entry",
-            "JesterBotEth"
+            "LeverageToken_Entry"
         ],
         "holders": {
             "ETH": 193
@@ -71192,11 +71192,11 @@
             "linktr.ee"
         ],
         "telegram_groups": [
-            "CybertruckETH",
-            "LeverageToken_Entry",
-            "JesterBotEth",
             "XtrackERC",
-            "aitechnologyportal"
+            "JesterBotEth",
+            "LeverageToken_Entry",
+            "aitechnologyportal",
+            "CybertruckETH"
         ],
         "holders": {
             "ETH": 284
@@ -98018,11 +98018,11 @@
             "ETH": 183
         },
         "telegram_groups": [
-            "CybertruckETH",
+            "XtrackERC",
+            "JesterBotEth",
             "LeverageToken_Entry",
             "aitechnologyportal",
-            "JesterBotEth",
-            "XtrackERC"
+            "CybertruckETH"
         ],
         "p6": true,
         "p8": true
@@ -101619,7 +101619,15 @@
         ],
         "holders": {
             "ETH": 458
-        }
+        },
+        "telegram_groups": [
+            "XtrackERC",
+            "aitechnologyportal",
+            "CybertruckETH",
+            "LeverageToken_Entry",
+            "JesterBotEth"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc219190a81a8a313ec4e723b1c51c5933d567c37",
@@ -101642,7 +101650,8 @@
         ],
         "holders": {
             "ETH": 337
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x53c8395465a84955c95159814461466053dedede",
@@ -101659,7 +101668,11 @@
         },
         "web_domains": [
             "k9finance.com"
-        ]
+        ],
+        "telegram_groups": [
+            "k9finance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0026dfbd8dbb6f8d0c88303cc1b1596409fda542",
@@ -101669,6 +101682,8 @@
         },
         "web_domains": [
             "sanshu.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
