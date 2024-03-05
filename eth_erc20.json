@@ -101695,7 +101695,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 196
-        }
+        },
+        "web_domains": [
+            "bscstarter.finance"
+        ]
     },
     {
         "contract_address": "0x008faa8bc8157f8d19cd716e8cf1bae0ccad74be",
