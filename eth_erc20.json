@@ -101975,5 +101975,65 @@
         "holders": {
             "ETH": 1
         }
+    },
+    {
+        "contract_address": "0xc4d63ec16cac683d76759fd10ace60d08051c43b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 521
+        }
+    },
+    {
+        "contract_address": "0x1972f521ebdebff6f99b410456057823913ea286",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "BricsERC"
+        ],
+        "holders": {
+            "ETH": 110
+        }
+    },
+    {
+        "contract_address": "0x42bcd52b7f290d194d4722b6c6c934cc9ba4425b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "atombrowser.app",
+            "atom-browser.gitbook.io"
+        ],
+        "telegram_groups": [
+            "atombrowserapp"
+        ],
+        "holders": {
+            "ETH": 138
+        }
+    },
+    {
+        "contract_address": "0xe8b72751b335a938d2be7860ed1c4fa5511889c5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "shinjai.gitbook.io",
+            "dapp.shinjai.io",
+            "www.shinjai.com"
+        ],
+        "telegram_groups": [
+            "shinjaitoken"
+        ],
+        "holders": {
+            "ETH": 84
+        }
+    },
+    {
+        "contract_address": "0x8ff2fd6f94cdce7c56bb11328eb9928c9483aa66",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 228
+        }
+    },
+    {
+        "contract_address": "0xdc75176f4dba6822c5d841af2947d0064ca8c1b3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 382
+        }
     }
 ]
