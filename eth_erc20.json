@@ -102192,7 +102192,11 @@
         ],
         "holders": {
             "ETH": 212
-        }
+        },
+        "telegram_groups": [
+            "HostAIETH"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd6a3ea7c2201ad5c6e6b32983e9ff002748361e1",
@@ -102242,7 +102246,8 @@
         ],
         "holders": {
             "ETH": 72
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4e3a12ded36a93959eaf1f7b1b8abccfadfaef15",
@@ -102255,7 +102260,11 @@
         ],
         "holders": {
             "ETH": 56
-        }
+        },
+        "emails": [
+            "dev@veriscan.finance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb1cce0c1040255d56e9ddf8465bd6a66d8243c21",
@@ -102265,7 +102274,9 @@
         },
         "web_domains": [
             "potustheprimaryparty.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6f54759dd375fd3a8cc60b593ff5a76f524a9143",
@@ -102278,6 +102289,7 @@
         },
         "web_domains": [
             "pez.com"
-        ]
+        ],
+        "p6": true
     }
 ]
