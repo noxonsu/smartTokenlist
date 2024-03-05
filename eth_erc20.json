@@ -101766,7 +101766,8 @@
         "web_domains": [
             "antiwokeshirts.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x012ba3ae1074ae43a34a14bca5c4ed0af01b6e53",
@@ -101800,7 +101801,8 @@
         "emails": [
             "  FirstTrumpToken@gmail.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x6d4d5784434963b9b8b6297028cf9fbc6ef61d06",
@@ -101814,6 +101816,7 @@
         "holders": {
             "ETH": 128
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
