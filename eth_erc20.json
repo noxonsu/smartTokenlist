@@ -101994,7 +101994,11 @@
         },
         "web_domains": [
             "brics2023.gov.za"
-        ]
+        ],
+        "emails": [
+            "webmaster@brics2023.gov.za"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x42bcd52b7f290d194d4722b6c6c934cc9ba4425b",
@@ -102008,7 +102012,8 @@
         ],
         "holders": {
             "ETH": 138
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe8b72751b335a938d2be7860ed1c4fa5511889c5",
@@ -102023,7 +102028,8 @@
         ],
         "holders": {
             "ETH": 84
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8ff2fd6f94cdce7c56bb11328eb9928c9483aa66",
