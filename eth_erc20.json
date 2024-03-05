@@ -102047,5 +102047,106 @@
         "holders": {
             "ETH": 382
         }
+    },
+    {
+        "contract_address": "0xfd74dce91c968888f538e0639ad332963d4d8225",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xce0263f30fe28154d274f8a9ac37af8201640207",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "alltimehighcoin"
+        ],
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0x21e5c85a5b1f38bddde68307af77e38f747cd530",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pepepredator.net"
+        ],
+        "telegram_groups": [
+            "PepePredatorETH"
+        ],
+        "holders": {
+            "ETH": 148
+        }
+    },
+    {
+        "contract_address": "0x9f1fe7af2909d7eb3e891d33a7f5ac5237425f37",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ATH_PORTAL"
+        ],
+        "holders": {
+            "ETH": 53
+        }
+    },
+    {
+        "contract_address": "0xae445db61633552841432ce3e11918e352f498d3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "warpcast.com"
+        ],
+        "telegram_groups": [
+            "thepurgevitalik"
+        ],
+        "holders": {
+            "ETH": 38
+        }
+    },
+    {
+        "contract_address": "0x05490bc08fdae1d1952cb4cc6e3991ab619edd10",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 40
+        }
+    },
+    {
+        "contract_address": "0x06c031b8a1428d1770f24deb71a1a1dcf54c2ee0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10
+        }
+    },
+    {
+        "contract_address": "0x19efa7d0fc88ffe461d1091f8cbe56dc2708a84f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "unitao.io",
+            "docs.unitao.io"
+        ],
+        "telegram_groups": [
+            "UNITAO_IO"
+        ],
+        "holders": {
+            "ETH": 543
+        }
+    },
+    {
+        "contract_address": "0x8c5032a4518609105d129979f65ce4aec6912599",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "69420inu.com"
+        ],
+        "telegram_groups": [
+            "sixtyninefourtwentyinu"
+        ],
+        "holders": {
+            "ETH": 38
+        }
+    },
+    {
+        "contract_address": "0x3b5cb1617e6d4cad9d43d60796f2264c6b52e0a9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 47
+        }
     }
 ]
