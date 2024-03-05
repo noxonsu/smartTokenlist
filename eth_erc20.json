@@ -102296,5 +102296,100 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xe0d3d0ede7b5e7567d51f7b4be13ebc28e290f84",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x8153a60ee6426614a53b13f6b84c383b8e6eb139",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0x5caf454ba92e6f2c929df14667ee360ed9fd5b26",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1784
+        }
+    },
+    {
+        "contract_address": "0x46fa4787a76db0e9e7a207040030ba1565095afa",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Pipcramererc20"
+        ],
+        "holders": {
+            "ETH": 146
+        }
+    },
+    {
+        "contract_address": "0xfc116ea24f002f600e363bdce4b91715fe5e0392",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 153
+        }
+    },
+    {
+        "contract_address": "0xf018518dcce6669694358c4edb66799aa90edd2f",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "pipinuerc"
+        ],
+        "holders": {
+            "ETH": 148
+        }
+    },
+    {
+        "contract_address": "0x960b236a07cf122663c4303350609a66a7b288c0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 17393
+        }
+    },
+    {
+        "contract_address": "0x19da802e1a7e52458b286ec22eb9c2098e8ce746",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "gptechai.tech"
+        ],
+        "telegram_groups": [
+            "GPTechAI_ETH"
+        ],
+        "holders": {
+            "ETH": 67
+        }
+    },
+    {
+        "contract_address": "0x417ff87f843c834cb41a237c825ad99bb079c907",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x60332dece37b2ad72ee86f7424eec02b95e952b1",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "piptokeneth"
+        ],
+        "holders": {
+            "ETH": 78
+        }
+    },
+    {
+        "contract_address": "0x88778fa387751356fa6d4e71d97683cd2ebf6b20",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "kimjongunERC"
+        ],
+        "holders": {
+            "ETH": 224
+        }
     }
 ]
