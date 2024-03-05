@@ -101743,5 +101743,62 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x558596528d2c0c3482be9c89ed9c1b482ea17309",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "trumpeterc"
+        ],
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0x3886a3ed21104a01b69c779d3293d5f4c4d5d384",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Woke_Club"
+        ],
+        "holders": {
+            "ETH": 113
+        }
+    },
+    {
+        "contract_address": "0x012ba3ae1074ae43a34a14bca5c4ed0af01b6e53",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 292
+        }
+    },
+    {
+        "contract_address": "0xece8759363ada3b976d5576b265cdc23694588c0",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Cricketscoinerc20"
+        ],
+        "holders": {
+            "ETH": 31
+        }
+    },
+    {
+        "contract_address": "0x85eefb3126c35d47ef8fc5f6f01ecb1402e085a4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 74
+        }
+    },
+    {
+        "contract_address": "0x6d4d5784434963b9b8b6297028cf9fbc6ef61d06",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ominus.codes"
+        ],
+        "telegram_groups": [
+            "OminusPortal"
+        ],
+        "holders": {
+            "ETH": 128
+        }
     }
 ]
