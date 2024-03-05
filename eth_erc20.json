@@ -101762,7 +101762,10 @@
         ],
         "holders": {
             "ETH": 113
-        }
+        },
+        "web_domains": [
+            "antiwokeshirts.com"
+        ]
     },
     {
         "contract_address": "0x012ba3ae1074ae43a34a14bca5c4ed0af01b6e53",
@@ -101786,7 +101789,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 74
-        }
+        },
+        "web_domains": [
+            "yuge.money"
+        ]
     },
     {
         "contract_address": "0x6d4d5784434963b9b8b6297028cf9fbc6ef61d06",
