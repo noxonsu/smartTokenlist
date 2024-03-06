@@ -103355,5 +103355,58 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x49fb8ad7578148e17c3ef0c344ce23a66ed372c4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 224
+        }
+    },
+    {
+        "contract_address": "0x8479b7db585c9fd2ecc28be159c0d650402b5582",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "qettensor.xyz"
+        ],
+        "telegram_groups": [
+            "Qettensor"
+        ],
+        "holders": {
+            "ETH": 50
+        }
+    },
+    {
+        "contract_address": "0xed86b24f97f0192cb382ab6304f9804ee1d67579",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "PepeVsDogePortal"
+        ],
+        "holders": {
+            "ETH": 110
+        }
+    },
+    {
+        "contract_address": "0x8110af6bd2af3f5c4586032ff813c8934451abbe",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cyphererc.com"
+        ],
+        "holders": {
+            "ETH": 93
+        }
+    },
+    {
+        "contract_address": "0x21e60db1a07f0a9f688d321fd7682c6fff734e47",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "soraibot.io"
+        ],
+        "telegram_groups": [
+            "soraicommunity"
+        ],
+        "holders": {
+            "ETH": 203
+        }
     }
 ]
