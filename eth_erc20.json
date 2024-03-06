@@ -103372,7 +103372,8 @@
         "emails": [
             "team@tao.bot"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x8479b7db585c9fd2ecc28be159c0d650402b5582",
@@ -103386,7 +103387,8 @@
         "holders": {
             "ETH": 50
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xed86b24f97f0192cb382ab6304f9804ee1d67579",
@@ -103400,7 +103402,8 @@
         "web_domains": [
             "pepevsdoge.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x8110af6bd2af3f5c4586032ff813c8934451abbe",
@@ -103414,7 +103417,8 @@
         "telegram_groups": [
             "CypherAiPortal"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x21e60db1a07f0a9f688d321fd7682c6fff734e47",
@@ -103428,6 +103432,7 @@
         "holders": {
             "ETH": 203
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
