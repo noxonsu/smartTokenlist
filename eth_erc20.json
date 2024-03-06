@@ -102849,7 +102849,8 @@
             "ETH": 112
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x4d2ee5dae46c86da2ff521f7657dad98834f97b8",
@@ -102882,6 +102883,7 @@
             "coinrankingofficialbot",
             "coinrankingnews"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
