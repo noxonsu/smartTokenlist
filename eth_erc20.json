@@ -102885,5 +102885,93 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x616300b0f9db555cb2c645a943104035b4dbb347",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 207
+        }
+    },
+    {
+        "contract_address": "0xb0eba261bf1b459079f534a32d2673dc368e5b15",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ink-branding.xyz"
+        ],
+        "telegram_groups": [
+            "ink_branding"
+        ],
+        "holders": {
+            "ETH": 22
+        }
+    },
+    {
+        "contract_address": "0x72e9d9038ce484ee986fea183f8d8df93f9ada13",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1661
+        }
+    },
+    {
+        "contract_address": "0x6e10d16780b7ab462a0ba1cc764569ec58730790",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "investa.fund",
+            "investafund.medium.com"
+        ],
+        "telegram_groups": [
+            "investa_fund"
+        ],
+        "holders": {
+            "ETH": 37
+        }
+    },
+    {
+        "contract_address": "0x68b21273d95b73a8f90b0eb365814f21af837524",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "p3p3.world"
+        ],
+        "telegram_groups": [
+            "OfficialP3P3"
+        ],
+        "holders": {
+            "ETH": 138
+        }
+    },
+    {
+        "contract_address": "0x55d6995b0e9b8a981b8a853d2c0bc0e6311a0073",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 475
+        }
+    },
+    {
+        "contract_address": "0x6758b7d441a9739b98552b373703d8d3d14f9e62",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 939
+        }
+    },
+    {
+        "contract_address": "0x9f278dc799bbc61ecb8e5fb8035cbfa29803623b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 71
+        }
+    },
+    {
+        "contract_address": "0x3a645ff83560231aab0f9c830ba108b06c94e34a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "lunar.bet"
+        ],
+        "telegram_groups": [
+            "LunarBetPortal"
+        ],
+        "holders": {
+            "ETH": 659
+        }
     }
 ]
