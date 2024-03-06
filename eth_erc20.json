@@ -103292,7 +103292,11 @@
         ],
         "holders": {
             "ETH": 76
-        }
+        },
+        "telegram_groups": [
+            "HOLD10_erc20"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x631f66c0170946cc2abe948a5caea4440e2a4965",
@@ -103309,7 +103313,8 @@
         ],
         "holders": {
             "ETH": 58
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x288df03a11fe5fbb521beb89d1688eb0e036d092",
@@ -103326,7 +103331,9 @@
         },
         "web_domains": [
             "depin.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xea55f9d4a1bcea5e3e806f169f33f0092d5fb7f0",
@@ -103339,6 +103346,10 @@
         ],
         "holders": {
             "ETH": 229
-        }
+        },
+        "emails": [
+            "official@gemtools.io"
+        ],
+        "p6": true
     }
 ]
