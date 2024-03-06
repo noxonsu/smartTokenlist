@@ -102525,5 +102525,85 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xe77fbe87829fa31916ca360564e23337d5d975f8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "lambdanetwork.org",
+            "app.lambdanetwork.org"
+        ],
+        "telegram_groups": [
+            "lambda_erc"
+        ],
+        "holders": {
+            "ETH": 65
+        }
+    },
+    {
+        "contract_address": "0xab80cc2a11914af5535ba7917a6cb81f272a59a2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "medigenai.finance"
+        ],
+        "telegram_groups": [
+            "medigenai_portal"
+        ],
+        "holders": {
+            "ETH": 76
+        }
+    },
+    {
+        "contract_address": "0xa5c07972e304799712244153dfc2d6d9d5f5e2db",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "canaryai.xyz"
+        ],
+        "telegram_groups": [
+            "canaryAI"
+        ],
+        "holders": {
+            "ETH": 66
+        }
+    },
+    {
+        "contract_address": "0x8a627d1be1758ef69ac8dac7c28237b3e619eae2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 245
+        }
+    },
+    {
+        "contract_address": "0xadfe5fa0ff62310ee47877357110a5f1aad0231c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "realpepecat.vip"
+        ],
+        "telegram_groups": [
+            "realpepecat"
+        ],
+        "holders": {
+            "ETH": 66
+        }
+    },
+    {
+        "contract_address": "0x2643173d4256d6823d1267bb2a7cc4cb93dfcbf5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.oern.io"
+        ],
+        "telegram_groups": [
+            "oernofficial"
+        ],
+        "holders": {
+            "ETH": 72
+        }
+    },
+    {
+        "contract_address": "0x18e2bc9fe87fabd9bd6ebc62adc04fe94b4f35ab",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13
+        }
     }
 ]
