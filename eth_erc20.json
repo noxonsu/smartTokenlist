@@ -102720,7 +102720,8 @@
         "holders": {
             "ETH": 129
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x6bcb0cb704c2239c75606ff10087779131cd02ab",
@@ -102734,7 +102735,8 @@
         "holders": {
             "ETH": 24
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x880676674b98778bb89aab55cb0f6736991ec5a9",
@@ -102751,7 +102753,8 @@
         "emails": [
             "official@xplus.ai"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x421e13b4e805993a0d50ad8c6c47a4f693f04424",
