@@ -103054,5 +103054,123 @@
         "holders": {
             "ETH": 921
         }
+    },
+    {
+        "contract_address": "0x0fa0ed0cbe0412379cd181320c93448968c76c1c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "theopflow.com",
+            "opflow.gitbook.io"
+        ],
+        "telegram_groups": [
+            "theopflow"
+        ],
+        "holders": {
+            "ETH": 231
+        }
+    },
+    {
+        "contract_address": "0x73d5b2f081cedf63a9e660a22088c7724af78774",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1468
+        }
+    },
+    {
+        "contract_address": "0xfb1dc286fd70d98169a308893972a79a7e01d7f1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dogedesigner.life"
+        ],
+        "telegram_groups": [
+            "DOGEDesignerETH"
+        ],
+        "holders": {
+            "ETH": 131
+        }
+    },
+    {
+        "contract_address": "0xc0b6addde76be6a09231edc12a5e3794c11f594f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "flexgpu.app",
+            "docs.flexgpu.app"
+        ],
+        "telegram_groups": [
+            "FlexGPU"
+        ],
+        "holders": {
+            "ETH": 353
+        }
+    },
+    {
+        "contract_address": "0x6490743dd93e735fd33f26d7839f1d1cd386ab13",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "theia-ai.org",
+            "docs.theia-ai.org"
+        ],
+        "telegram_groups": [
+            "theiaaiportal"
+        ],
+        "holders": {
+            "ETH": 296
+        }
+    },
+    {
+        "contract_address": "0xa8a465f7c7ff8c30e9f4e5f213c33db8b0973634",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "taox.ai"
+        ],
+        "telegram_groups": [
+            "taox_ai"
+        ],
+        "holders": {
+            "ETH": 622
+        }
+    },
+    {
+        "contract_address": "0x6b96c78d4472031f1fbed2d1c4bd3895e9212344",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "taox.ai"
+        ],
+        "telegram_groups": [
+            "taox_ai"
+        ],
+        "holders": {
+            "ETH": 626
+        }
+    },
+    {
+        "contract_address": "0x7c0d54faba3ad745d402665fbee5a61c6a3c4360",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 253
+        }
+    },
+    {
+        "contract_address": "0xff055ff1ec9aa85f14e757d769f9d52d023f2e3b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.nhub-erc.com"
+        ],
+        "telegram_groups": [
+            "nodehuberc"
+        ],
+        "holders": {
+            "ETH": 287
+        }
+    },
+    {
+        "contract_address": "0x122b79cb4e867684e3f58bc370f18f128bbe93b4",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "CLOSEDAI_Entry"
+        ],
+        "holders": {
+            "ETH": 107
+        }
     }
 ]
