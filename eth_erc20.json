@@ -102782,7 +102782,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 7
-        }
+        },
+        "web_domains": [
+            "babymog.xyz"
+        ]
     },
     {
         "contract_address": "0xc9401b48895399d9bd367279c01db9233113dac3",
@@ -102792,7 +102795,10 @@
         ],
         "holders": {
             "ETH": 87
-        }
+        },
+        "web_domains": [
+            "closedai.com"
+        ]
     },
     {
         "contract_address": "0x97ab08fde4592aba78949019750e2753f938da81",
