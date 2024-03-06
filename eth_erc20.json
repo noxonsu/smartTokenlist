@@ -102427,7 +102427,8 @@
         "emails": [
             "venturarfkc@gmail.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x237ef894f6d185cad267a6067417bdd4cf980824",
@@ -102449,7 +102450,8 @@
             "nobleblocks.com"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x3c35d1fda636c7c08cc958189ffd428f0cf51556",
@@ -102463,7 +102465,8 @@
         "holders": {
             "ETH": 22
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xfa99a87b14b02e2240c79240c5a20f945ca5ef76",
@@ -102498,7 +102501,8 @@
         "telegram_groups": [
             "RawChickenExperiment"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xb5a69d896d0584d93ff50a69e65b58737f951a5d",
@@ -102519,6 +102523,7 @@
         "holders": {
             "ETH": 36
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
