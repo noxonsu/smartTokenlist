@@ -103002,5 +103002,57 @@
         "holders": {
             "ETH": 659
         }
+    },
+    {
+        "contract_address": "0x97d2fc7d16bc34121c3311f2e2e05d298c19956f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1229
+        }
+    },
+    {
+        "contract_address": "0x60d2b94582f869587447132b4a587401a4c5c5a7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 119
+        }
+    },
+    {
+        "contract_address": "0x97b65710d03e12775189f0d113202cc1443b0aa2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "astroelon.net",
+            "instagram.com",
+            "reddit.com"
+        ],
+        "telegram_groups": [
+            "astroeloncadets"
+        ],
+        "holders": {
+            "ETH": 13828
+        }
+    },
+    {
+        "contract_address": "0xbb97e381f1d1e94ffa2a5844f6875e6146981009",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wibx.io"
+        ],
+        "holders": {
+            "ETH": 16818
+        }
+    },
+    {
+        "contract_address": "0xfe8546f4ac4180638edbc9ef9a5820450788e2ea",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "popocoineth.com"
+        ],
+        "telegram_groups": [
+            "popocoineth"
+        ],
+        "holders": {
+            "ETH": 921
+        }
     }
 ]
