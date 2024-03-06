@@ -102775,7 +102775,8 @@
         ],
         "holders": {
             "ETH": 75
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0fa38f53ee79849de8da5d805be1c455f8a6b8b9",
@@ -102785,7 +102786,11 @@
         },
         "web_domains": [
             "babymog.xyz"
-        ]
+        ],
+        "telegram_groups": [
+            "babymogerc"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc9401b48895399d9bd367279c01db9233113dac3",
@@ -102798,7 +102803,8 @@
         },
         "web_domains": [
             "closedai.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x97ab08fde4592aba78949019750e2753f938da81",
@@ -102812,7 +102818,8 @@
         ],
         "holders": {
             "ETH": 99
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4865c122b616da684995d2821fa65fb1d2984274",
