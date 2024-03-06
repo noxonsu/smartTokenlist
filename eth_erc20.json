@@ -103323,7 +103323,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 106
-        }
+        },
+        "web_domains": [
+            "depin.io"
+        ]
     },
     {
         "contract_address": "0xea55f9d4a1bcea5e3e806f169f33f0092d5fb7f0",
