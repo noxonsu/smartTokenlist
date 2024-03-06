@@ -102419,7 +102419,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 190
-        }
+        },
+        "web_domains": [
+            "rfkcventura.com"
+        ]
     },
     {
         "contract_address": "0x237ef894f6d185cad267a6067417bdd4cf980824",
@@ -102436,7 +102439,10 @@
         ],
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "nobleblocks.com"
+        ]
     },
     {
         "contract_address": "0x3c35d1fda636c7c08cc958189ffd428f0cf51556",
@@ -102477,7 +102483,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 69
-        }
+        },
+        "web_domains": [
+            "rawchickenexperiment.com"
+        ]
     },
     {
         "contract_address": "0xb5a69d896d0584d93ff50a69e65b58737f951a5d",
