@@ -103220,7 +103220,8 @@
         "holders": {
             "ETH": 233
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x676977e752890d2ca0aa6f8d55cc79f9647be472",
@@ -103259,7 +103260,8 @@
         "emails": [
             "cortexloop@gmail.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x4cd0c43b0d53bc318cc5342b77eb6f124e47f526",
