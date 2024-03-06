@@ -103148,7 +103148,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 253
-        }
+        },
+        "web_domains": [
+            "bundleofholding.com"
+        ]
     },
     {
         "contract_address": "0xff055ff1ec9aa85f14e757d769f9d52d023f2e3b",
