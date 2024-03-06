@@ -102739,7 +102739,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 108
-        }
+        },
+        "web_domains": [
+            "xplusai.io"
+        ]
     },
     {
         "contract_address": "0x421e13b4e805993a0d50ad8c6c47a4f693f04424",
