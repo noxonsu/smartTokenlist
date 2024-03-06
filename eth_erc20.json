@@ -102641,7 +102641,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 292
-        }
+        },
+        "web_domains": [
+            "pullix.io"
+        ]
     },
     {
         "contract_address": "0xf83a3233e78c7e1c6bdd0a5fea0b1f00c00e7623",
