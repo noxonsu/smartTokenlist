@@ -103361,7 +103361,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 224
-        }
+        },
+        "web_domains": [
+            "tao.bot"
+        ]
     },
     {
         "contract_address": "0x8479b7db585c9fd2ecc28be159c0d650402b5582",
@@ -103384,7 +103387,10 @@
         ],
         "holders": {
             "ETH": 110
-        }
+        },
+        "web_domains": [
+            "pepevsdoge.com"
+        ]
     },
     {
         "contract_address": "0x8110af6bd2af3f5c4586032ff813c8934451abbe",
