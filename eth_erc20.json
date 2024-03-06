@@ -103283,5 +103283,59 @@
         "holders": {
             "ETH": 61
         }
+    },
+    {
+        "contract_address": "0x2dbff4ed719a3fa792f3742d7d6d4a44c8c4d02e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "metadrop.com."
+        ],
+        "holders": {
+            "ETH": 76
+        }
+    },
+    {
+        "contract_address": "0x631f66c0170946cc2abe948a5caea4440e2a4965",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "play-extraction.com",
+            "extraction.gitbook.io",
+            "www.reddit.com",
+            "www.digitaljournal.com",
+            "vimeo.com"
+        ],
+        "telegram_groups": [
+            "play_extraction"
+        ],
+        "holders": {
+            "ETH": 58
+        }
+    },
+    {
+        "contract_address": "0x288df03a11fe5fbb521beb89d1688eb0e036d092",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x5382cf40dd42c05ca632ddcafb2b8a48135c5b72",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 106
+        }
+    },
+    {
+        "contract_address": "0xea55f9d4a1bcea5e3e806f169f33f0092d5fb7f0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "gemtools.io"
+        ],
+        "telegram_groups": [
+            "GemtoolsOfficial"
+        ],
+        "holders": {
+            "ETH": 229
+        }
     }
 ]
