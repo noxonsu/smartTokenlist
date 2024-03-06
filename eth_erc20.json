@@ -102634,7 +102634,9 @@
         ],
         "holders": {
             "ETH": 278
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x1cc7047e15825f639e0752eb1b89e4225f5327f2",
@@ -102644,7 +102646,14 @@
         },
         "web_domains": [
             "pullix.io"
-        ]
+        ],
+        "telegram_groups": [
+            "pullixmarkets"
+        ],
+        "emails": [
+            "partnerships@pullix.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf83a3233e78c7e1c6bdd0a5fea0b1f00c00e7623",
@@ -102660,11 +102669,13 @@
             "robloxofficial.vip"
         ],
         "telegram_groups": [
+            "RoBlox_2024Portal",
             "RoBlox_Portal"
         ],
         "holders": {
             "ETH": 63
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x23696914ca9737466d8553a2d619948f548ee424",
