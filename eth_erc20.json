@@ -102891,7 +102891,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 207
-        }
+        },
+        "web_domains": [
+            "alphabot.app"
+        ]
     },
     {
         "contract_address": "0xb0eba261bf1b459079f534a32d2673dc368e5b15",
@@ -102959,7 +102962,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 71
-        }
+        },
+        "web_domains": [
+            "babydragonx.win"
+        ]
     },
     {
         "contract_address": "0x3a645ff83560231aab0f9c830ba108b06c94e34a",
