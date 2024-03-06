@@ -103197,5 +103197,84 @@
         "holders": {
             "ETH": 107
         }
+    },
+    {
+        "contract_address": "0x069d89974f4edabde69450f9cf5cf7d8cbd2568d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x2a4701ac59e0ec6b95becbaf88315ca9b722c2ba",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hubtensor.com",
+            "docs.hubtensor.com",
+            "dapp.hubtensor.com"
+        ],
+        "telegram_groups": [
+            "hubtensorportal",
+            "hubtensor_bot"
+        ],
+        "holders": {
+            "ETH": 233
+        }
+    },
+    {
+        "contract_address": "0x676977e752890d2ca0aa6f8d55cc79f9647be472",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 161
+        }
+    },
+    {
+        "contract_address": "0x296233e84c1d7bff11121bf6d60f0ffa39c3f0cf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 677
+        }
+    },
+    {
+        "contract_address": "0x79fe75708e834c5a6857a8b17eeac651907c1da8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0x36705e789d0d1ba53fd9bb93512722018b0a089e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cortexloop.ai",
+            "docs.cortexloop.ai"
+        ],
+        "telegram_groups": [
+            "cortexloop"
+        ],
+        "holders": {
+            "ETH": 277
+        }
+    },
+    {
+        "contract_address": "0x4cd0c43b0d53bc318cc5342b77eb6f124e47f526",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3586
+        }
+    },
+    {
+        "contract_address": "0x2673e84060f09d09a5eae51a0a6ecf7fcb00b266",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 41
+        }
+    },
+    {
+        "contract_address": "0x94ec918ddeecfdfcbf8c8d3e848b7c3e8d8ceaa1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 61
+        }
     }
 ]
