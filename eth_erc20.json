@@ -102625,5 +102625,70 @@
         "holders": {
             "ETH": 13
         }
+    },
+    {
+        "contract_address": "0x0a033ef03d9f52c456d2ad20ce907e3aa804f1ec",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "docs.zkproxy.tech"
+        ],
+        "holders": {
+            "ETH": 278
+        }
+    },
+    {
+        "contract_address": "0x1cc7047e15825f639e0752eb1b89e4225f5327f2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 292
+        }
+    },
+    {
+        "contract_address": "0xf83a3233e78c7e1c6bdd0a5fea0b1f00c00e7623",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 89
+        }
+    },
+    {
+        "contract_address": "0x537bdb520205bc1bb7c238fa7f35e84a6fbfd130",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "robloxofficial.vip"
+        ],
+        "telegram_groups": [
+            "RoBlox_Portal"
+        ],
+        "holders": {
+            "ETH": 63
+        }
+    },
+    {
+        "contract_address": "0x23696914ca9737466d8553a2d619948f548ee424",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 615
+        }
+    },
+    {
+        "contract_address": "0xdba4f5f220205b80d36899786ed455008b40031c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x4c406c068106375724275cbff028770c544a1333",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 27
+        }
+    },
+    {
+        "contract_address": "0xb8ea459b669649b66fb505567d3ae6db858f2181",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 35
+        }
     }
 ]
