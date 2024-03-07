@@ -104438,11 +104438,13 @@
             "padre.gg"
         ],
         "telegram_groups": [
-            "padre_app_bot"
+            "padre_app_bot",
+            "padre_app"
         ],
         "holders": {
             "ETH": 377
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd849882983f1ba8a3c23b16b65bb0173a7f63b63",
