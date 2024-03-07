@@ -103888,5 +103888,71 @@
         "telegram_groups": [],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x3bbbb6a231d0a1a12c6b79ba5bc2ed6358db5160",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 408
+        }
+    },
+    {
+        "contract_address": "0x4b6d036d0bc62a633acca6d10956e9dbbb16748f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 105
+        }
+    },
+    {
+        "contract_address": "0x1f769203d2abcb78f5a77dd15c0078c50fb13287",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "azurewallet.app"
+        ],
+        "telegram_groups": [
+            "azureglobal"
+        ],
+        "holders": {
+            "ETH": 445
+        }
+    },
+    {
+        "contract_address": "0x00000000368492117fa481beee75d4eb39e25bd8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "741.gg"
+        ],
+        "holders": {
+            "ETH": 106
+        }
+    },
+    {
+        "contract_address": "0xe3b9cfb8ea8a4f1279fbc28d3e15b4d2d86f18a0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bigactive.com",
+            "opensea.io",
+            "fottiecoin.com"
+        ],
+        "telegram_groups": [
+            "fottiecoin"
+        ],
+        "holders": {
+            "ETH": 297
+        }
+    },
+    {
+        "contract_address": "0xdf696df4e9fbd5bcabca4e1095b0bb1341d2c985",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0xa299ff44fa3d38259db6534bf1c4dedfe68ed0f2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
     }
 ]
