@@ -103497,7 +103497,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 2
-        }
+        },
+        "web_domains": [
+            "testtest.finance"
+        ]
     },
     {
         "contract_address": "0xf0edac27aa3e85e2d176f689b0025f90c154393a",
