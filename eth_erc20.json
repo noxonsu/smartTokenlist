@@ -103981,7 +103981,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 123
-        }
+        },
+        "web_domains": [
+            "blocjerk.gitbook.io"
+        ]
     },
     {
         "contract_address": "0x9094c15f2f535a765e8a2dac20b05148be7044cd",
@@ -104002,6 +104005,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 106
-        }
+        },
+        "web_domains": [
+            "arbiscan.io"
+        ]
     }
 ]
