@@ -103771,5 +103771,97 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xde5d2530a877871f6f0fc240b9fce117246dadae",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "JuiceBotApp"
+        ],
+        "holders": {
+            "ETH": 1401
+        }
+    },
+    {
+        "contract_address": "0x852e5427c86a3b46dd25e5fe027bb15f53c4bcb8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3848
+        }
+    },
+    {
+        "contract_address": "0x1160e3a9efeccaf8cf30fc514093fe99ee69d06a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "vutulikbettaren.com"
+        ],
+        "telegram_groups": [
+            "VUTULIK_ETH"
+        ],
+        "holders": {
+            "ETH": 245
+        }
+    },
+    {
+        "contract_address": "0x827cbdb8e721ceabb49b68ac3092f52abe0ca5b5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0xf12a6e8ef4775e4a263a50371f5ebfa799728055",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "elanmosk.xyz"
+        ],
+        "telegram_groups": [
+            "mosk_eth"
+        ],
+        "holders": {
+            "ETH": 129
+        }
+    },
+    {
+        "contract_address": "0x70c9bc0578b00a586c6ce46e602f3d6bd9cef063",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 260
+        }
+    },
+    {
+        "contract_address": "0xc01154b4ccb518232d6bbfc9b9e6c5068b766f82",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nexuschain.net"
+        ],
+        "telegram_groups": [
+            "NexusChainNet"
+        ],
+        "holders": {
+            "ETH": 482
+        }
+    },
+    {
+        "contract_address": "0x19e8e359c65e794578df4284c10cb943ab6b087c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.aethir.com",
+            "www.reddit.com",
+            "www.linkedin.com"
+        ],
+        "telegram_groups": [
+            "aethirofficial"
+        ],
+        "holders": {
+            "ETH": 117
+        }
+    },
+    {
+        "contract_address": "0xdeaf8dbb149c38dd21e143907d8fd258022e60f9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
     }
 ]
