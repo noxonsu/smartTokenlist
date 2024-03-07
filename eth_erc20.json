@@ -103641,11 +103641,13 @@
             "www.magicinternetpepe.wtf"
         ],
         "telegram_groups": [
-            "magicinternetpepe"
+            "magicinternetpepe",
+            "Magicinternetpepe"
         ],
         "holders": {
             "ETH": 94
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9b40a5fc9f91d4b4c9c9355cba82f2b69b36f69a",
@@ -103662,11 +103664,13 @@
             "app.oasisfi.tech"
         ],
         "telegram_groups": [
+            "oasisfitech",
             "oasisfi_tech"
         ],
         "holders": {
             "ETH": 35
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x97ee7162b916f4e9596a120f5c7f6f1b7ffa44df",
@@ -103688,7 +103692,9 @@
         },
         "web_domains": [
             "usdcdrop.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xcd554cfabb22678c0532b28278efd4eef8566cdd",
@@ -103701,6 +103707,7 @@
         ],
         "holders": {
             "ETH": 53
-        }
+        },
+        "p6": true
     }
 ]
