@@ -103732,7 +103732,9 @@
         },
         "web_domains": [
             "wpath.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9ce115f0341ae5dabc8b477b74e83db2018a6f42",
@@ -103742,7 +103744,9 @@
         },
         "web_domains": [
             "daocentral.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x000000000000d0151e748d25b766e77efe2a6c83",
@@ -103762,6 +103766,7 @@
         ],
         "holders": {
             "ETH": 141
-        }
+        },
+        "p6": true
     }
 ]
