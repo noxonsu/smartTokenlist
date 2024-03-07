@@ -104474,7 +104474,8 @@
         "holders": {
             "ETH": 48
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xdebb5a793d730800c5eb2ada27375227eb03b834",
@@ -104489,7 +104490,8 @@
         "telegram_groups": [
             "OxDeployerAI"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xd9812f24f34e0d727bbf6ea7caaee05b7f7a2603",
@@ -104515,7 +104517,8 @@
             "tomrocket",
             "bskt_global"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x6d0e4b220a6c7c3e2c42adf44591ae0d6ab1bea5",
@@ -104529,7 +104532,8 @@
         "telegram_groups": [
             "Shibwifhat_Dogwifhatkiller"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xd068c7c941fbbd2300cb2f1841858c2643722dc7",
@@ -104559,6 +104563,7 @@
         "emails": [
             "info@solartec.tech"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
