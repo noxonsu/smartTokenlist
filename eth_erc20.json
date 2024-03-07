@@ -103713,5 +103713,49 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x7e82918eab28cb2647ab105a19d875d40682a81b",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "mogdogfrogcoinerc20"
+        ],
+        "holders": {
+            "ETH": 62
+        }
+    },
+    {
+        "contract_address": "0xe58a57fe91854070e1e19b00e9cae35357c1e827",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 38
+        }
+    },
+    {
+        "contract_address": "0x9ce115f0341ae5dabc8b477b74e83db2018a6f42",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 258
+        }
+    },
+    {
+        "contract_address": "0x000000000000d0151e748d25b766e77efe2a6c83",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1173
+        }
+    },
+    {
+        "contract_address": "0xb43add3b74caa26a6d8ae5d5e8b37d0a4085ae4b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "farmtopiaerc.com"
+        ],
+        "telegram_groups": [
+            "Farmerportal"
+        ],
+        "holders": {
+            "ETH": 141
+        }
     }
 ]
