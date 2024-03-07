@@ -104344,7 +104344,8 @@
             "blncblank",
             "silentai_bot"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x2d869ae129e308f94cc47e66eaefb448cee0d03e",
@@ -104356,7 +104357,8 @@
             "oraidex.io"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x9f671e369ce010a9e4cb0a53ba575ff0a7cd6320",
@@ -104382,7 +104384,8 @@
         "emails": [
             "info@oraspaceai.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x62431de84c503e152a8957ff51c8945aaaa7d929",
@@ -104400,7 +104403,8 @@
         "emails": [
             "contact@blastai.tech"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x7d499710c9f4a78696e7f229fb6064aef52b43b9",
@@ -104415,7 +104419,8 @@
         "holders": {
             "ETH": 45
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x860017c2165b5dcaeb995c9aab781f0da38d0057",
@@ -104429,7 +104434,8 @@
         "holders": {
             "ETH": 69
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xb36cf340a35f9860d0bb59afb0355580f0000dad",
@@ -104444,7 +104450,8 @@
         "holders": {
             "ETH": 377
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xd849882983f1ba8a3c23b16b65bb0173a7f63b63",
