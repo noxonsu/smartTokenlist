@@ -103568,7 +103568,8 @@
             "craftai.com"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x3467c00a3826dd63e6326b844ef1fc513fca55de",
@@ -103630,6 +103631,7 @@
         "holders": {
             "ETH": 166
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
