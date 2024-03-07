@@ -103901,7 +103901,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 105
-        }
+        },
+        "web_domains": [
+            "wiz-eternalcrypt.gitbook.io"
+        ]
     },
     {
         "contract_address": "0x1f769203d2abcb78f5a77dd15c0078c50fb13287",
@@ -103953,6 +103956,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 2
-        }
+        },
+        "web_domains": [
+            "thefrenchfarmhousevenue.com"
+        ]
     }
 ]
