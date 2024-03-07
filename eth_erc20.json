@@ -104178,5 +104178,133 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x1475ec80834c6a78f8afebb6670993dae632f0f7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xe9ccbfbc8a78f9db99ff3a4b82251abf608ae790",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "vitaoai.com"
+        ],
+        "telegram_groups": [
+            "vitao_ai_portal"
+        ],
+        "holders": {
+            "ETH": 187
+        }
+    },
+    {
+        "contract_address": "0xefb20cd759f617ab59b758a1f06de02feb5e8bd5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.taoharvest.com",
+            "docs.taoharvest.com"
+        ],
+        "telegram_groups": [
+            "taoharvest"
+        ],
+        "holders": {
+            "ETH": 310
+        }
+    },
+    {
+        "contract_address": "0xdd23410f1fff27279c7314ff4735e71852084ddf",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.volumeAI.tech"
+        ],
+        "telegram_groups": [
+            "VolumeAI_Erc",
+            "VolumeAi_Alerts",
+            "VolumizerBurnBot",
+            "VolumizerSniper"
+        ],
+        "holders": {
+            "ETH": 185
+        }
+    },
+    {
+        "contract_address": "0x8c757f3c34b2c28d98b641c487375e031442f90a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0x6ad3403e4d5079165c42ce0a86ef83392b3f3b80",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 344
+        }
+    },
+    {
+        "contract_address": "0xc91ef786fbf6d62858262c82c63de45085dea659",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 449
+        }
+    },
+    {
+        "contract_address": "0x86b5e2642d094078ad7fe4e0a61f1f4eb4e3280c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "synthai.llc"
+        ],
+        "telegram_groups": [
+            "SynthAIportal"
+        ],
+        "holders": {
+            "ETH": 145
+        }
+    },
+    {
+        "contract_address": "0x2e38d809f3714e7db79244d20567e19913625147",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0x147f7aeae8109af3088e9653b23df9dbfb15b7a3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "xcube.live",
+            "xcube-2.gitbook.io"
+        ],
+        "telegram_groups": [
+            "xcubeai"
+        ],
+        "holders": {
+            "ETH": 162
+        }
+    },
+    {
+        "contract_address": "0x32eca61dc25d0742f238ce523e66b68867625dad",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "0xfair.com"
+        ],
+        "telegram_groups": [
+            "OxFair"
+        ],
+        "holders": {
+            "ETH": 191
+        }
+    },
+    {
+        "contract_address": "0x38604d52d3a89b16a90053ae0c6d009504a9a5b8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "usecloudai.com"
+        ],
+        "holders": {
+            "ETH": 273
+        }
     }
 ]
