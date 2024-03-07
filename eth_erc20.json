@@ -104022,5 +104022,123 @@
         "telegram_groups": [],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x68449870eea84453044bd430822827e21fd8f101",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zaibot.io"
+        ],
+        "telegram_groups": [
+            "zaibotpublic",
+            "zaibotann"
+        ],
+        "holders": {
+            "ETH": 84
+        }
+    },
+    {
+        "contract_address": "0xc3036ad6e4b05599bd78c35dddbde9ed45d42ec5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "lily-ai.tech"
+        ],
+        "telegram_groups": [
+            "Lily_AI_Token",
+            "lilyerc20_bot"
+        ],
+        "holders": {
+            "ETH": 77
+        }
+    },
+    {
+        "contract_address": "0x5e798ef13e2c4be9b6aa85f1f45b9640fe030d1c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 92
+        }
+    },
+    {
+        "contract_address": "0x9d2ad11df86e18dbb491c721296fc12f22e90463",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.thesquidward.com"
+        ],
+        "holders": {
+            "ETH": 185
+        }
+    },
+    {
+        "contract_address": "0xb91b0175f904399b9c94288605d03b4458f2b972",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "updog-eth.xyz"
+        ],
+        "telegram_groups": [
+            "UpDog_Eth"
+        ],
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0x74834737aba7d19e57f298f911bf2d3a1b9b2c92",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "taim.financial"
+        ],
+        "telegram_groups": [
+            "taim_financial"
+        ],
+        "holders": {
+            "ETH": 108
+        }
+    },
+    {
+        "contract_address": "0x21686f8ce003a95c99acd297e302faacf742f7d4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tokenmint.io"
+        ],
+        "holders": {
+            "ETH": 408
+        }
+    },
+    {
+        "contract_address": "0xeb61e567cbaeaccb6c259def92900bc59d8a14cc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0xe65d37f18a770643cb14c8611aca7a67244ba480",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 373
+        }
+    },
+    {
+        "contract_address": "0xb7e59eeef4349169a0ec5f9bdfc70effc305b2c4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "peapods.finance"
+        ],
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0xedee9cc3bf9cfd86a493a23a0775508e0f826644",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ataliscoin.org"
+        ],
+        "telegram_groups": [
+            "ataliserc20"
+        ],
+        "holders": {
+            "ETH": 218
+        }
     }
 ]
