@@ -104325,5 +104325,105 @@
         "telegram_groups": [],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xa76de18b435693af41ceff680982df6d8e183765",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "silentai.io",
+            "docs.silentai.io"
+        ],
+        "holders": {
+            "ETH": 246
+        }
+    },
+    {
+        "contract_address": "0x2d869ae129e308f94cc47e66eaefb448cee0d03e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 176
+        }
+    },
+    {
+        "contract_address": "0x9f671e369ce010a9e4cb0a53ba575ff0a7cd6320",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 49
+        }
+    },
+    {
+        "contract_address": "0xd11e9d1f647f9eec20867db9aeac514f16141c4e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "oraspaceai.com",
+            "app.oraspaceai.com",
+            "docs.oraspaceai.com"
+        ],
+        "telegram_groups": [
+            "oraspaceai"
+        ],
+        "holders": {
+            "ETH": 41
+        }
+    },
+    {
+        "contract_address": "0x62431de84c503e152a8957ff51c8945aaaa7d929",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.blastai.tech",
+            "docs.blastai.tech"
+        ],
+        "telegram_groups": [
+            "blastAIEntryPortal"
+        ],
+        "holders": {
+            "ETH": 270
+        }
+    },
+    {
+        "contract_address": "0x7d499710c9f4a78696e7f229fb6064aef52b43b9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "lexaai.tech"
+        ],
+        "telegram_groups": [
+            "lexaaitech"
+        ],
+        "holders": {
+            "ETH": 45
+        }
+    },
+    {
+        "contract_address": "0x860017c2165b5dcaeb995c9aab781f0da38d0057",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fiscus.capital"
+        ],
+        "telegram_groups": [
+            "FiscusCapital"
+        ],
+        "holders": {
+            "ETH": 69
+        }
+    },
+    {
+        "contract_address": "0xb36cf340a35f9860d0bb59afb0355580f0000dad",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "padre.gg"
+        ],
+        "telegram_groups": [
+            "padre_app_bot"
+        ],
+        "holders": {
+            "ETH": 377
+        }
+    },
+    {
+        "contract_address": "0xd849882983f1ba8a3c23b16b65bb0173a7f63b63",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 343
+        }
     }
 ]
