@@ -103904,7 +103904,9 @@
         },
         "web_domains": [
             "wiz-eternalcrypt.gitbook.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x1f769203d2abcb78f5a77dd15c0078c50fb13287",
@@ -103917,7 +103919,8 @@
         ],
         "holders": {
             "ETH": 445
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x00000000368492117fa481beee75d4eb39e25bd8",
@@ -103927,7 +103930,11 @@
         ],
         "holders": {
             "ETH": 106
-        }
+        },
+        "telegram_groups": [
+            "UniswapEmeralds"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe3b9cfb8ea8a4f1279fbc28d3e15b4d2d86f18a0",
@@ -103942,7 +103949,8 @@
         ],
         "holders": {
             "ETH": 297
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xdf696df4e9fbd5bcabca4e1095b0bb1341d2c985",
@@ -103959,6 +103967,8 @@
         },
         "web_domains": [
             "thefrenchfarmhousevenue.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
