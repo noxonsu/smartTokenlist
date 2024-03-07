@@ -103550,5 +103550,78 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xdb298285fe4c5410b05390ca80e8fbe9de1f259b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1475
+        }
+    },
+    {
+        "contract_address": "0x6a0b6ae44068f974da660997632f7bbde57221d3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 162
+        }
+    },
+    {
+        "contract_address": "0x3467c00a3826dd63e6326b844ef1fc513fca55de",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xf17c6e025d6c733e2038ccd28b239db44a7acff8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xaa1495d4694e11ede4809e6ec26ebf7d2a71cc51",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x9011a1006eeac02ce1736c5310173e90c1317871",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x5c1d9aa868a30795f92fae903edc9eff269044bf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 493
+        }
+    },
+    {
+        "contract_address": "0x5903cb31b6d62d0c474159e45886c446bfe0efd6",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "xGPTportal"
+        ],
+        "holders": {
+            "ETH": 524
+        }
+    },
+    {
+        "contract_address": "0x05f72d4555e71ef3f5862627828fc2f830d3ccb1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "degenmasters.ai",
+            "degenmasters.gitbook.io"
+        ],
+        "telegram_groups": [
+            "degenmastersaiportal"
+        ],
+        "holders": {
+            "ETH": 166
+        }
     }
 ]
