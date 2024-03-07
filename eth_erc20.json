@@ -103729,14 +103729,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 38
-        }
+        },
+        "web_domains": [
+            "wpath.org"
+        ]
     },
     {
         "contract_address": "0x9ce115f0341ae5dabc8b477b74e83db2018a6f42",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 258
-        }
+        },
+        "web_domains": [
+            "daocentral.com"
+        ]
     },
     {
         "contract_address": "0x000000000000d0151e748d25b766e77efe2a6c83",
