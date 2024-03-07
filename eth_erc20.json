@@ -104197,7 +104197,8 @@
         ],
         "holders": {
             "ETH": 187
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xefb20cd759f617ab59b758a1f06de02feb5e8bd5",
@@ -104211,7 +104212,8 @@
         ],
         "holders": {
             "ETH": 310
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xdd23410f1fff27279c7314ff4735e71852084ddf",
@@ -104220,14 +104222,15 @@
             "www.volumeAI.tech"
         ],
         "telegram_groups": [
-            "VolumeAI_Erc",
-            "VolumeAi_Alerts",
             "VolumizerBurnBot",
-            "VolumizerSniper"
+            "VolumeAi_Alerts",
+            "VolumizerSniper",
+            "VolumeAI_Erc"
         ],
         "holders": {
             "ETH": 185
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8c757f3c34b2c28d98b641c487375e031442f90a",
@@ -104257,11 +104260,16 @@
             "synthai.llc"
         ],
         "telegram_groups": [
-            "SynthAIportal"
+            "SynthAIportal",
+            "synthaiportal"
         ],
         "holders": {
             "ETH": 145
-        }
+        },
+        "emails": [
+            " Email: support@synthai.llc\t \n                    "
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2e38d809f3714e7db79244d20567e19913625147",
@@ -104282,7 +104290,8 @@
         ],
         "holders": {
             "ETH": 162
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x32eca61dc25d0742f238ce523e66b68867625dad",
@@ -104295,7 +104304,8 @@
         ],
         "holders": {
             "ETH": 191
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x38604d52d3a89b16a90053ae0c6d009504a9a5b8",
