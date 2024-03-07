@@ -103633,5 +103633,71 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xfd161d8e0156a89262ed2ad992ab532a3d1fa323",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.magicinternetpepe.wtf"
+        ],
+        "telegram_groups": [
+            "magicinternetpepe"
+        ],
+        "holders": {
+            "ETH": 94
+        }
+    },
+    {
+        "contract_address": "0x9b40a5fc9f91d4b4c9c9355cba82f2b69b36f69a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xbeafd3d3a95cc9da45b6b4813df50d8233238705",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "oasisfi.tech",
+            "app.oasisfi.tech"
+        ],
+        "telegram_groups": [
+            "oasisfi_tech"
+        ],
+        "holders": {
+            "ETH": 35
+        }
+    },
+    {
+        "contract_address": "0x97ee7162b916f4e9596a120f5c7f6f1b7ffa44df",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.ShifuCoin.io",
+            "T.Me",
+            "Twitter.com"
+        ],
+        "holders": {
+            "ETH": 641
+        }
+    },
+    {
+        "contract_address": "0x317f8d18fb16e49a958becd0ea72f8e153d25654",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xcd554cfabb22678c0532b28278efd4eef8566cdd",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.dopecoin.xyz"
+        ],
+        "telegram_groups": [
+            "dopeofficialportal"
+        ],
+        "holders": {
+            "ETH": 53
+        }
     }
 ]
