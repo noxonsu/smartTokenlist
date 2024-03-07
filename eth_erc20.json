@@ -103827,7 +103827,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 260
-        }
+        },
+        "web_domains": [
+            "anonpvp.com"
+        ]
     },
     {
         "contract_address": "0xc01154b4ccb518232d6bbfc9b9e6c5068b766f82",
@@ -103862,6 +103865,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 6
-        }
+        },
+        "web_domains": [
+            "aevo.xyz"
+        ]
     }
 ]
