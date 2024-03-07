@@ -104030,12 +104030,14 @@
             "zaibot.io"
         ],
         "telegram_groups": [
+            "zaibotann",
             "zaibotpublic",
-            "zaibotann"
+            "zaibotportal"
         ],
         "holders": {
             "ETH": 84
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc3036ad6e4b05599bd78c35dddbde9ed45d42ec5",
@@ -104049,7 +104051,8 @@
         ],
         "holders": {
             "ETH": 77
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5e798ef13e2c4be9b6aa85f1f45b9640fe030d1c",
@@ -104059,7 +104062,11 @@
         },
         "web_domains": [
             "pepetrumpeth.com"
-        ]
+        ],
+        "telegram_groups": [
+            "PepeTrumpOnEth"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9d2ad11df86e18dbb491c721296fc12f22e90463",
@@ -104069,7 +104076,11 @@
         ],
         "holders": {
             "ETH": 185
-        }
+        },
+        "telegram_groups": [
+            "squidwardcoin"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb91b0175f904399b9c94288605d03b4458f2b972",
@@ -104082,7 +104093,8 @@
         ],
         "holders": {
             "ETH": 32
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x74834737aba7d19e57f298f911bf2d3a1b9b2c92",
@@ -104095,7 +104107,8 @@
         ],
         "holders": {
             "ETH": 108
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x21686f8ce003a95c99acd297e302faacf742f7d4",
