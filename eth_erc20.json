@@ -103801,7 +103801,8 @@
         "holders": {
             "ETH": 245
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x827cbdb8e721ceabb49b68ac3092f52abe0ca5b5",
@@ -103822,7 +103823,8 @@
         "holders": {
             "ETH": 129
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x70c9bc0578b00a586c6ce46e602f3d6bd9cef063",
@@ -103839,7 +103841,8 @@
         "emails": [
             "Email. hello@uxper.co"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xc01154b4ccb518232d6bbfc9b9e6c5068b766f82",
@@ -103853,7 +103856,8 @@
         "holders": {
             "ETH": 482
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x19e8e359c65e794578df4284c10cb943ab6b087c",
@@ -103869,7 +103873,8 @@
         "holders": {
             "ETH": 117
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xdeaf8dbb149c38dd21e143907d8fd258022e60f9",
@@ -103881,6 +103886,7 @@
             "aevo.xyz"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
