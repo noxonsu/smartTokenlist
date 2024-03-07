@@ -103975,5 +103975,33 @@
         "telegram_groups": [],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x9caae40dcf950afea443119e51e821d6fe2437ca",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 123
+        }
+    },
+    {
+        "contract_address": "0x9094c15f2f535a765e8a2dac20b05148be7044cd",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "thefusionai.io",
+            "fusion-ai-docs.gitbook.io"
+        ],
+        "telegram_groups": [
+            "TheFusionAi"
+        ],
+        "holders": {
+            "ETH": 236
+        }
+    },
+    {
+        "contract_address": "0x33e7884efebd315ab2745072e6ba255e130a571d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 106
+        }
     }
 ]
