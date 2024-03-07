@@ -103563,7 +103563,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 162
-        }
+        },
+        "web_domains": [
+            "craftai.com"
+        ]
     },
     {
         "contract_address": "0x3467c00a3826dd63e6326b844ef1fc513fca55de",
