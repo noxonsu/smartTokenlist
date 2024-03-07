@@ -103434,5 +103434,96 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xbe7458bc543cf2df43ac109d2f713dffe6417aa4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "athenasai.io",
+            "docs.athenasai.io"
+        ],
+        "telegram_groups": [
+            "athenasAI"
+        ],
+        "holders": {
+            "ETH": 268
+        }
+    },
+    {
+        "contract_address": "0x54fba331f88c6bb7359fc605b788eb7bd0ce7052",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.animai.tech"
+        ],
+        "telegram_groups": [
+            "anim_ai_erc"
+        ],
+        "holders": {
+            "ETH": 37
+        }
+    },
+    {
+        "contract_address": "0x32c62cb2f4c977902a98606c062adb75211cab98",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "taolayer.com",
+            "docs.taolayer.com"
+        ],
+        "telegram_groups": [
+            "Taolayer2024"
+        ],
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0xaad6de97d9a65ebc4ebfa675a7bcb7682b70d593",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zoi.finance",
+            "app.zoi.finance",
+            "swap.zoi.finance",
+            "docs.zoi.finance"
+        ],
+        "telegram_groups": [
+            "zoifinance_portal"
+        ],
+        "holders": {
+            "ETH": 29
+        }
+    },
+    {
+        "contract_address": "0x1004d8ba9e4b783f9880533c2a89e53c08b129c1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xf0edac27aa3e85e2d176f689b0025f90c154393a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8290
+        }
+    },
+    {
+        "contract_address": "0xff01135ba550017382ad67d767d1a698349eda3b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x6e47da9400a484573c1ff78906c04ab42464d487",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.flokiwifhat.lol"
+        ],
+        "telegram_groups": [
+            "fifcoin_erc"
+        ],
+        "holders": {
+            "ETH": 33
+        }
     }
 ]
