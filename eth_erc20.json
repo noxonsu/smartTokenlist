@@ -104342,7 +104342,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 176
-        }
+        },
+        "web_domains": [
+            "oraidex.io"
+        ]
     },
     {
         "contract_address": "0x9f671e369ce010a9e4cb0a53ba575ff0a7cd6320",
