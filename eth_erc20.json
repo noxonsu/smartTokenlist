@@ -103685,7 +103685,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "usdcdrop.com"
+        ]
     },
     {
         "contract_address": "0xcd554cfabb22678c0532b28278efd4eef8566cdd",
