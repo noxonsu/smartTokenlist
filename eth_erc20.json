@@ -78741,8 +78741,8 @@
             "tokenmint.io"
         ],
         "telegram_groups": [
-            "remilios",
-            "LunaInuERC20"
+            "LunaInuERC20",
+            "remilios"
         ],
         "holders": {
             "ETH": 0
@@ -90592,8 +90592,8 @@
             "ETH": 166
         },
         "telegram_groups": [
-            "remilios",
-            "LunaInuERC20"
+            "LunaInuERC20",
+            "remilios"
         ],
         "p6": true,
         "p8": true
@@ -91279,8 +91279,8 @@
             "ETH": 102
         },
         "telegram_groups": [
-            "remilios",
-            "LunaInuERC20"
+            "LunaInuERC20",
+            "remilios"
         ],
         "p6": true,
         "p8": true
@@ -104118,7 +104118,12 @@
         ],
         "holders": {
             "ETH": 408
-        }
+        },
+        "telegram_groups": [
+            "LunaInuERC20",
+            "remilios"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xeb61e567cbaeaccb6c259def92900bc59d8a14cc",
@@ -104142,7 +104147,11 @@
         ],
         "holders": {
             "ETH": 25
-        }
+        },
+        "telegram_groups": [
+            "PeapodsFinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xedee9cc3bf9cfd86a493a23a0775508e0f826644",
@@ -104155,6 +104164,10 @@
         ],
         "holders": {
             "ETH": 218
-        }
+        },
+        "emails": [
+            "Official email:atalisnet@gmail.com "
+        ],
+        "p6": true
     }
 ]
