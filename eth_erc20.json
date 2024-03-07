@@ -103988,7 +103988,8 @@
         "telegram_groups": [
             "blocjerk"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x9094c15f2f535a765e8a2dac20b05148be7044cd",
@@ -104006,7 +104007,8 @@
         "emails": [
             "support@thefusionai.io"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x33e7884efebd315ab2745072e6ba255e130a571d",
@@ -104018,6 +104020,7 @@
             "arbiscan.io"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
