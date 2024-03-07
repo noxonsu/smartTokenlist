@@ -98435,6 +98435,7 @@
             "www.animai.tech"
         ],
         "telegram_groups": [
+            "anim_ai_erc",
             "animai_erc",
             "AnimAI_erc"
         ],
@@ -103447,7 +103448,11 @@
         ],
         "holders": {
             "ETH": 268
-        }
+        },
+        "emails": [
+            " contact@athenasai.io "
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x54fba331f88c6bb7359fc605b788eb7bd0ce7052",
@@ -103456,11 +103461,14 @@
             "www.animai.tech"
         ],
         "telegram_groups": [
-            "anim_ai_erc"
+            "anim_ai_erc",
+            "animai_erc",
+            "AnimAI_erc"
         ],
         "holders": {
             "ETH": 37
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x32c62cb2f4c977902a98606c062adb75211cab98",
@@ -103474,7 +103482,8 @@
         ],
         "holders": {
             "ETH": 15
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xaad6de97d9a65ebc4ebfa675a7bcb7682b70d593",
@@ -103490,7 +103499,8 @@
         ],
         "holders": {
             "ETH": 29
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1004d8ba9e4b783f9880533c2a89e53c08b129c1",
@@ -103500,7 +103510,9 @@
         },
         "web_domains": [
             "testtest.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf0edac27aa3e85e2d176f689b0025f90c154393a",
@@ -103527,6 +103539,10 @@
         ],
         "holders": {
             "ETH": 33
-        }
+        },
+        "emails": [
+            "contact@flokiwifhat.lol"
+        ],
+        "p6": true
     }
 ]
