@@ -104565,5 +104565,54 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xceefb64bf3cf872b3be1af31c79636901e422deb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 270
+        }
+    },
+    {
+        "contract_address": "0xae41b275aaaf484b541a5881a2dded9515184cca",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "linktr.ee",
+            "app.chain-swap.org",
+            "www.chain-swap.org"
+        ],
+        "telegram_groups": [
+            "ChainSwapPortal"
+        ],
+        "holders": {
+            "ETH": 401
+        }
+    },
+    {
+        "contract_address": "0x6150d44aa02b4c6422f8d6432ddf98e0fbc83b02",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 28
+        }
+    },
+    {
+        "contract_address": "0xdfe504a0a895ec7b1672d6e678dfdd031282df64",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x34ba042827996821cffeb06477d48a2ff9474483",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "shib20.vip"
+        ],
+        "telegram_groups": [
+            "shib2eth"
+        ],
+        "holders": {
+            "ETH": 2057
+        }
     }
 ]
