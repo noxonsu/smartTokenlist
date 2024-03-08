@@ -105036,5 +105036,128 @@
         "holders": {
             "ETH": 901
         }
+    },
+    {
+        "contract_address": "0x4218919f2946c63071784751fc8b0827b5c3178a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.reddit.com",
+            "nauxeai.gitbook.io"
+        ],
+        "telegram_groups": [
+            "NauxeAI"
+        ],
+        "holders": {
+            "ETH": 169
+        }
+    },
+    {
+        "contract_address": "0x9f79b3c8e0e4eeb8b48c299e601d5e714b1d146b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "applecateth.xyz"
+        ],
+        "telegram_groups": [
+            "TickerACAT"
+        ],
+        "holders": {
+            "ETH": 476
+        }
+    },
+    {
+        "contract_address": "0x65ec559cbd4b5a990195199def0d7ab94e90f9cf",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dgpu.network"
+        ],
+        "telegram_groups": [
+            "DGpuNetwork"
+        ],
+        "holders": {
+            "ETH": 296
+        }
+    },
+    {
+        "contract_address": "0xb81408a1cc2f4be70a6a3178d351ca95a77c5a06",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.xo-dex.com",
+            "coinmarketcap.com"
+        ],
+        "telegram_groups": [
+            "xodexofficialtg"
+        ],
+        "holders": {
+            "ETH": 65
+        }
+    },
+    {
+        "contract_address": "0xd4f2c6bc5cd2edd11278d45073df1bea0e8c38ac",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.veritascloud.io",
+            "app.veritascloud.io"
+        ],
+        "telegram_groups": [
+            "VeritasCloud"
+        ],
+        "holders": {
+            "ETH": 152
+        }
+    },
+    {
+        "contract_address": "0xda4f98d642849ab03df026768807b2e3c34f1d26",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "multiconnect.pro",
+            "app.multiconnect.pro"
+        ],
+        "telegram_groups": [
+            "multiconnect_pro_official"
+        ],
+        "holders": {
+            "ETH": 71
+        }
+    },
+    {
+        "contract_address": "0x0371f2be348743635b89f6e40c70b64f681d346e",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "PeplicatorEntry"
+        ],
+        "holders": {
+            "ETH": 37
+        }
+    },
+    {
+        "contract_address": "0x0fa64ffe4a81153cff8d583102247ef1dd04da14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xfc562fc07a9493dd84ca264050c7c5892efee072",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "traceai.io"
+        ],
+        "telegram_groups": [
+            "Trace_Ai",
+            "Trace_AIbot"
+        ],
+        "holders": {
+            "ETH": 388
+        }
+    },
+    {
+        "contract_address": "0xa615e41edf57eefd6e02d43427f60db1c02f8ef1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blockora.io"
+        ],
+        "holders": {
+            "ETH": 174
+        }
     }
 ]
