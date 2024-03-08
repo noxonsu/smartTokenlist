@@ -104750,11 +104750,13 @@
             "dragonballerc.com"
         ],
         "telegram_groups": [
+            "dragonballerc",
             "dragonballERC"
         ],
         "holders": {
             "ETH": 334
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9194337c06405623c0f374e63fa1cc94e2788c58",
@@ -104781,7 +104783,8 @@
         ],
         "holders": {
             "ETH": 231
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf67366e83cc9b115ef8cca93baed1f03e6d3ca9a",
@@ -104790,12 +104793,16 @@
             "mindverse.global"
         ],
         "telegram_groups": [
-            "MindVerseERC20",
-            "mindverse_bot"
+            "mindverse_bot",
+            "MindVerseERC20"
         ],
         "holders": {
             "ETH": 260
-        }
+        },
+        "emails": [
+            "mail@mindverse.global"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x23e43187fd1d738d127bfd9266e25c7eaf28be41",
@@ -104808,6 +104815,7 @@
         ],
         "holders": {
             "ETH": 51
-        }
+        },
+        "p6": true
     }
 ]
