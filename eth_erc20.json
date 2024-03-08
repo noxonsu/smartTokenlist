@@ -105193,5 +105193,101 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x1534200260e9c9620ffe6e57c8cdd818346155e9",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ContractDevAI"
+        ],
+        "holders": {
+            "ETH": 94
+        }
+    },
+    {
+        "contract_address": "0x3b66093fa67d07b3a6fbd069f7cb44426f022bcc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xb1f3d87eb1d08314803d8cd3308c310118de3e12",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "opsync.cloud"
+        ],
+        "telegram_groups": [
+            "OpSync"
+        ],
+        "holders": {
+            "ETH": 35
+        }
+    },
+    {
+        "contract_address": "0xe2ba073bd7f69d127ae2ac648c027d8b58a6aca5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "aionai.xyz",
+            "docs.aionai.xyz"
+        ],
+        "telegram_groups": [
+            "aionai_official"
+        ],
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0xc50ef449171a51fbeafd7c562b064b6471c36caa",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zombieinu.io"
+        ],
+        "telegram_groups": [
+            "ZombieInuEth"
+        ],
+        "holders": {
+            "ETH": 13481
+        }
+    },
+    {
+        "contract_address": "0x38714f784f4122ef98c15dd868f5472adf518336",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.cryptnative.com"
+        ],
+        "telegram_groups": [
+            "cryptnative",
+            "cryptnative_bot"
+        ],
+        "holders": {
+            "ETH": 77
+        }
+    },
+    {
+        "contract_address": "0x17eb33bd388531b9da360cc1b77a9f2ef248f35b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.ethwifhat.com"
+        ],
+        "holders": {
+            "ETH": 169
+        }
+    },
+    {
+        "contract_address": "0x6061e2ccb39c8768bbe3a8cea0432e4c77ba75b1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "forgeai.io",
+            "forgeais-organization.gitbook.io"
+        ],
+        "telegram_groups": [
+            "ForgeAIportal",
+            "ForgeAIBot"
+        ],
+        "holders": {
+            "ETH": 125
+        }
     }
 ]
