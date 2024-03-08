@@ -104593,7 +104593,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 28
-        }
+        },
+        "web_domains": [
+            "noduswatches.com"
+        ]
     },
     {
         "contract_address": "0xdfe504a0a895ec7b1672d6e678dfdd031282df64",
