@@ -105005,7 +105005,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 19
-        }
+        },
+        "web_domains": [
+            "erc20.tech"
+        ]
     },
     {
         "contract_address": "0x000000000503be77a5ed27bef2c19943a8b5ae73",
