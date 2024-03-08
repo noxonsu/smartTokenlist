@@ -104674,14 +104674,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 108
-        }
+        },
+        "web_domains": [
+            "forum.threefold.io"
+        ]
     },
     {
         "contract_address": "0x9c7d4fb43919def524c1a9d92fe836169eaf0615",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 47
-        }
+        },
+        "web_domains": [
+            "landwolfavax.com"
+        ]
     },
     {
         "contract_address": "0x47da5456bc2e1ce391b645ce80f2e97192e4976a",
@@ -104695,7 +104701,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 259
-        }
+        },
+        "web_domains": [
+            "kingking.co.uk"
+        ]
     },
     {
         "contract_address": "0xdf09a216fac5adc3e640db418c0b956076509503",
