@@ -104829,11 +104829,13 @@
             "asia.nikkei.com"
         ],
         "telegram_groups": [
-            "AKIRA_COIN"
+            "AKIRA_COIN",
+            "nikkeiasia"
         ],
         "holders": {
             "ETH": 119
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x491e136ff7ff03e6ab097e54734697bb5802fc1c",
