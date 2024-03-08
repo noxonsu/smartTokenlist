@@ -105206,7 +105206,8 @@
         "web_domains": [
             "dogemars.io"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x3b66093fa67d07b3a6fbd069f7cb44426f022bcc",
@@ -105227,7 +105228,8 @@
         "holders": {
             "ETH": 35
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xe2ba073bd7f69d127ae2ac648c027d8b58a6aca5",
@@ -105242,7 +105244,8 @@
         "holders": {
             "ETH": 30
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xc50ef449171a51fbeafd7c562b064b6471c36caa",
@@ -105273,7 +105276,8 @@
         "emails": [
             "support@cryptnative.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x17eb33bd388531b9da360cc1b77a9f2ef248f35b",
@@ -105287,7 +105291,8 @@
         "telegram_groups": [
             "EthWefHat"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x6061e2ccb39c8768bbe3a8cea0432e4c77ba75b1",
@@ -105306,6 +105311,7 @@
         "emails": [
             "support@fogeai.io"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
