@@ -104646,7 +104646,8 @@
         ],
         "holders": {
             "ETH": 23
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x062e9089dc6d224cd588be02fa529a1267025d0d",
@@ -104677,7 +104678,9 @@
         },
         "web_domains": [
             "forum.threefold.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9c7d4fb43919def524c1a9d92fe836169eaf0615",
@@ -104687,7 +104690,11 @@
         },
         "web_domains": [
             "landwolfavax.com"
-        ]
+        ],
+        "telegram_groups": [
+            "LandwolfOnAvax"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x47da5456bc2e1ce391b645ce80f2e97192e4976a",
@@ -104704,7 +104711,9 @@
         },
         "web_domains": [
             "kingking.co.uk"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xdf09a216fac5adc3e640db418c0b956076509503",
