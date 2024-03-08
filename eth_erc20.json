@@ -5727,8 +5727,8 @@
             "linktr.ee"
         ],
         "telegram_groups": [
-            "CybertruckETH",
-            "JesterBotEth"
+            "JesterBotEth",
+            "CybertruckETH"
         ],
         "holders": {
             "ETH": 2829
@@ -6233,8 +6233,8 @@
             "ETH": 5828
         },
         "telegram_groups": [
-            "CybertruckETH",
-            "JesterBotEth"
+            "JesterBotEth",
+            "CybertruckETH"
         ],
         "p6": true,
         "myuser": 6119567381,
@@ -11261,8 +11261,8 @@
             "ETH": 1181
         },
         "telegram_groups": [
-            "CybertruckETH",
-            "JesterBotEth"
+            "JesterBotEth",
+            "CybertruckETH"
         ],
         "p6": true,
         "myuser": 6119567381,
@@ -14687,8 +14687,8 @@
             "ETH": 355
         },
         "telegram_groups": [
-            "CybertruckETH",
-            "JesterBotEth"
+            "JesterBotEth",
+            "CybertruckETH"
         ],
         "p6": true,
         "myuser": 6119567381,
@@ -34012,8 +34012,8 @@
             "ETH": 2229
         },
         "telegram_groups": [
-            "CybertruckETH",
-            "JesterBotEth"
+            "JesterBotEth",
+            "CybertruckETH"
         ],
         "p6": true,
         "myuser": 6119567381,
@@ -45549,9 +45549,9 @@
             "xtrackerc.com"
         ],
         "telegram_groups": [
-            "CybertruckETH",
+            "JesterBotEth",
             "XtrackERC",
-            "JesterBotEth"
+            "CybertruckETH"
         ],
         "holders": {
             "ETH": 253
@@ -61036,9 +61036,9 @@
             "ETH": 343
         },
         "telegram_groups": [
-            "CybertruckETH",
+            "JesterBotEth",
             "XtrackERC",
-            "JesterBotEth"
+            "CybertruckETH"
         ],
         "p6": true,
         "myuser": 6119567381,
@@ -71066,8 +71066,8 @@
         ],
         "telegram_groups": [
             "JesterBotEth",
-            "CybertruckETH",
             "XtrackERC",
+            "CybertruckETH",
             "LeverageToken_Entry"
         ],
         "holders": {
@@ -71193,10 +71193,10 @@
         ],
         "telegram_groups": [
             "XtrackERC",
-            "JesterBotEth",
-            "LeverageToken_Entry",
             "aitechnologyportal",
-            "CybertruckETH"
+            "JesterBotEth",
+            "CybertruckETH",
+            "LeverageToken_Entry"
         ],
         "holders": {
             "ETH": 284
@@ -98019,10 +98019,10 @@
         },
         "telegram_groups": [
             "XtrackERC",
-            "JesterBotEth",
-            "LeverageToken_Entry",
             "aitechnologyportal",
-            "CybertruckETH"
+            "JesterBotEth",
+            "CybertruckETH",
+            "LeverageToken_Entry"
         ],
         "p6": true,
         "p8": true
@@ -101624,9 +101624,9 @@
         "telegram_groups": [
             "XtrackERC",
             "aitechnologyportal",
+            "JesterBotEth",
             "CybertruckETH",
-            "LeverageToken_Entry",
-            "JesterBotEth"
+            "LeverageToken_Entry"
         ],
         "p6": true,
         "p8": true
@@ -104582,11 +104582,17 @@
             "www.chain-swap.org"
         ],
         "telegram_groups": [
-            "ChainSwapPortal"
+            "XtrackERC",
+            "ChainSwapPortal",
+            "aitechnologyportal",
+            "JesterBotEth",
+            "CybertruckETH",
+            "LeverageToken_Entry"
         ],
         "holders": {
             "ETH": 401
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6150d44aa02b4c6422f8d6432ddf98e0fbc83b02",
@@ -104596,7 +104602,9 @@
         },
         "web_domains": [
             "noduswatches.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xdfe504a0a895ec7b1672d6e678dfdd031282df64",
