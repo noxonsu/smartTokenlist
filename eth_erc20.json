@@ -105127,14 +105127,20 @@
         ],
         "holders": {
             "ETH": 37
-        }
+        },
+        "web_domains": [
+            "rnd-tech.com"
+        ]
     },
     {
         "contract_address": "0x0fa64ffe4a81153cff8d583102247ef1dd04da14",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "japan-hack.com"
+        ]
     },
     {
         "contract_address": "0xfc562fc07a9493dd84ca264050c7c5892efee072",
