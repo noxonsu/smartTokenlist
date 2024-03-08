@@ -105054,7 +105054,8 @@
         "holders": {
             "ETH": 169
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x9f79b3c8e0e4eeb8b48c299e601d5e714b1d146b",
@@ -105068,7 +105069,8 @@
         "holders": {
             "ETH": 476
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x65ec559cbd4b5a990195199def0d7ab94e90f9cf",
@@ -105082,7 +105084,8 @@
         "holders": {
             "ETH": 296
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xb81408a1cc2f4be70a6a3178d351ca95a77c5a06",
@@ -105097,7 +105100,8 @@
         "holders": {
             "ETH": 65
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xd4f2c6bc5cd2edd11278d45073df1bea0e8c38ac",
@@ -105112,7 +105116,8 @@
         "holders": {
             "ETH": 152
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xda4f98d642849ab03df026768807b2e3c34f1d26",
@@ -105127,7 +105132,8 @@
         "holders": {
             "ETH": 71
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x0371f2be348743635b89f6e40c70b64f681d346e",
@@ -105141,7 +105147,8 @@
         "web_domains": [
             "rnd-tech.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x0fa64ffe4a81153cff8d583102247ef1dd04da14",
@@ -105153,7 +105160,8 @@
             "japan-hack.com"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xfc562fc07a9493dd84ca264050c7c5892efee072",
@@ -105168,7 +105176,8 @@
         "holders": {
             "ETH": 388
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xa615e41edf57eefd6e02d43427f60db1c02f8ef1",
@@ -105182,6 +105191,7 @@
         "telegram_groups": [
             "blockoraportal"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
