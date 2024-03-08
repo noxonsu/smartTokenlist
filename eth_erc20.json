@@ -104860,7 +104860,9 @@
         },
         "web_domains": [
             "useu.usmission.gov"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2eb2d826ff386ca946b1ff733671b6dc0e2085ca",
@@ -104873,7 +104875,8 @@
         ],
         "holders": {
             "ETH": 90
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9d9e399e5385e2b9a58d4f775a1e16441b571afb",
@@ -104900,7 +104903,8 @@
         ],
         "holders": {
             "ETH": 8
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x43420cc46d0453b1adddf9487856f13331c27a7f",
