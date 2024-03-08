@@ -104592,7 +104592,8 @@
         "holders": {
             "ETH": 401
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x6150d44aa02b4c6422f8d6432ddf98e0fbc83b02",
@@ -104604,7 +104605,8 @@
             "noduswatches.com"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xdfe504a0a895ec7b1672d6e678dfdd031282df64",
