@@ -105140,7 +105140,8 @@
         },
         "web_domains": [
             "rnd-tech.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0fa64ffe4a81153cff8d583102247ef1dd04da14",
@@ -105150,7 +105151,9 @@
         },
         "web_domains": [
             "japan-hack.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xfc562fc07a9493dd84ca264050c7c5892efee072",
@@ -105159,12 +105162,13 @@
             "traceai.io"
         ],
         "telegram_groups": [
-            "Trace_Ai",
-            "Trace_AIbot"
+            "Trace_AIbot",
+            "Trace_Ai"
         ],
         "holders": {
             "ETH": 388
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa615e41edf57eefd6e02d43427f60db1c02f8ef1",
@@ -105174,6 +105178,10 @@
         ],
         "holders": {
             "ETH": 174
-        }
+        },
+        "telegram_groups": [
+            "blockoraportal"
+        ],
+        "p6": true
     }
 ]
