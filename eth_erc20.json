@@ -104851,5 +104851,73 @@
         "holders": {
             "ETH": 2944
         }
+    },
+    {
+        "contract_address": "0xe07ecc676daf0b24b24a1c46c966d9c463984b38",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 57
+        }
+    },
+    {
+        "contract_address": "0x2eb2d826ff386ca946b1ff733671b6dc0e2085ca",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "walletai.pro"
+        ],
+        "telegram_groups": [
+            "Wallet_AI_ERC_Official"
+        ],
+        "holders": {
+            "ETH": 90
+        }
+    },
+    {
+        "contract_address": "0x9d9e399e5385e2b9a58d4f775a1e16441b571afb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 480
+        }
+    },
+    {
+        "contract_address": "0xb8e3bb633f7276cc17735d86154e0ad5ec9928c0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1409
+        }
+    },
+    {
+        "contract_address": "0xe0b1c8a4cc08a5abe94e6d4bbd9bf2dcef00a778",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "whitepaper.sagasofdestiny.com"
+        ],
+        "telegram_groups": [
+            "Sagas_Of_Destiny"
+        ],
+        "holders": {
+            "ETH": 8
+        }
+    },
+    {
+        "contract_address": "0x43420cc46d0453b1adddf9487856f13331c27a7f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xd10db24ba945de4cc97f4518e1331c4b0c544be1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x75f36e17057f0e252acaa11c3820e48d3ff06b2c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
