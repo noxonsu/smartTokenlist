@@ -104821,5 +104821,32 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x33ee36e96b3cc9821dea2d22f9bb39ec9a8f69b8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "asia.nikkei.com"
+        ],
+        "telegram_groups": [
+            "AKIRA_COIN"
+        ],
+        "holders": {
+            "ETH": 119
+        }
+    },
+    {
+        "contract_address": "0x491e136ff7ff03e6ab097e54734697bb5802fc1c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2850
+        }
+    },
+    {
+        "contract_address": "0x505a84a03e382331a1be487b632cf357748b65d6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2944
+        }
     }
 ]
