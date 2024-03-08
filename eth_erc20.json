@@ -104627,5 +104627,81 @@
         "holders": {
             "ETH": 2057
         }
+    },
+    {
+        "contract_address": "0x2be069675a1c81d909549e4b7bb5e2912a3004e2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 70
+        }
+    },
+    {
+        "contract_address": "0x5d79448cb8cde377611fc78417d4596cc6078d9a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "stonkmeme.xyz"
+        ],
+        "telegram_groups": [
+            "STONKPORTAL"
+        ],
+        "holders": {
+            "ETH": 23
+        }
+    },
+    {
+        "contract_address": "0x062e9089dc6d224cd588be02fa529a1267025d0d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xd9491075fd449b7e77a5b819caa479acce3efd9c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 513
+        }
+    },
+    {
+        "contract_address": "0xa5250c540914e012e22e623275e290c4dc993d11",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 31
+        }
+    },
+    {
+        "contract_address": "0x395e925834996e558bdec77cd648435d620afb5b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 108
+        }
+    },
+    {
+        "contract_address": "0x9c7d4fb43919def524c1a9d92fe836169eaf0615",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 47
+        }
+    },
+    {
+        "contract_address": "0x47da5456bc2e1ce391b645ce80f2e97192e4976a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5381
+        }
+    },
+    {
+        "contract_address": "0xe28027c99c7746ffb56b0113e5d9708ac86fae8f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 259
+        }
+    },
+    {
+        "contract_address": "0xdf09a216fac5adc3e640db418c0b956076509503",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6289
+        }
     }
 ]
