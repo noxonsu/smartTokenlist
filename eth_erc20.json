@@ -104725,5 +104725,89 @@
         "holders": {
             "ETH": 6289
         }
+    },
+    {
+        "contract_address": "0x177c06f4872285472a34ab80ea8dcf49f8774b2c",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Akira_ERC"
+        ],
+        "holders": {
+            "ETH": 173
+        }
+    },
+    {
+        "contract_address": "0x50b0696468f42cab1ddc76413a1312aff3cabdf6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 403
+        }
+    },
+    {
+        "contract_address": "0xa947156e2f4c227d4891cce2408aa0cb4f0f86cf",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dragonballerc.com"
+        ],
+        "telegram_groups": [
+            "dragonballERC"
+        ],
+        "holders": {
+            "ETH": 334
+        }
+    },
+    {
+        "contract_address": "0x9194337c06405623c0f374e63fa1cc94e2788c58",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 395
+        }
+    },
+    {
+        "contract_address": "0x7866e48c74cbfb8183cd1a929cd9b95a7a5cb4f4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1477
+        }
+    },
+    {
+        "contract_address": "0x2eab22e8818f892ef384983f2b021753a088478c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "goku.fan"
+        ],
+        "telegram_groups": [
+            "GokuCoinPortal"
+        ],
+        "holders": {
+            "ETH": 231
+        }
+    },
+    {
+        "contract_address": "0xf67366e83cc9b115ef8cca93baed1f03e6d3ca9a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mindverse.global"
+        ],
+        "telegram_groups": [
+            "MindVerseERC20",
+            "mindverse_bot"
+        ],
+        "holders": {
+            "ETH": 260
+        }
+    },
+    {
+        "contract_address": "0x23e43187fd1d738d127bfd9266e25c7eaf28be41",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "CatcoinEth.VIP"
+        ],
+        "telegram_groups": [
+            "CatCoinOnEth"
+        ],
+        "holders": {
+            "ETH": 51
+        }
     }
 ]
