@@ -104929,5 +104929,89 @@
         "holders": {
             "ETH": 1
         }
+    },
+    {
+        "contract_address": "0x2f11b7e473bcf4548eb16bcbc885d130e6683455",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 321
+        }
+    },
+    {
+        "contract_address": "0x72cdb56e9d96c64fb52e8cdeda7475f3aa843f59",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "taoplay.io"
+        ],
+        "telegram_groups": [
+            "TAO_Play"
+        ],
+        "holders": {
+            "ETH": 327
+        }
+    },
+    {
+        "contract_address": "0xed2629ac308999a6a6f49922b3f6b3a27af16bd8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 138
+        }
+    },
+    {
+        "contract_address": "0x039d2e8f097331278bd6c1415d839310e0d5ece4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "lindathedog.com"
+        ],
+        "telegram_groups": [
+            "LindaCommunity"
+        ],
+        "holders": {
+            "ETH": 69
+        }
+    },
+    {
+        "contract_address": "0x01f0be6fe713340c9d5ff5ea0b8de2c5ed4893c9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "andyerc.xyz"
+        ],
+        "telegram_groups": [
+            "AndyOnErc"
+        ],
+        "holders": {
+            "ETH": 186
+        }
+    },
+    {
+        "contract_address": "0xe5df2430bd1b14d3fb9050ef368a94e9477642b4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "taonet.ai",
+            "docs.taonet.ai"
+        ],
+        "telegram_groups": [
+            "taonetai"
+        ],
+        "emails": [
+            "dev@taonet.ai"
+        ],
+        "holders": {
+            "ETH": 326
+        }
+    },
+    {
+        "contract_address": "0x8c0a7cb04e4d06554a340bc6d4b5d68f6e71d7d6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x000000000503be77a5ed27bef2c19943a8b5ae73",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 901
+        }
     }
 ]
