@@ -105642,7 +105642,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 84
-        }
+        },
+        "web_domains": [
+            "hyperbicycles.com"
+        ]
     },
     {
         "contract_address": "0x93504822c041be48c4c79be12192e142ccbf4bff",
@@ -105716,6 +105719,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 113
-        }
+        },
+        "web_domains": [
+            "mdex.com"
+        ]
     }
 ]
