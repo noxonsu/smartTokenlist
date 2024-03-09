@@ -105884,7 +105884,11 @@
         ],
         "holders": {
             "ETH": 26
-        }
+        },
+        "telegram_groups": [
+            "HOLD10_erc20"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbf7bc9e63635dc11b335d52b0349d0100a53a1a7",
@@ -105895,7 +105899,11 @@
         ],
         "holders": {
             "ETH": 136
-        }
+        },
+        "telegram_groups": [
+            "linktao_entry"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x339e6c8d204b1aaa3fb74bc7ba15b9fb6648b7d2",
@@ -105906,7 +105914,12 @@
         ],
         "holders": {
             "ETH": 207
-        }
+        },
+        "telegram_groups": [
+            "omegacloudportal",
+            "OmegaERCBot"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x120488048df6b234fd3696fb728bc4b808fced7f",
@@ -105919,6 +105932,7 @@
         ],
         "holders": {
             "ETH": 388
-        }
+        },
+        "p6": true
     }
 ]
