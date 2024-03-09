@@ -105449,5 +105449,66 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xe2ce51eaf9610b148b7ecaefa4ba22d443a88088",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "xTV_coin"
+        ],
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0x68bbed6a47194eff1cf514b50ea91895597fc91e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "boysclubandy.com"
+        ],
+        "telegram_groups": [
+            "TheOnlyAndyLeft"
+        ],
+        "holders": {
+            "ETH": 226
+        }
+    },
+    {
+        "contract_address": "0x1a3ace2d4247140b229331a43ad9288c88523552",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8
+        }
+    },
+    {
+        "contract_address": "0x7d8daff6d70cead12c6f077048552cf89130a2b1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1912
+        }
+    },
+    {
+        "contract_address": "0x7ea6976bd68c560f52d47f720254d7fec02c8e25",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "xtveth"
+        ],
+        "holders": {
+            "ETH": 22
+        }
+    },
+    {
+        "contract_address": "0x82f9c5ad306bba1ad0de49bb5fa6f01bf61085ef",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10
+        }
+    },
+    {
+        "contract_address": "0x051ef36e55875c08e4efaea6072c6d0f66fb0b9f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
     }
 ]
