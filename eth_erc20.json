@@ -105774,5 +105774,93 @@
         "holders": {
             "ETH": 1836
         }
+    },
+    {
+        "contract_address": "0xe99379955b676d5a7ebe3f42f2b684796e48d437",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cryptoegg.org"
+        ],
+        "telegram_groups": [
+            "cryptoeggeth"
+        ],
+        "holders": {
+            "ETH": 238
+        }
+    },
+    {
+        "contract_address": "0xeb25cfe9e9c10c4e8d3efa92471ff78f09ee6ff6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.factao.io",
+            "docs.factao.io"
+        ],
+        "telegram_groups": [
+            "factao"
+        ],
+        "holders": {
+            "ETH": 411
+        }
+    },
+    {
+        "contract_address": "0x3e1725cb8b45277c6d4077b515e609574bd18905",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "aierify.io"
+        ],
+        "telegram_groups": [
+            "aierify"
+        ],
+        "holders": {
+            "ETH": 412
+        }
+    },
+    {
+        "contract_address": "0x9760aa5124b8255fff140a76994f91ca22d2647d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "x-tech.tech"
+        ],
+        "telegram_groups": [
+            "XTECHERC20"
+        ],
+        "holders": {
+            "ETH": 59
+        }
+    },
+    {
+        "contract_address": "0x8f338281a065cbe4b8fefd274176a1e3ffcf4e0d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "buddyaieth.com",
+            "docs.buddyaieth.com"
+        ],
+        "telegram_groups": [
+            "buddyaieth"
+        ],
+        "holders": {
+            "ETH": 60
+        }
+    },
+    {
+        "contract_address": "0x0350fe3641bbd4d62ed6f381a9f13a9369a80350",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 68
+        }
+    },
+    {
+        "contract_address": "0x191207a9947f4c6f8b86360b5571380fd2c29468",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x448ca64abacdabfcae192acfeadeee645b10ce16",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 121
+        }
     }
 ]
