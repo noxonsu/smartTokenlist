@@ -105951,7 +105951,8 @@
         "holders": {
             "ETH": 369
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xafe8cd7ac703a01bcb63b2f5b2613a16cb7b247d",
@@ -105970,6 +105971,7 @@
             "belscan.io"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
