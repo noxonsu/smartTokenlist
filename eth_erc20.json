@@ -105875,5 +105875,50 @@
         "holders": {
             "ETH": 121
         }
+    },
+    {
+        "contract_address": "0x4fc7e2bdd5e13c4c788426f00ec54c9afe719319",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "metadrop.com."
+        ],
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0xbf7bc9e63635dc11b335d52b0349d0100a53a1a7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "link-tao.net",
+            "linktao.gitbook.io"
+        ],
+        "holders": {
+            "ETH": 136
+        }
+    },
+    {
+        "contract_address": "0x339e6c8d204b1aaa3fb74bc7ba15b9fb6648b7d2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.omegaclouderc.com",
+            "docs.omegaclouderc.com"
+        ],
+        "holders": {
+            "ETH": 207
+        }
+    },
+    {
+        "contract_address": "0x120488048df6b234fd3696fb728bc4b808fced7f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "liquidpaw.com"
+        ],
+        "telegram_groups": [
+            "liquidpaw"
+        ],
+        "holders": {
+            "ETH": 388
+        }
     }
 ]
