@@ -105461,7 +105461,8 @@
         },
         "web_domains": [
             "axeltechnology.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x68bbed6a47194eff1cf514b50ea91895597fc91e",
@@ -105474,7 +105475,8 @@
         ],
         "holders": {
             "ETH": 226
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1a3ace2d4247140b229331a43ad9288c88523552",
@@ -105501,7 +105503,8 @@
         },
         "web_domains": [
             "itvx.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x82f9c5ad306bba1ad0de49bb5fa6f01bf61085ef",
