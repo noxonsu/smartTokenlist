@@ -105636,5 +105636,86 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xe2cfd7a01ec63875cd9da6c7c1b7025166c2fa2f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 84
+        }
+    },
+    {
+        "contract_address": "0x93504822c041be48c4c79be12192e142ccbf4bff",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "shiftfloat.com",
+            "shiftfloat.com",
+            "docs.shiftfloat.com",
+            "docs.shiftfloat.com",
+            "docs.shiftfloat.com",
+            "docs.shiftfloat.com",
+            "shiftfloat.com"
+        ],
+        "telegram_groups": [
+            "ShiftFloat",
+            "ShiftFloatBot"
+        ],
+        "holders": {
+            "ETH": 69
+        }
+    },
+    {
+        "contract_address": "0x67d85a291fcdc862a78812a3c26d55e28ffb2701",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 429
+        }
+    },
+    {
+        "contract_address": "0x8dfede792a327929e6b6882f9b9f1cbfb923dc11",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "0x-shadows-ethglobal-circuit-breaker-2024.vercel.app"
+        ],
+        "telegram_groups": [
+            "xShadowsETH"
+        ],
+        "holders": {
+            "ETH": 64
+        }
+    },
+    {
+        "contract_address": "0x872933182dd5295fe91127ab368f42e519eed744",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 44
+        }
+    },
+    {
+        "contract_address": "0x54b5d32bd946013b3220c5d89650bda2f2151f0d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "syneralistics.io"
+        ],
+        "telegram_groups": [
+            "syneralistics"
+        ],
+        "holders": {
+            "ETH": 182
+        }
+    },
+    {
+        "contract_address": "0x8813f5bcbe6c7071d8bd32d2a4f07599bb5797b0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3068
+        }
+    },
+    {
+        "contract_address": "0xc56725b6430132de775c4e5b48c9b0318ce2fc69",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 113
+        }
     }
 ]
