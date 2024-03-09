@@ -105973,5 +105973,78 @@
         "telegram_groups": [],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x2620638eda99f9e7e902ea24a285456ee9438861",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 598
+        }
+    },
+    {
+        "contract_address": "0x3ebd32c880027d11581f7e0a2068ad425a804a70",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.plebocracy.org",
+            "www.plebocracy.org"
+        ],
+        "telegram_groups": [
+            "plebocracy",
+            "plebocracy"
+        ],
+        "holders": {
+            "ETH": 99
+        }
+    },
+    {
+        "contract_address": "0xc53130d455a36ed3fe909458dbb0b070cbba29d0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "theilluminatieye.xyz",
+            "whitepaper.theilluminatieye.xyz"
+        ],
+        "telegram_groups": [
+            "theilluminati_portal",
+            "TheIlluminatiEyeBot"
+        ],
+        "holders": {
+            "ETH": 47
+        }
+    },
+    {
+        "contract_address": "0x2df24ecb6e20d131284c0d55ca1f436453d411af",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.wifechangingmoney-erc.com"
+        ],
+        "telegram_groups": [
+            "Wife_ERC20"
+        ],
+        "holders": {
+            "ETH": 228
+        }
+    },
+    {
+        "contract_address": "0xc4058f6a829ddd684e1b7589b33312827f0a47bb",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "andyerc.com"
+        ],
+        "telegram_groups": [
+            "andytokenofficial"
+        ],
+        "holders": {
+            "ETH": 65
+        }
+    },
+    {
+        "contract_address": "0x0fa83ca21e2cb6bd09b45fdf7bd8db505001a717",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Zeusercportal"
+        ],
+        "holders": {
+            "ETH": 198
+        }
     }
 ]
