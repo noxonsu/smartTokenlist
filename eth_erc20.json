@@ -105735,5 +105735,25 @@
         "telegram_groups": [],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xa66e5aabff2a9eb078e511ceb1e6089a4580393b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "trumpcat.info"
+        ],
+        "telegram_groups": [
+            "CrumpERC"
+        ],
+        "holders": {
+            "ETH": 144
+        }
+    },
+    {
+        "contract_address": "0x34748fedad669c788aabe4fb325a4587941f7b48",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1895
+        }
     }
 ]
