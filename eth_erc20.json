@@ -105645,7 +105645,9 @@
         },
         "web_domains": [
             "hyperbicycles.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x93504822c041be48c4c79be12192e142ccbf4bff",
@@ -105665,7 +105667,8 @@
         ],
         "holders": {
             "ETH": 69
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x67d85a291fcdc862a78812a3c26d55e28ffb2701",
@@ -105685,7 +105688,8 @@
         ],
         "holders": {
             "ETH": 64
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x872933182dd5295fe91127ab368f42e519eed744",
@@ -105705,7 +105709,8 @@
         ],
         "holders": {
             "ETH": 182
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8813f5bcbe6c7071d8bd32d2a4f07599bb5797b0",
@@ -105722,6 +105727,8 @@
         },
         "web_domains": [
             "mdex.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
