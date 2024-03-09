@@ -105458,7 +105458,10 @@
         ],
         "holders": {
             "ETH": 24
-        }
+        },
+        "web_domains": [
+            "axeltechnology.com"
+        ]
     },
     {
         "contract_address": "0x68bbed6a47194eff1cf514b50ea91895597fc91e",
@@ -105495,7 +105498,10 @@
         ],
         "holders": {
             "ETH": 22
-        }
+        },
+        "web_domains": [
+            "itvx.com"
+        ]
     },
     {
         "contract_address": "0x82f9c5ad306bba1ad0de49bb5fa6f01bf61085ef",
