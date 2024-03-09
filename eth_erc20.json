@@ -105782,11 +105782,13 @@
             "cryptoegg.org"
         ],
         "telegram_groups": [
-            "cryptoeggeth"
+            "cryptoeggeth",
+            "eggmemecoin"
         ],
         "holders": {
             "ETH": 238
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xeb25cfe9e9c10c4e8d3efa92471ff78f09ee6ff6",
@@ -105800,7 +105802,8 @@
         ],
         "holders": {
             "ETH": 411
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3e1725cb8b45277c6d4077b515e609574bd18905",
@@ -105809,11 +105812,13 @@
             "aierify.io"
         ],
         "telegram_groups": [
-            "aierify"
+            "aierify",
+            "Aierify"
         ],
         "holders": {
             "ETH": 412
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9760aa5124b8255fff140a76994f91ca22d2647d",
@@ -105826,7 +105831,8 @@
         ],
         "holders": {
             "ETH": 59
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8f338281a065cbe4b8fefd274176a1e3ffcf4e0d",
@@ -105836,11 +105842,13 @@
             "docs.buddyaieth.com"
         ],
         "telegram_groups": [
+            "BuddyAIETHBot",
             "buddyaieth"
         ],
         "holders": {
             "ETH": 60
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0350fe3641bbd4d62ed6f381a9f13a9369a80350",
