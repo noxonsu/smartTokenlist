@@ -105757,5 +105757,22 @@
         "holders": {
             "ETH": 1895
         }
+    },
+    {
+        "contract_address": "0x85ba3613920d33b9d27f460f5ebac0c9c119b692",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "LandWolfErc20"
+        ],
+        "holders": {
+            "ETH": 1119
+        }
+    },
+    {
+        "contract_address": "0x8718b8eb796ead111c0af9ce05387e6c741d8e3e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1836
+        }
     }
 ]
