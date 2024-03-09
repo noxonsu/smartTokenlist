@@ -105409,7 +105409,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 147
-        }
+        },
+        "web_domains": [
+            "miniplay.com"
+        ]
     },
     {
         "contract_address": "0xe00924736426393035b22770d94a188f25fc3b16",
