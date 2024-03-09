@@ -105528,7 +105528,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 159
-        }
+        },
+        "web_domains": [
+            "everboost.org"
+        ]
     },
     {
         "contract_address": "0x76af4cb74c8d4da51403d672a799e94b5958c230",
@@ -105549,7 +105552,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 2
-        }
+        },
+        "web_domains": [
+            "usbeef.org"
+        ]
     },
     {
         "contract_address": "0x0d31df7dedd78649a14aae62d99ccb23abcc3a5a",
@@ -105594,7 +105600,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 290
-        }
+        },
+        "web_domains": [
+            "powerhouse.ai"
+        ]
     },
     {
         "contract_address": "0x21718afff401a29874df943f11e8227a6edf30b6",
