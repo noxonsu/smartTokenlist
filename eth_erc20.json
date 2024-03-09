@@ -105313,5 +105313,115 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x614577036f0a024dbc1c88ba616b394dd65d105a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nft.gnus.ai"
+        ],
+        "emails": [
+            "nick@perfectabstractions.com",
+            "nick@perfectabstractions.com",
+            "nick@perfectabstractions.com",
+            "nick@perfectabstractions.com",
+            "nick@perfectabstractions.com",
+            "nick@perfectabstractions.com"
+        ],
+        "holders": {
+            "ETH": 331
+        }
+    },
+    {
+        "contract_address": "0xabe3c913ceba3252faf9bb1509e6a70272bdff79",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "morvol.xyz"
+        ],
+        "telegram_groups": [
+            "MorvolETHPortal"
+        ],
+        "holders": {
+            "ETH": 202
+        }
+    },
+    {
+        "contract_address": "0x06b1bc76676eb7a83fe2d76baa3d78cd455988f5",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "GrokAiEntry"
+        ],
+        "holders": {
+            "ETH": 238
+        }
+    },
+    {
+        "contract_address": "0xa3505b664d84235236162aed17ff70a39a55c4cf",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.nepturion.cloud",
+            "www.nepturion.cloud",
+            "docs.nepturion.cloud"
+        ],
+        "telegram_groups": [
+            "nepturioncloud"
+        ],
+        "holders": {
+            "ETH": 144
+        }
+    },
+    {
+        "contract_address": "0x99223123e4912b676f36ff7ad29bb1221b8d6c4c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.diamonddesk.io",
+            "ordi-otc.gitbook.io"
+        ],
+        "telegram_groups": [
+            "DiamondDesk"
+        ],
+        "holders": {
+            "ETH": 69
+        }
+    },
+    {
+        "contract_address": "0x18d4b341356227709968265501a4485e7833846a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x10b63ae363fee6cf6f8dc2001cb9c80ccf771550",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.OhYeahYeahCoin.com"
+        ],
+        "telegram_groups": [
+            "OhYeahYeahPortal"
+        ],
+        "holders": {
+            "ETH": 56
+        }
+    },
+    {
+        "contract_address": "0x9dcaf532dba85e565bf6b425f07377ec2bb6f46a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 147
+        }
+    },
+    {
+        "contract_address": "0xe00924736426393035b22770d94a188f25fc3b16",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.diamonddesk.io"
+        ],
+        "telegram_groups": [
+            "diamonddeskotc"
+        ],
+        "holders": {
+            "ETH": 329
+        }
     }
 ]
