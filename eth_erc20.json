@@ -105994,7 +105994,8 @@
         "holders": {
             "ETH": 99
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xc53130d455a36ed3fe909458dbb0b070cbba29d0",
@@ -106010,7 +106011,8 @@
         "holders": {
             "ETH": 47
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x2df24ecb6e20d131284c0d55ca1f436453d411af",
@@ -106024,7 +106026,8 @@
         "holders": {
             "ETH": 228
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xc4058f6a829ddd684e1b7589b33312827f0a47bb",
@@ -106041,7 +106044,8 @@
         "emails": [
             "hi@andyerc.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x0fa83ca21e2cb6bd09b45fdf7bd8db505001a717",
@@ -106055,6 +106059,7 @@
         "web_domains": [
             "thezeusnetwork.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
