@@ -105938,5 +105938,32 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x705a0e857afcd3211cda5374e12e4d804a883e34",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "infotao.ai"
+        ],
+        "telegram_groups": [
+            "infotaoai"
+        ],
+        "holders": {
+            "ETH": 369
+        }
+    },
+    {
+        "contract_address": "0xafe8cd7ac703a01bcb63b2f5b2613a16cb7b247d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 119
+        }
+    },
+    {
+        "contract_address": "0x2f4bbbba34cc3e0a977c3d0eaadf1623bf9cb7dc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 35
+        }
     }
 ]
