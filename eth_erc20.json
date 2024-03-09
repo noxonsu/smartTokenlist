@@ -105536,7 +105536,8 @@
         "telegram_groups": [
             "Everboost_Official"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x76af4cb74c8d4da51403d672a799e94b5958c230",
@@ -105562,7 +105563,8 @@
             "usbeef.org"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x0d31df7dedd78649a14aae62d99ccb23abcc3a5a",
@@ -105595,7 +105597,8 @@
             "ETH": 37
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x8761559f6ead0e5ccc2cbc84e2cff65e02ef5bea",
@@ -105614,7 +105617,8 @@
             "powerhouse.ai"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x21718afff401a29874df943f11e8227a6edf30b6",
@@ -105630,6 +105634,7 @@
         "holders": {
             "ETH": 82
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
