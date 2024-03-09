@@ -105964,6 +105964,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 35
-        }
+        },
+        "web_domains": [
+            "belscan.io"
+        ]
     }
 ]
