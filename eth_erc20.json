@@ -105522,5 +105522,92 @@
         "holders": {
             "ETH": 7
         }
+    },
+    {
+        "contract_address": "0x47b3262c96bb55a8d2e4f8e3fed29d2eab6db6e9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 159
+        }
+    },
+    {
+        "contract_address": "0x76af4cb74c8d4da51403d672a799e94b5958c230",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 928
+        }
+    },
+    {
+        "contract_address": "0xd1d92f1c5524d93ced7bf6f418c8bf8abf68ac66",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 343
+        }
+    },
+    {
+        "contract_address": "0x0260c78d494f0fefc7f42ebab710768feeebc017",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x0d31df7dedd78649a14aae62d99ccb23abcc3a5a",
+        "sourceScanned": "processed",
+        "emails": [
+            "info@blockczech.io"
+        ],
+        "holders": {
+            "ETH": 569
+        }
+    },
+    {
+        "contract_address": "0xaf10b7a37dfe7db24cf06df9d7e64fe59afe2daf",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "PEPLICATION_ERC"
+        ],
+        "holders": {
+            "ETH": 213
+        }
+    },
+    {
+        "contract_address": "0xb3a4c59dcb721591b89fe9bd65ef6b7552c2a728",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.bad-token.com",
+            "tokenmint.io"
+        ],
+        "holders": {
+            "ETH": 37
+        }
+    },
+    {
+        "contract_address": "0x8761559f6ead0e5ccc2cbc84e2cff65e02ef5bea",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1031
+        }
+    },
+    {
+        "contract_address": "0x342d23428a3ac15a414a19e301ba18294a9f331a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 290
+        }
+    },
+    {
+        "contract_address": "0x21718afff401a29874df943f11e8227a6edf30b6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.herai.tech",
+            "app.herai.tech"
+        ],
+        "telegram_groups": [
+            "HerAI_channel"
+        ],
+        "holders": {
+            "ETH": 82
+        }
     }
 ]
