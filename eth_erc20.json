@@ -105330,7 +105330,9 @@
         ],
         "holders": {
             "ETH": 331
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xabe3c913ceba3252faf9bb1509e6a70272bdff79",
@@ -105343,7 +105345,8 @@
         ],
         "holders": {
             "ETH": 202
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x06b1bc76676eb7a83fe2d76baa3d78cd455988f5",
@@ -105368,7 +105371,8 @@
         ],
         "holders": {
             "ETH": 144
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x99223123e4912b676f36ff7ad29bb1221b8d6c4c",
@@ -105378,11 +105382,13 @@
             "ordi-otc.gitbook.io"
         ],
         "telegram_groups": [
-            "DiamondDesk"
+            "DiamondDesk",
+            "diamonddeskotc"
         ],
         "holders": {
             "ETH": 69
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x18d4b341356227709968265501a4485e7833846a",
@@ -105398,11 +105404,17 @@
             "www.OhYeahYeahCoin.com"
         ],
         "telegram_groups": [
-            "OhYeahYeahPortal"
+            "Xipzer",
+            "OhYeahYeahPortal",
+            "charrrrrrrrrrrrrr"
         ],
         "holders": {
             "ETH": 56
-        }
+        },
+        "emails": [
+            "OhYeahYeahCoin@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9dcaf532dba85e565bf6b425f07377ec2bb6f46a",
@@ -105412,7 +105424,9 @@
         },
         "web_domains": [
             "miniplay.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe00924736426393035b22770d94a188f25fc3b16",
@@ -105421,10 +105435,12 @@
             "www.diamonddesk.io"
         ],
         "telegram_groups": [
-            "diamonddeskotc"
+            "diamonddeskotc",
+            "DiamondDesk"
         ],
         "holders": {
             "ETH": 329
-        }
+        },
+        "p6": true
     }
 ]
