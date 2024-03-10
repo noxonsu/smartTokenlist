@@ -106116,7 +106116,8 @@
         "emails": [
             "2024 support@paragon.wtf"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xbfc36408c42c028a7fb784962bb64a93e7387fe4",
@@ -106130,7 +106131,8 @@
         "web_domains": [
             "bloops.ai"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xf6ce4be313ead51511215f1874c898239a331e37",
@@ -106147,7 +106149,8 @@
         "holders": {
             "ETH": 129
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x4674a4f24c5f63d53f22490fb3a08eaaad739ff8",
