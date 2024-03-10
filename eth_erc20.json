@@ -106400,7 +106400,8 @@
         "holders": {
             "ETH": 384
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xadeee1bcb63f3477c45400249e78bc4f565a59e0",
@@ -106412,7 +106413,8 @@
             "rift.finance"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x7086e014fd59e66567a986e7b401a5810c2361ce",
@@ -106428,7 +106430,8 @@
         "holders": {
             "ETH": 272
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x55d024802fe249951bf84b129c43e3d77f46dccf",
@@ -106442,7 +106445,8 @@
         "holders": {
             "ETH": 99
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x65dc32b6204ea3240b64086c0171e1bc47f9062d",
@@ -106474,7 +106478,8 @@
         "holders": {
             "ETH": 163
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xdf5a96263b9a4eeb90e3fe48dbe1a3dda325f48d",
@@ -106500,6 +106505,7 @@
         "emails": [
             "support@tensornode.co"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
