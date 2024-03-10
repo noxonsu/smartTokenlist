@@ -106061,5 +106061,41 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xf5264e1673c9365e7c5d4d1d8b440bbf131ff435",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "vitalek.io"
+        ],
+        "telegram_groups": [
+            "vitalekbuteren"
+        ],
+        "holders": {
+            "ETH": 704
+        }
+    },
+    {
+        "contract_address": "0xb843ce5f8c8a3d0d72e089194f5d9f9df0df74e5",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Young_peezy"
+        ],
+        "holders": {
+            "ETH": 276
+        }
+    },
+    {
+        "contract_address": "0x71810f6c664bc7bcbd8819fba6b07c70ca9f78ba",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nsfwai.neocities.org"
+        ],
+        "telegram_groups": [
+            "NSFWAiBotChannel"
+        ],
+        "holders": {
+            "ETH": 253
+        }
     }
 ]
