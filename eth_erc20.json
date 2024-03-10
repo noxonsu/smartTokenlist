@@ -106357,7 +106357,9 @@
         ],
         "holders": {
             "ETH": 175
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x388212b6946be88d237a958d65694a4522625ed5",
@@ -106377,6 +106379,8 @@
         },
         "web_domains": [
             "dontbuyitproject.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
