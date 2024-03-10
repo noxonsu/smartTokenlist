@@ -106122,7 +106122,10 @@
         ],
         "holders": {
             "ETH": 191
-        }
+        },
+        "web_domains": [
+            "bloops.ai"
+        ]
     },
     {
         "contract_address": "0xf6ce4be313ead51511215f1874c898239a331e37",
