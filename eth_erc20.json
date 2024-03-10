@@ -106279,5 +106279,48 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x6e79b51959cf968d87826592f46f819f92466615",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hoppy-erc20.com"
+        ],
+        "telegram_groups": [
+            "hoppyethcoin"
+        ],
+        "holders": {
+            "ETH": 408
+        }
+    },
+    {
+        "contract_address": "0x6c2801a436abaab7456330020a565a10960b0b6c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 152
+        }
+    },
+    {
+        "contract_address": "0x50959e60e30849261135ae73e7789359107b528e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "404.cash"
+        ],
+        "telegram_groups": [
+            "portal404erc"
+        ],
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0xbddf903f43dc7d9801f3f0034ba306169074ef8e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.AGBCoin.com"
+        ],
+        "holders": {
+            "ETH": 3989
+        }
     }
 ]
