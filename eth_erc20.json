@@ -106177,7 +106177,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 187
-        }
+        },
+        "web_domains": [
+            "cogitoprotocol.io"
+        ]
     },
     {
         "contract_address": "0xb281d84989c06e2a6ccdc5ea7bf1663c79a1c31a",
