@@ -106158,5 +106158,39 @@
         "holders": {
             "ETH": 595
         }
+    },
+    {
+        "contract_address": "0xb0699d63aef20df3f1cffa9ca2bb8670416271d2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "brett-coin.vip"
+        ],
+        "telegram_groups": [
+            "BRETT_COIN_ETH"
+        ],
+        "holders": {
+            "ETH": 393
+        }
+    },
+    {
+        "contract_address": "0xaef420fd77477d9dc8b46d704d44dd09d6c27866",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 187
+        }
+    },
+    {
+        "contract_address": "0xb281d84989c06e2a6ccdc5ea7bf1663c79a1c31a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "stoicdao.io",
+            "linktr.ee"
+        ],
+        "telegram_groups": [
+            "stoic_dao"
+        ],
+        "holders": {
+            "ETH": 1926
+        }
     }
 ]
