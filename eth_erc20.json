@@ -106406,7 +106406,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 126
-        }
+        },
+        "web_domains": [
+            "rift.finance"
+        ]
     },
     {
         "contract_address": "0x7086e014fd59e66567a986e7b401a5810c2361ce",
