@@ -106099,5 +106099,50 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xe72a6246148eca1e65ca960fd50dbca0b43c71d5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "paragon.wtf",
+            "docs.paragon.wtf"
+        ],
+        "telegram_groups": [
+            "paragon_official"
+        ],
+        "holders": {
+            "ETH": 62
+        }
+    },
+    {
+        "contract_address": "0xbfc36408c42c028a7fb784962bb64a93e7387fe4",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "verifybloops"
+        ],
+        "holders": {
+            "ETH": 191
+        }
+    },
+    {
+        "contract_address": "0xf6ce4be313ead51511215f1874c898239a331e37",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "opensea.io",
+            "dirtypilot.com"
+        ],
+        "telegram_groups": [
+            "birddogcoineth"
+        ],
+        "holders": {
+            "ETH": 129
+        }
+    },
+    {
+        "contract_address": "0x4674a4f24c5f63d53f22490fb3a08eaaad739ff8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 595
+        }
     }
 ]
