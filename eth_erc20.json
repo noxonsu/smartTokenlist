@@ -106536,7 +106536,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 147
-        }
+        },
+        "web_domains": [
+            "luxurylibations.io"
+        ]
     },
     {
         "contract_address": "0xf8c3ccee0234e7914d3ae65f9c86154d088cce49",
