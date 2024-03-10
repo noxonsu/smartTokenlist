@@ -106326,5 +106326,54 @@
         "holders": {
             "ETH": 3989
         }
+    },
+    {
+        "contract_address": "0xb27f93aeff026811cd04b449f4f3fe38c2ddfa0b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x371108fe5d818d5ccae1a803ed0f552528d5ec10",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xd4e7a6e2d03e4e48dfc27dd3f46df1c176647e38",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 84
+        }
+    },
+    {
+        "contract_address": "0x30c81d711253cf61804bc86d223051cb960d5878",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "stellaryai.com",
+            "app.stellaryai.com"
+        ],
+        "holders": {
+            "ETH": 175
+        }
+    },
+    {
+        "contract_address": "0x388212b6946be88d237a958d65694a4522625ed5",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "GMEOW_erc20"
+        ],
+        "holders": {
+            "ETH": 235
+        }
+    },
+    {
+        "contract_address": "0x830f112a590477c12c351c66be58cd41543a4be9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 85
+        }
     }
 ]
