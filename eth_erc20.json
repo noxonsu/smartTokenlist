@@ -106218,7 +106218,8 @@
         "web_domains": [
             "olenmosk.xyz"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xc9c73cde2e010bf2f4b12babe239baa7673d2bde",
@@ -106232,7 +106233,8 @@
         "telegram_groups": [
             "SpurdoErc"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xbfca2e04fbba91f035cd8215f696dcb1d5933d7c",
@@ -106244,7 +106246,8 @@
             "soldejaneiro.com"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x2d9996f3b9d2e73540fdbfdfe81d71e9e08cbf03",
@@ -106258,7 +106261,8 @@
         "holders": {
             "ETH": 273
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xcae199c7a4ad749a8694909a9a6ab0ef2b55a3e1",
@@ -106273,6 +106277,7 @@
         "holders": {
             "ETH": 37
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
