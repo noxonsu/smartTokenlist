@@ -106530,7 +106530,8 @@
         "holders": {
             "ETH": 312
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xf4a41beae8898bc3fdaa911c39f4a737cae8429c",
@@ -106542,7 +106543,8 @@
             "luxurylibations.io"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xf8c3ccee0234e7914d3ae65f9c86154d088cce49",
@@ -106567,6 +106569,7 @@
         "emails": [
             "info@linktensor.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
