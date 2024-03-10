@@ -106623,7 +106623,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 2
-        }
+        },
+        "web_domains": [
+            "inuinu.top"
+        ]
     },
     {
         "contract_address": "0x9a99213198855c660d8de9288b3c91f00d039213",
