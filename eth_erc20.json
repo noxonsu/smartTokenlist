@@ -106571,5 +106571,65 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xa370cfbdcadb1cf6878a7aaac52010a7e6dbcef7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "smxle.xyz"
+        ],
+        "holders": {
+            "ETH": 1364
+        }
+    },
+    {
+        "contract_address": "0x3b1a2d2551fdf8ea65f12aeec79e67fef52e6508",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "meethelpcoin.com"
+        ],
+        "holders": {
+            "ETH": 115
+        }
+    },
+    {
+        "contract_address": "0x8f3f9de6936fe86cfc1a83777ea36e13f8e95c9a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "jobuyden.com"
+        ],
+        "telegram_groups": [
+            "Jobuyden_ETH"
+        ],
+        "holders": {
+            "ETH": 39
+        }
+    },
+    {
+        "contract_address": "0x10b9aa9015effb5aadde5d88f19eb61e3bdf9284",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "inucommunity.org"
+        ],
+        "telegram_groups": [
+            "Inuethcommunity"
+        ],
+        "holders": {
+            "ETH": 186
+        }
+    },
+    {
+        "contract_address": "0x3be9264a0ff68104d77438c704406e530bab7597",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x9a99213198855c660d8de9288b3c91f00d039213",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
     }
 ]
