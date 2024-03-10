@@ -106507,5 +106507,52 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x4a029f7bcf33acb03547d8fa7be840347973e24e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 918
+        }
+    },
+    {
+        "contract_address": "0x78ba134c3ace18e69837b01703d07f0db6fb0a60",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sentinelbot.ai",
+            "sentinel-bot-ai-documentation.gitbook.io"
+        ],
+        "telegram_groups": [
+            "sentinelAI_Bot",
+            "sentinelbotai",
+            "sentinelbotannouncements"
+        ],
+        "holders": {
+            "ETH": 312
+        }
+    },
+    {
+        "contract_address": "0xf4a41beae8898bc3fdaa911c39f4a737cae8429c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 147
+        }
+    },
+    {
+        "contract_address": "0xf8c3ccee0234e7914d3ae65f9c86154d088cce49",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 58
+        }
+    },
+    {
+        "contract_address": "0x4f45acfd7361e283170e28394bbe18395407e0f0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "linktensor.com"
+        ],
+        "holders": {
+            "ETH": 252
+        }
     }
 ]
