@@ -107090,7 +107090,10 @@
         ],
         "holders": {
             "ETH": 69
-        }
+        },
+        "web_domains": [
+            "open-xai.github.io"
+        ]
     },
     {
         "contract_address": "0x5bec5fc01d155142cc178f45c251abd09847e805",
@@ -107100,7 +107103,10 @@
         ],
         "holders": {
             "ETH": 231
-        }
+        },
+        "web_domains": [
+            "opengrok.org"
+        ]
     },
     {
         "contract_address": "0x594daad7d77592a2b97b725a7ad59d7e188b5bfa",
