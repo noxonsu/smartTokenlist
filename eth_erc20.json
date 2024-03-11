@@ -106903,7 +106903,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 80
-        }
+        },
+        "web_domains": [
+            "kasinu.xyz"
+        ]
     },
     {
         "contract_address": "0x327673ae6b33bd3d90f0096870059994f30dc8af",
