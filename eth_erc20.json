@@ -93473,6 +93473,7 @@
             "viridianfi.com"
         ],
         "telegram_groups": [
+            "viridian_ai",
             "viridianerc"
         ],
         "holders": {
@@ -107800,11 +107801,13 @@
             "www.xposeai.io"
         ],
         "telegram_groups": [
+            "xposeaiportal",
             "XposeAIPortal"
         ],
         "holders": {
             "ETH": 60
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x44d126daade1ebea29d215744f98457facab5ac3",
@@ -107817,7 +107820,8 @@
         },
         "web_domains": [
             "orai.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x26c75c7d815efe6bf5a6decd17d20d1fdad96a08",
@@ -107835,15 +107839,15 @@
             "terrier.app"
         ],
         "telegram_groups": [
-            "TerrierScannerETH",
+            "TerrierScannerSOL",
             "TerrierToken",
             "TerrierScannerETH",
-            "TerrierScannerSOL",
             "TerrierAssistantBot"
         ],
         "holders": {
             "ETH": 193
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x795f5164a3104f20dd511ed6ace53c3c6dde466f",
@@ -107854,11 +107858,13 @@
             "docs.viridianfi.com"
         ],
         "telegram_groups": [
+            "viridianerc",
             "viridian_ai"
         ],
         "holders": {
             "ETH": 109
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x741426d0d6199756e41e8bd0ca5c619732bf2823",
