@@ -107696,5 +107696,152 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x3300b02efa180c99a2f61f4731665b51e4e254c4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "proofplatform.io"
+        ],
+        "holders": {
+            "ETH": 340
+        }
+    },
+    {
+        "contract_address": "0xd9f60db4131e9d0298b5213824b288b046b02a8f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x134359b7c852c82e4ebdd16a61020e6b81dd6a6b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "betlounge.tech"
+        ],
+        "telegram_groups": [
+            "BetLoungePVP",
+            "BetLoungeAnnoucements"
+        ],
+        "holders": {
+            "ETH": 156
+        }
+    },
+    {
+        "contract_address": "0xc1e89029cb7d4392d9f663926b04539947004de4",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "SatoshiAI_ERC"
+        ],
+        "holders": {
+            "ETH": 77
+        }
+    },
+    {
+        "contract_address": "0xd05815b4a1625f6bec2510738b6f31d460987369",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 89
+        }
+    },
+    {
+        "contract_address": "0xfbca946b83603797196b0a5f96f7c4c7b51a7bb4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "rehhai.com",
+            "app.rehhai.com"
+        ],
+        "telegram_groups": [
+            "RehhAI_erc"
+        ],
+        "holders": {
+            "ETH": 67
+        }
+    },
+    {
+        "contract_address": "0xce22a8cb9fa536b25fb31a449be2840b705dd5d9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.xposeai.io"
+        ],
+        "telegram_groups": [
+            "XposeAIPortal"
+        ],
+        "holders": {
+            "ETH": 60
+        }
+    },
+    {
+        "contract_address": "0x44d126daade1ebea29d215744f98457facab5ac3",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "OriginAIportal"
+        ],
+        "holders": {
+            "ETH": 76
+        }
+    },
+    {
+        "contract_address": "0x26c75c7d815efe6bf5a6decd17d20d1fdad96a08",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 691
+        }
+    },
+    {
+        "contract_address": "0xb418ded94300913fccbef784a49150f46f0fb827",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "terrier.app",
+            "terrier.app",
+            "terrier.app"
+        ],
+        "telegram_groups": [
+            "TerrierScannerETH",
+            "TerrierToken",
+            "TerrierScannerETH",
+            "TerrierScannerSOL",
+            "TerrierAssistantBot"
+        ],
+        "holders": {
+            "ETH": 193
+        }
+    },
+    {
+        "contract_address": "0x795f5164a3104f20dd511ed6ace53c3c6dde466f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "viridianfi.com",
+            "app.viridianfi.com",
+            "docs.viridianfi.com"
+        ],
+        "telegram_groups": [
+            "viridian_ai"
+        ],
+        "holders": {
+            "ETH": 109
+        }
+    },
+    {
+        "contract_address": "0x741426d0d6199756e41e8bd0ca5c619732bf2823",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x43f11c02439e2736800433b4594994bd43cd066d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 54763
+        }
+    },
+    {
+        "contract_address": "0x1f41b36f6db26b89faac745bb669e758bf9e152e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 61
+        }
     }
 ]
