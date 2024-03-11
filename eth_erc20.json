@@ -107712,7 +107712,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 3
-        }
+        },
+        "web_domains": [
+            "shingtikvegetarian.com.my"
+        ]
     },
     {
         "contract_address": "0x134359b7c852c82e4ebdd16a61020e6b81dd6a6b",
@@ -107736,14 +107739,20 @@
         ],
         "holders": {
             "ETH": 77
-        }
+        },
+        "web_domains": [
+            "satoshiai.xyz"
+        ]
     },
     {
         "contract_address": "0xd05815b4a1625f6bec2510738b6f31d460987369",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 89
-        }
+        },
+        "web_domains": [
+            "dao.stafi.io"
+        ]
     },
     {
         "contract_address": "0xfbca946b83603797196b0a5f96f7c4c7b51a7bb4",
@@ -107780,7 +107789,10 @@
         ],
         "holders": {
             "ETH": 76
-        }
+        },
+        "web_domains": [
+            "orai.com"
+        ]
     },
     {
         "contract_address": "0x26c75c7d815efe6bf5a6decd17d20d1fdad96a08",
