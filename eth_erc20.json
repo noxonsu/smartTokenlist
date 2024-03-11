@@ -106863,7 +106863,11 @@
         ],
         "holders": {
             "ETH": 285
-        }
+        },
+        "telegram_groups": [
+            "midcurve_meme"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9a23b03dd520e3125a1d613149751112c39df337",
@@ -106876,6 +106880,7 @@
         ],
         "holders": {
             "ETH": 11
-        }
+        },
+        "p6": true
     }
 ]
