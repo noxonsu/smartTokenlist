@@ -107618,5 +107618,73 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xdd4ce03b97085e5023d3a5fbff6e4f2c4dffb7c3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 376
+        }
+    },
+    {
+        "contract_address": "0x3e9670f411d0a1e75015d60da0e82858b730ea01",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "e-sim.ltd",
+            "docs.e-sim.ltd"
+        ],
+        "telegram_groups": [
+            "ESimERC",
+            "ESim_BuyBot"
+        ],
+        "holders": {
+            "ETH": 178
+        }
+    },
+    {
+        "contract_address": "0x1b3e1c6d66c463bb45f699b8a0717dac32964dec",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.plebocracy.org",
+            "www.plebocracy.org"
+        ],
+        "telegram_groups": [
+            "plebocracy",
+            "plebocracy"
+        ],
+        "holders": {
+            "ETH": 93
+        }
+    },
+    {
+        "contract_address": "0x973bc84931e71aad70e1f3a0b36ec272d2ab0f3f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "amigospace.pro",
+            "amigospace.pro"
+        ],
+        "telegram_groups": [
+            "amigo_space_official"
+        ],
+        "holders": {
+            "ETH": 74
+        }
+    },
+    {
+        "contract_address": "0x5e9440b2714dbf1e183a4c99d0a78a4191774e9a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x432197a9af5374e1fded3f5aa62571e4fbd709cb",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "successkidtoken.com"
+        ],
+        "holders": {
+            "ETH": 46
+        }
     }
 ]
