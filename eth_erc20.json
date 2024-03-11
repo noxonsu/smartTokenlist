@@ -107068,5 +107068,81 @@
         "holders": {
             "ETH": 123
         }
+    },
+    {
+        "contract_address": "0x6b5d2ed973a1046ec1af75af4d67f098aa579d19",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tremp.meme"
+        ],
+        "telegram_groups": [
+            "dolandtrempcoyn"
+        ],
+        "holders": {
+            "ETH": 193
+        }
+    },
+    {
+        "contract_address": "0xa19d02e24e190eefcff2e5ee1b9af4726762dc16",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "OPENxAIerc"
+        ],
+        "holders": {
+            "ETH": 69
+        }
+    },
+    {
+        "contract_address": "0x5bec5fc01d155142cc178f45c251abd09847e805",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "OpenGROK"
+        ],
+        "holders": {
+            "ETH": 231
+        }
+    },
+    {
+        "contract_address": "0x594daad7d77592a2b97b725a7ad59d7e188b5bfa",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "apu.club"
+        ],
+        "holders": {
+            "ETH": 50
+        }
+    },
+    {
+        "contract_address": "0xad4514d136e4d8111e927a2cbafbba2812fca6ce",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dunebot.online"
+        ],
+        "telegram_groups": [
+            "duNeErc"
+        ],
+        "holders": {
+            "ETH": 34
+        }
+    },
+    {
+        "contract_address": "0x3d05a25ce244af92f883e79175682d5060ed4128",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 995
+        }
+    },
+    {
+        "contract_address": "0x8efe43ad583afcc2c76efa2bd40233114c78636b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "Entertheai.com"
+        ],
+        "telegram_groups": [
+            "Entertheai"
+        ],
+        "holders": {
+            "ETH": 73
+        }
     }
 ]
