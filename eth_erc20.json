@@ -107312,7 +107312,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 178
-        }
+        },
+        "web_domains": [
+            "airdao.io"
+        ]
     },
     {
         "contract_address": "0x4dd33ad4ad3f1dea4e3a6d7731d5207cfdcbcc44",
@@ -107365,7 +107368,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 120
-        }
+        },
+        "web_domains": [
+            "genexix.tech"
+        ]
     },
     {
         "contract_address": "0xb943bd7da6948324363025e3fe789cd02c846c86",
