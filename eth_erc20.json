@@ -107705,7 +107705,14 @@
         ],
         "holders": {
             "ETH": 340
-        }
+        },
+        "telegram_groups": [
+            "PROOFPlatform"
+        ],
+        "emails": [
+            "hi@proofplatform.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd9f60db4131e9d0298b5213824b288b046b02a8f",
@@ -107715,7 +107722,12 @@
         },
         "web_domains": [
             "shingtikvegetarian.com.my"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "shingtik@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x134359b7c852c82e4ebdd16a61020e6b81dd6a6b",
@@ -107724,12 +107736,21 @@
             "betlounge.tech"
         ],
         "telegram_groups": [
-            "BetLoungePVP",
-            "BetLoungeAnnoucements"
+            "thecryptoidol",
+            "BetLoungePvP",
+            "Chuni9",
+            "OxMachiavelli",
+            "tom_defi",
+            "BetLoungeAnnoucements",
+            "BetLoungePVP"
         ],
         "holders": {
             "ETH": 156
-        }
+        },
+        "emails": [
+            "BetLoungePvP@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc1e89029cb7d4392d9f663926b04539947004de4",
@@ -107742,7 +107763,8 @@
         },
         "web_domains": [
             "satoshiai.xyz"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd05815b4a1625f6bec2510738b6f31d460987369",
@@ -107752,7 +107774,9 @@
         },
         "web_domains": [
             "dao.stafi.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xfbca946b83603797196b0a5f96f7c4c7b51a7bb4",
@@ -107766,7 +107790,8 @@
         ],
         "holders": {
             "ETH": 67
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xce22a8cb9fa536b25fb31a449be2840b705dd5d9",
