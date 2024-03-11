@@ -107421,7 +107421,8 @@
         ],
         "holders": {
             "ETH": 227
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc059a531b4234d05e9ef4ac51028f7e6156e2cce",
@@ -107448,7 +107449,8 @@
         ],
         "holders": {
             "ETH": 70
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2a8bf9e7c91c6e3237095e07eb3defbce358df00",
@@ -107462,7 +107464,11 @@
         ],
         "holders": {
             "ETH": 424
-        }
+        },
+        "emails": [
+            "Email:\u00a0info@opclouds.tech"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x29a7604ac11e6efc54e52c4280c1e1d56c2acccb",
@@ -107489,7 +107495,11 @@
         ],
         "holders": {
             "ETH": 128
-        }
+        },
+        "emails": [
+            "info@thepepeinu.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2e8ab1282a9647d00f2a65b738892ae8819b0f7a",
@@ -107498,12 +107508,16 @@
             "betafytoken.tech"
         ],
         "telegram_groups": [
-            "BetafyToken",
-            "BetafyFaucetBot"
+            "BetafyFaucetBot",
+            "BetafyToken"
         ],
         "holders": {
             "ETH": 211
-        }
+        },
+        "emails": [
+            "Team@Betafytoken.tech"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x21f6760cc6d8776cf845d3efc2213b1dffcb3d0f",
@@ -107520,7 +107534,9 @@
         },
         "web_domains": [
             "elai.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xdb2c75dd52f379baf279d3e603d2d4df0d5c9c1a",
