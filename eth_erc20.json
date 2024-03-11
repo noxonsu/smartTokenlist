@@ -106652,5 +106652,176 @@
         "holders": {
             "ETH": 0
         }
+    },
+    {
+        "contract_address": "0xa3a40b96b100019f9b24c294a73c9e310e516124",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "apeironnft.com",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "ApeironAnnouncements"
+        ],
+        "holders": {
+            "ETH": 34
+        }
+    },
+    {
+        "contract_address": "0xd87803d494d219a0030adb807887941ddc22baa7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.quadrogpu.com",
+            "docs.quadrogpu.com"
+        ],
+        "telegram_groups": [
+            "QuadroGPU"
+        ],
+        "holders": {
+            "ETH": 116
+        }
+    },
+    {
+        "contract_address": "0x4f6bc39e5482946d01b97410e590aeac487166d1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.lotusaiswap.com",
+            "app.lotusaiswap.com",
+            "docs.lotusaiswap.com"
+        ],
+        "telegram_groups": [
+            "lotusswap_ai"
+        ],
+        "holders": {
+            "ETH": 84
+        }
+    },
+    {
+        "contract_address": "0x6be9a4f25f7f76fc800a7404b62ebd84cb3ac892",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.twitter.com",
+            "www.TAILSisBACK.com"
+        ],
+        "holders": {
+            "ETH": 126
+        }
+    },
+    {
+        "contract_address": "0x48af4d1747521481f2aec0ad2030584bc43ffdd3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "didpol.io"
+        ],
+        "telegram_groups": [
+            "DidpolETH"
+        ],
+        "holders": {
+            "ETH": 121
+        }
+    },
+    {
+        "contract_address": "0x17ff9da87a926b82562900c34c19f12dec7b37f2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.cloud-tpu.com"
+        ],
+        "telegram_groups": [
+            "CloudTPU_ERC20"
+        ],
+        "holders": {
+            "ETH": 320
+        }
+    },
+    {
+        "contract_address": "0x0447d3454b25935eed47f65b4bd22b9b23be326a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "opaldefi.xyz"
+        ],
+        "holders": {
+            "ETH": 192
+        }
+    },
+    {
+        "contract_address": "0x20bc832ca081b91433ff6c17f85701b6e92486c5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 775
+        }
+    },
+    {
+        "contract_address": "0x44035569534a14feffda994d0e852bb87fe8a780",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bulgexdao.org",
+            "www.bulgexdao.org"
+        ],
+        "telegram_groups": [
+            "bugleX_DAO"
+        ],
+        "holders": {
+            "ETH": 58
+        }
+    },
+    {
+        "contract_address": "0x1299f393c92b3ef1d3573934ef6fcb61d44e6efa",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "rareswap.com",
+            "docs.lossless.io",
+            "docs.lossless.io"
+        ],
+        "telegram_groups": [
+            "RareFnd"
+        ],
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xebb82c932759b515b2efc1cfbb6bf2f6dbace404",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1558
+        }
+    },
+    {
+        "contract_address": "0xb354b5da5ea39dadb1cea8140bf242eb24b1821a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1080
+        }
+    },
+    {
+        "contract_address": "0x7cd167b101d2808cfd2c45d17b2e7ea9f46b74b6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 113
+        }
+    },
+    {
+        "contract_address": "0x3b9d286b59cfdfe2abbc375542023916a5ec184e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 110
+        }
+    },
+    {
+        "contract_address": "0x87585ede89fb24930424f2a46c54b249ca834110",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 49
+        }
+    },
+    {
+        "contract_address": "0x950d03ceba800073a79b9eefeb3ad7dac34782c2",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "waf_coin"
+        ],
+        "holders": {
+            "ETH": 116
+        }
     }
 ]
