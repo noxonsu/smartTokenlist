@@ -106847,5 +106847,35 @@
         "holders": {
             "ETH": 116
         }
+    },
+    {
+        "contract_address": "0xc3ef33f23311a2922da4688afbcf8589d905ced0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 37
+        }
+    },
+    {
+        "contract_address": "0xf61d6953400903aadb38e733e98e57dcf9dd32b3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "midcurve.meme"
+        ],
+        "holders": {
+            "ETH": 285
+        }
+    },
+    {
+        "contract_address": "0x9a23b03dd520e3125a1d613149751112c39df337",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "supersaiyantrump.xyz"
+        ],
+        "telegram_groups": [
+            "supersaiyantrump"
+        ],
+        "holders": {
+            "ETH": 11
+        }
     }
 ]
