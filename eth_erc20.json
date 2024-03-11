@@ -107299,5 +107299,86 @@
         "holders": {
             "ETH": 0
         }
+    },
+    {
+        "contract_address": "0xc8b6950e0654a7368ce1a8855ed90e987dac2d8d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 451
+        }
+    },
+    {
+        "contract_address": "0x586ee5df24c5a426e42ed7ea6e3eb0f00a4a2256",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 178
+        }
+    },
+    {
+        "contract_address": "0x4dd33ad4ad3f1dea4e3a6d7731d5207cfdcbcc44",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "opensea.io",
+            "www.pegz.fun",
+            "pepercoin.vip"
+        ],
+        "telegram_groups": [
+            "pepermemecoin"
+        ],
+        "holders": {
+            "ETH": 281
+        }
+    },
+    {
+        "contract_address": "0x33cfc6eabd18ed315edb2fc5d14cc50ada4ed641",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zkmev.app",
+            "docs.zkmev.app"
+        ],
+        "telegram_groups": [
+            "zkMEV_portal"
+        ],
+        "holders": {
+            "ETH": 187
+        }
+    },
+    {
+        "contract_address": "0x9bec7a0bafeead2eaaef71c7e0ee8eade0e6b33c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nono.finance"
+        ],
+        "holders": {
+            "ETH": 198
+        }
+    },
+    {
+        "contract_address": "0x7c95e7ad2b349dc2f82d0f1117a44b561fa2699a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1538
+        }
+    },
+    {
+        "contract_address": "0x9a0a40be83812df2458375f1ea2f1ed779b257b3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 120
+        }
+    },
+    {
+        "contract_address": "0xb943bd7da6948324363025e3fe789cd02c846c86",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 31
+        }
+    },
+    {
+        "contract_address": "0x15dfc34dfd3d6470971c04df2cd0384ad80d0e9c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
     }
 ]
