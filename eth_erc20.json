@@ -107171,5 +107171,61 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x793a5d8b30aab326f83d20a9370c827fea8fdc51",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 227
+        }
+    },
+    {
+        "contract_address": "0xd8c560f70c0bc64420fff292adbc274b32b0fb11",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "anonhub.vip",
+            "dapp.anonhub.vip"
+        ],
+        "telegram_groups": [
+            "ANONHUBerc"
+        ],
+        "holders": {
+            "ETH": 158
+        }
+    },
+    {
+        "contract_address": "0xe92071ab44d24d3272e61569b26828b876f530e4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 111
+        }
+    },
+    {
+        "contract_address": "0x000000000a1c6659ac226dbb1c5bdc648df72e9e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "looter.ai",
+            "docs.looter.ai"
+        ],
+        "holders": {
+            "ETH": 263
+        }
+    },
+    {
+        "contract_address": "0xc5c8ffd9aaf819f3a68519076f3d1f4c6d8a970a",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "faradayportal"
+        ],
+        "holders": {
+            "ETH": 31
+        }
+    },
+    {
+        "contract_address": "0xdcee70654261af21c44c093c300ed3bb97b78192",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 55
+        }
     }
 ]
