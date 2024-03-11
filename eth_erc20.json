@@ -107219,13 +107219,19 @@
         ],
         "holders": {
             "ETH": 31
-        }
+        },
+        "web_domains": [
+            "faradaypharma.com"
+        ]
     },
     {
         "contract_address": "0xdcee70654261af21c44c093c300ed3bb97b78192",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 55
-        }
+        },
+        "web_domains": [
+            "oeth.com"
+        ]
     }
 ]
