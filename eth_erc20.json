@@ -107259,7 +107259,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 232
-        }
+        },
+        "web_domains": [
+            "localai.io"
+        ]
     },
     {
         "contract_address": "0xaf2a00cfb9a2ddccca205203eb82d1ce68c50bbe",
