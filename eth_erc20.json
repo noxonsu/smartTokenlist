@@ -107571,7 +107571,11 @@
         ],
         "holders": {
             "ETH": 274
-        }
+        },
+        "telegram_groups": [
+            "Pep_inu"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3f5fa4ba2e595230c3e89543f404631429d0dd26",
@@ -107581,7 +107585,9 @@
         },
         "web_domains": [
             "desertdust.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf95922f3c3d3823deffed1b31a429c20cca8dd13",
@@ -107598,6 +107604,10 @@
         ],
         "holders": {
             "ETH": 287
-        }
+        },
+        "telegram_groups": [
+            "ceti_ai"
+        ],
+        "p6": true
     }
 ]
