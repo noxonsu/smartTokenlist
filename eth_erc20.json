@@ -73137,8 +73137,8 @@
             "discord.com"
         ],
         "telegram_groups": [
-            "luffytokenchannel",
-            "MononokeTokenOfficial"
+            "MononokeTokenOfficial",
+            "luffytokenchannel"
         ],
         "holders": {
             "ETH": 23209
@@ -95455,10 +95455,10 @@
             "www.reddit.com"
         ],
         "telegram_groups": [
-            "WagieTokenSOL",
-            "luffytokenchannel",
             "WagieTokenERC",
-            "MononokeTokenOfficial"
+            "MononokeTokenOfficial",
+            "luffytokenchannel",
+            "WagieTokenSOL"
         ],
         "holders": {
             "ETH": 93
@@ -105046,11 +105046,11 @@
             "nauxeai.gitbook.io"
         ],
         "telegram_groups": [
-            "WagieTokenSOL",
-            "NauxeAI",
-            "WagieTokenERC",
+            "MononokeTokenOfficial",
             "luffytokenchannel",
-            "MononokeTokenOfficial"
+            "NauxeAI",
+            "WagieTokenSOL",
+            "WagieTokenERC"
         ],
         "holders": {
             "ETH": 169
@@ -106892,11 +106892,16 @@
             "www.pixelpulsecoin.com"
         ],
         "telegram_groups": [
+            "pixelpulsecoin",
             "pixelpulse_CoinChat"
         ],
         "holders": {
             "ETH": 20
-        }
+        },
+        "emails": [
+            "support@pixelpulse.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7a697be25d15abe2b1216e1cee85ad3529e4fb99",
@@ -106906,7 +106911,11 @@
         },
         "web_domains": [
             "kasinu.xyz"
-        ]
+        ],
+        "telegram_groups": [
+            "kasinueth"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x327673ae6b33bd3d90f0096870059994f30dc8af",
@@ -106926,7 +106935,11 @@
         ],
         "holders": {
             "ETH": 342
-        }
+        },
+        "emails": [
+            " : destranetwork@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3b834884a8cced60490a8f66dd6f482d60827575",
@@ -106936,11 +106949,17 @@
             "elsapopepe.vip"
         ],
         "telegram_groups": [
-            "ogpepecoineth"
+            "MononokeTokenOfficial",
+            "NauxeAI",
+            "WagieTokenSOL",
+            "ogpepecoineth",
+            "luffytokenchannel",
+            "WagieTokenERC"
         ],
         "holders": {
             "ETH": 173
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x95f00391cb5eebcd190eb58728b4ce23dbfa6ac1",
