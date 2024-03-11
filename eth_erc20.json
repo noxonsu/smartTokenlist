@@ -107246,5 +107246,44 @@
         "telegram_groups": [],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xab1ffc4231d761012c8041b55324e48dc608488e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 268
+        }
+    },
+    {
+        "contract_address": "0x56b8be7c2d3ffe0d8d6feb4d4eb4650c3ea10bb6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 232
+        }
+    },
+    {
+        "contract_address": "0xaf2a00cfb9a2ddccca205203eb82d1ce68c50bbe",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "opclouds.tech",
+            "app.opclouds.tech"
+        ],
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x72dd4b6bd852a3aa172be4d6c5a6dbec588cf131",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 47633
+        }
+    },
+    {
+        "contract_address": "0x90d5444e86d118eb94ba4e427af71e716f934bfb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
     }
 ]
