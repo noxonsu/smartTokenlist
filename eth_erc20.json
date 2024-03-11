@@ -107640,7 +107640,8 @@
         "holders": {
             "ETH": 178
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x1b3e1c6d66c463bb45f699b8a0717dac32964dec",
@@ -107655,7 +107656,8 @@
         "holders": {
             "ETH": 93
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x973bc84931e71aad70e1f3a0b36ec272d2ab0f3f",
@@ -107670,7 +107672,8 @@
         "holders": {
             "ETH": 74
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x5e9440b2714dbf1e183a4c99d0a78a4191774e9a",
@@ -107691,6 +107694,7 @@
         "telegram_groups": [
             "successkidtoken"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
