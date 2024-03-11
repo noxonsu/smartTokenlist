@@ -106884,5 +106884,80 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x4932357b9f07d8bfc87668e32d22a3c3d0da1c5c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.pixelpulsecoin.com"
+        ],
+        "telegram_groups": [
+            "pixelpulse_CoinChat"
+        ],
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0x7a697be25d15abe2b1216e1cee85ad3529e4fb99",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 80
+        }
+    },
+    {
+        "contract_address": "0x327673ae6b33bd3d90f0096870059994f30dc8af",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4117
+        }
+    },
+    {
+        "contract_address": "0xf94e7d0710709388bce3161c32b4eea56d3f91cc",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "destra.network"
+        ],
+        "telegram_groups": [
+            "DestraNetwork"
+        ],
+        "holders": {
+            "ETH": 342
+        }
+    },
+    {
+        "contract_address": "0x3b834884a8cced60490a8f66dd6f482d60827575",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.reddit.com",
+            "elsapopepe.vip"
+        ],
+        "telegram_groups": [
+            "ogpepecoineth"
+        ],
+        "holders": {
+            "ETH": 173
+        }
+    },
+    {
+        "contract_address": "0x95f00391cb5eebcd190eb58728b4ce23dbfa6ac1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 23
+        }
+    },
+    {
+        "contract_address": "0x4dece678ceceb27446b35c672dc7d61f30bad69e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 43
+        }
+    },
+    {
+        "contract_address": "0x7ca00559b978cfde81297849be6151d3ccb408a9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19
+        }
     }
 ]
