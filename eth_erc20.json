@@ -107191,7 +107191,8 @@
         ],
         "holders": {
             "ETH": 158
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe92071ab44d24d3272e61569b26828b876f530e4",
@@ -107209,7 +107210,12 @@
         ],
         "holders": {
             "ETH": 263
-        }
+        },
+        "telegram_groups": [
+            "looter_ai_bot",
+            "looter_discussion"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc5c8ffd9aaf819f3a68519076f3d1f4c6d8a970a",
@@ -107222,7 +107228,8 @@
         },
         "web_domains": [
             "faradaypharma.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdcee70654261af21c44c093c300ed3bb97b78192",
@@ -107232,6 +107239,8 @@
         },
         "web_domains": [
             "oeth.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
