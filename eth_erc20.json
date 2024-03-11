@@ -107517,7 +107517,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 26
-        }
+        },
+        "web_domains": [
+            "elai.io"
+        ]
     },
     {
         "contract_address": "0xdb2c75dd52f379baf279d3e603d2d4df0d5c9c1a",
@@ -107559,7 +107562,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 63
-        }
+        },
+        "web_domains": [
+            "desertdust.com"
+        ]
     },
     {
         "contract_address": "0xf95922f3c3d3823deffed1b31a429c20cca8dd13",
