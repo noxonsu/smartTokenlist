@@ -107081,7 +107081,8 @@
         "holders": {
             "ETH": 193
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xa19d02e24e190eefcff2e5ee1b9af4726762dc16",
@@ -107095,7 +107096,8 @@
         "web_domains": [
             "open-xai.github.io"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x5bec5fc01d155142cc178f45c251abd09847e805",
@@ -107109,7 +107111,8 @@
         "web_domains": [
             "opengrok.org"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x594daad7d77592a2b97b725a7ad59d7e188b5bfa",
@@ -107123,7 +107126,8 @@
         "telegram_groups": [
             "apuclub"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xad4514d136e4d8111e927a2cbafbba2812fca6ce",
@@ -107140,7 +107144,8 @@
         "emails": [
             "\u00a9 by DuNe 2024! - Support: support@dunebot.online"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x3d05a25ce244af92f883e79175682d5060ed4128",
@@ -107164,6 +107169,7 @@
         "emails": [
             "contact@entertheai.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
