@@ -108378,7 +108378,9 @@
         },
         "web_domains": [
             "growgrows.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x78b039921e84e726eb72e7b1212bb35504c645ca",
@@ -108398,7 +108400,11 @@
         ],
         "holders": {
             "ETH": 111
-        }
+        },
+        "emails": [
+            "team@floki20.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5fa3a31d89503a889126af381542a622fcac52dc",
@@ -108408,7 +108414,9 @@
         },
         "web_domains": [
             "trovelabs.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x41f6a95bacf9bc43704c4a4902ba5473a8b00263",
