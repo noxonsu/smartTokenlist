@@ -108534,7 +108534,10 @@
         ],
         "holders": {
             "ETH": 29
-        }
+        },
+        "web_domains": [
+            "harambesystem.com"
+        ]
     },
     {
         "contract_address": "0x255f1b39172f65dc6406b8bee8b08155c45fe1b6",
@@ -108562,7 +108565,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 6
-        }
+        },
+        "web_domains": [
+            "zionwallets.com"
+        ]
     },
     {
         "contract_address": "0x3275dbb60b47c68ec6603e2d578291276eba4d97",
