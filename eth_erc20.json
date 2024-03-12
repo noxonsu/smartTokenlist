@@ -108144,7 +108144,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 104
-        }
+        },
+        "web_domains": [
+            "sportium.fan"
+        ]
     },
     {
         "contract_address": "0x4c9d4ddf611bad3dff2d84fb6e54a59870ebc997",
