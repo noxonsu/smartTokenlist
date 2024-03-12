@@ -108433,7 +108433,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 5
-        }
+        },
+        "web_domains": [
+            "liquidmining.fund"
+        ]
     },
     {
         "contract_address": "0x6c4c5adb268de491901812583803b3a981ac81f7",
@@ -108453,7 +108456,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 264
-        }
+        },
+        "web_domains": [
+            "pandonia-global-network.org"
+        ]
     },
     {
         "contract_address": "0x68ddf0f89403044a9ed9bebc28ff1e5e4d1fe42e",
