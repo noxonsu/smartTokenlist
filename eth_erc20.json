@@ -108538,7 +108538,8 @@
         "web_domains": [
             "harambesystem.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x255f1b39172f65dc6406b8bee8b08155c45fe1b6",
@@ -108560,7 +108561,8 @@
         "holders": {
             "ETH": 56
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x4e9ce96424014c90e6a5bbee9d017998274cb6a0",
@@ -108574,7 +108576,8 @@
         "telegram_groups": [
             "zionwallet"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x3275dbb60b47c68ec6603e2d578291276eba4d97",
@@ -108601,7 +108604,8 @@
         "holders": {
             "ETH": 83
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x424e5732670dd2d02200f12b1801d735931a8baa",
@@ -108620,6 +108624,7 @@
         "emails": [
             "support@shooterai.org"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
