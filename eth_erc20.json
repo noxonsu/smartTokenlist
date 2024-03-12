@@ -108438,7 +108438,8 @@
             "liquidmining.fund"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x6c4c5adb268de491901812583803b3a981ac81f7",
@@ -108452,7 +108453,8 @@
         "holders": {
             "ETH": 152
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x28b70b36a8dcd9afaf5b5b54f13f612764f176b4",
@@ -108464,7 +108466,8 @@
             "pandonia-global-network.org"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x68ddf0f89403044a9ed9bebc28ff1e5e4d1fe42e",
@@ -108478,7 +108481,8 @@
         "holders": {
             "ETH": 55
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xc3d03e4f041fd4cd388c549ee2a29a9e5075882f",
@@ -108501,7 +108505,8 @@
         "holders": {
             "ETH": 56
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xeb4f5c4bf62fac1be7e4bef9c7c055bf1c52241d",
@@ -108518,6 +108523,7 @@
         "holders": {
             "ETH": 308
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
