@@ -108369,5 +108369,46 @@
         "holders": {
             "ETH": 434
         }
+    },
+    {
+        "contract_address": "0x1223334444a7466fbf985b14e1f4edaf3883bca6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 77
+        }
+    },
+    {
+        "contract_address": "0x78b039921e84e726eb72e7b1212bb35504c645ca",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 15925
+        }
+    },
+    {
+        "contract_address": "0x8f5f15450e5bf60ddca612f0a1e280763ac07b2e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "floki20.com"
+        ],
+        "telegram_groups": [
+            "floki20erc"
+        ],
+        "holders": {
+            "ETH": 111
+        }
+    },
+    {
+        "contract_address": "0x5fa3a31d89503a889126af381542a622fcac52dc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0x41f6a95bacf9bc43704c4a4902ba5473a8b00263",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 386
+        }
     }
 ]
