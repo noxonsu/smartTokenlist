@@ -108108,7 +108108,11 @@
         ],
         "holders": {
             "ETH": 79
-        }
+        },
+        "emails": [
+            "hello@intelliquantai.org"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x10711ef8490dd63211c8b376f76db4211ca1195f",
@@ -108119,11 +108123,13 @@
             "docs.spectraai.tech"
         ],
         "telegram_groups": [
+            "Spectra_AI",
             "spectra_ai"
         ],
         "holders": {
             "ETH": 100
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2d17b511a85b401980cc0fed15a8d57fdb8eec60",
@@ -108147,7 +108153,9 @@
         },
         "web_domains": [
             "sportium.fan"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4c9d4ddf611bad3dff2d84fb6e54a59870ebc997",
@@ -108161,7 +108169,8 @@
         ],
         "holders": {
             "ETH": 54
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x042575425931dcbea5abf4cd8cce1da5f8d70cf7",
@@ -108176,7 +108185,8 @@
         ],
         "holders": {
             "ETH": 55
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x98214a334a0d3a39159f544089b2976fe8d26d39",
@@ -108196,7 +108206,8 @@
         ],
         "holders": {
             "ETH": 35
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa2d5eb975e20205accc3c1a1efab43e99070de1a",
