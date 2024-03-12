@@ -108335,11 +108335,13 @@
             "xaierc.net"
         ],
         "telegram_groups": [
+            "X_AISTORE_BOT",
             "xaierc20token"
         ],
         "holders": {
             "ETH": 117
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x827a4f76c831746b56a60eadb56b244b1038f45a",
@@ -108353,7 +108355,11 @@
         ],
         "holders": {
             "ETH": 99
-        }
+        },
+        "emails": [
+            "hi@Renderexai.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6f928c22e5c1bca8456c846316658eac3d4519e0",
