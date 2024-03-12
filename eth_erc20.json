@@ -107985,5 +107985,80 @@
         "holders": {
             "ETH": 1373
         }
+    },
+    {
+        "contract_address": "0xb2cb83e8e1b326373b7f1068d10c50ebfa04f070",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pepitokart.games",
+            "stake.lilpepito.app",
+            "youtube.com"
+        ],
+        "telegram_groups": [
+            "lilpepito",
+            "PepitoBSC"
+        ],
+        "holders": {
+            "ETH": 152
+        }
+    },
+    {
+        "contract_address": "0x284309509557a28f4370dcb9969de4e0999297d2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.quar.cloud",
+            "quar.gitbook.io"
+        ],
+        "telegram_groups": [
+            "QUAR_Portal"
+        ],
+        "holders": {
+            "ETH": 241
+        }
+    },
+    {
+        "contract_address": "0xcaaccd60d619455188334e23f83ea28601bd681e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xebbd831f34b60aab5982a4c68ea08d047ea96bdb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xd61a3cbfed193e3302599aab2a9ae5e33c458bd6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x57ed4c61bead3cb9c788361b3e09e01b0eec2956",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cryptomarketvalue.xyz"
+        ],
+        "telegram_groups": [
+            "Cryptomarketvalue"
+        ],
+        "holders": {
+            "ETH": 85
+        }
+    },
+    {
+        "contract_address": "0xad9334e92053de2f3b6be95aec017e984ad3676a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "link3.to",
+            "orb3.tech"
+        ],
+        "holders": {
+            "ETH": 121
+        }
     }
 ]
