@@ -49361,7 +49361,11 @@
         "holders": {
             "ETH": 962
         },
-        "p8skip": true
+        "p8skip": true,
+        "telegram_groups": [
+            "aiisdev"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x00c2999c8b2adf4abc835cc63209533973718eb1",
@@ -108639,7 +108643,8 @@
         ],
         "holders": {
             "ETH": 63
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2e4e1093b4e80e3cc73c92264715ca984bad7e55",
@@ -108656,7 +108661,9 @@
         },
         "web_domains": [
             "pepemoon.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x342e31d4b657a0e312e40c3cbb5610c049e25aa5",
@@ -108676,7 +108683,11 @@
         },
         "web_domains": [
             "flowch.ai"
-        ]
+        ],
+        "emails": [
+            " Email Us - hello@flowch.ai"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2ae21de576e0fe0367651ddcf76e04dd0608c076",
@@ -108689,7 +108700,8 @@
         ],
         "holders": {
             "ETH": 179
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe9eccde9d26fcbb5e93f536cfc4510a7f46274f8",
@@ -108707,7 +108719,11 @@
         ],
         "holders": {
             "ETH": 32
-        }
+        },
+        "telegram_groups": [
+            "aiisdev"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x895fca6c852dea0a42e142e98da6448b2130be2f",
@@ -108716,10 +108732,12 @@
             "usepix.ai"
         ],
         "telegram_groups": [
-            "usepixai"
+            "usepixai",
+            "pixai_robot"
         ],
         "holders": {
             "ETH": 211
-        }
+        },
+        "p6": true
     }
 ]
