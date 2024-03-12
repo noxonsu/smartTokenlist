@@ -108095,5 +108095,125 @@
         "telegram_groups": [],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xa90cb1069ffefddc169de871df5e68a431779633",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "intelliquantai.org",
+            "docs.intelliquantai.org"
+        ],
+        "telegram_groups": [
+            "intelliquantai"
+        ],
+        "holders": {
+            "ETH": 79
+        }
+    },
+    {
+        "contract_address": "0x10711ef8490dd63211c8b376f76db4211ca1195f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "spectraai.tech",
+            "app.spectraai.tech",
+            "docs.spectraai.tech"
+        ],
+        "telegram_groups": [
+            "spectra_ai"
+        ],
+        "holders": {
+            "ETH": 100
+        }
+    },
+    {
+        "contract_address": "0x2d17b511a85b401980cc0fed15a8d57fdb8eec60",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 148
+        }
+    },
+    {
+        "contract_address": "0x891e33c8a49ed9f59be3726834ad78cf597b56e9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 328
+        }
+    },
+    {
+        "contract_address": "0x5ab6a4f46ce182356b6fa2661ed8ebcafce995ad",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 104
+        }
+    },
+    {
+        "contract_address": "0x4c9d4ddf611bad3dff2d84fb6e54a59870ebc997",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nibiru.fi",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "nibiruchain"
+        ],
+        "holders": {
+            "ETH": 54
+        }
+    },
+    {
+        "contract_address": "0x042575425931dcbea5abf4cd8cce1da5f8d70cf7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.opendex.tech",
+            "app.opendex.tech",
+            "docs.opendex.tech"
+        ],
+        "telegram_groups": [
+            "opendextech"
+        ],
+        "holders": {
+            "ETH": 55
+        }
+    },
+    {
+        "contract_address": "0x98214a334a0d3a39159f544089b2976fe8d26d39",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x0419dca6267eff60679b75d1e389069b42bf0e8e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "reeeeeeeeeeeee.com"
+        ],
+        "telegram_groups": [
+            "REEEEEEEEEEEEETH"
+        ],
+        "holders": {
+            "ETH": 35
+        }
+    },
+    {
+        "contract_address": "0xa2d5eb975e20205accc3c1a1efab43e99070de1a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0x93a82f3873e5b4ff81902663c43286d662f6721c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x988b6914866e2ad9dc9b034387636d2641f79aa3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 17
+        }
     }
 ]
