@@ -108235,5 +108235,54 @@
         "holders": {
             "ETH": 17
         }
+    },
+    {
+        "contract_address": "0x7163436b8efffb469f6bb81cc908b1661d4795e6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1712
+        }
+    },
+    {
+        "contract_address": "0x2a7528460c788c56857d0b5a6778ca4118a278ab",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hobbestoken.vip"
+        ],
+        "telegram_groups": [
+            "Hobbes_Eth"
+        ],
+        "holders": {
+            "ETH": 162
+        }
+    },
+    {
+        "contract_address": "0x2bfc935adcd2ee1a5cbfdc993f21120890990fc8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "entangle.fi",
+            "discord.com"
+        ],
+        "holders": {
+            "ETH": 64
+        }
+    },
+    {
+        "contract_address": "0x7ea4ad8c803653498bf6ac1d2debc04dce8fd2ad",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0x0d1180e0ef02f0ed2a71b1fd2d111c9458c28b51",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "who333.wtf",
+            "who333.wtf"
+        ],
+        "holders": {
+            "ETH": 216
+        }
     }
 ]
