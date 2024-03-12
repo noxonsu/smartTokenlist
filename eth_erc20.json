@@ -107995,12 +107995,13 @@
             "youtube.com"
         ],
         "telegram_groups": [
-            "lilpepito",
-            "PepitoBSC"
+            "PepitoBSC",
+            "lilpepito"
         ],
         "holders": {
             "ETH": 152
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x284309509557a28f4370dcb9969de4e0999297d2",
@@ -108014,7 +108015,8 @@
         ],
         "holders": {
             "ETH": 241
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xcaaccd60d619455188334e23f83ea28601bd681e",
@@ -108048,7 +108050,11 @@
         ],
         "holders": {
             "ETH": 85
-        }
+        },
+        "emails": [
+            "cryptomarketvalue.xyz@proton.me"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xad9334e92053de2f3b6be95aec017e984ad3676a",
@@ -108059,6 +108065,8 @@
         ],
         "holders": {
             "ETH": 121
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     }
 ]
