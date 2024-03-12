@@ -108292,5 +108292,74 @@
         "telegram_groups": [],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x5e470b5231febe7ba10510121ed3553c5a85a4a6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9
+        }
+    },
+    {
+        "contract_address": "0x9fc911e93fca921d9a2feecab88fe3ecd31975d1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 22
+        }
+    },
+    {
+        "contract_address": "0xed2ea67a6997393875b3acc64e2c4ab98a0f2691",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1334
+        }
+    },
+    {
+        "contract_address": "0xdd97fce8441dabf221b330269750b18ba82b0cd6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 955
+        }
+    },
+    {
+        "contract_address": "0x5265371c40f0bcae3bb34d7eaa5e3d78e82865ab",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0x2bdd5ebfda804b9d986a71972402a017fbf30333",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "xaierc.net"
+        ],
+        "telegram_groups": [
+            "xaierc20token"
+        ],
+        "holders": {
+            "ETH": 117
+        }
+    },
+    {
+        "contract_address": "0x827a4f76c831746b56a60eadb56b244b1038f45a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.renderexai.com",
+            "docs.renderexai.com"
+        ],
+        "telegram_groups": [
+            "Renderex_AI"
+        ],
+        "holders": {
+            "ETH": 99
+        }
+    },
+    {
+        "contract_address": "0x6f928c22e5c1bca8456c846316658eac3d4519e0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 434
+        }
     }
 ]
