@@ -108626,5 +108626,94 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x0b630b092af242d632bfc6b5f3dd95f01ec192ad",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hubaieth.com",
+            "app.hubaieth.com"
+        ],
+        "telegram_groups": [
+            "hubaieth"
+        ],
+        "holders": {
+            "ETH": 63
+        }
+    },
+    {
+        "contract_address": "0x2e4e1093b4e80e3cc73c92264715ca984bad7e55",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 568
+        }
+    },
+    {
+        "contract_address": "0xb29dc1703facd2967bb8ade2e392385644c6dca9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 22
+        }
+    },
+    {
+        "contract_address": "0x342e31d4b657a0e312e40c3cbb5610c049e25aa5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 173
+        }
+    },
+    {
+        "contract_address": "0xca1f28577eec3da0ef053dfe2235557ccbef7153",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "GPT45ERC"
+        ],
+        "holders": {
+            "ETH": 60
+        }
+    },
+    {
+        "contract_address": "0x2ae21de576e0fe0367651ddcf76e04dd0608c076",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "gambit.game"
+        ],
+        "telegram_groups": [
+            "play_gambit"
+        ],
+        "holders": {
+            "ETH": 179
+        }
+    },
+    {
+        "contract_address": "0xe9eccde9d26fcbb5e93f536cfc4510a7f46274f8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 336
+        }
+    },
+    {
+        "contract_address": "0xe1c5b2b2a2cae93c541300618acf7ada5e7272dd",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "aiis.dev",
+            "aiis.dev"
+        ],
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0x895fca6c852dea0a42e142e98da6448b2130be2f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "usepix.ai"
+        ],
+        "telegram_groups": [
+            "usepixai"
+        ],
+        "holders": {
+            "ETH": 211
+        }
     }
 ]
