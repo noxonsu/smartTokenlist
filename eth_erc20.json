@@ -107896,5 +107896,81 @@
         "holders": {
             "ETH": 61
         }
+    },
+    {
+        "contract_address": "0x6ade6971ca3d90990c30d39c78b0534c7166e07b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xca212c6eb89e28c327341ba01293bdecea40dcc0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "saniceth.com"
+        ],
+        "telegram_groups": [
+            "Sanicethportal"
+        ],
+        "holders": {
+            "ETH": 214
+        }
+    },
+    {
+        "contract_address": "0x7bfbf82bebeb1976f0e1831a5c84c4547b3a729a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "octopuswallet.io",
+            "docs.octopuswallet.io"
+        ],
+        "telegram_groups": [
+            "octopuswallet"
+        ],
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0x2624bd0094f474713ac9c634b37a5ebef4e0b1fe",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 78
+        }
+    },
+    {
+        "contract_address": "0xf8bb4823028ea15b247e0b6eeb292c14203b4649",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.ultraaiprotocol.com",
+            "app.ultraaiprotocol.com",
+            "docs.ultraaiprotocol.com"
+        ],
+        "telegram_groups": [
+            "ultraai_fi"
+        ],
+        "holders": {
+            "ETH": 87
+        }
+    },
+    {
+        "contract_address": "0x3ec736449c2d3601457707b1f26c427eed07be0f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "anitamaxwynn.life"
+        ],
+        "telegram_groups": [
+            "AnitaMaxWynnERC"
+        ],
+        "holders": {
+            "ETH": 59
+        }
+    },
+    {
+        "contract_address": "0xe6f143a0e0a8f24f6294ce3432ea10fad0206920",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1373
+        }
     }
 ]
