@@ -107911,11 +107911,13 @@
             "saniceth.com"
         ],
         "telegram_groups": [
-            "Sanicethportal"
+            "Sanicethportal",
+            "SANICONETH"
         ],
         "holders": {
             "ETH": 214
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7bfbf82bebeb1976f0e1831a5c84c4547b3a729a",
@@ -107929,7 +107931,8 @@
         ],
         "holders": {
             "ETH": 30
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2624bd0094f474713ac9c634b37a5ebef4e0b1fe",
@@ -107951,7 +107954,8 @@
         ],
         "holders": {
             "ETH": 87
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3ec736449c2d3601457707b1f26c427eed07be0f",
@@ -107960,11 +107964,16 @@
             "anitamaxwynn.life"
         ],
         "telegram_groups": [
+            "AnitaMaxWynnERC20",
             "AnitaMaxWynnERC"
         ],
         "holders": {
             "ETH": 59
-        }
+        },
+        "emails": [
+            "support@anitamaxwynn.life"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe6f143a0e0a8f24f6294ce3432ea10fad0206920",
