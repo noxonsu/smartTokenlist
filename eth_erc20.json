@@ -108525,5 +108525,82 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x41f79f6d823e67e86da0a9408a1574926b44a140",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "realharambecommunity"
+        ],
+        "holders": {
+            "ETH": 29
+        }
+    },
+    {
+        "contract_address": "0x255f1b39172f65dc6406b8bee8b08155c45fe1b6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 323
+        }
+    },
+    {
+        "contract_address": "0x35d35858ea1ac0c31f86b817fee7b2d75cc1dd77",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "soliditor.pro",
+            "soliditor.gitbook.io"
+        ],
+        "telegram_groups": [
+            "soliditor"
+        ],
+        "holders": {
+            "ETH": 56
+        }
+    },
+    {
+        "contract_address": "0x4e9ce96424014c90e6a5bbee9d017998274cb6a0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x3275dbb60b47c68ec6603e2d578291276eba4d97",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pepeai.org"
+        ],
+        "holders": {
+            "ETH": 729
+        }
+    },
+    {
+        "contract_address": "0xd7d82226d01bc0273b79c7fa72dfeb09a921fde1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "chainaisuite.com",
+            "chainaisuite.com",
+            "chainaisuite.com"
+        ],
+        "telegram_groups": [
+            "ChainAIsuite",
+            "Chain_AIbot"
+        ],
+        "holders": {
+            "ETH": 83
+        }
+    },
+    {
+        "contract_address": "0x424e5732670dd2d02200f12b1801d735931a8baa",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "shooterai.org"
+        ],
+        "telegram_groups": [
+            "Shooterai"
+        ],
+        "holders": {
+            "ETH": 97
+        }
     }
 ]
