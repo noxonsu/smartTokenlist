@@ -108072,5 +108072,22 @@
         "telegram_groups": [],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xfe2db7e69410b6bb2eee10d7e1ee749198fb972c",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Greatest_Pepe"
+        ],
+        "holders": {
+            "ETH": 737
+        }
+    },
+    {
+        "contract_address": "0x1424b757c3e30450ce8777c0d409694444e16129",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12
+        }
     }
 ]
