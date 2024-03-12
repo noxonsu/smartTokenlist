@@ -108745,5 +108745,103 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x033984edc633198abadb6785dec4bda4e8abdc84",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.forbix.xyz",
+            "forbix.gitbook.io",
+            "www.forbix.xyz"
+        ],
+        "telegram_groups": [
+            "forbixPortal",
+            "forbixBot"
+        ],
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0xd30586d10f7d2e2a287a0b60797b4b60d8f5508a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "rayosheeriserch.dev"
+        ],
+        "telegram_groups": [
+            "rayosheeriserch"
+        ],
+        "holders": {
+            "ETH": 136
+        }
+    },
+    {
+        "contract_address": "0xe66d11b5f902fa0d7f02f5294624d3b335fb7cc7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.compode.dev",
+            "docs.compode.dev"
+        ],
+        "telegram_groups": [
+            "compode"
+        ],
+        "holders": {
+            "ETH": 165
+        }
+    },
+    {
+        "contract_address": "0x7ae0d42f23c33338de15bfa89c7405c068d9dc0a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3921
+        }
+    },
+    {
+        "contract_address": "0x45c07f4bc68e491e065cd8c21a27d20d209264cb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 168
+        }
+    },
+    {
+        "contract_address": "0x197f34ab62a48fb5a86e7055e77790efd4f8d7b8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 83
+        }
+    },
+    {
+        "contract_address": "0xc18358243294ecf28955f7029559a253f04b4ad9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 103
+        }
+    },
+    {
+        "contract_address": "0xfc4fcb0af08abf517a40be9357bd8e76573fedea",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 40
+        }
+    },
+    {
+        "contract_address": "0x34a5aa8a63e452fd9c9d45909778b485435dce31",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "novacashai.xyz"
+        ],
+        "telegram_groups": [
+            "novacash_ai_official"
+        ],
+        "holders": {
+            "ETH": 52
+        }
+    },
+    {
+        "contract_address": "0xaa0c5b3567fd1bac8a2a11eb16c3f81a49eea90f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1084
+        }
     }
 ]
