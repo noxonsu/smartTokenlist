@@ -108427,5 +108427,83 @@
         "holders": {
             "ETH": 386
         }
+    },
+    {
+        "contract_address": "0xc97de7bcee3df809d7e9634e4442d3ae9a5d73d0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x6c4c5adb268de491901812583803b3a981ac81f7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "layersyncai.io"
+        ],
+        "telegram_groups": [
+            "layersyncai"
+        ],
+        "holders": {
+            "ETH": 152
+        }
+    },
+    {
+        "contract_address": "0x28b70b36a8dcd9afaf5b5b54f13f612764f176b4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 264
+        }
+    },
+    {
+        "contract_address": "0x68ddf0f89403044a9ed9bebc28ff1e5e4d1fe42e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "rhyolite.network"
+        ],
+        "telegram_groups": [
+            "rhyoliteportal"
+        ],
+        "holders": {
+            "ETH": 55
+        }
+    },
+    {
+        "contract_address": "0xc3d03e4f041fd4cd388c549ee2a29a9e5075882f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1251
+        }
+    },
+    {
+        "contract_address": "0x682d4158717b5ab8a25e0b09d333d637da1f4424",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "docs.taomesh.io",
+            "taomesh.io",
+            "app.taomesh.io"
+        ],
+        "telegram_groups": [
+            "taomesh"
+        ],
+        "holders": {
+            "ETH": 56
+        }
+    },
+    {
+        "contract_address": "0xeb4f5c4bf62fac1be7e4bef9c7c055bf1c52241d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "runic.build"
+        ],
+        "telegram_groups": [
+            "RunicLayer2"
+        ],
+        "emails": [
+            "admin@runic.build"
+        ],
+        "holders": {
+            "ETH": 308
+        }
     }
 ]
