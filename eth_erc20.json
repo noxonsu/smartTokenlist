@@ -108889,7 +108889,8 @@
         "emails": [
             " contact@m1337.ventures\n    "
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xdc60b883eb933be416fd98135203cd314497e756",
@@ -108910,7 +108911,8 @@
         "holders": {
             "ETH": 227
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x828eb9a1934c143808e325754c54ae2c1741ec49",
@@ -108924,7 +108926,8 @@
         "holders": {
             "ETH": 157
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x3c0bb14e8367c384885a97bac6d5cceab474ed75",
@@ -108936,7 +108939,8 @@
             "ai-idiot.co.uk"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x176480362b7c048cc3929711c663d40f36a68066",
