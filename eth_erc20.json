@@ -109376,5 +109376,47 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x467585aaea860f9d8b3b43bb994e4da8a93788a7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 446
+        }
+    },
+    {
+        "contract_address": "0xad913dcd987fe54ce823e4b755f90598cd62bb15",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 215
+        }
+    },
+    {
+        "contract_address": "0x9d5307f6eea75037d683afba9ec413ec6123a00b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 42
+        }
+    },
+    {
+        "contract_address": "0x1c0e30d4aaed5296b2bc16708be7ac00c98dd1b1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "airgpu.ai",
+            "docs.airgpu.ai"
+        ],
+        "telegram_groups": [
+            "AirGPUAI"
+        ],
+        "holders": {
+            "ETH": 102
+        }
+    },
+    {
+        "contract_address": "0x182c00807f2d4904d02d5e0d179600ff6a3ae67c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 45
+        }
     }
 ]
