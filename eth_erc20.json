@@ -109666,7 +109666,8 @@
             "cloudtensor.com"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x7ea9e70dda060850758dd7c7a4104b800e4371cd",
@@ -109684,7 +109685,8 @@
         "emails": [
             "taofi@taofi.cloud"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xcd62b1c403fa761baadfc74c525ce2b51780b184",
@@ -109703,6 +109705,7 @@
             "hybrid.ai"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
