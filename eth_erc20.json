@@ -109661,7 +109661,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 157
-        }
+        },
+        "web_domains": [
+            "cloudtensor.com"
+        ]
     },
     {
         "contract_address": "0x7ea9e70dda060850758dd7c7a4104b800e4371cd",
@@ -109689,6 +109692,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 39
-        }
+        },
+        "web_domains": [
+            "hybrid.ai"
+        ]
     }
 ]
