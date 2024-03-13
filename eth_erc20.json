@@ -109063,7 +109063,8 @@
         ],
         "holders": {
             "ETH": 153
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xaed0ff6fb3de2c9f2cee3fbee98e16d8aa4f2bb7",
@@ -109073,7 +109074,9 @@
         },
         "web_domains": [
             "epep.tv"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa958d26b750b2e2baf162b2ea0ffc3e38ad43383",
@@ -109094,7 +109097,8 @@
         ],
         "holders": {
             "ETH": 49
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5abf88cf3444611d13f6d1b39f3f3ee8575c91a2",
@@ -109116,6 +109120,7 @@
         ],
         "holders": {
             "ETH": 279
-        }
+        },
+        "p6": true
     }
 ]
