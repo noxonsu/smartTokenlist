@@ -108922,7 +108922,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 119
-        }
+        },
+        "web_domains": [
+            "ai-idiot.co.uk"
+        ]
     },
     {
         "contract_address": "0x176480362b7c048cc3929711c663d40f36a68066",
