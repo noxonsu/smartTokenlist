@@ -109454,7 +109454,8 @@
         ],
         "holders": {
             "ETH": 144
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf59ce175c6e8e35690807eb33051e59aad388c05",
@@ -109467,7 +109468,8 @@
         ],
         "holders": {
             "ETH": 183
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x22d3affebf78321e1e01daa0c7606b7ca0f6ed4b",
@@ -109484,7 +109486,8 @@
         ],
         "holders": {
             "ETH": 110
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb299751b088336e165da313c33e3195b8c6663a6",
@@ -109504,7 +109507,14 @@
         },
         "web_domains": [
             "shadownode.org"
-        ]
+        ],
+        "telegram_groups": [
+            "shadownodeVPN"
+        ],
+        "emails": [
+            "Email: info@shadownode.org"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x56de8bc61346321d4f2211e3ac3c0a7f00db9b76",
@@ -109534,7 +109544,8 @@
         ],
         "holders": {
             "ETH": 83
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x15b743efd57edbb2696e05c3dc4dfe2c50dd8e78",
