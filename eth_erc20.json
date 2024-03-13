@@ -109297,7 +109297,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 28
-        }
+        },
+        "web_domains": [
+            "rocketx.exchange"
+        ]
     },
     {
         "contract_address": "0x6e2895a8ccca9b23dac76c1cfbf088e9a74bec3c",
