@@ -109291,5 +109291,75 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x2fb652314c3d850e9049057bbe9813f1eee882d3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 28
+        }
+    },
+    {
+        "contract_address": "0x6e2895a8ccca9b23dac76c1cfbf088e9a74bec3c",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ftxinu"
+        ],
+        "holders": {
+            "ETH": 405
+        }
+    },
+    {
+        "contract_address": "0x1ab43204a195a0fd37edec621482afd3792ef90b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 555
+        }
+    },
+    {
+        "contract_address": "0xe8e4ccb95920e8599c4adc776ae5df0ed60b93f4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bokitrade.pro"
+        ],
+        "telegram_groups": [
+            "bokitrade_ai_official"
+        ],
+        "holders": {
+            "ETH": 58
+        }
+    },
+    {
+        "contract_address": "0xef10bf0498732cade67bb52a18a4e07f2f2f5e18",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 21
+        }
+    },
+    {
+        "contract_address": "0x61f91afee74214e86dee910ba99d17d1b62652cf",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dogaldtoken.com"
+        ],
+        "telegram_groups": [
+            "dogaldtrump"
+        ],
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0x3e5d4ed373596f00a5fc78ceb49994d9dc665aa9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "gem-ai.net"
+        ],
+        "telegram_groups": [
+            "GemAI_ERC"
+        ],
+        "holders": {
+            "ETH": 322
+        }
     }
 ]
