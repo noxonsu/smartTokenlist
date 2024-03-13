@@ -109126,5 +109126,89 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xa0d69e286b938e21cbf7e51d71f6a4c8918f482f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 65
+        }
+    },
+    {
+        "contract_address": "0xdeb03343eaea740a9f651e4f7317261ab90da207",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "scamcoinerc200"
+        ],
+        "holders": {
+            "ETH": 122
+        }
+    },
+    {
+        "contract_address": "0xc3061b660b56b1bc2a065b66be292c6e30545a76",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 52
+        }
+    },
+    {
+        "contract_address": "0xdab302b2b9f79d8f8d2fc57de72fd3dc9b3ebdd0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bitcointalk.org",
+            "erctalkingdog.com"
+        ],
+        "telegram_groups": [
+            "tdogerc20"
+        ],
+        "holders": {
+            "ETH": 108
+        }
+    },
+    {
+        "contract_address": "0x250f02a3ae700835892535eb6f9d0af96e2c0643",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "who.is",
+            "share.x.ai",
+            "share-x-ai.com"
+        ],
+        "telegram_groups": [
+            "Share_X_AI"
+        ],
+        "holders": {
+            "ETH": 396
+        }
+    },
+    {
+        "contract_address": "0x148c7b609aabfb7d6b49f1beacacdf41e3f1dc7e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 179
+        }
+    },
+    {
+        "contract_address": "0xf70dcf88b74786d25a15f4843d63254a8662ef46",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "siliconangle.com",
+            "coingape.com"
+        ],
+        "telegram_groups": [
+            "devinaiportal"
+        ],
+        "holders": {
+            "ETH": 129
+        }
+    },
+    {
+        "contract_address": "0x029b03ac808bc8bcbc706ccd1f82d45fb9182c3b",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "CryptoRangersOfficial"
+        ],
+        "holders": {
+            "ETH": 1062
+        }
     }
 ]
