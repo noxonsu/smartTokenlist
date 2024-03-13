@@ -108948,5 +108948,87 @@
         "holders": {
             "ETH": 373
         }
+    },
+    {
+        "contract_address": "0xf86cfce1e746456135d7face48c2916d7d3cb676",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 148
+        }
+    },
+    {
+        "contract_address": "0x8770c1cfb7b15f792d8940dee258a0f611ef785c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x7dafe897a6ff1d7b0b64f908e60e8665b61d53af",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "superpepecoin.vip"
+        ],
+        "telegram_groups": [
+            "superpepecoineth"
+        ],
+        "holders": {
+            "ETH": 123
+        }
+    },
+    {
+        "contract_address": "0xa918ab856b293df33c27b396ff92f6cd6c9f7a6a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 328
+        }
+    },
+    {
+        "contract_address": "0x5c56076b0b84fb8c449c0574ab234f60421fa8e3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "marvininu.vip"
+        ],
+        "telegram_groups": [
+            "Marvin_inu_eth"
+        ],
+        "holders": {
+            "ETH": 116
+        }
+    },
+    {
+        "contract_address": "0xc9b09405959f63f72725828b5d449488b02be1ca",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "developer.offchainlabs.com"
+        ],
+        "holders": {
+            "ETH": 424
+        }
+    },
+    {
+        "contract_address": "0xd3c51de3e6dd9b53d7f37699afb3ee3bf9b9b3f4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 354
+        }
+    },
+    {
+        "contract_address": "0xe6dbeadd1823b0bcfeb27792500b71e510af55b3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 576
+        }
+    },
+    {
+        "contract_address": "0x3871f0d0396dbad8e970c274a7ed8a2ffb5b6ec1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "opensource.org",
+            "opensource.org"
+        ],
+        "holders": {
+            "ETH": 81
+        }
     }
 ]
