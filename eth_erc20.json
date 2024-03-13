@@ -109246,7 +109246,10 @@
         ],
         "holders": {
             "ETH": 2
-        }
+        },
+        "web_domains": [
+            "lockers.stakedao.org"
+        ]
     },
     {
         "contract_address": "0x622dffcc4e83c64ba959530a5a5580687a57581b",
