@@ -109249,7 +109249,11 @@
         },
         "web_domains": [
             "lockers.stakedao.org"
-        ]
+        ],
+        "telegram_groups": [
+            "StakedaoHQ"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x622dffcc4e83c64ba959530a5a5580687a57581b",
@@ -109280,6 +109284,10 @@
         ],
         "holders": {
             "ETH": 73
-        }
+        },
+        "telegram_groups": [
+            "aevoxyz"
+        ],
+        "p6": true
     }
 ]
