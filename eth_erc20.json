@@ -109442,5 +109442,105 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xcae33d4f643a82af2271ad80b8f925658a328f9a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fepe.life"
+        ],
+        "telegram_groups": [
+            "FEPE_Chat"
+        ],
+        "holders": {
+            "ETH": 144
+        }
+    },
+    {
+        "contract_address": "0xf59ce175c6e8e35690807eb33051e59aad388c05",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.renon-ai.net"
+        ],
+        "telegram_groups": [
+            "RenonAI"
+        ],
+        "holders": {
+            "ETH": 183
+        }
+    },
+    {
+        "contract_address": "0x22d3affebf78321e1e01daa0c7606b7ca0f6ed4b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "novacash.ai",
+            "docs.novacash.ai"
+        ],
+        "telegram_groups": [
+            "novacash_ai"
+        ],
+        "emails": [
+            "admin@novacash.ai"
+        ],
+        "holders": {
+            "ETH": 110
+        }
+    },
+    {
+        "contract_address": "0xb299751b088336e165da313c33e3195b8c6663a6",
+        "sourceScanned": "processed",
+        "emails": [
+            "goncalo.sa@consensys.net"
+        ],
+        "holders": {
+            "ETH": 347
+        }
+    },
+    {
+        "contract_address": "0xc668695dcbcf682de106da94bde65c9bc79362d3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 184
+        }
+    },
+    {
+        "contract_address": "0x56de8bc61346321d4f2211e3ac3c0a7f00db9b76",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1006
+        }
+    },
+    {
+        "contract_address": "0xd1f289010734a742bc74656486db369b40b99f8d",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "SIMA_erc20"
+        ],
+        "holders": {
+            "ETH": 144
+        }
+    },
+    {
+        "contract_address": "0x88e0774a502838c7afffa928caf54265dc61a7d5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "supershibainu.club"
+        ],
+        "telegram_groups": [
+            "SuperShibaInu_portal"
+        ],
+        "holders": {
+            "ETH": 83
+        }
+    },
+    {
+        "contract_address": "0x15b743efd57edbb2696e05c3dc4dfe2c50dd8e78",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "US_Dollar_SCAM"
+        ],
+        "holders": {
+            "ETH": 55
+        }
     }
 ]
