@@ -109040,5 +109040,79 @@
         "telegram_groups": [],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xc58f8e18896795e8bd3b1a80ac8b90d845f1b815",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "LARP_Token"
+        ],
+        "holders": {
+            "ETH": 368
+        }
+    },
+    {
+        "contract_address": "0x78aea8ed2ba2df969690e188189ad3a8ec428b40",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "vikings.fandom.com",
+            "helgacoin.vip"
+        ],
+        "telegram_groups": [
+            "helgacoineth"
+        ],
+        "holders": {
+            "ETH": 153
+        }
+    },
+    {
+        "contract_address": "0xaed0ff6fb3de2c9f2cee3fbee98e16d8aa4f2bb7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 178
+        }
+    },
+    {
+        "contract_address": "0xa958d26b750b2e2baf162b2ea0ffc3e38ad43383",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xa3d221354b687e69e4b68289f3d245082117f67f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sproutai.tech",
+            "sproutaitech.medium.com"
+        ],
+        "telegram_groups": [
+            "sprout_ai_official"
+        ],
+        "holders": {
+            "ETH": 49
+        }
+    },
+    {
+        "contract_address": "0x5abf88cf3444611d13f6d1b39f3f3ee8575c91a2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 320
+        }
+    },
+    {
+        "contract_address": "0xc8c88110603b4e7236d5f20a1ef9b6dc378cc815",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nexusbot.io",
+            "docs.nexusbot.io"
+        ],
+        "telegram_groups": [
+            "nexusboteth",
+            "nexusmarketplacebot"
+        ],
+        "holders": {
+            "ETH": 279
+        }
     }
 ]
