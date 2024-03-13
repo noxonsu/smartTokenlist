@@ -109223,5 +109223,60 @@
         "holders": {
             "ETH": 1062
         }
+    },
+    {
+        "contract_address": "0xb528edbef013aff855ac3c50b381f253af13b997",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11029
+        }
+    },
+    {
+        "contract_address": "0x12652c6d93fdb6f4f37d48a8687783c782bb0d10",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1562
+        }
+    },
+    {
+        "contract_address": "0xe079ac07463ff375ce48e8a9d76211c10696f3b8",
+        "sourceScanned": "processed",
+        "emails": [
+            "contact@stakedao.org"
+        ],
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x622dffcc4e83c64ba959530a5a5580687a57581b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11189
+        }
+    },
+    {
+        "contract_address": "0x5ba19d656b65f1684cfea4af428c23b9f3628f97",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1295
+        }
+    },
+    {
+        "contract_address": "0xec33d722d014c02cf4efb46d68098e98e027c364",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 797
+        }
+    },
+    {
+        "contract_address": "0x9faba8a33cafd926eefaf539d2320621ec66e208",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.aevo.xyz"
+        ],
+        "holders": {
+            "ETH": 73
+        }
     }
 ]
