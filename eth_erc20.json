@@ -109574,7 +109574,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 44
-        }
+        },
+        "web_domains": [
+            "uwon.lol"
+        ]
     },
     {
         "contract_address": "0x20c3fa331a385b63ee39137e99d0cf2db142fce1",
@@ -109613,7 +109616,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 224
-        }
+        },
+        "web_domains": [
+            "pulseai.io"
+        ]
     },
     {
         "contract_address": "0x89ca1f425ab382b65e92c1a3270424c4e033a769",
