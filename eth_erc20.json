@@ -109394,7 +109394,8 @@
             "mfers.art"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x9d5307f6eea75037d683afba9ec413ec6123a00b",
@@ -109408,7 +109409,8 @@
         "telegram_groups": [
             "Ryoshi_L2"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x1c0e30d4aaed5296b2bc16708be7ac00c98dd1b1",
@@ -109438,6 +109440,7 @@
         "telegram_groups": [
             "blocktrade"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
