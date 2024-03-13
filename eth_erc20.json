@@ -109664,7 +109664,9 @@
         },
         "web_domains": [
             "cloudtensor.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7ea9e70dda060850758dd7c7a4104b800e4371cd",
@@ -109678,7 +109680,11 @@
         ],
         "holders": {
             "ETH": 151
-        }
+        },
+        "emails": [
+            "taofi@taofi.cloud"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xcd62b1c403fa761baadfc74c525ce2b51780b184",
@@ -109695,6 +109701,8 @@
         },
         "web_domains": [
             "hybrid.ai"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
