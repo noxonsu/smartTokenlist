@@ -109253,7 +109253,8 @@
         "telegram_groups": [
             "StakedaoHQ"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x622dffcc4e83c64ba959530a5a5580687a57581b",
@@ -109288,6 +109289,7 @@
         "telegram_groups": [
             "aevoxyz"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
