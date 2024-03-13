@@ -109577,7 +109577,14 @@
         },
         "web_domains": [
             "uwon.lol"
-        ]
+        ],
+        "telegram_groups": [
+            "uwon_coin"
+        ],
+        "emails": [
+            "support@hot.app"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x20c3fa331a385b63ee39137e99d0cf2db142fce1",
@@ -109609,7 +109616,15 @@
         ],
         "holders": {
             "ETH": 153
-        }
+        },
+        "telegram_groups": [
+            "imagicai_official",
+            "imagicai_bot"
+        ],
+        "emails": [
+            "support@imagicai.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdc7d16b1e7c54f35a67af95d5a6eecaec27b2a62",
@@ -109619,7 +109634,9 @@
         },
         "web_domains": [
             "pulseai.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x89ca1f425ab382b65e92c1a3270424c4e033a769",
@@ -109632,6 +109649,7 @@
         ],
         "holders": {
             "ETH": 67
-        }
+        },
+        "p6": true
     }
 ]
