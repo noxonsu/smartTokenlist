@@ -109137,7 +109137,8 @@
             "mobilecoin.com"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xdeb03343eaea740a9f651e4f7317261ab90da207",
@@ -109170,7 +109171,8 @@
         "holders": {
             "ETH": 108
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x250f02a3ae700835892535eb6f9d0af96e2c0643",
@@ -109186,7 +109188,8 @@
         "holders": {
             "ETH": 396
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x148c7b609aabfb7d6b49f1beacacdf41e3f1dc7e",
@@ -109208,7 +109211,8 @@
         "holders": {
             "ETH": 129
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x029b03ac808bc8bcbc706ccd1f82d45fb9182c3b",
