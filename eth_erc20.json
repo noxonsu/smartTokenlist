@@ -109389,14 +109389,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 215
-        }
+        },
+        "web_domains": [
+            "mfers.art"
+        ]
     },
     {
         "contract_address": "0x9d5307f6eea75037d683afba9ec413ec6123a00b",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 42
-        }
+        },
+        "web_domains": [
+            "ryoshiresearch.com"
+        ]
     },
     {
         "contract_address": "0x1c0e30d4aaed5296b2bc16708be7ac00c98dd1b1",
@@ -109419,6 +109425,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 45
-        }
+        },
+        "web_domains": [
+            "blocktrade.com"
+        ]
     }
 ]
