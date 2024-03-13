@@ -109655,5 +109655,40 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xa260be269b3c34c957361a1a4ca73bd616d750e2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 157
+        }
+    },
+    {
+        "contract_address": "0x7ea9e70dda060850758dd7c7a4104b800e4371cd",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "taofi.cloud",
+            "docs.taofi.cloud"
+        ],
+        "telegram_groups": [
+            "TAOFiCloud"
+        ],
+        "holders": {
+            "ETH": 151
+        }
+    },
+    {
+        "contract_address": "0xcd62b1c403fa761baadfc74c525ce2b51780b184",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 959
+        }
+    },
+    {
+        "contract_address": "0x9f04c688436f26da62cc32cc6f9d314c6d0896d8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 39
+        }
     }
 ]
