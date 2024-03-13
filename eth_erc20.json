@@ -109300,7 +109300,11 @@
         },
         "web_domains": [
             "rocketx.exchange"
-        ]
+        ],
+        "telegram_groups": [
+            "RocketXexchange"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6e2895a8ccca9b23dac76c1cfbf088e9a74bec3c",
@@ -109330,7 +109334,8 @@
         ],
         "holders": {
             "ETH": 58
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xef10bf0498732cade67bb52a18a4e07f2f2f5e18",
@@ -109350,7 +109355,8 @@
         ],
         "holders": {
             "ETH": 18
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3e5d4ed373596f00a5fc78ceb49994d9dc665aa9",
@@ -109359,10 +109365,12 @@
             "gem-ai.net"
         ],
         "telegram_groups": [
-            "GemAI_ERC"
+            "GemAI_ERC",
+            "GemAIPublic"
         ],
         "holders": {
             "ETH": 322
-        }
+        },
+        "p6": true
     }
 ]
