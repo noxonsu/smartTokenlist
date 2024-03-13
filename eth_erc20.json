@@ -108872,5 +108872,63 @@
         "holders": {
             "ETH": 1084
         }
+    },
+    {
+        "contract_address": "0x9c416afd40e64b263143ab2f718cc214b5434fbc",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.m1337.ventures",
+            "www.m1337.ventures"
+        ],
+        "holders": {
+            "ETH": 51
+        }
+    },
+    {
+        "contract_address": "0xdc60b883eb933be416fd98135203cd314497e756",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 424
+        }
+    },
+    {
+        "contract_address": "0xc9b6a17ebb43491635f603a01f8bb3e4b5d22228",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "magacoin.vip"
+        ],
+        "telegram_groups": [
+            "MAGACoinOfficial"
+        ],
+        "holders": {
+            "ETH": 227
+        }
+    },
+    {
+        "contract_address": "0x828eb9a1934c143808e325754c54ae2c1741ec49",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "addy.bot"
+        ],
+        "telegram_groups": [
+            "AddyBot0x"
+        ],
+        "holders": {
+            "ETH": 157
+        }
+    },
+    {
+        "contract_address": "0x3c0bb14e8367c384885a97bac6d5cceab474ed75",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 119
+        }
+    },
+    {
+        "contract_address": "0x176480362b7c048cc3929711c663d40f36a68066",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 373
+        }
     }
 ]
