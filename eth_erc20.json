@@ -109392,7 +109392,9 @@
         },
         "web_domains": [
             "mfers.art"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9d5307f6eea75037d683afba9ec413ec6123a00b",
@@ -109402,7 +109404,11 @@
         },
         "web_domains": [
             "ryoshiresearch.com"
-        ]
+        ],
+        "telegram_groups": [
+            "Ryoshi_L2"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1c0e30d4aaed5296b2bc16708be7ac00c98dd1b1",
@@ -109428,6 +109434,10 @@
         },
         "web_domains": [
             "blocktrade.com"
-        ]
+        ],
+        "telegram_groups": [
+            "blocktrade"
+        ],
+        "p6": true
     }
 ]
