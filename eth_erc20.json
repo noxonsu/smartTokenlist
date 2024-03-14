@@ -110364,7 +110364,11 @@
         ],
         "holders": {
             "ETH": 68
-        }
+        },
+        "emails": [
+            "dev@centrahub.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x660a66a3ee50dcbb4bc7dca4cfa3bf8530bfe4b4",
@@ -110374,7 +110378,11 @@
         },
         "web_domains": [
             "abewifhat.com"
-        ]
+        ],
+        "telegram_groups": [
+            "ABEWIFHAT"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x011c5c4e4a86fc95a7a6d5c49a69cdf0cb1d0467",
