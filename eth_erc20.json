@@ -110411,7 +110411,8 @@
         },
         "web_domains": [
             "darwinai.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1bcf0cab6dc22d50e78f22c2cd8b9e0f1f3309a8",
@@ -110441,7 +110442,8 @@
         ],
         "holders": {
             "ETH": 107
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xcfd6ae8bf13f42de14867351eaff7a8a3b9fbbe7",
@@ -110465,7 +110467,9 @@
         },
         "web_domains": [
             "play-fi.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8d405e558596ab90d30dd75069e54f4adba9263c",
