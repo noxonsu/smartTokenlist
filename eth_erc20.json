@@ -110160,14 +110160,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "coindizzy.com"
+        ]
     },
     {
         "contract_address": "0x9892695426b89130c0fd0c0edfa0f559399997fe",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "triangleplatform.com"
+        ]
     },
     {
         "contract_address": "0xb83de57fdd62e890cbf3072ed242472a1318bc6f",
