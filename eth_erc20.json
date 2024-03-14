@@ -110043,7 +110043,10 @@
         ],
         "holders": {
             "ETH": 198
-        }
+        },
+        "web_domains": [
+            "thecompanionai.com"
+        ]
     },
     {
         "contract_address": "0x1f7821cf403fac0c3e4f98941e974e3d44402c43",
@@ -110072,7 +110075,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 4
-        }
+        },
+        "web_domains": [
+            "everybodyagency.com"
+        ]
     },
     {
         "contract_address": "0xa5b947687163fe88c3e6af5b17ae69896f4abccf",
@@ -110089,6 +110095,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 91
-        }
+        },
+        "web_domains": [
+            "infratao.com"
+        ]
     }
 ]
