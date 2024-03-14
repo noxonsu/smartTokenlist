@@ -110499,7 +110499,14 @@
         },
         "web_domains": [
             "dogecoin20.io"
-        ]
+        ],
+        "telegram_groups": [
+            "DOGE_COIN20"
+        ],
+        "emails": [
+            "marketing@dogecoin20.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7f717c966f3dd5662731adf1fd0fc91fec7f0e77",
@@ -110514,7 +110521,11 @@
         ],
         "holders": {
             "ETH": 87
-        }
+        },
+        "emails": [
+            "\u00a9 2024 Drama AI, help@dramaai.org"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb040de8855a22e494eb239a7b4c396261f9fd1fa",
@@ -110523,11 +110534,13 @@
             "swiftaibot.com"
         ],
         "telegram_groups": [
-            "SwiftAIB"
+            "SwiftAIB",
+            "SwiftAIIBOT"
         ],
         "holders": {
             "ETH": 10
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9111c3ae9c6e4821b0ba6ba397f36736e6c4865d",
@@ -110537,12 +110550,13 @@
             "whitepaper.omnibotx.org"
         ],
         "telegram_groups": [
-            "omniboteth",
-            "omnibotx_bot"
+            "omnibotx_bot",
+            "omniboteth"
         ],
         "holders": {
             "ETH": 70
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4be1c4644cfe024c3aed37d95ca6fc184160f972",
@@ -110551,11 +110565,13 @@
             "syncor.ai"
         ],
         "telegram_groups": [
-            "syncor_portal"
+            "syncor_portal",
+            "syncorai_bot"
         ],
         "holders": {
             "ETH": 291
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf19693068120185664e211f619c4f0530ce07088",
@@ -110569,7 +110585,11 @@
         ],
         "holders": {
             "ETH": 20
-        }
+        },
+        "emails": [
+            "hello@bankai.app"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7393eeaafdb81b4b03b3a227ac881fec341d81cf",
