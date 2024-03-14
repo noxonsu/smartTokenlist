@@ -109969,7 +109969,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 83
-        }
+        },
+        "web_domains": [
+            "weezi.io"
+        ]
     },
     {
         "contract_address": "0x17be998a578fd97687b24e83954fec86dc20c979",
