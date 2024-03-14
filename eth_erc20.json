@@ -109996,7 +109996,8 @@
             "ETH": 398
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x36931983d0bd2a6df3fe41b0b3fa48dc0ea44a81",
@@ -110018,7 +110019,8 @@
         "holders": {
             "ETH": 268
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xeff8242758580f39b63d0ef8e18954391090e8e6",
@@ -110035,7 +110037,8 @@
         "holders": {
             "ETH": 93
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x50f94c464f60585beddbafdcec3b97089d7564f8",
@@ -110054,7 +110057,8 @@
         "web_domains": [
             "thecompanionai.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x1f7821cf403fac0c3e4f98941e974e3d44402c43",
@@ -110080,7 +110084,8 @@
         "emails": [
             "contact@ultron.lol"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x7791b70aeea9a87ca04a99a3a9cd7e1aff72f7d2",
@@ -110092,7 +110097,8 @@
             "everybodyagency.com"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xa5b947687163fe88c3e6af5b17ae69896f4abccf",
@@ -110116,6 +110122,7 @@
         "telegram_groups": [
             "infratao"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
