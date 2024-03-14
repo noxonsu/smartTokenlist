@@ -110289,5 +110289,57 @@
         "holders": {
             "ETH": 769
         }
+    },
+    {
+        "contract_address": "0x741fcd001a81860d9498b1e7f53f4ac7cfa44548",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "anthropicai.tech",
+            "www.anthropic.com"
+        ],
+        "telegram_groups": [
+            "anthropicaiPortal"
+        ],
+        "holders": {
+            "ETH": 213
+        }
+    },
+    {
+        "contract_address": "0x5ca135cb8527d76e932f34b5145575f9d8cbe08e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 377
+        }
+    },
+    {
+        "contract_address": "0xde151340b1ddd9c4150272c95e5107da2d621e7b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.aaceai.tech",
+            "app.aaceai.tech"
+        ],
+        "telegram_groups": [
+            "aaceai"
+        ],
+        "holders": {
+            "ETH": 48
+        }
+    },
+    {
+        "contract_address": "0x15a5343e60affb7f711e5ed4d24c714e62a30ff6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1800
+        }
+    },
+    {
+        "contract_address": "0x9c07c278bb2a020bd0883c38aae9625dd38c4f62",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "BitcoinEmojiERC20"
+        ],
+        "holders": {
+            "ETH": 144
+        }
     }
 ]
