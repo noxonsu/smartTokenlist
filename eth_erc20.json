@@ -110303,7 +110303,8 @@
         "holders": {
             "ETH": 213
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x5ca135cb8527d76e932f34b5145575f9d8cbe08e",
@@ -110326,7 +110327,8 @@
         "holders": {
             "ETH": 48
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x15a5343e60affb7f711e5ed4d24c714e62a30ff6",
@@ -110347,6 +110349,7 @@
         "web_domains": [
             "bitcoinemoji.org"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
