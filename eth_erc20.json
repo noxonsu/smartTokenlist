@@ -109891,7 +109891,11 @@
         ],
         "holders": {
             "ETH": 92
-        }
+        },
+        "emails": [
+            "Team@frogsoverdogs.meme"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x56e35a4a13e07c237e83280539a44142f7cd1ec9",
@@ -109901,7 +109905,9 @@
         },
         "web_domains": [
             "barstoolsports.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd40a085a62ee76f798233b6151682b6171d44261",
@@ -109914,7 +109920,8 @@
         ],
         "holders": {
             "ETH": 209
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc07ccd17f8583b9ffff2d0f84e42fedb104a3ff4",
@@ -109927,7 +109934,8 @@
         ],
         "holders": {
             "ETH": 44
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9a58e231de6a0349cf7262400819c21a2267d09c",
@@ -109941,6 +109949,7 @@
         ],
         "holders": {
             "ETH": 48
-        }
+        },
+        "p6": true
     }
 ]
