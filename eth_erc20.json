@@ -109725,12 +109725,13 @@
             "nhash.net"
         ],
         "telegram_groups": [
-            "tensorhashai",
-            "tensorhashai_bot"
+            "tensorhashai_bot",
+            "tensorhashai"
         ],
         "holders": {
             "ETH": 200
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1dca1f25add140b3d12c2dfe567b3b1964ea0099",
@@ -109740,12 +109741,13 @@
             "zkcex.gitbook.io"
         ],
         "telegram_groups": [
-            "zkcex_eth",
-            "zkCexBot"
+            "zkCexBot",
+            "zkcex_eth"
         ],
         "holders": {
             "ETH": 89
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4f6df4e37997ce076e3ced04c430bfa6e4768e70",
@@ -109758,7 +109760,11 @@
         ],
         "holders": {
             "ETH": 72
-        }
+        },
+        "emails": [
+            "info@pepeerc.xyz"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x53a0d4180182c943f416a74ea5e29b78a979055a",
@@ -109775,7 +109781,11 @@
         },
         "web_domains": [
             "zklend.com"
-        ]
+        ],
+        "telegram_groups": [
+            "zkLendAnnouncements"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x68b44c26874998adbd41a964e92315809524c7cb",
@@ -109795,7 +109805,11 @@
         ],
         "holders": {
             "ETH": 187
-        }
+        },
+        "emails": [
+            "support@dongo.ai"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5eb2118c524ac625c3b826f2252d0e47ef0c0885",
@@ -109808,7 +109822,8 @@
         },
         "web_domains": [
             "memesstreet.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9f4061a9e78e80b273be6ffdd2a0ac89440d5cac",
