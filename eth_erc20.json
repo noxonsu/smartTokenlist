@@ -110351,5 +110351,40 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xe3831bee5f01b1d3d9509b4e7aba6c8bda86bd8a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "centrahub.io",
+            "www.linkedin.com"
+        ],
+        "telegram_groups": [
+            "centrahubofficial"
+        ],
+        "holders": {
+            "ETH": 68
+        }
+    },
+    {
+        "contract_address": "0x660a66a3ee50dcbb4bc7dca4cfa3bf8530bfe4b4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 159
+        }
+    },
+    {
+        "contract_address": "0x011c5c4e4a86fc95a7a6d5c49a69cdf0cb1d0467",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0xc4b81d8381e02922c9eac0a4ea45977118080f74",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3507
+        }
     }
 ]
