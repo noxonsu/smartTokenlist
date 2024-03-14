@@ -109879,5 +109879,65 @@
         "holders": {
             "ETH": 8
         }
+    },
+    {
+        "contract_address": "0xf8df2d6daba1d6f12d2efc2a69a86255290f7b0c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "frogsoverdogs.meme"
+        ],
+        "telegram_groups": [
+            "FrogsOverDogs"
+        ],
+        "holders": {
+            "ETH": 92
+        }
+    },
+    {
+        "contract_address": "0x56e35a4a13e07c237e83280539a44142f7cd1ec9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 73
+        }
+    },
+    {
+        "contract_address": "0xd40a085a62ee76f798233b6151682b6171d44261",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.mumueth.io"
+        ],
+        "telegram_groups": [
+            "MumuCoinEntry"
+        ],
+        "holders": {
+            "ETH": 209
+        }
+    },
+    {
+        "contract_address": "0xc07ccd17f8583b9ffff2d0f84e42fedb104a3ff4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fumblers.xyz"
+        ],
+        "telegram_groups": [
+            "fumble_world_portal"
+        ],
+        "holders": {
+            "ETH": 44
+        }
+    },
+    {
+        "contract_address": "0x9a58e231de6a0349cf7262400819c21a2267d09c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zklend.com",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "zkLendAnnouncements"
+        ],
+        "holders": {
+            "ETH": 48
+        }
     }
 ]
