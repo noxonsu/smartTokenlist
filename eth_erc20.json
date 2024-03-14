@@ -110124,5 +110124,70 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x0c79e09497c9862479c9e6499c61342b5fe3e6b2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hashpower.bot",
+            "docs.hashpower.bot"
+        ],
+        "telegram_groups": [
+            "hashpowerai",
+            "hashpowerai_bot"
+        ],
+        "holders": {
+            "ETH": 435
+        }
+    },
+    {
+        "contract_address": "0x85e0b9d3e7e4dba7e59090c533906d0e9211d8b6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.asahi.com",
+            "nobu-tokyo.com",
+            "ishitoken.io"
+        ],
+        "telegram_groups": [
+            "ishicoinerc"
+        ],
+        "holders": {
+            "ETH": 164
+        }
+    },
+    {
+        "contract_address": "0x6c0276b9574ff39e422192812b2775dc8f9642ce",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x9892695426b89130c0fd0c0edfa0f559399997fe",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xb83de57fdd62e890cbf3072ed242472a1318bc6f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "MAGABikini.vip",
+            "twitter"
+        ],
+        "telegram_groups": [
+            "maga_bikini"
+        ],
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0x7480cf39529ab04d4968495f1d6eb0d232bc4790",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 112
+        }
     }
 ]
