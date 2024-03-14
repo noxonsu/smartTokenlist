@@ -110506,7 +110506,8 @@
         "emails": [
             "marketing@dogecoin20.io"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x7f717c966f3dd5662731adf1fd0fc91fec7f0e77",
@@ -110525,7 +110526,8 @@
         "emails": [
             "\u00a9 2024 Drama AI, help@dramaai.org"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xb040de8855a22e494eb239a7b4c396261f9fd1fa",
@@ -110540,7 +110542,8 @@
         "holders": {
             "ETH": 10
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x9111c3ae9c6e4821b0ba6ba397f36736e6c4865d",
@@ -110556,7 +110559,8 @@
         "holders": {
             "ETH": 70
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x4be1c4644cfe024c3aed37d95ca6fc184160f972",
@@ -110571,7 +110575,8 @@
         "holders": {
             "ETH": 291
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xf19693068120185664e211f619c4f0530ce07088",
@@ -110589,7 +110594,8 @@
         "emails": [
             "hello@bankai.app"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x7393eeaafdb81b4b03b3a227ac881fec341d81cf",
@@ -110837,7 +110843,8 @@
             "ETH": 3
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xc047d88898ea270fb2863ee8eab1f53b2a7b915b",
@@ -110851,7 +110858,8 @@
         "holders": {
             "ETH": 13
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x457683c8c0df1c16485c2274ea32703454cbe71b",
@@ -110867,7 +110875,8 @@
         "holders": {
             "ETH": 63
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xe96edd48cf0c6e930ce55f171a721017b28e0f08",
@@ -110882,6 +110891,7 @@
         "holders": {
             "ETH": 84
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
