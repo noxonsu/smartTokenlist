@@ -110496,7 +110496,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 5
-        }
+        },
+        "web_domains": [
+            "dogecoin20.io"
+        ]
     },
     {
         "contract_address": "0x7f717c966f3dd5662731adf1fd0fc91fec7f0e77",
