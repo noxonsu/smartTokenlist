@@ -110212,5 +110212,74 @@
         "holders": {
             "ETH": 112
         }
+    },
+    {
+        "contract_address": "0x9ab70e92319f0b9127df78868fd3655fb9f1e322",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 718
+        }
+    },
+    {
+        "contract_address": "0x94f27f7c941ade2cae367a526d49a77bf7b8e134",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 869
+        }
+    },
+    {
+        "contract_address": "0xc7a5da0cdd587aeac6aee82befd310414bef9695",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x406b38561c8fa4935512318ad1e213012c406fa4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x16a0217ca346bde6f93fcd9f26f7d5e1f8569b0d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x6a8b188fadbe8b52a2c23ea2d0df74f8956e7730",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "quantumswapai.com",
+            "firstcryptobank.capital"
+        ],
+        "telegram_groups": [
+            "quantumswapai"
+        ],
+        "holders": {
+            "ETH": 207
+        }
+    },
+    {
+        "contract_address": "0x855462ba06f3e4cb4b856489d2f693044db3a98d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "transformerdebugger.com"
+        ],
+        "telegram_groups": [
+            "TransformerDebuggerERC"
+        ],
+        "holders": {
+            "ETH": 90
+        }
+    },
+    {
+        "contract_address": "0x725440512cb7b78bf56b334e50e31707418231cb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 769
+        }
     }
 ]
