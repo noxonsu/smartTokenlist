@@ -109985,5 +109985,110 @@
         "holders": {
             "ETH": 170
         }
+    },
+    {
+        "contract_address": "0xc1ecfaf43c53bec9b9143ab274f35603fd10b886",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "StarShipERC.com"
+        ],
+        "holders": {
+            "ETH": 398
+        }
+    },
+    {
+        "contract_address": "0x36931983d0bd2a6df3fe41b0b3fa48dc0ea44a81",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x05c14b1b270a6017eeccf6962bc24ae894999d05",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "youtu.be",
+            "wat-token.vip"
+        ],
+        "telegram_groups": [
+            "WAT_TOKEN_ERC"
+        ],
+        "holders": {
+            "ETH": 268
+        }
+    },
+    {
+        "contract_address": "0xeff8242758580f39b63d0ef8e18954391090e8e6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pirateflix.app",
+            "docs.pirateflix.app",
+            "youtube.com",
+            "piratevpn.app"
+        ],
+        "telegram_groups": [
+            "pirateflixportal"
+        ],
+        "holders": {
+            "ETH": 93
+        }
+    },
+    {
+        "contract_address": "0x50f94c464f60585beddbafdcec3b97089d7564f8",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "CompanionAiSignals",
+            "CompanionAiErc20",
+            "addstickers"
+        ],
+        "holders": {
+            "ETH": 198
+        }
+    },
+    {
+        "contract_address": "0x1f7821cf403fac0c3e4f98941e974e3d44402c43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0x040de6b21e7fb3014eb3ba8f94bee91c75a11c06",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ultron.lol",
+            "stake.ultron.lol",
+            "ultraonai.medium.com"
+        ],
+        "telegram_groups": [
+            "ultronai_official"
+        ],
+        "holders": {
+            "ETH": 69
+        }
+    },
+    {
+        "contract_address": "0x7791b70aeea9a87ca04a99a3a9cd7e1aff72f7d2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0xa5b947687163fe88c3e6af5b17ae69896f4abccf",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dapp.tools"
+        ],
+        "holders": {
+            "ETH": 548
+        }
+    },
+    {
+        "contract_address": "0x315031472b5bbf2a32f6f1d9653d5d7f423a8fe3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 91
+        }
     }
 ]
