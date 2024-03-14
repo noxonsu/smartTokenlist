@@ -109840,5 +109840,42 @@
         "holders": {
             "ETH": 621
         }
+    },
+    {
+        "contract_address": "0x52d30b949bdbc63780e5a263cf436d4df983fe58",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 192
+        }
+    },
+    {
+        "contract_address": "0xc58a9c076b45d219fa6632882f708de090178897",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "tiggerportal"
+        ],
+        "holders": {
+            "ETH": 749
+        }
+    },
+    {
+        "contract_address": "0xd904a9eafa508979748d8543114402477061c410",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "benjaminbutton.xyz"
+        ],
+        "telegram_groups": [
+            "BenjaminButton_ERC"
+        ],
+        "holders": {
+            "ETH": 121
+        }
+    },
+    {
+        "contract_address": "0x5e6c2a7fcf1a9b76fa35f11f87dba3d3f4fffca5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8
+        }
     }
 ]
