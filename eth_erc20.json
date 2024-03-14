@@ -110835,7 +110835,9 @@
         ],
         "holders": {
             "ETH": 3
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc047d88898ea270fb2863ee8eab1f53b2a7b915b",
@@ -110848,7 +110850,8 @@
         ],
         "holders": {
             "ETH": 13
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x457683c8c0df1c16485c2274ea32703454cbe71b",
@@ -110858,11 +110861,13 @@
             "msnai-bot.gitbook.io"
         ],
         "telegram_groups": [
-            "MsnAiBotPortal"
+            "MsnAiBotPortal",
+            "MsnAiBot"
         ],
         "holders": {
             "ETH": 63
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe96edd48cf0c6e930ce55f171a721017b28e0f08",
@@ -110876,6 +110881,7 @@
         ],
         "holders": {
             "ETH": 84
-        }
+        },
+        "p6": true
     }
 ]
