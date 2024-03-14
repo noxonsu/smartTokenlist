@@ -109956,5 +109956,26 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xb3cf9f0c00050774724e234f5188311c58a8baee",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 202
+        }
+    },
+    {
+        "contract_address": "0x0d7dea5922535087078dd3d7c554ea9f2655d4cb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 83
+        }
+    },
+    {
+        "contract_address": "0x17be998a578fd97687b24e83954fec86dc20c979",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 170
+        }
     }
 ]
