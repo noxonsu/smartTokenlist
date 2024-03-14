@@ -110265,7 +110265,8 @@
         "emails": [
             "contact@quantumswapai.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x855462ba06f3e4cb4b856489d2f693044db3a98d",
@@ -110279,7 +110280,8 @@
         "holders": {
             "ETH": 90
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x725440512cb7b78bf56b334e50e31707418231cb",
