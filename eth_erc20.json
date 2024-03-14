@@ -109898,7 +109898,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 73
-        }
+        },
+        "web_domains": [
+            "barstoolsports.com"
+        ]
     },
     {
         "contract_address": "0xd40a085a62ee76f798233b6151682b6171d44261",
