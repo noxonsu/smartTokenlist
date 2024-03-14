@@ -109972,7 +109972,11 @@
         },
         "web_domains": [
             "weezi.io"
-        ]
+        ],
+        "telegram_groups": [
+            "weeziDAO"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x17be998a578fd97687b24e83954fec86dc20c979",
