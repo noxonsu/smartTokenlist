@@ -109772,7 +109772,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 5
-        }
+        },
+        "web_domains": [
+            "zklend.com"
+        ]
     },
     {
         "contract_address": "0x68b44c26874998adbd41a964e92315809524c7cb",
@@ -109802,7 +109805,10 @@
         ],
         "holders": {
             "ETH": 35
-        }
+        },
+        "web_domains": [
+            "memesstreet.com"
+        ]
     },
     {
         "contract_address": "0x9f4061a9e78e80b273be6ffdd2a0ac89440d5cac",
