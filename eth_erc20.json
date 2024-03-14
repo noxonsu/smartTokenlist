@@ -110399,5 +110399,76 @@
         "holders": {
             "ETH": 3507
         }
+    },
+    {
+        "contract_address": "0xea442b8605ed9cd93c8794123b86127d8bfa4894",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "darwinai_eth"
+        ],
+        "holders": {
+            "ETH": 129
+        }
+    },
+    {
+        "contract_address": "0x1bcf0cab6dc22d50e78f22c2cd8b9e0f1f3309a8",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "arveep"
+        ],
+        "holders": {
+            "ETH": 72
+        }
+    },
+    {
+        "contract_address": "0x84d8fd50871153bab34eff8b276b99e15661adf1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xc02e80b87a5306bdd4ad58673eae7085e66644cd",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "incogni.tech"
+        ],
+        "telegram_groups": [
+            "incognitechportal"
+        ],
+        "holders": {
+            "ETH": 107
+        }
+    },
+    {
+        "contract_address": "0xcfd6ae8bf13f42de14867351eaff7a8a3b9fbbe7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2653
+        }
+    },
+    {
+        "contract_address": "0xd4a49b3394fbaedaf43f527e30eb01498a4ed346",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0x82f13ab56cc0d1b727e8253a943f0de75b048b0b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 290
+        }
+    },
+    {
+        "contract_address": "0x8d405e558596ab90d30dd75069e54f4adba9263c",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "DARWINAIcoinerc20"
+        ],
+        "holders": {
+            "ETH": 61
+        }
     }
 ]
