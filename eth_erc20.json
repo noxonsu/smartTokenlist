@@ -110143,7 +110143,8 @@
         "emails": [
             "support@hashpower.bot"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x85e0b9d3e7e4dba7e59090c533906d0e9211d8b6",
@@ -110160,7 +110161,8 @@
         "holders": {
             "ETH": 164
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x6c0276b9574ff39e422192812b2775dc8f9642ce",
@@ -110172,7 +110174,8 @@
             "coindizzy.com"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x9892695426b89130c0fd0c0edfa0f559399997fe",
@@ -110184,7 +110187,8 @@
             "triangleplatform.com"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xb83de57fdd62e890cbf3072ed242472a1318bc6f",
@@ -110199,7 +110203,8 @@
         "holders": {
             "ETH": 24
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x7480cf39529ab04d4968495f1d6eb0d232bc4790",
