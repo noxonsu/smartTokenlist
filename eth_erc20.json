@@ -109707,5 +109707,111 @@
         "telegram_groups": [],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xd488321ef57ab16b4f334558b1fc4e0213c82db1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 300
+        }
+    },
+    {
+        "contract_address": "0xdc03dd2bc9c105e005eefa5ae6fa7ee2fb24f24f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.tensorhashai.cloud",
+            "ai-dag.b-cdn.net",
+            "sedracoin.com",
+            "nhash.net"
+        ],
+        "telegram_groups": [
+            "tensorhashai",
+            "tensorhashai_bot"
+        ],
+        "holders": {
+            "ETH": 200
+        }
+    },
+    {
+        "contract_address": "0x1dca1f25add140b3d12c2dfe567b3b1964ea0099",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zkcex.bot",
+            "zkcex.gitbook.io"
+        ],
+        "telegram_groups": [
+            "zkcex_eth",
+            "zkCexBot"
+        ],
+        "holders": {
+            "ETH": 89
+        }
+    },
+    {
+        "contract_address": "0x4f6df4e37997ce076e3ced04c430bfa6e4768e70",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pepeerc.xyz"
+        ],
+        "telegram_groups": [
+            "Pepeerccommunity"
+        ],
+        "holders": {
+            "ETH": 72
+        }
+    },
+    {
+        "contract_address": "0x53a0d4180182c943f416a74ea5e29b78a979055a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 83
+        }
+    },
+    {
+        "contract_address": "0xb2606492712d311be8f41d940afe8ce742a52d44",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x68b44c26874998adbd41a964e92315809524c7cb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x8c213ae332274e6314bf4cf989604e7f61162967",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dongo.ai"
+        ],
+        "telegram_groups": [
+            "dongo_ai"
+        ],
+        "holders": {
+            "ETH": 187
+        }
+    },
+    {
+        "contract_address": "0x5eb2118c524ac625c3b826f2252d0e47ef0c0885",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "MeMeTS_ETH1"
+        ],
+        "holders": {
+            "ETH": 35
+        }
+    },
+    {
+        "contract_address": "0x9f4061a9e78e80b273be6ffdd2a0ac89440d5cac",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "MuskPepeGateway"
+        ],
+        "holders": {
+            "ETH": 621
+        }
     }
 ]
