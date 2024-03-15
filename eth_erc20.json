@@ -111077,5 +111077,78 @@
         "holders": {
             "ETH": 743
         }
+    },
+    {
+        "contract_address": "0x125518ba3bbcc836eea4c520a086ef297706e999",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 316
+        }
+    },
+    {
+        "contract_address": "0x4da34f8264cb33a5c9f17081b9ef5ff6091116f4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 340
+        }
+    },
+    {
+        "contract_address": "0xd561a593d9dd8b9a0e3a487dfb517c9371d6dda7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "meow.meme",
+            "press.meow.meme",
+            "coinmarketcap.com"
+        ],
+        "telegram_groups": [
+            "Meow_Meme_Coin"
+        ],
+        "holders": {
+            "ETH": 240
+        }
+    },
+    {
+        "contract_address": "0x3d234a9d23f01c5556ad3dfa88f470f8982ab1b4",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@vatrainu.com"
+        ],
+        "holders": {
+            "ETH": 60
+        }
+    },
+    {
+        "contract_address": "0x6f3db3483fa6d4eef8ed465a874c8985d58e8c7d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x378c06766bac20ddbd4e841d799c2919fceb39a4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 209
+        }
+    },
+    {
+        "contract_address": "0xe94e8e29bd3db22917e83d019af7babdf8b9adf6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "taos.gitbook.io"
+        ],
+        "telegram_groups": [
+            "Dextensor"
+        ],
+        "holders": {
+            "ETH": 420
+        }
+    },
+    {
+        "contract_address": "0x6d60a8dfb16d09f67d46fcd36a0cd310078257ca",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 81
+        }
     }
 ]
