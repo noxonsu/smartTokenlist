@@ -111216,7 +111216,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 272
-        }
+        },
+        "web_domains": [
+            "hotcross.com"
+        ]
     },
     {
         "contract_address": "0x5764cf799caae5b5a7b55e6ed66649d4dcb5a09d",
