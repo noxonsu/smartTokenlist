@@ -110893,5 +110893,71 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x0fff882394fde8c5d547764027e16ba1b9e84155",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 474
+        }
+    },
+    {
+        "contract_address": "0xc91ead40920f84657839578fc65f100363968031",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 76
+        }
+    },
+    {
+        "contract_address": "0x253008ba4ae2f3e6488dc998a5321d4eb1a0c905",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x23150e1db43a04ae1ea993b76dd3c37156cabe0f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 430
+        }
+    },
+    {
+        "contract_address": "0xbf4a2ddaa16148a9d0fa2093ffac450adb7cd4aa",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 14623
+        }
+    },
+    {
+        "contract_address": "0x43d584d0c687c574fa05d3db171ff915b0833d0a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "rotate-ai.gitbook.io",
+            "rotateai.tech"
+        ],
+        "telegram_groups": [
+            "RotateAI"
+        ],
+        "holders": {
+            "ETH": 428
+        }
+    },
+    {
+        "contract_address": "0xe6b15ffa9475067595da599f98d49b9193b80c25",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "BowieMusk"
+        ],
+        "holders": {
+            "ETH": 215
+        }
+    },
+    {
+        "contract_address": "0x7f5e1a2424ebdd141b0df15f974ddcb87751a012",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 64
+        }
     }
 ]
