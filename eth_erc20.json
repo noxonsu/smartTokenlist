@@ -111221,7 +111221,8 @@
             "hotcross.com"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x5764cf799caae5b5a7b55e6ed66649d4dcb5a09d",
@@ -111236,7 +111237,8 @@
         "holders": {
             "ETH": 45
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x8559f1f78cd8db54972aeb0c9d89d9bc35ebd54d",
