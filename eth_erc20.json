@@ -111189,5 +111189,61 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x425f81e2fe53256b9a7aea91949da2210bd049be",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x03846aa7f391bb1ed576021a8f50e3535820894e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0xfb41034133ac00e6618482e0696c958b6827c5f9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x4297394c20800e8a38a619a243e9bbe7681ff24e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 272
+        }
+    },
+    {
+        "contract_address": "0x5764cf799caae5b5a7b55e6ed66649d4dcb5a09d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "taiko.xyz",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "BerachainPortal"
+        ],
+        "holders": {
+            "ETH": 45
+        }
+    },
+    {
+        "contract_address": "0x8559f1f78cd8db54972aeb0c9d89d9bc35ebd54d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 46
+        }
+    },
+    {
+        "contract_address": "0x1cc47cd316659a96d96f46a6e0310c23516d1871",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
     }
 ]
