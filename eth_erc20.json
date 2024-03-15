@@ -111043,5 +111043,39 @@
         "holders": {
             "ETH": 584
         }
+    },
+    {
+        "contract_address": "0x7dbf199731a3ccc3445b99c130171646314fcb44",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 552
+        }
+    },
+    {
+        "contract_address": "0x2ed68044cbe901dcc2ac448e1d276b3f928845c0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 71
+        }
+    },
+    {
+        "contract_address": "0x859a9c0b44cb7066d956a958b0b82e54c9e44b4b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4523
+        }
+    },
+    {
+        "contract_address": "0xc092a137df3cf2b9e5971ba1874d26487c12626d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tryring.ai"
+        ],
+        "telegram_groups": [
+            "ringcommunity"
+        ],
+        "holders": {
+            "ETH": 743
+        }
     }
 ]
