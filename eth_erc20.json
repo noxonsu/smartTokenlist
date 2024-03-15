@@ -110941,7 +110941,8 @@
         ],
         "holders": {
             "ETH": 428
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe6b15ffa9475067595da599f98d49b9193b80c25",
@@ -110961,6 +110962,8 @@
         },
         "web_domains": [
             "llm-guide.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
