@@ -110973,7 +110973,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 46
-        }
+        },
+        "web_domains": [
+            "nogs.wtf"
+        ]
     },
     {
         "contract_address": "0xaa5a67c256e27a5d80712c51971408db3370927d",
@@ -111004,14 +111007,20 @@
         ],
         "holders": {
             "ETH": 62
-        }
+        },
+        "web_domains": [
+            "freedom-coin.com"
+        ]
     },
     {
         "contract_address": "0x1c54a24f2380efff0194aadced4b71001d265d01",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 162
-        }
+        },
+        "web_domains": [
+            "bitvise.com"
+        ]
     },
     {
         "contract_address": "0xf6f31b8afbf8e3f7fc8246bef26093f02838da98",
