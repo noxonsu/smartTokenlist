@@ -111304,7 +111304,8 @@
         "emails": [
             "support@casegpt.io"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x9abe34021128c17de3c2180a02932eb5e1bb18ef",
@@ -111317,7 +111318,8 @@
             "ETH": 30
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xadfa5fa0c51d11b54c8a0b6a15f47987bd500086",
@@ -111330,7 +111332,8 @@
             "ETH": 97
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x65a833afdc250d9d38f8cd9bc2b1e3132db13b2f",
