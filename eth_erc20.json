@@ -110976,7 +110976,9 @@
         },
         "web_domains": [
             "nogs.wtf"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xaa5a67c256e27a5d80712c51971408db3370927d",
@@ -111003,14 +111005,19 @@
         "contract_address": "0x360e692be512d125a83eb06db9505831997db607",
         "sourceScanned": "processed",
         "telegram_groups": [
-            "FreedomTokenEntry"
+            "FreedomTokenEntry",
+            "FREECoinNewest"
         ],
         "holders": {
             "ETH": 62
         },
         "web_domains": [
             "freedom-coin.com"
-        ]
+        ],
+        "emails": [
+            "info@freecoin.technology"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1c54a24f2380efff0194aadced4b71001d265d01",
@@ -111020,7 +111027,9 @@
         },
         "web_domains": [
             "bitvise.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf6f31b8afbf8e3f7fc8246bef26093f02838da98",
