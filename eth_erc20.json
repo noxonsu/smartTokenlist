@@ -110967,5 +110967,60 @@
         "telegram_groups": [],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x5fa20d59d2a907e5fed9fb80b4a8d9f0d069a48d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 46
+        }
+    },
+    {
+        "contract_address": "0xaa5a67c256e27a5d80712c51971408db3370927d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 23
+        }
+    },
+    {
+        "contract_address": "0x8fa728f393588e8d8dd1ca397e9a710e53fa553a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0xb3e8f3d7ec208a032178880955f6c877479d1fdd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x360e692be512d125a83eb06db9505831997db607",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "FreedomTokenEntry"
+        ],
+        "holders": {
+            "ETH": 62
+        }
+    },
+    {
+        "contract_address": "0x1c54a24f2380efff0194aadced4b71001d265d01",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 162
+        }
+    },
+    {
+        "contract_address": "0xf6f31b8afbf8e3f7fc8246bef26093f02838da98",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "rarity.garden"
+        ],
+        "holders": {
+            "ETH": 584
+        }
     }
 ]
