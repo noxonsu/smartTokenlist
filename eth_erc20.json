@@ -111287,5 +111287,73 @@
         "telegram_groups": [],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x23c523d235059ae5bbaab180026c83d836fb2c0f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "casegpt.io",
+            "discord.com"
+        ],
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0x9abe34021128c17de3c2180a02932eb5e1bb18ef",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "developers.aave.com",
+            "developers.aave.com"
+        ],
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0xadfa5fa0c51d11b54c8a0b6a15f47987bd500086",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "developers.aave.com",
+            "developers.aave.com"
+        ],
+        "holders": {
+            "ETH": 97
+        }
+    },
+    {
+        "contract_address": "0x65a833afdc250d9d38f8cd9bc2b1e3132db13b2f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 537
+        }
+    },
+    {
+        "contract_address": "0x062ef9b146e15e5af3b0f70b2f01f89c1bb350f6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 519
+        }
+    },
+    {
+        "contract_address": "0xa974c709cfb4566686553a20790685a47aceaa33",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 20200
+        }
+    },
+    {
+        "contract_address": "0xf3a605da753e9de545841de10ea8bffbd1da9c75",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0x8c6bf16c273636523c29db7db04396143770f6a0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6576
+        }
     }
 ]
