@@ -111106,7 +111106,8 @@
         "holders": {
             "ETH": 240
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x3d234a9d23f01c5556ad3dfa88f470f8982ab1b4",
@@ -111125,7 +111126,8 @@
             "vatrainu",
             "vatrainugroup"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x6f3db3483fa6d4eef8ed465a874c8985d58e8c7d",
@@ -111137,7 +111139,8 @@
             "podpod.com"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x378c06766bac20ddbd4e841d799c2919fceb39a4",
@@ -111151,7 +111154,8 @@
         "telegram_groups": [
             "strkfi_eth"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xe94e8e29bd3db22917e83d019af7babdf8b9adf6",
@@ -111165,7 +111169,8 @@
         "holders": {
             "ETH": 420
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x6d60a8dfb16d09f67d46fcd36a0cd310078257ca",
@@ -111182,6 +111187,7 @@
         "emails": [
             "customercare@centurioninvest.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
