@@ -111631,7 +111631,11 @@
         ],
         "holders": {
             "ETH": 45
-        }
+        },
+        "telegram_groups": [
+            "unibitprotocol"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x00b78238925c320159023c2ac9ef89da8f16d007",
