@@ -71070,9 +71070,9 @@
         ],
         "telegram_groups": [
             "JesterBotEth",
+            "LeverageToken_Entry",
             "XtrackERC",
-            "CybertruckETH",
-            "LeverageToken_Entry"
+            "CybertruckETH"
         ],
         "holders": {
             "ETH": 193
@@ -71196,11 +71196,11 @@
             "linktr.ee"
         ],
         "telegram_groups": [
-            "XtrackERC",
             "aitechnologyportal",
-            "JesterBotEth",
             "CybertruckETH",
-            "LeverageToken_Entry"
+            "JesterBotEth",
+            "LeverageToken_Entry",
+            "XtrackERC"
         ],
         "holders": {
             "ETH": 284
@@ -98024,11 +98024,11 @@
             "ETH": 183
         },
         "telegram_groups": [
-            "XtrackERC",
             "aitechnologyportal",
-            "JesterBotEth",
             "CybertruckETH",
-            "LeverageToken_Entry"
+            "JesterBotEth",
+            "LeverageToken_Entry",
+            "XtrackERC"
         ],
         "p6": true,
         "p8": true
@@ -101628,11 +101628,11 @@
             "ETH": 458
         },
         "telegram_groups": [
-            "XtrackERC",
             "aitechnologyportal",
-            "JesterBotEth",
             "CybertruckETH",
-            "LeverageToken_Entry"
+            "JesterBotEth",
+            "LeverageToken_Entry",
+            "XtrackERC"
         ],
         "p6": true,
         "p8": true
@@ -104588,12 +104588,12 @@
             "www.chain-swap.org"
         ],
         "telegram_groups": [
-            "XtrackERC",
-            "ChainSwapPortal",
             "aitechnologyportal",
-            "JesterBotEth",
+            "ChainSwapPortal",
             "CybertruckETH",
-            "LeverageToken_Entry"
+            "JesterBotEth",
+            "LeverageToken_Entry",
+            "XtrackERC"
         ],
         "holders": {
             "ETH": 401
@@ -111411,7 +111411,11 @@
         ],
         "holders": {
             "ETH": 110
-        }
+        },
+        "emails": [
+            "Copyright \u00a9 2024 Pipe Finance | contact@pipeprotocol.cash"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd33ca6fd43da7dfbcccd819afd625713eabe71e7",
@@ -111426,7 +111430,8 @@
         ],
         "holders": {
             "ETH": 109
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x899d774e0f8e14810d628db63e65dfacea682343",
@@ -111457,11 +111462,13 @@
             "bitventure.io"
         ],
         "telegram_groups": [
-            "BitVenture_portal"
+            "BitVenture_portal",
+            "Bitventure_portal"
         ],
         "holders": {
             "ETH": 62
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9cc32f63850a3d9a64d613a4fa7b1c7d8993c054",
@@ -111495,7 +111502,16 @@
         ],
         "holders": {
             "ETH": 241
-        }
+        },
+        "telegram_groups": [
+            "aitechnologyportal",
+            "ChainSwapPortal",
+            "CybertruckETH",
+            "JesterBotEth",
+            "LeverageToken_Entry",
+            "XtrackERC"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3e5a5ff25fdf7e490ad6aff6624ce5a671ebcdf2",
@@ -111506,11 +111522,18 @@
             "docs.msueai.com"
         ],
         "telegram_groups": [
-            "muse_ai"
+            "aitechnologyportal",
+            "muse_ai",
+            "CybertruckETH",
+            "JesterBotEth",
+            "ChainSwapPortal",
+            "LeverageToken_Entry",
+            "XtrackERC"
         ],
         "holders": {
             "ETH": 187
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd1e64bcc904cfdc19d0faba155a9edc69b4bcdae",
@@ -111531,7 +111554,11 @@
         ],
         "holders": {
             "ETH": 385
-        }
+        },
+        "emails": [
+            "HashRentOfficial@Hash-Rent.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x142f4330ab3eda738cb373791c2e99cc325bed20",
@@ -111548,7 +111575,17 @@
         ],
         "holders": {
             "ETH": 5042
-        }
+        },
+        "telegram_groups": [
+            "aitechnologyportal",
+            "muse_ai",
+            "CybertruckETH",
+            "JesterBotEth",
+            "ChainSwapPortal",
+            "LeverageToken_Entry",
+            "XtrackERC"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x32b053f2cba79f80ada5078cb6b305da92bde6e1",
