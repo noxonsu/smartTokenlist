@@ -112002,7 +112002,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 15
-        }
+        },
+        "web_domains": [
+            "chinai.substack.com"
+        ]
     },
     {
         "contract_address": "0x5ea49ff332b7ad99c486347c1c2bcc73d1e22b9b",
