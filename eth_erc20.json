@@ -111879,7 +111879,8 @@
         ],
         "holders": {
             "ETH": 44
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa97f2d053e40366b3898acbf976c8224ad5c1b77",
@@ -111892,11 +111893,13 @@
             "faucet.bracenetwork.io"
         ],
         "telegram_groups": [
-            "bracenetworkl1"
+            "bracenetworkl1",
+            "braacenetworkl1"
         ],
         "holders": {
             "ETH": 72
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6bd91799f767b30b1f7aeb1239b3573b2e366b49",
@@ -111910,7 +111913,8 @@
         ],
         "holders": {
             "ETH": 29
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x594ec1032a4760edb636308fd33c2c403f9f782e",
@@ -111923,7 +111927,8 @@
         ],
         "holders": {
             "ETH": 65
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x97225fae89b370e7721f961d1145e64df56f2482",
@@ -111936,7 +111941,11 @@
         ],
         "holders": {
             "ETH": 207
-        }
+        },
+        "emails": [
+            "smokedtokenburn@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc5fdf3569af74f3b3e97e46a187a626352d2d508",
