@@ -112120,13 +112120,19 @@
         ],
         "holders": {
             "ETH": 71
-        }
+        },
+        "web_domains": [
+            "waodao.ai"
+        ]
     },
     {
         "contract_address": "0x6f54712721cb6869d6ce5dfdde54db5f073c31e3",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 8
-        }
+        },
+        "web_domains": [
+            "bsc.bakeryswap.org"
+        ]
     }
 ]
