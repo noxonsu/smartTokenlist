@@ -111710,5 +111710,137 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x8e4d27d772099e18900caf5dcc36cb612dcee886",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2110
+        }
+    },
+    {
+        "contract_address": "0x7a69fd9edb368e0cf309a0281e976c9c6ebbfb14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0xea1a6307d9b18f8d1cbf1c3dd6aad8416c06a221",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5376
+        }
+    },
+    {
+        "contract_address": "0xe6f4a40156c9e8c7addda66848bbb99fdedecf84",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "detensor.io",
+            "docs.detensor.io"
+        ],
+        "telegram_groups": [
+            "DeTensor"
+        ],
+        "holders": {
+            "ETH": 550
+        }
+    },
+    {
+        "contract_address": "0x955528ac9cb9d02d24ee93d36ccb32ee60bb2f33",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0xcb19633b629c5b7e316096fa465b4f86250dbb55",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 340
+        }
+    },
+    {
+        "contract_address": "0xde91691dd943589ee1400322848c1a57d46ed0d0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 139
+        }
+    },
+    {
+        "contract_address": "0x8ad66f7e0e3e3dc331d3dbf2c662d7ae293c1fe0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 396
+        }
+    },
+    {
+        "contract_address": "0xb1906265e475c11a669c62d03831484b2ffb99dc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 229
+        }
+    },
+    {
+        "contract_address": "0x5fe2b8f135cf0d53c28ba58f5e1a424a50c2996f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.tempusswapai.com",
+            "app.tempusswapai.com"
+        ],
+        "telegram_groups": [
+            "TempusSwapAI"
+        ],
+        "holders": {
+            "ETH": 64
+        }
+    },
+    {
+        "contract_address": "0x599955aa9fbc197a1b717d8da6a7012cafe70ab3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.bookofpepe.vip"
+        ],
+        "telegram_groups": [
+            "BookofPepeETH"
+        ],
+        "holders": {
+            "ETH": 638
+        }
+    },
+    {
+        "contract_address": "0x1de868d97f63d80d0faec76298a1d9dab56ba068",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nypost.com"
+        ],
+        "telegram_groups": [
+            "nolandarbaugh"
+        ],
+        "holders": {
+            "ETH": 399
+        }
+    },
+    {
+        "contract_address": "0x486d95c40feba650c38e98cd9d7979d9cd88cea0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "0xgpu.ai",
+            "docs.0xgpu.ai",
+            "cloud.0xgpu.ai"
+        ],
+        "telegram_groups": [
+            "zeroxgpu"
+        ],
+        "holders": {
+            "ETH": 486
+        }
+    },
+    {
+        "contract_address": "0x2ee543b8866f46cc3dc93224c6742a8911a59750",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4219
+        }
     }
 ]
