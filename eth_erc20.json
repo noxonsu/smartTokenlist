@@ -112062,5 +112062,71 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x72b68e8dfea325a9927b6d32f37975391baf6dae",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "xminerofficial.co",
+            "whitepaper.xminerofficial.co"
+        ],
+        "telegram_groups": [
+            "XminerOfficialBot",
+            "XMiner_Portal"
+        ],
+        "holders": {
+            "ETH": 236
+        }
+    },
+    {
+        "contract_address": "0xb7135877cd5d40aa3b086ac6f21c51bbafbbb41f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1083
+        }
+    },
+    {
+        "contract_address": "0xb549116ac57b47c1b365a890e1d04fd547dfff97",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "MindAIProject.com"
+        ],
+        "telegram_groups": [
+            "MindAIProject"
+        ],
+        "holders": {
+            "ETH": 2100
+        }
+    },
+    {
+        "contract_address": "0xa16a609ff4e1a15b6ccb469e7a5dd14e89305283",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1665
+        }
+    },
+    {
+        "contract_address": "0xc5ba042bf8832999b17c9036e8212f49dce0501a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1926
+        }
+    },
+    {
+        "contract_address": "0xc3ad687c8ecb352d56393c77d19018b93a6ad21a",
+        "sourceScanned": "processed",
+        "emails": [
+            "token@waodao.ai"
+        ],
+        "holders": {
+            "ETH": 71
+        }
+    },
+    {
+        "contract_address": "0x6f54712721cb6869d6ce5dfdde54db5f073c31e3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8
+        }
     }
 ]
