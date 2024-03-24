@@ -111666,7 +111666,10 @@
         ],
         "holders": {
             "ETH": 56
-        }
+        },
+        "web_domains": [
+            "cometinu.com"
+        ]
     },
     {
         "contract_address": "0x47abbb2319ef6f71661ff5914ae672bfeab477c3",
@@ -111693,6 +111696,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 101
-        }
+        },
+        "web_domains": [
+            "secondesecon.com"
+        ]
     }
 ]
