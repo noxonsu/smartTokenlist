@@ -112071,12 +112071,13 @@
             "whitepaper.xminerofficial.co"
         ],
         "telegram_groups": [
-            "XminerOfficialBot",
-            "XMiner_Portal"
+            "XMiner_Portal",
+            "XminerOfficialBot"
         ],
         "holders": {
             "ETH": 236
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb7135877cd5d40aa3b086ac6f21c51bbafbbb41f",
@@ -112123,7 +112124,11 @@
         },
         "web_domains": [
             "waodao.ai"
-        ]
+        ],
+        "telegram_groups": [
+            "waodao_ai"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6f54712721cb6869d6ce5dfdde54db5f073c31e3",
@@ -112133,6 +112138,10 @@
         },
         "web_domains": [
             "bsc.bakeryswap.org"
-        ]
+        ],
+        "telegram_groups": [
+            "bakeryswap"
+        ],
+        "p6": true
     }
 ]
