@@ -112233,7 +112233,8 @@
         "holders": {
             "ETH": 182
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x772c44b5166647b135bb4836abc4e06c28e94978",
@@ -112258,7 +112259,8 @@
         "emails": [
             " marketing@scaleswap.io"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xdcdda1295cd2030aa7d975046ce2a32d2a565f45",
@@ -112293,7 +112295,8 @@
         "holders": {
             "ETH": 3
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x680c89c40de9d14aa608a1122363cad18783f837",
@@ -112321,7 +112324,8 @@
         "holders": {
             "ETH": 154
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xfc70cbb442d5c115ee1497d22b421b1f9bd9f3da",
@@ -112335,6 +112339,7 @@
         "holders": {
             "ETH": 321
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
