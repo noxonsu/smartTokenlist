@@ -111415,7 +111415,8 @@
         "emails": [
             "Copyright \u00a9 2024 Pipe Finance | contact@pipeprotocol.cash"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xd33ca6fd43da7dfbcccd819afd625713eabe71e7",
@@ -111431,7 +111432,8 @@
         "holders": {
             "ETH": 109
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x899d774e0f8e14810d628db63e65dfacea682343",
@@ -111468,7 +111470,8 @@
         "holders": {
             "ETH": 62
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x9cc32f63850a3d9a64d613a4fa7b1c7d8993c054",
@@ -111511,7 +111514,8 @@
             "LeverageToken_Entry",
             "XtrackERC"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x3e5a5ff25fdf7e490ad6aff6624ce5a671ebcdf2",
@@ -111533,7 +111537,8 @@
         "holders": {
             "ETH": 187
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xd1e64bcc904cfdc19d0faba155a9edc69b4bcdae",
@@ -111558,7 +111563,8 @@
         "emails": [
             "HashRentOfficial@Hash-Rent.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x142f4330ab3eda738cb373791c2e99cc325bed20",
@@ -111585,7 +111591,8 @@
             "LeverageToken_Entry",
             "XtrackERC"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x32b053f2cba79f80ada5078cb6b305da92bde6e1",
@@ -111635,7 +111642,8 @@
         "telegram_groups": [
             "unibitprotocol"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x00b78238925c320159023c2ac9ef89da8f16d007",
