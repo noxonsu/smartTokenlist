@@ -112005,7 +112005,9 @@
         },
         "web_domains": [
             "chinai.substack.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x5ea49ff332b7ad99c486347c1c2bcc73d1e22b9b",
@@ -112032,7 +112034,8 @@
         ],
         "holders": {
             "ETH": 56
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x570febdf89c07f256c75686caca215289bb11cfc",
@@ -112054,6 +112057,7 @@
         ],
         "holders": {
             "ETH": 117
-        }
+        },
+        "p6": true
     }
 ]
