@@ -112220,5 +112220,106 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xcd77ae92a085eb2a7d84a03682a53296ba6439a6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dynexgpu-technology.gitbook.io"
+        ],
+        "telegram_groups": [
+            "Dynex_Portal"
+        ],
+        "holders": {
+            "ETH": 182
+        }
+    },
+    {
+        "contract_address": "0x772c44b5166647b135bb4836abc4e06c28e94978",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1331
+        }
+    },
+    {
+        "contract_address": "0x1fbd3df007eb8a7477a1eab2c63483dcc24effd6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 297
+        }
+    },
+    {
+        "contract_address": "0xdcdda1295cd2030aa7d975046ce2a32d2a565f45",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x2b74aaf8ce9b54c560568a9b079a95665563c2d4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x4d243e8f511045f0d5f9d0288bc628737b10c079",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1595
+        }
+    },
+    {
+        "contract_address": "0xad3ccdcf44eb4d2b251e2f69ca555c338872a32c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dream.ai"
+        ],
+        "telegram_groups": [
+            "DreamAIeth"
+        ],
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x680c89c40de9d14aa608a1122363cad18783f837",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "epicbots.io"
+        ],
+        "telegram_groups": [
+            "EpicBotsPortal"
+        ],
+        "holders": {
+            "ETH": 500
+        }
+    },
+    {
+        "contract_address": "0xa620621b315d3445c88dd2d8f5e8d0ca6b9bd0f3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wideputineth.com"
+        ],
+        "telegram_groups": [
+            "wideputinETH",
+            "FairLaunchDev"
+        ],
+        "holders": {
+            "ETH": 154
+        }
+    },
+    {
+        "contract_address": "0xfc70cbb442d5c115ee1497d22b421b1f9bd9f3da",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.decentralbros.xyz"
+        ],
+        "telegram_groups": [
+            "biblicaltruthtoken"
+        ],
+        "holders": {
+            "ETH": 321
+        }
     }
 ]
