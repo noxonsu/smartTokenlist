@@ -111866,5 +111866,114 @@
         "holders": {
             "ETH": 4219
         }
+    },
+    {
+        "contract_address": "0x46e743046dccf9ab65b8454cdf879187aab5dd49",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "braavos.app",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "mybraavos"
+        ],
+        "holders": {
+            "ETH": 44
+        }
+    },
+    {
+        "contract_address": "0xa97f2d053e40366b3898acbf976c8224ad5c1b77",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bracenetwork.io",
+            "bracenetwork.medium.com",
+            "docsend.com",
+            "bracescan.io",
+            "faucet.bracenetwork.io"
+        ],
+        "telegram_groups": [
+            "bracenetworkl1"
+        ],
+        "holders": {
+            "ETH": 72
+        }
+    },
+    {
+        "contract_address": "0x6bd91799f767b30b1f7aeb1239b3573b2e366b49",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.bloodloop.com",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "joinbloodloop"
+        ],
+        "holders": {
+            "ETH": 29
+        }
+    },
+    {
+        "contract_address": "0x594ec1032a4760edb636308fd33c2c403f9f782e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "z1labs.ai"
+        ],
+        "telegram_groups": [
+            "zero1labs"
+        ],
+        "holders": {
+            "ETH": 65
+        }
+    },
+    {
+        "contract_address": "0x97225fae89b370e7721f961d1145e64df56f2482",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "SmokedTokenBurn.com"
+        ],
+        "telegram_groups": [
+            "SmokedTokenBurn"
+        ],
+        "holders": {
+            "ETH": 207
+        }
+    },
+    {
+        "contract_address": "0xc5fdf3569af74f3b3e97e46a187a626352d2d508",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "linktr.ee",
+            "wearezinu.com",
+            "discord.com",
+            "opensea.io",
+            "app.pitch.com"
+        ],
+        "telegram_groups": [
+            "zombieinuofficial"
+        ],
+        "holders": {
+            "ETH": 2202
+        }
+    },
+    {
+        "contract_address": "0xe5ea0e1114ca43d919630ab2026b392d35a0ac2f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0xc58aa33ce619c7f7ac4929df357d0ef762edbd23",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 78
+        }
+    },
+    {
+        "contract_address": "0x391b570e81e354a85a496952b66adc831715f54f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 859
+        }
     }
 ]
