@@ -112246,7 +112246,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 297
-        }
+        },
+        "web_domains": [
+            "scaleswap.io"
+        ]
     },
     {
         "contract_address": "0xdcdda1295cd2030aa7d975046ce2a32d2a565f45",
