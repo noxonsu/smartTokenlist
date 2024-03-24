@@ -112077,7 +112077,8 @@
         "holders": {
             "ETH": 236
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xb7135877cd5d40aa3b086ac6f21c51bbafbbb41f",
@@ -112128,7 +112129,8 @@
         "telegram_groups": [
             "waodao_ai"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x6f54712721cb6869d6ce5dfdde54db5f073c31e3",
@@ -112142,6 +112144,7 @@
         "telegram_groups": [
             "bakeryswap"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
