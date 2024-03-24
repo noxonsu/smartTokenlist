@@ -111989,5 +111989,68 @@
         "holders": {
             "ETH": 859
         }
+    },
+    {
+        "contract_address": "0x87b214dafb80e835eee6fb50471495083460a1c4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 501
+        }
+    },
+    {
+        "contract_address": "0x0e543b40b515eac789268a2e44839d49e70a4419",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0x5ea49ff332b7ad99c486347c1c2bcc73d1e22b9b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.generatesynth.ai"
+        ],
+        "telegram_groups": [
+            "SyntheticAIPortal"
+        ],
+        "holders": {
+            "ETH": 676
+        }
+    },
+    {
+        "contract_address": "0x24025cd6b05cb700fb3c58ee09f90704410862e0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.pixeon.org",
+            "app.pixeon.org"
+        ],
+        "telegram_groups": [
+            "pixeon_erc"
+        ],
+        "holders": {
+            "ETH": 56
+        }
+    },
+    {
+        "contract_address": "0x570febdf89c07f256c75686caca215289bb11cfc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 165
+        }
+    },
+    {
+        "contract_address": "0x0d14fdb53bec893bf8202f78dd821326e864dab3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.canaryai.tech",
+            "app.canaryai.tech",
+            "canaryai.medium.com"
+        ],
+        "telegram_groups": [
+            "canary_ai"
+        ],
+        "holders": {
+            "ETH": 117
+        }
     }
 ]
