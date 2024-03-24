@@ -112146,5 +112146,73 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x9c2b4b0da5ebd20c29ef20758064554a55a88b68",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 467
+        }
+    },
+    {
+        "contract_address": "0x3032eb3c8052288ea562b76e7ac0086198376038",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "magicprotocol.co"
+        ],
+        "telegram_groups": [
+            "MagicProtocolOfficialPortal"
+        ],
+        "holders": {
+            "ETH": 99
+        }
+    },
+    {
+        "contract_address": "0xd1679946ba555ebf5cb38e8b089ef1e1e5d2abb1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 455
+        }
+    },
+    {
+        "contract_address": "0xbb63e6be33bc5b5386d7ab0529dc6c400f2ac2ec",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "cuckadoodledooeth"
+        ],
+        "holders": {
+            "ETH": 260
+        }
+    },
+    {
+        "contract_address": "0x45ae1db6f4ce94a467eef35d728e96156508cb06",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.pyronai.com",
+            "stake.pyronai.com",
+            "docs.pyronai.com"
+        ],
+        "telegram_groups": [
+            "pyron_ai"
+        ],
+        "holders": {
+            "ETH": 77
+        }
+    },
+    {
+        "contract_address": "0x8e4cb01fcdeaa0627e6a869f056ebd3a744af980",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "decrypt.sbs",
+            "web.decrypt.sbs",
+            "docs.decrypt.sbs"
+        ],
+        "telegram_groups": [
+            "DecryptErc",
+            "DecryptErcBot"
+        ],
+        "holders": {
+            "ETH": 240
+        }
     }
 ]
