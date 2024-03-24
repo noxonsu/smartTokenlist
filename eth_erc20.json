@@ -111657,5 +111657,42 @@
         "holders": {
             "ETH": 786
         }
+    },
+    {
+        "contract_address": "0x4d066cf71a2c03f464de2d47cdc1ad00dc07f625",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "CometInuETH"
+        ],
+        "holders": {
+            "ETH": 56
+        }
+    },
+    {
+        "contract_address": "0x47abbb2319ef6f71661ff5914ae672bfeab477c3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "snoopyeth.com"
+        ],
+        "telegram_groups": [
+            "SnoopyEth"
+        ],
+        "holders": {
+            "ETH": 120
+        }
+    },
+    {
+        "contract_address": "0x6f3cbe18e9381dec6026e6cb8166c13944fcfee1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 927
+        }
+    },
+    {
+        "contract_address": "0x6bc64d91549aea1ce5f2ff4567e4af78c331c073",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 101
+        }
     }
 ]
