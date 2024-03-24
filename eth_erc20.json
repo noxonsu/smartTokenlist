@@ -111670,7 +111670,8 @@
         "web_domains": [
             "cometinu.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x47abbb2319ef6f71661ff5914ae672bfeab477c3",
@@ -111684,7 +111685,8 @@
         "holders": {
             "ETH": 120
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x6f3cbe18e9381dec6026e6cb8166c13944fcfee1",
@@ -111706,6 +111708,7 @@
         "emails": [
             " cre.ma / \ub85c\uadf8\uc778 \ud68c\uc6d0 \uc815\ubcf4 / \uc2a4\ud06c\ub9bd\ud2b8\ub97c \uc218\uc815\ud560 \uacbd\uc6b0 \uc5f0\ub77d\uc8fc\uc138\uc694 (support@cre.ma) "
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
