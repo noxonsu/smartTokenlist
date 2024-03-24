@@ -111726,7 +111726,9 @@
         },
         "web_domains": [
             "usemassive.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xea1a6307d9b18f8d1cbf1c3dd6aad8416c06a221",
@@ -111757,7 +111759,9 @@
         },
         "web_domains": [
             "bigpump.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xcb19633b629c5b7e316096fa465b4f86250dbb55",
@@ -111788,7 +111792,9 @@
         },
         "web_domains": [
             "staxum.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x5fe2b8f135cf0d53c28ba58f5e1a424a50c2996f",
@@ -111802,7 +111808,8 @@
         ],
         "holders": {
             "ETH": 64
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x599955aa9fbc197a1b717d8da6a7012cafe70ab3",
@@ -111828,7 +111835,8 @@
         ],
         "holders": {
             "ETH": 399
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x486d95c40feba650c38e98cd9d7979d9cd88cea0",
@@ -111843,7 +111851,8 @@
         ],
         "holders": {
             "ETH": 486
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2ee543b8866f46cc3dc93224c6742a8911a59750",
