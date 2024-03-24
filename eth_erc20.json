@@ -111723,7 +111723,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 6
-        }
+        },
+        "web_domains": [
+            "usemassive.com"
+        ]
     },
     {
         "contract_address": "0xea1a6307d9b18f8d1cbf1c3dd6aad8416c06a221",
@@ -111751,7 +111754,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 32
-        }
+        },
+        "web_domains": [
+            "bigpump.org"
+        ]
     },
     {
         "contract_address": "0xcb19633b629c5b7e316096fa465b4f86250dbb55",
@@ -111779,7 +111785,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 229
-        }
+        },
+        "web_domains": [
+            "staxum.com"
+        ]
     },
     {
         "contract_address": "0x5fe2b8f135cf0d53c28ba58f5e1a424a50c2996f",
