@@ -112341,5 +112341,95 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x243c98937812391f3017be4e94292ff09da79433",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "gestranetwork.com"
+        ],
+        "holders": {
+            "ETH": 86
+        }
+    },
+    {
+        "contract_address": "0x9bb04d677e8ba99ca4b30c943409fbeabe171e24",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x966069d968cf5881cdb63ab5dea24dc372f0bc20",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.apache.org",
+            "www.apache.org"
+        ],
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x57b67e4de077085fd0af2174e9c14871be664546",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 161
+        }
+    },
+    {
+        "contract_address": "0x506dfa1c6015eacf4e5306da011f3da57796b366",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.theaialpha.com"
+        ],
+        "telegram_groups": [
+            "AlphaAi_Entry"
+        ],
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0x14f8a7077ec8fa79b292db3f6bd1467bedeaf4bf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 106
+        }
+    },
+    {
+        "contract_address": "0x53ef84827e905cd6d88fa6a333efb13f32a251a4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0x20be82943e8d9c682580e11d424ec15db95b4a24",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 628
+        }
+    },
+    {
+        "contract_address": "0xe49f085dc921c5fdf77ebca7e429d1feb017da8a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "greattrumproast.com",
+            "www.every.org"
+        ],
+        "telegram_groups": [
+            "GreatTrumpRoast"
+        ],
+        "holders": {
+            "ETH": 108
+        }
+    },
+    {
+        "contract_address": "0x291356fdd7af4cd08fa30e7b381029a5076c0232",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 81
+        }
     }
 ]
