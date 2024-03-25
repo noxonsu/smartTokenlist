@@ -112974,5 +112974,53 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xeb51b8dc2d43469c0f0b7365c8a18438907bdf21",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 182
+        }
+    },
+    {
+        "contract_address": "0xa2ca82b45a1a8c35066d15e1b82b1c35123c452b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 94
+        }
+    },
+    {
+        "contract_address": "0xa4ffdf3208f46898ce063e25c1c43056fa754739",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 382
+        }
+    },
+    {
+        "contract_address": "0x9511ff502f982643935a39206f98a6c18d4527cf",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blockdefendai.com",
+            "blockdefend.gitbook.io"
+        ],
+        "telegram_groups": [
+            "blockdefendai"
+        ],
+        "holders": {
+            "ETH": 911
+        }
+    },
+    {
+        "contract_address": "0x3067eac379424de51060efcba2799257bbd66956",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "boysclubandy.com"
+        ],
+        "telegram_groups": [
+            "OfficialAndyCommunity"
+        ],
+        "holders": {
+            "ETH": 1171
+        }
     }
 ]
