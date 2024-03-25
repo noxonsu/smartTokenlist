@@ -112467,5 +112467,33 @@
         "telegram_groups": [],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x0996328b0fd9ded5a64d2c04b4c117eb4ee78662",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 542
+        }
+    },
+    {
+        "contract_address": "0x1b81c4cca9a24d62ef3ed9d85ad3b60bd79d1b27",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x54c4d37ad550f9776ce2021df245d98b4bb5cb5e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x447238e9ef839653dc8cb3195ea8a2ac53c89760",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
     }
 ]
