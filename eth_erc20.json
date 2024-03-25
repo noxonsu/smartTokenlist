@@ -100778,7 +100778,9 @@
         ],
         "holders": {
             "ETH": 41576
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3400c133af79aaa8207d0351355df70e1117b042",
@@ -112350,7 +112352,11 @@
         ],
         "holders": {
             "ETH": 86
-        }
+        },
+        "telegram_groups": [
+            "gestranetwork"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9bb04d677e8ba99ca4b30c943409fbeabe171e24",
@@ -112368,7 +112374,9 @@
         ],
         "holders": {
             "ETH": 1
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x57b67e4de077085fd0af2174e9c14871be664546",
@@ -112388,7 +112396,8 @@
         ],
         "holders": {
             "ETH": 15
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x14f8a7077ec8fa79b292db3f6bd1467bedeaf4bf",
@@ -112398,7 +112407,9 @@
         },
         "web_domains": [
             "nimblenetworksolutions.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x53ef84827e905cd6d88fa6a333efb13f32a251a4",
@@ -112408,7 +112419,9 @@
         },
         "web_domains": [
             "state-nwo.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x20be82943e8d9c682580e11d424ec15db95b4a24",
@@ -112429,7 +112442,11 @@
         ],
         "holders": {
             "ETH": 108
-        }
+        },
+        "emails": [
+            "contact@GreatTrumpRoast.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x291356fdd7af4cd08fa30e7b381029a5076c0232",
