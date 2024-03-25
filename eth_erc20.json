@@ -112900,7 +112900,9 @@
         },
         "web_domains": [
             "landx.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xbb63a9b64a80e9338b8ea298c51765e57c4f159c",
@@ -112910,7 +112912,11 @@
         },
         "web_domains": [
             "picasso.xyz"
-        ]
+        ],
+        "telegram_groups": [
+            "composable_chat"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x022398b16c9592b86877adae1ac791bf562f1dfd",
@@ -112924,7 +112930,11 @@
         ],
         "holders": {
             "ETH": 181
-        }
+        },
+        "emails": [
+            "\nsupport@dogey.xyz"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4e9e4ab99cfc14b852f552f5fb3aa68617825b6c",
@@ -112934,7 +112944,14 @@
         },
         "web_domains": [
             "solarcoin.org"
-        ]
+        ],
+        "telegram_groups": [
+            "SolarCoinERC20"
+        ],
+        "emails": [
+            "support@solarcoin.org"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x35b6981eadffef9e858f6f5e54539adaa494bba4",
@@ -112947,6 +112964,10 @@
         ],
         "holders": {
             "ETH": 188
-        }
+        },
+        "emails": [
+            "biao@biaoqingtoken.com"
+        ],
+        "p6": true
     }
 ]
