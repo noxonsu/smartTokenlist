@@ -112897,14 +112897,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 260
-        }
+        },
+        "web_domains": [
+            "landx.finance"
+        ]
     },
     {
         "contract_address": "0xbb63a9b64a80e9338b8ea298c51765e57c4f159c",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 35
-        }
+        },
+        "web_domains": [
+            "picasso.xyz"
+        ]
     },
     {
         "contract_address": "0x022398b16c9592b86877adae1ac791bf562f1dfd",
@@ -112925,7 +112931,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 110
-        }
+        },
+        "web_domains": [
+            "solarcoin.org"
+        ]
     },
     {
         "contract_address": "0x35b6981eadffef9e858f6f5e54539adaa494bba4",
