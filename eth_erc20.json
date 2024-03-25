@@ -112891,5 +112891,53 @@
         "holders": {
             "ETH": 6
         }
+    },
+    {
+        "contract_address": "0xffe9664fb1ffa7325ad7ce389e0a8d1eff471266",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 260
+        }
+    },
+    {
+        "contract_address": "0xbb63a9b64a80e9338b8ea298c51765e57c4f159c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 35
+        }
+    },
+    {
+        "contract_address": "0x022398b16c9592b86877adae1ac791bf562f1dfd",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.dogey.xyz",
+            "www.x.com"
+        ],
+        "telegram_groups": [
+            "dogey_portal"
+        ],
+        "holders": {
+            "ETH": 181
+        }
+    },
+    {
+        "contract_address": "0x4e9e4ab99cfc14b852f552f5fb3aa68617825b6c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 110
+        }
+    },
+    {
+        "contract_address": "0x35b6981eadffef9e858f6f5e54539adaa494bba4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "biaoqingtoken.com"
+        ],
+        "telegram_groups": [
+            "BiaoQingOnETH"
+        ],
+        "holders": {
+            "ETH": 188
+        }
     }
 ]
