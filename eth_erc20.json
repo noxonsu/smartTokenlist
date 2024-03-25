@@ -112796,7 +112796,14 @@
         },
         "web_domains": [
             "beepbeepcasino.com"
-        ]
+        ],
+        "telegram_groups": [
+            "beepbeepcasino"
+        ],
+        "emails": [
+            "support@beepbeepcasino.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1f7505f486c22f4338ac2bde67a3e93a547644b9",
@@ -112820,7 +112827,8 @@
         ],
         "holders": {
             "ETH": 293
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x25dfd4e94c44a0532aadc054109503bba286eb7c",
@@ -112833,7 +112841,8 @@
         ],
         "holders": {
             "ETH": 96
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6d737b78c3b287e8589d964ab51492957f6f30d3",
@@ -112843,12 +112852,13 @@
             "docs.visionizeai.org"
         ],
         "telegram_groups": [
-            "Visionize_Ai",
-            "VisionizeAIBot"
+            "VisionizeAIBot",
+            "Visionize_Ai"
         ],
         "holders": {
             "ETH": 200
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf33d49de7f89764fc8e5ba812035382cfef47e41",
