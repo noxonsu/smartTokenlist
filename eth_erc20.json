@@ -112667,7 +112667,8 @@
         "emails": [
             "neurosyncaierc@gmail.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xae6b8dcb3e81e9fcb9b0d8af82b686324fb2c64f",
@@ -112682,7 +112683,8 @@
         "holders": {
             "ETH": 144
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x4d8fc1453a0f359e99c9675954e656d80d996fbf",
@@ -112705,7 +112707,8 @@
         "holders": {
             "ETH": 60
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x9f93f419d0267877247a39b4eb6b2775abac6bdc",
@@ -112738,7 +112741,8 @@
         "emails": [
             "admin@eosphorusai.xyz"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x51ffc1f5b57b2ee54727f99c818ef7339318be05",
@@ -112754,7 +112758,8 @@
         "holders": {
             "ETH": 70
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xce872db165d4f5623af9c29e03afd416bc5f67bc",
@@ -112766,7 +112771,8 @@
             "mmfinance.io"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x49f941fa7f5731fe302068d79c8604c24c5e7196",
@@ -112779,6 +112785,7 @@
             "ETH": 236
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
