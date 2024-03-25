@@ -45549,8 +45549,8 @@
             "xtrackerc.com"
         ],
         "telegram_groups": [
-            "JesterBotEth",
             "XtrackERC",
+            "JesterBotEth",
             "CybertruckETH"
         ],
         "holders": {
@@ -61040,8 +61040,8 @@
             "ETH": 343
         },
         "telegram_groups": [
-            "JesterBotEth",
             "XtrackERC",
+            "JesterBotEth",
             "CybertruckETH"
         ],
         "p6": true,
@@ -71069,9 +71069,9 @@
             "www.reddit.com"
         ],
         "telegram_groups": [
-            "JesterBotEth",
             "LeverageToken_Entry",
             "XtrackERC",
+            "JesterBotEth",
             "CybertruckETH"
         ],
         "holders": {
@@ -71196,11 +71196,11 @@
             "linktr.ee"
         ],
         "telegram_groups": [
-            "aitechnologyportal",
-            "CybertruckETH",
-            "JesterBotEth",
             "LeverageToken_Entry",
-            "XtrackERC"
+            "XtrackERC",
+            "CybertruckETH",
+            "aitechnologyportal",
+            "JesterBotEth"
         ],
         "holders": {
             "ETH": 284
@@ -98024,11 +98024,11 @@
             "ETH": 183
         },
         "telegram_groups": [
-            "aitechnologyportal",
-            "CybertruckETH",
-            "JesterBotEth",
             "LeverageToken_Entry",
-            "XtrackERC"
+            "XtrackERC",
+            "CybertruckETH",
+            "aitechnologyportal",
+            "JesterBotEth"
         ],
         "p6": true,
         "p8": true
@@ -101631,11 +101631,11 @@
             "ETH": 458
         },
         "telegram_groups": [
-            "aitechnologyportal",
-            "CybertruckETH",
-            "JesterBotEth",
             "LeverageToken_Entry",
-            "XtrackERC"
+            "XtrackERC",
+            "CybertruckETH",
+            "aitechnologyportal",
+            "JesterBotEth"
         ],
         "p6": true,
         "p8": true
@@ -104591,12 +104591,12 @@
             "www.chain-swap.org"
         ],
         "telegram_groups": [
-            "aitechnologyportal",
-            "ChainSwapPortal",
-            "CybertruckETH",
-            "JesterBotEth",
             "LeverageToken_Entry",
-            "XtrackERC"
+            "XtrackERC",
+            "CybertruckETH",
+            "ChainSwapPortal",
+            "aitechnologyportal",
+            "JesterBotEth"
         ],
         "holders": {
             "ETH": 401
@@ -111510,12 +111510,12 @@
             "ETH": 241
         },
         "telegram_groups": [
-            "aitechnologyportal",
-            "ChainSwapPortal",
-            "CybertruckETH",
-            "JesterBotEth",
             "LeverageToken_Entry",
-            "XtrackERC"
+            "XtrackERC",
+            "CybertruckETH",
+            "ChainSwapPortal",
+            "aitechnologyportal",
+            "JesterBotEth"
         ],
         "p6": true,
         "p8": true
@@ -111529,13 +111529,13 @@
             "docs.msueai.com"
         ],
         "telegram_groups": [
-            "aitechnologyportal",
-            "muse_ai",
-            "CybertruckETH",
-            "JesterBotEth",
-            "ChainSwapPortal",
             "LeverageToken_Entry",
-            "XtrackERC"
+            "XtrackERC",
+            "CybertruckETH",
+            "muse_ai",
+            "aitechnologyportal",
+            "ChainSwapPortal",
+            "JesterBotEth"
         ],
         "holders": {
             "ETH": 187
@@ -111586,13 +111586,13 @@
             "ETH": 5042
         },
         "telegram_groups": [
-            "aitechnologyportal",
-            "muse_ai",
-            "CybertruckETH",
-            "JesterBotEth",
-            "ChainSwapPortal",
             "LeverageToken_Entry",
-            "XtrackERC"
+            "XtrackERC",
+            "CybertruckETH",
+            "muse_ai",
+            "aitechnologyportal",
+            "ChainSwapPortal",
+            "JesterBotEth"
         ],
         "p6": true,
         "p8": true
@@ -111966,11 +111966,19 @@
             "app.pitch.com"
         ],
         "telegram_groups": [
-            "zombieinuofficial"
+            "XtrackERC",
+            "CybertruckETH",
+            "muse_ai",
+            "aitechnologyportal",
+            "zombieinuofficial",
+            "JesterBotEth",
+            "LeverageToken_Entry",
+            "ChainSwapPortal"
         ],
         "holders": {
             "ETH": 2202
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe5ea0e1114ca43d919630ab2026b392d35a0ac2f",
@@ -112524,11 +112532,20 @@
             "linktr.ee"
         ],
         "telegram_groups": [
-            "safe_labs"
+            "safe_labs",
+            "XtrackERC",
+            "CybertruckETH",
+            "muse_ai",
+            "aitechnologyportal",
+            "zombieinuofficial",
+            "JesterBotEth",
+            "LeverageToken_Entry",
+            "ChainSwapPortal"
         ],
         "holders": {
             "ETH": 4
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x246192c308104a5500de5ce4910d8b9af77c687a",
@@ -112548,7 +112565,8 @@
         ],
         "holders": {
             "ETH": 206
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x93ce0b6be799cf3944f72b1300bbab48f7770e77",
@@ -112572,6 +112590,8 @@
         },
         "web_domains": [
             "ethshapella.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
