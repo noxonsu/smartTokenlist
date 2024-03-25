@@ -112395,14 +112395,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 106
-        }
+        },
+        "web_domains": [
+            "nimblenetworksolutions.com"
+        ]
     },
     {
         "contract_address": "0x53ef84827e905cd6d88fa6a333efb13f32a251a4",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 11
-        }
+        },
+        "web_domains": [
+            "state-nwo.com"
+        ]
     },
     {
         "contract_address": "0x20be82943e8d9c682580e11d424ec15db95b4a24",
@@ -112430,6 +112436,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 81
-        }
+        },
+        "web_domains": [
+            "bettercoin.us"
+        ]
     }
 ]
