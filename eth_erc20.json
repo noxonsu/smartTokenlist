@@ -112793,7 +112793,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 48
-        }
+        },
+        "web_domains": [
+            "beepbeepcasino.com"
+        ]
     },
     {
         "contract_address": "0x1f7505f486c22f4338ac2bde67a3e93a547644b9",
