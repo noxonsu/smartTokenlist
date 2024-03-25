@@ -111978,7 +111978,8 @@
         "holders": {
             "ETH": 2202
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xe5ea0e1114ca43d919630ab2026b392d35a0ac2f",
@@ -112545,7 +112546,8 @@
         "holders": {
             "ETH": 4
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x246192c308104a5500de5ce4910d8b9af77c687a",
@@ -112566,7 +112568,8 @@
         "holders": {
             "ETH": 206
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x93ce0b6be799cf3944f72b1300bbab48f7770e77",
@@ -112592,6 +112595,7 @@
             "ethshapella.com"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
