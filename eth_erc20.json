@@ -112633,7 +112633,8 @@
         "emails": [
             "hello@bigarcade.org"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xbdcd291c32e06bbf2d7b1ffc823959e3258e3583",
@@ -112647,6 +112648,7 @@
         "holders": {
             "ETH": 392
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
