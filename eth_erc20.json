@@ -112787,5 +112787,92 @@
         "telegram_groups": [],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xcd8c163cc0ec3a53ce6bec89e665fb97cce51c42",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 48
+        }
+    },
+    {
+        "contract_address": "0x1f7505f486c22f4338ac2bde67a3e93a547644b9",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "cia_entry"
+        ],
+        "holders": {
+            "ETH": 1145
+        }
+    },
+    {
+        "contract_address": "0x70715e133f3b98af9dcb4897657cd4608d395d49",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "neuralbyte.gitbook.io",
+            "neuralbyte.net"
+        ],
+        "telegram_groups": [
+            "neuralbyteERC"
+        ],
+        "holders": {
+            "ETH": 293
+        }
+    },
+    {
+        "contract_address": "0x25dfd4e94c44a0532aadc054109503bba286eb7c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "albitx.io"
+        ],
+        "telegram_groups": [
+            "Albitxai"
+        ],
+        "holders": {
+            "ETH": 96
+        }
+    },
+    {
+        "contract_address": "0x6d737b78c3b287e8589d964ab51492957f6f30d3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "visionizeai.org",
+            "docs.visionizeai.org"
+        ],
+        "telegram_groups": [
+            "Visionize_Ai",
+            "VisionizeAIBot"
+        ],
+        "holders": {
+            "ETH": 200
+        }
+    },
+    {
+        "contract_address": "0xf33d49de7f89764fc8e5ba812035382cfef47e41",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 300
+        }
+    },
+    {
+        "contract_address": "0x78afd5c961b94c27d8a384bd5674b62f2a506524",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x3fa5db0910afc2a1e6de45039ea217410fb8641d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 17
+        }
+    },
+    {
+        "contract_address": "0x54a4c51bba1679d3ede15aae8d539c9ec1579e4e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
     }
 ]
