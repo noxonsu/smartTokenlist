@@ -112597,5 +112597,50 @@
         "telegram_groups": [],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x52be2f2e4000719ed851610213974deb1c74914f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 458
+        }
+    },
+    {
+        "contract_address": "0x8b9b95292f890df47fff5ac9cbe93d5fc242bd51",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2832
+        }
+    },
+    {
+        "contract_address": "0xea077b10a0ed33e4f68edb2655c18fda38f84712",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 40
+        }
+    },
+    {
+        "contract_address": "0x9ed015445e359b0dca0a93e34af01d9dc90d3b26",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bigarcade.org",
+            "discord.com"
+        ],
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0xbdcd291c32e06bbf2d7b1ffc823959e3258e3583",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wasdstudios.games"
+        ],
+        "telegram_groups": [
+            "wasdstudios"
+        ],
+        "holders": {
+            "ETH": 392
+        }
     }
 ]
