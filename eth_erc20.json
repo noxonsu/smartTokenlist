@@ -112495,5 +112495,80 @@
         "holders": {
             "ETH": 0
         }
+    },
+    {
+        "contract_address": "0x1d313b4d29b0e6f1a9bdfcd289b41419d14541a2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0xbb4873279a4d5cf86fe3826331097bc06338f6d4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x94c4bfdd351a2eea9d57e602c2a24d6fe823fd1a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x66ff0e37152877b22b2ba47b0440c8664fb5fc7e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "linktr.ee"
+        ],
+        "telegram_groups": [
+            "safe_labs"
+        ],
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x246192c308104a5500de5ce4910d8b9af77c687a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x91cdb18983e015a3b43f3ab8f668c384eea13066",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "miningunit.xyz"
+        ],
+        "telegram_groups": [
+            "MiningUnit"
+        ],
+        "holders": {
+            "ETH": 206
+        }
+    },
+    {
+        "contract_address": "0x93ce0b6be799cf3944f72b1300bbab48f7770e77",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x5d94e337914c2354db946c7cabc0bb359b6a3a23",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xfc6eca8abfbe2973a881a0fa8cee0584d21f963b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
     }
 ]
