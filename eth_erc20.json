@@ -113103,7 +113103,8 @@
         "web_domains": [
             "babyagi.org"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x389e055034e93e7232fb0bdcbd8497f323d316d1",
@@ -113117,7 +113118,8 @@
         "holders": {
             "ETH": 45
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x4d948c9da5f27f4a8570b1ae6b940175076ec453",
@@ -113133,7 +113135,8 @@
             "ATMA_PORTAL",
             "atma_portal"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x3bf954e809620bf2f1fcb667f1c7d2d2e94350d1",
@@ -113147,6 +113150,7 @@
         "telegram_groups": [
             "ryoshiverseofficial"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
