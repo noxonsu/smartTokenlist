@@ -113569,5 +113569,44 @@
         "telegram_groups": [],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x6ab98d9e04cfb57c6b6e9800a5a43a9946a6523d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "runodeai.medium.com",
+            "weibo.com",
+            "runode.ai"
+        ],
+        "telegram_groups": [
+            "RUNodE_ai"
+        ],
+        "holders": {
+            "ETH": 477
+        }
+    },
+    {
+        "contract_address": "0x696e108fd69ec5ea929b3586f001ddfea02b3008",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "chadg.pt"
+        ],
+        "holders": {
+            "ETH": 118
+        }
+    },
+    {
+        "contract_address": "0xe880b65f1b09561ae56add32686b25992fb31561",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xc5946f2a2b061f4ff8e49d63f0ea60d9fb4fc896",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 272
+        }
     }
 ]
