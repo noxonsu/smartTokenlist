@@ -113243,7 +113243,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 267
-        }
+        },
+        "web_domains": [
+            "slacker.sroa.com"
+        ]
     },
     {
         "contract_address": "0xd4b92b1700615afae333b9d16d28eb55e8e689b8",
@@ -113277,6 +113280,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "hayatx.com"
+        ]
     }
 ]
