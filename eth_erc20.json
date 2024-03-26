@@ -113042,7 +113042,8 @@
         "telegram_groups": [
             "fluence_project"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x6b509b823a41666f335d681dcc91b6185313eca9",
@@ -113057,7 +113058,8 @@
         "holders": {
             "ETH": 70
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xa47ec4e92a1a98c842fc455fdabde4adc0ce262d",
@@ -113072,7 +113074,8 @@
         "holders": {
             "ETH": 100
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x22b6c31c2beb8f2d0d5373146eed41ab9ede3caf",
