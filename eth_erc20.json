@@ -113427,5 +113427,68 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xe5ecb601e631dc74da26fa1e0e0ba1b99ed1a33c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 195
+        }
+    },
+    {
+        "contract_address": "0x95b4b8cad3567b5d7ef7399c2ae1d7070692ab0d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 126
+        }
+    },
+    {
+        "contract_address": "0xb937ba2e00b2a9bb0f068daa68d07414ba989562",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 45
+        }
+    },
+    {
+        "contract_address": "0x417bbd8fea5f2ba0c6b528e1e15f5b7995d34eba",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xbb3b12376a25932ba1781cf0c7820f3947226333",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x335d87736b4693e5ed3e5c4f6c737a5a87afa029",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 29
+        }
+    },
+    {
+        "contract_address": "0x85b8eb59362a71f1318fef3664a1f107d30a1ba7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 270
+        }
+    },
+    {
+        "contract_address": "0xfc2cb83ea9b5e1cc634069a368dc198e74588ad0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x8365332d4baf69bc24ca2401b90c3853ab9f818e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 173
+        }
     }
 ]
