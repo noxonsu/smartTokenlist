@@ -113701,7 +113701,8 @@
         "emails": [
             "team@groki.world"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x00237cf4ceb478eed216e00c2b85a5e40c9e4951",
@@ -113716,6 +113717,7 @@
         "holders": {
             "ETH": 117
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
