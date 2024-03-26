@@ -113022,5 +113022,61 @@
         "holders": {
             "ETH": 1171
         }
+    },
+    {
+        "contract_address": "0x7391a131ccb43a571a34e09f986080d117b4313c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 540
+        }
+    },
+    {
+        "contract_address": "0x236501327e701692a281934230af0b6be8df3353",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 124
+        }
+    },
+    {
+        "contract_address": "0x6b509b823a41666f335d681dcc91b6185313eca9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.navigatorai.capital",
+            "docs.navigatorai.capital"
+        ],
+        "telegram_groups": [
+            "navigatorai_portal"
+        ],
+        "holders": {
+            "ETH": 70
+        }
+    },
+    {
+        "contract_address": "0xa47ec4e92a1a98c842fc455fdabde4adc0ce262d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blackrockbuidl.tech",
+            "news.bitcoin.com"
+        ],
+        "telegram_groups": [
+            "BUIDLERC20"
+        ],
+        "holders": {
+            "ETH": 100
+        }
+    },
+    {
+        "contract_address": "0x22b6c31c2beb8f2d0d5373146eed41ab9ede3caf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1732
+        }
+    },
+    {
+        "contract_address": "0xddfd5e912c1949b4bdb12579002c44b7a83f9e88",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 180
+        }
     }
 ]
