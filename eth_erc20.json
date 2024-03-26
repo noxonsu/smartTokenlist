@@ -113742,7 +113742,9 @@
         },
         "web_domains": [
             "fufo.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf8e9f10c22840b613cda05a0c5fdb59a4d6cd7ef",
@@ -113759,7 +113761,9 @@
         ],
         "holders": {
             "ETH": 19
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xaa6c7d24d03769370e1c31f7c4edf3ebe10b7cf7",
@@ -113769,7 +113773,9 @@
         },
         "web_domains": [
             "1home.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf02c2dc9b3cb7f1ba21ccd82dff4ebc92da8996f",
@@ -113797,7 +113803,8 @@
         ],
         "holders": {
             "ETH": 39
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x40e64405f18e4fb01c6fc39f4f0c78df5ef9d0e0",
@@ -113807,7 +113814,12 @@
         },
         "web_domains": [
             "hub.cosmos.network"
-        ]
+        ],
+        "telegram_groups": [
+            "cosmosproject",
+            "hubgov"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4a615bb7166210cce20e6642a6f8fb5d4d044496",
@@ -113828,7 +113840,8 @@
         ],
         "holders": {
             "ETH": 85
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x92fdd2614c65c12eed35a2178478d8564886ea0c",
