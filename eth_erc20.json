@@ -113613,5 +113613,62 @@
         "holders": {
             "ETH": 272
         }
+    },
+    {
+        "contract_address": "0xd57187e56e5b31b4d7813d7ceea1e9f9b97ee82f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zkinfra.io",
+            "linktr.ee"
+        ],
+        "telegram_groups": [
+            "zkinfra_portal"
+        ],
+        "holders": {
+            "ETH": 322
+        }
+    },
+    {
+        "contract_address": "0xe6d306731da26713f4f9c6443a76010b9eebfb88",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1846
+        }
+    },
+    {
+        "contract_address": "0x68fd75cf5a91f49effad0e857ef2e97e5d1f35e7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 105
+        }
+    },
+    {
+        "contract_address": "0xaa55a111291697aa46076ea045ea55fcdad4298a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "widetrumpeth.com"
+        ],
+        "telegram_groups": [
+            "widetrumpeth"
+        ],
+        "holders": {
+            "ETH": 150
+        }
+    },
+    {
+        "contract_address": "0xc6221ac4e99066ea5443acd67d6108f874e2533d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dcicloud.ai",
+            "docs-gitbook.dcicloud.ai",
+            "dapp.dcicloud.ai"
+        ],
+        "telegram_groups": [
+            "DecentralizedCloud_bot",
+            "DCI_AI"
+        ],
+        "holders": {
+            "ETH": 576
+        }
     }
 ]
