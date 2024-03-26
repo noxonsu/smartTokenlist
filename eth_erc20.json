@@ -13102,17 +13102,18 @@
             "catcoin.io"
         ],
         "telegram_groups": [
-            "DannyBoy_Cat",
-            "TheCryptoBlast",
-            "solidproof",
-            "im_holding_4lyfe_DHN_CATS",
             "catcoin_bsc",
-            "acostiofficial",
+            "CertiKCommunity",
+            "im_holding_4lyfe_DHN_CATS",
             "Reallyethical",
-            "CertiKCommunity"
+            "solidproof",
+            "DannyBoy_Cat",
+            "acostiofficial",
+            "TheCryptoBlast"
         ],
         "emails": [
-            "team@catcoincrypto.me"
+            "team@catcoincrypto.me",
+            "team@catcoin.io"
         ],
         "p6": true,
         "myuser": 6119567381,
@@ -113246,7 +113247,9 @@
         },
         "web_domains": [
             "slacker.sroa.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd4b92b1700615afae333b9d16d28eb55e8e689b8",
@@ -113256,11 +113259,22 @@
             "docs.catcoin.io"
         ],
         "telegram_groups": [
-            "catcoin_bsc"
+            "catcoin_bsc",
+            "CertiKCommunity",
+            "im_holding_4lyfe_DHN_CATS",
+            "Reallyethical",
+            "solidproof",
+            "DannyBoy_Cat",
+            "acostiofficial",
+            "TheCryptoBlast"
         ],
         "holders": {
             "ETH": 175
-        }
+        },
+        "emails": [
+            "team@catcoin.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x446ccfedc23cbede2e28a267860f35caed59f206",
@@ -113273,7 +113287,8 @@
         ],
         "holders": {
             "ETH": 380
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x828e0edf347bd53e57d64426c67f291d8c553a70",
@@ -113283,6 +113298,11 @@
         },
         "web_domains": [
             "hayatx.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "info@hayatx.com"
+        ],
+        "p6": true
     }
 ]
