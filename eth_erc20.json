@@ -113739,7 +113739,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 24
-        }
+        },
+        "web_domains": [
+            "fufo.finance"
+        ]
     },
     {
         "contract_address": "0xf8e9f10c22840b613cda05a0c5fdb59a4d6cd7ef",
@@ -113763,7 +113766,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 75
-        }
+        },
+        "web_domains": [
+            "1home.io"
+        ]
     },
     {
         "contract_address": "0xf02c2dc9b3cb7f1ba21ccd82dff4ebc92da8996f",
@@ -113798,7 +113804,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 275
-        }
+        },
+        "web_domains": [
+            "hub.cosmos.network"
+        ]
     },
     {
         "contract_address": "0x4a615bb7166210cce20e6642a6f8fb5d4d044496",
