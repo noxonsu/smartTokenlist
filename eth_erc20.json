@@ -113090,5 +113090,46 @@
         "holders": {
             "ETH": 180
         }
+    },
+    {
+        "contract_address": "0xfe7a39f6b2ce748366796650842a9cad1a17fd4d",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "babyAGIerc"
+        ],
+        "holders": {
+            "ETH": 8
+        }
+    },
+    {
+        "contract_address": "0x389e055034e93e7232fb0bdcbd8497f323d316d1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "aidarwin.net"
+        ],
+        "telegram_groups": [
+            "darwinerc"
+        ],
+        "holders": {
+            "ETH": 45
+        }
+    },
+    {
+        "contract_address": "0x4d948c9da5f27f4a8570b1ae6b940175076ec453",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.atma.global",
+            "docs.atma.global"
+        ],
+        "holders": {
+            "ETH": 187
+        }
+    },
+    {
+        "contract_address": "0x3bf954e809620bf2f1fcb667f1c7d2d2e94350d1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 241
+        }
     }
 ]
