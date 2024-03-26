@@ -113511,5 +113511,58 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x7aa2f174fbc4d0a17b34adfb9b3e1dc029b46d76",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 579
+        }
+    },
+    {
+        "contract_address": "0x93c5a00b41fb5f3906b421b2399ac64b79fdbd42",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "voidz.app",
+            "voidz.gitbook.io"
+        ],
+        "telegram_groups": [
+            "VoidZtoken"
+        ],
+        "holders": {
+            "ETH": 428
+        }
+    },
+    {
+        "contract_address": "0xb09773d35a128531d43371756d32bdf56c438e4f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x60ef10edff6d600cd91caeca04caed2a2e605fe5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 921
+        }
+    },
+    {
+        "contract_address": "0x58aadfb1afac0ad7fca1148f3cde6aedf5236b6d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi"
+        ],
+        "holders": {
+            "ETH": 12
+        }
     }
 ]
