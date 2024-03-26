@@ -113719,5 +113719,121 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x53db69dc855c77a5f61fdebef9499aa510e5070d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tensorprotocol.gitbook.io",
+            "tensorprotocol.net"
+        ],
+        "telegram_groups": [
+            "tensorprotocolerc"
+        ],
+        "holders": {
+            "ETH": 566
+        }
+    },
+    {
+        "contract_address": "0x51ca38b0ae9580dcdd57b4c1e98c91a0d2c29a5e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0xf8e9f10c22840b613cda05a0c5fdb59a4d6cd7ef",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5856
+        }
+    },
+    {
+        "contract_address": "0xdd25a873a078c796a0e7cad0551ff426e56f709c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.createmytoken.com"
+        ],
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0xaa6c7d24d03769370e1c31f7c4edf3ebe10b7cf7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 75
+        }
+    },
+    {
+        "contract_address": "0xf02c2dc9b3cb7f1ba21ccd82dff4ebc92da8996f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tensorscan.app",
+            "gitbook.tensorscan.app"
+        ],
+        "telegram_groups": [
+            "tensorscanaiportal",
+            "TensorScanBot"
+        ],
+        "holders": {
+            "ETH": 1104
+        }
+    },
+    {
+        "contract_address": "0xbbe5baf77cf66e51a1c672b83d4feeddbfdd3988",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.x3org.com"
+        ],
+        "telegram_groups": [
+            "x3ai_org"
+        ],
+        "holders": {
+            "ETH": 39
+        }
+    },
+    {
+        "contract_address": "0x40e64405f18e4fb01c6fc39f4f0c78df5ef9d0e0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 275
+        }
+    },
+    {
+        "contract_address": "0x4a615bb7166210cce20e6642a6f8fb5d4d044496",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2395
+        }
+    },
+    {
+        "contract_address": "0x196b31f095fe13dcfaf0b6ee73723880cee75dc2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bucks.exchange",
+            "whitepaper.bucks.exchange"
+        ],
+        "telegram_groups": [
+            "bucksexchange"
+        ],
+        "holders": {
+            "ETH": 85
+        }
+    },
+    {
+        "contract_address": "0x92fdd2614c65c12eed35a2178478d8564886ea0c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "intelionai.com",
+            "loans.intelionai.com",
+            "docs.intelionai.com"
+        ],
+        "telegram_groups": [
+            "intelionai_official"
+        ],
+        "holders": {
+            "ETH": 56
+        }
     }
 ]
