@@ -113237,5 +113237,46 @@
         "holders": {
             "ETH": 1
         }
+    },
+    {
+        "contract_address": "0xfef4c6b56e011a684dc2054afd576d83817c2620",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 267
+        }
+    },
+    {
+        "contract_address": "0xd4b92b1700615afae333b9d16d28eb55e8e689b8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "catcoin.io",
+            "docs.catcoin.io"
+        ],
+        "telegram_groups": [
+            "catcoin_bsc"
+        ],
+        "holders": {
+            "ETH": 175
+        }
+    },
+    {
+        "contract_address": "0x446ccfedc23cbede2e28a267860f35caed59f206",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.moniebotai.com"
+        ],
+        "telegram_groups": [
+            "moniebotportal"
+        ],
+        "holders": {
+            "ETH": 380
+        }
+    },
+    {
+        "contract_address": "0x828e0edf347bd53e57d64426c67f291d8c553a70",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
