@@ -113099,7 +113099,10 @@
         ],
         "holders": {
             "ETH": 8
-        }
+        },
+        "web_domains": [
+            "babyagi.org"
+        ]
     },
     {
         "contract_address": "0x389e055034e93e7232fb0bdcbd8497f323d316d1",
@@ -113130,6 +113133,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 241
-        }
+        },
+        "web_domains": [
+            "ryoshiverse.io"
+        ]
     }
 ]
