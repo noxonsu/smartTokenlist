@@ -113308,5 +113308,102 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x68d4c48e6227e024d00306f0004e042a06654e8f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x403293f8c3ce1a53e29e3fce9262b461563007d9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 315
+        }
+    },
+    {
+        "contract_address": "0x63f28506b52e23ef279ee1d96ae390f17462937c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nomeme.club"
+        ],
+        "telegram_groups": [
+            "NoMemeETH"
+        ],
+        "holders": {
+            "ETH": 353
+        }
+    },
+    {
+        "contract_address": "0xfb0489e9753b045ddb35e39c6b0cc02ec6b99ac5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 130
+        }
+    },
+    {
+        "contract_address": "0x94cd876b09922409f1ef6e89714229ada305d4f9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 29
+        }
+    },
+    {
+        "contract_address": "0x3a5b6571df1a43d7a7a4ccd9fddf1a82205eb962",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0xf6aa2fe1fa73770339c40399de05c0eedfb550f5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x9e15ad979919bb4db331bfe864475ae3bffeba93",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1151
+        }
+    },
+    {
+        "contract_address": "0xc01b1979e2244dc94e67891df0af4f7885e57fd4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 975
+        }
+    },
+    {
+        "contract_address": "0x3d1c949a761c11e4cc50c3ae6bdb0f24fd7a39da",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "neurahub.app",
+            "neurahub.gitbook.io"
+        ],
+        "telegram_groups": [
+            "theneurahub"
+        ],
+        "holders": {
+            "ETH": 1045
+        }
+    },
+    {
+        "contract_address": "0x622984873c958e00aa0f004cbdd2b5301cf0b132",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.gauss0x.com",
+            "docs.gauss0x.com"
+        ],
+        "telegram_groups": [
+            "gauss0x"
+        ],
+        "holders": {
+            "ETH": 352
+        }
     }
 ]
