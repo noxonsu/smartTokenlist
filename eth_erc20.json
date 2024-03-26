@@ -113334,7 +113334,8 @@
         ],
         "holders": {
             "ETH": 353
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xfb0489e9753b045ddb35e39c6b0cc02ec6b99ac5",
@@ -113351,7 +113352,9 @@
         },
         "web_domains": [
             "botto.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3a5b6571df1a43d7a7a4ccd9fddf1a82205eb962",
@@ -113361,7 +113364,9 @@
         },
         "web_domains": [
             "buidl.so"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf6aa2fe1fa73770339c40399de05c0eedfb550f5",
@@ -113371,7 +113376,9 @@
         },
         "web_domains": [
             "v2.info.uniswap.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9e15ad979919bb4db331bfe864475ae3bffeba93",
@@ -113413,6 +113420,7 @@
         ],
         "holders": {
             "ETH": 352
-        }
+        },
+        "p6": true
     }
 ]
