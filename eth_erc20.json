@@ -113152,5 +113152,67 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x03aa6298f1370642642415edc0db8b957783e8d6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 677
+        }
+    },
+    {
+        "contract_address": "0x86a28ad937bff4ce685dd9dfc1e0ae5455cb2afe",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "elumpcoin.com"
+        ],
+        "telegram_groups": [
+            "ELUMPcoin"
+        ],
+        "holders": {
+            "ETH": 145
+        }
+    },
+    {
+        "contract_address": "0x49c8efd98ac8114de2fce73d57e2944aebd5613d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "AnonTech.net",
+            "www.anontech.net"
+        ],
+        "telegram_groups": [
+            "AnonTechEntry"
+        ],
+        "holders": {
+            "ETH": 293
+        }
+    },
+    {
+        "contract_address": "0x15373f219dd066d58e99925d014895ca7b011928",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 184
+        }
+    },
+    {
+        "contract_address": "0x8c8a9458c7425071845ae51b59b5ad3f4654f5b6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x4947f6e88797c092f029dbfbd19ff8b5084c7b89",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xc5da545286398d8728dadf596a0f918d4fa129e3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
