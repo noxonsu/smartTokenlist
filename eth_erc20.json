@@ -113348,21 +113348,30 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 29
-        }
+        },
+        "web_domains": [
+            "botto.com"
+        ]
     },
     {
         "contract_address": "0x3a5b6571df1a43d7a7a4ccd9fddf1a82205eb962",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 18
-        }
+        },
+        "web_domains": [
+            "buidl.so"
+        ]
     },
     {
         "contract_address": "0xf6aa2fe1fa73770339c40399de05c0eedfb550f5",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 0
-        }
+        },
+        "web_domains": [
+            "v2.info.uniswap.org"
+        ]
     },
     {
         "contract_address": "0x9e15ad979919bb4db331bfe864475ae3bffeba93",
