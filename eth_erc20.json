@@ -17418,9 +17418,9 @@
             "groki.world"
         ],
         "telegram_groups": [
-            "GROKI_TOKEN",
+            "GenesisBinaryBot",
             "groki_token",
-            "GenesisBinaryBot"
+            "GROKI_TOKEN"
         ],
         "holders": {
             "ETH": 135
@@ -113691,11 +113691,17 @@
             "groki.world"
         ],
         "telegram_groups": [
+            "GenesisBinaryBot",
+            "groki_token",
             "GROKI_TOKEN"
         ],
         "holders": {
             "ETH": 62
-        }
+        },
+        "emails": [
+            "team@groki.world"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x00237cf4ceb478eed216e00c2b85a5e40c9e4951",
@@ -113709,6 +113715,7 @@
         ],
         "holders": {
             "ETH": 117
-        }
+        },
+        "p6": true
     }
 ]
