@@ -113630,7 +113630,8 @@
         "emails": [
             "Email: info@zkinfra.io"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xe6d306731da26713f4f9c6443a76010b9eebfb88",
@@ -113649,7 +113650,8 @@
             "zerolend.xyz"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xaa55a111291697aa46076ea045ea55fcdad4298a",
@@ -113663,7 +113665,8 @@
         "holders": {
             "ETH": 150
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xc6221ac4e99066ea5443acd67d6108f874e2533d",
