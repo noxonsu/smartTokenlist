@@ -113249,7 +113249,8 @@
             "slacker.sroa.com"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xd4b92b1700615afae333b9d16d28eb55e8e689b8",
@@ -113274,7 +113275,8 @@
         "emails": [
             "team@catcoin.io"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x446ccfedc23cbede2e28a267860f35caed59f206",
@@ -113288,7 +113290,8 @@
         "holders": {
             "ETH": 380
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x828e0edf347bd53e57d64426c67f291d8c553a70",
@@ -113303,6 +113306,7 @@
         "emails": [
             "info@hayatx.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
