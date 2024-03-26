@@ -113443,7 +113443,9 @@
         },
         "web_domains": [
             "roninchain.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb937ba2e00b2a9bb0f068daa68d07414ba989562",
@@ -113453,7 +113455,9 @@
         },
         "web_domains": [
             "newcoin.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x417bbd8fea5f2ba0c6b528e1e15f5b7995d34eba",
@@ -113498,6 +113502,11 @@
         },
         "web_domains": [
             "wolfofwallstreeteth.com"
-        ]
+        ],
+        "telegram_groups": [
+            "WolfofWallStreetCommunity",
+            "TheWolfHowlz"
+        ],
+        "p6": true
     }
 ]
