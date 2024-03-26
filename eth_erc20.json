@@ -113035,7 +113035,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 124
-        }
+        },
+        "web_domains": [
+            "fluence.network"
+        ]
     },
     {
         "contract_address": "0x6b509b823a41666f335d681dcc91b6185313eca9",
