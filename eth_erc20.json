@@ -113584,7 +113584,8 @@
         "holders": {
             "ETH": 477
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x696e108fd69ec5ea929b3586f001ddfea02b3008",
@@ -113596,7 +113597,8 @@
             "ETH": 118
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xe880b65f1b09561ae56add32686b25992fb31561",
