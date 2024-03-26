@@ -113683,5 +113683,32 @@
         "holders": {
             "ETH": 576
         }
+    },
+    {
+        "contract_address": "0xc2939996980153f2f3fc327772da4b31232b6f77",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "groki.world"
+        ],
+        "telegram_groups": [
+            "GROKI_TOKEN"
+        ],
+        "holders": {
+            "ETH": 62
+        }
+    },
+    {
+        "contract_address": "0x00237cf4ceb478eed216e00c2b85a5e40c9e4951",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.glyph-ai.io"
+        ],
+        "telegram_groups": [
+            "GlyphAI",
+            "GlyphAIBot"
+        ],
+        "holders": {
+            "ETH": 117
+        }
     }
 ]
