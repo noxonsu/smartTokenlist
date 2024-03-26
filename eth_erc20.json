@@ -113640,7 +113640,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 105
-        }
+        },
+        "web_domains": [
+            "zerolend.xyz"
+        ]
     },
     {
         "contract_address": "0xaa55a111291697aa46076ea045ea55fcdad4298a",
