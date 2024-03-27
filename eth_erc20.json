@@ -113865,5 +113865,67 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x396f76f1455ac3d1f1db468aafd5ab69c0413888",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "elprima.network",
+            "elprima.gitbook.io"
+        ],
+        "telegram_groups": [
+            "ElprimaNetwork"
+        ],
+        "holders": {
+            "ETH": 22
+        }
+    },
+    {
+        "contract_address": "0xa67d87058b2f4e958b38717909565b6daefb95fe",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ionicpocket.org"
+        ],
+        "telegram_groups": [
+            "ionicpocket"
+        ],
+        "holders": {
+            "ETH": 360
+        }
+    },
+    {
+        "contract_address": "0x1e354f9ab5bcc9fb981f31b794c5fe13f7a89218",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 694
+        }
+    },
+    {
+        "contract_address": "0x8daebade922df735c38c80c7ebd708af50815faa",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 638
+        }
+    },
+    {
+        "contract_address": "0x9cdb8ea1002541a816b271363d64b2787631885f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 579
+        }
+    },
+    {
+        "contract_address": "0x0b1b1335b579edc6a5f098573661480306493773",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "aitools.bot",
+            "ai-tools.gitbook.io"
+        ],
+        "telegram_groups": [
+            "TheAIToolsBot"
+        ],
+        "holders": {
+            "ETH": 117
+        }
     }
 ]
