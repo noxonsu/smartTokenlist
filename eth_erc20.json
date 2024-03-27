@@ -114067,5 +114067,94 @@
         "holders": {
             "ETH": 0
         }
+    },
+    {
+        "contract_address": "0xda558a295e8d2c1438f7b4806e283940dec7e6db",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "trackerai.bot"
+        ],
+        "telegram_groups": [
+            "TrackerAI_ERC"
+        ],
+        "holders": {
+            "ETH": 384
+        }
+    },
+    {
+        "contract_address": "0xef299d11587d2a11883c9c88b8ade63b531f78fa",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "uniwhale.tech",
+            "app.uniwhale.tech",
+            "docs.uniwhale.tech"
+        ],
+        "telegram_groups": [
+            "uniwhale_ai"
+        ],
+        "holders": {
+            "ETH": 74
+        }
+    },
+    {
+        "contract_address": "0x497c0ababc3ba113d68bf5a15662d05a5b1027f0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.ether-block.net"
+        ],
+        "telegram_groups": [
+            "Etherblocksportal"
+        ],
+        "holders": {
+            "ETH": 105
+        }
+    },
+    {
+        "contract_address": "0xc1f815b49417c3ad1cb85d8f7d11df1bd9280daf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xe0d3ba5ec53d19fe3bb2f339ebdb079c73e5dce1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 159
+        }
+    },
+    {
+        "contract_address": "0x3c8a91f2279ba1c87315c4020b9f7bc0b50e3e4b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "supersonictrump.xyz"
+        ],
+        "telegram_groups": [
+            "supersonictrump"
+        ],
+        "holders": {
+            "ETH": 112
+        }
+    },
+    {
+        "contract_address": "0xf88baf18fab7e330fa0c4f83949e23f52fececce",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 487
+        }
+    },
+    {
+        "contract_address": "0x0a236b2d86d8e4e720e58906b9664ae21099bc65",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 285
+        }
+    },
+    {
+        "contract_address": "0x46f84dc6564cdd93922f7bfb88b03d35308d87c9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 40
+        }
     }
 ]
