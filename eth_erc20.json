@@ -114017,7 +114017,8 @@
         "holders": {
             "ETH": 312
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x4c1e9589c1762ad452715e718266b826879c3f54",
@@ -114050,7 +114051,8 @@
             "unc.edu"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xeff6a4dbf554b1e612786cbff4234044110612f8",
