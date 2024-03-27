@@ -114004,5 +114004,60 @@
         "holders": {
             "ETH": 4451
         }
+    },
+    {
+        "contract_address": "0xebcd1cc56db8ce89b4a83c037103c870998034c7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "supergroketh.com"
+        ],
+        "telegram_groups": [
+            "supergrokETH"
+        ],
+        "holders": {
+            "ETH": 312
+        }
+    },
+    {
+        "contract_address": "0x4c1e9589c1762ad452715e718266b826879c3f54",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xf71a2079566c87e26bcd9766d140d5bfdeeae731",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 863
+        }
+    },
+    {
+        "contract_address": "0x15f0eedf9ce24fc4b6826e590a8292ce5524a1da",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 432
+        }
+    },
+    {
+        "contract_address": "0x60b40eb7acf250affc82f5640ac50ab0d1b3f71c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0xeff6a4dbf554b1e612786cbff4234044110612f8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x83be82c476814b14fa1b5af1397ab4510faf76f5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
     }
 ]
