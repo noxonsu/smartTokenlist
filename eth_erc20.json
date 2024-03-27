@@ -114599,7 +114599,8 @@
         "holders": {
             "ETH": 25
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x1b78ffbc66139466c4a432f763afce8d4c991060",
@@ -114614,7 +114615,8 @@
         "holders": {
             "ETH": 315
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x979a6b45d6274197efa2c31fc2ac2173396efd76",
@@ -114626,7 +114628,8 @@
             "aztecminerals.com"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x400bc4f1ee114537b4fec3b08810acfe117e7746",
