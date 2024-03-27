@@ -114229,5 +114229,71 @@
         "holders": {
             "ETH": 86
         }
+    },
+    {
+        "contract_address": "0x274b70fd65d0ca0572c693d0d0ce0240a5457fd7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.apache.org",
+            "www.apache.org"
+        ],
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x185f7abef2a1343f6902829a3a5366bad8cf95d9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 148
+        }
+    },
+    {
+        "contract_address": "0xdff4cd6d5c257f40d6d182a072fc08242c55c77a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 207
+        }
+    },
+    {
+        "contract_address": "0x5c84bc60a796534bfec3439af0e6db616a966335",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1696
+        }
+    },
+    {
+        "contract_address": "0x7a493be5c2ce014cd049bf178a1ac0db1b434744",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 17
+        }
+    },
+    {
+        "contract_address": "0xbec4a69d6a5fbcb2303c13d24ea1a51a6f19bd12",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2889
+        }
+    },
+    {
+        "contract_address": "0x0c8e0cfe92c66faf7d6f31aca71b1cfee00400b7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zenithchain.tech"
+        ],
+        "telegram_groups": [
+            "zenithchain_erc20"
+        ],
+        "holders": {
+            "ETH": 43
+        }
+    },
+    {
+        "contract_address": "0xf05e0837572a6a6485a2457aa05d3e30183f7d0d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 97
+        }
     }
 ]
