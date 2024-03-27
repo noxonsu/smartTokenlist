@@ -114306,5 +114306,85 @@
         "holders": {
             "ETH": 97
         }
+    },
+    {
+        "contract_address": "0xf88e17bb05479145d4df3c61ca014a150c320080",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xf2fcd460672b05912431006701f77fbaae547d53",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0xc06bf3589345a81f0c2845e4db76bdb64bbbbc9d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "makeethgreatagain.xyz"
+        ],
+        "telegram_groups": [
+            "MEGA_Token_ERC20"
+        ],
+        "holders": {
+            "ETH": 227
+        }
+    },
+    {
+        "contract_address": "0x1d864f5fb1ff0d8ae03b99037abb59a550dd8324",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 157
+        }
+    },
+    {
+        "contract_address": "0xcfa0885131f602d11d4da248d2c65a62063567a9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4385
+        }
+    },
+    {
+        "contract_address": "0xa6bbfe75376de62fc6ff545592b3c05997f4aa10",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.dancingbabycoin.com"
+        ],
+        "telegram_groups": [
+            "dancing_babyERC20"
+        ],
+        "holders": {
+            "ETH": 62
+        }
+    },
+    {
+        "contract_address": "0xba28a90e44ade1e24d5dd6f31cb9a71756ee65dd",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "gasify.ai"
+        ],
+        "telegram_groups": [
+            "gasifyAI"
+        ],
+        "holders": {
+            "ETH": 86
+        }
+    },
+    {
+        "contract_address": "0xd51e4965ad973e8c1e1f22369bb884e6914b012c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zenocard.com"
+        ],
+        "telegram_groups": [
+            "ZenoCard"
+        ],
+        "holders": {
+            "ETH": 305
+        }
     }
 ]
