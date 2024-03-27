@@ -113882,7 +113882,8 @@
         "emails": [
             "\n\ne-mail: elprimanetwork@proton.me "
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xa67d87058b2f4e958b38717909565b6daefb95fe",
@@ -113897,7 +113898,8 @@
         "holders": {
             "ETH": 360
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x1e354f9ab5bcc9fb981f31b794c5fe13f7a89218",
@@ -113933,6 +113935,7 @@
         "holders": {
             "ETH": 117
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
