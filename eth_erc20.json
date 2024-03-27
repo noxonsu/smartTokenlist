@@ -114044,7 +114044,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 3
-        }
+        },
+        "web_domains": [
+            "unc.edu"
+        ]
     },
     {
         "contract_address": "0xeff6a4dbf554b1e612786cbff4234044110612f8",
