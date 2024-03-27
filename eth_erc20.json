@@ -114491,7 +114491,8 @@
         "holders": {
             "ETH": 129
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x8253d57dee2cc740e23446e91b338af569c1470e",
@@ -114513,7 +114514,8 @@
         "holders": {
             "ETH": 222
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x8ab56c8bad14bd1ca9e4df6c12a14453c2eca2c4",
@@ -114528,7 +114530,8 @@
         "holders": {
             "ETH": 63
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xdcd92da9a466cd2fc69afecccde2ff87bfe349f0",
@@ -114542,7 +114545,8 @@
         "telegram_groups": [
             "crogecoin"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xbfee791705f1abc7df1b27362921760fa26ed6af",
@@ -114558,7 +114562,8 @@
         "holders": {
             "ETH": 84
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x4c25bdf026ea05f32713f00f73ca55857fbf6342",
