@@ -114404,5 +114404,62 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xffa151ad0a0e2e40f39f9e5e9f87cf9e45e819dd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 41
+        }
+    },
+    {
+        "contract_address": "0xd2002628224d7f6104b95e18db637c67e2131463",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.xraidai.com",
+            "docs.xraidai.com"
+        ],
+        "telegram_groups": [
+            "XraidAiProject"
+        ],
+        "holders": {
+            "ETH": 247
+        }
+    },
+    {
+        "contract_address": "0x8e200a5a91fad18f8415a9a3de19be0d7349ae67",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ip.bot",
+            "docs.ip.bot"
+        ],
+        "telegram_groups": [
+            "DePIN_IPBOT",
+            "IPBOT_officialportal"
+        ],
+        "holders": {
+            "ETH": 271
+        }
+    },
+    {
+        "contract_address": "0x445e8139535e565d98fe2b49f9cc82cce06f7491",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 162
+        }
+    },
+    {
+        "contract_address": "0xa17581a9e3356d9a858b789d68b4d866e593ae94",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 777
+        }
+    },
+    {
+        "contract_address": "0xea277346e91f35b254232a07d9a08757e4c92564",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 802
+        }
     }
 ]
