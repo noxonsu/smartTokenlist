@@ -114241,7 +114241,8 @@
             "ETH": 1
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x185f7abef2a1343f6902829a3a5366bad8cf95d9",
@@ -114260,7 +114261,8 @@
             "sensorprotocol.io"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x5c84bc60a796534bfec3439af0e6db616a966335",
@@ -114295,7 +114297,8 @@
         "holders": {
             "ETH": 43
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xf05e0837572a6a6485a2457aa05d3e30183f7d0d",
