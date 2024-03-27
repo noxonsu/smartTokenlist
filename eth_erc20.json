@@ -113937,5 +113937,60 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xb755d5bc7de83232b9df1886bd5cdb38895933b0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0x4645841413c4b8017845de9b20af3f4db74cde50",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.laura.finance",
+            "app.laura.finance",
+            "docs.laura.finance"
+        ],
+        "telegram_groups": [
+            "laura_finance"
+        ],
+        "holders": {
+            "ETH": 49
+        }
+    },
+    {
+        "contract_address": "0x9f9d900462492d4c21e9523ca95a7cd86142f298",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi"
+        ],
+        "holders": {
+            "ETH": 17
+        }
+    },
+    {
+        "contract_address": "0xe68f1cb52659f256fee05fd088d588908a6e85a1",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "nomoredeepstate"
+        ],
+        "holders": {
+            "ETH": 595
+        }
+    },
+    {
+        "contract_address": "0x79b4d12fa63a8d1202b26c5ba6d62136a4a09dda",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4451
+        }
     }
 ]
