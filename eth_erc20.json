@@ -114253,7 +114253,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 207
-        }
+        },
+        "web_domains": [
+            "sensorprotocol.io"
+        ]
     },
     {
         "contract_address": "0x5c84bc60a796534bfec3439af0e6db616a966335",
