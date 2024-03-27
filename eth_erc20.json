@@ -114578,5 +114578,54 @@
         "holders": {
             "ETH": 707
         }
+    },
+    {
+        "contract_address": "0xf889503a05184ffd38363172163859ad2aea764b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 276
+        }
+    },
+    {
+        "contract_address": "0xae31109cc2ce97f130f333b2f6f9b16776e80565",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "insurex.gg",
+            "metadrop.com."
+        ],
+        "telegram_groups": [
+            "insurexportal"
+        ],
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0x1b78ffbc66139466c4a432f763afce8d4c991060",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cloudnetai.io",
+            "docs.cloudnetai.io"
+        ],
+        "telegram_groups": [
+            "cloudnetai"
+        ],
+        "holders": {
+            "ETH": 315
+        }
+    },
+    {
+        "contract_address": "0x979a6b45d6274197efa2c31fc2ac2173396efd76",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 150
+        }
+    },
+    {
+        "contract_address": "0x400bc4f1ee114537b4fec3b08810acfe117e7746",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 382
+        }
     }
 ]
