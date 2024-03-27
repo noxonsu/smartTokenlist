@@ -113946,7 +113946,9 @@
         },
         "web_domains": [
             "himfers.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4645841413c4b8017845de9b20af3f4db74cde50",
@@ -113957,11 +113959,13 @@
             "docs.laura.finance"
         ],
         "telegram_groups": [
-            "laura_finance"
+            "laura_finance",
+            "lauraai_finance"
         ],
         "holders": {
             "ETH": 49
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9f9d900462492d4c21e9523ca95a7cd86142f298",
@@ -113977,7 +113981,9 @@
         ],
         "holders": {
             "ETH": 17
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe68f1cb52659f256fee05fd088d588908a6e85a1",
