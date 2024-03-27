@@ -114410,7 +114410,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 41
-        }
+        },
+        "web_domains": [
+            "reserve.org"
+        ]
     },
     {
         "contract_address": "0xd2002628224d7f6104b95e18db637c67e2131463",
@@ -114446,7 +114449,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 162
-        }
+        },
+        "web_domains": [
+            "gabbysdollhouse.com"
+        ]
     },
     {
         "contract_address": "0xa17581a9e3356d9a858b789d68b4d866e593ae94",
