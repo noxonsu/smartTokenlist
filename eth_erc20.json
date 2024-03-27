@@ -114183,5 +114183,46 @@
         "holders": {
             "ETH": 40
         }
+    },
+    {
+        "contract_address": "0x30a29ac5a6123bcd4bb7ef3fd29d86e40d86799e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x0f343a9721b1e09be75438e6edbbd227da397455",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x0e59dd553151ec1dd91e2d7f32cb4bcc53328250",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.natix.network"
+        ],
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0x25c7b64a93eb1261e130ec21a3e9918caa38b611",
+        "sourceScanned": "processed",
+        "emails": [
+            "alexey@mixbytes.io"
+        ],
+        "holders": {
+            "ETH": 188
+        }
+    },
+    {
+        "contract_address": "0xccf8eabe9e70c5063624bcc13aed42bf5d7959b9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 86
+        }
     }
 ]
