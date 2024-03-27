@@ -114619,7 +114619,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 150
-        }
+        },
+        "web_domains": [
+            "aztecminerals.com"
+        ]
     },
     {
         "contract_address": "0x400bc4f1ee114537b4fec3b08810acfe117e7746",
