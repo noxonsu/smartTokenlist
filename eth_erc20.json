@@ -114530,7 +114530,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 18
-        }
+        },
+        "web_domains": [
+            "crogecoin.com"
+        ]
     },
     {
         "contract_address": "0xbfee791705f1abc7df1b27362921760fa26ed6af",
