@@ -114336,7 +114336,8 @@
         "emails": [
             "megatokenerc@proton.me"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x1d864f5fb1ff0d8ae03b99037abb59a550dd8324",
@@ -114348,7 +114349,8 @@
             "bome.com"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xcfa0885131f602d11d4da248d2c65a62063567a9",
@@ -114369,7 +114371,8 @@
         "holders": {
             "ETH": 62
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xba28a90e44ade1e24d5dd6f31cb9a71756ee65dd",
@@ -114383,7 +114386,8 @@
         "holders": {
             "ETH": 86
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xd51e4965ad973e8c1e1f22369bb884e6914b012c",
@@ -114398,6 +114402,7 @@
         "holders": {
             "ETH": 305
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
