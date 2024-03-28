@@ -115230,5 +115230,60 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x4b48068864f77261838c7849a12853fb94c77a91",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 467
+        }
+    },
+    {
+        "contract_address": "0x85306e64dbff688731c9684e2c1c0634f9e842ad",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pevetoken.com"
+        ],
+        "telegram_groups": [
+            "PeveErc"
+        ],
+        "holders": {
+            "ETH": 248
+        }
+    },
+    {
+        "contract_address": "0xa7e3224b4085c75f8f5759d96da329e3924b4a70",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x0cde94bafa205b129c2768c4a793a7bfa245d61f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 174
+        }
+    },
+    {
+        "contract_address": "0xc327dab3c3a7bda77afe83fda5ddc164ff77125a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 50
+        }
+    },
+    {
+        "contract_address": "0x1b19c19393e2d034d8ff31ff34c81252fcbbee92",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 40
+        }
+    },
+    {
+        "contract_address": "0x1dd7950c266fb1be96180a8fdb0591f70200e018",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 14
+        }
     }
 ]
