@@ -114710,7 +114710,11 @@
         ],
         "holders": {
             "ETH": 458
-        }
+        },
+        "telegram_groups": [
+            "yAIoracle"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x756bd788a55cbc5377cbfeef2230baf22b88d81a",
@@ -114727,7 +114731,8 @@
         ],
         "holders": {
             "ETH": 113
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x640d1d47df36c2822f48d5ccf216844b0339af0a",
@@ -114740,7 +114745,11 @@
         ],
         "holders": {
             "ETH": 168
-        }
+        },
+        "emails": [
+            "wallyaieth@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x12832355b92edf2095a994f93552ce86ca1ca439",
