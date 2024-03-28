@@ -114886,5 +114886,75 @@
         "telegram_groups": [],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xc77efc40c20f1578a9bd714f9a871dfc1a81b234",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0x714447e7f016fd59eb44a4fd3334d3e6cbd22737",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bunnyaidex.com",
+            "app.bunnyaidex.com"
+        ],
+        "telegram_groups": [
+            "bunny_ai_dex"
+        ],
+        "holders": {
+            "ETH": 45
+        }
+    },
+    {
+        "contract_address": "0x76bd48f622df028aed28cb121dda887f84ea805b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.bitbrawl.io",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "bitbrawl"
+        ],
+        "holders": {
+            "ETH": 40
+        }
+    },
+    {
+        "contract_address": "0xb87511364014c088e30f872efc4a00d7efb843ac",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 17
+        }
+    },
+    {
+        "contract_address": "0x87023915bbbf1a99d2d63ca49b15743d1665e8fe",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x228bc8b638ebea4befb70b95e7f5048e9ddf9956",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xa6ac7dea007df1b6a62c9d8695936051647e30bc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 539
+        }
+    },
+    {
+        "contract_address": "0x5a02b2725f74e63df0afecfc8104d37eb0227f78",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 31
+        }
     }
 ]
