@@ -114650,7 +114650,8 @@
         ],
         "holders": {
             "ETH": 465
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc5842df170b8c8d09eb851a8d5db3dfa00669e3f",
@@ -114670,7 +114671,9 @@
         },
         "web_domains": [
             "xend.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x96884fcaac082db4b32601ada5b177fd6cbffa88",
@@ -114683,7 +114686,11 @@
         ],
         "holders": {
             "ETH": 207
-        }
+        },
+        "emails": [
+            "TeamZkLock@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xaac1d67f1c17ec01593d76e831c51a4f458dc160",
