@@ -115079,5 +115079,72 @@
         "holders": {
             "ETH": 3
         }
+    },
+    {
+        "contract_address": "0x725024200cd4e1f259fcf2b7153d37fb477e139c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "flovieth.com"
+        ],
+        "telegram_groups": [
+            "floviethtoken"
+        ],
+        "holders": {
+            "ETH": 251
+        }
+    },
+    {
+        "contract_address": "0x05a7eb9275fc5c152ed74a42e1b6ace1f525cd9c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.bookofwizards.com"
+        ],
+        "telegram_groups": [
+            "BookOfWizards"
+        ],
+        "holders": {
+            "ETH": 73
+        }
+    },
+    {
+        "contract_address": "0xc4c244f1dbca07083fee35220d2169957c275e68",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 116
+        }
+    },
+    {
+        "contract_address": "0xfb932a75c5f69d03b0f6e59573fde6976af0d88c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 273
+        }
+    },
+    {
+        "contract_address": "0xe416501e8dae5ca238e708acefb9cc2583f2dbb6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 27
+        }
+    },
+    {
+        "contract_address": "0xa62af006902a53d03f819d0e0be0609893ec3099",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cloakai.xyz"
+        ],
+        "telegram_groups": [
+            "cloakai"
+        ],
+        "holders": {
+            "ETH": 176
+        }
+    },
+    {
+        "contract_address": "0x3f0c3e32bb166901acd0abc9452a3f0c5b8b2c9d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 36
+        }
     }
 ]
