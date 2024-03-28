@@ -114637,5 +114637,56 @@
         "holders": {
             "ETH": 382
         }
+    },
+    {
+        "contract_address": "0x4a80e2286290436a3e7462d0ad855c7be5930e4b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "insurex.gg",
+            "docs.insurex.gg"
+        ],
+        "telegram_groups": [
+            "insurexportal"
+        ],
+        "holders": {
+            "ETH": 465
+        }
+    },
+    {
+        "contract_address": "0xc5842df170b8c8d09eb851a8d5db3dfa00669e3f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "proofplatform.io"
+        ],
+        "holders": {
+            "ETH": 570
+        }
+    },
+    {
+        "contract_address": "0x4563554284aa7148d6e6d0351519e954ba3b6e02",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 223
+        }
+    },
+    {
+        "contract_address": "0x96884fcaac082db4b32601ada5b177fd6cbffa88",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.zklock.io"
+        ],
+        "telegram_groups": [
+            "ZkLocks"
+        ],
+        "holders": {
+            "ETH": 207
+        }
+    },
+    {
+        "contract_address": "0xaac1d67f1c17ec01593d76e831c51a4f458dc160",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 55
+        }
     }
 ]
