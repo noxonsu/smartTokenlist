@@ -114975,5 +114975,98 @@
         "telegram_groups": [],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xd0876e315e302f85fdd904dd8514b4144ee1e6a8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "xunksai.com",
+            "app.xunksai.com",
+            "docs.xunksai.com"
+        ],
+        "telegram_groups": [
+            "xunksai_group"
+        ],
+        "holders": {
+            "ETH": 82
+        }
+    },
+    {
+        "contract_address": "0x98ecc39291e893545e0df71b93d55a9814228a45",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0x48d4410c0a1860bf208ed0ace10d58eb509660c7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.stakepulse.bond",
+            "app.stakepulse.bond",
+            "docs.stakepulse.bond"
+        ],
+        "telegram_groups": [
+            "stakepulse_portal"
+        ],
+        "holders": {
+            "ETH": 75
+        }
+    },
+    {
+        "contract_address": "0xeb7fe1456de9ca25ddb082243086371a406f5a1d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.skullmoney.org",
+            "app.skullmoney.org"
+        ],
+        "telegram_groups": [
+            "skullmoney_erc"
+        ],
+        "holders": {
+            "ETH": 74
+        }
+    },
+    {
+        "contract_address": "0xe0f926e37c6dfd86d3bf0d5402932687dc15969d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "aixible.com",
+            "aixibles-organization.gitbook.io"
+        ],
+        "telegram_groups": [
+            "Aixible"
+        ],
+        "holders": {
+            "ETH": 104
+        }
+    },
+    {
+        "contract_address": "0x1735db6ab5baa19ea55d0adceed7bcdc008b3136",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3524
+        }
+    },
+    {
+        "contract_address": "0x094be6bd31d7b860f7d2c1f280fd09f0463d7e67",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x029aad400f6092dc735a65be95102efcc2fe64bf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8
+        }
+    },
+    {
+        "contract_address": "0x34349c5569e7b846c3558961552d2202760a9789",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
     }
 ]
