@@ -114701,5 +114701,59 @@
         "holders": {
             "ETH": 55
         }
+    },
+    {
+        "contract_address": "0x477a3d269266994f15e9c43a8d9c0561c4928088",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "yoracle.ai"
+        ],
+        "holders": {
+            "ETH": 458
+        }
+    },
+    {
+        "contract_address": "0x756bd788a55cbc5377cbfeef2230baf22b88d81a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "graph-ware.io",
+            "dapps.graph-ware.io",
+            "docs.graph-ware.io",
+            "graphware.medium.com",
+            "dapps.graph-ware.io"
+        ],
+        "telegram_groups": [
+            "graphware"
+        ],
+        "holders": {
+            "ETH": 113
+        }
+    },
+    {
+        "contract_address": "0x640d1d47df36c2822f48d5ccf216844b0339af0a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wallyeth.com"
+        ],
+        "telegram_groups": [
+            "wallyai"
+        ],
+        "holders": {
+            "ETH": 168
+        }
+    },
+    {
+        "contract_address": "0x12832355b92edf2095a994f93552ce86ca1ca439",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xcfd9020f41162eede87252885e2551a9377263a3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 288
+        }
     }
 ]
