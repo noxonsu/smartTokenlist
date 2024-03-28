@@ -115111,7 +115111,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 116
-        }
+        },
+        "web_domains": [
+            "skirtsteaknyc.com"
+        ]
     },
     {
         "contract_address": "0xfb932a75c5f69d03b0f6e59573fde6976af0d88c",
@@ -115145,6 +115148,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 36
-        }
+        },
+        "web_domains": [
+            "stakedelysia.io"
+        ]
     }
 ]
