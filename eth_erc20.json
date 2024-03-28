@@ -114989,7 +114989,8 @@
         ],
         "holders": {
             "ETH": 82
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x98ecc39291e893545e0df71b93d55a9814228a45",
@@ -115011,7 +115012,8 @@
         ],
         "holders": {
             "ETH": 75
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xeb7fe1456de9ca25ddb082243086371a406f5a1d",
@@ -115025,7 +115027,8 @@
         ],
         "holders": {
             "ETH": 74
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe0f926e37c6dfd86d3bf0d5402932687dc15969d",
@@ -115039,7 +115042,11 @@
         ],
         "holders": {
             "ETH": 104
-        }
+        },
+        "emails": [
+            "admin@aixible.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1735db6ab5baa19ea55d0adceed7bcdc008b3136",
