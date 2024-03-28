@@ -115250,7 +115250,8 @@
         "holders": {
             "ETH": 248
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xa7e3224b4085c75f8f5759d96da329e3924b4a70",
@@ -115290,6 +115291,7 @@
             "fluxfinance.com"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
