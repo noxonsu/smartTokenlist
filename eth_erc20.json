@@ -115190,7 +115190,9 @@
         },
         "web_domains": [
             "safe.global"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x639fa7dabf29d6dbff797282400f45660d27b5c2",
@@ -115221,6 +115223,10 @@
         },
         "web_domains": [
             "aurus.io"
-        ]
+        ],
+        "telegram_groups": [
+            "AurusOfficial"
+        ],
+        "p6": true
     }
 ]
