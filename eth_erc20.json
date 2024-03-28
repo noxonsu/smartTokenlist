@@ -114838,7 +114838,11 @@
         ],
         "holders": {
             "ETH": 64
-        }
+        },
+        "telegram_groups": [
+            "monad_xyz"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x08c8030995ce862d854d97666ac44c4015a592fe",
@@ -114865,7 +114869,8 @@
         ],
         "holders": {
             "ETH": 16
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x11ececeaee0e51cc12f90cf97adfcc8262b6ed57",
@@ -114875,6 +114880,8 @@
         },
         "web_domains": [
             "bobot.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
