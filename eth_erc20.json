@@ -115187,7 +115187,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 0
-        }
+        },
+        "web_domains": [
+            "safe.global"
+        ]
     },
     {
         "contract_address": "0x639fa7dabf29d6dbff797282400f45660d27b5c2",
@@ -115215,6 +115218,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 130
-        }
+        },
+        "web_domains": [
+            "aurus.io"
+        ]
     }
 ]
