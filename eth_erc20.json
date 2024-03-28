@@ -114814,7 +114814,11 @@
         },
         "web_domains": [
             "babysbf.top"
-        ]
+        ],
+        "telegram_groups": [
+            "BabySBF"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xef4a41e692319ae4aa596314d282b3f2a3830bed",
