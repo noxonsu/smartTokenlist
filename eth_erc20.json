@@ -115167,5 +115167,54 @@
         "telegram_groups": [],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x7e6e7d827813edac295c532753ad55a25b8bc0b4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xfb2fc788702cd2301e87ebc0d1e373922b98e148",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xdc5bca9992191c900d7a7f5b8e1b3e4161d1aa51",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x639fa7dabf29d6dbff797282400f45660d27b5c2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x577670b4a25da6ec1ba095e44e5326fb2655c3da",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xd3d36253cf74f0ddff13ddf051a053e25e504bc4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xcb0d82f4dfa503c9e3b8abc7a3caa01175b2da39",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 130
+        }
     }
 ]
