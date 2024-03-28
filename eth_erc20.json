@@ -115192,7 +115192,8 @@
             "safe.global"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x639fa7dabf29d6dbff797282400f45660d27b5c2",
@@ -115227,6 +115228,7 @@
         "telegram_groups": [
             "AurusOfficial"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
