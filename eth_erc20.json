@@ -114667,7 +114667,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 223
-        }
+        },
+        "web_domains": [
+            "xend.finance"
+        ]
     },
     {
         "contract_address": "0x96884fcaac082db4b32601ada5b177fd6cbffa88",
