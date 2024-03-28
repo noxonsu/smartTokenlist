@@ -114892,7 +114892,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 7
-        }
+        },
+        "web_domains": [
+            "cronos.org"
+        ]
     },
     {
         "contract_address": "0x714447e7f016fd59eb44a4fd3334d3e6cbd22737",
@@ -114955,6 +114958,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 31
-        }
+        },
+        "web_domains": [
+            "dappos.io"
+        ]
     }
 ]
