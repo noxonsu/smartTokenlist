@@ -114899,7 +114899,8 @@
         "telegram_groups": [
             "Cronos_Announcements"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x714447e7f016fd59eb44a4fd3334d3e6cbd22737",
@@ -114914,7 +114915,8 @@
         "holders": {
             "ETH": 45
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x76bd48f622df028aed28cb121dda887f84ea805b",
@@ -114930,7 +114932,8 @@
         "holders": {
             "ETH": 40
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xb87511364014c088e30f872efc4a00d7efb843ac",
@@ -114970,6 +114973,7 @@
             "dappos.io"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
