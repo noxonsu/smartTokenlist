@@ -115316,7 +115316,9 @@
         },
         "web_domains": [
             "sensorai.net"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x29a63caf0e19a3669fe213c38c4b8a9c2e28660c",
@@ -115331,7 +115333,8 @@
         ],
         "holders": {
             "ETH": 52
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x015cdce98904748e06f52660e4c988a86d1932e1",
@@ -115351,7 +115354,8 @@
         ],
         "holders": {
             "ETH": 50
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x55461cf07ac1f0d66d3d22ae3e191c545efb7844",
@@ -115364,7 +115368,8 @@
         ],
         "holders": {
             "ETH": 160
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x792387978cf59d248b983afe168194a5778dacbc",
@@ -115392,7 +115397,8 @@
         ],
         "holders": {
             "ETH": 133
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc83b0cc9b392c1a8e40146a7323d94f0cc2af013",
@@ -115405,6 +115411,7 @@
         ],
         "holders": {
             "ETH": 339
-        }
+        },
+        "p6": true
     }
 ]
