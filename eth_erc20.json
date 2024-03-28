@@ -115293,5 +115293,115 @@
         "telegram_groups": [],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x1a57367c6194199e5d9aea1ce027431682dfb411",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1274
+        }
+    },
+    {
+        "contract_address": "0xc7461574b8179c2ec6bdcbab7f63c30fa7d0d4bd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 174
+        }
+    },
+    {
+        "contract_address": "0xf1cb6ae72e9bb066c1f41eaac0c897188187adc8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 73
+        }
+    },
+    {
+        "contract_address": "0x29a63caf0e19a3669fe213c38c4b8a9c2e28660c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sedona.cash",
+            "app.sedona.cash",
+            "docs.sedona.cash"
+        ],
+        "telegram_groups": [
+            "aisedona_official"
+        ],
+        "holders": {
+            "ETH": 52
+        }
+    },
+    {
+        "contract_address": "0x015cdce98904748e06f52660e4c988a86d1932e1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x1e5000659096f889b6d5c269e047608d7fa6d105",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wen-moon.wtf"
+        ],
+        "telegram_groups": [
+            "WenMoon_ERC20"
+        ],
+        "holders": {
+            "ETH": 50
+        }
+    },
+    {
+        "contract_address": "0x55461cf07ac1f0d66d3d22ae3e191c545efb7844",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "proofofsasquatch.com"
+        ],
+        "telegram_groups": [
+            "proofofsasquatch"
+        ],
+        "holders": {
+            "ETH": 160
+        }
+    },
+    {
+        "contract_address": "0x792387978cf59d248b983afe168194a5778dacbc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 227
+        }
+    },
+    {
+        "contract_address": "0x1961b3331969ed52770751fc718ef530838b6dee",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 77870
+        }
+    },
+    {
+        "contract_address": "0x51573c4c228de0227d3b1e6e598981f8054e8807",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nomads.gitbook.io",
+            "playnomads.com"
+        ],
+        "telegram_groups": [
+            "PlayNOMADS"
+        ],
+        "holders": {
+            "ETH": 133
+        }
+    },
+    {
+        "contract_address": "0xc83b0cc9b392c1a8e40146a7323d94f0cc2af013",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.robert-a-heinlein.com"
+        ],
+        "telegram_groups": [
+            "Heinlein_Erc20"
+        ],
+        "holders": {
+            "ETH": 339
+        }
     }
 ]
