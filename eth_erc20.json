@@ -114827,5 +114827,51 @@
         "holders": {
             "ETH": 171
         }
+    },
+    {
+        "contract_address": "0x2a622468b61b657bde61275267d2ba18ff4a9c7f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.monad.xyz",
+            "discord.com",
+            "www.linkedin.com"
+        ],
+        "holders": {
+            "ETH": 64
+        }
+    },
+    {
+        "contract_address": "0x08c8030995ce862d854d97666ac44c4015a592fe",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 302
+        }
+    },
+    {
+        "contract_address": "0xa35bd2246978dfbb1980dff8ff0f5834335dfdbc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 391
+        }
+    },
+    {
+        "contract_address": "0x4dc75ef557bb9fefa471bc584e559e522dced0d9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.p256wallet.org"
+        ],
+        "telegram_groups": [
+            "p256walletFaceID"
+        ],
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0x11ececeaee0e51cc12f90cf97adfcc8262b6ed57",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 16
+        }
     }
 ]
