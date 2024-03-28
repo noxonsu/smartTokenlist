@@ -114767,5 +114767,29 @@
         "holders": {
             "ETH": 288
         }
+    },
+    {
+        "contract_address": "0x46f361cd02ca4e25606e717705410ab8cdd157c4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0x88b9f5c66342ebaf661b3e2836b807c8cb1b3195",
+        "sourceScanned": "processed",
+        "emails": [
+            "info@nobleblocks.com"
+        ],
+        "holders": {
+            "ETH": 132
+        }
+    },
+    {
+        "contract_address": "0xc691bc298a304d591ad9b352c7a8d216de9f2ced",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1082
+        }
     }
 ]
