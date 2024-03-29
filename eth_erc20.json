@@ -115792,7 +115792,8 @@
         ],
         "holders": {
             "ETH": 145
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc61edb127f58f42f47a8be8aebe83cf602a53878",
@@ -115826,7 +115827,11 @@
         ],
         "holders": {
             "ETH": 209
-        }
+        },
+        "emails": [
+            "team@markkarpeles.org"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa2085073878152ac3090ea13d1e41bd69e60dc99",
