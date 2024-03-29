@@ -115848,5 +115848,79 @@
         "holders": {
             "ETH": 105
         }
+    },
+    {
+        "contract_address": "0x55ff0f50f639e7acfe06694e6d018bd7678e6da9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mineshield.cloud"
+        ],
+        "telegram_groups": [
+            "mineshield_portal"
+        ],
+        "holders": {
+            "ETH": 138
+        }
+    },
+    {
+        "contract_address": "0xee847a804b67f4887c9e8fe559a2da4278defb52",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x7a7afb47e1ee2a2680f77142a12c5e37a68cb8bf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0xc00a77b0811d86721c35a4f50d893bdc844757cc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 186
+        }
+    },
+    {
+        "contract_address": "0x721a53a4f8342507ec56deebbec3bd0a1b3f1e3b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.theinformation.com"
+        ],
+        "telegram_groups": [
+            "saicoinerc20"
+        ],
+        "holders": {
+            "ETH": 89
+        }
+    },
+    {
+        "contract_address": "0xde9804cc479164fa9e9cb59ad4e65012a12aa827",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "groceryfi.net"
+        ],
+        "telegram_groups": [
+            "GroceryFi"
+        ],
+        "holders": {
+            "ETH": 181
+        }
+    },
+    {
+        "contract_address": "0xa0c0e4a09715e7b8e03adeb5699628b7ae3ed8ed",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.quarktoken.io",
+            "quarkmarket.com"
+        ],
+        "telegram_groups": [
+            "QuarkToken"
+        ],
+        "holders": {
+            "ETH": 29
+        }
     }
 ]
