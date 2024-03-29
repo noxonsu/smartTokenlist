@@ -115542,7 +115542,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 130
-        }
+        },
+        "web_domains": [
+            "welovewise-token.com"
+        ]
     },
     {
         "contract_address": "0x8a61eb01fe48e207b0401c193c8e0d3e71d103c1",
@@ -115556,7 +115559,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 156
-        }
+        },
+        "web_domains": [
+            "houseofkerosene.com"
+        ]
     },
     {
         "contract_address": "0xf60dacfbae72ffb460b19baf6e3daa5148fcdb2e",
