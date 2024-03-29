@@ -115610,7 +115610,9 @@
         },
         "web_domains": [
             "qiibee.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x69c20d3fa3aa0c9af173b66b83394d7e85756969",
@@ -115623,6 +115625,7 @@
         ],
         "holders": {
             "ETH": 435
-        }
+        },
+        "p6": true
     }
 ]
