@@ -115856,11 +115856,13 @@
             "mineshield.cloud"
         ],
         "telegram_groups": [
+            "mineshieldcloud_bot",
             "mineshield_portal"
         ],
         "holders": {
             "ETH": 138
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xee847a804b67f4887c9e8fe559a2da4278defb52",
@@ -115877,7 +115879,11 @@
         },
         "web_domains": [
             "mtpelerin.com"
-        ]
+        ],
+        "telegram_groups": [
+            "mtpelerinchat"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc00a77b0811d86721c35a4f50d893bdc844757cc",
@@ -115897,7 +115903,8 @@
         ],
         "holders": {
             "ETH": 89
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xde9804cc479164fa9e9cb59ad4e65012a12aa827",
@@ -115910,7 +115917,11 @@
         ],
         "holders": {
             "ETH": 181
-        }
+        },
+        "emails": [
+            "email : contact@groceryfi.net"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa0c0e4a09715e7b8e03adeb5699628b7ae3ed8ed",
@@ -115920,10 +115931,15 @@
             "quarkmarket.com"
         ],
         "telegram_groups": [
+            "QuarkEntryPortal",
             "QuarkToken"
         ],
         "holders": {
             "ETH": 29
-        }
+        },
+        "emails": [
+            "\u00a9 2024  Inc. E-mail: contact@quarktoken.io"
+        ],
+        "p6": true
     }
 ]
