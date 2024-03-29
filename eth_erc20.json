@@ -115744,5 +115744,26 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x13f7b4581df403542286563c2f762077b2a368da",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cloakai.xyz",
+            "cloak-2.gitbook.io"
+        ],
+        "telegram_groups": [
+            "cloakai"
+        ],
+        "holders": {
+            "ETH": 86
+        }
+    },
+    {
+        "contract_address": "0xcf0764b3ef2b452c2fc5c60d8b80a1f6d0b0d550",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 26
+        }
     }
 ]
