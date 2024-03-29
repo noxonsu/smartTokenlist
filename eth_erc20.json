@@ -115435,7 +115435,9 @@
         },
         "web_domains": [
             "rcsb.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x354e1d37b908765cb011c2b2653f832db77b5229",
@@ -115446,7 +115448,14 @@
         ],
         "holders": {
             "ETH": 43
-        }
+        },
+        "telegram_groups": [
+            "SLERVeth"
+        ],
+        "emails": [
+            "info@slerv.wtf"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x24d1d23b328e7b687a05b70e2366e77bd3721251",
@@ -115460,7 +115469,8 @@
         ],
         "holders": {
             "ETH": 65
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6cabcf2b777db604539c46a329e2f793656f6a16",
@@ -115483,7 +115493,11 @@
         ],
         "holders": {
             "ETH": 206
-        }
+        },
+        "emails": [
+            "info@babyshiv.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2053e178a70daa28a40d09563d99aa6abdc82130",
