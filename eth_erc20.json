@@ -115946,5 +115946,39 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x36096eb8c11729fdd7685d5e1b82b17d542c38ce",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nousai.io"
+        ],
+        "telegram_groups": [
+            "nousaiportal"
+        ],
+        "holders": {
+            "ETH": 159
+        }
+    },
+    {
+        "contract_address": "0x0d8669263ae0424edf7d0f575cc4539a900eabd9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 43
+        }
+    },
+    {
+        "contract_address": "0x9b4e2b4b13d125238aa0480dd42b4f6fc71b37cc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 36312
+        }
+    },
+    {
+        "contract_address": "0xb628b1e15c3759fc38375b56058b3018f3296edd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 39
+        }
     }
 ]
