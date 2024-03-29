@@ -115718,5 +115718,25 @@
         "telegram_groups": [],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xc3359dbdd579a3538ea49669002e8e8eea191433",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 92
+        }
+    },
+    {
+        "contract_address": "0x0a2b624aba3c35d7f88ac581f9b9306aec948512",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dovecoin.vip"
+        ],
+        "telegram_groups": [
+            "dovecoineth"
+        ],
+        "holders": {
+            "ETH": 319
+        }
     }
 ]
