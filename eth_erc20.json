@@ -115995,5 +115995,77 @@
         "telegram_groups": [],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x4f14ba78a51925ee934c373a2cf56b2d8da63f7f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 160
+        }
+    },
+    {
+        "contract_address": "0xe9b0d2ad65aea4fe414b54d0a5ab1f8e719edb64",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "liquidai.money",
+            "app.liquidai.money",
+            "docs.liquidai.money"
+        ],
+        "telegram_groups": [
+            "liquidai_money"
+        ],
+        "holders": {
+            "ETH": 77
+        }
+    },
+    {
+        "contract_address": "0x379ef32fe99e0c89800e9299a2543a868eeb3772",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.elaraai.net",
+            "app.elaraai.net",
+            "docs.elaraai.net"
+        ],
+        "telegram_groups": [
+            "elaraai_erc"
+        ],
+        "holders": {
+            "ETH": 53
+        }
+    },
+    {
+        "contract_address": "0xb1574b133c293d603e47ffa8523000540f42e657",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x85cef71a3277220cc3d88a1703abc771caa2241f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 51
+        }
+    },
+    {
+        "contract_address": "0x77939cd86a530b5ebe9a36f50cd635c3359c372b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0xa9355a5d306c67027c54de0e5a72df76befa5694",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 113
+        }
+    },
+    {
+        "contract_address": "0xf1a91c7d44768070f711c68f33a7ca25c8d30268",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12063
+        }
     }
 ]
