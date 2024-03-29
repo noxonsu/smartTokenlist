@@ -115419,5 +115419,81 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x2e55574c4cccbf05c508fd06d76a2580658d8d8a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xb322ef31244fef4c2e778acf7cac7f0fdfc1224d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0x354e1d37b908765cb011c2b2653f832db77b5229",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.slerv.wtf",
+            "www.twitter.com"
+        ],
+        "holders": {
+            "ETH": 43
+        }
+    },
+    {
+        "contract_address": "0x24d1d23b328e7b687a05b70e2366e77bd3721251",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.cityverse.pro",
+            "app.cityverse.pro"
+        ],
+        "telegram_groups": [
+            "cityverse_pro"
+        ],
+        "holders": {
+            "ETH": 65
+        }
+    },
+    {
+        "contract_address": "0x6cabcf2b777db604539c46a329e2f793656f6a16",
+        "sourceScanned": "processed",
+        "emails": [
+            "EtheraCoinhelp@gmail.com"
+        ],
+        "holders": {
+            "ETH": 249
+        }
+    },
+    {
+        "contract_address": "0x7ae12a3fcc6c5415295671ba9d2a833ae1f06510",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "babyshiv.com"
+        ],
+        "telegram_groups": [
+            "BabyShivaETH"
+        ],
+        "holders": {
+            "ETH": 206
+        }
+    },
+    {
+        "contract_address": "0x2053e178a70daa28a40d09563d99aa6abdc82130",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x445d25a1c31445fb29e65d12da8e0eea38174176",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 16
+        }
     }
 ]
