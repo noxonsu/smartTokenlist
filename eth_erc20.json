@@ -115862,7 +115862,8 @@
         "holders": {
             "ETH": 138
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xee847a804b67f4887c9e8fe559a2da4278defb52",
@@ -115883,7 +115884,8 @@
         "telegram_groups": [
             "mtpelerinchat"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xc00a77b0811d86721c35a4f50d893bdc844757cc",
@@ -115904,7 +115906,8 @@
         "holders": {
             "ETH": 89
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xde9804cc479164fa9e9cb59ad4e65012a12aa827",
@@ -115921,7 +115924,8 @@
         "emails": [
             "email : contact@groceryfi.net"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xa0c0e4a09715e7b8e03adeb5699628b7ae3ed8ed",
@@ -115940,6 +115944,7 @@
         "emails": [
             "\u00a9 2024  Inc. E-mail: contact@quarktoken.io"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
