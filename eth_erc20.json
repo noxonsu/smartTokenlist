@@ -116038,14 +116038,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 6
-        }
+        },
+        "web_domains": [
+            "ethena.fi"
+        ]
     },
     {
         "contract_address": "0x85cef71a3277220cc3d88a1703abc771caa2241f",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 51
-        }
+        },
+        "web_domains": [
+            "babygoldencoin.com"
+        ]
     },
     {
         "contract_address": "0x77939cd86a530b5ebe9a36f50cd635c3359c372b",
