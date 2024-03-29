@@ -115528,7 +115528,8 @@
         ],
         "holders": {
             "ETH": 329
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x67d3b1716abd9b7dacbff4c615e6a83b6a17c841",
@@ -115545,7 +115546,11 @@
         },
         "web_domains": [
             "welovewise-token.com"
-        ]
+        ],
+        "telegram_groups": [
+            "www_WeLoveWise_token"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8a61eb01fe48e207b0401c193c8e0d3e71d103c1",
@@ -115562,7 +115567,9 @@
         },
         "web_domains": [
             "houseofkerosene.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf60dacfbae72ffb460b19baf6e3daa5148fcdb2e",
