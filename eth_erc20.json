@@ -115629,5 +115629,70 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x7c2d26182adeef96976035986cf56474fec03bda",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1336
+        }
+    },
+    {
+        "contract_address": "0x6273d04430e22649e3d8568423f344def92fc241",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 187
+        }
+    },
+    {
+        "contract_address": "0x67a205b22507044b0c5206a9da6595a6c9db6c10",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 51
+        }
+    },
+    {
+        "contract_address": "0x3041050dba7d3154841f6a18caaf7025bf498d16",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xc01c6918d8a4db1b5432640d077e798dfcaf5088",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "horrorinu.com"
+        ],
+        "telegram_groups": [
+            "horror_inu"
+        ],
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0xdd7afc0f014a1e1716307ff040704fa12e8d33a3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 91
+        }
+    },
+    {
+        "contract_address": "0x6b0425cdf9412e04eb5be23d8d68eec778f9ee85",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 174
+        }
+    },
+    {
+        "contract_address": "0xcea3c45f42e340d586a4b269676161577928ae52",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.sharpe.ai"
+        ],
+        "holders": {
+            "ETH": 19
+        }
     }
 ]
