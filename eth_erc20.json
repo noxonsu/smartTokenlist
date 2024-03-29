@@ -115657,7 +115657,8 @@
         "emails": [
             "Reach us : support@zigly.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x3041050dba7d3154841f6a18caaf7025bf498d16",
@@ -115678,7 +115679,8 @@
         "holders": {
             "ETH": 19
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xdd7afc0f014a1e1716307ff040704fa12e8d33a3",
@@ -115701,7 +115703,8 @@
             "tkogroupofficial",
             "tkochannelofficial"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xcea3c45f42e340d586a4b269676161577928ae52",
@@ -115713,6 +115716,7 @@
             "ETH": 19
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
