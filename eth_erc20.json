@@ -115649,7 +115649,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 51
-        }
+        },
+        "web_domains": [
+            "zigly.com"
+        ]
     },
     {
         "contract_address": "0x3041050dba7d3154841f6a18caaf7025bf498d16",
@@ -115683,7 +115686,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 174
-        }
+        },
+        "web_domains": [
+            "demo.tkotoken.com"
+        ]
     },
     {
         "contract_address": "0xcea3c45f42e340d586a4b269676161577928ae52",
