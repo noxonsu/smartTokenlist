@@ -115965,7 +115965,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 43
-        }
+        },
+        "web_domains": [
+            "huestudioarts.com"
+        ]
     },
     {
         "contract_address": "0x9b4e2b4b13d125238aa0480dd42b4f6fc71b37cc",
@@ -115979,6 +115982,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 39
-        }
+        },
+        "web_domains": [
+            "velartoken.io"
+        ]
     }
 ]
