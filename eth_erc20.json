@@ -115773,5 +115773,73 @@
         "telegram_groups": [],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x337d136b4d77a8f21af8542fa54ec3500f453e48",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0x54a05afa62fe9c9c0892185d4f1b85e229be9a21",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.0xrender.org"
+        ],
+        "telegram_groups": [
+            "zeroxrender"
+        ],
+        "holders": {
+            "ETH": 145
+        }
+    },
+    {
+        "contract_address": "0xc61edb127f58f42f47a8be8aebe83cf602a53878",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3768
+        }
+    },
+    {
+        "contract_address": "0x402b9daecb22e70cedc74f377da3edaa306fa5d7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 388
+        }
+    },
+    {
+        "contract_address": "0x97a9a15168c22b3c137e6381037e1499c8ad0978",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 67
+        }
+    },
+    {
+        "contract_address": "0x0353e9f2e8783135f2b71063c66ff62345d95e53",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "markkarpeles.org"
+        ],
+        "telegram_groups": [
+            "markkarpeleserc"
+        ],
+        "holders": {
+            "ETH": 209
+        }
+    },
+    {
+        "contract_address": "0xa2085073878152ac3090ea13d1e41bd69e60dc99",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2399
+        }
+    },
+    {
+        "contract_address": "0xfd4f2caf941b6d737382dce420b368de3fc7f2d4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 105
+        }
     }
 ]
