@@ -116017,7 +116017,8 @@
         "holders": {
             "ETH": 77
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x379ef32fe99e0c89800e9299a2543a868eeb3772",
@@ -116033,7 +116034,8 @@
         "holders": {
             "ETH": 53
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xb1574b133c293d603e47ffa8523000540f42e657",
@@ -116047,7 +116049,8 @@
         "telegram_groups": [
             "ethena_labs"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x85cef71a3277220cc3d88a1703abc771caa2241f",
@@ -116061,7 +116064,8 @@
         "telegram_groups": [
             "babygoldencoin"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x77939cd86a530b5ebe9a36f50cd635c3359c372b",
