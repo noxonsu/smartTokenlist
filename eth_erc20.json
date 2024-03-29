@@ -115757,7 +115757,8 @@
         ],
         "holders": {
             "ETH": 86
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xcf0764b3ef2b452c2fc5c60d8b80a1f6d0b0d550",
@@ -115767,6 +115768,8 @@
         },
         "web_domains": [
             "pepeaicoin.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
