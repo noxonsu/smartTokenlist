@@ -115516,5 +115516,60 @@
         "holders": {
             "ETH": 16
         }
+    },
+    {
+        "contract_address": "0xe291f42cf0763eeaf586e231bc9b4279d7fffd33",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "proofofsasquatch.com"
+        ],
+        "telegram_groups": [
+            "proofofsasquatch"
+        ],
+        "holders": {
+            "ETH": 329
+        }
+    },
+    {
+        "contract_address": "0x67d3b1716abd9b7dacbff4c615e6a83b6a17c841",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 477
+        }
+    },
+    {
+        "contract_address": "0x87a567060769348c7ff1836e4497b84f844ba99b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 130
+        }
+    },
+    {
+        "contract_address": "0x8a61eb01fe48e207b0401c193c8e0d3e71d103c1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xf3768d6e78e65fc64b8f12ffc824452130bd5394",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 156
+        }
+    },
+    {
+        "contract_address": "0xf60dacfbae72ffb460b19baf6e3daa5148fcdb2e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 237
+        }
+    },
+    {
+        "contract_address": "0xe1a4c5bbb704a92599fedb191f451e0d3a1ed842",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1580
+        }
     }
 ]
