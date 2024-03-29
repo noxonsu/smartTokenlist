@@ -115960,7 +115960,8 @@
         "holders": {
             "ETH": 159
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x0d8669263ae0424edf7d0f575cc4539a900eabd9",
@@ -115972,7 +115973,8 @@
             "huestudioarts.com"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x9b4e2b4b13d125238aa0480dd42b4f6fc71b37cc",
@@ -115991,6 +115993,7 @@
             "velartoken.io"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
