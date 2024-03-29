@@ -115733,10 +115733,15 @@
             "dovecoin.vip"
         ],
         "telegram_groups": [
-            "dovecoineth"
+            "dovecoineth",
+            "dovecoinETH"
         ],
         "holders": {
             "ETH": 319
-        }
+        },
+        "emails": [
+            "info@dovecoin.vip"
+        ],
+        "p6": true
     }
 ]
