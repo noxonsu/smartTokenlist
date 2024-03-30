@@ -116468,7 +116468,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 40
-        }
+        },
+        "web_domains": [
+            "bread.org"
+        ]
     },
     {
         "contract_address": "0x4dfa927ea8791cbaaee7bea09e70648434ae047f",
@@ -116497,6 +116500,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 8
-        }
+        },
+        "web_domains": [
+            "enaena.gr"
+        ]
     }
 ]
