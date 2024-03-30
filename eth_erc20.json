@@ -116266,7 +116266,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 7
-        }
+        },
+        "web_domains": [
+            "lmnetwork.ch"
+        ]
     },
     {
         "contract_address": "0x4dfcf93a6de72313340eacd8cd1b481d2c405389",
