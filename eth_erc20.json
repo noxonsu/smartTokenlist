@@ -116362,5 +116362,67 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x0f84f0ac245f4d1e7cf1012486df00ab9fdfd353",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xe62e5bc74d2fc46c728aed982d3b9e760ef4847b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.nobleblocks.com"
+        ],
+        "telegram_groups": [
+            "nobleblocks"
+        ],
+        "holders": {
+            "ETH": 88
+        }
+    },
+    {
+        "contract_address": "0xaba86342c3f57e002f47f6eb38099a577312f2e8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x000b7339c3a2afa78f88eb399571d8dc56f79edd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 53
+        }
+    },
+    {
+        "contract_address": "0x4d831e22f062b5327dfdb15f0b6a5df20e2e3dd0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2969
+        }
+    },
+    {
+        "contract_address": "0xfba209dcfb936c2c37b36b246e2c131d26fca262",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0x573ff678359f3b1cf126cf734fe8db031c0eefd1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9
+        }
+    },
+    {
+        "contract_address": "0xc98936de9640d6bfc24f82de1cf0f8cd9f5b388d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
