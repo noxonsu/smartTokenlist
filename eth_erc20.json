@@ -116119,5 +116119,69 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x4ae5411f3863cdb640309e84cedf4b08b8b33fff",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 90
+        }
+    },
+    {
+        "contract_address": "0xd7df7e085214743530aff339afc420c7c720bfa7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9
+        }
+    },
+    {
+        "contract_address": "0x95f2c555fc607c01564bbd9100a3ee39755d2d22",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x1e5d3412edc9bd4468589856f4f169cbf6a87361",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11200
+        }
+    },
+    {
+        "contract_address": "0xa10740ff9ff6852eac84cdcff9184e1d6d27c057",
+        "sourceScanned": "processed",
+        "emails": [
+            "alexey@mixbytes.io"
+        ],
+        "holders": {
+            "ETH": 230
+        }
+    },
+    {
+        "contract_address": "0xe9f84d418b008888a992ff8c6d22389c2c3504e0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1129
+        }
+    },
+    {
+        "contract_address": "0x57f12fe6a4e5fe819eec699fadf9db2d06606bb4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "neptunemutual.com",
+            "neptunemutual.com",
+            "neptunemutual.com"
+        ],
+        "holders": {
+            "ETH": 158
+        }
+    },
+    {
+        "contract_address": "0xb1e93236ab6073fdac58ada5564897177d4bcc43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9848
+        }
     }
 ]
