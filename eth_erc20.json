@@ -116526,7 +116526,9 @@
         },
         "web_domains": [
             "linea.build"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4c584cd339bdde73b7f5210486dd8bbeee3fde6d",
@@ -116539,7 +116541,8 @@
         ],
         "holders": {
             "ETH": 368
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf5364c1a9c85c21c3496f1308feb79af48f17c87",
@@ -116563,7 +116566,12 @@
         },
         "web_domains": [
             "pepepow.org"
-        ]
+        ],
+        "telegram_groups": [
+            "pepewcommunity",
+            "PEPEPOWCHAT"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5b2e06bae7921f92cb1efc30707910ea12396a81",
@@ -116573,7 +116581,9 @@
         ],
         "holders": {
             "ETH": 28
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x76238b9f4ffe845873138c9b2d8eaa51fc6268ed",
@@ -116588,6 +116598,7 @@
         ],
         "holders": {
             "ETH": 49
-        }
+        },
+        "p6": true
     }
 ]
