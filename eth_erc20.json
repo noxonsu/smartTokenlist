@@ -116142,7 +116142,12 @@
         },
         "web_domains": [
             "jag-transport.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "info@jag-transport.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1e5d3412edc9bd4468589856f4f169cbf6a87361",
@@ -116178,7 +116183,11 @@
         ],
         "holders": {
             "ETH": 158
-        }
+        },
+        "telegram_groups": [
+            "neptunemutual"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb1e93236ab6073fdac58ada5564897177d4bcc43",
