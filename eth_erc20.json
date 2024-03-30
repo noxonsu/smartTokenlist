@@ -116225,7 +116225,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 18
-        }
+        },
+        "web_domains": [
+            "catcoin.me"
+        ]
     },
     {
         "contract_address": "0x9dde764ef104c5a471ab5bd8f15f946de0b7023e",
