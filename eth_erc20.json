@@ -116517,5 +116517,71 @@
         "telegram_groups": [],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xcfae7ec8309bda6ad708d0e53060a5db75e838bd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0x4c584cd339bdde73b7f5210486dd8bbeee3fde6d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "shibelon.net"
+        ],
+        "telegram_groups": [
+            "shibelon_moon"
+        ],
+        "holders": {
+            "ETH": 368
+        }
+    },
+    {
+        "contract_address": "0xf5364c1a9c85c21c3496f1308feb79af48f17c87",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0xe0b9bcd54bf8a730ea5d3f1ffce0885e911a502c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 16451
+        }
+    },
+    {
+        "contract_address": "0x7ceabcd42848732500135d969645f5d2ef373e86",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x5b2e06bae7921f92cb1efc30707910ea12396a81",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.createmytoken.com"
+        ],
+        "holders": {
+            "ETH": 28
+        }
+    },
+    {
+        "contract_address": "0x76238b9f4ffe845873138c9b2d8eaa51fc6268ed",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "crystalai.finance",
+            "app.crystalai.finance",
+            "docs.crystalai.finance"
+        ],
+        "telegram_groups": [
+            "crystalaifinance"
+        ],
+        "holders": {
+            "ETH": 49
+        }
     }
 ]
