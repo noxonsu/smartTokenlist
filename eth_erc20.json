@@ -116197,5 +116197,48 @@
         "holders": {
             "ETH": 9848
         }
+    },
+    {
+        "contract_address": "0xc223e06459ad3ef2929275ed30e42de14fd36145",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 84
+        }
+    },
+    {
+        "contract_address": "0xab5fc445e9b720441de1e54c82c756281794a5bf",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.dovepool.org",
+            "pool.dovepool.org",
+            "docs.dovepool.org"
+        ],
+        "telegram_groups": [
+            "dove_pool"
+        ],
+        "holders": {
+            "ETH": 40
+        }
+    },
+    {
+        "contract_address": "0x232de850ff2104bf324ca42c8de45b9d55394a4d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0x9dde764ef104c5a471ab5bd8f15f946de0b7023e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x4bb3205bf648b7f59ef90dee0f1b62f6116bc7ca",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3427
+        }
     }
 ]
