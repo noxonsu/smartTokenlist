@@ -116318,7 +116318,8 @@
             "cryptophunks.com"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x4fbb350052bca5417566f188eb2ebce5b19bc964",
@@ -116359,6 +116360,7 @@
             "g4mm4ioChat",
             "g4mm4ioNews"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
