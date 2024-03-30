@@ -116263,7 +116263,8 @@
         "telegram_groups": [
             "HOLD10_erc20"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x8150c537f71156d02a379cf15287107e29dd1d9b",
@@ -116275,7 +116276,8 @@
             "lmnetwork.ch"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x4dfcf93a6de72313340eacd8cd1b481d2c405389",
@@ -116288,7 +116290,8 @@
             "ETH": 32
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xe633afbe4b2926b4c5dd721a1cf7e053c4c36a32",
@@ -116302,6 +116305,7 @@
         "telegram_groups": [
             "dop_org"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
