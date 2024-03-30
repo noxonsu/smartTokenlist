@@ -116219,7 +116219,8 @@
         "holders": {
             "ETH": 40
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x232de850ff2104bf324ca42c8de45b9d55394a4d",
@@ -116233,7 +116234,8 @@
         "telegram_groups": [
             "catcoincatcoincatcoin"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x9dde764ef104c5a471ab5bd8f15f946de0b7023e",
