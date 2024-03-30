@@ -116087,5 +116087,33 @@
         "holders": {
             "ETH": 12063
         }
+    },
+    {
+        "contract_address": "0x6e31817482df0f5a510126dab2a31baf1bfbbeaf",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.atomainet.com",
+            "wallet.atomainet.com",
+            "docs.atomainet.com"
+        ],
+        "telegram_groups": [
+            "atomainet_portal"
+        ],
+        "holders": {
+            "ETH": 62
+        }
+    },
+    {
+        "contract_address": "0xd8cd7e44acabc41994eb73c0f16f9d75784e4e85",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "superdogeerc.com"
+        ],
+        "telegram_groups": [
+            "SuperDogeErc"
+        ],
+        "holders": {
+            "ETH": 233
+        }
     }
 ]
