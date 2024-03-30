@@ -116523,7 +116523,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 13
-        }
+        },
+        "web_domains": [
+            "linea.build"
+        ]
     },
     {
         "contract_address": "0x4c584cd339bdde73b7f5210486dd8bbeee3fde6d",
@@ -116557,7 +116560,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 19
-        }
+        },
+        "web_domains": [
+            "pepepow.org"
+        ]
     },
     {
         "contract_address": "0x5b2e06bae7921f92cb1efc30707910ea12396a81",
