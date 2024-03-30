@@ -116307,5 +116307,45 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xb39185e33e8c28e0bb3dbbce24da5dea6379ae91",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 237
+        }
+    },
+    {
+        "contract_address": "0x4fbb350052bca5417566f188eb2ebce5b19bc964",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.apache.org"
+        ],
+        "emails": [
+            "gab@rigoblock.com"
+        ],
+        "holders": {
+            "ETH": 1481
+        }
+    },
+    {
+        "contract_address": "0xebe8b87b93f946cb80b067987a96a838a147caf0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pugeth.com"
+        ],
+        "telegram_groups": [
+            "pugethtoken"
+        ],
+        "holders": {
+            "ETH": 576
+        }
+    },
+    {
+        "contract_address": "0x5301cbbedc048abac7e213184132cf982d593563",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 74
+        }
     }
 ]
