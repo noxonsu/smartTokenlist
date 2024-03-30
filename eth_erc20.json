@@ -116250,5 +116250,43 @@
         "holders": {
             "ETH": 3427
         }
+    },
+    {
+        "contract_address": "0x3dd8f9a874a5790266ead7de8ef2bb04411ddd3b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "metadrop.com."
+        ],
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x8150c537f71156d02a379cf15287107e29dd1d9b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0x4dfcf93a6de72313340eacd8cd1b481d2c405389",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "myshell.ai",
+            "discord.com"
+        ],
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0xe633afbe4b2926b4c5dd721a1cf7e053c4c36a32",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dop.org"
+        ],
+        "holders": {
+            "ETH": 21
+        }
     }
 ]
