@@ -116426,5 +116426,77 @@
         "holders": {
             "ETH": 1
         }
+    },
+    {
+        "contract_address": "0x253c03b4a7edfcaee7b6260e5cbd405b18846265",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x0039c741335d7062b72ea4edaf0a40fcd3ef88d6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xaa3a9af2f08f6714975e5daf8fc8403ff9b488b1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x3cd54164eac1038f60095add1cba52c379d7f2a5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.ariaai.org",
+            "app.ariaai.org",
+            "docs.ariaai.org"
+        ],
+        "telegram_groups": [
+            "ariaai_fi"
+        ],
+        "holders": {
+            "ETH": 48
+        }
+    },
+    {
+        "contract_address": "0x231c24a2e2e1f6fd208ec800a58b7d1417205630",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 40
+        }
+    },
+    {
+        "contract_address": "0x4dfa927ea8791cbaaee7bea09e70648434ae047f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 178
+        }
+    },
+    {
+        "contract_address": "0xa0f56d6475c3aa368b2d30835c79c47423afd6e6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.metataoai.com",
+            "app.metataoai.com",
+            "docs.metataoai.com"
+        ],
+        "telegram_groups": [
+            "metataoai"
+        ],
+        "holders": {
+            "ETH": 63
+        }
+    },
+    {
+        "contract_address": "0xc967e31dea14aed0e4ce4db77af1abff4e719035",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8
+        }
     }
 ]
