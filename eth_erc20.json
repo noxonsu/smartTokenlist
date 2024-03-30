@@ -116461,7 +116461,8 @@
         ],
         "holders": {
             "ETH": 48
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x231c24a2e2e1f6fd208ec800a58b7d1417205630",
@@ -116471,7 +116472,12 @@
         },
         "web_domains": [
             "bread.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "bread@bread.org"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4dfa927ea8791cbaaee7bea09e70648434ae047f",
@@ -116493,7 +116499,8 @@
         ],
         "holders": {
             "ETH": 63
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc967e31dea14aed0e4ce4db77af1abff4e719035",
@@ -116503,6 +116510,8 @@
         },
         "web_domains": [
             "enaena.gr"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
