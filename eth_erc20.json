@@ -116848,5 +116848,47 @@
         "holders": {
             "ETH": 3120
         }
+    },
+    {
+        "contract_address": "0xd829fc7d8de417a5a684d934d5dc981d86395d8a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 137
+        }
+    },
+    {
+        "contract_address": "0xc1830b5aa686a0b3430d2c2ab59e753c89bdb789",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x330e1266334e08cf27e5a3e54ec95875ff938636",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "kima.finance",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "kimanetwork"
+        ],
+        "holders": {
+            "ETH": 22
+        }
+    },
+    {
+        "contract_address": "0xbe57c043d32e03ec082d2dba8e236d21ef2e268f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 70
+        }
+    },
+    {
+        "contract_address": "0xb8959e988b7556ab23ab98fc1c8baad9a6ea2fa1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19
+        }
     }
 ]
