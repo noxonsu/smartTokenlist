@@ -116731,5 +116731,62 @@
         "holders": {
             "ETH": 2
         }
+    },
+    {
+        "contract_address": "0x85fc5e6992c0f6affda00df8a0304cc02ca1bc47",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.supershivatoken.com",
+            "supershivadocs.gitbook.io"
+        ],
+        "telegram_groups": [
+            "SuperShiva"
+        ],
+        "holders": {
+            "ETH": 73
+        }
+    },
+    {
+        "contract_address": "0xc740181345c65552333e1edc797e03f11852b1c8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "kento.vip"
+        ],
+        "telegram_groups": [
+            "kentocoineth"
+        ],
+        "holders": {
+            "ETH": 1078
+        }
+    },
+    {
+        "contract_address": "0x3581f76498675912d2effb9def320464f49a3538",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 87
+        }
+    },
+    {
+        "contract_address": "0x65c4c0517025ec0843c9146af266a2c5a2d148a2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org"
+        ],
+        "holders": {
+            "ETH": 56
+        }
+    },
+    {
+        "contract_address": "0xdd7f4908f25b766f6b4dedd2e00b37419b00d02c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
     }
 ]
