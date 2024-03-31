@@ -117055,7 +117055,9 @@
         },
         "web_domains": [
             "ailayer.ai"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd34a2051ac17bdd44d76aa84ea7fcf8419130e55",
@@ -117075,7 +117077,11 @@
         },
         "web_domains": [
             "dojima.network"
-        ]
+        ],
+        "telegram_groups": [
+            "dojimanetworkofficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3c863a39996aa07610f3572337cba020fbe3c32d",
@@ -117088,7 +117094,8 @@
         ],
         "holders": {
             "ETH": 70
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3d9778485d20581a8d1deda667a7f6d09848282e",
@@ -117105,6 +117112,13 @@
         },
         "web_domains": [
             "bsji.io"
-        ]
+        ],
+        "telegram_groups": [
+            "BasenjiPortal"
+        ],
+        "emails": [
+            "info@website.com"
+        ],
+        "p6": true
     }
 ]
