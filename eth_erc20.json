@@ -116810,5 +116810,29 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x1a0ce531e19874669977aed8ae3f387b951c716b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0x2a7cad775fd9c5c43f996a948660ffc21b4e628c",
+        "sourceScanned": "processed",
+        "emails": [
+            "hello@ddrops.world"
+        ],
+        "holders": {
+            "ETH": 160
+        }
+    },
+    {
+        "contract_address": "0x4f81c790581b240a5c948afd173620ecc8c71c8d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3120
+        }
     }
 ]
