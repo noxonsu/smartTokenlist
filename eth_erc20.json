@@ -116959,11 +116959,15 @@
             "toastfu.gitbook.io"
         ],
         "telegram_groups": [
-            "ToastFuPortal"
+            "ToastFuBot",
+            "ToastFuBuyBot",
+            "ToastFuPortal",
+            "ToastFuTech"
         ],
         "holders": {
             "ETH": 120
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4447743d42680f7fbb56e87b3617463113ca649e",
@@ -116977,7 +116981,11 @@
         ],
         "holders": {
             "ETH": 451
-        }
+        },
+        "emails": [
+            "team@meshwave.ai"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc3dd52d397e40ac2713fed85b26746025086327d",
