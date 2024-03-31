@@ -116661,7 +116661,9 @@
         },
         "web_domains": [
             "parallel.live"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x686e8500b6be8812eb198aabbbfa14c95c03fc88",
