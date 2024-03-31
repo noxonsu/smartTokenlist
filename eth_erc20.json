@@ -117018,7 +117018,9 @@
         },
         "web_domains": [
             "learntoken.info"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x42ef6f7b41df5793c623af8c626052d700fcb102",
@@ -117033,7 +117035,8 @@
         ],
         "holders": {
             "ETH": 107
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc80c5e40220172b36adee2c951f26f2a577810c5",
