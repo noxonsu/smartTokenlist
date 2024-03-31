@@ -116967,7 +116967,8 @@
         "holders": {
             "ETH": 120
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x4447743d42680f7fbb56e87b3617463113ca649e",
@@ -116985,7 +116986,8 @@
         "emails": [
             "team@meshwave.ai"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xc3dd52d397e40ac2713fed85b26746025086327d",
