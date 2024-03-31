@@ -116943,5 +116943,61 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xb5881aced41b76dbe7a4e2b9c58b9cac7198b3d9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 90
+        }
+    },
+    {
+        "contract_address": "0x6668e12a659a643bd5d7561630e17d5433375b2f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.toastfu.com",
+            "toastfu.gitbook.io"
+        ],
+        "telegram_groups": [
+            "ToastFuPortal"
+        ],
+        "holders": {
+            "ETH": 120
+        }
+    },
+    {
+        "contract_address": "0x4447743d42680f7fbb56e87b3617463113ca649e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "meshwave.ai",
+            "docs.meshwave.ai"
+        ],
+        "telegram_groups": [
+            "meshwaveai"
+        ],
+        "holders": {
+            "ETH": 451
+        }
+    },
+    {
+        "contract_address": "0xc3dd52d397e40ac2713fed85b26746025086327d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x29b45b633b0c281245055d6713f167818e73e38c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x0225d7f05fec7a856542df67acf287235e07a8aa",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
     }
 ]
