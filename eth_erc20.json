@@ -117009,5 +117009,34 @@
         "holders": {
             "ETH": 18
         }
+    },
+    {
+        "contract_address": "0x842c521436e6e91b3c1919a0240e91d1788265f0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 52
+        }
+    },
+    {
+        "contract_address": "0x42ef6f7b41df5793c623af8c626052d700fcb102",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "butterflyai.tech",
+            "app.butterflyai.tech",
+            "docs.butterflyai.tech"
+        ],
+        "telegram_groups": [
+            "butterflyaitech"
+        ],
+        "holders": {
+            "ETH": 107
+        }
+    },
+    {
+        "contract_address": "0xc80c5e40220172b36adee2c951f26f2a577810c5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9948
+        }
     }
 ]
