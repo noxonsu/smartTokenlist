@@ -116882,13 +116882,19 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 70
-        }
+        },
+        "web_domains": [
+            "bobaoppa.xyz"
+        ]
     },
     {
         "contract_address": "0xb8959e988b7556ab23ab98fc1c8baad9a6ea2fa1",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 19
-        }
+        },
+        "web_domains": [
+            "pepewif.io"
+        ]
     }
 ]
