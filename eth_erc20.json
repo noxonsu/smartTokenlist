@@ -116685,7 +116685,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 37
-        }
+        },
+        "web_domains": [
+            "nubit.org"
+        ]
     },
     {
         "contract_address": "0x0c10bf8fcb7bf5412187a595ab97a3609160b5c6",
