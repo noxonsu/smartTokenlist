@@ -116334,7 +116334,8 @@
             "ETH": 1481
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xebe8b87b93f946cb80b067987a96a838a147caf0",
@@ -116747,7 +116748,8 @@
         "holders": {
             "ETH": 73
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xc740181345c65552333e1edc797e03f11852b1c8",
@@ -116772,7 +116774,8 @@
             "dcscc.com"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x65c4c0517025ec0843c9146af266a2c5a2d148a2",
@@ -116790,7 +116793,8 @@
             "ETH": 56
         },
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xdd7f4908f25b766f6b4dedd2e00b37419b00d02c",
@@ -116804,6 +116808,7 @@
         "telegram_groups": [
             "carbonearth"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
