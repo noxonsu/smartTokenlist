@@ -117052,7 +117052,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 74
-        }
+        },
+        "web_domains": [
+            "ailayer.ai"
+        ]
     },
     {
         "contract_address": "0xd34a2051ac17bdd44d76aa84ea7fcf8419130e55",
@@ -117069,7 +117072,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 44
-        }
+        },
+        "web_domains": [
+            "dojima.network"
+        ]
     },
     {
         "contract_address": "0x3c863a39996aa07610f3572337cba020fbe3c32d",
@@ -117096,6 +117102,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 218
-        }
+        },
+        "web_domains": [
+            "bsji.io"
+        ]
     }
 ]
