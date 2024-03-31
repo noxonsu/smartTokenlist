@@ -116672,5 +116672,53 @@
         "holders": {
             "ETH": 131
         }
+    },
+    {
+        "contract_address": "0x11831c3ff9d8231de8632ce10f59ed7fdc1c53c9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 466
+        }
+    },
+    {
+        "contract_address": "0xdcb1f64f3d6dd40202eb6a7a1b7263dd2f90b2ad",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 37
+        }
+    },
+    {
+        "contract_address": "0x0c10bf8fcb7bf5412187a595ab97a3609160b5c6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1208
+        }
+    },
+    {
+        "contract_address": "0xf1c65fc5addd5f89ebae273ca007cd15eee88b6c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x0b1a01829768617e3e723a373743173bfd9b9fba",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bonkybinkbink.com"
+        ],
+        "telegram_groups": [
+            "bonkyarmyyylfg"
+        ],
+        "holders": {
+            "ETH": 116
+        }
+    },
+    {
+        "contract_address": "0x661ecc03a464be662133b9a5964a51f1370077f9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
     }
 ]
