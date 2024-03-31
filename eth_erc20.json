@@ -116658,7 +116658,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 32
-        }
+        },
+        "web_domains": [
+            "parallel.live"
+        ]
     },
     {
         "contract_address": "0x686e8500b6be8812eb198aabbbfa14c95c03fc88",
