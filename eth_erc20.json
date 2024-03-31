@@ -116876,7 +116876,8 @@
         "holders": {
             "ETH": 22
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xbe57c043d32e03ec082d2dba8e236d21ef2e268f",
@@ -116888,7 +116889,8 @@
             "bobaoppa.xyz"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xb8959e988b7556ab23ab98fc1c8baad9a6ea2fa1",
@@ -116902,6 +116904,7 @@
         "telegram_groups": [
             "pifentry"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
