@@ -117046,5 +117046,56 @@
         "holders": {
             "ETH": 9948
         }
+    },
+    {
+        "contract_address": "0xf41a94f7e87ef728b3f6ba434376b5f7f543c4d3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 74
+        }
+    },
+    {
+        "contract_address": "0xd34a2051ac17bdd44d76aa84ea7fcf8419130e55",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Kabosuinuofficialportal"
+        ],
+        "holders": {
+            "ETH": 1106
+        }
+    },
+    {
+        "contract_address": "0x3b85d81a7ddbf6b604d8403086df7f4fcccea62c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 44
+        }
+    },
+    {
+        "contract_address": "0x3c863a39996aa07610f3572337cba020fbe3c32d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.magicmintai.com"
+        ],
+        "telegram_groups": [
+            "magicmintai"
+        ],
+        "holders": {
+            "ETH": 70
+        }
+    },
+    {
+        "contract_address": "0x3d9778485d20581a8d1deda667a7f6d09848282e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 336
+        }
+    },
+    {
+        "contract_address": "0xdc766b5843a8612e5d8ec540b9182d4a30f806e5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 218
+        }
     }
 ]
