@@ -116906,5 +116906,38 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xc9ce70a381910d0a90b30d408cc9c7705ee882de",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 736
+        }
+    },
+    {
+        "contract_address": "0x951adec38917ead9ceef09f327e23019f6645763",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "grendizerdf.com"
+        ],
+        "telegram_groups": [
+            "GrendizerDF"
+        ],
+        "holders": {
+            "ETH": 81
+        }
+    },
+    {
+        "contract_address": "0x6c223b04f2da18032fd721469fc6768211f94458",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "eclipsestake.xyz"
+        ],
+        "telegram_groups": [
+            "eclipsestake_erc20"
+        ],
+        "holders": {
+            "ETH": 90
+        }
     }
 ]
