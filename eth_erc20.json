@@ -116605,5 +116605,47 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xd55210bb6898c021a19de1f58d27b71f095921ee",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 70167
+        }
+    },
+    {
+        "contract_address": "0xbdbdb95437eb550d33f96c7fa8f2bd9f14c99742",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 123
+        }
+    },
+    {
+        "contract_address": "0xadd353fb2e2c563383ff3272a500f3e7134dafe4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1495
+        }
+    },
+    {
+        "contract_address": "0x89de08a5100600796fde014baf74f78f9d89111c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "complexion.tech"
+        ],
+        "telegram_groups": [
+            "ComplexionERC",
+            "ComplexionBot"
+        ],
+        "holders": {
+            "ETH": 499
+        }
+    },
+    {
+        "contract_address": "0xbe74c0e5737556655bac93e7a01ed7e02a2cf4a0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 90
+        }
     }
 ]
