@@ -117144,7 +117144,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 13
-        }
+        },
+        "web_domains": [
+            "dair.ai"
+        ]
     },
     {
         "contract_address": "0x8ffc7b89412efd0d17edea2018f6634ea4c2fcb2",
@@ -117158,6 +117161,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 60
-        }
+        },
+        "web_domains": [
+            "fxprotocol.io"
+        ]
     }
 ]
