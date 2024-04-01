@@ -117615,5 +117615,61 @@
             "ETH": 70
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x5fd82ad8a72252a7a449aded99efec7dd8efa690",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "thegamehub.xyz",
+            "the-gamehub.gitbook.io"
+        ],
+        "telegram_groups": [
+            "TheGameHubXYZ"
+        ],
+        "holders": {
+            "ETH": 317
+        }
+    },
+    {
+        "contract_address": "0x253a5b4f0a210b8d33b702a938b1d56d06b5449e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.omnifoundation.io"
+        ],
+        "telegram_groups": [
+            "omnifoundation"
+        ],
+        "holders": {
+            "ETH": 249
+        }
+    },
+    {
+        "contract_address": "0x84b91f04399ca7f587f2f5f1910b30f61dbaf125",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "etherflix.app",
+            "docs.etherflix.app",
+            "www.reddit.com"
+        ],
+        "telegram_groups": [
+            "etherflixportal"
+        ],
+        "holders": {
+            "ETH": 722
+        }
+    },
+    {
+        "contract_address": "0x70a9144858e88bd7bc96796e1c0a4f209c4aa17f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0xd52df637de3518b6587154d701460d8ea7741340",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13
+        }
     }
 ]
