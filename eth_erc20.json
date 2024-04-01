@@ -117266,7 +117266,9 @@
         },
         "web_domains": [
             "dumbdumbdice.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb1c6feb7006cc39d7aced69df64d3a5b537b82bc",
@@ -117280,7 +117282,8 @@
         ],
         "holders": {
             "ETH": 67
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3102b4013cb506481e959c8f4500b994d2bff22e",
@@ -117297,7 +117300,9 @@
         },
         "web_domains": [
             "cougeats.wordpress.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe26d7f9409581f606242300fbfe63f56789f2169",
