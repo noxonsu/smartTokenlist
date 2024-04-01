@@ -117375,7 +117375,8 @@
         "holders": {
             "ETH": 271
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xf898bae008cd85046431ab0a75f00689d6aa1b1c",
@@ -117390,7 +117391,8 @@
         "web_domains": [
             "0xvpn.org"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xad8d7fa9308d25875983dfc750f6225ded49309d",
