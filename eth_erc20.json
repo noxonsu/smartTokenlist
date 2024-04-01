@@ -117313,5 +117313,49 @@
         "holders": {
             "ETH": 187
         }
+    },
+    {
+        "contract_address": "0xf81ef46f67ebb200e9e11803ebd809bfeef85638",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tycoonai.xyz",
+            "nft.tycoonai.xyz",
+            "docs.tycoonai.xyz",
+            "tycoonai.medium.com"
+        ],
+        "telegram_groups": [
+            "tycoon_ai"
+        ],
+        "holders": {
+            "ETH": 66
+        }
+    },
+    {
+        "contract_address": "0xc5bcc8ba3f33ab0d64f3473e861bdc0685b19ef5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ethernalhorizons.com",
+            "mechachain.io"
+        ],
+        "emails": [
+            "contracts@ethernalhorizons.com"
+        ],
+        "holders": {
+            "ETH": 352
+        }
+    },
+    {
+        "contract_address": "0xc7fa9aef1fe5b598e3671baa4fcab0f9024ea306",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 60
+        }
+    },
+    {
+        "contract_address": "0xbc443ebe4c34043e8cb44e15400c5133ddcb0efa",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 299
+        }
     }
 ]
