@@ -117524,5 +117524,93 @@
         "holders": {
             "ETH": 90
         }
+    },
+    {
+        "contract_address": "0x4e6415bac66d5c66efeb0ded7494ae3c648d68cf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8
+        }
+    },
+    {
+        "contract_address": "0x5d929aa919e489505ccaad8a199619c6dca0c2de",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7264
+        }
+    },
+    {
+        "contract_address": "0x7fed466b893c716235e1b8d685c913f7d2797463",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tensorhub.gitbook.io",
+            "tensorhub.org"
+        ],
+        "telegram_groups": [
+            "tensorhuberc"
+        ],
+        "holders": {
+            "ETH": 175
+        }
+    },
+    {
+        "contract_address": "0x82a605d6d9114f4ad6d5ee461027477eeed31e34",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 177
+        }
+    },
+    {
+        "contract_address": "0x15a7edbbd8909358ae91a278b42d8ebf0ce9452e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.xrootai.com",
+            "whitepaper.xrootai.com",
+            "zealy.io"
+        ],
+        "telegram_groups": [
+            "XRootAIBot",
+            "XRootAI"
+        ],
+        "emails": [
+            "contact@xrootai.com"
+        ],
+        "holders": {
+            "ETH": 892
+        }
+    },
+    {
+        "contract_address": "0x0ab902bd4de7521a565f3058fb43d6d01d0d2670",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cognitechai.org"
+        ],
+        "telegram_groups": [
+            "CogniTechAI"
+        ],
+        "holders": {
+            "ETH": 286
+        }
+    },
+    {
+        "contract_address": "0xc28eb2250d1ae32c7e74cfb6d6b86afc9beb6509",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 321
+        }
+    },
+    {
+        "contract_address": "0x7c947c432a8b47fed452dbe026cc6648ad6a2cc6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wormhole.com",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "wormholecrypto"
+        ],
+        "holders": {
+            "ETH": 70
+        }
     }
 ]
