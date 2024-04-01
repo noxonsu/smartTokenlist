@@ -117695,7 +117695,8 @@
         ],
         "holders": {
             "ETH": 174
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x57f5e098cad7a3d1eed53991d4d66c45c9af7812",
@@ -117713,12 +117714,13 @@
             "docs.tensorvpn.net"
         ],
         "telegram_groups": [
-            "TensorVPN",
-            "tensorvpnbot"
+            "tensorvpnbot",
+            "TensorVPN"
         ],
         "holders": {
             "ETH": 260
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc4727c419acfb49c8660736506ca023a4e8509e0",
@@ -117732,12 +117734,13 @@
             "rpc.nodifi.ai"
         ],
         "telegram_groups": [
-            "NodifiAI",
-            "NodifiAIBot"
+            "NodifiAIBot",
+            "NodifiAI"
         ],
         "holders": {
             "ETH": 475
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x97ae32f7c455556dd6d273739cf965285f263055",
@@ -117746,11 +117749,14 @@
             "jada-ai.com"
         ],
         "emails": [
-            "hello@jada-ai.com"
+            "hello@jada-ai.com",
+            "filler@godaddy.com"
         ],
         "holders": {
             "ETH": 137
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xcc2b3aad7571872914facf88915651e354973958",
