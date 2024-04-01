@@ -117257,5 +117257,47 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x5ffd2bbf061f8491d3b9a477004d1f12d2b9aa57",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 22
+        }
+    },
+    {
+        "contract_address": "0xb1c6feb7006cc39d7aced69df64d3a5b537b82bc",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.shivawifhat.com",
+            "shivwifhat.gitbook.io"
+        ],
+        "telegram_groups": [
+            "ShivWifHat"
+        ],
+        "holders": {
+            "ETH": 67
+        }
+    },
+    {
+        "contract_address": "0x3102b4013cb506481e959c8f4500b994d2bff22e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x8235bad24d25f8cd32f3b2186a937cd58831e663",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xe26d7f9409581f606242300fbfe63f56789f2169",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 187
+        }
     }
 ]
