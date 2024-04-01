@@ -117478,13 +117478,19 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 48
-        }
+        },
+        "web_domains": [
+            "lilnouns.wtf"
+        ]
     },
     {
         "contract_address": "0xf292fd2d0492563cededa65b1ace3e8ac2615872",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 36
-        }
+        },
+        "web_domains": [
+            "mystiko.network"
+        ]
     }
 ]
