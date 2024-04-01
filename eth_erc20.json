@@ -117263,7 +117263,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 22
-        }
+        },
+        "web_domains": [
+            "dumbdumbdice.com"
+        ]
     },
     {
         "contract_address": "0xb1c6feb7006cc39d7aced69df64d3a5b537b82bc",
@@ -117291,7 +117294,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "cougeats.wordpress.com"
+        ]
     },
     {
         "contract_address": "0xe26d7f9409581f606242300fbfe63f56789f2169",
