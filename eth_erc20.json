@@ -117147,7 +117147,9 @@
         },
         "web_domains": [
             "dair.ai"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8ffc7b89412efd0d17edea2018f6634ea4c2fcb2",
@@ -117164,6 +117166,8 @@
         },
         "web_domains": [
             "fxprotocol.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
