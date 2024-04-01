@@ -117362,5 +117362,38 @@
         "holders": {
             "ETH": 299
         }
+    },
+    {
+        "contract_address": "0x66dd8782837039fcc3145c9fa40d0a0c103f45d1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nividiot.com"
+        ],
+        "telegram_groups": [
+            "nividiottg"
+        ],
+        "holders": {
+            "ETH": 271
+        }
+    },
+    {
+        "contract_address": "0xf898bae008cd85046431ab0a75f00689d6aa1b1c",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "zerox_vpn_portal"
+        ],
+        "holders": {
+            "ETH": 202
+        }
+    },
+    {
+        "contract_address": "0xad8d7fa9308d25875983dfc750f6225ded49309d",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "the_purge_eth"
+        ],
+        "holders": {
+            "ETH": 120
+        }
     }
 ]
