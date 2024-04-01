@@ -117437,7 +117437,8 @@
         "holders": {
             "ETH": 57
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xa86aca6d7c393c06dcdc30473ea3d1b05c358dff",
@@ -117473,7 +117474,8 @@
         "holders": {
             "ETH": 99
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x18222a762bf67024193de25e1cdc7aa6e614c695",
@@ -117485,7 +117487,8 @@
             "lilnouns.wtf"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xf292fd2d0492563cededa65b1ace3e8ac2615872",
@@ -117497,6 +117500,7 @@
             "mystiko.network"
         ],
         "telegram_groups": [],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
