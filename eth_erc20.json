@@ -117676,5 +117676,90 @@
         "holders": {
             "ETH": 13
         }
+    },
+    {
+        "contract_address": "0x57e114b691db790c35207b2e685d4a43181e6061",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0x64d93cf499054170f4c211f91f867f902afaece6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "quantagi.app"
+        ],
+        "telegram_groups": [
+            "quantagi"
+        ],
+        "holders": {
+            "ETH": 174
+        }
+    },
+    {
+        "contract_address": "0x57f5e098cad7a3d1eed53991d4d66c45c9af7812",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 68
+        }
+    },
+    {
+        "contract_address": "0x981bedaee42ccb955fd9668b44e6db1f89fb3bb2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tensorvpn.net",
+            "store.tensorvpn.net",
+            "docs.tensorvpn.net"
+        ],
+        "telegram_groups": [
+            "TensorVPN",
+            "tensorvpnbot"
+        ],
+        "holders": {
+            "ETH": 260
+        }
+    },
+    {
+        "contract_address": "0xc4727c419acfb49c8660736506ca023a4e8509e0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nodifi.ai",
+            "nodes.nodifi.ai",
+            "nodifi-ai.gitbook.io",
+            "discord.com",
+            "nodifi.ai",
+            "rpc.nodifi.ai"
+        ],
+        "telegram_groups": [
+            "NodifiAI",
+            "NodifiAIBot"
+        ],
+        "holders": {
+            "ETH": 475
+        }
+    },
+    {
+        "contract_address": "0x97ae32f7c455556dd6d273739cf965285f263055",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "jada-ai.com"
+        ],
+        "emails": [
+            "hello@jada-ai.com"
+        ],
+        "holders": {
+            "ETH": 137
+        }
+    },
+    {
+        "contract_address": "0xcc2b3aad7571872914facf88915651e354973958",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "degencommunismeth"
+        ],
+        "holders": {
+            "ETH": 323
+        }
     }
 ]
