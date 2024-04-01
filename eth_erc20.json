@@ -117403,5 +117403,88 @@
         "holders": {
             "ETH": 120
         }
+    },
+    {
+        "contract_address": "0xe89728e602ee2bb0eb3fa000bb52065c8a126570",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 62
+        }
+    },
+    {
+        "contract_address": "0x1940a7b039ab210689aafb332c5f07b523d81f36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 420
+        }
+    },
+    {
+        "contract_address": "0x7ff7a55a7c637e3953ab25569c335e04b96c475b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1761
+        }
+    },
+    {
+        "contract_address": "0xfc0b7c005822b7a6e18f6a847926722c0047eced",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "expositionai.io"
+        ],
+        "telegram_groups": [
+            "ExpositionAI"
+        ],
+        "holders": {
+            "ETH": 57
+        }
+    },
+    {
+        "contract_address": "0xa86aca6d7c393c06dcdc30473ea3d1b05c358dff",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0x62331c11e86f9ea6965582c3ceeb573108bfb979",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 35
+        }
+    },
+    {
+        "contract_address": "0xb8d94ad04eea1044919e6f31890651be2e0214af",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 480
+        }
+    },
+    {
+        "contract_address": "0xd16006f54be2bd245d52c8ff19bc9dcbe70e32d0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.emmaai.xyz",
+            "app.emmaai.xyz"
+        ],
+        "telegram_groups": [
+            "emmaai_eth"
+        ],
+        "holders": {
+            "ETH": 99
+        }
+    },
+    {
+        "contract_address": "0x18222a762bf67024193de25e1cdc7aa6e614c695",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 48
+        }
+    },
+    {
+        "contract_address": "0xf292fd2d0492563cededa65b1ace3e8ac2615872",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 36
+        }
     }
 ]
