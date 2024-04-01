@@ -117171,5 +117171,77 @@
         "telegram_groups": [],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x9b8ce311b059df70ca11cdd10d1989b15edb1d60",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "superpepexyz.com"
+        ],
+        "holders": {
+            "ETH": 243
+        }
+    },
+    {
+        "contract_address": "0xd5d3f86dcc69085525221157f2ffdaee6290ac2f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.skullcash.tech",
+            "app.skullcash.tech"
+        ],
+        "telegram_groups": [
+            "skullcash_eth"
+        ],
+        "holders": {
+            "ETH": 68
+        }
+    },
+    {
+        "contract_address": "0xb343b53e0afc439f1a9847e8a691af1c9716c67f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xc4ad1d7ab6b8a77f37b5bc7e039f66bc3efea0eb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xbd3e4e06074f6bbdfa8b24ba0736db4de77eaf0a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xd7585ab90ee034d3faf14b5c1c0fc280750af615",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.stepai.fit"
+        ],
+        "telegram_groups": [
+            "stepai_official"
+        ],
+        "holders": {
+            "ETH": 77
+        }
+    },
+    {
+        "contract_address": "0x670bed43368af3e5838a0da83562b9708501eddc",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "moscowai.cash",
+            "app.moscowai.cash"
+        ],
+        "telegram_groups": [
+            "moscowaicash"
+        ],
+        "holders": {
+            "ETH": 74
+        }
     }
 ]
