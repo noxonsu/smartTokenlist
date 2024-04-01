@@ -117502,5 +117502,26 @@
         "telegram_groups": [],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xf2a633f3d8295c96072f302126bde05f59898d68",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "umoja.xyz",
+            "www.linkedin.com"
+        ],
+        "telegram_groups": [
+            "umojaprotocol"
+        ],
+        "holders": {
+            "ETH": 59
+        }
+    },
+    {
+        "contract_address": "0xd67451505afa224a6194749f4c29ca4ea17e6fde",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 90
+        }
     }
 ]
