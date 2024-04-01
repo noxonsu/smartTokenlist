@@ -117628,7 +117628,11 @@
         ],
         "holders": {
             "ETH": 317
-        }
+        },
+        "emails": [
+            "team@thegamehub.xyz"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x253a5b4f0a210b8d33b702a938b1d56d06b5449e",
@@ -117641,7 +117645,8 @@
         ],
         "holders": {
             "ETH": 249
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x84b91f04399ca7f587f2f5f1910b30f61dbaf125",
