@@ -117384,7 +117384,10 @@
         ],
         "holders": {
             "ETH": 202
-        }
+        },
+        "web_domains": [
+            "0xvpn.org"
+        ]
     },
     {
         "contract_address": "0xad8d7fa9308d25875983dfc750f6225ded49309d",
