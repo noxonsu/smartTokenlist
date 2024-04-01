@@ -117184,7 +117184,8 @@
         "telegram_groups": [
             "SuperPepeXYZ"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xd5d3f86dcc69085525221157f2ffdaee6290ac2f",
@@ -117199,7 +117200,8 @@
         "holders": {
             "ETH": 68
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xb343b53e0afc439f1a9847e8a691af1c9716c67f",
@@ -117237,7 +117239,8 @@
         "emails": [
             "hi@stepai.fit"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x670bed43368af3e5838a0da83562b9708501eddc",
@@ -117252,6 +117255,7 @@
         "holders": {
             "ETH": 74
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
