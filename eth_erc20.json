@@ -117784,7 +117784,11 @@
         ],
         "holders": {
             "ETH": 24
-        }
+        },
+        "telegram_groups": [
+            "airdrops_io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xde156f4e11769b68e018b4aef12c93dbeccf3be9",
@@ -117797,7 +117801,8 @@
         ],
         "holders": {
             "ETH": 142
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb8fbf5cc2826c1c9909f59dd11633b494f46fbfe",
@@ -117826,6 +117831,7 @@
         ],
         "holders": {
             "ETH": 66
-        }
+        },
+        "p6": true
     }
 ]
