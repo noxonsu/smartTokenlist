@@ -118225,7 +118225,11 @@
         },
         "web_domains": [
             "tranchess.com"
-        ]
+        ],
+        "telegram_groups": [
+            "tranchess"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8a00d04053899d17342d95923bb627945d5eb652",
@@ -118234,11 +118238,13 @@
             "zknode.org"
         ],
         "telegram_groups": [
+            "zknode_portall",
             "zknode_portal"
         ],
         "holders": {
             "ETH": 237
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1d2d925887f442a27b5393bd5dfbe059910b1ac0",
@@ -118253,7 +118259,8 @@
         ],
         "holders": {
             "ETH": 334
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x66cfc3e09236648a1996683500f1ad4c52e27b0e",
@@ -118263,7 +118270,9 @@
         },
         "web_domains": [
             "mewaico.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc45ac5700665756d393fedf0fe81a8a2b843b0eb",
@@ -118277,6 +118286,7 @@
         ],
         "holders": {
             "ETH": 46
-        }
+        },
+        "p6": true
     }
 ]
