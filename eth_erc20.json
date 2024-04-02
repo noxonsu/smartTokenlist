@@ -117892,5 +117892,94 @@
         "holders": {
             "ETH": 38
         }
+    },
+    {
+        "contract_address": "0x7ad09dd15c211099f48b59910998a255afe63f6d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 267
+        }
+    },
+    {
+        "contract_address": "0x1e228d662486b7deb6a39305b122677b26016155",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 88
+        }
+    },
+    {
+        "contract_address": "0xe5faa3fcc7729c3ac7b4571207bb5978e5c33e81",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x225e5b78f289c6d7d7757ad2b9d23b6ab31a5eea",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 61
+        }
+    },
+    {
+        "contract_address": "0x7feb164a8b7e1fcc29dd0264c730af61968b9dc3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.supertrolltoken.com"
+        ],
+        "telegram_groups": [
+            "SuperTrollErc"
+        ],
+        "holders": {
+            "ETH": 34
+        }
+    },
+    {
+        "contract_address": "0x9df2dfabec3a12851f6621ad15ef40539dc22fd3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 274
+        }
+    },
+    {
+        "contract_address": "0x5ef3634745231878ad02878ad8c720b1ced0e98d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.super-brett.com"
+        ],
+        "telegram_groups": [
+            "SuperBrettErc"
+        ],
+        "holders": {
+            "ETH": 123
+        }
+    },
+    {
+        "contract_address": "0x1ceb3df9143c78759315d39b7dd29b496a447556",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xb1089f846b01058740cc44059c4cd153182094ce",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xa2b99955292f91e7bca248ca58f6c70ce919fcff",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xf9bdf1ddb85d000091a5bd6335d7b12b16b1a290",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
