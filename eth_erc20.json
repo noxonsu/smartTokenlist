@@ -117993,5 +117993,22 @@
         "holders": {
             "ETH": 1
         }
+    },
+    {
+        "contract_address": "0x9f43f3884923e0f0dd50a5958469fd15d8029b1a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.createmytoken.com"
+        ],
+        "holders": {
+            "ETH": 73
+        }
+    },
+    {
+        "contract_address": "0xc1f72ea42c96041eea89f5f43486f38c29e964ee",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 41
+        }
     }
 ]
