@@ -118079,7 +118079,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 51
-        }
+        },
+        "web_domains": [
+            "gvec.org"
+        ]
     },
     {
         "contract_address": "0x72f020f8f3e8fd9382705723cd26380f8d0c66bb",
@@ -118096,14 +118099,20 @@
         ],
         "holders": {
             "ETH": 224
-        }
+        },
+        "web_domains": [
+            "loudfastphilly.com"
+        ]
     },
     {
         "contract_address": "0x42496acd2c7b52ce90ed65ada6cafb0e893e2474",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 280
-        }
+        },
+        "web_domains": [
+            "bitswap.kr"
+        ]
     },
     {
         "contract_address": "0xa482d4320514723a22b25173728fc3242fdf3d6e",
