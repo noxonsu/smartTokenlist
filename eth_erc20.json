@@ -118154,5 +118154,55 @@
             "ETH": 131
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x42862f48eade25661558afe0a630b132038553d0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 44
+        }
+    },
+    {
+        "contract_address": "0x8070dee687fc754b55101374e3ca6e4fd024a39e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.sentinel-ai.net",
+            "audit.sentinel-ai.net",
+            "sentinel-ai-auditor.gitbook.io"
+        ],
+        "telegram_groups": [
+            "SentinelAiERC"
+        ],
+        "holders": {
+            "ETH": 225
+        }
+    },
+    {
+        "contract_address": "0xa0021ef8970104c2d008f38d92f115ad56a9b8e1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 152
+        }
+    },
+    {
+        "contract_address": "0x1e3d13932c31d7355fcb3fec680b0cd159dc1a07",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 338
+        }
+    },
+    {
+        "contract_address": "0x215a61dead7e1303b8571bb429491aeac5f2061e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0xa0e3d7418a34057016403197064b70c127e01e19",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 123
+        }
     }
 ]
