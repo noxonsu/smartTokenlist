@@ -117833,5 +117833,64 @@
             "ETH": 66
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x396c95abe154b3b2ed204cf45c8726aa7ad47a4d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 282
+        }
+    },
+    {
+        "contract_address": "0x0d3fc894af8d43ca960fcc69e3af85c9b36eb434",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0x37dc2fd3a38fd3e898299e754c19772a67f1912b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x53393e4659803817418b0b6221ac60eb074e2cec",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "PugsyMaloneETH"
+        ],
+        "holders": {
+            "ETH": 129
+        }
+    },
+    {
+        "contract_address": "0x52883b8f2823e9090d6307d505bbeb3230db3d3e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0x6630e3a2ec1e7e0a2f9f1d2289a9a89b0551683a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0xeaa38273b7a723d930a43e4be5ea7936f896f07f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 42
+        }
+    },
+    {
+        "contract_address": "0x1b7c2f100dd432cfa3268e0e4674e9e1954e48ce",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 38
+        }
     }
 ]
