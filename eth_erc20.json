@@ -118023,5 +118023,37 @@
             "info@gokuswap.io"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x5008d39f997468057947fd370a6a8c1786a27d71",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x75a14ccce2ba9ecc55727f4db9a5eb9918c3888b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x80592d613a383f2ba3c42e4c247067289ee60152",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "TurboBot_Official",
+            "turbo_erc_bot"
+        ],
+        "holders": {
+            "ETH": 345
+        }
+    },
+    {
+        "contract_address": "0x2a342f79a5ac8ea7bc9caddcf82818c25508c797",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 28
+        }
     }
 ]
