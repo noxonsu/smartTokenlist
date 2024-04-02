@@ -118060,5 +118060,76 @@
         "holders": {
             "ETH": 28
         }
+    },
+    {
+        "contract_address": "0x86669d3308e1998c36d4fb381ed8af41f4d638d9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hitensor.net"
+        ],
+        "telegram_groups": [
+            "Hitensorai"
+        ],
+        "holders": {
+            "ETH": 422
+        }
+    },
+    {
+        "contract_address": "0xb2d007293a421471586d6bc3fbfeb1990fdfa2e6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 51
+        }
+    },
+    {
+        "contract_address": "0x72f020f8f3e8fd9382705723cd26380f8d0c66bb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3018
+        }
+    },
+    {
+        "contract_address": "0xe5c6f5fef89b64f36bfccb063962820136bac42f",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Hoppyfrogerc"
+        ],
+        "holders": {
+            "ETH": 224
+        }
+    },
+    {
+        "contract_address": "0x42496acd2c7b52ce90ed65ada6cafb0e893e2474",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 280
+        }
+    },
+    {
+        "contract_address": "0xa482d4320514723a22b25173728fc3242fdf3d6e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dappnode.com",
+            "docs.dappnode.io"
+        ],
+        "telegram_groups": [
+            "dappnode"
+        ],
+        "holders": {
+            "ETH": 42
+        }
+    },
+    {
+        "contract_address": "0xfba93d37bdcec3eb0a797ac0ec03b85d05204623",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.shivu-inu.com"
+        ],
+        "telegram_groups": [
+            "ShivuInuErc"
+        ],
+        "holders": {
+            "ETH": 131
+        }
     }
 ]
