@@ -118171,11 +118171,16 @@
             "sentinel-ai-auditor.gitbook.io"
         ],
         "telegram_groups": [
-            "SentinelAiERC"
+            "SentinelAiERC",
+            "Sentinel"
         ],
         "holders": {
             "ETH": 225
-        }
+        },
+        "emails": [
+            " info@sentinel-ai.net "
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa0021ef8970104c2d008f38d92f115ad56a9b8e1",
