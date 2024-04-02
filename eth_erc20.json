@@ -118288,5 +118288,52 @@
             "ETH": 46
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x292fcdd1b104de5a00250febba9bc6a5092a0076",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "HashAI.cc"
+        ],
+        "telegram_groups": [
+            "HashAIEth"
+        ],
+        "holders": {
+            "ETH": 1911
+        }
+    },
+    {
+        "contract_address": "0x9dc6e3d28069234e03d57ecacd6e23c483587807",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "HashAI.cc"
+        ],
+        "telegram_groups": [
+            "HashAIEth"
+        ],
+        "holders": {
+            "ETH": 31
+        }
+    },
+    {
+        "contract_address": "0xaab2b2065989a81e9a5c56b70a4b90a753b9695e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10
+        }
+    },
+    {
+        "contract_address": "0x9e55f1cd2fecb5d7cdd7a1facd033d86f0128a8b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hashai.cc",
+            "dapp.hashai.cc"
+        ],
+        "telegram_groups": [
+            "HashAIEth"
+        ],
+        "holders": {
+            "ETH": 129
+        }
     }
 ]
