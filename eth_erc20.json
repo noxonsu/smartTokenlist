@@ -118002,7 +118002,9 @@
         ],
         "holders": {
             "ETH": 73
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc1f72ea42c96041eea89f5f43486f38c29e964ee",
@@ -118012,6 +118014,14 @@
         },
         "web_domains": [
             "gokuswap.io"
-        ]
+        ],
+        "telegram_groups": [
+            "Gokuswap_Channel",
+            "GokuswapGroup"
+        ],
+        "emails": [
+            "info@gokuswap.io"
+        ],
+        "p6": true
     }
 ]
