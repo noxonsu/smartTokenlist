@@ -118072,7 +118072,11 @@
         ],
         "holders": {
             "ETH": 422
-        }
+        },
+        "emails": [
+            "info@hitensor.net"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb2d007293a421471586d6bc3fbfeb1990fdfa2e6",
@@ -118082,7 +118086,9 @@
         },
         "web_domains": [
             "gvec.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x72f020f8f3e8fd9382705723cd26380f8d0c66bb",
@@ -118102,7 +118108,8 @@
         },
         "web_domains": [
             "loudfastphilly.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x42496acd2c7b52ce90ed65ada6cafb0e893e2474",
@@ -118112,7 +118119,12 @@
         },
         "web_domains": [
             "bitswap.kr"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "support@bitswap.kr"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa482d4320514723a22b25173728fc3242fdf3d6e",
@@ -118126,7 +118138,8 @@
         ],
         "holders": {
             "ETH": 42
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xfba93d37bdcec3eb0a797ac0ec03b85d05204623",
@@ -118139,6 +118152,7 @@
         ],
         "holders": {
             "ETH": 131
-        }
+        },
+        "p6": true
     }
 ]
