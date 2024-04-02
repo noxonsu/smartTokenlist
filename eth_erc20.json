@@ -118029,7 +118029,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "info.uniswap.org"
+        ]
     },
     {
         "contract_address": "0x75a14ccce2ba9ecc55727f4db9a5eb9918c3888b",
