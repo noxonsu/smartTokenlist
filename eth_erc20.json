@@ -118222,7 +118222,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 269
-        }
+        },
+        "web_domains": [
+            "tranchess.com"
+        ]
     },
     {
         "contract_address": "0x8a00d04053899d17342d95923bb627945d5eb652",
@@ -118257,7 +118260,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 67
-        }
+        },
+        "web_domains": [
+            "mewaico.com"
+        ]
     },
     {
         "contract_address": "0xc45ac5700665756d393fedf0fe81a8a2b843b0eb",
