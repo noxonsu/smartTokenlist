@@ -117767,5 +117767,65 @@
         "holders": {
             "ETH": 323
         }
+    },
+    {
+        "contract_address": "0x873ce69b7aff788ecb7f4bd50ad61c10522f5dd4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0xe36b83ff8ae143a1ee1e960968c37c5bd4da8438",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "airdrops.io",
+            "pryzm.medium.com"
+        ],
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0xde156f4e11769b68e018b4aef12c93dbeccf3be9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "supershibaeth.com"
+        ],
+        "telegram_groups": [
+            "SuperShibaETH"
+        ],
+        "holders": {
+            "ETH": 142
+        }
+    },
+    {
+        "contract_address": "0xb8fbf5cc2826c1c9909f59dd11633b494f46fbfe",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0x8c28d28bad669afadc37b034a8070d6d7b9dfb74",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x55bdc221de669a89e4149c6c04ed826adcd55824",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "aipilot.money",
+            "app.aipilot.money",
+            "docs.aipilot.money"
+        ],
+        "telegram_groups": [
+            "aipilot_official"
+        ],
+        "holders": {
+            "ETH": 66
+        }
     }
 ]
