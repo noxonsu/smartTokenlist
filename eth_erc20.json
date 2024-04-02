@@ -118209,5 +118209,68 @@
         "holders": {
             "ETH": 123
         }
+    },
+    {
+        "contract_address": "0x5b322514ff727253292637d9054301600c2c81e8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6557
+        }
+    },
+    {
+        "contract_address": "0xd6123271f980d966b00ca4fca6c2c021f05e2e73",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 269
+        }
+    },
+    {
+        "contract_address": "0x8a00d04053899d17342d95923bb627945d5eb652",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zknode.org"
+        ],
+        "telegram_groups": [
+            "zknode_portal"
+        ],
+        "holders": {
+            "ETH": 237
+        }
+    },
+    {
+        "contract_address": "0x1d2d925887f442a27b5393bd5dfbe059910b1ac0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ormitmining.com",
+            "ormit-mining.gitbook.io",
+            "www.reddit.com"
+        ],
+        "telegram_groups": [
+            "ormitmining"
+        ],
+        "holders": {
+            "ETH": 334
+        }
+    },
+    {
+        "contract_address": "0x66cfc3e09236648a1996683500f1ad4c52e27b0e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 67
+        }
+    },
+    {
+        "contract_address": "0xc45ac5700665756d393fedf0fe81a8a2b843b0eb",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "applerealm.xyz",
+            "www.timesnownews.com"
+        ],
+        "telegram_groups": [
+            "AppleRealm"
+        ],
+        "holders": {
+            "ETH": 46
+        }
     }
 ]
