@@ -119096,5 +119096,61 @@
             "BytelinkBot"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x888f1627dc6d0a2915e1dbd4c617aad8eedb406e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mineos.tech",
+            "dapp.mineos.tech",
+            "mineos-whitepaper.gitbook.io"
+        ],
+        "telegram_groups": [
+            "MineOSPortal",
+            "MineOSEntry"
+        ],
+        "holders": {
+            "ETH": 246
+        }
+    },
+    {
+        "contract_address": "0x4aa41bc1649c9c3177ed16caaa11482295fc7441",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1124
+        }
+    },
+    {
+        "contract_address": "0x315c9c216bba84017c2204b248f29023c04c4e07",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@silo.finance",
+            "security@silo.finance"
+        ],
+        "holders": {
+            "ETH": 8
+        }
+    },
+    {
+        "contract_address": "0x8a9b8e09b24f205344f4e94fb69370e16afc6f7a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x17a3b05751fc87ccdda80c236c25ca2d4021a024",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "flarecomputing.com",
+            "flarecomputing.com"
+        ],
+        "telegram_groups": [
+            "FlareComputing",
+            "FlareComputing"
+        ],
+        "holders": {
+            "ETH": 107
+        }
     }
 ]
