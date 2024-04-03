@@ -118872,5 +118872,130 @@
             "hello@nukl.ai"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0xa173b29d604a76565aa6a027e88efe24ed883a21",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "safechain.ai",
+            "docs.safechain.ai"
+        ],
+        "telegram_groups": [
+            "safechainai"
+        ],
+        "holders": {
+            "ETH": 102
+        }
+    },
+    {
+        "contract_address": "0xc175184e3b8e329f4a94b1e78be1670c03c71c01",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zk-ai.live"
+        ],
+        "telegram_groups": [
+            "ZKAIportal"
+        ],
+        "holders": {
+            "ETH": 338
+        }
+    },
+    {
+        "contract_address": "0xeff49b0f56a97c7fd3b51f0ecd2ce999a7861420",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "boysclub.fandom.com",
+            "fofar.us"
+        ],
+        "telegram_groups": [
+            "Fofar_ERC"
+        ],
+        "holders": {
+            "ETH": 440
+        }
+    },
+    {
+        "contract_address": "0x67e0cd677bc4fe828fb9a81644b83692c10bb901",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "buzz-ai.org",
+            "dapp.buzz-ai.org",
+            "docs.buzz-ai.org"
+        ],
+        "telegram_groups": [
+            "BuzzAiEthereum"
+        ],
+        "holders": {
+            "ETH": 453
+        }
+    },
+    {
+        "contract_address": "0xd7e0809998693fd87e81d51de1619fd0ee658031",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 385
+        }
+    },
+    {
+        "contract_address": "0x904582790b73bfc1a4da534c11334da0012200f6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 130
+        }
+    },
+    {
+        "contract_address": "0x8d9da9eb212f7834e1472eb4312c37e7f9e306d1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.0xnode.app"
+        ],
+        "telegram_groups": [
+            "zeroxnode"
+        ],
+        "holders": {
+            "ETH": 261
+        }
+    },
+    {
+        "contract_address": "0xfe3aaf3b1dd087331ec68c4dd86e8fe542598d5e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 87
+        }
+    },
+    {
+        "contract_address": "0x2eead196943d6a140ee337a5536de01979ebac9d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.tokensentrybot.com",
+            "whitepaper.tokensentrybot.com"
+        ],
+        "telegram_groups": [
+            "Tokensentrybot",
+            "tokensentry_bot"
+        ],
+        "holders": {
+            "ETH": 458
+        }
+    },
+    {
+        "contract_address": "0xa9c1eae6b76c09f84a89ff785ee4001a2b7294ce",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "echoblock.org"
+        ],
+        "telegram_groups": [
+            "echoblockerc20"
+        ],
+        "holders": {
+            "ETH": 441
+        }
+    },
+    {
+        "contract_address": "0x69a4a1cd8f2f2c3500f64634b9d69c642e9a5ca4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 211
+        }
     }
 ]
