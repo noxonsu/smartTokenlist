@@ -118624,5 +118624,27 @@
         "holders": {
             "ETH": 1196
         }
+    },
+    {
+        "contract_address": "0xe5a87caa3ea2eca92cfc8961e50cff14acdb8edc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 321
+        }
+    },
+    {
+        "contract_address": "0xbb2abd0ee41c6c90fa78e2856b640ddbf1289455",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dynamoai.co",
+            "app.dynamoai.co",
+            "dynamoai.medium.com"
+        ],
+        "telegram_groups": [
+            "dynamoai_project"
+        ],
+        "holders": {
+            "ETH": 86
+        }
     }
 ]
