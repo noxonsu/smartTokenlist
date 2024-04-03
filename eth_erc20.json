@@ -118770,7 +118770,9 @@
         },
         "web_domains": [
             "mewuk.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3349206f56fc80f36ce184be8d62a15a9cbdef06",
@@ -118780,6 +118782,11 @@
         },
         "web_domains": [
             "khaicompany.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "support@khaicompany.com"
+        ],
+        "p6": true
     }
 ]
