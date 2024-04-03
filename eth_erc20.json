@@ -118788,5 +118788,72 @@
             "support@khaicompany.com"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x28e67eb7aaa8f5dd9cb7be2b2e3dad6b25edb1ab",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2280
+        }
+    },
+    {
+        "contract_address": "0x3ded03ca8fbbb799d74f797411258916396570b8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x9ba47445ab6e2410033325ee947209940b4fb7e5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cockcoin.vip"
+        ],
+        "telegram_groups": [
+            "CockChomperEth"
+        ],
+        "holders": {
+            "ETH": 426
+        }
+    },
+    {
+        "contract_address": "0x6bccf507a48d2dea11dab153ead94bd4b1f85e44",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.superharambe.com"
+        ],
+        "telegram_groups": [
+            "SuperHarambeERC"
+        ],
+        "holders": {
+            "ETH": 22
+        }
+    },
+    {
+        "contract_address": "0xa89bf95c5f15a847c8eb8d348cd7fed719ad7d80",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 289
+        }
+    },
+    {
+        "contract_address": "0x19588f29f9402bb508007feadd415c875ee3f19f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 614
+        }
+    },
+    {
+        "contract_address": "0x390f92413a4c565e958b0321b6c694f25c4d1e25",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.nukl.ai"
+        ],
+        "telegram_groups": [
+            "NuklaiOfficial"
+        ],
+        "holders": {
+            "ETH": 89
+        }
     }
 ]
