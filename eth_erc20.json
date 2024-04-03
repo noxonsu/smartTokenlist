@@ -118558,7 +118558,9 @@
         },
         "web_domains": [
             "camper.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd1613f2c4ffb134e0e159e6b9d960f4165532c3a",
@@ -118568,7 +118570,11 @@
         ],
         "holders": {
             "ETH": 21
-        }
+        },
+        "telegram_groups": [
+            "dop_org"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0bf3911695a65fe5acfcb4c9a158806ec5520387",
@@ -118581,7 +118587,8 @@
         ],
         "holders": {
             "ETH": 51
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xafcd3696025999833c63c6b316403ff73e0018fe",
