@@ -118555,7 +118555,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 9
-        }
+        },
+        "web_domains": [
+            "camper.com"
+        ]
     },
     {
         "contract_address": "0xd1613f2c4ffb134e0e159e6b9d960f4165532c3a",
