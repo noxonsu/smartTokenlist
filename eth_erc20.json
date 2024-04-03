@@ -119029,5 +119029,63 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x49ef3ca21f45d986caa45fc12757631c30e512b4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "resistorai.org"
+        ],
+        "holders": {
+            "ETH": 472
+        }
+    },
+    {
+        "contract_address": "0x2056ec69ac5afaf210b851ff74de4c194fcd986e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.portaierc20.com",
+            "docs.portaierc20.com"
+        ],
+        "telegram_groups": [
+            "PortAiErc20",
+            "Port_AI_bot"
+        ],
+        "holders": {
+            "ETH": 247
+        }
+    },
+    {
+        "contract_address": "0xe309f0e1f98313ca13ac28ba0ec1a12923b021df",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cryptopu.io",
+            "docs.cryptopu.io",
+            "dapp.cryptopu.io"
+        ],
+        "telegram_groups": [
+            "CPU_official",
+            "CryptoProcessingUnitBot"
+        ],
+        "holders": {
+            "ETH": 189
+        }
+    },
+    {
+        "contract_address": "0x3415cf1a6459b62a34656e53e4048233775ac0ac",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 144
+        }
+    },
+    {
+        "contract_address": "0x1ec646756e4ecc84966390b772e2076d5c4ad1f3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bytelink.live"
+        ],
+        "holders": {
+            "ETH": 281
+        }
     }
 ]
