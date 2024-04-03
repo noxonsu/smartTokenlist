@@ -118549,5 +118549,70 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x38d765ec6658e7e94d1e4e0032ddb60c4173cfb9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9
+        }
+    },
+    {
+        "contract_address": "0xd1613f2c4ffb134e0e159e6b9d960f4165532c3a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dop.org"
+        ],
+        "holders": {
+            "ETH": 21
+        }
+    },
+    {
+        "contract_address": "0x0bf3911695a65fe5acfcb4c9a158806ec5520387",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "leonidasai.xyz"
+        ],
+        "telegram_groups": [
+            "leonidasai_erc20"
+        ],
+        "holders": {
+            "ETH": 51
+        }
+    },
+    {
+        "contract_address": "0xafcd3696025999833c63c6b316403ff73e0018fe",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0x275df57d2b23d53e20322b4bb71bf1dcb21d0a00",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0xcfca23ca9ca720b6e98e3eb9b6aa0ffc4a5c08b9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 358
+        }
+    },
+    {
+        "contract_address": "0x8f1a7720d0798d50a01111b15f8c48d43cbc96af",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 43
+        }
+    },
+    {
+        "contract_address": "0x396ec402b42066864c406d1ac3bc86b575003ed8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1196
+        }
     }
 ]
