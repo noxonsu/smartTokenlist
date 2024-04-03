@@ -21271,8 +21271,8 @@
             "flameterminal.xyz"
         ],
         "telegram_groups": [
-            "flameterminal",
-            "flame_terminal"
+            "flame_terminal",
+            "flameterminal"
         ],
         "holders": {
             "ETH": 87
@@ -118659,7 +118659,8 @@
         ],
         "holders": {
             "ETH": 35
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf552b656022c218c26dad43ad88881fc04116f76",
@@ -118689,11 +118690,13 @@
             "flameterminal.medium.com"
         ],
         "telegram_groups": [
+            "flame_terminal",
             "flameterminal"
         ],
         "holders": {
             "ETH": 99
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb6cc4482e815e18be77b673746a9fccbe2a23039",
@@ -118703,7 +118706,9 @@
         },
         "web_domains": [
             "freetopg.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3f6c91d57aa4a115346c84aa13e67f33379cd762",
@@ -118720,7 +118725,11 @@
         ],
         "holders": {
             "ETH": 15
-        }
+        },
+        "telegram_groups": [
+            "PeapodsFinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x126c49d2c20ff1435b3370455f224ff17577c593",
