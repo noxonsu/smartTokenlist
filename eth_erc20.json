@@ -118767,13 +118767,19 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 16
-        }
+        },
+        "web_domains": [
+            "mewuk.com"
+        ]
     },
     {
         "contract_address": "0x3349206f56fc80f36ce184be8d62a15a9cbdef06",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 91
-        }
+        },
+        "web_domains": [
+            "khaicompany.com"
+        ]
     }
 ]
