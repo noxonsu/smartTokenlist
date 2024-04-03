@@ -119038,7 +119038,9 @@
         ],
         "holders": {
             "ETH": 472
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2056ec69ac5afaf210b851ff74de4c194fcd986e",
@@ -119053,7 +119055,8 @@
         ],
         "holders": {
             "ETH": 247
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe309f0e1f98313ca13ac28ba0ec1a12923b021df",
@@ -119064,12 +119067,13 @@
             "dapp.cryptopu.io"
         ],
         "telegram_groups": [
-            "CPU_official",
-            "CryptoProcessingUnitBot"
+            "CryptoProcessingUnitBot",
+            "CPU_official"
         ],
         "holders": {
             "ETH": 189
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3415cf1a6459b62a34656e53e4048233775ac0ac",
@@ -119086,6 +119090,11 @@
         ],
         "holders": {
             "ETH": 281
-        }
+        },
+        "telegram_groups": [
+            "bytelinkportal",
+            "BytelinkBot"
+        ],
+        "p6": true
     }
 ]
