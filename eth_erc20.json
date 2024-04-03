@@ -118885,7 +118885,8 @@
         ],
         "holders": {
             "ETH": 102
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc175184e3b8e329f4a94b1e78be1670c03c71c01",
@@ -118894,11 +118895,13 @@
             "zk-ai.live"
         ],
         "telegram_groups": [
+            "MaximusChain",
             "ZKAIportal"
         ],
         "holders": {
             "ETH": 338
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xeff49b0f56a97c7fd3b51f0ecd2ce999a7861420",
@@ -118912,7 +118915,8 @@
         ],
         "holders": {
             "ETH": 440
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x67e0cd677bc4fe828fb9a81644b83692c10bb901",
@@ -118927,7 +118931,8 @@
         ],
         "holders": {
             "ETH": 453
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd7e0809998693fd87e81d51de1619fd0ee658031",
@@ -118944,7 +118949,9 @@
         },
         "web_domains": [
             "mochidemy.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8d9da9eb212f7834e1472eb4312c37e7f9e306d1",
@@ -118953,11 +118960,13 @@
             "www.0xnode.app"
         ],
         "telegram_groups": [
+            "zeroxnodesBot",
             "zeroxnode"
         ],
         "holders": {
             "ETH": 261
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xfe3aaf3b1dd087331ec68c4dd86e8fe542598d5e",
