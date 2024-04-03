@@ -118814,7 +118814,11 @@
         ],
         "holders": {
             "ETH": 426
-        }
+        },
+        "emails": [
+            "info@cockcoin.vip"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6bccf507a48d2dea11dab153ead94bd4b1f85e44",
@@ -118827,7 +118831,8 @@
         ],
         "holders": {
             "ETH": 22
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa89bf95c5f15a847c8eb8d348cd7fed719ad7d80",
@@ -118837,7 +118842,12 @@
         },
         "web_domains": [
             "aichatting.net"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "contact@aichatting.net"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x19588f29f9402bb508007feadd415c875ee3f19f",
@@ -118857,6 +118867,10 @@
         ],
         "holders": {
             "ETH": 89
-        }
+        },
+        "emails": [
+            "hello@nukl.ai"
+        ],
+        "p6": true
     }
 ]
