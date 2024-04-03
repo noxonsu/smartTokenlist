@@ -119111,7 +119111,8 @@
         ],
         "holders": {
             "ETH": 246
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4aa41bc1649c9c3177ed16caaa11482295fc7441",
@@ -119146,11 +119147,11 @@
             "flarecomputing.com"
         ],
         "telegram_groups": [
-            "FlareComputing",
             "FlareComputing"
         ],
         "holders": {
             "ETH": 107
-        }
+        },
+        "p6": true
     }
 ]
