@@ -118485,5 +118485,55 @@
         "holders": {
             "ETH": 609
         }
+    },
+    {
+        "contract_address": "0x1a44e35d5451e0b78621a1b3e7a53dfaa306b1d0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi"
+        ],
+        "holders": {
+            "ETH": 17
+        }
+    },
+    {
+        "contract_address": "0x7e9afd25f5ec0eb24d7d4b089ae7ecb9651c8b1f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi"
+        ],
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0xd3cc9d8f3689b83c91b7b59cab4946b063eb894a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 111
+        }
+    },
+    {
+        "contract_address": "0x1c6a8624477107362f61877ed04a68aff68f3ec8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
     }
 ]
