@@ -118941,7 +118941,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 130
-        }
+        },
+        "web_domains": [
+            "mochidemy.com"
+        ]
     },
     {
         "contract_address": "0x8d9da9eb212f7834e1472eb4312c37e7f9e306d1",
@@ -118961,7 +118964,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 87
-        }
+        },
+        "web_domains": [
+            "coinbazooka.com"
+        ]
     },
     {
         "contract_address": "0x2eead196943d6a140ee337a5536de01979ebac9d",
@@ -118996,6 +119002,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 211
-        }
+        },
+        "web_domains": [
+            "helixesg.com"
+        ]
     }
 ]
