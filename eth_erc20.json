@@ -118647,5 +118647,83 @@
             "ETH": 86
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x81069ff4cb59b3814f5d949a957a686501da2cf5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "flashprotocol.xyz"
+        ],
+        "telegram_groups": [
+            "flashprotocol"
+        ],
+        "holders": {
+            "ETH": 35
+        }
+    },
+    {
+        "contract_address": "0xf552b656022c218c26dad43ad88881fc04116f76",
+        "sourceScanned": "processed",
+        "emails": [
+            "jake@jakegsy.com"
+        ],
+        "holders": {
+            "ETH": 587
+        }
+    },
+    {
+        "contract_address": "0xb0d40389275f4428541b2c0ebc37717dfc4b33dc",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "REDHOTCOCKERC"
+        ],
+        "holders": {
+            "ETH": 1918
+        }
+    },
+    {
+        "contract_address": "0x606a454d8a29e7d9013cdea66777d3630e8aa5d2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "flameterminal.xyz",
+            "flameterminal.medium.com"
+        ],
+        "telegram_groups": [
+            "flameterminal"
+        ],
+        "holders": {
+            "ETH": 99
+        }
+    },
+    {
+        "contract_address": "0xb6cc4482e815e18be77b673746a9fccbe2a23039",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 271
+        }
+    },
+    {
+        "contract_address": "0x3f6c91d57aa4a115346c84aa13e67f33379cd762",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 85
+        }
+    },
+    {
+        "contract_address": "0xc8515c63efc258bc7892973b40b5431a76bbba52",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "peapods.finance"
+        ],
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0x126c49d2c20ff1435b3370455f224ff17577c593",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 41
+        }
     }
 ]
