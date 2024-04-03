@@ -118355,7 +118355,8 @@
         ],
         "holders": {
             "ETH": 143
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x420698ebc9b7c225731c02d887d0729057339d39",
@@ -118375,7 +118376,8 @@
         ],
         "holders": {
             "ETH": 152
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x01532fcc3bde4ff27a1dc47c55b8bc4e429f2cf5",
@@ -118385,7 +118387,12 @@
         },
         "web_domains": [
             "catdx.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "customerservice@catdx.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x469b7aeba4fbfca20efc563c49d0c74445179d59",
@@ -118395,7 +118402,9 @@
         },
         "web_domains": [
             "fairdesk.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7bb08a75ea1d11298c6a3ff2a638153c96792c93",
@@ -118405,11 +118414,13 @@
             "discord.com"
         ],
         "telegram_groups": [
+            "ArcanaNetwork",
             "arcananetwork"
         ],
         "holders": {
             "ETH": 55
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x721cdab61a45960291b1231d0b5b8fb126c48705",
@@ -118422,7 +118433,8 @@
         ],
         "holders": {
             "ETH": 315
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb63b606ac810a52cca15e44bb630fd42d8d1d83d",
