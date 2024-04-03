@@ -118343,5 +118343,112 @@
             "ETH": 129
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x6fdcfde864e552dbfe0b20d332ec5ec3a3fb903b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "homereth.vip"
+        ],
+        "telegram_groups": [
+            "Homerethportal"
+        ],
+        "holders": {
+            "ETH": 143
+        }
+    },
+    {
+        "contract_address": "0x420698ebc9b7c225731c02d887d0729057339d39",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 268
+        }
+    },
+    {
+        "contract_address": "0x2a009d6285a26c478205e4acd48462b833b69818",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pepewifcateth.com"
+        ],
+        "telegram_groups": [
+            "PepeWifCatETH"
+        ],
+        "holders": {
+            "ETH": 152
+        }
+    },
+    {
+        "contract_address": "0x01532fcc3bde4ff27a1dc47c55b8bc4e429f2cf5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0x469b7aeba4fbfca20efc563c49d0c74445179d59",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 52
+        }
+    },
+    {
+        "contract_address": "0x7bb08a75ea1d11298c6a3ff2a638153c96792c93",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.arcana.network",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "arcananetwork"
+        ],
+        "holders": {
+            "ETH": 55
+        }
+    },
+    {
+        "contract_address": "0x721cdab61a45960291b1231d0b5b8fb126c48705",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "boysclub.net"
+        ],
+        "telegram_groups": [
+            "boysclubcoin"
+        ],
+        "holders": {
+            "ETH": 315
+        }
+    },
+    {
+        "contract_address": "0xb63b606ac810a52cca15e44bb630fd42d8d1d83d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "vessenes.com",
+            "blog.aragon.one"
+        ],
+        "holders": {
+            "ETH": 26183
+        }
+    },
+    {
+        "contract_address": "0xba17dd8903116b6969a90853334bf875bfb48806",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.blockcredit.cash",
+            "stake.blockcredit.cash",
+            "docs.blockcredit.cash"
+        ],
+        "telegram_groups": [
+            "blockcreditcash"
+        ],
+        "holders": {
+            "ETH": 100
+        }
+    },
+    {
+        "contract_address": "0x0c90c57aaf95a3a87eadda6ec3974c99d786511f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1147
+        }
     }
 ]
