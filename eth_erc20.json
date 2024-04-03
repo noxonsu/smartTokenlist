@@ -118834,7 +118834,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 289
-        }
+        },
+        "web_domains": [
+            "aichatting.net"
+        ]
     },
     {
         "contract_address": "0x19588f29f9402bb508007feadd415c875ee3f19f",
