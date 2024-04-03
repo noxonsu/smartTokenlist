@@ -118527,13 +118527,19 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 111
-        }
+        },
+        "web_domains": [
+            "venus.io"
+        ]
     },
     {
         "contract_address": "0x1c6a8624477107362f61877ed04a68aff68f3ec8",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 18
-        }
+        },
+        "web_domains": [
+            "xrpl.org"
+        ]
     }
 ]
