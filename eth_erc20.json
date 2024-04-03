@@ -118976,7 +118976,14 @@
         },
         "web_domains": [
             "coinbazooka.com"
-        ]
+        ],
+        "telegram_groups": [
+            "coinbazooka"
+        ],
+        "emails": [
+            "CoinBazooka \u00a92023 - info@coinbazooka.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2eead196943d6a140ee337a5536de01979ebac9d",
@@ -118991,7 +118998,11 @@
         ],
         "holders": {
             "ETH": 458
-        }
+        },
+        "emails": [
+            "team@tokensentrybot.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa9c1eae6b76c09f84a89ff785ee4001a2b7294ce",
@@ -119004,7 +119015,8 @@
         ],
         "holders": {
             "ETH": 441
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x69a4a1cd8f2f2c3500f64634b9d69c642e9a5ca4",
@@ -119014,6 +119026,8 @@
         },
         "web_domains": [
             "helixesg.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
