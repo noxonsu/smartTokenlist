@@ -118469,5 +118469,21 @@
         "holders": {
             "ETH": 1147
         }
+    },
+    {
+        "contract_address": "0x6eef75b8f067b5853a36da5561f52a8f22faa9af",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "taostack.network",
+            "docs.taostack.network",
+            "dapp.taostack.network"
+        ],
+        "telegram_groups": [
+            "TaoStack",
+            "TaoStack_Bot"
+        ],
+        "holders": {
+            "ETH": 609
+        }
     }
 ]
