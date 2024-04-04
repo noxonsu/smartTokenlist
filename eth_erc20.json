@@ -119375,7 +119375,11 @@
         ],
         "holders": {
             "ETH": 262
-        }
+        },
+        "emails": [
+            "support@authentic-audit.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc64a8c43256e8db267bce316c2589b00c3bfc21d",
@@ -119385,7 +119389,12 @@
         },
         "web_domains": [
             "rask.ai"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "info@rask.ai"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0f2766d8c2538b897cc939856200a5af64582c27",
@@ -119398,7 +119407,8 @@
         ],
         "holders": {
             "ETH": 95
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x62d3c05b9c3d916fbc111819bbd3cee52906c1ae",
