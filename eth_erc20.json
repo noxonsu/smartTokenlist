@@ -119516,7 +119516,12 @@
         },
         "web_domains": [
             "ms-lila.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "Email us : sharan@nikimahajan.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1f7e7a030aef0a0f600de1350c23d30b73fc7270",
@@ -119526,7 +119531,11 @@
         },
         "web_domains": [
             "virtualversions.xyz"
-        ]
+        ],
+        "telegram_groups": [
+            "virtualversionsnews"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4676e2552471165020a1ef7a0247a5c34cc165b2",
@@ -119540,7 +119549,8 @@
         ],
         "holders": {
             "ETH": 57
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xaee433adebe0fbb88daa47ef0c1a513caa52ef02",
