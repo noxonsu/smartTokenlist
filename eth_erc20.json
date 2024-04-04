@@ -119753,7 +119753,12 @@
         },
         "web_domains": [
             "getaibase.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "kyle@peakk.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x988cec475e01db276713ab3eb14505eb46cac5ce",
@@ -119763,7 +119768,11 @@
         },
         "web_domains": [
             "pyrosyncai.vip"
-        ]
+        ],
+        "telegram_groups": [
+            "PyroSyncAI"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x41ab1b6fcbb2fa9dced81acbdec13ea6315f2bf2",
@@ -119792,7 +119801,9 @@
         },
         "web_domains": [
             "moontok.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xcc08086af6458e8de650629fd706206764ac9eeb",
@@ -119816,7 +119827,8 @@
         ],
         "holders": {
             "ETH": 338
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x95eef579155cd2c5510f312c8fa39208c3be01a8",
@@ -119844,7 +119856,9 @@
         },
         "web_domains": [
             "re7.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xdb48c0636596df989007ca9d60bb04dfc2526e48",
@@ -119857,7 +119871,8 @@
         ],
         "holders": {
             "ETH": 87
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb8156243c24fd77e232fd8321f6064bd0c6b9f42",
