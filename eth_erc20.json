@@ -119437,5 +119437,57 @@
         "holders": {
             "ETH": 17256
         }
+    },
+    {
+        "contract_address": "0xbeb4a182fc35f8c8d5ddbfdcd3980addcadc0c37",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.youngshivaerc.com",
+            "young-shiva.gitbook.io"
+        ],
+        "telegram_groups": [
+            "YoungshivaErc"
+        ],
+        "holders": {
+            "ETH": 106
+        }
+    },
+    {
+        "contract_address": "0x1f16d41f9b3db03b462bdd6c92245ee708d1c103",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 96
+        }
+    },
+    {
+        "contract_address": "0x7137e8a3b069c3f787c4ffbb901b91e4ba47d082",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "TheZeusToken"
+        ],
+        "holders": {
+            "ETH": 130
+        }
+    },
+    {
+        "contract_address": "0x60538710b4f8ab01273611ca7211ec28d1cc2b18",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 48
+        }
+    },
+    {
+        "contract_address": "0x9a13024e0104211a55fa1d5fed905cab74cabaac",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 285
+        }
+    },
+    {
+        "contract_address": "0x35b96299dfe918722677a739f321358eb408558d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12
+        }
     }
 ]
