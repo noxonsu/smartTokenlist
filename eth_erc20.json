@@ -119267,7 +119267,9 @@
         },
         "web_domains": [
             "dune.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe7c3755482d0da522678af05945062d4427e0923",
@@ -119277,6 +119279,11 @@
         },
         "web_domains": [
             "alexalex.xyz"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "alexalex@mit.edu"
+        ],
+        "p6": true
     }
 ]
