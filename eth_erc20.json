@@ -119677,5 +119677,68 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xad53ed3fee57160f026189eb91e73e9317fa92f1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zktao.ai",
+            "docs.zktao.ai"
+        ],
+        "telegram_groups": [
+            "zkTAO_ai"
+        ],
+        "holders": {
+            "ETH": 576
+        }
+    },
+    {
+        "contract_address": "0x7b31e900e0c67c23bcc934e364f844eaf17c05fc",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "alphadex.app",
+            "whitepaper.alphadex.app"
+        ],
+        "telegram_groups": [
+            "alphadexchannel"
+        ],
+        "holders": {
+            "ETH": 96
+        }
+    },
+    {
+        "contract_address": "0xf17a3fe536f8f7847f1385ec1bc967b2ca9cae8d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1414
+        }
+    },
+    {
+        "contract_address": "0x1b74fa5951dfa4c03d0127011548fa79b956f63b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x79f21bc30632cd40d2af8134b469a0eb4c9574aa",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0x21e27a5e5513d6e65c4f830167390997aa84843a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 142
+        }
+    },
+    {
+        "contract_address": "0xbe428c3867f05dea2a89fc76a102b544eac7f772",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 52152
+        }
     }
 ]
