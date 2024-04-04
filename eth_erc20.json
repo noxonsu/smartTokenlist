@@ -119507,5 +119507,67 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xc110a8d0a60281739050881c2df1e9b146b6aab1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0x1f7e7a030aef0a0f600de1350c23d30b73fc7270",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 96
+        }
+    },
+    {
+        "contract_address": "0x4676e2552471165020a1ef7a0247a5c34cc165b2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.atomai.tech",
+            "app.atomai.tech"
+        ],
+        "telegram_groups": [
+            "atomai_official"
+        ],
+        "holders": {
+            "ETH": 57
+        }
+    },
+    {
+        "contract_address": "0xaee433adebe0fbb88daa47ef0c1a513caa52ef02",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 319
+        }
+    },
+    {
+        "contract_address": "0x6cb320f0574f3a0a0dac3d2ded8bfa752d5ccf46",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x72a93697a5ac73cfee39ff87298220f77c538611",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "thedare.ai"
+        ],
+        "telegram_groups": [
+            "DarePortal"
+        ],
+        "holders": {
+            "ETH": 772
+        }
+    },
+    {
+        "contract_address": "0x333a4823466879eef910a04d473505da62142069",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 903
+        }
     }
 ]
