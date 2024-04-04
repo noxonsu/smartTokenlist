@@ -119457,7 +119457,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 96
-        }
+        },
+        "web_domains": [
+            "blockworks.co"
+        ]
     },
     {
         "contract_address": "0x7137e8a3b069c3f787c4ffbb901b91e4ba47d082",
@@ -119481,13 +119484,19 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 285
-        }
+        },
+        "web_domains": [
+            "thegoatspot.net"
+        ]
     },
     {
         "contract_address": "0x35b96299dfe918722677a739f321358eb408558d",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 12
-        }
+        },
+        "web_domains": [
+            "timai.io"
+        ]
     }
 ]
