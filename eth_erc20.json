@@ -119153,5 +119153,109 @@
             "ETH": 107
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xed08c6f1f449e63b3c7d05d7cc6883b7f83d178b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wallyeth.com"
+        ],
+        "telegram_groups": [
+            "wallyai"
+        ],
+        "holders": {
+            "ETH": 115
+        }
+    },
+    {
+        "contract_address": "0x85f7cfe910393fb5593c65230622aa597e4223f1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nitefeeder.vip"
+        ],
+        "telegram_groups": [
+            "nitefeeder"
+        ],
+        "holders": {
+            "ETH": 248
+        }
+    },
+    {
+        "contract_address": "0x268d063c19e621730fd7d02d03f66d5ce04d5eb4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "youngandyeth.com"
+        ],
+        "telegram_groups": [
+            "YoungAndyETH"
+        ],
+        "holders": {
+            "ETH": 230
+        }
+    },
+    {
+        "contract_address": "0xbb6534f44f1861041568ce69a95b44468a8306e3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "drawmltoken.com"
+        ],
+        "telegram_groups": [
+            "drawML"
+        ],
+        "holders": {
+            "ETH": 190
+        }
+    },
+    {
+        "contract_address": "0xa2437a33049e878c35e16d10789a7d296bade29e",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@galeon.care"
+        ],
+        "holders": {
+            "ETH": 161
+        }
+    },
+    {
+        "contract_address": "0xec7593a6254ce83fa3545b1f44ecdf6c6b85848b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "lockchain.ai"
+        ],
+        "holders": {
+            "ETH": 44
+        }
+    },
+    {
+        "contract_address": "0x4881ef0bf6d2365d3dd6499ccd7532bcdbce0658",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org"
+        ],
+        "holders": {
+            "ETH": 9
+        }
+    },
+    {
+        "contract_address": "0xe7c3755482d0da522678af05945062d4427e0923",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 90
+        }
     }
 ]
