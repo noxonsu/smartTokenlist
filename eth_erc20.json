@@ -119285,5 +119285,80 @@
             "alexalex@mit.edu"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x6b448aeb3bfd1dcbe337d59f6dee159daab52768",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "resistorai.org"
+        ],
+        "holders": {
+            "ETH": 535
+        }
+    },
+    {
+        "contract_address": "0x24ac2273e6864c71355ce1004e94d75dd1fb067f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 191
+        }
+    },
+    {
+        "contract_address": "0x03236edf4541e73a1ec8228697948e8895940067",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 607
+        }
+    },
+    {
+        "contract_address": "0x6b7ea9ec959362d71452951ae20c4aaeb9831683",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xba051ae1207b31fef1321c59cb5f66cd117dd62a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "plaxai.org",
+            "app.plaxai.org",
+            "docs.plaxai.org"
+        ],
+        "telegram_groups": [
+            "plaxai_official"
+        ],
+        "holders": {
+            "ETH": 27
+        }
+    },
+    {
+        "contract_address": "0x293a0fd4ac9834f4fabff429f18d58603454cafc",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.estateai.tech",
+            "app.estateai.tech",
+            "docs.estateai.tech"
+        ],
+        "telegram_groups": [
+            "estateaitech"
+        ],
+        "holders": {
+            "ETH": 104
+        }
+    },
+    {
+        "contract_address": "0xe419c3ff4c698e156fb7d5ad441da4f0ad7c9f36",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.cognitecai.com",
+            "bridge.cognitecai.com"
+        ],
+        "telegram_groups": [
+            "cognitecai_portal"
+        ],
+        "holders": {
+            "ETH": 51
+        }
     }
 ]
