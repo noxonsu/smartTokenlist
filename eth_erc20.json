@@ -119214,7 +119214,10 @@
         ],
         "holders": {
             "ETH": 161
-        }
+        },
+        "web_domains": [
+            "galeon.pl"
+        ]
     },
     {
         "contract_address": "0xec7593a6254ce83fa3545b1f44ecdf6c6b85848b",
@@ -119249,13 +119252,19 @@
         ],
         "holders": {
             "ETH": 9
-        }
+        },
+        "web_domains": [
+            "dune.com"
+        ]
     },
     {
         "contract_address": "0xe7c3755482d0da522678af05945062d4427e0923",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 90
-        }
+        },
+        "web_domains": [
+            "alexalex.xyz"
+        ]
     }
 ]
