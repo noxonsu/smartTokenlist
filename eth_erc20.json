@@ -119382,7 +119382,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 40
-        }
+        },
+        "web_domains": [
+            "rask.ai"
+        ]
     },
     {
         "contract_address": "0x0f2766d8c2538b897cc939856200a5af64582c27",
