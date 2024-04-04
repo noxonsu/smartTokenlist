@@ -119165,7 +119165,11 @@
         ],
         "holders": {
             "ETH": 115
-        }
+        },
+        "emails": [
+            "wallyaieth@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x85f7cfe910393fb5593c65230622aa597e4223f1",
@@ -119178,7 +119182,8 @@
         ],
         "holders": {
             "ETH": 248
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x268d063c19e621730fd7d02d03f66d5ce04d5eb4",
@@ -119191,7 +119196,8 @@
         ],
         "holders": {
             "ETH": 230
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xbb6534f44f1861041568ce69a95b44468a8306e3",
@@ -119204,20 +119210,24 @@
         ],
         "holders": {
             "ETH": 190
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa2437a33049e878c35e16d10789a7d296bade29e",
         "sourceScanned": "processed",
         "emails": [
-            "security@galeon.care"
+            "security@galeon.care",
+            "toddh@alexandermarineaust.com.au"
         ],
         "holders": {
             "ETH": 161
         },
         "web_domains": [
             "galeon.pl"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xec7593a6254ce83fa3545b1f44ecdf6c6b85848b",
@@ -119227,7 +119237,9 @@
         ],
         "holders": {
             "ETH": 44
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4881ef0bf6d2365d3dd6499ccd7532bcdbce0658",
