@@ -119594,7 +119594,9 @@
         },
         "web_domains": [
             "euclid.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8f7627bd46b30e296aa3aabe1df9bfac10920b6e",
@@ -119621,7 +119623,8 @@
         ],
         "holders": {
             "ETH": 53
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe82983bfb34f4ca24504fdc9c18853b8d5a05857",
@@ -119645,7 +119648,9 @@
         },
         "web_domains": [
             "dragons.rest"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x10bc518c32fbae5e38ecb50a612160571bd81e44",
