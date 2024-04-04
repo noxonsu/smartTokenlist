@@ -119363,5 +119363,45 @@
             "ETH": 51
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x78d21f9cec0766441b56dd506aeafe5b23c45774",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "authentic-audit.com"
+        ],
+        "telegram_groups": [
+            "Authenticerc"
+        ],
+        "holders": {
+            "ETH": 262
+        }
+    },
+    {
+        "contract_address": "0xc64a8c43256e8db267bce316c2589b00c3bfc21d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 40
+        }
+    },
+    {
+        "contract_address": "0x0f2766d8c2538b897cc939856200a5af64582c27",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pepewindows.me"
+        ],
+        "telegram_groups": [
+            "pepe_windows"
+        ],
+        "holders": {
+            "ETH": 95
+        }
+    },
+    {
+        "contract_address": "0x62d3c05b9c3d916fbc111819bbd3cee52906c1ae",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11460
+        }
     }
 ]
