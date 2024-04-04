@@ -119585,5 +119585,67 @@
         "holders": {
             "ETH": 903
         }
+    },
+    {
+        "contract_address": "0x642c9d741ab3de9a8b43b79f7e5bc8a953e3ec81",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 293
+        }
+    },
+    {
+        "contract_address": "0x8f7627bd46b30e296aa3aabe1df9bfac10920b6e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 198
+        }
+    },
+    {
+        "contract_address": "0x20c8cf9714339fd018898cb5de84c089e48d1c87",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 465
+        }
+    },
+    {
+        "contract_address": "0x924a07d928480b76eacea140fdcaf1c2bcd28de1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "beefstake.tech"
+        ],
+        "telegram_groups": [
+            "beef_stake"
+        ],
+        "holders": {
+            "ETH": 53
+        }
+    },
+    {
+        "contract_address": "0xe82983bfb34f4ca24504fdc9c18853b8d5a05857",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 61
+        }
+    },
+    {
+        "contract_address": "0x6715515f5aa98e8bd3624922e1ba91e6f5fc4402",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 991
+        }
+    },
+    {
+        "contract_address": "0xecb7b5502627af75cf039c76abbae741f8df0751",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0x10bc518c32fbae5e38ecb50a612160571bd81e44",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1598
+        }
     }
 ]
