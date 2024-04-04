@@ -119658,5 +119658,19 @@
         "holders": {
             "ETH": 1598
         }
+    },
+    {
+        "contract_address": "0xc36983d3d9d379ddfb306dfb919099cb6730e355",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 497
+        }
+    },
+    {
+        "contract_address": "0x678ae35120ebcd235ab1bbd3d93e9298f6d3778e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
