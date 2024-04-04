@@ -119450,7 +119450,8 @@
         ],
         "holders": {
             "ETH": 106
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1f16d41f9b3db03b462bdd6c92245ee708d1c103",
@@ -119460,7 +119461,11 @@
         },
         "web_domains": [
             "blockworks.co"
-        ]
+        ],
+        "telegram_groups": [
+            "blockworks_news"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7137e8a3b069c3f787c4ffbb901b91e4ba47d082",
@@ -119487,7 +119492,9 @@
         },
         "web_domains": [
             "thegoatspot.net"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x35b96299dfe918722677a739f321358eb408558d",
@@ -119497,6 +119504,8 @@
         },
         "web_domains": [
             "timai.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
