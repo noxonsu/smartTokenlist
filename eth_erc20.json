@@ -119744,5 +119744,114 @@
         "holders": {
             "ETH": 52152
         }
+    },
+    {
+        "contract_address": "0xd4aa90640d923dc3b51fc6a94384b74ff327dcee",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0x988cec475e01db276713ab3eb14505eb46cac5ce",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 249
+        }
+    },
+    {
+        "contract_address": "0x41ab1b6fcbb2fa9dced81acbdec13ea6315f2bf2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tokenmarket.net",
+            "tokenmarket.net",
+            "tokenmarket.net"
+        ],
+        "holders": {
+            "ETH": 5809
+        }
+    },
+    {
+        "contract_address": "0x00000000e88649dd6aab90088ca25d772d4607d0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1205
+        }
+    },
+    {
+        "contract_address": "0x1d71bd9e4221acbdc667ff32fd388c2356142aba",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 138
+        }
+    },
+    {
+        "contract_address": "0xcc08086af6458e8de650629fd706206764ac9eeb",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "zogzportal"
+        ],
+        "holders": {
+            "ETH": 770
+        }
+    },
+    {
+        "contract_address": "0x9988465344416bc7f36ec01010f7cbe80b3ca68f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "Ai-net.io",
+            "ai-net.gitbook.io"
+        ],
+        "telegram_groups": [
+            "AiNetPortal"
+        ],
+        "holders": {
+            "ETH": 338
+        }
+    },
+    {
+        "contract_address": "0x95eef579155cd2c5510f312c8fa39208c3be01a8",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org"
+        ],
+        "holders": {
+            "ETH": 29
+        }
+    },
+    {
+        "contract_address": "0xdb48c0636596df989007ca9d60bb04dfc2526e48",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cdrive.cx"
+        ],
+        "telegram_groups": [
+            "cdriveportal"
+        ],
+        "holders": {
+            "ETH": 87
+        }
+    },
+    {
+        "contract_address": "0xb8156243c24fd77e232fd8321f6064bd0c6b9f42",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 362
+        }
     }
 ]
