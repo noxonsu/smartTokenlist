@@ -119591,7 +119591,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 293
-        }
+        },
+        "web_domains": [
+            "euclid.finance"
+        ]
     },
     {
         "contract_address": "0x8f7627bd46b30e296aa3aabe1df9bfac10920b6e",
@@ -119639,7 +119642,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 16
-        }
+        },
+        "web_domains": [
+            "dragons.rest"
+        ]
     },
     {
         "contract_address": "0x10bc518c32fbae5e38ecb50a612160571bd81e44",
