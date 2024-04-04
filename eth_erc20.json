@@ -119416,5 +119416,25 @@
         "holders": {
             "ETH": 11460
         }
+    },
+    {
+        "contract_address": "0xba26feb1518cf932591f13857a5db32f09841cbb",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "youngpepeeth.com"
+        ],
+        "telegram_groups": [
+            "YoungPepeETH"
+        ],
+        "holders": {
+            "ETH": 139
+        }
+    },
+    {
+        "contract_address": "0x255aa6df07540cb5d3d297f0d0d4d84cb52bc8e6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 17256
+        }
     }
 ]
