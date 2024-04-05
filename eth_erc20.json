@@ -120042,7 +120042,9 @@
         ],
         "holders": {
             "ETH": 15
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xfdb93b3b10936cf81fa59a02a7523b6e2149b2b7",
@@ -120066,7 +120068,11 @@
         },
         "web_domains": [
             "saga.xyz"
-        ]
+        ],
+        "telegram_groups": [
+            "sagaofficialchannel"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8d7a9452361b465247ec613ac8cc20758ceae06f",
@@ -120076,7 +120082,9 @@
         },
         "web_domains": [
             "edaface.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2325e3f261cadb1c30cebf66c9f95f6fb016c0d4",
@@ -120093,7 +120101,9 @@
         },
         "web_domains": [
             "privago.ai"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x78dfbe50896e637e2b845b613ea10a7ae152ba47",
@@ -120106,7 +120116,11 @@
         ],
         "holders": {
             "ETH": 67
-        }
+        },
+        "emails": [
+            "info@profitiqai.tech"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4de952dff608304e855396798919d243d5f5f591",
@@ -120123,7 +120137,12 @@
         },
         "web_domains": [
             "berachain.com"
-        ]
+        ],
+        "telegram_groups": [
+            "BerachainEco",
+            "BerachainPortal"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x28700586cce4190e1e0e582b861c5295ed81ee46",
