@@ -120309,5 +120309,89 @@
         "holders": {
             "ETH": 2179
         }
+    },
+    {
+        "contract_address": "0x68788155343121a3b0c31965f72ef4f65065555d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "xatanai.com",
+            "docs.xatanai.com"
+        ],
+        "telegram_groups": [
+            "xatanaigroup"
+        ],
+        "holders": {
+            "ETH": 73
+        }
+    },
+    {
+        "contract_address": "0xb47a4362dbc1bb844353d17ed9c5d9a31847de70",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 31
+        }
+    },
+    {
+        "contract_address": "0x1a50fceb7b6b9019a43e71083ec17cfb918b0b29",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "oxaiscanner.io"
+        ],
+        "telegram_groups": [
+            "Oxscannerai"
+        ],
+        "holders": {
+            "ETH": 459
+        }
+    },
+    {
+        "contract_address": "0x386724cc7b88c13d1627cf193fab31037cb32ccb",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "luminaai.xyz",
+            "app.luminaai.xyz"
+        ],
+        "telegram_groups": [
+            "luminaai_erc20"
+        ],
+        "holders": {
+            "ETH": 55
+        }
+    },
+    {
+        "contract_address": "0xf1e0cb4c2ebe1a07c546af61826f98e4281fadd5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.synergyaione.org",
+            "stake.synergyaione.org",
+            "docs.synergyaione.org"
+        ],
+        "telegram_groups": [
+            "synergyaione"
+        ],
+        "holders": {
+            "ETH": 140
+        }
+    },
+    {
+        "contract_address": "0x839530f96e0ccd7dd4ffcca08d9206eb87fce5d2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "vitalmuscle.fit",
+            "docs.vitalmuscle.fit"
+        ],
+        "telegram_groups": [
+            "vitalmuscleai"
+        ],
+        "holders": {
+            "ETH": 96
+        }
+    },
+    {
+        "contract_address": "0x2db5c8c7cda22f4c45f638ae8a4c9e7e48b47154",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
     }
 ]
