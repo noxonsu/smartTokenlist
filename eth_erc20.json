@@ -120523,7 +120523,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 2
-        }
+        },
+        "web_domains": [
+            "everyworld.com"
+        ]
     },
     {
         "contract_address": "0x649004e1c9fd8b0241d544bd78fc4eb3d3b4d199",
@@ -120609,7 +120612,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 23
-        }
+        },
+        "web_domains": [
+            "cdfi.ai"
+        ]
     },
     {
         "contract_address": "0x2fc0a9516ed81cde8eab341e5392db43883983fd",
@@ -120673,7 +120679,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 15
-        }
+        },
+        "web_domains": [
+            "dedaub.com"
+        ]
     },
     {
         "contract_address": "0x9afa9999e45484adf5d8eed8d9dfe0693bacd838",
