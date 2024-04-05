@@ -120526,7 +120526,11 @@
         },
         "web_domains": [
             "everyworld.com"
-        ]
+        ],
+        "telegram_groups": [
+            "joineveryworld"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x649004e1c9fd8b0241d544bd78fc4eb3d3b4d199",
@@ -120540,7 +120544,11 @@
         ],
         "holders": {
             "ETH": 327
-        }
+        },
+        "emails": [
+            "\nteam@inovai.network"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2022d9af896ecf0f1f5b48cddab9e74b5aabcf00",
@@ -120562,7 +120570,8 @@
         ],
         "holders": {
             "ETH": 80
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x25c45375bedfaccaee650564f85acc1615236c3d",
@@ -120571,11 +120580,13 @@
             "www.bobererc.site"
         ],
         "telegram_groups": [
+            "BoberSol",
             "BoberErc"
         ],
         "holders": {
             "ETH": 422
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x60e254e35dd712394b3aba7a1d19114732e143dd",
@@ -120595,7 +120606,8 @@
         ],
         "holders": {
             "ETH": 110
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf614e54d972bab297172765ca83683288f3eae36",
@@ -120615,7 +120627,11 @@
         },
         "web_domains": [
             "cdfi.ai"
-        ]
+        ],
+        "telegram_groups": [
+            "CeDeFiAi"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2fc0a9516ed81cde8eab341e5392db43883983fd",
