@@ -120392,6 +120392,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 18
-        }
+        },
+        "web_domains": [
+            "solscan.io"
+        ]
     }
 ]
