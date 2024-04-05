@@ -120423,13 +120423,19 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 24
-        }
+        },
+        "web_domains": [
+            "bulbulwatches.com"
+        ]
     },
     {
         "contract_address": "0x3dfe6e885637b3b206688b530e140576c569ea7c",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 19
-        }
+        },
+        "web_domains": [
+            "fusionbrain.ai"
+        ]
     }
 ]
