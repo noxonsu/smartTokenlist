@@ -120716,5 +120716,32 @@
         "holders": {
             "ETH": 82
         }
+    },
+    {
+        "contract_address": "0x72fca22c6070b4cf68abdb719fa484d9ef10a73b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sowa.ai",
+            "docs.sowa.ai",
+            "app.sowa.ai",
+            "app.sowa.ai",
+            "app.sowa.ai",
+            "app.sowa.ai",
+            "www.binance.com",
+            "coinmarketcap.com"
+        ],
+        "telegram_groups": [
+            "SOWA_ai"
+        ],
+        "holders": {
+            "ETH": 275
+        }
+    },
+    {
+        "contract_address": "0x99a2ed4d7b703b61cddce7417f003c5a3171acc5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 33
+        }
     }
 ]
