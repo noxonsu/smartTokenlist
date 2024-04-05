@@ -119880,5 +119880,82 @@
         "holders": {
             "ETH": 362
         }
+    },
+    {
+        "contract_address": "0xcdbb2498fa9e7b5849bed5d3661386d0ce2733b2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 813
+        }
+    },
+    {
+        "contract_address": "0x4d11c6418bb178447162d56c081b775f5a9ec30c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xdc03a3997fe32c6268583b8229e0bb4e52cb39bd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xcfce2ca008a5ae932110c0093e92528724cfadd0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x8f43ee50942e96d84052253ab13f59c1d942fb98",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 395
+        }
+    },
+    {
+        "contract_address": "0xf0655dcee37e5c0b70fffd70d85f88f8edf0aff6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2389
+        }
+    },
+    {
+        "contract_address": "0xdacf5fa19b1f720111609043ac67a9818262850c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi"
+        ],
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0x88490ce333e3f3aa384e5183836142490600da8c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "solidifysecurity.finance"
+        ],
+        "holders": {
+            "ETH": 309
+        }
+    },
+    {
+        "contract_address": "0xe0b0af14d5eecc2a7d7d723208593379e349a25c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 576
+        }
     }
 ]
