@@ -120296,7 +120296,10 @@
         ],
         "holders": {
             "ETH": 119
-        }
+        },
+        "web_domains": [
+            "pandora.io"
+        ]
     },
     {
         "contract_address": "0xbf4d18ae16f2deeb1e24a3c85b5f9dcc41d4a09e",
