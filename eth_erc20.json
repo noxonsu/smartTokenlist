@@ -120454,7 +120454,8 @@
         ],
         "holders": {
             "ETH": 131
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x21d8309628b3786072025c61a16aafe3f5ee85e5",
@@ -120468,7 +120469,11 @@
         ],
         "holders": {
             "ETH": 58
-        }
+        },
+        "emails": [
+            "Contact us: contact@0xstealthai.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x98a7800eb17e1a0e2b2a4b69e83c58f4535f2180",
@@ -120489,7 +120494,8 @@
         ],
         "holders": {
             "ETH": 100
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x61ebd41781355fd5984c91b78f80934fee0061df",
