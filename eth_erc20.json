@@ -120731,11 +120731,18 @@
             "coinmarketcap.com"
         ],
         "telegram_groups": [
-            "SOWA_ai"
+            "sowa_ai",
+            "Sowa_ai",
+            "SOWA_ai",
+            "ALEXpelliarmus"
         ],
         "holders": {
             "ETH": 275
-        }
+        },
+        "emails": [
+            "contact@sowa.ai"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x99a2ed4d7b703b61cddce7417f003c5a3171acc5",
@@ -120745,6 +120752,13 @@
         },
         "web_domains": [
             "anzeigenhauptmeister.site"
-        ]
+        ],
+        "telegram_groups": [
+            "anzeigenhauptmeisterportal"
+        ],
+        "emails": [
+            "Anzeigenhauptmeistereth@gmail.com"
+        ],
+        "p6": true
     }
 ]
