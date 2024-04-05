@@ -120003,7 +120003,15 @@
         },
         "web_domains": [
             "paal.ai"
-        ]
+        ],
+        "telegram_groups": [
+            "paal_ai",
+            "MyPaalBot"
+        ],
+        "emails": [
+            "support@paal.ai"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1c74d8c8fe37b0fa47debc82e0ab6925a3dc4a2f",
@@ -120016,7 +120024,8 @@
         ],
         "holders": {
             "ETH": 399
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3fb3df9c5241d781f9b28196584d3636fa6d01d6",
