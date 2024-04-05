@@ -120426,7 +120426,9 @@
         },
         "web_domains": [
             "bulbulwatches.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3dfe6e885637b3b206688b530e140576c569ea7c",
@@ -120436,6 +120438,8 @@
         },
         "web_domains": [
             "fusionbrain.ai"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
