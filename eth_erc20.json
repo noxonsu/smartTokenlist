@@ -120404,5 +120404,32 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x02020595e6a34a03a8e9c1f5624b1b7713810083",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "spectrachain.io"
+        ],
+        "telegram_groups": [
+            "SpectraChain"
+        ],
+        "holders": {
+            "ETH": 1295
+        }
+    },
+    {
+        "contract_address": "0x1e660227d70eb45b4837cb6573bb3792f4bc741a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0x3dfe6e885637b3b206688b530e140576c569ea7c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19
+        }
     }
 ]
