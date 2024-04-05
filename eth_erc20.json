@@ -120102,7 +120102,9 @@
         "web_domains": [
             "privago.ai"
         ],
-        "telegram_groups": [],
+        "telegram_groups": [
+            "privago"
+        ],
         "p6": true
     },
     {
@@ -120645,7 +120647,8 @@
         ],
         "holders": {
             "ETH": 89
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0d85693b4cb4b8bb4d407e33ba1d9de861db80ca",
@@ -120659,7 +120662,8 @@
         ],
         "holders": {
             "ETH": 373
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x815b6fc981fa3040e4545e9c78a77feaeb77b8b5",
@@ -120669,12 +120673,14 @@
             "docs.gestureai.io"
         ],
         "telegram_groups": [
-            "GestureAI",
-            "GestureAI_Bot"
+            "GestureAI_Bot",
+            "GestureAI_Feed",
+            "GestureAI"
         ],
         "holders": {
             "ETH": 283
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6e13d2e21a27cb5f459a97ecb95026c5daa2c012",
@@ -120683,12 +120689,14 @@
             "chataieth.com"
         ],
         "telegram_groups": [
+            "ChatAiEthBot",
             "ChatAiErc",
             "ChatAIEthBot"
         ],
         "holders": {
             "ETH": 4
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x32a0ce2bdfc37ee606ab905b4f9fc286049a774f",
@@ -120698,7 +120706,9 @@
         },
         "web_domains": [
             "dedaub.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9afa9999e45484adf5d8eed8d9dfe0693bacd838",
