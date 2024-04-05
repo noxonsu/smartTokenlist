@@ -120250,5 +120250,59 @@
         "holders": {
             "ETH": 652
         }
+    },
+    {
+        "contract_address": "0xd1d6268ca0298294618a4aa4ca308dcd6db9aff4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 192
+        }
+    },
+    {
+        "contract_address": "0x3af83b7a59d7b4aaa58007f8b10823f94f727f4c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "evolution-coin.com"
+        ],
+        "telegram_groups": [
+            "godmodevolution"
+        ],
+        "holders": {
+            "ETH": 104
+        }
+    },
+    {
+        "contract_address": "0xf91ac30e9b517f6d57e99446ee44894e6c22c032",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "lolerc20"
+        ],
+        "holders": {
+            "ETH": 1477
+        }
+    },
+    {
+        "contract_address": "0x48515e2baee5283e3b7cdc624f3c63caef13140a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 765
+        }
+    },
+    {
+        "contract_address": "0xf491e016ea6ae34e992a9dff09f1d3690b10e4ae",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "GGGDOG_EN"
+        ],
+        "holders": {
+            "ETH": 119
+        }
+    },
+    {
+        "contract_address": "0xbf4d18ae16f2deeb1e24a3c85b5f9dcc41d4a09e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2179
+        }
     }
 ]
