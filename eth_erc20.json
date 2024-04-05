@@ -119973,5 +119973,53 @@
         "holders": {
             "ETH": 5
         }
+    },
+    {
+        "contract_address": "0x8e263a92814774d1d7a40cb07c7d24c6191a50f2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x841d3b6660663ed4b0d9b9edaee6642e05a4e182",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 27
+        }
+    },
+    {
+        "contract_address": "0x2810083d59d7efa804ce1e082a6a1fd6c7699864",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x262cd52dcffc413d3dd9f69c627b89deb6769576",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0x1c74d8c8fe37b0fa47debc82e0ab6925a3dc4a2f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "strike-protocol.com"
+        ],
+        "telegram_groups": [
+            "StrikeProtocol"
+        ],
+        "holders": {
+            "ETH": 399
+        }
+    },
+    {
+        "contract_address": "0x3fb3df9c5241d781f9b28196584d3636fa6d01d6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 774
+        }
     }
 ]
