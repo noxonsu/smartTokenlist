@@ -120772,7 +120772,8 @@
         ],
         "holders": {
             "ETH": 94
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8a5f70cb7701383ef1c133b55e341588900f13e4",
@@ -120783,11 +120784,13 @@
             "docs.block-ai.cc"
         ],
         "telegram_groups": [
+            "BlockAIProxy_Bot",
             "BlockAIErc"
         ],
         "holders": {
             "ETH": 284
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x11bce3d6e2aec3bfaa4b47fb654c850418ce861b",
@@ -120814,7 +120817,11 @@
         ],
         "holders": {
             "ETH": 178
-        }
+        },
+        "telegram_groups": [
+            "evolpepe"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd947b0ceab2a8885866b9a04a06ae99de852a3d4",
@@ -120835,7 +120842,8 @@
         ],
         "holders": {
             "ETH": 398
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5910282cb17555e62fe7e9e585feb87a40138952",
