@@ -120033,5 +120033,91 @@
         "holders": {
             "ETH": 774
         }
+    },
+    {
+        "contract_address": "0x8bf384296a009723435ad5e8203da5736b895038",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.airswap.io"
+        ],
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0xfdb93b3b10936cf81fa59a02a7523b6e2149b2b7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 125
+        }
+    },
+    {
+        "contract_address": "0x2e8f4bdbe3d47d7d7de490437aea9915d930f1a3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 45
+        }
+    },
+    {
+        "contract_address": "0x25cbbcddc474ed95a5539c382ba6f486b2eb8d84",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 22
+        }
+    },
+    {
+        "contract_address": "0x8d7a9452361b465247ec613ac8cc20758ceae06f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 40
+        }
+    },
+    {
+        "contract_address": "0x2325e3f261cadb1c30cebf66c9f95f6fb016c0d4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 29
+        }
+    },
+    {
+        "contract_address": "0xcbb49012f50fbba992b0688f07d550d1a868abc3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9
+        }
+    },
+    {
+        "contract_address": "0x78dfbe50896e637e2b845b613ea10a7ae152ba47",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "profitiqai.tech"
+        ],
+        "telegram_groups": [
+            "Profit_IQ"
+        ],
+        "holders": {
+            "ETH": 67
+        }
+    },
+    {
+        "contract_address": "0x4de952dff608304e855396798919d243d5f5f591",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x2362de6a331ca1f0f5243ce99792dbedab68d184",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0x28700586cce4190e1e0e582b861c5295ed81ee46",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 106
+        }
     }
 ]
