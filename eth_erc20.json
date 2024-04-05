@@ -120441,5 +120441,68 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xbe1ef42c4acf5edc4226ab2596cd879071f43664",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.nekoxtoken.com",
+            "neko-x.gitbook.io"
+        ],
+        "telegram_groups": [
+            "Nekoxerc20"
+        ],
+        "holders": {
+            "ETH": 131
+        }
+    },
+    {
+        "contract_address": "0x21d8309628b3786072025c61a16aafe3f5ee85e5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "0xstealthai.com",
+            "docs.0xstealthai.com"
+        ],
+        "telegram_groups": [
+            "zeroxstealthai"
+        ],
+        "holders": {
+            "ETH": 58
+        }
+    },
+    {
+        "contract_address": "0x98a7800eb17e1a0e2b2a4b69e83c58f4535f2180",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x2e54bf5a7f15628650857a7b53035449be0d0a02",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.dexopiaai.com",
+            "docs.dexopiaai.com"
+        ],
+        "telegram_groups": [
+            "dexopiaai_official"
+        ],
+        "holders": {
+            "ETH": 100
+        }
+    },
+    {
+        "contract_address": "0x61ebd41781355fd5984c91b78f80934fee0061df",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "graphitect.ai",
+            "docs.graphitect.ai"
+        ],
+        "telegram_groups": [
+            "GraphitectAIETH"
+        ],
+        "holders": {
+            "ETH": 583
+        }
     }
 ]
