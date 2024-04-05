@@ -119939,7 +119939,9 @@
         ],
         "holders": {
             "ETH": 14
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x88490ce333e3f3aa384e5183836142490600da8c",
@@ -119949,7 +119951,14 @@
         ],
         "holders": {
             "ETH": 309
-        }
+        },
+        "telegram_groups": [
+            "Solidifysecurity"
+        ],
+        "emails": [
+            "admin@solidiysecurity.finance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe0b0af14d5eecc2a7d7d723208593379e349a25c",
