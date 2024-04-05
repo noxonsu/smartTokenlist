@@ -120760,5 +120760,88 @@
             "Anzeigenhauptmeistereth@gmail.com"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x68aae81b4241ffe03d3552d42a69940604fe28bf",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.mattfuriescat.com"
+        ],
+        "telegram_groups": [
+            "mattfuriescat"
+        ],
+        "holders": {
+            "ETH": 94
+        }
+    },
+    {
+        "contract_address": "0x8a5f70cb7701383ef1c133b55e341588900f13e4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "block-ai.cc",
+            "stats.block-ai.cc",
+            "docs.block-ai.cc"
+        ],
+        "telegram_groups": [
+            "BlockAIErc"
+        ],
+        "holders": {
+            "ETH": 284
+        }
+    },
+    {
+        "contract_address": "0x11bce3d6e2aec3bfaa4b47fb654c850418ce861b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 198
+        }
+    },
+    {
+        "contract_address": "0x26c1a2c525b8d6a8ca1eae6143567a779bebe962",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "teslarobotaxieth"
+        ],
+        "holders": {
+            "ETH": 129
+        }
+    },
+    {
+        "contract_address": "0xd9e57f69ddeb3a4d16c40eb90d12f481b9f9b8bb",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.evolpepesociety.com"
+        ],
+        "holders": {
+            "ETH": 178
+        }
+    },
+    {
+        "contract_address": "0xd947b0ceab2a8885866b9a04a06ae99de852a3d4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7997
+        }
+    },
+    {
+        "contract_address": "0xe8e531aa894969759d0d4b207a972a3a97d287f0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "the-watcher.ai",
+            "docs.the-watcher.ai"
+        ],
+        "telegram_groups": [
+            "watcher_ai"
+        ],
+        "holders": {
+            "ETH": 398
+        }
+    },
+    {
+        "contract_address": "0x5910282cb17555e62fe7e9e585feb87a40138952",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 161
+        }
     }
 ]
