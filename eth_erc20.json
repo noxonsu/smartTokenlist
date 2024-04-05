@@ -120158,5 +120158,87 @@
             "sales@greenapu.com"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x33c34f1579ba9562a8545cfd5da36e89ec343a77",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 161
+        }
+    },
+    {
+        "contract_address": "0x92b914f1ddcbb1d117a718e83c9ed7eb32fc44d1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7551
+        }
+    },
+    {
+        "contract_address": "0xf64e5b06ebc24b90a0dabedc8adee265a71221f1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "thenextgem.ai"
+        ],
+        "telegram_groups": [
+            "NextGemAI_Group"
+        ],
+        "holders": {
+            "ETH": 62
+        }
+    },
+    {
+        "contract_address": "0x5e856bd39dd668c9e8f55c84e7362791a3aba94a",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "mermoneth"
+        ],
+        "holders": {
+            "ETH": 210
+        }
+    },
+    {
+        "contract_address": "0xcc75e5c0d76a9966a653aaa4a3ef7ea6c9adabd2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 107
+        }
+    },
+    {
+        "contract_address": "0x6222ef8a74553edaf32b3ae6a8ab9b20217b8b37",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 310
+        }
+    },
+    {
+        "contract_address": "0x769ca66a29a7131c0c9a65be11a420e45feb9848",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.hadesmarket.org",
+            "nft.hadesmarket.org"
+        ],
+        "telegram_groups": [
+            "hadesnftmarket"
+        ],
+        "holders": {
+            "ETH": 53
+        }
+    },
+    {
+        "contract_address": "0xda63feff6e6d75cd7a862cd56c625045dcf26e88",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Chainminerio"
+        ],
+        "holders": {
+            "ETH": 63
+        }
+    },
+    {
+        "contract_address": "0x405be842cdb64b69470972eb83c07c2c0788d864",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 652
+        }
     }
 ]
