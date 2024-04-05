@@ -120194,7 +120194,10 @@
         ],
         "holders": {
             "ETH": 210
-        }
+        },
+        "web_domains": [
+            "datamermaid.org"
+        ]
     },
     {
         "contract_address": "0xcc75e5c0d76a9966a653aaa4a3ef7ea6c9adabd2",
@@ -120232,7 +120235,10 @@
         ],
         "holders": {
             "ETH": 63
-        }
+        },
+        "web_domains": [
+            "chainminer.com"
+        ]
     },
     {
         "contract_address": "0x405be842cdb64b69470972eb83c07c2c0788d864",
