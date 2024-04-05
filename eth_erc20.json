@@ -120184,7 +120184,8 @@
         ],
         "holders": {
             "ETH": 62
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5e856bd39dd668c9e8f55c84e7362791a3aba94a",
@@ -120197,7 +120198,8 @@
         },
         "web_domains": [
             "datamermaid.org"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xcc75e5c0d76a9966a653aaa4a3ef7ea6c9adabd2",
@@ -120225,7 +120227,8 @@
         ],
         "holders": {
             "ETH": 53
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xda63feff6e6d75cd7a862cd56c625045dcf26e88",
@@ -120238,7 +120241,8 @@
         },
         "web_domains": [
             "chainminer.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x405be842cdb64b69470972eb83c07c2c0788d864",
