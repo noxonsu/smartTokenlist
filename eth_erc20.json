@@ -120000,7 +120000,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 12
-        }
+        },
+        "web_domains": [
+            "paal.ai"
+        ]
     },
     {
         "contract_address": "0x1c74d8c8fe37b0fa47debc82e0ab6925a3dc4a2f",
