@@ -120063,14 +120063,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 22
-        }
+        },
+        "web_domains": [
+            "saga.xyz"
+        ]
     },
     {
         "contract_address": "0x8d7a9452361b465247ec613ac8cc20758ceae06f",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 40
-        }
+        },
+        "web_domains": [
+            "edaface.com"
+        ]
     },
     {
         "contract_address": "0x2325e3f261cadb1c30cebf66c9f95f6fb016c0d4",
@@ -120084,7 +120090,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 9
-        }
+        },
+        "web_domains": [
+            "privago.ai"
+        ]
     },
     {
         "contract_address": "0x78dfbe50896e637e2b845b613ea10a7ae152ba47",
@@ -120111,13 +120120,19 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 25
-        }
+        },
+        "web_domains": [
+            "berachain.com"
+        ]
     },
     {
         "contract_address": "0x28700586cce4190e1e0e582b861c5295ed81ee46",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 106
-        }
+        },
+        "web_domains": [
+            "greenapu.com"
+        ]
     }
 ]
