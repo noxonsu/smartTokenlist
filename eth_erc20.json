@@ -121508,5 +121508,46 @@
         "holders": {
             "ETH": 4792
         }
+    },
+    {
+        "contract_address": "0x6e954a8f26fbcb0a0a42a0d1c85bcc443b11db79",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 321
+        }
+    },
+    {
+        "contract_address": "0x0ada190c81b814548ddc2f6adc4a689ce7c1fe73",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1582
+        }
+    },
+    {
+        "contract_address": "0xd4dbc122617a13aeb595730311c944924aa15698",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ROBOTAXI_COIN"
+        ],
+        "holders": {
+            "ETH": 113
+        }
+    },
+    {
+        "contract_address": "0x8dca0c91d84085df5ac88a1f813f5dc6da855c2a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hackmd.io"
+        ],
+        "holders": {
+            "ETH": 296
+        }
+    },
+    {
+        "contract_address": "0x5044d567f7b30891639d982a05726a6bfe8bae6a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 39
+        }
     }
 ]
