@@ -120880,7 +120880,8 @@
         ],
         "holders": {
             "ETH": 174
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe7716a1b0f4942368383e2f7b864ce12cf20f97f",
@@ -120890,7 +120891,9 @@
         },
         "web_domains": [
             "cointensor.ai"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4467342ab58e359512bfbcdff858951cdf8b42ad",
@@ -120899,11 +120902,13 @@
             "defi-ai.tech"
         ],
         "telegram_groups": [
+            "DefiAIOfficialChannel",
             "DefiAIChannel"
         ],
         "holders": {
             "ETH": 52
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xeb8eec5a2dbf6e6f4cc542ad31cce706f8f80419",
@@ -120913,7 +120918,9 @@
         },
         "web_domains": [
             "metamemo.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4ba2081824d1dfcd5cd7b99ed8b002ad572e4e6c",
@@ -120926,7 +120933,8 @@
         ],
         "holders": {
             "ETH": 27
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x168da77d13b163ee30ca28a4499da993d2df8833",
@@ -120939,7 +120947,8 @@
         ],
         "holders": {
             "ETH": 189
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4805361e9cd165a4dc0b0adf65620a6dacf1249a",
