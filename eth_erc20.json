@@ -121243,7 +121243,11 @@
         ],
         "holders": {
             "ETH": 16
-        }
+        },
+        "telegram_groups": [
+            "Privasea_ai"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xde77f59a385b50d78aeb7c646d9df1e4fd76f1a4",
@@ -121257,7 +121261,8 @@
         ],
         "holders": {
             "ETH": 16
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7d4410af58ef9ce6bc056b33aa07755807c46d00",
@@ -121267,7 +121272,12 @@
         },
         "web_domains": [
             "metax-tech.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "Business@metax-tech.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x80ee5c641a8ffc607545219a3856562f56427fe9",
@@ -121293,7 +121303,8 @@
         ],
         "holders": {
             "ETH": 18
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7f716b4777169ebd8ff132acfff59399049a137b",
@@ -121303,7 +121314,9 @@
         },
         "web_domains": [
             "gameluk.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6c4c193bff0a117f0c2b516802abba961a1eeb12",
