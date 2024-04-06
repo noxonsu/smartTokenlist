@@ -121466,5 +121466,44 @@
             "contact@snoozedoge.com"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x37a22a2b2b3e72c9c8cbe4771a4c41c4806cb187",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.ovoai.tech",
+            "app.ovoai.tech"
+        ],
+        "telegram_groups": [
+            "ovoaitech"
+        ],
+        "holders": {
+            "ETH": 107
+        }
+    },
+    {
+        "contract_address": "0x35cd5afde3994608934f3bec6621ba2f0606985f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "inuinuinu.co",
+            "tokenmint.io"
+        ],
+        "holders": {
+            "ETH": 137
+        }
+    },
+    {
+        "contract_address": "0x0056b51fed668e2338bb54d9757c34814499fa17",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 369
+        }
+    },
+    {
+        "contract_address": "0xaaa7a10a8ee237ea61e8ac46c50a8db8bcc1baaa",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4792
+        }
     }
 ]
