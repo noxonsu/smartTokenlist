@@ -76600,8 +76600,8 @@
             "opensea.io"
         ],
         "telegram_groups": [
-            "pandoratwo_404",
-            "RefundKitties_ERC"
+            "RefundKitties_ERC",
+            "pandoratwo_404"
         ],
         "holders": {
             "ETH": 286
@@ -92721,8 +92721,8 @@
             "ETH": 7
         },
         "telegram_groups": [
-            "pandoratwo_404",
-            "RefundKitties_ERC"
+            "RefundKitties_ERC",
+            "pandoratwo_404"
         ],
         "p6": true,
         "p8": true
@@ -106151,9 +106151,9 @@
             "dirtypilot.com"
         ],
         "telegram_groups": [
-            "pandoratwo_404",
+            "birddogcoineth",
             "RefundKitties_ERC",
-            "birddogcoineth"
+            "pandoratwo_404"
         ],
         "holders": {
             "ETH": 129
@@ -107341,10 +107341,10 @@
             "pepercoin.vip"
         ],
         "telegram_groups": [
-            "pandoratwo_404",
-            "RefundKitties_ERC",
             "birddogcoineth",
-            "pepermemecoin"
+            "pepermemecoin",
+            "RefundKitties_ERC",
+            "pandoratwo_404"
         ],
         "holders": {
             "ETH": 281
@@ -121035,11 +121035,16 @@
             "kiwicoineth.vip"
         ],
         "telegram_groups": [
-            "kiwicoinerc"
+            "birddogcoineth",
+            "pepermemecoin",
+            "kiwicoinerc",
+            "RefundKitties_ERC",
+            "pandoratwo_404"
         ],
         "holders": {
             "ETH": 248
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xea01906843ea8d910658a2c485ffce7c104ab2b6",
@@ -121049,7 +121054,9 @@
         },
         "web_domains": [
             "degenz.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3757232b55e60da4a8793183ac030cfce4c3865d",
@@ -121066,7 +121073,9 @@
         },
         "web_domains": [
             "genrize.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x953a7f7f8cb6c06f801cc517690d90093ab34869",
@@ -121093,6 +121102,7 @@
         ],
         "holders": {
             "ETH": 13
-        }
+        },
+        "p6": true
     }
 ]
