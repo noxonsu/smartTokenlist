@@ -121152,7 +121152,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 216
-        }
+        },
+        "web_domains": [
+            "forgeandfoster.com"
+        ]
     },
     {
         "contract_address": "0x79372af5e5024369a80843317ccb4584cb42c216",
