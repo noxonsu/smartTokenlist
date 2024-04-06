@@ -121582,7 +121582,8 @@
         ],
         "holders": {
             "ETH": 225
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x67d326e479f6375d4e4b626d1003418c08d1df39",
@@ -121597,7 +121598,11 @@
         ],
         "holders": {
             "ETH": 58
-        }
+        },
+        "emails": [
+            "\u00a9 2024 MOXIE AI.org | hello@moxieai.org"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xeae4ccb620cc70d87ccb89f952780fe11e8d401f",
@@ -121607,7 +121612,12 @@
         },
         "web_domains": [
             "jedspeds.co.uk"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "Truebypass@jedspeds.co.uk"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3790778e408014e73e9f713ac89d546906f32c50",
@@ -121622,7 +121632,8 @@
         ],
         "holders": {
             "ETH": 86
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x02eedc3d0cb09e0450c9ed2917005e9bd22cf763",
@@ -121652,7 +121663,9 @@
         },
         "web_domains": [
             "moltenusa.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0c13e978059a0b51a613456f0b5b0c6dc5aa760d",
@@ -121667,7 +121680,8 @@
         ],
         "holders": {
             "ETH": 70
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x42dae489f1ca3764aabe1907c22bc18776415fcd",
