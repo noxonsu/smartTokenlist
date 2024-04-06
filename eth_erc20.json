@@ -120958,7 +120958,9 @@
         },
         "web_domains": [
             "tesla.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xce81dc94acebec2c6ec652cf445fff62aba24f67",
@@ -120968,6 +120970,11 @@
         },
         "web_domains": [
             "gib-foundation.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "info@gib-foundation.org"
+        ],
+        "p6": true
     }
 ]
