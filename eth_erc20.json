@@ -120976,5 +120976,45 @@
             "info@gib-foundation.org"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x57bfa91919b35e01d4dbb9b35de5817a7d3d6399",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xbe914c0d6fdb5ecf1a84b7669467f57b598c39a6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0x878446daece5c5a2589adc6193b4c346145ec73d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "catrixeth.com"
+        ],
+        "telegram_groups": [
+            "CatrixETH"
+        ],
+        "holders": {
+            "ETH": 223
+        }
+    },
+    {
+        "contract_address": "0x1ddbb18ecf92d02bb386224f0d160f30305150dd",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cointensor.io"
+        ],
+        "telegram_groups": [
+            "cointensor"
+        ],
+        "holders": {
+            "ETH": 400
+        }
     }
 ]
