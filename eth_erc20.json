@@ -121264,7 +121264,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 2
-        }
+        },
+        "web_domains": [
+            "metax-tech.com"
+        ]
     },
     {
         "contract_address": "0x80ee5c641a8ffc607545219a3856562f56427fe9",
@@ -121297,7 +121300,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 60
-        }
+        },
+        "web_domains": [
+            "gameluk.io"
+        ]
     },
     {
         "contract_address": "0x6c4c193bff0a117f0c2b516802abba961a1eeb12",
