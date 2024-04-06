@@ -120989,7 +120989,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 14
-        }
+        },
+        "web_domains": [
+            "chancechance.co.kr"
+        ]
     },
     {
         "contract_address": "0x878446daece5c5a2589adc6193b4c346145ec73d",
