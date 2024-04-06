@@ -121104,5 +121104,81 @@
             "ETH": 13
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xd1673b4beed98e9295875e46819810d4512f5122",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 335
+        }
+    },
+    {
+        "contract_address": "0x4368b3a9ac79e37f2b23f7258ab95a61b3b79335",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.babyandyerc.com",
+            "baby-andy.gitbook.io"
+        ],
+        "telegram_groups": [
+            "BabyandyErc20"
+        ],
+        "holders": {
+            "ETH": 147
+        }
+    },
+    {
+        "contract_address": "0x1aa6c734daa508c57325c21849ccc6f7d726c081",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 470
+        }
+    },
+    {
+        "contract_address": "0x70ff4f8d53cd62db6ba3d834aa490a5a19233187",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.andy2point0.com",
+            "andy-2-0.gitbook.io"
+        ],
+        "telegram_groups": [
+            "Andy20Erc"
+        ],
+        "holders": {
+            "ETH": 169
+        }
+    },
+    {
+        "contract_address": "0x7550f0d8a2b6e25f8d310df3be01c2406c475202",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 216
+        }
+    },
+    {
+        "contract_address": "0x79372af5e5024369a80843317ccb4584cb42c216",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "app.leverfi.io"
+        ],
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0x85cdebfa4405c8799d117a14314afd87c6d6aab1",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.kazarai.io",
+            "docs.kazarai.io",
+            "dapp.kazarai.io",
+            "dash.kazarai.io",
+            "play.google.com"
+        ],
+        "telegram_groups": [
+            "Kazar_AI"
+        ],
+        "holders": {
+            "ETH": 292
+        }
     }
 ]
