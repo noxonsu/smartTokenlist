@@ -121409,7 +121409,8 @@
         ],
         "holders": {
             "ETH": 51
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x48801047f2e554d1a855445aa3562c78331df4b6",
@@ -121423,7 +121424,8 @@
         ],
         "holders": {
             "ETH": 424
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x19f9ea1e6c6bfae279b94ef90f25e7f1526dfb13",
@@ -121437,7 +121439,8 @@
         ],
         "holders": {
             "ETH": 50
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x39cae2ce1bfc446d22b423d08cfc50f04dfd10b6",
@@ -121458,6 +121461,10 @@
         ],
         "holders": {
             "ETH": 21
-        }
+        },
+        "emails": [
+            "contact@snoozedoge.com"
+        ],
+        "p6": true
     }
 ]
