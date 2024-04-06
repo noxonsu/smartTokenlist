@@ -121026,5 +121026,67 @@
             "Hello@cointensor.io"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x06300ec3962add8f1b975ceb2568f52b55d63a44",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "opensea.io",
+            "kiwicoineth.vip"
+        ],
+        "telegram_groups": [
+            "kiwicoinerc"
+        ],
+        "holders": {
+            "ETH": 248
+        }
+    },
+    {
+        "contract_address": "0xea01906843ea8d910658a2c485ffce7c104ab2b6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 137
+        }
+    },
+    {
+        "contract_address": "0x3757232b55e60da4a8793183ac030cfce4c3865d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1005
+        }
+    },
+    {
+        "contract_address": "0xfc169284da39e8d337d01ab011c3e5d92f7ddba6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x953a7f7f8cb6c06f801cc517690d90093ab34869",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 182
+        }
+    },
+    {
+        "contract_address": "0x0cc4244a5db9262019f83f0673b04541667dee2e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xf0c0e88a174a69aa98fd48716cded5cd14a1af22",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.privasea.ai"
+        ],
+        "telegram_groups": [
+            "Privasea_ai"
+        ],
+        "holders": {
+            "ETH": 13
+        }
     }
 ]
