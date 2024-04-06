@@ -121340,7 +121340,12 @@
         },
         "web_domains": [
             "meowmeowtweet.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "hello@meowmeowtweet.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdf9d7c7b90fcafabb1c16a67c1d60f2f71c23848",
@@ -121350,7 +121355,14 @@
         ],
         "holders": {
             "ETH": 51
-        }
+        },
+        "telegram_groups": [
+            "moonthepoon"
+        ],
+        "emails": [
+            "You can reach us at: contact@moonthepoon.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3a4cab3dcfab144fe7eb2b5a3e288cc03dc07659",
@@ -121367,7 +121379,9 @@
         },
         "web_domains": [
             "vanillaos.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa4eb9c64ec359d093eac7b65f51ef933d6e5f7cd",
