@@ -120992,7 +120992,9 @@
         },
         "web_domains": [
             "chancechance.co.kr"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x878446daece5c5a2589adc6193b4c346145ec73d",
@@ -121005,7 +121007,8 @@
         ],
         "holders": {
             "ETH": 223
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1ddbb18ecf92d02bb386224f0d160f30305150dd",
@@ -121018,6 +121021,10 @@
         ],
         "holders": {
             "ETH": 400
-        }
+        },
+        "emails": [
+            "Hello@cointensor.io"
+        ],
+        "p6": true
     }
 ]
