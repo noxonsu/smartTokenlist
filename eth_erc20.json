@@ -121541,7 +121541,9 @@
         ],
         "holders": {
             "ETH": 296
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x5044d567f7b30891639d982a05726a6bfe8bae6a",
@@ -121551,6 +121553,8 @@
         },
         "web_domains": [
             "brainers.net"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
