@@ -121219,5 +121219,98 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x035df12e0f3ac6671126525f1015e47d79dfeddf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 868
+        }
+    },
+    {
+        "contract_address": "0x4be5f9f19610d2c62975212c96137a35cdb5066d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x6aecf2403283336e1644ee3018c01676f149994b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.privasea.ai",
+            "cryptorank.io"
+        ],
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0xde77f59a385b50d78aeb7c646d9df1e4fd76f1a4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dappos.com",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "DapposOfficial"
+        ],
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0x7d4410af58ef9ce6bc056b33aa07755807c46d00",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x80ee5c641a8ffc607545219a3856562f56427fe9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "officialbrett.com"
+        ],
+        "telegram_groups": [
+            "brett_erc"
+        ],
+        "holders": {
+            "ETH": 764
+        }
+    },
+    {
+        "contract_address": "0xe173cb8f25f16cac8e748cd5bfa33ffee5ef070e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.andyinu.com"
+        ],
+        "telegram_groups": [
+            "AndyInu"
+        ],
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0x7f716b4777169ebd8ff132acfff59399049a137b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 60
+        }
+    },
+    {
+        "contract_address": "0x6c4c193bff0a117f0c2b516802abba961a1eeb12",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3196
+        }
+    },
+    {
+        "contract_address": "0xc2075702490f0426e84e00d8b328119027813ac5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
     }
 ]
