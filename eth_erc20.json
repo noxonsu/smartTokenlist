@@ -121046,7 +121046,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 137
-        }
+        },
+        "web_domains": [
+            "degenz.finance"
+        ]
     },
     {
         "contract_address": "0x3757232b55e60da4a8793183ac030cfce4c3865d",
@@ -121060,7 +121063,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 3
-        }
+        },
+        "web_domains": [
+            "genrize.io"
+        ]
     },
     {
         "contract_address": "0x953a7f7f8cb6c06f801cc517690d90093ab34869",
