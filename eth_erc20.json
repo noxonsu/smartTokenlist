@@ -120851,5 +120851,102 @@
         "holders": {
             "ETH": 161
         }
+    },
+    {
+        "contract_address": "0x10cd8166be61fefb4ea0371b569405074f508b10",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x524d34edd6080b700befcdd886809e20e45ece12",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xf0b7f35bda29fa6e61e5c0e69d2952c1ea8abdef",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "etherguruerc.com",
+            "linktr.ee",
+            "docs.etherguruerc.com"
+        ],
+        "telegram_groups": [
+            "etherguruETH",
+            "EtherGuruBot"
+        ],
+        "holders": {
+            "ETH": 174
+        }
+    },
+    {
+        "contract_address": "0xe7716a1b0f4942368383e2f7b864ce12cf20f97f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0x4467342ab58e359512bfbcdff858951cdf8b42ad",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "defi-ai.tech"
+        ],
+        "telegram_groups": [
+            "DefiAIChannel"
+        ],
+        "holders": {
+            "ETH": 52
+        }
+    },
+    {
+        "contract_address": "0xeb8eec5a2dbf6e6f4cc542ad31cce706f8f80419",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 167
+        }
+    },
+    {
+        "contract_address": "0x4ba2081824d1dfcd5cd7b99ed8b002ad572e4e6c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "halfpump.wtf"
+        ],
+        "telegram_groups": [
+            "HalfPumpERC20"
+        ],
+        "holders": {
+            "ETH": 27
+        }
+    },
+    {
+        "contract_address": "0x168da77d13b163ee30ca28a4499da993d2df8833",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "superhighpepe420inu.xyz"
+        ],
+        "telegram_groups": [
+            "SuperHighPepe420inu"
+        ],
+        "holders": {
+            "ETH": 189
+        }
+    },
+    {
+        "contract_address": "0x4805361e9cd165a4dc0b0adf65620a6dacf1249a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0xce81dc94acebec2c6ec652cf445fff62aba24f67",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 38
+        }
     }
 ]
