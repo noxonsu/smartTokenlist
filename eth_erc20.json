@@ -121124,7 +121124,8 @@
         ],
         "holders": {
             "ETH": 147
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1aa6c734daa508c57325c21849ccc6f7d726c081",
@@ -121145,7 +121146,8 @@
         ],
         "holders": {
             "ETH": 169
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7550f0d8a2b6e25f8d310df3be01c2406c475202",
@@ -121155,7 +121157,12 @@
         },
         "web_domains": [
             "forgeandfoster.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "Email: support@forgeandfoster.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x79372af5e5024369a80843317ccb4584cb42c216",
@@ -121165,7 +121172,9 @@
         ],
         "holders": {
             "ETH": 20
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x85cdebfa4405c8799d117a14314afd87c6d6aab1",
@@ -121182,6 +121191,7 @@
         ],
         "holders": {
             "ETH": 292
-        }
+        },
+        "p6": true
     }
 ]
