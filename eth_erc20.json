@@ -120887,7 +120887,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 12
-        }
+        },
+        "web_domains": [
+            "cointensor.ai"
+        ]
     },
     {
         "contract_address": "0x4467342ab58e359512bfbcdff858951cdf8b42ad",
@@ -120907,7 +120910,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 167
-        }
+        },
+        "web_domains": [
+            "metamemo.org"
+        ]
     },
     {
         "contract_address": "0x4ba2081824d1dfcd5cd7b99ed8b002ad572e4e6c",
@@ -120940,13 +120946,19 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 19
-        }
+        },
+        "web_domains": [
+            "tesla.com"
+        ]
     },
     {
         "contract_address": "0xce81dc94acebec2c6ec652cf445fff62aba24f67",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 38
-        }
+        },
+        "web_domains": [
+            "gib-foundation.org"
+        ]
     }
 ]
