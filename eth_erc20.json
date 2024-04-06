@@ -121389,5 +121389,75 @@
         "holders": {
             "ETH": 2140
         }
+    },
+    {
+        "contract_address": "0x033bbde722ea3cdcec73cffea6581df9f9c257de",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 542
+        }
+    },
+    {
+        "contract_address": "0xc6513b61e592c840e9b53e1b073eef2c839ee235",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "alienxchain.io",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "alienx_ainode"
+        ],
+        "holders": {
+            "ETH": 51
+        }
+    },
+    {
+        "contract_address": "0x48801047f2e554d1a855445aa3562c78331df4b6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.tumblr.com",
+            "merle-eth.vip"
+        ],
+        "telegram_groups": [
+            "Merle_ERC"
+        ],
+        "holders": {
+            "ETH": 424
+        }
+    },
+    {
+        "contract_address": "0x19f9ea1e6c6bfae279b94ef90f25e7f1526dfb13",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pixape.org",
+            "docs.pixape.org"
+        ],
+        "telegram_groups": [
+            "pix_ape"
+        ],
+        "holders": {
+            "ETH": 50
+        }
+    },
+    {
+        "contract_address": "0x39cae2ce1bfc446d22b423d08cfc50f04dfd10b6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0xc05ca5129c0d91f039b22c3f47fd82077ada63f6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "snoozedoge.com",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "snoozedoge"
+        ],
+        "holders": {
+            "ETH": 21
+        }
     }
 ]
