@@ -121812,5 +121812,59 @@
         "holders": {
             "ETH": 13336
         }
+    },
+    {
+        "contract_address": "0xbb04982ef748712eec1a49c64f030b4fe902612e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 175
+        }
+    },
+    {
+        "contract_address": "0xa0703e4dbfb9bb65551287f4a38906fd5eae4161",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.harambe-inu.com"
+        ],
+        "telegram_groups": [
+            "HarambeInuPortal"
+        ],
+        "holders": {
+            "ETH": 42
+        }
+    },
+    {
+        "contract_address": "0xcb4d2643b3007bc719e62e9f7b421d439a0020e6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 38
+        }
+    },
+    {
+        "contract_address": "0x3b7df5a35606d1f6886606fbb31dac4762f854c9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x5d9175cf9dddee49456402e9cae8cf2c049e1bf9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 499
+        }
+    },
+    {
+        "contract_address": "0x05893fd00f6fb0cd1b0395fa4da9a0af4ef39a17",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "starfleeteth.com"
+        ],
+        "telegram_groups": [
+            "StarfleetETH"
+        ],
+        "holders": {
+            "ETH": 114
+        }
     }
 ]
