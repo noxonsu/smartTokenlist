@@ -122155,5 +122155,59 @@
         "holders": {
             "ETH": 635
         }
+    },
+    {
+        "contract_address": "0x10d07423fde4747542e76b7199b98a0d03cf465b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1586
+        }
+    },
+    {
+        "contract_address": "0xd59d7d2e955533fcd21641da8a70eae9624a3c49",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "magicring.org"
+        ],
+        "holders": {
+            "ETH": 119
+        }
+    },
+    {
+        "contract_address": "0xa0087ee3596b83ef633f499878d518520ea039e9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x748509433ef209c4d11ada51347d5724a5da0ca5",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "AndyCoinEth"
+        ],
+        "holders": {
+            "ETH": 174
+        }
+    },
+    {
+        "contract_address": "0xb4b5a811c0be43a4754aaae1b0557910620deb85",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.brett-inu.com"
+        ],
+        "telegram_groups": [
+            "BrettInu_Portal"
+        ],
+        "holders": {
+            "ETH": 53
+        }
+    },
+    {
+        "contract_address": "0x6200b6e31f8502ef460928ddc022b81ba7d5337a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 39
+        }
     }
 ]
