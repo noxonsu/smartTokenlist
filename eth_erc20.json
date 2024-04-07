@@ -122470,5 +122470,63 @@
         "holders": {
             "ETH": 356
         }
+    },
+    {
+        "contract_address": "0xf0e3934c094a457047a93a701bb391142be28a08",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 66
+        }
+    },
+    {
+        "contract_address": "0x682a06f4aca7785b2524451dbca8e3dc796d436e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hassle.cash",
+            "swap.hassle.cash",
+            "staking.hassle.cash",
+            "docs.hassle.cash"
+        ],
+        "telegram_groups": [
+            "hassle_portal"
+        ],
+        "holders": {
+            "ETH": 109
+        }
+    },
+    {
+        "contract_address": "0x0850335d3829e85304e8660a8c7377ed65754680",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zentel.cloud"
+        ],
+        "telegram_groups": [
+            "ZentelAI"
+        ],
+        "holders": {
+            "ETH": 219
+        }
+    },
+    {
+        "contract_address": "0x7ee68a5b4f11365b361e32c6d6fe3fb4973e4524",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 794
+        }
+    },
+    {
+        "contract_address": "0xc4fb719b4a8ea378918e928b47e7cc0240e9d4fb",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "aragonai.xyz",
+            "app.aragonai.xyz",
+            "docs.aragonai.xyz"
+        ],
+        "telegram_groups": [
+            "aragonaixyz"
+        ],
+        "holders": {
+            "ETH": 53
+        }
     }
 ]
