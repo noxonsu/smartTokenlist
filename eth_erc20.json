@@ -122479,7 +122479,9 @@
         },
         "web_domains": [
             "magicai.ai"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x682a06f4aca7785b2524451dbca8e3dc796d436e",
@@ -122491,11 +122493,13 @@
             "docs.hassle.cash"
         ],
         "telegram_groups": [
-            "hassle_portal"
+            "hassle_portal",
+            "hassle_cash"
         ],
         "holders": {
             "ETH": 109
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0850335d3829e85304e8660a8c7377ed65754680",
@@ -122508,7 +122512,8 @@
         ],
         "holders": {
             "ETH": 219
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7ee68a5b4f11365b361e32c6d6fe3fb4973e4524",
@@ -122530,6 +122535,7 @@
         ],
         "holders": {
             "ETH": 53
-        }
+        },
+        "p6": true
     }
 ]
