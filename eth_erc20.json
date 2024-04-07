@@ -122102,7 +122102,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 253
-        }
+        },
+        "web_domains": [
+            "bloxy.info"
+        ]
     },
     {
         "contract_address": "0x1a94124ed71c2459f398c334b8be9b5dd75220d9",
