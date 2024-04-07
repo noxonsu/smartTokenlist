@@ -122055,7 +122055,14 @@
         ],
         "holders": {
             "ETH": 18
-        }
+        },
+        "telegram_groups": [
+            "arcade2earn"
+        ],
+        "emails": [
+            "info@website.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x060a9dd5590aa711cf678b1125ac4fb265104e7f",
@@ -122068,7 +122075,8 @@
         ],
         "holders": {
             "ETH": 86
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2f1bed5b9a80810eb4aa1bd3105865ee5ad32317",
@@ -122081,7 +122089,8 @@
         ],
         "holders": {
             "ETH": 75
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xfcb2277193b08dc84bd9610ed13f910e279466ef",
@@ -122105,7 +122114,11 @@
         },
         "web_domains": [
             "bloxy.info"
-        ]
+        ],
+        "telegram_groups": [
+            "Bloxy_info"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1a94124ed71c2459f398c334b8be9b5dd75220d9",
@@ -122121,11 +122134,13 @@
             "code-genie.app"
         ],
         "telegram_groups": [
-            "Codegenie"
+            "Codegenie",
+            "Codegeniebot"
         ],
         "holders": {
             "ETH": 472
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5488eff1976e4a56b4255e926d419a7054df196a",
