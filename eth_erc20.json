@@ -122224,5 +122224,107 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xb167c5f1e3506d81886ed1b99d5302d9efb0117a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "artera-ai.medium.com",
+            "artera-ai.com",
+            "doc.artera-ai.com"
+        ],
+        "telegram_groups": [
+            "arteraai",
+            "arteraaibot"
+        ],
+        "holders": {
+            "ETH": 301
+        }
+    },
+    {
+        "contract_address": "0x1f364a2ec48ed4696bfb21c8ff313929d22df0c8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 31
+        }
+    },
+    {
+        "contract_address": "0x6aa70812513ef3b356c7d6ac3eacd6fe9dc395d4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0x819a8945dc5046816a7061eb18b248e611c75085",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.estatex.eu"
+        ],
+        "telegram_groups": [
+            "estatexofficial"
+        ],
+        "holders": {
+            "ETH": 23
+        }
+    },
+    {
+        "contract_address": "0x34f57282e9dc31da36940e540e072f781b9db9c3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "meteorite.finance"
+        ],
+        "telegram_groups": [
+            "MeteoriteFinance"
+        ],
+        "holders": {
+            "ETH": 69
+        }
+    },
+    {
+        "contract_address": "0xe03b2642a5111ad0efc0cbce766498c2dd562ae9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "oldbtc.net"
+        ],
+        "telegram_groups": [
+            "oldbitcoineth"
+        ],
+        "holders": {
+            "ETH": 3724
+        }
+    },
+    {
+        "contract_address": "0x7db34f00eb0893c079bfeaef072bba6cbc60dddb",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "thenightriders.vip"
+        ],
+        "telegram_groups": [
+            "TheNightRiders"
+        ],
+        "holders": {
+            "ETH": 424
+        }
+    },
+    {
+        "contract_address": "0x6b15602f008a05d9694d777dead2f05586216cb4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 283
+        }
+    },
+    {
+        "contract_address": "0x18e46c4cea940f41d5668281bc3d253a59424d19",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "popotokeneth.com"
+        ],
+        "telegram_groups": [
+            "popotokeneth"
+        ],
+        "holders": {
+            "ETH": 259
+        }
     }
 ]
