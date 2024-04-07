@@ -122370,7 +122370,8 @@
         ],
         "holders": {
             "ETH": 235
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x04a969bc8ed2b2f0b00620575f85b49756855cf8",
@@ -122380,7 +122381,9 @@
         },
         "web_domains": [
             "tree-free.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4d3b61ce3ae16f9d8eb10744e982e5a16d276d55",
@@ -122397,7 +122400,9 @@
         },
         "web_domains": [
             "hapticai.gitbook.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x37498d2c39ad84345958e43af725c3039222a067",
@@ -122407,7 +122412,12 @@
         },
         "web_domains": [
             "espteaandcoffee.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "info@espteaandcoffee.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x11f811a90900112bce36a7bf7e93d6e079c0da37",
@@ -122423,6 +122433,7 @@
         ],
         "holders": {
             "ETH": 362
-        }
+        },
+        "p6": true
     }
 ]
