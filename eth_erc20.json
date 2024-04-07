@@ -121895,7 +121895,8 @@
         ],
         "holders": {
             "ETH": 262
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa60d6d35aa3fbcfd9fd4b367910338cd99607af2",
@@ -121905,7 +121906,9 @@
         },
         "web_domains": [
             "cusdt.xyz"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7c3ed93b03e67c1fa240395b28e38c4386321b58",
@@ -121946,6 +121949,10 @@
         ],
         "holders": {
             "ETH": 52
-        }
+        },
+        "emails": [
+            "info@mysite.com"
+        ],
+        "p6": true
     }
 ]
