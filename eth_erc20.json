@@ -122377,7 +122377,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 25
-        }
+        },
+        "web_domains": [
+            "tree-free.com"
+        ]
     },
     {
         "contract_address": "0x4d3b61ce3ae16f9d8eb10744e982e5a16d276d55",
@@ -122391,14 +122394,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 279
-        }
+        },
+        "web_domains": [
+            "hapticai.gitbook.io"
+        ]
     },
     {
         "contract_address": "0x37498d2c39ad84345958e43af725c3039222a067",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 152
-        }
+        },
+        "web_domains": [
+            "espteaandcoffee.com"
+        ]
     },
     {
         "contract_address": "0x11f811a90900112bce36a7bf7e93d6e079c0da37",
