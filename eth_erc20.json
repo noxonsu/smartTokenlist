@@ -122234,12 +122234,13 @@
             "doc.artera-ai.com"
         ],
         "telegram_groups": [
-            "arteraai",
-            "arteraaibot"
+            "arteraaibot",
+            "arteraai"
         ],
         "holders": {
             "ETH": 301
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1f364a2ec48ed4696bfb21c8ff313929d22df0c8",
@@ -122249,7 +122250,11 @@
         },
         "web_domains": [
             "www.dedepepekiller.com"
-        ]
+        ],
+        "telegram_groups": [
+            "dedepepekiller"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6aa70812513ef3b356c7d6ac3eacd6fe9dc395d4",
@@ -122259,7 +122264,11 @@
         },
         "web_domains": [
             "catwifhat.io"
-        ]
+        ],
+        "telegram_groups": [
+            "CatWifHatSol"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x819a8945dc5046816a7061eb18b248e611c75085",
@@ -122272,7 +122281,8 @@
         ],
         "holders": {
             "ETH": 23
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x34f57282e9dc31da36940e540e072f781b9db9c3",
@@ -122285,7 +122295,8 @@
         ],
         "holders": {
             "ETH": 69
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe03b2642a5111ad0efc0cbce766498c2dd562ae9",
@@ -122307,11 +122318,18 @@
             "thenightriders.vip"
         ],
         "telegram_groups": [
-            "TheNightRiders"
+            "thenightriderserc",
+            "Thenightriderserc",
+            "TheNightRiders",
+            "thenightriderseth"
         ],
         "holders": {
             "ETH": 424
-        }
+        },
+        "emails": [
+            "team@thenightriders.vip"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6b15602f008a05d9694d777dead2f05586216cb4",
