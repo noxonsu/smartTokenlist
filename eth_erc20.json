@@ -113018,11 +113018,13 @@
             "boysclubandy.com"
         ],
         "telegram_groups": [
+            "TheOnlyAndyLeft",
             "OfficialAndyCommunity"
         ],
         "holders": {
             "ETH": 1171
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7391a131ccb43a571a34e09f986080d117b4313c",
@@ -121963,7 +121965,12 @@
         ],
         "holders": {
             "ETH": 40
-        }
+        },
+        "telegram_groups": [
+            "TheOnlyAndyLeft",
+            "OfficialAndyCommunity"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x77936a45101df5464d320e6729ea8aed450e1953",
@@ -121976,7 +121983,8 @@
         ],
         "holders": {
             "ETH": 307
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xecdb004045981602c19efa99759346ab06957aea",
@@ -121989,7 +121997,8 @@
         ],
         "holders": {
             "ETH": 152
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x80270c188905f243a6912382ebfbb5862c382c93",
@@ -122004,7 +122013,8 @@
         ],
         "holders": {
             "ETH": 62
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa507a006d889bdb4481b1cc9989aaf5fda00f42a",
@@ -122021,7 +122031,14 @@
         },
         "web_domains": [
             "bitdegree.org"
-        ]
+        ],
+        "telegram_groups": [
+            "BitDegree"
+        ],
+        "emails": [
+            " partners@bitdegree.org "
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2bd0fb740e403b505a3146f9ac02df883fd5c3fc",
