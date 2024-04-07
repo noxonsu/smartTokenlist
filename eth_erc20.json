@@ -122476,7 +122476,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 66
-        }
+        },
+        "web_domains": [
+            "magicai.ai"
+        ]
     },
     {
         "contract_address": "0x682a06f4aca7785b2524451dbca8e3dc796d436e",
