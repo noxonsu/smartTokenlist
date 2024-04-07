@@ -121713,7 +121713,11 @@
         ],
         "holders": {
             "ETH": 309
-        }
+        },
+        "emails": [
+            "andypeperm@proton.me"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf921ae2dac5fa128dc0f6168bf153ea0943d2d43",
@@ -121733,7 +121737,8 @@
         },
         "web_domains": [
             "pipiswimwear.com.au"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x240d6faf8c3b1a7394e371792a3bf9d28dd65515",
@@ -121746,7 +121751,11 @@
         ],
         "holders": {
             "ETH": 490
-        }
+        },
+        "emails": [
+            "2023 BRETT | All rights reserved | Brett@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2ba5aa439a2da78be7799bead1dd0a7a6b13f3d4",
@@ -121756,6 +121765,8 @@
         ],
         "holders": {
             "ETH": 136
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     }
 ]
