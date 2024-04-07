@@ -122171,7 +122171,11 @@
         ],
         "holders": {
             "ETH": 119
-        }
+        },
+        "telegram_groups": [
+            "MagicRingCoin"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa0087ee3596b83ef633f499878d518520ea039e9",
@@ -122191,7 +122195,8 @@
         },
         "web_domains": [
             "blastscan.io"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb4b5a811c0be43a4754aaae1b0557910620deb85",
@@ -122200,11 +122205,13 @@
             "www.brett-inu.com"
         ],
         "telegram_groups": [
+            "BlackBeard_Inu",
             "BrettInu_Portal"
         ],
         "holders": {
             "ETH": 53
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6200b6e31f8502ef460928ddc022b81ba7d5337a",
@@ -122214,6 +122221,8 @@
         },
         "web_domains": [
             "cycling.hutchinson.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
