@@ -122356,5 +122356,64 @@
             "ETH": 259
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x68a563bb3dbf33b3c65edf498388b71a820e393f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "taornado.com",
+            "docs.taornado.com",
+            "taornado.com"
+        ],
+        "telegram_groups": [
+            "Taornado_portal"
+        ],
+        "holders": {
+            "ETH": 235
+        }
+    },
+    {
+        "contract_address": "0x04a969bc8ed2b2f0b00620575f85b49756855cf8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0x4d3b61ce3ae16f9d8eb10744e982e5a16d276d55",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 99
+        }
+    },
+    {
+        "contract_address": "0x89deb6c8918a42457bd6ddbcaaf979216c4d774c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 279
+        }
+    },
+    {
+        "contract_address": "0x37498d2c39ad84345958e43af725c3039222a067",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 152
+        }
+    },
+    {
+        "contract_address": "0x11f811a90900112bce36a7bf7e93d6e079c0da37",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "0xearn.com",
+            "0xearn-docs.gitbook.io",
+            "apps.0xearn.com"
+        ],
+        "telegram_groups": [
+            "Portal0xEarn",
+            "GenerateEarnBot"
+        ],
+        "holders": {
+            "ETH": 362
+        }
     }
 ]
