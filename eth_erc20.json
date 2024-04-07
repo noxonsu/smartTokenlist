@@ -121730,7 +121730,10 @@
         ],
         "holders": {
             "ETH": 299
-        }
+        },
+        "web_domains": [
+            "pipiswimwear.com.au"
+        ]
     },
     {
         "contract_address": "0x240d6faf8c3b1a7394e371792a3bf9d28dd65515",
