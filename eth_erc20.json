@@ -122435,5 +122435,38 @@
             "ETH": 362
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x12f9e6280ea66f944e814b52b45ff72c1cebe9e0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "plackedraw.com"
+        ],
+        "telegram_groups": [
+            "PLACKEDRAW"
+        ],
+        "holders": {
+            "ETH": 161
+        }
+    },
+    {
+        "contract_address": "0xe4042c7c1bf740b8ddb2ab43df6d9ed766b2513e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "badcaterc.com"
+        ],
+        "telegram_groups": [
+            "BadCatErc"
+        ],
+        "holders": {
+            "ETH": 192
+        }
+    },
+    {
+        "contract_address": "0x95987b0cdc7f65d989a30b3b7132a38388c548eb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 356
+        }
     }
 ]
