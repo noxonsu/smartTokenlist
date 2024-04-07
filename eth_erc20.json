@@ -122018,7 +122018,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 250
-        }
+        },
+        "web_domains": [
+            "bitdegree.org"
+        ]
     },
     {
         "contract_address": "0x2bd0fb740e403b505a3146f9ac02df883fd5c3fc",
