@@ -121831,7 +121831,8 @@
         ],
         "holders": {
             "ETH": 42
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xcb4d2643b3007bc719e62e9f7b421d439a0020e6",
@@ -121841,7 +121842,12 @@
         },
         "web_domains": [
             "hummusgoodness.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "info@hummusgoodness.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3b7df5a35606d1f6886606fbb31dac4762f854c9",
@@ -121868,6 +121874,7 @@
         ],
         "holders": {
             "ETH": 114
-        }
+        },
+        "p6": true
     }
 ]
