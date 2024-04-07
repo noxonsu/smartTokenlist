@@ -122046,5 +122046,96 @@
         "holders": {
             "ETH": 445
         }
+    },
+    {
+        "contract_address": "0xe884a9b4fcbb75a6bbad1d344daad8a5f3d0ba2a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.arcade2earn.io"
+        ],
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0x060a9dd5590aa711cf678b1125ac4fb265104e7f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dogemoon.fun"
+        ],
+        "telegram_groups": [
+            "DogeMoonPortal"
+        ],
+        "holders": {
+            "ETH": 86
+        }
+    },
+    {
+        "contract_address": "0x2f1bed5b9a80810eb4aa1bd3105865ee5ad32317",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.babyandy.club"
+        ],
+        "telegram_groups": [
+            "babyandy_erc"
+        ],
+        "holders": {
+            "ETH": 75
+        }
+    },
+    {
+        "contract_address": "0xfcb2277193b08dc84bd9610ed13f910e279466ef",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 311
+        }
+    },
+    {
+        "contract_address": "0x27cb9629ae3ee05cb266b99ca4124ec999303c9d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x7b95ec873268a6bfc6427e7a28e396db9d0ebc65",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 253
+        }
+    },
+    {
+        "contract_address": "0x1a94124ed71c2459f398c334b8be9b5dd75220d9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1173
+        }
+    },
+    {
+        "contract_address": "0xced6a1b885ee79899422d3a2f61fa9c77282c573",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "code-genie.app"
+        ],
+        "telegram_groups": [
+            "Codegenie"
+        ],
+        "holders": {
+            "ETH": 472
+        }
+    },
+    {
+        "contract_address": "0x5488eff1976e4a56b4255e926d419a7054df196a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 81
+        }
+    },
+    {
+        "contract_address": "0xd6c67b93a7b248df608a653d82a100556144c5da",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 635
+        }
     }
 ]
