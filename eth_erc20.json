@@ -121902,7 +121902,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "cusdt.xyz"
+        ]
     },
     {
         "contract_address": "0x7c3ed93b03e67c1fa240395b28e38c4386321b58",
