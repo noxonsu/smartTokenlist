@@ -122246,14 +122246,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 31
-        }
+        },
+        "web_domains": [
+            "www.dedepepekiller.com"
+        ]
     },
     {
         "contract_address": "0x6aa70812513ef3b356c7d6ac3eacd6fe9dc395d4",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 16
-        }
+        },
+        "web_domains": [
+            "catwifhat.io"
+        ]
     },
     {
         "contract_address": "0x819a8945dc5046816a7061eb18b248e611c75085",
@@ -122312,7 +122318,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 283
-        }
+        },
+        "web_domains": [
+            "cyclix.games"
+        ]
     },
     {
         "contract_address": "0x18e46c4cea940f41d5668281bc3d253a59424d19",
