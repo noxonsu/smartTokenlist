@@ -121954,5 +121954,77 @@
             "info@mysite.com"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x053cff3f8d6cbd129097c1f051ea12143a23a1a2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "boysclubandy.com"
+        ],
+        "holders": {
+            "ETH": 40
+        }
+    },
+    {
+        "contract_address": "0x77936a45101df5464d320e6729ea8aed450e1953",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pepeandybrettlandwolfbirddog.com"
+        ],
+        "telegram_groups": [
+            "boysclubtg"
+        ],
+        "holders": {
+            "ETH": 307
+        }
+    },
+    {
+        "contract_address": "0xecdb004045981602c19efa99759346ab06957aea",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "spacepoptroopers.io"
+        ],
+        "telegram_groups": [
+            "SPT_ERC741"
+        ],
+        "holders": {
+            "ETH": 152
+        }
+    },
+    {
+        "contract_address": "0x80270c188905f243a6912382ebfbb5862c382c93",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.0xfraxgpu.com",
+            "app.0xfraxgpu.com",
+            "docs.0xfraxgpu.com"
+        ],
+        "telegram_groups": [
+            "frax0xgpu"
+        ],
+        "holders": {
+            "ETH": 62
+        }
+    },
+    {
+        "contract_address": "0xa507a006d889bdb4481b1cc9989aaf5fda00f42a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 350
+        }
+    },
+    {
+        "contract_address": "0x309627af60f0926daa6041b8279484312f2bf060",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 250
+        }
+    },
+    {
+        "contract_address": "0x2bd0fb740e403b505a3146f9ac02df883fd5c3fc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 445
+        }
     }
 ]
