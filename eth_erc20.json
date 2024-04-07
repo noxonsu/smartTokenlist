@@ -121768,5 +121768,47 @@
         },
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x9719b98d74d536e6edd9f9bc8900775e47e30132",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nexusai.cash",
+            "app.nexusai.cash"
+        ],
+        "telegram_groups": [
+            "nexusai_cash"
+        ],
+        "holders": {
+            "ETH": 84
+        }
+    },
+    {
+        "contract_address": "0xe0b7927c4af23765cb51314a0e0521a9645f0e2a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8032
+        }
+    },
+    {
+        "contract_address": "0x86e607aac445cdd1cabfa252dd9f8579c2dcc074",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.cognitecai.tech",
+            "bridge.cognitecai.tech"
+        ],
+        "telegram_groups": [
+            "cognitecai_official"
+        ],
+        "holders": {
+            "ETH": 72
+        }
+    },
+    {
+        "contract_address": "0x53fffb19bacd44b82e204d036d579e86097e5d09",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13336
+        }
     }
 ]
