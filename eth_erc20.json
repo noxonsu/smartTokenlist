@@ -123515,7 +123515,9 @@
         },
         "web_domains": [
             "runestone.academy"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xfed5ebb692f9d838c04176fb5bea78cb5047fd33",
@@ -123542,7 +123544,11 @@
         ],
         "holders": {
             "ETH": 193
-        }
+        },
+        "emails": [
+            "anitamooneth@hotmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf680b83580885c934bea1fc51fda133bb6c177cd",
@@ -123552,7 +123558,9 @@
         ],
         "holders": {
             "ETH": 19
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2dfd2a9c7d562433dbd13a92c8a69af7aa027229",
@@ -123568,7 +123576,8 @@
         ],
         "holders": {
             "ETH": 239
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5228d6ff829b69d3f26d9e196075145650231766",
@@ -123582,7 +123591,8 @@
         ],
         "holders": {
             "ETH": 486
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x62f03b52c377fea3eb71d451a95ad86c818755d1",
@@ -123592,7 +123602,9 @@
         },
         "web_domains": [
             "dogefrens.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xfe485690c31dd2dcbc1919b430d594f3389d6e82",
