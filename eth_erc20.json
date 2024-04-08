@@ -123254,7 +123254,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 123
-        }
+        },
+        "web_domains": [
+            "wax-bare.com"
+        ]
     },
     {
         "contract_address": "0x36ababcf40b64d3692862dc4834602b464057f7e",
@@ -123288,7 +123291,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 27
-        }
+        },
+        "web_domains": [
+            "coin12pay.com"
+        ]
     },
     {
         "contract_address": "0xceeb07dd26b36287b6d109f0b06d7e8202ce8c1d",
