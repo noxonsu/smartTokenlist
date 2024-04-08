@@ -122854,7 +122854,8 @@
         ],
         "holders": {
             "ETH": 151
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x02c0aa112c73bf53b6802088f990f10a8d7487fa",
@@ -122863,11 +122864,13 @@
             "anvm.io"
         ],
         "telegram_groups": [
+            "AINN_Layer2",
             "AINN_ANVM"
         ],
         "holders": {
             "ETH": 62
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x13b5fbcc782cfed23d972beccb82169371f618ce",
@@ -122878,7 +122881,9 @@
         ],
         "holders": {
             "ETH": 39
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x31c2415c946928e9fd1af83cdfa38d3edbd4326f",
@@ -122895,7 +122900,12 @@
         },
         "web_domains": [
             "rusd.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "info@rusd.org"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9216272158f563488ffc36afb877aca2f265c560",
@@ -122912,7 +122922,11 @@
         },
         "web_domains": [
             "pepeminer.com"
-        ]
+        ],
+        "telegram_groups": [
+            "pepe_miner"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc80285cbe1b73aa6b7f984abdc7ee85cced6df43",
@@ -122943,7 +122957,9 @@
         },
         "web_domains": [
             "junkyarddogs.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf75e8d7f84cdff0bd32429049267af5c10d33839",
