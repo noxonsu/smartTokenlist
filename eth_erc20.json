@@ -122990,7 +122990,12 @@
         },
         "web_domains": [
             "hachifull.jp"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "\n\u73fe\u5728\u306e\u30e1\u30fc\u30eb\u30a2\u30c9\u30ec\u30b9\uff1ahachifull_e@cna-catv.co.jp"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa86f69e589422fe73122e6c9ad48e7d126d77e59",
@@ -123012,7 +123017,8 @@
         ],
         "holders": {
             "ETH": 127
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3fe96ad48c1d8bd2ddaafb9f3d407033c4078eff",
@@ -123050,7 +123056,15 @@
         },
         "web_domains": [
             "dapp.expert"
-        ]
+        ],
+        "telegram_groups": [
+            "dappexpert_russia",
+            "dappexpert"
+        ],
+        "emails": [
+            "inbox@dapp.expert"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbbbd08c946ceca9d82a0eeafbee71a7836ee25dd",
@@ -123077,7 +123091,8 @@
         ],
         "holders": {
             "ETH": 50
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2766cc123d0a005c73f7bac66ce9e6a746fc1006",
@@ -123098,6 +123113,7 @@
         ],
         "holders": {
             "ETH": 74
-        }
+        },
+        "p6": true
     }
 ]
