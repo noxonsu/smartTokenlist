@@ -123418,7 +123418,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 57
-        }
+        },
+        "web_domains": [
+            "fomotoken.io"
+        ]
     },
     {
         "contract_address": "0xaa4453bc748b99e6d8a7bf5d979307ee36b5c742",
@@ -123446,7 +123449,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "usd-coin.com"
+        ]
     },
     {
         "contract_address": "0x709ace2a45a2416015724c94aa4e3f22b102581b",
