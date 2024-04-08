@@ -123617,7 +123617,8 @@
         ],
         "holders": {
             "ETH": 10
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xbf5badfae2d219943dcd9652d1ce65960b8a1e0c",
@@ -123640,7 +123641,11 @@
         },
         "web_domains": [
             "sageterminal.io"
-        ]
+        ],
+        "telegram_groups": [
+            "Sage_ERC314"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x68d1cea9fc468de2cb369b600769d82d7b853974",
@@ -123660,6 +123665,7 @@
         ],
         "holders": {
             "ETH": 122
-        }
+        },
+        "p6": true
     }
 ]
