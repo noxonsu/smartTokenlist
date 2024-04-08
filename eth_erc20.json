@@ -123486,5 +123486,159 @@
         "holders": {
             "ETH": 2006
         }
+    },
+    {
+        "contract_address": "0x1b5bea98cb56da56723db75f2c3b24f6119faf98",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "neuragpu.org"
+        ],
+        "telegram_groups": [
+            "NeuraGPUPortal"
+        ],
+        "holders": {
+            "ETH": 569
+        }
+    },
+    {
+        "contract_address": "0xab0893640fa69088dd4808801f697ddc78315c6c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x5c91c247045c1fc68f0f5d02b98d8b3eac378275",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0xfed5ebb692f9d838c04176fb5bea78cb5047fd33",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 64
+        }
+    },
+    {
+        "contract_address": "0x67775be6c01abae128f4e8f7f37dfc7df943542f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xd6ea6165dfd724dafc457fd71a74d105b9ca1220",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "anitamoon.xyz"
+        ],
+        "telegram_groups": [
+            "anita_moon_token"
+        ],
+        "holders": {
+            "ETH": 193
+        }
+    },
+    {
+        "contract_address": "0xf680b83580885c934bea1fc51fda133bb6c177cd",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "theindifferentduck.com"
+        ],
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x2dfd2a9c7d562433dbd13a92c8a69af7aa027229",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "remotehub.cloud",
+            "rdp.remotehub.cloud",
+            "docs.remotehub.cloud",
+            "remote-hub.medium.com"
+        ],
+        "telegram_groups": [
+            "remotehub_eth"
+        ],
+        "holders": {
+            "ETH": 239
+        }
+    },
+    {
+        "contract_address": "0x5228d6ff829b69d3f26d9e196075145650231766",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "delannetwork.tech"
+        ],
+        "telegram_groups": [
+            "DeLanNetworkBot",
+            "DeLanNetwork_portal"
+        ],
+        "holders": {
+            "ETH": 486
+        }
+    },
+    {
+        "contract_address": "0x62f03b52c377fea3eb71d451a95ad86c818755d1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0xfe485690c31dd2dcbc1919b430d594f3389d6e82",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "PELE.io"
+        ],
+        "telegram_groups": [
+            "PELE"
+        ],
+        "holders": {
+            "ETH": 10
+        }
+    },
+    {
+        "contract_address": "0xbf5badfae2d219943dcd9652d1ce65960b8a1e0c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.pale-blue.earth"
+        ],
+        "telegram_groups": [
+            "palebluedoteth"
+        ],
+        "holders": {
+            "ETH": 634
+        }
+    },
+    {
+        "contract_address": "0x45e576e6a2a6ef1816ecb7884a38d06d0af7a842",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 43
+        }
+    },
+    {
+        "contract_address": "0x68d1cea9fc468de2cb369b600769d82d7b853974",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 887
+        }
+    },
+    {
+        "contract_address": "0x0e08070dc89a8fe07ca1dc69e44e755ccd79982e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dogeforpreseth.com"
+        ],
+        "telegram_groups": [
+            "dogeforpresident"
+        ],
+        "holders": {
+            "ETH": 122
+        }
     }
 ]
