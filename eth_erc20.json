@@ -123512,7 +123512,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 18
-        }
+        },
+        "web_domains": [
+            "runestone.academy"
+        ]
     },
     {
         "contract_address": "0xfed5ebb692f9d838c04176fb5bea78cb5047fd33",
@@ -123586,7 +123589,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 7
-        }
+        },
+        "web_domains": [
+            "dogefrens.com"
+        ]
     },
     {
         "contract_address": "0xfe485690c31dd2dcbc1919b430d594f3389d6e82",
@@ -123619,7 +123625,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 43
-        }
+        },
+        "web_domains": [
+            "sageterminal.io"
+        ]
     },
     {
         "contract_address": "0x68d1cea9fc468de2cb369b600769d82d7b853974",
