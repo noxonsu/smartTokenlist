@@ -122742,7 +122742,8 @@
         ],
         "holders": {
             "ETH": 23
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x36a48ca66777da2831903394b7bd4d06753d5eaa",
@@ -122759,7 +122760,9 @@
         },
         "web_domains": [
             "waltio.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2c10c0de3362ff21f8ed6bc7f4ac5e391153fd2c",
@@ -122769,7 +122772,12 @@
         },
         "web_domains": [
             "marketviz.app"
-        ]
+        ],
+        "telegram_groups": [
+            "marketviz_official",
+            "marketviztrading_bot"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x00c77a8ce96a458b621447caf7fa57f1f2c223c9",
@@ -122783,7 +122791,8 @@
         ],
         "holders": {
             "ETH": 50
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5d489cced5001585f4c9ef87b1157c57ca59b10e",
@@ -122793,7 +122802,11 @@
         ],
         "holders": {
             "ETH": 19
-        }
+        },
+        "telegram_groups": [
+            "Motoswap"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa98af225e541b7260eff1ea56e66eb6e26c8a403",
@@ -122813,6 +122826,7 @@
         ],
         "holders": {
             "ETH": 476
-        }
+        },
+        "p6": true
     }
 ]
