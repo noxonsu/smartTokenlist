@@ -122987,7 +122987,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 177
-        }
+        },
+        "web_domains": [
+            "hachifull.jp"
+        ]
     },
     {
         "contract_address": "0xa86f69e589422fe73122e6c9ad48e7d126d77e59",
@@ -123044,7 +123047,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 0
-        }
+        },
+        "web_domains": [
+            "dapp.expert"
+        ]
     },
     {
         "contract_address": "0xbbbd08c946ceca9d82a0eeafbee71a7836ee25dd",
