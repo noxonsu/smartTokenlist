@@ -123221,5 +123221,80 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x63668e2ae3a945576c3ec9204fbfed329cf1d36c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "yieldtao.com"
+        ],
+        "telegram_groups": [
+            "YieldTAO"
+        ],
+        "holders": {
+            "ETH": 124
+        }
+    },
+    {
+        "contract_address": "0xdc44fb5b975a0ca2e4d66a83f56e029d83ef68c1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xc67361eb2cf9442e04f0b1b12d3e59241711062a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 38
+        }
+    },
+    {
+        "contract_address": "0x28f0634c3f99abca688d074b1628adc7028bcfc6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 123
+        }
+    },
+    {
+        "contract_address": "0x36ababcf40b64d3692862dc4834602b464057f7e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0x8c5e5fbb2f8c506c3739990bec570a367dbd7a4c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 122
+        }
+    },
+    {
+        "contract_address": "0x1dd5cf1bc9611382979f365097516380cfa35d97",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "truflation.com"
+        ],
+        "telegram_groups": [
+            "truflation"
+        ],
+        "holders": {
+            "ETH": 35
+        }
+    },
+    {
+        "contract_address": "0x7921613d694da3e035fae9a227ce61d1127a1d18",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 27
+        }
+    },
+    {
+        "contract_address": "0xceeb07dd26b36287b6d109f0b06d7e8202ce8c1d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1273
+        }
     }
 ]
