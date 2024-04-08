@@ -123233,7 +123233,8 @@
         ],
         "holders": {
             "ETH": 124
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xdc44fb5b975a0ca2e4d66a83f56e029d83ef68c1",
@@ -123257,7 +123258,12 @@
         },
         "web_domains": [
             "wax-bare.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "salon@wax-bare.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x36ababcf40b64d3692862dc4834602b464057f7e",
@@ -123284,7 +123290,8 @@
         ],
         "holders": {
             "ETH": 35
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7921613d694da3e035fae9a227ce61d1127a1d18",
@@ -123294,7 +123301,11 @@
         },
         "web_domains": [
             "coin12pay.com"
-        ]
+        ],
+        "telegram_groups": [
+            "coin12capitalllc"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xceeb07dd26b36287b6d109f0b06d7e8202ce8c1d",
