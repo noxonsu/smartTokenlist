@@ -123313,5 +123313,160 @@
         "holders": {
             "ETH": 1273
         }
+    },
+    {
+        "contract_address": "0xf85d6b329dfaa71bd239dda5c5e7ce0ebf9cca69",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 506
+        }
+    },
+    {
+        "contract_address": "0x68d1c2a170bac7f73d7680970345fcf8ddec79bb",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "virtublock.app"
+        ],
+        "telegram_groups": [
+            "vb_portal"
+        ],
+        "holders": {
+            "ETH": 515
+        }
+    },
+    {
+        "contract_address": "0x78c863c57c89075d9377a55ccc2cb4ec046f1bc4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 65
+        }
+    },
+    {
+        "contract_address": "0x524dd3df27abeaa8b6a0757e0f21b4beef989125",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cloverswap.app",
+            "swap.cloverswap.app",
+            "docs.cloverswap.app"
+        ],
+        "telegram_groups": [
+            "cloverswap"
+        ],
+        "holders": {
+            "ETH": 120
+        }
+    },
+    {
+        "contract_address": "0xb572f76f4e8eb4244ff985e4725ce3253376bf34",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "elsapopepe.io"
+        ],
+        "telegram_groups": [
+            "elsapopepeerc"
+        ],
+        "holders": {
+            "ETH": 332
+        }
+    },
+    {
+        "contract_address": "0x00b8d25e800d82ee833f9014b3b2d8f3ddcd68ae",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ethernude.com"
+        ],
+        "telegram_groups": [
+            "ethernude"
+        ],
+        "holders": {
+            "ETH": 274
+        }
+    },
+    {
+        "contract_address": "0x59081a616d3fc483ba3b80613bd6fa356222e9bc",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "OrdinalShiba"
+        ],
+        "holders": {
+            "ETH": 563
+        }
+    },
+    {
+        "contract_address": "0x3a3c384bc3cc6869ab0de79a869af850b78b62d3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x38969a6a58ea5e8d70dbf397f9d581e9999cc601",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "meatwadtoken.com",
+            "instagram.com"
+        ],
+        "telegram_groups": [
+            "meatwad_token"
+        ],
+        "holders": {
+            "ETH": 50
+        }
+    },
+    {
+        "contract_address": "0x61da45580aba9f97b41348d1ee314c321cf0562e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 57
+        }
+    },
+    {
+        "contract_address": "0xaa4453bc748b99e6d8a7bf5d979307ee36b5c742",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x8659fc767cad6005de79af65dafe4249c57927af",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1240
+        }
+    },
+    {
+        "contract_address": "0x1e932f3d106a7e41cdf988120fffa807d8eb06f3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x7b63523f51427b6e62e7088666220a1a849e0a42",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x709ace2a45a2416015724c94aa4e3f22b102581b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.hedz-token.com",
+            "hedz-erc20.gitbook.io"
+        ],
+        "telegram_groups": [
+            "HedzPortal"
+        ],
+        "holders": {
+            "ETH": 89
+        }
+    },
+    {
+        "contract_address": "0x796a4503b444a71b331c9556bef0815237ddeabc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2006
+        }
     }
 ]
