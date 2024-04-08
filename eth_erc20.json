@@ -122722,5 +122722,91 @@
             "ArcanaNetwork"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x12996c7b23c4012149bf9f5663ff9aa08a9cf2e4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 312
+        }
+    },
+    {
+        "contract_address": "0x3bcdda8f67a88449e3a6aea912f860f28de1a03a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.earnm.com",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "EARNMrewards"
+        ],
+        "holders": {
+            "ETH": 23
+        }
+    },
+    {
+        "contract_address": "0x36a48ca66777da2831903394b7bd4d06753d5eaa",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 21
+        }
+    },
+    {
+        "contract_address": "0x2f0641f5c915faab688ac3f97d41f5b8154843f4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0x2c10c0de3362ff21f8ed6bc7f4ac5e391153fd2c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 141
+        }
+    },
+    {
+        "contract_address": "0x00c77a8ce96a458b621447caf7fa57f1f2c223c9",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.floppyerc20.com",
+            "floppyerc20.gitbook.io"
+        ],
+        "telegram_groups": [
+            "FloppyEth"
+        ],
+        "holders": {
+            "ETH": 50
+        }
+    },
+    {
+        "contract_address": "0x5d489cced5001585f4c9ef87b1157c57ca59b10e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "motoswap.org"
+        ],
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0xa98af225e541b7260eff1ea56e66eb6e26c8a403",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 317
+        }
+    },
+    {
+        "contract_address": "0x8303dc5fd3f211bde646e818dd4acd87776fa11c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bok-choy.club"
+        ],
+        "telegram_groups": [
+            "ChoyCommunity"
+        ],
+        "holders": {
+            "ETH": 476
+        }
     }
 ]
