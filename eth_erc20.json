@@ -122981,5 +122981,117 @@
         "holders": {
             "ETH": 981
         }
+    },
+    {
+        "contract_address": "0x6a0258648b5554ced141eb32a7d32e3d805745e1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 177
+        }
+    },
+    {
+        "contract_address": "0xa86f69e589422fe73122e6c9ad48e7d126d77e59",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x6f89957a8fe201ed97300d5709ae2ab59385dbb0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "notifiai.org",
+            "app.notifiai.org",
+            "notifiai.medium.com"
+        ],
+        "telegram_groups": [
+            "notifiai"
+        ],
+        "holders": {
+            "ETH": 127
+        }
+    },
+    {
+        "contract_address": "0x3fe96ad48c1d8bd2ddaafb9f3d407033c4078eff",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 108
+        }
+    },
+    {
+        "contract_address": "0xb4ca8fc38c6e38e230f04b6674a6630915d9b569",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xcb5ffb8e836ca379a4634f9aaeaee632e796b0cb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x6f86b2fbfe6539da53399588fbbd1787de84c464",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x4c2fe18234e873f6549bc4c0ac465957384ae0dc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xbbbd08c946ceca9d82a0eeafbee71a7836ee25dd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x83f991917be898a203cab895d653c0c954529080",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x6310c251c7d074d0c000e23fa655458592b00d0d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "y8u.ai"
+        ],
+        "telegram_groups": [
+            "y8udotai"
+        ],
+        "holders": {
+            "ETH": 50
+        }
+    },
+    {
+        "contract_address": "0x2766cc123d0a005c73f7bac66ce9e6a746fc1006",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0x880aa8f77d34a70564986a051fb94123ba35c78a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.etfchainswap.com",
+            "app.etfchainswap.com"
+        ],
+        "telegram_groups": [
+            "etfchainswap"
+        ],
+        "holders": {
+            "ETH": 74
+        }
     }
 ]
