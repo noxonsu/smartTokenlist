@@ -122756,14 +122756,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 15
-        }
+        },
+        "web_domains": [
+            "waltio.com"
+        ]
     },
     {
         "contract_address": "0x2c10c0de3362ff21f8ed6bc7f4ac5e391153fd2c",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 141
-        }
+        },
+        "web_domains": [
+            "marketviz.app"
+        ]
     },
     {
         "contract_address": "0x00c77a8ce96a458b621447caf7fa57f1f2c223c9",
