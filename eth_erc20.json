@@ -123354,7 +123354,11 @@
         ],
         "holders": {
             "ETH": 120
-        }
+        },
+        "emails": [
+            "info@cloverswap.app"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb572f76f4e8eb4244ff985e4725ce3253376bf34",
@@ -123367,7 +123371,8 @@
         ],
         "holders": {
             "ETH": 332
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x00b8d25e800d82ee833f9014b3b2d8f3ddcd68ae",
@@ -123380,7 +123385,8 @@
         ],
         "holders": {
             "ETH": 274
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x59081a616d3fc483ba3b80613bd6fa356222e9bc",
@@ -123411,7 +123417,8 @@
         ],
         "holders": {
             "ETH": 50
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x61da45580aba9f97b41348d1ee314c321cf0562e",
@@ -123421,7 +123428,9 @@
         },
         "web_domains": [
             "fomotoken.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xaa4453bc748b99e6d8a7bf5d979307ee36b5c742",
@@ -123452,7 +123461,9 @@
         },
         "web_domains": [
             "usd-coin.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x709ace2a45a2416015724c94aa4e3f22b102581b",
