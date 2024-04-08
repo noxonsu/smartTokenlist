@@ -123159,7 +123159,9 @@
         ],
         "holders": {
             "ETH": 60
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd984c02e8276eb1d72037d17ef2cdb6aed06cdca",
@@ -123174,7 +123176,11 @@
         ],
         "holders": {
             "ETH": 75
-        }
+        },
+        "emails": [
+            "Contact@bullionai.org"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x730e5d7e51244e6b059b6251fc6db1eb1622a626",
@@ -123187,7 +123193,8 @@
         ],
         "holders": {
             "ETH": 126
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x13a2dee1aa7ad18a23a1ccd4eb269ae614a44e65",
@@ -123200,7 +123207,8 @@
         ],
         "holders": {
             "ETH": 201
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xdef3aa48bad043e53207d359dcdfde46f50b6c02",
@@ -123210,6 +123218,8 @@
         },
         "web_domains": [
             "alphagrowth.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
