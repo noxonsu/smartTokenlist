@@ -122666,5 +122666,53 @@
         "holders": {
             "ETH": 0
         }
+    },
+    {
+        "contract_address": "0x76e9d41cf4e068a61ffe3b750a84894fa88184b6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "KAIMoon.gg"
+        ],
+        "telegram_groups": [
+            "KAIERC20"
+        ],
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0x205d821117a77fb9cbd8b07f2f8067c743f2d9d8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8
+        }
+    },
+    {
+        "contract_address": "0x434e7ea9bc77c93c3f4680862281603338c7ae02",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x9e0c5d524dc3ff0aa734c52aa57ab623436364e6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xda8263d8ce3f726233f8b5585bcb86a3120a58b6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1392
+        }
+    },
+    {
+        "contract_address": "0x5027fc44a7ba114b8f494b1e4970900c6652fedf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 222
+        }
     }
 ]
