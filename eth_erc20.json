@@ -123115,5 +123115,98 @@
             "ETH": 74
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x55fc8170efd3a81c6fd7b2b1f8c78831b803bbda",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 68
+        }
+    },
+    {
+        "contract_address": "0x5485ad8cd15e60ffa456a447d6af85b98e13bb07",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x97b536b30e10a350910491937a7f896d17a910c2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x6efabf78a4dd02a8c8a5309025c16a61ebd50c41",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xf857c938829c2a53557fb3fbb1c85d10a5227e03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 252
+        }
+    },
+    {
+        "contract_address": "0x84f3d8ea05d2d41032bcb54a980dd31f45cbeb7a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tensor.trade"
+        ],
+        "holders": {
+            "ETH": 60
+        }
+    },
+    {
+        "contract_address": "0xd984c02e8276eb1d72037d17ef2cdb6aed06cdca",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bullionai.org",
+            "app.bullionai.org",
+            "docs.bullionai.org"
+        ],
+        "telegram_groups": [
+            "bullionai_official"
+        ],
+        "holders": {
+            "ETH": 75
+        }
+    },
+    {
+        "contract_address": "0x730e5d7e51244e6b059b6251fc6db1eb1622a626",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.andy-wifhat.com"
+        ],
+        "telegram_groups": [
+            "AndywifhatETH"
+        ],
+        "holders": {
+            "ETH": 126
+        }
+    },
+    {
+        "contract_address": "0x13a2dee1aa7ad18a23a1ccd4eb269ae614a44e65",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.ellecoin.site"
+        ],
+        "telegram_groups": [
+            "elletheelephant"
+        ],
+        "holders": {
+            "ETH": 201
+        }
+    },
+    {
+        "contract_address": "0xdef3aa48bad043e53207d359dcdfde46f50b6c02",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 111
+        }
     }
 ]
