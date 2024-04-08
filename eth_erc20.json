@@ -122678,7 +122678,8 @@
         ],
         "holders": {
             "ETH": 16
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x205d821117a77fb9cbd8b07f2f8067c743f2d9d8",
@@ -122716,6 +122717,10 @@
         },
         "web_domains": [
             "arcana.network"
-        ]
+        ],
+        "telegram_groups": [
+            "ArcanaNetwork"
+        ],
+        "p6": true
     }
 ]
