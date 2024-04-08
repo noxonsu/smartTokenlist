@@ -122606,5 +122606,64 @@
             "ETH": 67
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xef282d6dc4fe801a32c14e14030fea1e28a2fec4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "birddogtoken.xyz"
+        ],
+        "telegram_groups": [
+            "birddogtokeneth"
+        ],
+        "holders": {
+            "ETH": 244
+        }
+    },
+    {
+        "contract_address": "0x34612903db071e888a4dadcaa416d3ee263a87b9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1328
+        }
+    },
+    {
+        "contract_address": "0x1b779ce42af4194b3345b1ca04ab2acfe98855d8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x2c4e8f2d746113d0696ce89b35f0d8bf88e0aeca",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "simpletoken.org",
+            "simpletoken.org"
+        ],
+        "holders": {
+            "ETH": 12470
+        }
+    },
+    {
+        "contract_address": "0x97bda3107b539407d7ed53361c537875147a3201",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x5a7279fd65794e51db6278487af540143a74ce1a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x851af75888c00748ea3c155fa50cf257cb8e2b3e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
     }
 ]
