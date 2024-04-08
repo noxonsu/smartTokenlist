@@ -122537,5 +122537,71 @@
             "ETH": 53
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x8e529f5c059ad68157c113b646adf7a12ecda47e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "megadeth.site"
+        ],
+        "telegram_groups": [
+            "MegadethPortal"
+        ],
+        "holders": {
+            "ETH": 294
+        }
+    },
+    {
+        "contract_address": "0x957b9b7288d04a507437a46ae069bbbeec8f6c83",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ordify.world"
+        ],
+        "telegram_groups": [
+            "ordifyann",
+            "ordify"
+        ],
+        "holders": {
+            "ETH": 39
+        }
+    },
+    {
+        "contract_address": "0xcc8e21f599995d1c8367054841b8af5024ddf01b",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "alphagardeners_lounge"
+        ],
+        "holders": {
+            "ETH": 904
+        }
+    },
+    {
+        "contract_address": "0xd26059065a24a1ffd31f96984cdb7ca0e1007ad8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0xdcd90c7f6324cfa40d7169ef80b12031770b4325",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 908
+        }
+    },
+    {
+        "contract_address": "0xfa79a4a43f2c6cbaa2a7fbbeeb94ac73476c84ad",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.vantageai.tech",
+            "app.vantageai.tech",
+            "docs.vantageai.tech"
+        ],
+        "telegram_groups": [
+            "vantage_portal"
+        ],
+        "holders": {
+            "ETH": 67
+        }
     }
 ]
