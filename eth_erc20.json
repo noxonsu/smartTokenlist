@@ -122713,6 +122713,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 222
-        }
+        },
+        "web_domains": [
+            "arcana.network"
+        ]
     }
 ]
