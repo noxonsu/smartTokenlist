@@ -122892,7 +122892,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 48
-        }
+        },
+        "web_domains": [
+            "rusd.org"
+        ]
     },
     {
         "contract_address": "0x9216272158f563488ffc36afb877aca2f265c560",
@@ -122906,7 +122909,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 251
-        }
+        },
+        "web_domains": [
+            "pepeminer.com"
+        ]
     },
     {
         "contract_address": "0xc80285cbe1b73aa6b7f984abdc7ee85cced6df43",
@@ -122934,7 +122940,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 73
-        }
+        },
+        "web_domains": [
+            "junkyarddogs.io"
+        ]
     },
     {
         "contract_address": "0xf75e8d7f84cdff0bd32429049267af5c10d33839",
