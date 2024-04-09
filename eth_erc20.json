@@ -123741,5 +123741,60 @@
         "holders": {
             "ETH": 2
         }
+    },
+    {
+        "contract_address": "0x78f5548edad3913a237ba4df91570f3692d6d166",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x2295574e12e639781397ddb6aba7f7aa803d5eab",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xff770e4c68e35db85c6e0e89a43750ec02bdb2ac",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 716
+        }
+    },
+    {
+        "contract_address": "0x82b50d057106bffdfca11ae34523ead764f02522",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.pepuofficial.com",
+            "pepus-organization.gitbook.io"
+        ],
+        "telegram_groups": [
+            "PepuEth"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xa797a0b99b887eba09552334d4d58d7246220c30",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 86
+        }
+    },
+    {
+        "contract_address": "0x870627b00ea780d3dce434e6a057a1fa34410bc7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "neuravm.com"
+        ],
+        "telegram_groups": [
+            "neuraVM"
+        ],
+        "holders": {
+            "ETH": 287
+        }
     }
 ]
