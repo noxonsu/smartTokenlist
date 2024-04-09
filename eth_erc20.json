@@ -123782,7 +123782,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 86
-        }
+        },
+        "web_domains": [
+            "genopets.me"
+        ]
     },
     {
         "contract_address": "0x870627b00ea780d3dce434e6a057a1fa34410bc7",
