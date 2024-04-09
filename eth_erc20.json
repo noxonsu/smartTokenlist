@@ -124002,6 +124002,11 @@
         },
         "web_domains": [
             "farmers.gov"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "askusda@usda.gov"
+        ],
+        "p6": true
     }
 ]
