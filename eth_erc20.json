@@ -123899,5 +123899,78 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x9b7331c6e98bad1dc8f096ff3d98c93b3b9b1173",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "Mumubull.vip"
+        ],
+        "telegram_groups": [
+            "mumubullportal"
+        ],
+        "holders": {
+            "ETH": 1157
+        }
+    },
+    {
+        "contract_address": "0xd4738e9ee70f7c409c5704a8243e2cf75162098f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.saga.xyz",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "sagaofficialchannel"
+        ],
+        "holders": {
+            "ETH": 28
+        }
+    },
+    {
+        "contract_address": "0x4f311e6d97b991073649e0af99661bad4d17329b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xe79031b5aaeb3ee8d0145e3d75b81b36bffe341d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "boppythebat.vip"
+        ],
+        "telegram_groups": [
+            "BoppyTheBat"
+        ],
+        "holders": {
+            "ETH": 226
+        }
+    },
+    {
+        "contract_address": "0x5b107f3c31e1c3cdce6b691475d094226d6f7bd6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pepethepapi.com"
+        ],
+        "telegram_groups": [
+            "pepethepapi"
+        ],
+        "holders": {
+            "ETH": 174
+        }
+    },
+    {
+        "contract_address": "0xf3c9308111ddbe3552c1f0931d896b10ccd827ce",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "chartai.tech"
+        ],
+        "telegram_groups": [
+            "chartai_portal"
+        ],
+        "holders": {
+            "ETH": 2279
+        }
     }
 ]
