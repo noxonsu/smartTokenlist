@@ -123667,5 +123667,68 @@
             "ETH": 122
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x9477c4a50afa0837c83adb497932e1dc424a8270",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 99
+        }
+    },
+    {
+        "contract_address": "0x3505c70dbf2cc4ecd84dd0bed04f8126c26ab909",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.renzoprotocol.com",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "RenzoProtocolChat"
+        ],
+        "holders": {
+            "ETH": 47
+        }
+    },
+    {
+        "contract_address": "0x1d7b988ab919499978052d291814a4d887a14333",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 29
+        }
+    },
+    {
+        "contract_address": "0x5cf88bbefed548ae511fb63e21324b2dc3414cad",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "Adoptionai.org",
+            "adoption-ai.gitbook.io"
+        ],
+        "telegram_groups": [
+            "AdoptionAi_Erc20"
+        ],
+        "holders": {
+            "ETH": 65
+        }
+    },
+    {
+        "contract_address": "0xb3b4e1ac6a8eef79626d46f91e1e1d751a262cbd",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.greengreengreen.green",
+            "docs.greengreengreen.green"
+        ],
+        "telegram_groups": [
+            "StackYourGreen"
+        ],
+        "holders": {
+            "ETH": 95
+        }
+    },
+    {
+        "contract_address": "0x5550a116a020e9f8533d543426d345055280dfea",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
     }
 ]
