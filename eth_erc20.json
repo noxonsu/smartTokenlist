@@ -124088,7 +124088,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 161
-        }
+        },
+        "web_domains": [
+            "kryptomon.co"
+        ]
     },
     {
         "contract_address": "0x38c2a4a7330b22788374b8ff70bba513c8d848ca",
@@ -124102,6 +124105,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 75
-        }
+        },
+        "web_domains": [
+            "gam3s.gg"
+        ]
     }
 ]
