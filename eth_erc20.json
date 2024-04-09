@@ -123819,14 +123819,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 4
-        }
+        },
+        "web_domains": [
+            "vaiot.ai"
+        ]
     },
     {
         "contract_address": "0x223d3edc431e8ae6403b591df52fc16c2d7773dd",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 53
-        }
+        },
+        "web_domains": [
+            "explorer.btc.com"
+        ]
     },
     {
         "contract_address": "0xea405ad470a398b30a07193a1a643af6a05e0869",
@@ -123878,6 +123884,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 151
-        }
+        },
+        "web_domains": [
+            "hump.wtf"
+        ]
     }
 ]
