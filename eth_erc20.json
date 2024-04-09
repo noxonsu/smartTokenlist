@@ -123925,7 +123925,8 @@
         ],
         "holders": {
             "ETH": 28
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4f311e6d97b991073649e0af99661bad4d17329b",
@@ -123941,11 +123942,16 @@
             "boppythebat.vip"
         ],
         "telegram_groups": [
+            "boppythebat",
             "BoppyTheBat"
         ],
         "holders": {
             "ETH": 226
-        }
+        },
+        "emails": [
+            "team@boppythebat.vip"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5b107f3c31e1c3cdce6b691475d094226d6f7bd6",
@@ -123958,7 +123964,8 @@
         ],
         "holders": {
             "ETH": 174
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf3c9308111ddbe3552c1f0931d896b10ccd827ce",
