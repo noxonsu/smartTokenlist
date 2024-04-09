@@ -120429,7 +120429,11 @@
         ],
         "holders": {
             "ETH": 1295
-        }
+        },
+        "emails": [
+            "admin@spectra.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1e660227d70eb45b4837cb6573bb3792f4bc741a",
@@ -124134,7 +124138,12 @@
         ],
         "holders": {
             "ETH": 64
-        }
+        },
+        "telegram_groups": [],
+        "emails": [
+            "support@oasis.ai"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe91598331a36a78f7fefe277ce7c1915da0afb93",
@@ -124144,11 +124153,13 @@
             "docs.runesbridge.xyz"
         ],
         "telegram_groups": [
+            "RunesBridgeNews",
             "RunesBridge"
         ],
         "holders": {
             "ETH": 465
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x489d79959e6ad1e3fef7c939a2d889deff1668a8",
@@ -124164,7 +124175,8 @@
         ],
         "holders": {
             "ETH": 260
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x87e5f76961b0d51ba4e73e34f5fe46c4d0a01f1c",
@@ -124174,7 +124186,14 @@
         ],
         "holders": {
             "ETH": 53
-        }
+        },
+        "telegram_groups": [
+            "SpectraChain"
+        ],
+        "emails": [
+            "admin@spectra.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9a23e79a8e6d77f940f2c30eb3d9282af2e4036c",
