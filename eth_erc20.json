@@ -124125,5 +124125,62 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x1dc8c6c4368593e1215dd17fbf1417d43a88ffe8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.oasis.ai"
+        ],
+        "holders": {
+            "ETH": 64
+        }
+    },
+    {
+        "contract_address": "0xe91598331a36a78f7fefe277ce7c1915da0afb93",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "runesbridge.xyz",
+            "docs.runesbridge.xyz"
+        ],
+        "telegram_groups": [
+            "RunesBridge"
+        ],
+        "holders": {
+            "ETH": 465
+        }
+    },
+    {
+        "contract_address": "0x489d79959e6ad1e3fef7c939a2d889deff1668a8",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "HottieFroggie.meme",
+            "HottieCoin.meme",
+            "youtube.com",
+            "warpcast.com"
+        ],
+        "telegram_groups": [
+            "hottiecoineth"
+        ],
+        "holders": {
+            "ETH": 260
+        }
+    },
+    {
+        "contract_address": "0x87e5f76961b0d51ba4e73e34f5fe46c4d0a01f1c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "spectrachain.io"
+        ],
+        "holders": {
+            "ETH": 53
+        }
+    },
+    {
+        "contract_address": "0x9a23e79a8e6d77f940f2c30eb3d9282af2e4036c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
