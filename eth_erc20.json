@@ -124201,5 +124201,35 @@
         "holders": {
             "ETH": 1
         }
+    },
+    {
+        "contract_address": "0x58d471468fbc1193e499a3dcfca1d25116198c63",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 285
+        }
+    },
+    {
+        "contract_address": "0xed38805d30f42660d7c08231432777246d7a71d0",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "MinnieMouse_Erc"
+        ],
+        "holders": {
+            "ETH": 243
+        }
+    },
+    {
+        "contract_address": "0xa319bcb9212316d1949693d1077e02ee19a58e8b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "trumpslambo.com"
+        ],
+        "telegram_groups": [
+            "trumpslambo"
+        ],
+        "holders": {
+            "ETH": 172
+        }
     }
 ]
