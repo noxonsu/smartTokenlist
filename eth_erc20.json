@@ -124207,7 +124207,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 285
-        }
+        },
+        "web_domains": [
+            "kittytoken.io"
+        ]
     },
     {
         "contract_address": "0xed38805d30f42660d7c08231432777246d7a71d0",
