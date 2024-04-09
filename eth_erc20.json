@@ -124326,7 +124326,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 13
-        }
+        },
+        "web_domains": [
+            "buytoken.net"
+        ]
     },
     {
         "contract_address": "0x86e737dff37a70052c609f4d479fba5b34361a30",
@@ -124343,6 +124346,9 @@
         ],
         "holders": {
             "ETH": 14
-        }
+        },
+        "web_domains": [
+            "magikai.online"
+        ]
     }
 ]
