@@ -24,7 +24,7 @@ def get_unique_domains():
 
 
 def get_holders_count(contract_address):
-    url = f'{CHAINBASE_API_URL}{contract_address}&page=1&limit=20'
+    url = f'https://api.chainbase.online/v1/token/holders?chain_id=1&contract_address={contract_address}&page=1&limit=20'
     headers = {
         'accept': 'application/json',
         'x-api-key': os.environ['CHAINBASE_API']

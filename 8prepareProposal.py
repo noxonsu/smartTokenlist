@@ -13,7 +13,18 @@ MAINFILE = os.environ.get("MAINFILE")
 print("mainfie"+MAINFILE)
 
 def filter_sites_without_proposal(data):
-    return [(entry['web_domains'][0], entry['contract_address']) for entry in data if not entry.get('p8') and entry.get('p6') and not entry.get('p8skip') and entry.get('web_domains')]
+    #load https://docs.google.com/spreadsheets/d/e/2PACX-1vR94cJ2SrG0ObX_jgXUoX19AbpExNsS-h6DB7N5DGIdt06iYPuxgtfPgO25oMUuPODUqqkVzkRTWJKl/pub?output=csv
+    csv_url = "https://docs.google.com/spreadsheets/d/e/2PACX-1vR94cJ2SrG0ObX_jgXUoX19AbpExNsS-h6DB7N5DGIdt06iYPuxgtfPgO25oMUuPODUqqkVzkRTWJKl/pub?output=csv"
+    response = requests.get(csv_url)
+    csv_data = response.text
+    #find onliy line with 'joined,' 
+    csv_data = csv_data.split('\n')
+    csv_data = [line for line in csv_data if 'joined,' in line]
+    #get only first coluem (contract_address) 
+    csv_data = [line.split(',')[0] for line in csv_data]
+    print(csv_data)
+
+    return [(entry['web_domains'][0], entry['contract_address']) for entry in data if not entry.get('p8') and entry['contract_address'] in csv_data]
 
 
 def load_summary(contract_address):
