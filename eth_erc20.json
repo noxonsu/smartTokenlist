@@ -123687,7 +123687,8 @@
         ],
         "holders": {
             "ETH": 47
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1d7b988ab919499978052d291814a4d887a14333",
@@ -123697,7 +123698,12 @@
         },
         "web_domains": [
             "tucana.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "info@tucana.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5cf88bbefed548ae511fb63e21324b2dc3414cad",
@@ -123711,7 +123717,8 @@
         ],
         "holders": {
             "ETH": 65
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb3b4e1ac6a8eef79626d46f91e1e1d751a262cbd",
@@ -123725,7 +123732,8 @@
         ],
         "holders": {
             "ETH": 95
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5550a116a020e9f8533d543426d345055280dfea",
