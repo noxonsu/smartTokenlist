@@ -124008,5 +124008,67 @@
             "askusda@usda.gov"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x1ddef38a9e6b9a1209d618371a46627961e40fed",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "X314oneth"
+        ],
+        "holders": {
+            "ETH": 28
+        }
+    },
+    {
+        "contract_address": "0x18003235c6be658bf4dbe5acd73a033f09529a6e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.orionai.cloud",
+            "orionai.medium.com"
+        ],
+        "telegram_groups": [
+            "orionai"
+        ],
+        "holders": {
+            "ETH": 60
+        }
+    },
+    {
+        "contract_address": "0x7e86d87b98f084b796923ed432e5c88afece95e4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "metasaviorai.tech",
+            "app.metasaviorai.tech",
+            "docs.metasaviorai.tech"
+        ],
+        "telegram_groups": [
+            "metasavioraigroup"
+        ],
+        "holders": {
+            "ETH": 53
+        }
+    },
+    {
+        "contract_address": "0x578b388528f159d026693c3c103100d36ac2ad65",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "snackbox.ai"
+        ],
+        "holders": {
+            "ETH": 307
+        }
+    },
+    {
+        "contract_address": "0x24c09b7e317c364a80ad25372589dc03565abe8a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "4dragons.meme"
+        ],
+        "telegram_groups": [
+            "Four_Dragons_en"
+        ],
+        "holders": {
+            "ETH": 19
+        }
     }
 ]
