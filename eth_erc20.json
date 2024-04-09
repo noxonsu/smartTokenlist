@@ -124291,5 +124291,58 @@
         "holders": {
             "ETH": 48
         }
+    },
+    {
+        "contract_address": "0x4c341d939444e79e68074b0d1e96ddd3bc618104",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "brickblock.estate"
+        ],
+        "telegram_groups": [
+            "brickblockETH"
+        ],
+        "holders": {
+            "ETH": 570
+        }
+    },
+    {
+        "contract_address": "0x743261796385019eba43c79002ec8f7433ac7ce4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "runum.io",
+            "docs.runum.io",
+            "explorer.runum.io",
+            "rpc.runum.io"
+        ],
+        "telegram_groups": [
+            "RUNUM_portal"
+        ],
+        "holders": {
+            "ETH": 256
+        }
+    },
+    {
+        "contract_address": "0x6bc7c438d5cffbf10fd79904c5ed8b0d09ee5f30",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0x86e737dff37a70052c609f4d479fba5b34361a30",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xb755229010354df2ef38ac81e1055423d0899a01",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "magikal_ai"
+        ],
+        "holders": {
+            "ETH": 14
+        }
     }
 ]
