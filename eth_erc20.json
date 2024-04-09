@@ -124075,5 +124075,33 @@
             "ETH": 19
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x06ebde8fd2ebee5fa9ac2769d025506173f4f80b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xc4170fd71eced3c80badca77f4e12e8aac1e3436",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 161
+        }
+    },
+    {
+        "contract_address": "0x38c2a4a7330b22788374b8ff70bba513c8d848ca",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1283
+        }
+    },
+    {
+        "contract_address": "0xcf67815cce72e682eb4429eca46843bed81ca739",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 75
+        }
     }
 ]
