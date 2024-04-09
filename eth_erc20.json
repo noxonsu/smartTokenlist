@@ -123694,7 +123694,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 29
-        }
+        },
+        "web_domains": [
+            "tucana.com"
+        ]
     },
     {
         "contract_address": "0x5cf88bbefed548ae511fb63e21324b2dc3414cad",
