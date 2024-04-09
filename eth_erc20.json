@@ -123775,7 +123775,8 @@
         ],
         "holders": {
             "ETH": 0
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa797a0b99b887eba09552334d4d58d7246220c30",
@@ -123785,7 +123786,9 @@
         },
         "web_domains": [
             "genopets.me"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x870627b00ea780d3dce434e6a057a1fa34410bc7",
@@ -123798,6 +123801,10 @@
         ],
         "holders": {
             "ETH": 287
-        }
+        },
+        "emails": [
+            "support@neuravm.com"
+        ],
+        "p6": true
     }
 ]
