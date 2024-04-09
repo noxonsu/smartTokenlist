@@ -124315,11 +124315,13 @@
             "rpc.runum.io"
         ],
         "telegram_groups": [
+            "runumportal",
             "RUNUM_portal"
         ],
         "holders": {
             "ETH": 256
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6bc7c438d5cffbf10fd79904c5ed8b0d09ee5f30",
@@ -124329,7 +124331,9 @@
         },
         "web_domains": [
             "buytoken.net"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x86e737dff37a70052c609f4d479fba5b34361a30",
@@ -124349,6 +124353,7 @@
         },
         "web_domains": [
             "magikai.online"
-        ]
+        ],
+        "p6": true
     }
 ]
