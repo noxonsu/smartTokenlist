@@ -124355,5 +124355,106 @@
             "magikai.online"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x3a8d5bc8a8948b68dfc0ce9c14ac4150e083518c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1549
+        }
+    },
+    {
+        "contract_address": "0x083d41d6dd21ee938f0c055ca4fb12268df0efac",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 16015
+        }
+    },
+    {
+        "contract_address": "0x524b179c8334f7a629dc4b21452319d689448340",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 40
+        }
+    },
+    {
+        "contract_address": "0x1f990f8ee5a32d6c8ef706a5d88897ed2c9569bd",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "OGDogePortal"
+        ],
+        "holders": {
+            "ETH": 98
+        }
+    },
+    {
+        "contract_address": "0xff4e403ab32910419c4eb60d29d69b677dc75b1b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xa2e6a319408934be9bb79f12489bb0098e9f61a2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0x465a5a630482f3abd6d3b84b39b29b07214d19e5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 604
+        }
+    },
+    {
+        "contract_address": "0x7b33548ae0e9d23f47bf0ff805724d04d7b09e7c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x683eebbba58721855884fdf90b7f0cbd7fb6326e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x23fe0185fb99de5e2c6a7fb277c4984ff1bc4129",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xfed2228d1774317c8297624817e280a959c35b2d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 75
+        }
+    },
+    {
+        "contract_address": "0x085abc5f2ea2af99c52797d687858a6772513679",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.honkytoken.com",
+            "honky.gitbook.io"
+        ],
+        "telegram_groups": [
+            "HonkyErc"
+        ],
+        "holders": {
+            "ETH": 146
+        }
+    },
+    {
+        "contract_address": "0x79fed7a63f5c23ae2c58f05e096da23e5eab25a2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 29
+        }
     }
 ]
