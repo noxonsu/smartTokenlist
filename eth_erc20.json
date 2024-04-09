@@ -124243,5 +124243,49 @@
             "ETH": 172
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xc585df3a8c9ca0c614d023a812624be36161502b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xff742d05420b6aca4481f635ad8341f81a6300c2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 831
+        }
+    },
+    {
+        "contract_address": "0x7c20b0e610c7405683430528fb98c66ac14f8f92",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.hybridai-app.com",
+            "hybridai.gitbook.io",
+            "audit.hybridaieth.com",
+            "swap.hybridaieth.com"
+        ],
+        "telegram_groups": [
+            "HybridAiportal"
+        ],
+        "holders": {
+            "ETH": 161
+        }
+    },
+    {
+        "contract_address": "0xaa379c2aa72529d5ec0da8a41e2f41ed7fe4b48c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0xa3c534537b2831c1342200061090f962209b168f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 48
+        }
     }
 ]
