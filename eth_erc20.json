@@ -123806,5 +123806,78 @@
             "support@neuravm.com"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x29982abdcda2beadcb2498123b13d571488851e8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x470673718d35ba0a62f58e791746e85116506b00",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x223d3edc431e8ae6403b591df52fc16c2d7773dd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 53
+        }
+    },
+    {
+        "contract_address": "0xea405ad470a398b30a07193a1a643af6a05e0869",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.denode.tech",
+            "docs.denode.tech"
+        ],
+        "telegram_groups": [
+            "DenodePortal"
+        ],
+        "holders": {
+            "ETH": 420
+        }
+    },
+    {
+        "contract_address": "0x2a760d56fa7ab2ebefe5991dc44e82b41dc9a020",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "refinerc.com",
+            "docs.refinerc.com"
+        ],
+        "telegram_groups": [
+            "Refinerc"
+        ],
+        "emails": [
+            "contact@refinerc.com"
+        ],
+        "holders": {
+            "ETH": 626
+        }
+    },
+    {
+        "contract_address": "0x145f8ff4864cd1d451eb1d3eba435917df7c0054",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 112
+        }
+    },
+    {
+        "contract_address": "0xcf03425b54e58bfe24b2dea2c555f8ee5562fd97",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 555
+        }
+    },
+    {
+        "contract_address": "0xa44fb2638f53d7d7caa8c67add1ea98b60783c0a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 151
+        }
     }
 ]
