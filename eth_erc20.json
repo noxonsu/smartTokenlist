@@ -123822,7 +123822,11 @@
         },
         "web_domains": [
             "vaiot.ai"
-        ]
+        ],
+        "telegram_groups": [
+            "VAIOT_Community"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x223d3edc431e8ae6403b591df52fc16c2d7773dd",
@@ -123832,7 +123836,11 @@
         },
         "web_domains": [
             "explorer.btc.com"
-        ]
+        ],
+        "telegram_groups": [
+            "btccom_pool"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xea405ad470a398b30a07193a1a643af6a05e0869",
@@ -123846,7 +123854,8 @@
         ],
         "holders": {
             "ETH": 420
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2a760d56fa7ab2ebefe5991dc44e82b41dc9a020",
@@ -123887,6 +123896,8 @@
         },
         "web_domains": [
             "hump.wtf"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
