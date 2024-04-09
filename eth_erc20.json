@@ -124375,7 +124375,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 40
-        }
+        },
+        "web_domains": [
+            "ordible.ai"
+        ]
     },
     {
         "contract_address": "0x1f990f8ee5a32d6c8ef706a5d88897ed2c9569bd",
@@ -124399,7 +124402,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 30
-        }
+        },
+        "web_domains": [
+            "biggreendildo.com"
+        ]
     },
     {
         "contract_address": "0x465a5a630482f3abd6d3b84b39b29b07214d19e5",
