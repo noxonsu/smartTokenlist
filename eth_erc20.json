@@ -124272,7 +124272,11 @@
         ],
         "holders": {
             "ETH": 161
-        }
+        },
+        "emails": [
+            "HybridAi@outlook.co.id"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xaa379c2aa72529d5ec0da8a41e2f41ed7fe4b48c",
