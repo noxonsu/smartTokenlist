@@ -125232,5 +125232,109 @@
         "holders": {
             "ETH": 5
         }
+    },
+    {
+        "contract_address": "0xa7a65720fd9aa079d44f984726b484f4308652c0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x46947241be767bd05dc843755a991265170dac27",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dapp.bandwidtheth.com",
+            "dapp.bandwidtheth.com",
+            "bandwidth-1.gitbook.io"
+        ],
+        "holders": {
+            "ETH": 363
+        }
+    },
+    {
+        "contract_address": "0x1c95b093d6c236d3ef7c796fe33f9cc6b8606714",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2405
+        }
+    },
+    {
+        "contract_address": "0xbbb38be7c6d954320c0297c06ab3265a950cdf89",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 62
+        }
+    },
+    {
+        "contract_address": "0x067def80d66fb69c276e53b641f37ff7525162f6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "opengpu.network",
+            "stake.opengpu.network",
+            "opengpu.network",
+            "opengpu.network"
+        ],
+        "telegram_groups": [
+            "opengpuportal"
+        ],
+        "holders": {
+            "ETH": 154
+        }
+    },
+    {
+        "contract_address": "0x63498b781b245a5f081f87210d1bed69f717c210",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dreamweaverai.tech",
+            "dreamweaverai.gitbook.io"
+        ],
+        "telegram_groups": [
+            "DreamWeaverAI"
+        ],
+        "holders": {
+            "ETH": 36
+        }
+    },
+    {
+        "contract_address": "0x1bfc53f23d6ee0c8a97e88066834da5b09216c54",
+        "sourceScanned": "processed",
+        "emails": [
+            "help@fuzuki.io"
+        ],
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x5931ad2f3a8bcd85b9a967ac74e835b338e5dcd7",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "decentragpu.io",
+            "degpu.gitbook.io"
+        ],
+        "telegram_groups": [
+            "decentragpu",
+            "DecentraGPU_bot"
+        ],
+        "holders": {
+            "ETH": 119
+        }
+    },
+    {
+        "contract_address": "0xc6c9d16cedc558bb4265e51de7aba6b5479014f3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "minerdock.net",
+            "store.minerdock.net",
+            "learn.minerdock.net",
+            "minerdock.medium.com"
+        ],
+        "telegram_groups": [
+            "minerdock"
+        ],
+        "holders": {
+            "ETH": 202
+        }
     }
 ]
