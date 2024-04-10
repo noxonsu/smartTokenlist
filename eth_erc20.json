@@ -125375,7 +125375,11 @@
         ],
         "holders": {
             "ETH": 75
-        }
+        },
+        "emails": [
+            "  support@empowerai.tech    \n              "
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb8e3e431ffb17dac4bedec04b901a3c03179fd1b",
@@ -125384,11 +125388,13 @@
             "www.dopepepecoin.com"
         ],
         "telegram_groups": [
-            "dogepepecoin"
+            "dogepepecoin",
+            "dogepepenews"
         ],
         "holders": {
             "ETH": 73
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb3979c9c39498baf579c19674991f082346edd49",
@@ -125401,7 +125407,11 @@
         ],
         "holders": {
             "ETH": 117
-        }
+        },
+        "emails": [
+            "support@KEKE.COM"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x582677cb94f25d4b68dbcbbaf0f8d9cbdc3fba0e",
@@ -125411,7 +125421,9 @@
         },
         "web_domains": [
             "exponential.fi"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa1e349fac47e50b42cd323c4285ef4622b60a5e0",
