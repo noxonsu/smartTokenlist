@@ -124743,5 +124743,68 @@
             "ETH": 60
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xd2960d83c53085b5631f4d0be4916806e40ef1f3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 256
+        }
+    },
+    {
+        "contract_address": "0x48a585c5e37124f8a1acd896e0e6263a1fd0e8af",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xf5081b106abbe443fc62384b3724620fc9599c46",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 861
+        }
+    },
+    {
+        "contract_address": "0xbd7bf6c761f0dbe274c55505e0217f6845166ef8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x566638298dfaad86661a3d92dec834e0504ce4a7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x30fc43c1e8b440268bec1a300fd56d3bfdbd982e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "insight-aiproject.com",
+            "youtube.com"
+        ],
+        "telegram_groups": [
+            "InsightAI_Erc20"
+        ],
+        "holders": {
+            "ETH": 299
+        }
+    },
+    {
+        "contract_address": "0xa33a0735ae6b2288e0081f6c1703c682536b478c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 358
+        }
+    },
+    {
+        "contract_address": "0x2e053bbd1532504646247f7106b5203d1e10dbae",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
     }
 ]
