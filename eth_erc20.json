@@ -125167,5 +125167,60 @@
         "holders": {
             "ETH": 395
         }
+    },
+    {
+        "contract_address": "0xb8176941f1b5173dfdbadcc5d387829b27e98138",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "deorbit.network",
+            "linktr.ee"
+        ],
+        "telegram_groups": [
+            "DeOrbit_Network"
+        ],
+        "holders": {
+            "ETH": 424
+        }
+    },
+    {
+        "contract_address": "0xf97b93d8b16664f513be68dee8a166e9d926d654",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xe9021998a2042a6ebf4f3fad470354eecfe3dac1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xb811605e3921cd998231fc1d5394dfd75b929180",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "boysclubcult.com"
+        ],
+        "telegram_groups": [
+            "boysclubvip"
+        ],
+        "holders": {
+            "ETH": 251
+        }
+    },
+    {
+        "contract_address": "0xe3516f1968e493f6ec2994fb237d0bdd2f0b7355",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 27
+        }
+    },
+    {
+        "contract_address": "0xf9a692c108d0cbd24eb4882ecf668fc600443e44",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
     }
 ]
