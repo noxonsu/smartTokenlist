@@ -125194,7 +125194,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 2
-        }
+        },
+        "web_domains": [
+            "google.com"
+        ]
     },
     {
         "contract_address": "0xb811605e3921cd998231fc1d5394dfd75b929180",
