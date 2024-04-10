@@ -124479,7 +124479,11 @@
         ],
         "holders": {
             "ETH": 26
-        }
+        },
+        "emails": [
+            "thebullbubu@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb834a8326b4551530c3b3b16f1edc28f117cc8be",
@@ -124503,7 +124507,9 @@
         },
         "web_domains": [
             "armablock.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x53f9c54a9ec424790e908df9068d746f6a25de6a",
@@ -124517,7 +124523,8 @@
         ],
         "holders": {
             "ETH": 33
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc3a411b3e2dd6db238e7d849f9cc732a6c71f693",
@@ -124531,7 +124538,8 @@
         ],
         "holders": {
             "ETH": 150
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd27255aa153ae470419b0198fa61e892a612afe8",
@@ -124541,7 +124549,9 @@
         },
         "web_domains": [
             "get-usdc.net"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4c3f54ddb311689fc80d724041f9a1649e0cc848",
@@ -124554,13 +124564,32 @@
         "contract_address": "0xd5c7866fd801a56e9cdb0e453a86d3a133a08fb2",
         "sourceScanned": "processed",
         "telegram_groups": [
-            "Grok20ERC"
+            "MEXCRussianOfficial",
+            "MEXCKorean",
+            "MEXCSpanish",
+            "MEXC_PER",
+            "MEXC_ZH",
+            "MEXCFutures",
+            "MEXCTurkey",
+            "MEXCEnglish",
+            "MEXCFilipino",
+            "MEXC_DE",
+            "MEXC_ENofficial",
+            "MEXCUkraineOfficial",
+            "MEXC_MalaysiaOfficial",
+            "MEXCBengali",
+            "MEXCVN_Community",
+            "MEXCPortuguese",
+            "MEXCIndonesian",
+            "Grok20ERC",
+            "MEXCJapan"
         ],
         "holders": {
             "ETH": 258
         },
         "web_domains": [
             "mexc.com"
-        ]
+        ],
+        "p6": true
     }
 ]
