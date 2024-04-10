@@ -124600,7 +124600,9 @@
         ],
         "holders": {
             "ETH": 277
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9abe70a93e70b21bf3d99e56cfe9eeb80e3ba9a5",
@@ -124613,7 +124615,8 @@
         ],
         "holders": {
             "ETH": 114
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0ab6a6fb4c0f7130e568a5401f86cf16ab4f7dc0",
@@ -124640,12 +124643,13 @@
             "docs.cardify.tech"
         ],
         "telegram_groups": [
-            "CardifyOnEth",
-            "CardifyEthBot"
+            "CardifyEthBot",
+            "CardifyOnEth"
         ],
         "holders": {
             "ETH": 128
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xcb0507e9c78a5fb18dd341ba1887d70958a60376",
@@ -124660,7 +124664,8 @@
         ],
         "holders": {
             "ETH": 75
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7174146bedb1bb365191475d0ae036ead02b182b",
@@ -124670,6 +124675,8 @@
         },
         "web_domains": [
             "mattfurie.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
