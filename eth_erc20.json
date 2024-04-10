@@ -124812,5 +124812,76 @@
         "holders": {
             "ETH": 2
         }
+    },
+    {
+        "contract_address": "0xb15d229fee8ff0ed1e0795b8febec769c01c43e3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blazoai.org",
+            "docs.blazoai.org"
+        ],
+        "telegram_groups": [
+            "blazoai"
+        ],
+        "holders": {
+            "ETH": 106
+        }
+    },
+    {
+        "contract_address": "0x04b90eb7f84672b17bab65d755ba8a5a6c2ae438",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.dodo-popo.com"
+        ],
+        "telegram_groups": [
+            "DodoPopoETH"
+        ],
+        "holders": {
+            "ETH": 40
+        }
+    },
+    {
+        "contract_address": "0x97594293ee42aef2b46eb62e72b50675122f83af",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.dork-pepe.com"
+        ],
+        "telegram_groups": [
+            "DorkPepe_Portal"
+        ],
+        "holders": {
+            "ETH": 27
+        }
+    },
+    {
+        "contract_address": "0xc2cb3eb1d82c609eb72ba6204e29076fa5c2c926",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x963bc80c2e6bb753bad7ac50c8740eba44a8a8e0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0xa9cd858c936ccf7932deffc3a8813cc6400c5e45",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "MattFurie_Entry"
+        ],
+        "holders": {
+            "ETH": 69
+        }
+    },
+    {
+        "contract_address": "0xdb61a33fd4d902b33d8e0b7c97e5a60fce4e1a2c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 25
+        }
     }
 ]
