@@ -124912,7 +124912,10 @@
         ],
         "holders": {
             "ETH": 52
-        }
+        },
+        "web_domains": [
+            "freedominthe50states.org"
+        ]
     },
     {
         "contract_address": "0x847d2f49e856550f93f7aadf444528a024256372",
