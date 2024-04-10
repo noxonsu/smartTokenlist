@@ -124678,5 +124678,60 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xf164a18d02537149a21d258dd0e842517a5c2364",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x04f518f4bd44c02255625f609bfbcbbf2d018089",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "garythesnail.org"
+        ],
+        "telegram_groups": [
+            "garycoinerc"
+        ],
+        "holders": {
+            "ETH": 788
+        }
+    },
+    {
+        "contract_address": "0x8661d142347d89e854fbcb228380bebbcfbf0311",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Bully_Pepe"
+        ],
+        "holders": {
+            "ETH": 229
+        }
+    },
+    {
+        "contract_address": "0x3b06f6027a41bfced3d5e6855b69aea5e7426e90",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mezo.org",
+            "discord.com"
+        ],
+        "holders": {
+            "ETH": 34
+        }
+    },
+    {
+        "contract_address": "0xd3a31b0691dc1a3edb2255bc27f2421551d57e35",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.polly-official.com",
+            "polly-the-frog.gitbook.io"
+        ],
+        "telegram_groups": [
+            "PollyErc"
+        ],
+        "holders": {
+            "ETH": 60
+        }
     }
 ]
