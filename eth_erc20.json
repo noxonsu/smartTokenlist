@@ -124950,5 +124950,73 @@
         "holders": {
             "ETH": 1853
         }
+    },
+    {
+        "contract_address": "0xfb3d4d045f9f910af817f283d21b85d8872e84b9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 62
+        }
+    },
+    {
+        "contract_address": "0x36fcf6185ba84c6a539b5b2621f68b3b7ff311e3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xaec7ae6d10879f276f93f366cce3e4342e997f90",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x93620a92a5d7675f5c9d56749138e63c135a8aae",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 37
+        }
+    },
+    {
+        "contract_address": "0x88711d38088c2825f7c79594fbb21ea6d963a4c5",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dodo-pepe.com"
+        ],
+        "telegram_groups": [
+            "Dodo_Pepe_Portal"
+        ],
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0x2e42452396a8f091703c0ed3c86ef4e3de8264a5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x81e2a3b69a96706236001be0a7985f480ac8b819",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x0bb78d3a893a87c8b757e0b176ca19db8ea15254",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ginnan-eth.vip"
+        ],
+        "telegram_groups": [
+            "GINNAN_ERC"
+        ],
+        "holders": {
+            "ETH": 269
+        }
     }
 ]
