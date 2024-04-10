@@ -124825,7 +124825,8 @@
         ],
         "holders": {
             "ETH": 106
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x04b90eb7f84672b17bab65d755ba8a5a6c2ae438",
@@ -124838,7 +124839,8 @@
         ],
         "holders": {
             "ETH": 40
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x97594293ee42aef2b46eb62e72b50675122f83af",
@@ -124851,7 +124853,8 @@
         ],
         "holders": {
             "ETH": 27
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc2cb3eb1d82c609eb72ba6204e29076fa5c2c926",
@@ -124868,7 +124871,9 @@
         },
         "web_domains": [
             "bloodhoundenterprise.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa9cd858c936ccf7932deffc3a8813cc6400c5e45",
@@ -124888,6 +124893,8 @@
         },
         "web_domains": [
             "bluechipai.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
