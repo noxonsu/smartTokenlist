@@ -124752,7 +124752,9 @@
         },
         "web_domains": [
             "oofi.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x48a585c5e37124f8a1acd896e0e6263a1fd0e8af",
@@ -124794,7 +124796,8 @@
         ],
         "holders": {
             "ETH": 299
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa33a0735ae6b2288e0081f6c1703c682536b478c",
