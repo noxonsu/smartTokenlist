@@ -125408,7 +125408,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 5
-        }
+        },
+        "web_domains": [
+            "exponential.fi"
+        ]
     },
     {
         "contract_address": "0xa1e349fac47e50b42cd323c4285ef4622b60a5e0",
