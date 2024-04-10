@@ -124467,5 +124467,91 @@
         "holders": {
             "ETH": 29
         }
+    },
+    {
+        "contract_address": "0xcae38ab0d5dd13d3cfa69caf73df2725dad8255d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "thebullbubu.com"
+        ],
+        "telegram_groups": [
+            "BubuTheBullETH"
+        ],
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0xb834a8326b4551530c3b3b16f1edc28f117cc8be",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x115c2c32074ead108ee004b1a71560c8b24ce56c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x84fad63f8f26335f4f1bebc9fbf5ba277fd23c9e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 206
+        }
+    },
+    {
+        "contract_address": "0x53f9c54a9ec424790e908df9068d746f6a25de6a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.r-games.tech",
+            "www.linkedin.com"
+        ],
+        "telegram_groups": [
+            "RGamesOfficialChat"
+        ],
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0xc3a411b3e2dd6db238e7d849f9cc732a6c71f693",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nexanode.cloud",
+            "docs.nexanode.cloud"
+        ],
+        "telegram_groups": [
+            "NexaNODE"
+        ],
+        "holders": {
+            "ETH": 150
+        }
+    },
+    {
+        "contract_address": "0xd27255aa153ae470419b0198fa61e892a612afe8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x4c3f54ddb311689fc80d724041f9a1649e0cc848",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xd5c7866fd801a56e9cdb0e453a86d3a133a08fb2",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Grok20ERC"
+        ],
+        "holders": {
+            "ETH": 258
+        }
     }
 ]
