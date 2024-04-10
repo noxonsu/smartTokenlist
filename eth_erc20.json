@@ -64281,7 +64281,11 @@
         "holders": {
             "ETH": 1605
         },
-        "p8skip": true
+        "p8skip": true,
+        "telegram_groups": [
+            "baggeportal"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb4ed4b380dc6222b55bf21ea512452820f338cd0",
@@ -71648,7 +71652,11 @@
         "holders": {
             "ETH": 1453
         },
-        "p8skip": true
+        "p8skip": true,
+        "telegram_groups": [
+            "baggeportal"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x02950460e2b9529d0e00284a5fa2d7bdf3fa4d72",
@@ -125043,7 +125051,8 @@
         ],
         "holders": {
             "ETH": 32
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0a3be3624984eeaf74edad43f4cad4cf3766c6f2",
@@ -125055,7 +125064,11 @@
         ],
         "holders": {
             "ETH": 67
-        }
+        },
+        "telegram_groups": [
+            "baggeportal"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc89521c28dd8d94b9ec83099205785589d93990f",
@@ -125065,7 +125078,9 @@
         },
         "web_domains": [
             "starlink.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x5ea3b9f2940e72b6183ec032e2a73f950e401b99",
@@ -125096,7 +125111,9 @@
         },
         "web_domains": [
             "314beergarden.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf915110898d9a455ad2da51bf49520b41655ccea",
@@ -125106,7 +125123,9 @@
         },
         "web_domains": [
             "tai.money"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x362ddd14f69924ebbf9066ddd2ae7c171cf6d098",
@@ -125116,7 +125135,11 @@
         },
         "web_domains": [
             "verse.bitcoin.com"
-        ]
+        ],
+        "telegram_groups": [
+            "GetVerse"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9b8f1cfc6ad3459c49ca61296627911e8c4c431d",
