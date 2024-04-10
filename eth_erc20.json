@@ -124749,7 +124749,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 256
-        }
+        },
+        "web_domains": [
+            "oofi.io"
+        ]
     },
     {
         "contract_address": "0x48a585c5e37124f8a1acd896e0e6263a1fd0e8af",
