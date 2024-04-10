@@ -125030,5 +125030,103 @@
             "ETH": 269
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x9a5d0f32b00bdb418d7667ae36d36ea15fde594e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.thesoftdao.com",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "theSoftDAO"
+        ],
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0x0a3be3624984eeaf74edad43f4cad4cf3766c6f2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "docs.uniswap.org",
+            "docs.uniswap.org",
+            "docs.uniswap.org"
+        ],
+        "holders": {
+            "ETH": 67
+        }
+    },
+    {
+        "contract_address": "0xc89521c28dd8d94b9ec83099205785589d93990f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 292
+        }
+    },
+    {
+        "contract_address": "0x5ea3b9f2940e72b6183ec032e2a73f950e401b99",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xbe24af486ae81e5c37317997ff169902b93bcc2d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 683
+        }
+    },
+    {
+        "contract_address": "0xdf8ef8fef6fa5489d097652dedfb6617ce28a0d6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 685
+        }
+    },
+    {
+        "contract_address": "0x0827550307d636c5d6229c1a0a922efb34000314",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 27
+        }
+    },
+    {
+        "contract_address": "0xf915110898d9a455ad2da51bf49520b41655ccea",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 99
+        }
+    },
+    {
+        "contract_address": "0x362ddd14f69924ebbf9066ddd2ae7c171cf6d098",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 194
+        }
+    },
+    {
+        "contract_address": "0x9b8f1cfc6ad3459c49ca61296627911e8c4c431d",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ether.quest",
+            "discord.com",
+            "blog.ether.quest",
+            "linktr.ee"
+        ],
+        "telegram_groups": [
+            "Ether_Quest"
+        ],
+        "holders": {
+            "ETH": 349
+        }
+    },
+    {
+        "contract_address": "0x504624040e0642921c2c266a9ac37cafbd8cda4e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 395
+        }
     }
 ]
