@@ -124959,7 +124959,9 @@
         },
         "web_domains": [
             "kreatorhood.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x36fcf6185ba84c6a539b5b2621f68b3b7ff311e3",
@@ -124983,7 +124985,9 @@
         },
         "web_domains": [
             "bonanzaminingcorp.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x88711d38088c2825f7c79594fbb21ea6d963a4c5",
@@ -124996,7 +125000,8 @@
         ],
         "holders": {
             "ETH": 12
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2e42452396a8f091703c0ed3c86ef4e3de8264a5",
@@ -125023,6 +125028,7 @@
         ],
         "holders": {
             "ETH": 269
-        }
+        },
+        "p6": true
     }
 ]
