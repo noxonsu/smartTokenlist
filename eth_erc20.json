@@ -125155,7 +125155,11 @@
         ],
         "holders": {
             "ETH": 349
-        }
+        },
+        "emails": [
+            "contact@ether.quest"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x504624040e0642921c2c266a9ac37cafbd8cda4e",
