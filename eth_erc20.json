@@ -124956,7 +124956,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 62
-        }
+        },
+        "web_domains": [
+            "kreatorhood.com"
+        ]
     },
     {
         "contract_address": "0x36fcf6185ba84c6a539b5b2621f68b3b7ff311e3",
@@ -124977,7 +124980,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 37
-        }
+        },
+        "web_domains": [
+            "bonanzaminingcorp.com"
+        ]
     },
     {
         "contract_address": "0x88711d38088c2825f7c79594fbb21ea6d963a4c5",
