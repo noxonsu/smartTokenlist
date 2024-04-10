@@ -124865,7 +124865,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 25
-        }
+        },
+        "web_domains": [
+            "bloodhoundenterprise.io"
+        ]
     },
     {
         "contract_address": "0xa9cd858c936ccf7932deffc3a8813cc6400c5e45",
@@ -124882,6 +124885,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 25
-        }
+        },
+        "web_domains": [
+            "bluechipai.com"
+        ]
     }
 ]
