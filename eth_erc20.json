@@ -125062,7 +125062,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 292
-        }
+        },
+        "web_domains": [
+            "starlink.com"
+        ]
     },
     {
         "contract_address": "0x5ea3b9f2940e72b6183ec032e2a73f950e401b99",
@@ -125090,21 +125093,30 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 27
-        }
+        },
+        "web_domains": [
+            "314beergarden.com"
+        ]
     },
     {
         "contract_address": "0xf915110898d9a455ad2da51bf49520b41655ccea",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 99
-        }
+        },
+        "web_domains": [
+            "tai.money"
+        ]
     },
     {
         "contract_address": "0x362ddd14f69924ebbf9066ddd2ae7c171cf6d098",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 194
-        }
+        },
+        "web_domains": [
+            "verse.bitcoin.com"
+        ]
     },
     {
         "contract_address": "0x9b8f1cfc6ad3459c49ca61296627911e8c4c431d",
