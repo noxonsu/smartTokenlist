@@ -124500,7 +124500,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 206
-        }
+        },
+        "web_domains": [
+            "armablock.io"
+        ]
     },
     {
         "contract_address": "0x53f9c54a9ec424790e908df9068d746f6a25de6a",
@@ -124535,7 +124538,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 0
-        }
+        },
+        "web_domains": [
+            "get-usdc.net"
+        ]
     },
     {
         "contract_address": "0x4c3f54ddb311689fc80d724041f9a1649e0cc848",
@@ -124552,6 +124558,9 @@
         ],
         "holders": {
             "ETH": 258
-        }
+        },
+        "web_domains": [
+            "mexc.com"
+        ]
     }
 ]
