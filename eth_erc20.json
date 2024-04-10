@@ -124896,5 +124896,53 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xa8dc2f25861ff683bc7f30ddd8818c1563717769",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 127
+        }
+    },
+    {
+        "contract_address": "0xd76bf06c423290ca271061076a07562b63689a9d",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "freedomisringing"
+        ],
+        "holders": {
+            "ETH": 52
+        }
+    },
+    {
+        "contract_address": "0x847d2f49e856550f93f7aadf444528a024256372",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "debridge.finance",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "deBridge_finance"
+        ],
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0xa4f9cec920ca520a7feb2c3a63050e08967bc111",
+        "sourceScanned": "processed",
+        "emails": [
+            "jake@jakegsy.com"
+        ],
+        "holders": {
+            "ETH": 561
+        }
+    },
+    {
+        "contract_address": "0x42b91f1d05afea671a2da3c780eda2abf0a2a366",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1853
+        }
     }
 ]
