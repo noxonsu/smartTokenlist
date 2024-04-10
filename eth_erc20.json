@@ -125347,5 +125347,80 @@
             "ETH": 202
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xac4b1295f9aeb1db29acb37902be349a79a66403",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x2dabcea55a12d73191aece59f508b191fb68adac",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xf445a2e240c73cfaaf0654202157f9c5457e5f73",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "empowerai.tech",
+            "app.empowerai.tech",
+            "docs.empowerai.tech"
+        ],
+        "telegram_groups": [
+            "empowerai"
+        ],
+        "holders": {
+            "ETH": 75
+        }
+    },
+    {
+        "contract_address": "0xb8e3e431ffb17dac4bedec04b901a3c03179fd1b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.dopepepecoin.com"
+        ],
+        "telegram_groups": [
+            "dogepepecoin"
+        ],
+        "holders": {
+            "ETH": 73
+        }
+    },
+    {
+        "contract_address": "0xb3979c9c39498baf579c19674991f082346edd49",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.keke-coin.com"
+        ],
+        "telegram_groups": [
+            "KekecoinETH"
+        ],
+        "holders": {
+            "ETH": 117
+        }
+    },
+    {
+        "contract_address": "0x582677cb94f25d4b68dbcbbaf0f8d9cbdc3fba0e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0xa1e349fac47e50b42cd323c4285ef4622b60a5e0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pepycoin.com"
+        ],
+        "telegram_groups": [
+            "pepycoin"
+        ],
+        "holders": {
+            "ETH": 500
+        }
     }
 ]
