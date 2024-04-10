@@ -125250,7 +125250,11 @@
         ],
         "holders": {
             "ETH": 363
-        }
+        },
+        "telegram_groups": [
+            "bandwidthportal"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1c95b093d6c236d3ef7c796fe33f9cc6b8606714",
@@ -125280,7 +125284,11 @@
         ],
         "holders": {
             "ETH": 154
-        }
+        },
+        "emails": [
+            "info@opengpu.network"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x63498b781b245a5f081f87210d1bed69f717c210",
@@ -125294,7 +125302,8 @@
         ],
         "holders": {
             "ETH": 36
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1bfc53f23d6ee0c8a97e88066834da5b09216c54",
@@ -125314,12 +125323,13 @@
             "degpu.gitbook.io"
         ],
         "telegram_groups": [
-            "decentragpu",
-            "DecentraGPU_bot"
+            "DecentraGPU_bot",
+            "decentragpu"
         ],
         "holders": {
             "ETH": 119
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc6c9d16cedc558bb4265e51de7aba6b5479014f3",
@@ -125335,6 +125345,7 @@
         ],
         "holders": {
             "ETH": 202
-        }
+        },
+        "p6": true
     }
 ]
