@@ -125791,7 +125791,11 @@
         },
         "web_domains": [
             "edmc.io"
-        ]
+        ],
+        "telegram_groups": [
+            "edmc_network"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0fb00e5aa75dd2b3a0df6b642fd72324b6c50611",
@@ -125804,7 +125808,8 @@
         ],
         "holders": {
             "ETH": 82
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb1b4e9ceaa048406906634d92e81424e20f5f612",
@@ -125835,7 +125840,11 @@
         },
         "web_domains": [
             "metalblockchain.org"
-        ]
+        ],
+        "telegram_groups": [
+            "metalblockchain"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc7c5813e8bcbb2c9d8e510d625c4a1847b8f547a",
@@ -125850,7 +125859,8 @@
         ],
         "holders": {
             "ETH": 197
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0f34fad7e7ff8ca05b33458df51f492951475ed5",
