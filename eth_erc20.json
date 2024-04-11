@@ -126035,7 +126035,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 284
-        }
+        },
+        "web_domains": [
+            "victoriannordock.com"
+        ]
     },
     {
         "contract_address": "0x8de43c9c1cd0a039b945b388f7b038b51f949baf",
@@ -126104,6 +126107,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 24
-        }
+        },
+        "web_domains": [
+            "thebitcoindotix.com"
+        ]
     }
 ]
