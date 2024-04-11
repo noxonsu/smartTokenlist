@@ -74883,10 +74883,16 @@
             "docs.intelliquantcoin.com"
         ],
         "telegram_groups": [
-            "ChainSentinelBot",
-            "IntelliQuantVerify",
+            "zfightingirish",
+            "TezERC20",
             "IntelliQuantAIBot",
-            "IntelliQuantOfficial"
+            "ChainSentinelBot",
+            "Nimbus_cloud",
+            "CoinDruid",
+            "IntelliQuantOfficial",
+            "Shaf_Crypto",
+            "IntelliQuantVerify",
+            "DecentralizedAIBot"
         ],
         "holders": {
             "ETH": 96
@@ -125900,11 +125906,24 @@
             "docs.intelliquantcoin.com"
         ],
         "telegram_groups": [
-            "IntelliQuantOfficial"
+            "zfightingirish",
+            "TezERC20",
+            "IntelliQuantAIBot",
+            "ChainSentinelBot",
+            "Nimbus_cloud",
+            "CoinDruid",
+            "IntelliQuantOfficial",
+            "Shaf_Crypto",
+            "IntelliQuantVerify",
+            "DecentralizedAIBot"
         ],
         "holders": {
             "ETH": 68
-        }
+        },
+        "emails": [
+            "hello@intelliquantcoin.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x376d6bbec1f10e1e1495522c02fcfa4c429feb77",
@@ -125914,7 +125933,11 @@
         },
         "web_domains": [
             "eesee.io"
-        ]
+        ],
+        "telegram_groups": [
+            "eesee_io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc2c7a824e519cec57353c3121f6f6754e7a68139",
@@ -125924,7 +125947,11 @@
         ],
         "holders": {
             "ETH": 201
-        }
+        },
+        "telegram_groups": [
+            "xenowave"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x73a0cba58c19ed5f27c6590bd792ec38de4815ea",
