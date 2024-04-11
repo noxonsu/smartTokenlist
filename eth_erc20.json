@@ -125910,7 +125910,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 76
-        }
+        },
+        "web_domains": [
+            "eesee.io"
+        ]
     },
     {
         "contract_address": "0xc2c7a824e519cec57353c3121f6f6754e7a68139",
