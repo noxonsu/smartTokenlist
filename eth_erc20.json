@@ -125876,5 +125876,57 @@
         "holders": {
             "ETH": 1
         }
+    },
+    {
+        "contract_address": "0x728b6a8b49184c4b99629fdf12bd7560a5929217",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 23
+        }
+    },
+    {
+        "contract_address": "0x908ddb096bfb3acb19e2280aad858186ea4935c4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 665
+        }
+    },
+    {
+        "contract_address": "0xdd068a133c55ffe6c0cb01c57dec214fc2a90925",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "intelliquantcoin.com",
+            "docs.intelliquantcoin.com"
+        ],
+        "telegram_groups": [
+            "IntelliQuantOfficial"
+        ],
+        "holders": {
+            "ETH": 68
+        }
+    },
+    {
+        "contract_address": "0x376d6bbec1f10e1e1495522c02fcfa4c429feb77",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 76
+        }
+    },
+    {
+        "contract_address": "0xc2c7a824e519cec57353c3121f6f6754e7a68139",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.xenowaveai.com"
+        ],
+        "holders": {
+            "ETH": 201
+        }
+    },
+    {
+        "contract_address": "0x73a0cba58c19ed5f27c6590bd792ec38de4815ea",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
     }
 ]
