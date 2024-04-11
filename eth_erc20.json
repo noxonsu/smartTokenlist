@@ -125603,5 +125603,84 @@
         "holders": {
             "ETH": 167
         }
+    },
+    {
+        "contract_address": "0x0e5411b5829bbb2591b6fdd9c61c679b6b00ad97",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x120337bc064ed7dac8a7ccb2d48bf48afa0623a1",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Token_80085"
+        ],
+        "holders": {
+            "ETH": 178
+        }
+    },
+    {
+        "contract_address": "0x6b2bfaf2f99a3b64aa5e14662be3e8d0909fce90",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x8f0dcccd0b9b5e22199c1e26b761dd4213b4935d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 47
+        }
+    },
+    {
+        "contract_address": "0x3af4e30540da4518e656eb4e5c7be8dec5e1ec45",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.brett-20.info"
+        ],
+        "telegram_groups": [
+            "Brett20ERC"
+        ],
+        "holders": {
+            "ETH": 104
+        }
+    },
+    {
+        "contract_address": "0x93ecdfe316de6dc44c2104183b7f6736d83521c2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1775
+        }
+    },
+    {
+        "contract_address": "0xab78ae97cbede5b1f6bb212d839f920147020ae7",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0xd0fb39e59037fc6ae8af5cb495cea690ed501fdd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0xe2c422d954db416a69fb29137fe552cce0e160e9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0x4253ac4046fbfdafcfe125d067b6d89f6923843e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
     }
 ]
