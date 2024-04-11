@@ -126003,7 +126003,11 @@
         },
         "web_domains": [
             "pyth.network"
-        ]
+        ],
+        "telegram_groups": [
+            "Pyth_Network"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2be056e595110b30ddd5eaf674bdac54615307d9",
