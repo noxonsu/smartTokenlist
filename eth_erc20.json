@@ -125609,7 +125609,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 5
-        }
+        },
+        "web_domains": [
+            "vitest.dev"
+        ]
     },
     {
         "contract_address": "0x120337bc064ed7dac8a7ccb2d48bf48afa0623a1",
@@ -125619,7 +125622,10 @@
         ],
         "holders": {
             "ETH": 178
-        }
+        },
+        "web_domains": [
+            "accessibilitymedical.org"
+        ]
     },
     {
         "contract_address": "0x6b2bfaf2f99a3b64aa5e14662be3e8d0909fce90",
@@ -125633,7 +125639,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 47
-        }
+        },
+        "web_domains": [
+            "monad.xyz"
+        ]
     },
     {
         "contract_address": "0x3af4e30540da4518e656eb4e5c7be8dec5e1ec45",
