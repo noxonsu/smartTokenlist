@@ -125731,5 +125731,48 @@
         "holders": {
             "ETH": 6
         }
+    },
+    {
+        "contract_address": "0xbc391e78b0ea0d1db04890732742494e7fbfc118",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5631
+        }
+    },
+    {
+        "contract_address": "0x48e2bddc133160e7edda7093a806bed7d28fbd3e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xcc2b2090c30726f59dbf8040aa3af4ee93fd4674",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0x70d8b31f4eee0e9988d0b196531205a9d30ad104",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "debridge.finance",
+            "www.masa.finance",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "masafinance"
+        ],
+        "holders": {
+            "ETH": 114
+        }
+    },
+    {
+        "contract_address": "0x944824290cc12f31ae18ef51216a223ba4063092",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 81
+        }
     }
 ]
