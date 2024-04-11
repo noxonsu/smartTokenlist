@@ -125702,5 +125702,33 @@
         "holders": {
             "ETH": 4
         }
+    },
+    {
+        "contract_address": "0x9d2a9cc3bf58ec3b8fd76b6fe07d2533eb72bc57",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0xb2e0f591191ee5f6fb8a7f1777a733b6aa92bb55",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.wojak-pepe.com",
+            "wojakpepe.gitbook.io"
+        ],
+        "telegram_groups": [
+            "wojakpepeerc"
+        ],
+        "holders": {
+            "ETH": 51
+        }
+    },
+    {
+        "contract_address": "0xea964dedf777bbc21c2e51a848b3128df5713457",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
     }
 ]
