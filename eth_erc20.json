@@ -125443,7 +125443,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 103
-        }
+        },
+        "web_domains": [
+            "cheddarcrypto.com"
+        ]
     },
     {
         "contract_address": "0x402f878bdd1f5c66fdaf0fababcf74741b68ac36",
@@ -125492,7 +125495,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 69
-        }
+        },
+        "web_domains": [
+            "gogbt.com"
+        ]
     },
     {
         "contract_address": "0x33abe795f9c1b6136608c36db211bd7590f5fdae",
