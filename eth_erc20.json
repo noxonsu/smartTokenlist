@@ -126029,5 +126029,81 @@
         "holders": {
             "ETH": 0
         }
+    },
+    {
+        "contract_address": "0xd3a7e03be16577d861fe14e0fe457760eb8482a4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 284
+        }
+    },
+    {
+        "contract_address": "0x8de43c9c1cd0a039b945b388f7b038b51f949baf",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mooncloud.ai",
+            "docs.mooncloud.ai"
+        ],
+        "telegram_groups": [
+            "mooncloud_ai"
+        ],
+        "holders": {
+            "ETH": 296
+        }
+    },
+    {
+        "contract_address": "0xc37e1f6cccc16c6b44ff7406fb4f645c9ccae39e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "useincognito.org"
+        ],
+        "telegram_groups": [
+            "UseIncognitoAI"
+        ],
+        "holders": {
+            "ETH": 187
+        }
+    },
+    {
+        "contract_address": "0xa80012dea3c20fdcb1933ca797ea098e71e42a87",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mixai.tech"
+        ],
+        "telegram_groups": [
+            "mixaitech",
+            "MixAiTechBot"
+        ],
+        "holders": {
+            "ETH": 184
+        }
+    },
+    {
+        "contract_address": "0x7e85b369d170ebf127367400b1f399cb18027309",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 772
+        }
+    },
+    {
+        "contract_address": "0x8aada29b417852dc673ee815330243ab9edef003",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "novanet.world",
+            "docs.novanet.world"
+        ],
+        "telegram_groups": [
+            "novanetworkETH"
+        ],
+        "holders": {
+            "ETH": 138
+        }
+    },
+    {
+        "contract_address": "0x62c6c504ba9e562c294d51773552f5cce60d0856",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 24
+        }
     }
 ]
