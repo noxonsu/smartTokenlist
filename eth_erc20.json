@@ -125612,7 +125612,9 @@
         },
         "web_domains": [
             "vitest.dev"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x120337bc064ed7dac8a7ccb2d48bf48afa0623a1",
@@ -125625,7 +125627,11 @@
         },
         "web_domains": [
             "accessibilitymedical.org"
-        ]
+        ],
+        "emails": [
+            "\u2706 1.866.201.3829 \u2022 info@AMEKC.org"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6b2bfaf2f99a3b64aa5e14662be3e8d0909fce90",
@@ -125642,7 +125648,11 @@
         },
         "web_domains": [
             "monad.xyz"
-        ]
+        ],
+        "telegram_groups": [
+            "monad_xyz"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3af4e30540da4518e656eb4e5c7be8dec5e1ec45",
@@ -125655,7 +125665,8 @@
         ],
         "holders": {
             "ETH": 104
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x93ecdfe316de6dc44c2104183b7f6736d83521c2",
