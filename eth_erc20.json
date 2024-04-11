@@ -126000,7 +126000,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 88
-        }
+        },
+        "web_domains": [
+            "pyth.network"
+        ]
     },
     {
         "contract_address": "0x2be056e595110b30ddd5eaf674bdac54615307d9",
