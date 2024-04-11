@@ -126169,11 +126169,13 @@
             "netai.systems"
         ],
         "telegram_groups": [
+            "https",
             "NET_AIerc20"
         ],
         "holders": {
             "ETH": 108
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6fedf988195cd0906d8a62d0d55d35cd35d8ef1b",
@@ -126186,7 +126188,8 @@
         ],
         "holders": {
             "ETH": 6
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4c0adcf173aa8bd31711c5a4bb235ed5eb90c1c6",
