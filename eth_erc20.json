@@ -126126,5 +126126,73 @@
             "admin@thebitcoindotix.com"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0xbf4519a81b5985f20953a9ed88f9f081876e7ba4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 399
+        }
+    },
+    {
+        "contract_address": "0xa723aa2999ff7451cfddcf831618a78d323e496b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 43
+        }
+    },
+    {
+        "contract_address": "0x2467aa6b5a2351416fd4c3def8462d841feeecec",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 20769
+        }
+    },
+    {
+        "contract_address": "0x1f17d72cbe65df609315df5c4f5f729efbd00ade",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1076
+        }
+    },
+    {
+        "contract_address": "0xd58155878e8efbf7de43034d825a5f8d701dfdd9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 78
+        }
+    },
+    {
+        "contract_address": "0x40d310ad7454108c56227f28dc07dfe02a4a4fb4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "netai.systems"
+        ],
+        "telegram_groups": [
+            "NET_AIerc20"
+        ],
+        "holders": {
+            "ETH": 108
+        }
+    },
+    {
+        "contract_address": "0x6fedf988195cd0906d8a62d0d55d35cd35d8ef1b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zizi.net"
+        ],
+        "telegram_groups": [
+            "ZiziChainNet"
+        ],
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x4c0adcf173aa8bd31711c5a4bb235ed5eb90c1c6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 56
+        }
     }
 ]
