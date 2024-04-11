@@ -126038,7 +126038,9 @@
         },
         "web_domains": [
             "victoriannordock.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8de43c9c1cd0a039b945b388f7b038b51f949baf",
@@ -126052,7 +126054,8 @@
         ],
         "holders": {
             "ETH": 296
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc37e1f6cccc16c6b44ff7406fb4f645c9ccae39e",
@@ -126061,11 +126064,13 @@
             "useincognito.org"
         ],
         "telegram_groups": [
+            "IncognitoAI_bot",
             "UseIncognitoAI"
         ],
         "holders": {
             "ETH": 187
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa80012dea3c20fdcb1933ca797ea098e71e42a87",
@@ -126074,12 +126079,13 @@
             "mixai.tech"
         ],
         "telegram_groups": [
-            "mixaitech",
-            "MixAiTechBot"
+            "MixAiTechBot",
+            "mixaitech"
         ],
         "holders": {
             "ETH": 184
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7e85b369d170ebf127367400b1f399cb18027309",
@@ -126096,11 +126102,13 @@
             "docs.novanet.world"
         ],
         "telegram_groups": [
-            "novanetworkETH"
+            "novanetworkETH",
+            "nova_superbot"
         ],
         "holders": {
             "ETH": 138
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x62c6c504ba9e562c294d51773552f5cce60d0856",
@@ -126110,6 +126118,13 @@
         },
         "web_domains": [
             "thebitcoindotix.com"
-        ]
+        ],
+        "telegram_groups": [
+            "thebittimeschannel"
+        ],
+        "emails": [
+            "admin@thebitcoindotix.com"
+        ],
+        "p6": true
     }
 ]
