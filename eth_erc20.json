@@ -125519,5 +125519,73 @@
         "holders": {
             "ETH": 184
         }
+    },
+    {
+        "contract_address": "0x5c6a9a71fb3facb1c5f6a4ecd2e18b3e70c91f9e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.dopepepecoin.com"
+        ],
+        "telegram_groups": [
+            "dogepepecoin"
+        ],
+        "holders": {
+            "ETH": 46
+        }
+    },
+    {
+        "contract_address": "0x1f19d846d99a0e75581913b64510fe0e18bbc31f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 563
+        }
+    },
+    {
+        "contract_address": "0x220abe1a5707587fe82a0fc4c192769b25f0da48",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 94
+        }
+    },
+    {
+        "contract_address": "0x5d8e4e83acc0b82b68fddca7c3aa85d491847523",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 272
+        }
+    },
+    {
+        "contract_address": "0x68754d29f2e97b837cb622ccff325adac27e9977",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x38295c3cea0acd42c401f3239a449f8b74748983",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ErmnMuskERC"
+        ],
+        "holders": {
+            "ETH": 606
+        }
+    },
+    {
+        "contract_address": "0x2c0acd8fab96dfde09a38f62b5c00ee0256a0fda",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 902
+        }
+    },
+    {
+        "contract_address": "0x32151a3a5286534da2b6e351b4176aaa1ad68ccb",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ErmnMuskEntry"
+        ],
+        "holders": {
+            "ETH": 167
+        }
     }
 ]
