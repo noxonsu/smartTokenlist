@@ -125446,7 +125446,12 @@
         },
         "web_domains": [
             "cheddarcrypto.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "support@cheddarcrypto.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x402f878bdd1f5c66fdaf0fababcf74741b68ac36",
@@ -125498,7 +125503,12 @@
         },
         "web_domains": [
             "gogbt.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "info@gogbt.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x33abe795f9c1b6136608c36db211bd7590f5fdae",
