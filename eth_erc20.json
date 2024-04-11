@@ -125394,7 +125394,10 @@
         "holders": {
             "ETH": 73
         },
-        "p6": true
+        "p6": true,
+        "emails": [
+            "WeAreDope@dopepepecoin.com"
+        ]
     },
     {
         "contract_address": "0xb3979c9c39498baf579c19674991f082346edd49",
@@ -125527,11 +125530,16 @@
             "www.dopepepecoin.com"
         ],
         "telegram_groups": [
-            "dogepepecoin"
+            "dogepepecoin",
+            "dogepepenews"
         ],
         "holders": {
             "ETH": 46
-        }
+        },
+        "emails": [
+            "WeAreDope@dopepepecoin.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1f19d846d99a0e75581913b64510fe0e18bbc31f",
@@ -125548,7 +125556,12 @@
         },
         "web_domains": [
             "rottycoin.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "Rotty@Rottycoin.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5d8e4e83acc0b82b68fddca7c3aa85d491847523",
