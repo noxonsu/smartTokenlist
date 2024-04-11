@@ -125788,7 +125788,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 4
-        }
+        },
+        "web_domains": [
+            "edmc.io"
+        ]
     },
     {
         "contract_address": "0x0fb00e5aa75dd2b3a0df6b642fd72324b6c50611",
@@ -125829,7 +125832,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 43
-        }
+        },
+        "web_domains": [
+            "metalblockchain.org"
+        ]
     },
     {
         "contract_address": "0xc7c5813e8bcbb2c9d8e510d625c4a1847b8f547a",
