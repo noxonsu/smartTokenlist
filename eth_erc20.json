@@ -126538,5 +126538,65 @@
         "holders": {
             "ETH": 6
         }
+    },
+    {
+        "contract_address": "0x201996a91b340a42bd3a847d1bb69e52233343a2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x81f70da16553b05ab84ef528c3ad575a3e2aa6ed",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.perpetualflow.cash",
+            "app.perpetualflow.cash",
+            "docs.perpetualflow.cash"
+        ],
+        "telegram_groups": [
+            "PerpetualFlow"
+        ],
+        "holders": {
+            "ETH": 85
+        }
+    },
+    {
+        "contract_address": "0xcae20327b9d7f3d4b292dd4c17c0a4dd8e6d2959",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 128
+        }
+    },
+    {
+        "contract_address": "0xc1efbee3a8dabd30d1d789138bc6ea43a399c335",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x2fe2371f32ea5be7b3a70456c84ef016ae329963",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 77
+        }
+    },
+    {
+        "contract_address": "0x4574562e9310a94f9ca962bd23168d8a06875b1a",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2219
+        }
+    },
+    {
+        "contract_address": "0x0b670bfdef0185e165823fd9bc5454facdeacd86",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "BasedAitg"
+        ],
+        "holders": {
+            "ETH": 443
+        }
     }
 ]
