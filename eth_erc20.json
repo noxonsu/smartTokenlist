@@ -126197,5 +126197,114 @@
         "holders": {
             "ETH": 56
         }
+    },
+    {
+        "contract_address": "0x1c19fd9bd77d4383c66d9a6ecf1bc67d462c477f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8
+        }
+    },
+    {
+        "contract_address": "0x310ff9a9569ee04a8f1a0e0a0e007656a33a876a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.buffytoken.com",
+            "buffy.gitbook.io"
+        ],
+        "telegram_groups": [
+            "buffyerc20"
+        ],
+        "holders": {
+            "ETH": 60
+        }
+    },
+    {
+        "contract_address": "0x23b7e6932cb873b8696afba077c4a2486b1c862e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 84
+        }
+    },
+    {
+        "contract_address": "0x7777777777697cfeecf846a76326da79cc606517",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2663
+        }
+    },
+    {
+        "contract_address": "0xcaec28836b84f8b5c533983799fd78412fb4395a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tokenmint.io"
+        ],
+        "holders": {
+            "ETH": 195
+        }
+    },
+    {
+        "contract_address": "0xf4daf5d65ca8ae49a84b214945a499a5c1e05c1e",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.pondpay.ai",
+            "app.pondpay.ai",
+            "docs.pondpay.ai"
+        ],
+        "telegram_groups": [
+            "pondpayai_portal"
+        ],
+        "holders": {
+            "ETH": 158
+        }
+    },
+    {
+        "contract_address": "0xfd459da18e270597693068f3a7c41015bb74928a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "aisynctech.io",
+            "aisync.gitbook.io"
+        ],
+        "telegram_groups": [
+            "AISyncPortal",
+            "aisynctrending"
+        ],
+        "holders": {
+            "ETH": 136
+        }
+    },
+    {
+        "contract_address": "0x05462671c05adc39a6521fa60d5e9443e9e9d2b9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 231
+        }
+    },
+    {
+        "contract_address": "0x4b9e5fe882b2fbb3e098c9a25a8ce66135ed2be4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 433
+        }
+    },
+    {
+        "contract_address": "0x1dff69d892d7a503088522b830eadcba9867f6bd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 279
+        }
+    },
+    {
+        "contract_address": "0x6e08b5d1169765f94d5ace5524f56e8ac75b77c6",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "radbro.xyz"
+        ],
+        "telegram_groups": [
+            "bromafiabro"
+        ],
+        "holders": {
+            "ETH": 179
+        }
     }
 ]
