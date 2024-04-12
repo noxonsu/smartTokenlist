@@ -126328,5 +126328,66 @@
             "ETH": 179
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x5282ec643c3790e0f781508162a4aa13fd09c528",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 21
+        }
+    },
+    {
+        "contract_address": "0x233d32d4d33ed5f2d6b8544137c8836249de372f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 35
+        }
+    },
+    {
+        "contract_address": "0x60ccefd60ba522f9221f122bb80a1e8cbab9285f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x56d811088235f11c8920698a204a5010a788f4b3",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bzx.network",
+            "aragon.one"
+        ],
+        "holders": {
+            "ETH": 5116
+        }
+    },
+    {
+        "contract_address": "0x71d641deb8898becb15e3bd8b857047af37f788f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "metaaibank.com",
+            "app.metaaibank.com",
+            "docs.metaaibank.com"
+        ],
+        "telegram_groups": [
+            "metaaibanktech"
+        ],
+        "holders": {
+            "ETH": 88
+        }
+    },
+    {
+        "contract_address": "0xe708fe7fce0c3fcac741e49a20439d79177753fa",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0xd6b8162e2fb9f3eff09bb8598ca0c8958e33a23d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
     }
 ]
