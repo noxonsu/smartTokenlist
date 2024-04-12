@@ -126772,7 +126772,8 @@
         ],
         "holders": {
             "ETH": 76
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9bc736835a68614c1aed0197401705762ffc102a",
@@ -126786,7 +126787,8 @@
         ],
         "holders": {
             "ETH": 38
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x194e5aac017c1dbee32994ee68ad153a0e0e48f3",
@@ -126832,7 +126834,9 @@
         ],
         "holders": {
             "ETH": 18
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc261950593b55515069f8761bf5ecd7861845487",
@@ -126842,7 +126846,11 @@
         ],
         "holders": {
             "ETH": 5
-        }
+        },
+        "telegram_groups": [
+            "PeapodsFinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf073bac22dab7faf4a3dd6c6189a70d54110525c",
