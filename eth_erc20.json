@@ -126676,7 +126676,9 @@
         },
         "web_domains": [
             "getxray.app"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9bf20ca52040335da0fd86015470d75caee1a282",
@@ -126704,7 +126706,8 @@
         ],
         "holders": {
             "ETH": 19
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x837ee5a664d51bc2e7d26eb63cffeb48e037bde2",
@@ -126717,7 +126720,8 @@
         ],
         "holders": {
             "ETH": 247
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x26be40fb78da332cfe097cf7c94748171497c8a2",
@@ -126730,7 +126734,8 @@
         ],
         "holders": {
             "ETH": 36
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd59623cfe3dbe4f63e02e6add0f25d3b532b21ce",
@@ -126740,11 +126745,13 @@
             "discord.com"
         ],
         "telegram_groups": [
-            "omnifdn"
+            "omnifdn",
+            "OmniFDN"
         ],
         "holders": {
             "ETH": 77
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe8f6661f435ce53c4964593e0726b062d0e87429",
