@@ -126611,5 +126611,57 @@
         "holders": {
             "ETH": 443
         }
+    },
+    {
+        "contract_address": "0x8c6edcf46a21676f103a9a14b9e830fd1a3cfade",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.createmytoken.com"
+        ],
+        "holders": {
+            "ETH": 37
+        }
+    },
+    {
+        "contract_address": "0xf7e63987b94a222403bb4b9357232023befc319a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.nemocoin.fish"
+        ],
+        "telegram_groups": [
+            "nemothefish_eth"
+        ],
+        "holders": {
+            "ETH": 96
+        }
+    },
+    {
+        "contract_address": "0xf4eced2f682ce333f96f2d8966c613ded8fc95dd",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 90
+        }
+    },
+    {
+        "contract_address": "0xda8d858c2b35150de20761dd4204efb982ea7b37",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "de-ton.org",
+            "docs.de-ton.org"
+        ],
+        "telegram_groups": [
+            "deton_Ethereum",
+            "De_TonBot"
+        ],
+        "holders": {
+            "ETH": 237
+        }
+    },
+    {
+        "contract_address": "0xa01892d97e9c8290c2c225fb0b756bfe26bc9802",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 590
+        }
     }
 ]
