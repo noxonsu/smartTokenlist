@@ -126498,5 +126498,33 @@
             "mail@chainscaler.com"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x1b4d88f5f38988bea334c79f48aa69beeefe2e1e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x00021e88e327e70a9ab660fff656111b8467b00c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 281
+        }
+    },
+    {
+        "contract_address": "0x06677dc4fe12d3ba3c7ccfd0df8cd45e4d4095bf",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1173
+        }
+    },
+    {
+        "contract_address": "0x5fadf1a61ed328ca110ac27a6e4b1b6c96991ac5",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
     }
 ]
