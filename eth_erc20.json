@@ -126667,5 +126667,87 @@
         "holders": {
             "ETH": 590
         }
+    },
+    {
+        "contract_address": "0xcda34f47e5badb1eb51d84f0146b4952f1c1fea8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0x9bf20ca52040335da0fd86015470d75caee1a282",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xf8483e2d6560585c02d46bf7b3186bf154a96166",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1989
+        }
+    },
+    {
+        "contract_address": "0xbf104c825918202652522f83c3989250e50f49d4",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.conanpepe.com",
+            "conan-pepe.gitbook.io"
+        ],
+        "telegram_groups": [
+            "ConanPepe"
+        ],
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x837ee5a664d51bc2e7d26eb63cffeb48e037bde2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nomota.nl"
+        ],
+        "telegram_groups": [
+            "nomotaai"
+        ],
+        "holders": {
+            "ETH": 247
+        }
+    },
+    {
+        "contract_address": "0x26be40fb78da332cfe097cf7c94748171497c8a2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "docs.cyclone.exchange"
+        ],
+        "telegram_groups": [
+            "CycloneExchange"
+        ],
+        "holders": {
+            "ETH": 36
+        }
+    },
+    {
+        "contract_address": "0xd59623cfe3dbe4f63e02e6add0f25d3b532b21ce",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "omni.network",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "omnifdn"
+        ],
+        "holders": {
+            "ETH": 77
+        }
+    },
+    {
+        "contract_address": "0xe8f6661f435ce53c4964593e0726b062d0e87429",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 913
+        }
     }
 ]
