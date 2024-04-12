@@ -126504,14 +126504,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "karak.network"
+        ]
     },
     {
         "contract_address": "0x00021e88e327e70a9ab660fff656111b8467b00c",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 281
-        }
+        },
+        "web_domains": [
+            "21e8.nz"
+        ]
     },
     {
         "contract_address": "0x06677dc4fe12d3ba3c7ccfd0df8cd45e4d4095bf",
