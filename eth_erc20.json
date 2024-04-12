@@ -126399,7 +126399,12 @@
         },
         "web_domains": [
             "fuzzutoys.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "info@fuzzutoys.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x878a01e07c0eccf386e3bedc945d7ca49be0908e",
@@ -126416,7 +126421,9 @@
         },
         "web_domains": [
             "usd-coin.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xafec745860bee9623079a084b05dd8df8bfc40d6",
@@ -126443,7 +126450,8 @@
         ],
         "holders": {
             "ETH": 82
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3775329695e6f4e8dc82f0fe5214db2aa35d0719",
@@ -126456,7 +126464,8 @@
         ],
         "holders": {
             "ETH": 65
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x128ad1ad707c3b36e6f2ac9739f9df7516fdb592",
@@ -126470,7 +126479,8 @@
         ],
         "holders": {
             "ETH": 280
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6e3b7aac14cd7832166706d5a9f2497bce114e2b",
@@ -126480,6 +126490,13 @@
         ],
         "holders": {
             "ETH": 172
-        }
+        },
+        "telegram_groups": [
+            "chainscaler"
+        ],
+        "emails": [
+            "mail@chainscaler.com"
+        ],
+        "p6": true
     }
 ]
