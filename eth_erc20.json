@@ -126863,5 +126863,19 @@
         "holders": {
             "ETH": 200
         }
+    },
+    {
+        "contract_address": "0xf7c1caaa2b29458e8f9a6c45348e385351971209",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "parobot.ai",
+            "docs.parobot.ai"
+        ],
+        "telegram_groups": [
+            "ParoBot_AI"
+        ],
+        "holders": {
+            "ETH": 428
+        }
     }
 ]
