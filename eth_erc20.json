@@ -126872,10 +126872,12 @@
             "docs.parobot.ai"
         ],
         "telegram_groups": [
+            "Parobot_AI",
             "ParoBot_AI"
         ],
         "holders": {
             "ETH": 428
-        }
+        },
+        "p6": true
     }
 ]
