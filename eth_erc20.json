@@ -126390,5 +126390,90 @@
         "holders": {
             "ETH": 3
         }
+    },
+    {
+        "contract_address": "0xad661005eae909d3f2554ba484938fef077bc010",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0x878a01e07c0eccf386e3bedc945d7ca49be0908e",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 339
+        }
+    },
+    {
+        "contract_address": "0x41ed0cfd69d63f801b91f95ab9a41e91a4b020fa",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xafec745860bee9623079a084b05dd8df8bfc40d6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x83f8f2a05c20bcfbc0a3a39be07267e9f18214d2",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x42aa9abd9f5f3cde0ed2f2551ab1399dc48fea09",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "peperc20.top"
+        ],
+        "telegram_groups": [
+            "pepcoinERC20"
+        ],
+        "holders": {
+            "ETH": 82
+        }
+    },
+    {
+        "contract_address": "0x3775329695e6f4e8dc82f0fe5214db2aa35d0719",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.bob-pepe.com"
+        ],
+        "telegram_groups": [
+            "BobPepeERC"
+        ],
+        "holders": {
+            "ETH": 65
+        }
+    },
+    {
+        "contract_address": "0x128ad1ad707c3b36e6f2ac9739f9df7516fdb592",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.alfasociety.io",
+            "www.alfasociety.io"
+        ],
+        "telegram_groups": [
+            "AlfaSociety"
+        ],
+        "holders": {
+            "ETH": 280
+        }
+    },
+    {
+        "contract_address": "0x6e3b7aac14cd7832166706d5a9f2497bce114e2b",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "chainscaler.com"
+        ],
+        "holders": {
+            "ETH": 172
+        }
     }
 ]
