@@ -126278,7 +126278,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 231
-        }
+        },
+        "web_domains": [
+            "usdf.org"
+        ]
     },
     {
         "contract_address": "0x4b9e5fe882b2fbb3e098c9a25a8ce66135ed2be4",
@@ -126292,7 +126295,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 279
-        }
+        },
+        "web_domains": [
+            "wry.com"
+        ]
     },
     {
         "contract_address": "0x6e08b5d1169765f94d5ace5524f56e8ac75b77c6",
