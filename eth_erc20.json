@@ -78775,8 +78775,8 @@
             "tokenmint.io"
         ],
         "telegram_groups": [
-            "LunaInuERC20",
-            "remilios"
+            "remilios",
+            "LunaInuERC20"
         ],
         "holders": {
             "ETH": 0
@@ -90626,8 +90626,8 @@
             "ETH": 166
         },
         "telegram_groups": [
-            "LunaInuERC20",
-            "remilios"
+            "remilios",
+            "LunaInuERC20"
         ],
         "p6": true,
         "p8": true
@@ -91313,8 +91313,8 @@
             "ETH": 102
         },
         "telegram_groups": [
-            "LunaInuERC20",
-            "remilios"
+            "remilios",
+            "LunaInuERC20"
         ],
         "p6": true,
         "p8": true
@@ -104165,8 +104165,8 @@
             "ETH": 408
         },
         "telegram_groups": [
-            "LunaInuERC20",
-            "remilios"
+            "remilios",
+            "LunaInuERC20"
         ],
         "p6": true,
         "p8": true
@@ -126217,7 +126217,11 @@
         ],
         "holders": {
             "ETH": 60
-        }
+        },
+        "emails": [
+            "info@buffy.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x23b7e6932cb873b8696afba077c4a2486b1c862e",
@@ -126241,7 +126245,12 @@
         ],
         "holders": {
             "ETH": 195
-        }
+        },
+        "telegram_groups": [
+            "remilios",
+            "LunaInuERC20"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf4daf5d65ca8ae49a84b214945a499a5c1e05c1e",
@@ -126256,7 +126265,8 @@
         ],
         "holders": {
             "ETH": 158
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xfd459da18e270597693068f3a7c41015bb74928a",
@@ -126266,12 +126276,13 @@
             "aisync.gitbook.io"
         ],
         "telegram_groups": [
-            "AISyncPortal",
-            "aisynctrending"
+            "aisynctrending",
+            "AISyncPortal"
         ],
         "holders": {
             "ETH": 136
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x05462671c05adc39a6521fa60d5e9443e9e9d2b9",
@@ -126281,7 +126292,9 @@
         },
         "web_domains": [
             "usdf.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4b9e5fe882b2fbb3e098c9a25a8ce66135ed2be4",
@@ -126298,7 +126311,9 @@
         },
         "web_domains": [
             "wry.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6e08b5d1169765f94d5ace5524f56e8ac75b77c6",
