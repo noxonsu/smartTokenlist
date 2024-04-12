@@ -62401,7 +62401,8 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Can't send messages",
-        "p8skip": true
+        "p8skip": true,
+        "p8": true
     },
     {
         "contract_address": "0xb44b653f147569d88a684cbf6549e1968e8b2a1d",
@@ -62583,7 +62584,8 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Can't send messages",
-        "p8skip": true
+        "p8skip": true,
+        "p8": true
     },
     {
         "contract_address": "0xc353bf07405304aeab75f4c2fac7e88d6a68f98e",
@@ -62848,7 +62850,8 @@
         },
         "telegram_groups": [],
         "p6": true,
-        "p8skip": true
+        "p8skip": true,
+        "p8": true
     },
     {
         "contract_address": "0xeb1b3ab429aa76ebf49f82c834414d4fe98f6ef1",
@@ -63112,7 +63115,8 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Can't find chat",
-        "p8skip": true
+        "p8skip": true,
+        "p8": true
     },
     {
         "contract_address": "0xce84a9f303e33a191647714d59cfcb886fd600e3",
@@ -63183,7 +63187,8 @@
         "p6": true,
         "myuser": 6119567381,
         "tgGroupJoined": "error: Chat is too large10802",
-        "p8skip": true
+        "p8skip": true,
+        "p8": true
     },
     {
         "contract_address": "0xaee9ba9ce49fe810417a36408e34d9962b653e78",
