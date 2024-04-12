@@ -126888,7 +126888,9 @@
         },
         "web_domains": [
             "smilee.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xfcf7985661d2c3f62208970cbe25e70bcce73e7c",
