@@ -126759,5 +126759,96 @@
         "holders": {
             "ETH": 913
         }
+    },
+    {
+        "contract_address": "0x8b01204baa0b3a0dc146e4abdc1ff996770058e2",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.magabit.xyz",
+            "app.magabit.xyz"
+        ],
+        "telegram_groups": [
+            "magabitxyz"
+        ],
+        "holders": {
+            "ETH": 76
+        }
+    },
+    {
+        "contract_address": "0x9bc736835a68614c1aed0197401705762ffc102a",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.bobcatoken.com",
+            "bobcat-matt-furies-cat.gitbook.io"
+        ],
+        "telegram_groups": [
+            "Bobcaterc"
+        ],
+        "holders": {
+            "ETH": 38
+        }
+    },
+    {
+        "contract_address": "0x194e5aac017c1dbee32994ee68ad153a0e0e48f3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0x2084b373979415bc93190071af3390f92dcdd189",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 39
+        }
+    },
+    {
+        "contract_address": "0x1c72523eecade307c9bffd03953ff91c5b80be09",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1210
+        }
+    },
+    {
+        "contract_address": "0x0b9ea598757c7d03fb1937cc16bdd2c9d416ff80",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0x63e0d47a6964ad1565345da9bfa66659f4983f02",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi"
+        ],
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0xc261950593b55515069f8761bf5ecd7861845487",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "peapods.finance"
+        ],
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0xf073bac22dab7faf4a3dd6c6189a70d54110525c",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 200
+        }
     }
 ]
