@@ -126932,14 +126932,20 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 8
-        }
+        },
+        "web_domains": [
+            "stopthebleed.org"
+        ]
     },
     {
         "contract_address": "0xe75f2acafba1ad56c5ed712ffbc1d31910e74396",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 111
-        }
+        },
+        "web_domains": [
+            "komputai.gitbook.io"
+        ]
     },
     {
         "contract_address": "0xb03147220d2bfebf7cb713259b7ebf7763a18ee1",
