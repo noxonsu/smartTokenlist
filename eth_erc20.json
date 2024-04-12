@@ -126559,7 +126559,8 @@
         ],
         "holders": {
             "ETH": 85
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xcae20327b9d7f3d4b292dd4c17c0a4dd8e6d2959",
@@ -126569,7 +126570,9 @@
         },
         "web_domains": [
             "boomboom1.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc1efbee3a8dabd30d1d789138bc6ea43a399c335",
@@ -126586,7 +126589,11 @@
         },
         "web_domains": [
             "xrex.io"
-        ]
+        ],
+        "telegram_groups": [
+            "xrexofficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4574562e9310a94f9ca962bd23168d8a06875b1a",
