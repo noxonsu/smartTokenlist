@@ -126879,5 +126879,47 @@
             "ETH": 428
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x630274607595430d202f5bfb50f2c979ecbacbc6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0xfcf7985661d2c3f62208970cbe25e70bcce73e7c",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "rwa4.ai",
+            "whitepaper.rwa4.ai"
+        ],
+        "telegram_groups": [
+            "rwa4ai"
+        ],
+        "holders": {
+            "ETH": 522
+        }
+    },
+    {
+        "contract_address": "0xa47d0837f84fb2d1aa08077d10d10101316a959d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x2ae739f40cda5f053f9dbece7e177fcbdc4a07d9",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xa103a6ca0c4d4072ba59a55fd453bfe4197a095b",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
     }
 ]
