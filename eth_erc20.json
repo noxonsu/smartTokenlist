@@ -126396,7 +126396,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 18
-        }
+        },
+        "web_domains": [
+            "fuzzutoys.com"
+        ]
     },
     {
         "contract_address": "0x878a01e07c0eccf386e3bedc945d7ca49be0908e",
@@ -126410,7 +126413,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "usd-coin.org"
+        ]
     },
     {
         "contract_address": "0xafec745860bee9623079a084b05dd8df8bfc40d6",
