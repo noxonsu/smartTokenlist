@@ -126673,7 +126673,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 24
-        }
+        },
+        "web_domains": [
+            "getxray.app"
+        ]
     },
     {
         "contract_address": "0x9bf20ca52040335da0fd86015470d75caee1a282",
