@@ -127227,5 +127227,54 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x734f3a13b8d4f891caebcfa7303323617b2e4dfd",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "kiradex.com",
+            "app.kiradex.com",
+            "docs.kiradex.com"
+        ],
+        "telegram_groups": [
+            "kira_exchange"
+        ],
+        "holders": {
+            "ETH": 67
+        }
+    },
+    {
+        "contract_address": "0x45af054d74794db92501084bede0e561712d119f",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.nopepepe.com"
+        ],
+        "telegram_groups": [
+            "NopePepeETH"
+        ],
+        "holders": {
+            "ETH": 73
+        }
+    },
+    {
+        "contract_address": "0xb6307cc320c76101e87456e06557fa939accc71f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 66
+        }
+    },
+    {
+        "contract_address": "0x14f10f9af7d7796a79676e8f0910c46802f4d985",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x93fe8a92f33e72710ca7704cafb2a177e9b171e8",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 30
+        }
     }
 ]
