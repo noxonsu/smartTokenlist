@@ -127328,7 +127328,14 @@
         },
         "web_domains": [
             "decentralizeddream.io"
-        ]
+        ],
+        "telegram_groups": [
+            "Decentralized_Dream"
+        ],
+        "emails": [
+            "e: dream@decentralizeddream.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc6f574c744940577be4e6214fd9134d2d5a96a08",
@@ -127338,6 +127345,10 @@
         },
         "web_domains": [
             "chainzoom.xyz"
-        ]
+        ],
+        "telegram_groups": [
+            "chainzoomxyzchat"
+        ],
+        "p6": true
     }
 ]
