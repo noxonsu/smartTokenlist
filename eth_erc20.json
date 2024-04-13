@@ -127294,7 +127294,9 @@
         },
         "web_domains": [
             "foxy.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8d162b725e625a5ea5edac08808d8347c870ea26",
@@ -127308,6 +127310,7 @@
         ],
         "holders": {
             "ETH": 141
-        }
+        },
+        "p6": true
     }
 ]
