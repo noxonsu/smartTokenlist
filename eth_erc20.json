@@ -127241,7 +127241,8 @@
         ],
         "holders": {
             "ETH": 67
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x45af054d74794db92501084bede0e561712d119f",
@@ -127254,7 +127255,8 @@
         ],
         "holders": {
             "ETH": 73
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb6307cc320c76101e87456e06557fa939accc71f",
@@ -127278,6 +127280,10 @@
         },
         "web_domains": [
             "grokpepe.vip"
-        ]
+        ],
+        "telegram_groups": [
+            "GrokPepeGlobal"
+        ],
+        "p6": true
     }
 ]
