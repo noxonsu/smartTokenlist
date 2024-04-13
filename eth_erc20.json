@@ -127067,13 +127067,19 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 20
-        }
+        },
+        "web_domains": [
+            "getomni.ai"
+        ]
     },
     {
         "contract_address": "0x0dd975c338d35f263917fae81bd9260cef2ab7a0",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 11
-        }
+        },
+        "web_domains": [
+            "assemblyai.com"
+        ]
     }
 ]
