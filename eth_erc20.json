@@ -127020,5 +127020,60 @@
             "ETH": 427
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xe5018913f2fdf33971864804ddb5fca25c539032",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 577
+        }
+    },
+    {
+        "contract_address": "0x5b2e491082493ac11c9dcbe0be2135d7a902aa57",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 21
+        }
+    },
+    {
+        "contract_address": "0x63497da812709297809453e628cc49b4bbd09a51",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 365
+        }
+    },
+    {
+        "contract_address": "0xfd0cec0e907e0117a350df117497f26c96b06698",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "42times10.site"
+        ],
+        "telegram_groups": [
+            "elon420erc"
+        ],
+        "holders": {
+            "ETH": 136
+        }
+    },
+    {
+        "contract_address": "0xc462481a902c98e99452a77d5ef47bfec41d3263",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 37
+        }
+    },
+    {
+        "contract_address": "0xb0c96ac1dfea23b72f9b58c6a18cb8de76565b5d",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0x0dd975c338d35f263917fae81bd9260cef2ab7a0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
     }
 ]
