@@ -127195,7 +127195,8 @@
         ],
         "holders": {
             "ETH": 69
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2c25f6c25770ffec5959d34b94bf898865e5d6b1",
@@ -127223,6 +127224,8 @@
         },
         "web_domains": [
             "morpho.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
