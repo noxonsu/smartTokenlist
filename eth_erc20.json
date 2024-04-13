@@ -127148,5 +127148,78 @@
             "theroyalbobcat@gmail.com"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x7ef98cd28902ce57b7aeec66dfb06b454cda1941",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 252
+        }
+    },
+    {
+        "contract_address": "0x1c5a5cd04b718ae76eb3e233bf0c28360bdccd37",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0x8cc9b5406049d2b66106bb39c5047666e50f06fe",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 57
+        }
+    },
+    {
+        "contract_address": "0xb6667b04cb61aa16b59617f90ffa068722cf21da",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0xab22fd25ddbbb9c3d2c2ced0fd20e3f2bbb932bc",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10314
+        }
+    },
+    {
+        "contract_address": "0xc8a3d4190f45167a719bfce8a5ace3e670b21446",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.keroppi-inu.com"
+        ],
+        "telegram_groups": [
+            "KeroppiInu_Portal"
+        ],
+        "holders": {
+            "ETH": 69
+        }
+    },
+    {
+        "contract_address": "0x2c25f6c25770ffec5959d34b94bf898865e5d6b1",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org"
+        ],
+        "holders": {
+            "ETH": 81
+        }
     }
 ]
