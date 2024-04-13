@@ -127325,13 +127325,19 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 30
-        }
+        },
+        "web_domains": [
+            "decentralizeddream.io"
+        ]
     },
     {
         "contract_address": "0xc6f574c744940577be4e6214fd9134d2d5a96a08",
         "sourceScanned": "processed",
         "holders": {
             "ETH": 210
-        }
+        },
+        "web_domains": [
+            "chainzoom.xyz"
+        ]
     }
 ]
