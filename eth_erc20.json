@@ -127095,7 +127095,9 @@
         },
         "web_domains": [
             "magabit.xyz"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3240cf65c74a14bd99bb92c1e43f74a7c2b17977",
@@ -127112,7 +127114,11 @@
         ],
         "holders": {
             "ETH": 19
-        }
+        },
+        "telegram_groups": [
+            "NextGemAI_Group"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x44921e42017316f89c1dedd70a3a017d4c5162c3",
@@ -127136,6 +127142,11 @@
         },
         "web_domains": [
             "theroyalbobcat.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "theroyalbobcat@gmail.com"
+        ],
+        "p6": true
     }
 ]
