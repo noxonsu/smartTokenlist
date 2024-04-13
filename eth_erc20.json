@@ -127053,7 +127053,8 @@
         ],
         "holders": {
             "ETH": 136
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc462481a902c98e99452a77d5ef47bfec41d3263",
@@ -127070,7 +127071,9 @@
         },
         "web_domains": [
             "getomni.ai"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0dd975c338d35f263917fae81bd9260cef2ab7a0",
@@ -127080,6 +127083,8 @@
         },
         "web_domains": [
             "assemblyai.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
