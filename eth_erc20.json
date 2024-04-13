@@ -127086,5 +127086,50 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xdf68efac9231fa48e559af4916885f5b43ad44b6",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0x3240cf65c74a14bd99bb92c1e43f74a7c2b17977",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 28
+        }
+    },
+    {
+        "contract_address": "0xf5449ad80eb03a41f4a2c9b91b48886446dd7328",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "thenextgem.ai"
+        ],
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x44921e42017316f89c1dedd70a3a017d4c5162c3",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1289
+        }
+    },
+    {
+        "contract_address": "0x83b92cac5145403c3bb83a8b7144861cf05d5c2f",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x4ba1113012fc3897f62030f4eaabb2056a4ab1aa",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 30
+        }
     }
 ]
