@@ -127291,7 +127291,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 18
-        }
+        },
+        "web_domains": [
+            "foxy.com"
+        ]
     },
     {
         "contract_address": "0x8d162b725e625a5ea5edac08808d8347c870ea26",
