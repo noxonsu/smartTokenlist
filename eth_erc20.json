@@ -126960,5 +126960,54 @@
         "holders": {
             "ETH": 0
         }
+    },
+    {
+        "contract_address": "0xf46901cef1ff31f0a307393b0c9e7502229f5446",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 128
+        }
+    },
+    {
+        "contract_address": "0x0557e0d15aec0b9026dd17aa874fdf7d182a2ceb",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 516
+        }
+    },
+    {
+        "contract_address": "0xeb348a587c3b4dcdca60e132319d82518a219336",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.darkpoolai.org",
+            "app.darkpoolai.org",
+            "docs.darkpoolai.org"
+        ],
+        "telegram_groups": [
+            "darkpool_ai"
+        ],
+        "holders": {
+            "ETH": 116
+        }
+    },
+    {
+        "contract_address": "0x87f855efd1411a37e624ddf78f14f25dd02ecff1",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xae17aaf65aff74f3ef90294ca55571c7281e7179",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "RattyErc.com"
+        ],
+        "telegram_groups": [
+            "RattyErc"
+        ],
+        "holders": {
+            "ETH": 427
+        }
     }
 ]
