@@ -127092,7 +127092,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 33
-        }
+        },
+        "web_domains": [
+            "magabit.xyz"
+        ]
     },
     {
         "contract_address": "0x3240cf65c74a14bd99bb92c1e43f74a7c2b17977",
@@ -127130,6 +127133,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 30
-        }
+        },
+        "web_domains": [
+            "theroyalbobcat.com"
+        ]
     }
 ]
