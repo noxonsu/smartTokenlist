@@ -126966,7 +126966,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 128
-        }
+        },
+        "web_domains": [
+            "etha-verse.com"
+        ]
     },
     {
         "contract_address": "0x0557e0d15aec0b9026dd17aa874fdf7d182a2ceb",
