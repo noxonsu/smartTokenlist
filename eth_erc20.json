@@ -126726,7 +126726,8 @@
         "holders": {
             "ETH": 247
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x26be40fb78da332cfe097cf7c94748171497c8a2",
@@ -126878,7 +126879,8 @@
         "holders": {
             "ETH": 428
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x630274607595430d202f5bfb50f2c979ecbacbc6",
@@ -127118,7 +127120,8 @@
         "telegram_groups": [
             "NextGemAI_Group"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x44921e42017316f89c1dedd70a3a017d4c5162c3",
@@ -127349,6 +127352,7 @@
         "telegram_groups": [
             "chainzoomxyzchat"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
