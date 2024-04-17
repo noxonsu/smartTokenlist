@@ -125359,7 +125359,8 @@
         "holders": {
             "ETH": 202
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xac4b1295f9aeb1db29acb37902be349a79a66403",
@@ -125410,7 +125411,8 @@
         "p6": true,
         "emails": [
             "WeAreDope@dopepepecoin.com"
-        ]
+        ],
+        "p8": true
     },
     {
         "contract_address": "0xb3979c9c39498baf579c19674991f082346edd49",
@@ -125574,7 +125576,8 @@
         "emails": [
             "Rotty@Rottycoin.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x5d8e4e83acc0b82b68fddca7c3aa85d491847523",
@@ -125782,7 +125785,8 @@
         "holders": {
             "ETH": 114
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x944824290cc12f31ae18ef51216a223ba4063092",
@@ -125808,7 +125812,8 @@
         "telegram_groups": [
             "edmc_network"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x0fb00e5aa75dd2b3a0df6b642fd72324b6c50611",
@@ -125857,7 +125862,8 @@
         "telegram_groups": [
             "metalblockchain"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xc7c5813e8bcbb2c9d8e510d625c4a1847b8f547a",
@@ -125928,7 +125934,8 @@
         "emails": [
             "hello@intelliquantcoin.com"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x376d6bbec1f10e1e1495522c02fcfa4c429feb77",
@@ -125956,7 +125963,8 @@
         "telegram_groups": [
             "xenowave"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x73a0cba58c19ed5f27c6590bd792ec38de4815ea",
@@ -126012,7 +126020,8 @@
         "telegram_groups": [
             "Pyth_Network"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x2be056e595110b30ddd5eaf674bdac54615307d9",
