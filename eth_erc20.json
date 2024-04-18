@@ -127827,7 +127827,9 @@
         ],
         "holders": {
             "ETH": 149
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf98d2ea7183e647956db61a9e1a49f5e2aad8cc0",
@@ -127843,7 +127845,8 @@
         ],
         "holders": {
             "ETH": 255
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3824255df9eabc9347abcaa5872b1763fe9d47bc",
@@ -127853,11 +127856,13 @@
             "nodestation.ai"
         ],
         "telegram_groups": [
-            "Nodestationai"
+            "Nodestationai",
+            "NodeStationBot"
         ],
         "holders": {
             "ETH": 350
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x13c07bfc6188ea38d119472f12c20a50d0344b9a",
@@ -127867,11 +127872,13 @@
             "Gpu-Ai.Net"
         ],
         "telegram_groups": [
+            "GPUAIERC20",
             "GPUAiErc20"
         ],
         "holders": {
             "ETH": 95
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb8b696852716be5cb95dcb335a9bddc4a3efb928",
@@ -127887,7 +127894,8 @@
         ],
         "holders": {
             "ETH": 254
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1f415379c6723c334892642b079d366de7600356",
@@ -127901,7 +127909,8 @@
         ],
         "holders": {
             "ETH": 29
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x14c3f2ce251eb9385839d291c40bf085f3c6f266",
