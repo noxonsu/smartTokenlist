@@ -127979,7 +127979,9 @@
         },
         "web_domains": [
             "eigenlayer.xyz"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe04f26b221ff5418cbeb1039635059f5bffac9bb",
@@ -128004,7 +128006,8 @@
         ],
         "holders": {
             "ETH": 383
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb6c4267c4877bb0d6b1685cfd85b0fbe82f105ec",
@@ -128037,7 +128040,8 @@
         ],
         "holders": {
             "ETH": 309
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1dd8464ab45dd5fc9a54cd6c38f5dc85fb1ccc95",
@@ -128064,7 +128068,11 @@
         },
         "web_domains": [
             "torproject.org"
-        ]
+        ],
+        "telegram_groups": [
+            "torproject"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xfd3a53a636d4c16b863e3cfa84dff85b639a2089",
