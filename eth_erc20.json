@@ -127961,5 +127961,125 @@
             "GullNetworkPortal"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x76bf8ccb066f3f918e51f27a6257bba329866c0a",
+        "date_add": "2024-04-18 20:04:40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x16d97ec1c7637978ffbbcc71bd76864cfaef3334",
+        "date_add": "2024-04-18 20:04:40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 68
+        }
+    },
+    {
+        "contract_address": "0xe04f26b221ff5418cbeb1039635059f5bffac9bb",
+        "date_add": "2024-04-18 20:04:40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 118
+        }
+    },
+    {
+        "contract_address": "0x33cd63136d2f04826a9170b2ed6e09b6c9fb38a5",
+        "date_add": "2024-04-18 20:04:40",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.veropad.com",
+            "docs.veropad.com",
+            "launch.veropad.com",
+            "launch.veropad.com"
+        ],
+        "telegram_groups": [
+            "VeroPad"
+        ],
+        "holders": {
+            "ETH": 383
+        }
+    },
+    {
+        "contract_address": "0xb6c4267c4877bb0d6b1685cfd85b0fbe82f105ec",
+        "date_add": "2024-04-18 20:04:40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3349
+        }
+    },
+    {
+        "contract_address": "0x33f6a4abff430095d8190ff8a855af7a597059fd",
+        "date_add": "2024-04-18 20:04:40",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "FOMO_OnBase"
+        ],
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x2435ea5de0a86978a9fc40314e5e58017fb5eb0d",
+        "date_add": "2024-04-18 20:04:40",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bitcoinexpress.click"
+        ],
+        "telegram_groups": [
+            "btcexpress"
+        ],
+        "holders": {
+            "ETH": 309
+        }
+    },
+    {
+        "contract_address": "0x1dd8464ab45dd5fc9a54cd6c38f5dc85fb1ccc95",
+        "date_add": "2024-04-18 20:04:40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 39
+        }
+    },
+    {
+        "contract_address": "0x73d2f111f30b41248fda707653c7e22bde6d9af8",
+        "date_add": "2024-04-18 20:04:40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x438abaaae075582bd91d71d3b57f83c326939a42",
+        "date_add": "2024-04-18 20:04:40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0xfd3a53a636d4c16b863e3cfa84dff85b639a2089",
+        "date_add": "2024-04-18 20:04:40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 208
+        }
+    },
+    {
+        "contract_address": "0x5ca83216fae72717332469e6a2eb28c4bf9af9ec",
+        "date_add": "2024-04-18 20:04:40",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "0xCalls.ai"
+        ],
+        "telegram_groups": [
+            "Calls0x"
+        ],
+        "holders": {
+            "ETH": 765
+        }
     }
 ]
