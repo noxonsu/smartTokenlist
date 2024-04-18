@@ -127935,7 +127935,9 @@
         ],
         "holders": {
             "ETH": 48
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7de78711cf4133a792290c19c638ddf5223e19d0",
@@ -127954,6 +127956,10 @@
         },
         "web_domains": [
             "gullnetwork.com"
-        ]
+        ],
+        "telegram_groups": [
+            "GullNetworkPortal"
+        ],
+        "p6": true
     }
 ]
