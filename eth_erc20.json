@@ -128160,7 +128160,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 66
-        }
+        },
+        "web_domains": [
+            "80085.fans"
+        ]
     },
     {
         "contract_address": "0x2aa5ce395b00cc486159adbdd97c55b535cf2cf9",
@@ -128204,7 +128207,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 244
-        }
+        },
+        "web_domains": [
+            "usdx.io"
+        ]
     },
     {
         "contract_address": "0x8144997c78c36d6a1e9f75525b5684ecc013cb89",
