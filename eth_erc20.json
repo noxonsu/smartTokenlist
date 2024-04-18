@@ -127976,7 +127976,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 68
-        }
+        },
+        "web_domains": [
+            "eigenlayer.xyz"
+        ]
     },
     {
         "contract_address": "0xe04f26b221ff5418cbeb1039635059f5bffac9bb",
@@ -128058,7 +128061,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 4
-        }
+        },
+        "web_domains": [
+            "torproject.org"
+        ]
     },
     {
         "contract_address": "0xfd3a53a636d4c16b863e3cfa84dff85b639a2089",
