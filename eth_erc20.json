@@ -127579,5 +127579,101 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x5f667e1181cb7f7cec4685f802ace6d7b3512780",
+        "date_add": "2024-04-18 14:04:17",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xe413f21f74fac68bcd2c16626f0fca30b55692dd",
+        "date_add": "2024-04-18 14:04:17",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "aark.digital",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "aarkdigital"
+        ],
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0xe0337b8835d9887e8b1294cecbbdbcff7b299f41",
+        "date_add": "2024-04-18 14:04:17",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2238
+        }
+    },
+    {
+        "contract_address": "0x846a4566802c27eac8f72d594f4ca195fe41c07a",
+        "date_add": "2024-04-18 14:04:17",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0xcb688a885bab4ba2f8a1ec9d6411037782d26348",
+        "date_add": "2024-04-18 14:04:17",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "VINEERC20"
+        ],
+        "holders": {
+            "ETH": 163
+        }
+    },
+    {
+        "contract_address": "0xa730d6536ee3023e93940f06f357a7fa6e3d0757",
+        "date_add": "2024-04-18 14:04:17",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "runepad.pro",
+            "docs.runepad.pro"
+        ],
+        "telegram_groups": [
+            "RunePad_portal"
+        ],
+        "holders": {
+            "ETH": 335
+        }
+    },
+    {
+        "contract_address": "0xa32f8e94d1a438cf7c9b76cab1bea468f4bd4fce",
+        "date_add": "2024-04-18 14:04:17",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "oneai.bot",
+            "whitepaper.oneai.bot"
+        ],
+        "telegram_groups": [
+            "OneAIEntryPortal",
+            "OneAISecurity_Bot"
+        ],
+        "holders": {
+            "ETH": 196
+        }
+    },
+    {
+        "contract_address": "0x0ca1ee318ff4c8ee616275d7a9550fb8cd23a9c2",
+        "date_add": "2024-04-18 14:04:17",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "inqubeta.ai",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "Inqubeta"
+        ],
+        "holders": {
+            "ETH": 161
+        }
     }
 ]
