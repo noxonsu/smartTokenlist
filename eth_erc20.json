@@ -127473,7 +127473,8 @@
         },
         "web_domains": [
             "thexine360.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbc61e13ca6830fc7f035fd0e90a01cd08be6dcaa",
@@ -127490,7 +127491,12 @@
         },
         "web_domains": [
             "minerelementary.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "minerelementary@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x85c719159db15da96dafc0edc475993962581e11",
@@ -127556,7 +127562,11 @@
         ],
         "holders": {
             "ETH": 380
-        }
+        },
+        "emails": [
+            "marketing@dogecoin20.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x39a4d12b05f3c39d378330d42e073030b1b2556b",
@@ -127566,6 +127576,8 @@
         },
         "web_domains": [
             "bouncebit.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
