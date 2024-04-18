@@ -127814,5 +127814,134 @@
             "ETH": 217
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xe0ee606b9f0c9930b3c8e9eae89c74d0246ba55b",
+        "date_add": "2024-04-18 18:04:43",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools"
+        ],
+        "holders": {
+            "ETH": 149
+        }
+    },
+    {
+        "contract_address": "0xf98d2ea7183e647956db61a9e1a49f5e2aad8cc0",
+        "date_add": "2024-04-18 18:04:43",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "runerock.pro",
+            "docs.runerock.pro",
+            "www.ord.io"
+        ],
+        "telegram_groups": [
+            "RuneRock_official"
+        ],
+        "holders": {
+            "ETH": 255
+        }
+    },
+    {
+        "contract_address": "0x3824255df9eabc9347abcaa5872b1763fe9d47bc",
+        "date_add": "2024-04-18 18:04:43",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nodestation.ai"
+        ],
+        "telegram_groups": [
+            "Nodestationai"
+        ],
+        "holders": {
+            "ETH": 350
+        }
+    },
+    {
+        "contract_address": "0x13c07bfc6188ea38d119472f12c20a50d0344b9a",
+        "date_add": "2024-04-18 18:04:43",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "Gpu-Ai.Net"
+        ],
+        "telegram_groups": [
+            "GPUAiErc20"
+        ],
+        "holders": {
+            "ETH": 95
+        }
+    },
+    {
+        "contract_address": "0xb8b696852716be5cb95dcb335a9bddc4a3efb928",
+        "date_add": "2024-04-18 18:04:43",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "decentralan.org",
+            "docs.decentralan.org"
+        ],
+        "telegram_groups": [
+            "DecentraLAN_official",
+            "Decentra_LAN_Bot"
+        ],
+        "holders": {
+            "ETH": 254
+        }
+    },
+    {
+        "contract_address": "0x1f415379c6723c334892642b079d366de7600356",
+        "date_add": "2024-04-18 18:04:43",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "trade-ai.tech"
+        ],
+        "telegram_groups": [
+            "TradeAITech"
+        ],
+        "holders": {
+            "ETH": 29
+        }
+    },
+    {
+        "contract_address": "0x14c3f2ce251eb9385839d291c40bf085f3c6f266",
+        "date_add": "2024-04-18 18:04:43",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "runesglyphs.xyz"
+        ],
+        "telegram_groups": [
+            "RunesGlyphs"
+        ],
+        "holders": {
+            "ETH": 651
+        }
+    },
+    {
+        "contract_address": "0xfee6870c87cfd8227fbc33f1fcfb654ff1967cdb",
+        "date_add": "2024-04-18 18:04:43",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.saca.fish"
+        ],
+        "holders": {
+            "ETH": 48
+        }
+    },
+    {
+        "contract_address": "0x7de78711cf4133a792290c19c638ddf5223e19d0",
+        "date_add": "2024-04-18 18:04:43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x970dc0a1aad1ef2ce4eba51c01c2f9a8f069a546",
+        "date_add": "2024-04-18 18:04:43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 38
+        }
     }
 ]
