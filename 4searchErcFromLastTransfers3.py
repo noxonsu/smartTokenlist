@@ -66,10 +66,11 @@ def main():
     for row in query_results:
         contract_address = row.get('contract_address', '')
 
-        # If the contract_address exists and is NOT in the existing tokens set, then append to the list
+        # If the contract_address exists and is NOT in the existing tokens set, then append to the list with dateadd
         if contract_address and contract_address not in existing_tokens:
             existing_data.append({
-                "contract_address": contract_address
+                "contract_address": contract_address,
+                "date_add": date_add
             })
             existing_tokens.add(contract_address)  # Update the set with the new address
             new_contracts_count += 1  # Increment the counter
