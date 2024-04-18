@@ -127375,5 +127375,78 @@
         ],
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0xf6cd829eb2d755be4a7de3007874d1acf84240a0",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xbadbe6619c0563c60e62c7409681440a80391a27",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x36e66fbbce51e4cd5bd3c62b637eb411b18949d4",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 62576
+        }
+    },
+    {
+        "contract_address": "0x5ac34c53a04b9aaa0bf047e7291fb4e8a48f2a18",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 822
+        }
+    },
+    {
+        "contract_address": "0x08e96f308eb008b3db68640aba6b06078625f8cd",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "VINEERC"
+        ],
+        "holders": {
+            "ETH": 1395
+        }
+    },
+    {
+        "contract_address": "0x337c8a3f0cd0580b29e9ee5d7829645709c8f6d2",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "bobaCoinErc20"
+        ],
+        "holders": {
+            "ETH": 269
+        }
+    },
+    {
+        "contract_address": "0x8de69d3e6af9db5905d51c78ec54aed12860a361",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "saakuru.com",
+            "join.saakuru.com",
+            "www.linkedin.com"
+        ],
+        "holders": {
+            "ETH": 49
+        }
+    },
+    {
+        "contract_address": "0xb62d732bd00d5934f75eb1d30cb86b9dfd05eec0",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "alpha.ens.domains"
+        ],
+        "telegram_groups": [
+            "TikTokTokenPortal"
+        ],
+        "holders": {
+            "ETH": 138
+        }
     }
 ]
