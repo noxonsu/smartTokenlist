@@ -127617,7 +127617,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 13
-        }
+        },
+        "web_domains": [
+            "bunni.pro"
+        ]
     },
     {
         "contract_address": "0xcb688a885bab4ba2f8a1ec9d6411037782d26348",
@@ -127628,7 +127631,10 @@
         ],
         "holders": {
             "ETH": 163
-        }
+        },
+        "web_domains": [
+            "vine-vine.com"
+        ]
     },
     {
         "contract_address": "0xa730d6536ee3023e93940f06f357a7fa6e3d0757",
