@@ -127691,5 +127691,121 @@
             "ETH": 161
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x848fff4055be44647b20d1a0826e3762e91362be",
+        "date_add": "2024-04-18 16:04:48",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x1c09c0eb89966cd8cfa3d93d7c47f1b349674d5c",
+        "date_add": "2024-04-18 16:04:48",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 39
+        }
+    },
+    {
+        "contract_address": "0xb17920f6b9b8448d872c2b4312aba91b5e298a61",
+        "date_add": "2024-04-18 16:04:48",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sonofandy.com"
+        ],
+        "telegram_groups": [
+            "sonofandy"
+        ],
+        "holders": {
+            "ETH": 327
+        }
+    },
+    {
+        "contract_address": "0xeb20a5d6603b6b60b188d8f55d1ed0db3522e524",
+        "date_add": "2024-04-18 16:04:48",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x426df698386ea0fd51658bd5ea9089309dcb7c6d",
+        "date_add": "2024-04-18 16:04:48",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 679
+        }
+    },
+    {
+        "contract_address": "0xc8db455496457e5525c511a33f61215a1d714698",
+        "date_add": "2024-04-18 16:04:48",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Wokipedia_Entry"
+        ],
+        "holders": {
+            "ETH": 339
+        }
+    },
+    {
+        "contract_address": "0xc033f6932f71c6ff1de3177f90dff24b70e50618",
+        "date_add": "2024-04-18 16:04:48",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sandy-coin.vip"
+        ],
+        "telegram_groups": [
+            "SANDY_ERC20"
+        ],
+        "holders": {
+            "ETH": 505
+        }
+    },
+    {
+        "contract_address": "0x55cd6418afe170a91e0be03d7306ab4b755b7ee5",
+        "date_add": "2024-04-18 16:04:48",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 166
+        }
+    },
+    {
+        "contract_address": "0xa954ffbf94ca2053eee3c58e741714e5ea05077c",
+        "date_add": "2024-04-18 16:04:48",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 64
+        }
+    },
+    {
+        "contract_address": "0xee3df654e7d39d11e57897023144625c19081f04",
+        "date_add": "2024-04-18 16:04:48",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "my-space.live"
+        ],
+        "telegram_groups": [
+            "MySpace_ERC"
+        ],
+        "holders": {
+            "ETH": 227
+        }
+    },
+    {
+        "contract_address": "0x8d9abb25eb799fe38c5bfacf2177a5d6e58a1c9d",
+        "date_add": "2024-04-18 16:04:48",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "readcomiconline.li",
+            "escapada-erc.vip"
+        ],
+        "telegram_groups": [
+            "Escapada_Erc"
+        ],
+        "holders": {
+            "ETH": 217
+        }
     }
 ]
