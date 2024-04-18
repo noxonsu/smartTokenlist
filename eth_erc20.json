@@ -127601,7 +127601,8 @@
         ],
         "holders": {
             "ETH": 26
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe0337b8835d9887e8b1294cecbbdbcff7b299f41",
@@ -127620,7 +127621,9 @@
         },
         "web_domains": [
             "bunni.pro"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xcb688a885bab4ba2f8a1ec9d6411037782d26348",
@@ -127634,7 +127637,8 @@
         },
         "web_domains": [
             "vine-vine.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa730d6536ee3023e93940f06f357a7fa6e3d0757",
@@ -127649,7 +127653,8 @@
         ],
         "holders": {
             "ETH": 335
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa32f8e94d1a438cf7c9b76cab1bea468f4bd4fce",
@@ -127665,7 +127670,11 @@
         ],
         "holders": {
             "ETH": 196
-        }
+        },
+        "emails": [
+            "team@oneai.bot"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0ca1ee318ff4c8ee616275d7a9550fb8cd23a9c2",
@@ -127680,6 +127689,7 @@
         ],
         "holders": {
             "ETH": 161
-        }
+        },
+        "p6": true
     }
 ]
