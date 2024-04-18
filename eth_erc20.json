@@ -128132,7 +128132,8 @@
         ],
         "holders": {
             "ETH": 114
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd81b71cbb89b2800cdb000aa277dc1491dc923c3",
@@ -128152,7 +128153,9 @@
         ],
         "holders": {
             "ETH": 305
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xce8d785de85ac6132870861c95464ba6c97efcf0",
@@ -128163,7 +128166,9 @@
         },
         "web_domains": [
             "80085.fans"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2aa5ce395b00cc486159adbdd97c55b535cf2cf9",
@@ -128185,7 +128190,11 @@
         ],
         "holders": {
             "ETH": 133
-        }
+        },
+        "emails": [
+            "info@voiceai.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7c3b8aa594c774911727770f9401f4fcfa63c8b6",
@@ -128199,7 +128208,11 @@
         ],
         "holders": {
             "ETH": 286
-        }
+        },
+        "emails": [
+            "\nEMAIL: youngpeezy@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2f6081e3552b1c86ce4479b80062a1dda8ef23e3",
@@ -128210,7 +128223,9 @@
         },
         "web_domains": [
             "usdx.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8144997c78c36d6a1e9f75525b5684ecc013cb89",
