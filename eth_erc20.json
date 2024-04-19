@@ -128921,5 +128921,116 @@
         "holders": {
             "ETH": 848
         }
+    },
+    {
+        "contract_address": "0xda1cb94aae93890ce66c79bb1d46be9411becb9a",
+        "date_add": "2024-04-19 20:04:16",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.createmytoken.com"
+        ],
+        "holders": {
+            "ETH": 62
+        }
+    },
+    {
+        "contract_address": "0x17127ecba31712697da50247e5ba102981eed03a",
+        "date_add": "2024-04-19 20:04:16",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "runeshub.gitbook.io",
+            "runeshub.org"
+        ],
+        "telegram_groups": [
+            "runeshub"
+        ],
+        "holders": {
+            "ETH": 300
+        }
+    },
+    {
+        "contract_address": "0xe39c3530cc0ed7c289ff83c1fc74ea09b8ef1c79",
+        "date_add": "2024-04-19 20:04:16",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.zkrune.xyz"
+        ],
+        "telegram_groups": [
+            "zkRunes"
+        ],
+        "holders": {
+            "ETH": 99
+        }
+    },
+    {
+        "contract_address": "0x06df3b2bbb68adc8b0e302443692037ed9f91b42",
+        "date_add": "2024-04-19 20:04:16",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 73
+        }
+    },
+    {
+        "contract_address": "0x3e83744cae660364269c17f55d5789ac94873fef",
+        "date_add": "2024-04-19 20:04:16",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "devofinance.com"
+        ],
+        "telegram_groups": [
+            "devo_erc"
+        ],
+        "holders": {
+            "ETH": 66
+        }
+    },
+    {
+        "contract_address": "0x5a10de50160126a5f936506bd342c541ac44e943",
+        "date_add": "2024-04-19 20:04:16",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 160
+        }
+    },
+    {
+        "contract_address": "0xaff89b765f540fed18237acc2a047f2c8ffa6d5e",
+        "date_add": "2024-04-19 20:04:16",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "protoncoin.tech",
+            "live.protoncoin.tech"
+        ],
+        "telegram_groups": [
+            "protoncoin_official"
+        ],
+        "holders": {
+            "ETH": 91
+        }
+    },
+    {
+        "contract_address": "0x12f9a180198d91f854f3ca23caf8be1c83ef3b76",
+        "date_add": "2024-04-19 20:04:16",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "aquastakeportal"
+        ],
+        "holders": {
+            "ETH": 132
+        }
+    },
+    {
+        "contract_address": "0xa9510f14873964a2aa0af1c30f2953a7e4a8bd1d",
+        "date_add": "2024-04-19 20:04:16",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "thepirateswap.xyz",
+            "docs.thepirateswap.xyz"
+        ],
+        "telegram_groups": [
+            "pirate_swap"
+        ],
+        "holders": {
+            "ETH": 68
+        }
     }
 ]
