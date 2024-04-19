@@ -129016,7 +129016,10 @@
         ],
         "holders": {
             "ETH": 132
-        }
+        },
+        "web_domains": [
+            "aquastake.org"
+        ]
     },
     {
         "contract_address": "0xa9510f14873964a2aa0af1c30f2953a7e4a8bd1d",
