@@ -128625,7 +128625,9 @@
         },
         "web_domains": [
             "bedrock.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x722383e1e8994cb8a55cbc1621dc068b62403b1e",
@@ -128640,7 +128642,8 @@
         ],
         "holders": {
             "ETH": 474
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x745801859f09efd1a50bced32df5c1e52c08f6ba",
@@ -128659,7 +128662,11 @@
         },
         "web_domains": [
             "presale.99bitcoins.com"
-        ]
+        ],
+        "telegram_groups": [
+            "Official_99_Bitcoins"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5f18ea482ad5cc6bc65803817c99f477043dce85",
