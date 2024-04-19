@@ -128860,5 +128860,60 @@
         "holders": {
             "ETH": 461
         }
+    },
+    {
+        "contract_address": "0x69457a1c9ec492419344da01daf0df0e0369d5d0",
+        "date_add": "2024-04-19 18:04:24",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1627
+        }
+    },
+    {
+        "contract_address": "0x88e6998cec706e80ca3f38d635e9ee503f50d83d",
+        "date_add": "2024-04-19 18:04:24",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x7d0fe0db46ec0017a89478e98c9ff86109ad4673",
+        "date_add": "2024-04-19 18:04:24",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "runestone.bot",
+            "docs.runestone.bot"
+        ],
+        "telegram_groups": [
+            "RuneStoneRSB"
+        ],
+        "holders": {
+            "ETH": 442
+        }
+    },
+    {
+        "contract_address": "0x496ca5b9f0b576810806bdff1e18d95bfd499b8b",
+        "date_add": "2024-04-19 18:04:24",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x2e95bd33c562ece0335e7478ee0437a249a89cb7",
+        "date_add": "2024-04-19 18:04:24",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xc66ea802717bfb9833400264dd12c2bceaa34a6d",
+        "date_add": "2024-04-19 18:04:24",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 848
+        }
     }
 ]
