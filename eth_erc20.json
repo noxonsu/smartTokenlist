@@ -128234,5 +128234,73 @@
         "holders": {
             "ETH": 1
         }
+    },
+    {
+        "contract_address": "0x5ed53c319f1e46ee572e4c545ea1b09f49942eb6",
+        "date_add": "2024-04-19 00:20:34",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xc475b4cfbaed374dc9a929ba90bd5aec224dd920",
+        "date_add": "2024-04-19 00:20:34",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0x9b83f827928abdf18cf1f7e67053572b9bceff3a",
+        "date_add": "2024-04-19 00:20:34",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 309
+        }
+    },
+    {
+        "contract_address": "0x724313985dcb55d432d3888ddc0b9e3d3859e86d",
+        "date_add": "2024-04-19 00:20:34",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 534
+        }
+    },
+    {
+        "contract_address": "0x330046ce4ca9d4556f814b466cd72d1065f22f4c",
+        "date_add": "2024-04-19 00:20:34",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "TheArmada.eth.link"
+        ],
+        "telegram_groups": [
+            "BORG_ResistanceIsFutile"
+        ],
+        "holders": {
+            "ETH": 251
+        }
+    },
+    {
+        "contract_address": "0x86e82313704851c6e2764bfae8276849ab28c113",
+        "date_add": "2024-04-19 00:20:34",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "assimilate.finance"
+        ],
+        "telegram_groups": [
+            "BORG_ResistanceIsFutile"
+        ],
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0x8b79656fc38a04044e495e22fad747126ca305c4",
+        "date_add": "2024-04-19 00:20:34",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1889
+        }
     }
 ]
