@@ -106185,8 +106185,8 @@
             "dirtypilot.com"
         ],
         "telegram_groups": [
-            "birddogcoineth",
             "RefundKitties_ERC",
+            "birddogcoineth",
             "pandoratwo_404"
         ],
         "holders": {
@@ -107375,10 +107375,10 @@
             "pepercoin.vip"
         ],
         "telegram_groups": [
-            "birddogcoineth",
-            "pepermemecoin",
             "RefundKitties_ERC",
-            "pandoratwo_404"
+            "birddogcoineth",
+            "pandoratwo_404",
+            "pepermemecoin"
         ],
         "holders": {
             "ETH": 281
@@ -121075,11 +121075,11 @@
             "kiwicoineth.vip"
         ],
         "telegram_groups": [
+            "RefundKitties_ERC",
             "birddogcoineth",
             "pepermemecoin",
-            "kiwicoinerc",
-            "RefundKitties_ERC",
-            "pandoratwo_404"
+            "pandoratwo_404",
+            "kiwicoinerc"
         ],
         "holders": {
             "ETH": 248
@@ -128330,7 +128330,11 @@
         ],
         "holders": {
             "ETH": 97
-        }
+        },
+        "emails": [
+            "Contact Us: team@fomooneth.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x751066c9a43830beecb37fb79fbb9efdfdaf9ef3",
@@ -128349,7 +128353,11 @@
         ],
         "holders": {
             "ETH": 10
-        }
+        },
+        "telegram_groups": [
+            "PeapodsFinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa26edd30b6f1cb6ec66cbe86151e18742bafb2ef",
@@ -128360,10 +128368,16 @@
             "snortcoin.vip"
         ],
         "telegram_groups": [
+            "pepermemecoin",
+            "kiwicoinerc",
+            "pandoratwo_404",
+            "RefundKitties_ERC",
+            "birddogcoineth",
             "snorteth"
         ],
         "holders": {
             "ETH": 167
-        }
+        },
+        "p6": true
     }
 ]
