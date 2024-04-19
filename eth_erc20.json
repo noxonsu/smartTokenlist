@@ -128379,5 +128379,45 @@
             "ETH": 167
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xa718193e1348fd4def3063e7f4b4154baacb0214",
+        "date_add": "2024-04-19 04:04:36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 77
+        }
+    },
+    {
+        "contract_address": "0xac3789367a6df9e5f891797f965c960775d911ae",
+        "date_add": "2024-04-19 04:04:36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 73
+        }
+    },
+    {
+        "contract_address": "0xc7d9befd5ce0b27925dcc3e556d36f0552a6c86a",
+        "date_add": "2024-04-19 04:04:36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 316
+        }
+    },
+    {
+        "contract_address": "0x82813f60f80aae2493275b3452d8c3592169188a",
+        "date_add": "2024-04-19 04:04:36",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.selena.finance",
+            "app.selena.finance",
+            "docs.selena.finance"
+        ],
+        "telegram_groups": [
+            "selena_official_channel"
+        ],
+        "holders": {
+            "ETH": 65
+        }
     }
 ]
