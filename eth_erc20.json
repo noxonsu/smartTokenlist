@@ -128568,5 +128568,32 @@
         "holders": {
             "ETH": 0
         }
+    },
+    {
+        "contract_address": "0xa9ed80cb42757d8150a8f006dcb1728ecd97c98b",
+        "date_add": "2024-04-19 10:04:27",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 154
+        }
+    },
+    {
+        "contract_address": "0x459894b9a07978c1fb723ac2fa3ca0f58311c394",
+        "date_add": "2024-04-19 10:04:27",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x53782d38e9374f9b26057513ee5e3d8bcc65422e",
+        "date_add": "2024-04-19 10:04:27",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "katanaportal"
+        ],
+        "holders": {
+            "ETH": 78
+        }
     }
 ]
