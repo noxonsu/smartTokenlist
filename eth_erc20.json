@@ -128309,5 +128309,61 @@
         "holders": {
             "ETH": 1889
         }
+    },
+    {
+        "contract_address": "0x4dd28568d05f09b02220b09c2cb307bfd837cb95",
+        "date_add": "2024-04-19 02:12:52",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 354
+        }
+    },
+    {
+        "contract_address": "0xf6bf717d7b76308acb4144cc884b18b8b0d67611",
+        "date_add": "2024-04-19 02:12:52",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "FOMOonETH.com"
+        ],
+        "telegram_groups": [
+            "FOMOonETH"
+        ],
+        "holders": {
+            "ETH": 97
+        }
+    },
+    {
+        "contract_address": "0x751066c9a43830beecb37fb79fbb9efdfdaf9ef3",
+        "date_add": "2024-04-19 02:12:52",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 320
+        }
+    },
+    {
+        "contract_address": "0xc9bbf29398851c24be640d115818abb17a667cee",
+        "date_add": "2024-04-19 02:12:52",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "peapods.finance"
+        ],
+        "holders": {
+            "ETH": 10
+        }
+    },
+    {
+        "contract_address": "0xa26edd30b6f1cb6ec66cbe86151e18742bafb2ef",
+        "date_add": "2024-04-19 02:12:52",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "opensea.io",
+            "snortcoin.vip"
+        ],
+        "telegram_groups": [
+            "snorteth"
+        ],
+        "holders": {
+            "ETH": 167
+        }
     }
 ]
