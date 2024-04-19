@@ -128794,5 +128794,56 @@
         "holders": {
             "ETH": 288
         }
+    },
+    {
+        "contract_address": "0xb42d339665f91f76a72d4f96b01a2785e1a4d2ae",
+        "date_add": "2024-04-19 16:04:23",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 183
+        }
+    },
+    {
+        "contract_address": "0x19a648d60b14fef4a82b9c825deca0dc9f7ff42f",
+        "date_add": "2024-04-19 16:04:23",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zeroxgaming.com"
+        ],
+        "holders": {
+            "ETH": 100
+        }
+    },
+    {
+        "contract_address": "0x22454c6f5c3a23426dbf1597acf9d3c1faf25b10",
+        "date_add": "2024-04-19 16:04:23",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0xec681f28f4561c2a9534799aa38e0d36a83cf478",
+        "date_add": "2024-04-19 16:04:23",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 661
+        }
+    },
+    {
+        "contract_address": "0x2865401112328d7f025f67227ce06ca033326795",
+        "date_add": "2024-04-19 16:04:23",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10
+        }
+    },
+    {
+        "contract_address": "0x58ce85462a37ca4ccff93843eb8954bc866a0c4c",
+        "date_add": "2024-04-19 16:04:23",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 461
+        }
     }
 ]
