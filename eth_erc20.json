@@ -128801,7 +128801,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 183
-        }
+        },
+        "web_domains": [
+            "catpool.ai"
+        ]
     },
     {
         "contract_address": "0x19a648d60b14fef4a82b9c825deca0dc9f7ff42f",
@@ -128836,7 +128839,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 10
-        }
+        },
+        "web_domains": [
+            "thegivingblock.com"
+        ]
     },
     {
         "contract_address": "0x58ce85462a37ca4ccff93843eb8954bc866a0c4c",
