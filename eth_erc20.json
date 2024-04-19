@@ -128435,5 +128435,60 @@
             "ETH": 65
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xb95573a6a139c96555c679140bb1da5efd91f3da",
+        "date_add": "2024-04-19 06:05:42",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 31
+        }
+    },
+    {
+        "contract_address": "0xee57ffa48700c05b33a864b920ce40be2749c6ce",
+        "date_add": "2024-04-19 06:05:42",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.brettdogetoken.com",
+            "brettdoge.gitbook.io"
+        ],
+        "telegram_groups": [
+            "BrettDogeErc20"
+        ],
+        "holders": {
+            "ETH": 129
+        }
+    },
+    {
+        "contract_address": "0x072e1d65026ea5be3c2c70845c515c51ce85b7de",
+        "date_add": "2024-04-19 06:05:42",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 476
+        }
+    },
+    {
+        "contract_address": "0x8f1cece048cade6b8a05dfa2f90ee4025f4f2662",
+        "date_add": "2024-04-19 06:05:42",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 572
+        }
+    },
+    {
+        "contract_address": "0x1ce1f63b584b87d0f3706bfbb2be881270859f0b",
+        "date_add": "2024-04-19 06:05:42",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x92ee0df7f6b0674cabc9bfc64873786fa7be82d0",
+        "date_add": "2024-04-19 06:05:42",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
     }
 ]
