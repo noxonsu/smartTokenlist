@@ -128599,5 +128599,76 @@
             "katanamrp.com"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0xf2ce61699660f0f5800ba7d962741ba582d7346b",
+        "date_add": "2024-04-19 12:06:12",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 63
+        }
+    },
+    {
+        "contract_address": "0x5ae176bbcb9a4461aeeeb97c90c2a80c2078006a",
+        "date_add": "2024-04-19 12:06:12",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 504
+        }
+    },
+    {
+        "contract_address": "0xc430db19339a3051192233b4c49f9ab3dc6d16b7",
+        "date_add": "2024-04-19 12:06:12",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 39
+        }
+    },
+    {
+        "contract_address": "0x722383e1e8994cb8a55cbc1621dc068b62403b1e",
+        "date_add": "2024-04-19 12:06:12",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "runesbot.app"
+        ],
+        "telegram_groups": [
+            "the_runes_bot",
+            "RunesBotERC20"
+        ],
+        "holders": {
+            "ETH": 474
+        }
+    },
+    {
+        "contract_address": "0x745801859f09efd1a50bced32df5c1e52c08f6ba",
+        "date_add": "2024-04-19 12:06:12",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 199
+        }
+    },
+    {
+        "contract_address": "0xc2eb40516ecaac04ae9964934983d1e9ebdf51fd",
+        "date_add": "2024-04-19 12:06:12",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x5f18ea482ad5cc6bc65803817c99f477043dce85",
+        "date_add": "2024-04-19 12:06:12",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1338
+        }
+    },
+    {
+        "contract_address": "0x2903bd7db50f300b0884f7a15904baffc77f3ec7",
+        "date_add": "2024-04-19 12:06:12",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1400
+        }
     }
 ]
