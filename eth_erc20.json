@@ -128683,5 +128683,96 @@
         "holders": {
             "ETH": 1400
         }
+    },
+    {
+        "contract_address": "0xeacdafa4a485667d070a1875d19863dc00dd1f10",
+        "date_add": "2024-04-19 14:04:05",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "peapods.finance"
+        ],
+        "holders": {
+            "ETH": 10
+        }
+    },
+    {
+        "contract_address": "0xb0b1c05300ee59dc091d637ace99f83dce0ed0ae",
+        "date_add": "2024-04-19 14:04:05",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9025
+        }
+    },
+    {
+        "contract_address": "0xff0ee3ebcf64808eabbb96fbbb7ee18512647f0b",
+        "date_add": "2024-04-19 14:04:05",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tokentoolbox.app"
+        ],
+        "holders": {
+            "ETH": 131
+        }
+    },
+    {
+        "contract_address": "0x6ed84215c7c4e94b0dc55c16e574d407586d2116",
+        "date_add": "2024-04-19 14:04:05",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xb656d138e4c030064a7aa8d83aa929928a730c10",
+        "date_add": "2024-04-19 14:04:05",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bouncebit.io",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "bouncebit"
+        ],
+        "holders": {
+            "ETH": 34
+        }
+    },
+    {
+        "contract_address": "0xfc0b60e0df5dc9d4b72d957ca2d251cee308019a",
+        "date_add": "2024-04-19 14:04:05",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 435
+        }
+    },
+    {
+        "contract_address": "0x5796136ac98f83e732b99edf783ad247c997e8ef",
+        "date_add": "2024-04-19 14:04:05",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zkarchive.org"
+        ],
+        "telegram_groups": [
+            "zkarchiveofficial"
+        ],
+        "holders": {
+            "ETH": 283
+        }
+    },
+    {
+        "contract_address": "0x66c68a7bcc4cbcab43a2947a529765d86d4ef14f",
+        "date_add": "2024-04-19 14:04:05",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0x9946c55a34cd105f1e0cf815025eaecff7356487",
+        "date_add": "2024-04-19 14:04:05",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 288
+        }
     }
 ]
