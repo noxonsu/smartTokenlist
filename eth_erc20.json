@@ -128693,7 +128693,11 @@
         ],
         "holders": {
             "ETH": 10
-        }
+        },
+        "telegram_groups": [
+            "PeapodsFinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb0b1c05300ee59dc091d637ace99f83dce0ed0ae",
@@ -128712,7 +128716,9 @@
         ],
         "holders": {
             "ETH": 131
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6ed84215c7c4e94b0dc55c16e574d407586d2116",
@@ -128735,7 +128741,8 @@
         ],
         "holders": {
             "ETH": 34
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xfc0b60e0df5dc9d4b72d957ca2d251cee308019a",
@@ -128753,11 +128760,16 @@
             "zkarchive.org"
         ],
         "telegram_groups": [
+            "zkarchive_bot",
             "zkarchiveofficial"
         ],
         "holders": {
             "ETH": 283
-        }
+        },
+        "emails": [
+            "support@zkarchive.org"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x66c68a7bcc4cbcab43a2947a529765d86d4ef14f",
@@ -128768,7 +128780,12 @@
         },
         "web_domains": [
             "sea.museum"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "info@sea.museum"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9946c55a34cd105f1e0cf815025eaecff7356487",
