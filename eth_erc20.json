@@ -128622,7 +128622,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 39
-        }
+        },
+        "web_domains": [
+            "bedrock.finance"
+        ]
     },
     {
         "contract_address": "0x722383e1e8994cb8a55cbc1621dc068b62403b1e",
@@ -128653,7 +128656,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 6
-        }
+        },
+        "web_domains": [
+            "presale.99bitcoins.com"
+        ]
     },
     {
         "contract_address": "0x5f18ea482ad5cc6bc65803817c99f477043dce85",
