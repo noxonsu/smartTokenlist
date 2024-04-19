@@ -128931,7 +128931,9 @@
         ],
         "holders": {
             "ETH": 62
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x17127ecba31712697da50247e5ba102981eed03a",
@@ -128946,7 +128948,8 @@
         ],
         "holders": {
             "ETH": 300
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe39c3530cc0ed7c289ff83c1fc74ea09b8ef1c79",
@@ -128960,7 +128963,8 @@
         ],
         "holders": {
             "ETH": 99
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x06df3b2bbb68adc8b0e302443692037ed9f91b42",
@@ -128982,7 +128986,8 @@
         ],
         "holders": {
             "ETH": 66
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5a10de50160126a5f936506bd342c541ac44e943",
@@ -129005,7 +129010,8 @@
         ],
         "holders": {
             "ETH": 91
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x12f9a180198d91f854f3ca23caf8be1c83ef3b76",
@@ -129019,7 +129025,8 @@
         },
         "web_domains": [
             "aquastake.org"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa9510f14873964a2aa0af1c30f2953a7e4a8bd1d",
