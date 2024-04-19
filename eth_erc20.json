@@ -128804,7 +128804,9 @@
         },
         "web_domains": [
             "catpool.ai"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x19a648d60b14fef4a82b9c825deca0dc9f7ff42f",
@@ -128815,7 +128817,9 @@
         ],
         "holders": {
             "ETH": 100
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x22454c6f5c3a23426dbf1597acf9d3c1faf25b10",
@@ -128842,7 +128846,12 @@
         },
         "web_domains": [
             "thegivingblock.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "support@thegivingblock.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x58ce85462a37ca4ccff93843eb8954bc866a0c4c",
