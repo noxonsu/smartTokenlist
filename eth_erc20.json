@@ -128252,7 +128252,9 @@
         },
         "web_domains": [
             "mazimatic.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9b83f827928abdf18cf1f7e67053572b9bceff3a",
@@ -128282,7 +128284,8 @@
         ],
         "holders": {
             "ETH": 251
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x86e82313704851c6e2764bfae8276849ab28c113",
@@ -128296,7 +128299,8 @@
         ],
         "holders": {
             "ETH": 24
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8b79656fc38a04044e495e22fad747126ca305c4",
