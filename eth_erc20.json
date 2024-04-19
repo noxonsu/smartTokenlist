@@ -128878,7 +128878,9 @@
         },
         "web_domains": [
             "devenv.pro"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7d0fe0db46ec0017a89478e98c9ff86109ad4673",
@@ -128893,7 +128895,8 @@
         ],
         "holders": {
             "ETH": 442
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x496ca5b9f0b576810806bdff1e18d95bfd499b8b",
