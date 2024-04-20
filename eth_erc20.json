@@ -129413,7 +129413,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 34
-        }
+        },
+        "web_domains": [
+            "coin98.com"
+        ]
     },
     {
         "contract_address": "0x15fe2a54c28e0dcc13d389348137bb94c1f30eb3",
