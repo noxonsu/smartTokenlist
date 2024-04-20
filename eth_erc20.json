@@ -129222,5 +129222,40 @@
         "holders": {
             "ETH": 2016
         }
+    },
+    {
+        "contract_address": "0x9c4a4204b79dd291d6b6571c5be8bbcd0622f050",
+        "date_add": "2024-04-20 02:10:17",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2011
+        }
+    },
+    {
+        "contract_address": "0x1e7572fb16e176d40d28090e51a7a9ea08f68199",
+        "date_add": "2024-04-20 02:10:17",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1098
+        }
+    },
+    {
+        "contract_address": "0x8aa9381b2544b48c26f3b850f6e07e2c5161eb3e",
+        "date_add": "2024-04-20 02:10:17",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 156
+        }
+    },
+    {
+        "contract_address": "0x6e3eced086c65702ed42a3102380817af72750c8",
+        "date_add": "2024-04-20 02:10:17",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "RunesdogERC"
+        ],
+        "holders": {
+            "ETH": 34
+        }
     }
 ]
