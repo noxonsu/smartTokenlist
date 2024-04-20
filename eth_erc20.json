@@ -129687,7 +129687,10 @@
         ],
         "holders": {
             "ETH": 39
-        }
+        },
+        "web_domains": [
+            "shibabudz.org"
+        ]
     },
     {
         "contract_address": "0x276bdaae1e84fb779399844d422d89961b672f3f",
@@ -129695,7 +129698,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 9
-        }
+        },
+        "web_domains": [
+            "jry-media.store"
+        ]
     },
     {
         "contract_address": "0x8162b5bc8f651007cc38a09f557bab2bf4cefb5b",
@@ -129714,6 +129720,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 137
-        }
+        },
+        "web_domains": [
+            "deuslabs.com"
+        ]
     }
 ]
