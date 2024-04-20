@@ -129733,5 +129733,76 @@
             "info@deuslab.com"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x87be82bbd3e6f1c0871001f8eb4c12b60462c835",
+        "date_add": "2024-04-20 16:04:19",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 859
+        }
+    },
+    {
+        "contract_address": "0x3226df24de274d30f9229e96915f566bc23e9241",
+        "date_add": "2024-04-20 16:04:19",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pepe-boxer.com"
+        ],
+        "telegram_groups": [
+            "PepeBoxerPortal"
+        ],
+        "holders": {
+            "ETH": 76
+        }
+    },
+    {
+        "contract_address": "0x28d1291f91b10bbb193c64c154462ee6236b185c",
+        "date_add": "2024-04-20 16:04:19",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xdeeb7db39ff272680684c90c16f19c466060417b",
+        "date_add": "2024-04-20 16:04:19",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.skullcoin.cash"
+        ],
+        "telegram_groups": [
+            "skullcashcoin"
+        ],
+        "holders": {
+            "ETH": 79
+        }
+    },
+    {
+        "contract_address": "0x0fb6cc9272fdc8b9fffc61821fbd7cf026578c76",
+        "date_add": "2024-04-20 16:04:19",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 21
+        }
+    },
+    {
+        "contract_address": "0x26ee9f83c61193ea6b636001b1550cd0edf6ebad",
+        "date_add": "2024-04-20 16:04:19",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tokenmint.io"
+        ],
+        "holders": {
+            "ETH": 686
+        }
+    },
+    {
+        "contract_address": "0xf9fb4ad91812b704ba883b11d2b576e890a6730a",
+        "date_add": "2024-04-20 16:04:19",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 210
+        }
     }
 ]
