@@ -129304,5 +129304,56 @@
         "holders": {
             "ETH": 50895
         }
+    },
+    {
+        "contract_address": "0x937efa4a5ff9d65785691b70a1136aaf8ada7e62",
+        "date_add": "2024-04-20 06:04:43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 37
+        }
+    },
+    {
+        "contract_address": "0xf5e11df1ebcf78b6b6d26e04ff19cd786a1e81dc",
+        "date_add": "2024-04-20 06:04:43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x6d019e5b4a50315684ebe38a2d30f95ae1ec35e5",
+        "date_add": "2024-04-20 06:04:43",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "carbonable.io",
+            "carbonable.notion.site",
+            "www.linkedin.com",
+            "carbonable.medium.com",
+            "discord.com"
+        ],
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x9c41f52e735c3396dee026fa423db5d4018aebe3",
+        "date_add": "2024-04-20 06:04:43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x690c351f059c4963362cb75aab802a2b95ba2b0c",
+        "date_add": "2024-04-20 06:04:43",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.thruster.finance",
+            "discord.com"
+        ],
+        "holders": {
+            "ETH": 35
+        }
     }
 ]
