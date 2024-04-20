@@ -129653,5 +129653,67 @@
         "holders": {
             "ETH": 577
         }
+    },
+    {
+        "contract_address": "0x0a36f9565c6fb862509ad8d148941968344a55d8",
+        "date_add": "2024-04-20 14:04:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0x607496f14918891594177c24a983e901c1896e63",
+        "date_add": "2024-04-20 14:04:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 915
+        }
+    },
+    {
+        "contract_address": "0x13190f3479066dc6ab5b516e2229ce88cdbb0fdb",
+        "date_add": "2024-04-20 14:04:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 386
+        }
+    },
+    {
+        "contract_address": "0xc955faa911d7507aee0c0d7a2d5a79c79a041ab8",
+        "date_add": "2024-04-20 14:04:03",
+        "sourceScanned": "processed",
+        "emails": [
+            "support@shibabudz.org"
+        ],
+        "holders": {
+            "ETH": 39
+        }
+    },
+    {
+        "contract_address": "0x276bdaae1e84fb779399844d422d89961b672f3f",
+        "date_add": "2024-04-20 14:04:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9
+        }
+    },
+    {
+        "contract_address": "0x8162b5bc8f651007cc38a09f557bab2bf4cefb5b",
+        "date_add": "2024-04-20 14:04:03",
+        "sourceScanned": "processed",
+        "emails": [
+            "goncalo.sa@consensys.net"
+        ],
+        "holders": {
+            "ETH": 396
+        }
+    },
+    {
+        "contract_address": "0xba7d732929b5dce3a12ed6642a711f37630adf57",
+        "date_add": "2024-04-20 14:04:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 137
+        }
     }
 ]
