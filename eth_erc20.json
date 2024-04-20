@@ -129369,5 +129369,114 @@
         },
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x670ec8893da9c339d52fa70189756a92cafbe654",
+        "date_add": "2024-04-20 08:04:36",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "potterpredator.com"
+        ],
+        "telegram_groups": [
+            "PPV4LD3M0RT"
+        ],
+        "holders": {
+            "ETH": 1381
+        }
+    },
+    {
+        "contract_address": "0x2bb8856d67d56f7e8bf8978a49a228294cc56773",
+        "date_add": "2024-04-20 08:04:36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0xf49f16cd3370fb4ccd6c99e1c6f465d53fdec793",
+        "date_add": "2024-04-20 08:04:36",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.playbux.co",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "playbuxchannel"
+        ],
+        "holders": {
+            "ETH": 50
+        }
+    },
+    {
+        "contract_address": "0xd56576d210dfc714f5037484295bc38720abb330",
+        "date_add": "2024-04-20 08:04:36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 34
+        }
+    },
+    {
+        "contract_address": "0x15fe2a54c28e0dcc13d389348137bb94c1f30eb3",
+        "date_add": "2024-04-20 08:04:36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 29
+        }
+    },
+    {
+        "contract_address": "0x78da5799cf427fee11e9996982f4150ece7a99a7",
+        "date_add": "2024-04-20 08:04:36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0x20bb4a325924917e3336753ba5350a84f70f392e",
+        "date_add": "2024-04-20 08:04:36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x406b5bc99fca5cc176283f3848fb001face24798",
+        "date_add": "2024-04-20 08:04:36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x6ff81d5cc318edac5d0dbab0469a210ef9a5c36a",
+        "date_add": "2024-04-20 08:04:36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10
+        }
+    },
+    {
+        "contract_address": "0x685a7d20de821761d2f56c718591bfe862086533",
+        "date_add": "2024-04-20 08:04:36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x2c7f442aab99d5e18cfae2291c507c0b5f3c1eb5",
+        "date_add": "2024-04-20 08:04:36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 634
+        }
+    },
+    {
+        "contract_address": "0x7b9a74cc04a43a3a1212d4784e7866fc2592707a",
+        "date_add": "2024-04-20 08:04:36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 76
+        }
     }
 ]
