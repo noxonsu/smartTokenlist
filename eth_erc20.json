@@ -129245,7 +129245,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 156
-        }
+        },
+        "web_domains": [
+            "wdoge.tech"
+        ]
     },
     {
         "contract_address": "0x6e3eced086c65702ed42a3102380817af72750c8",
