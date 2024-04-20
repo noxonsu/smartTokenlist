@@ -129907,7 +129907,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 92
-        }
+        },
+        "web_domains": [
+            "simpson.house.gov"
+        ]
     },
     {
         "contract_address": "0x5deae0c6226aed0ae6fdbd1ca0581285dbbbbf3c",
@@ -129931,6 +129934,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 41
-        }
+        },
+        "web_domains": [
+            "uwulend.fi"
+        ]
     }
 ]
