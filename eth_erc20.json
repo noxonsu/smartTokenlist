@@ -129891,7 +129891,8 @@
         ],
         "holders": {
             "ETH": 323
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe4f574daabdb615b1f20b3d4bef5fe09c7b1aa08",
@@ -129910,7 +129911,9 @@
         },
         "web_domains": [
             "simpson.house.gov"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x5deae0c6226aed0ae6fdbd1ca0581285dbbbbf3c",
@@ -129937,6 +129940,8 @@
         },
         "web_domains": [
             "uwulend.fi"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
