@@ -129064,7 +129064,8 @@
         ],
         "holders": {
             "ETH": 20
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf9ff1b9cead7ce0af3227486a27b0b2e0a5841c2",
@@ -129091,7 +129092,9 @@
         },
         "web_domains": [
             "pongopoetryproject.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9a085d0b95a7c9b25b8d3f40ab89cb23c323b65e",
@@ -129102,13 +129105,16 @@
         },
         "web_domains": [
             "bwpc.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4880c2032a6279773b1ac48205c09e94f03a3154",
         "date_add": "2024-04-20 00:15:10",
         "sourceScanned": "processed",
         "telegram_groups": [
+            "monatoken",
             "Monatokeneth"
         ],
         "holders": {
@@ -129116,7 +129122,8 @@
         },
         "web_domains": [
             "monatoken.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe0284b1a69321af02b565365eae1a7be844c94db",
@@ -129127,7 +129134,11 @@
         ],
         "holders": {
             "ETH": 31
-        }
+        },
+        "telegram_groups": [
+            "bouncebit"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8d48b8d948726d4636aa15a9d6124422f461e153",
@@ -129146,7 +129157,11 @@
         },
         "web_domains": [
             "wienerdog.ai"
-        ]
+        ],
+        "telegram_groups": [
+            "WienerAi"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x781fbc4c6edf7a37dcc08a3b323f122e8a09eac5",
