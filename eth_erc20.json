@@ -129494,7 +129494,12 @@
         ],
         "holders": {
             "ETH": 19
-        }
+        },
+        "telegram_groups": [],
+        "emails": [
+            "info@monprotocol.ai"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc53342fd7575f572b0ff4569e31941a5b821ac76",
@@ -129516,7 +129521,9 @@
         },
         "web_domains": [
             "taotrade.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x00aba6fe5557de1a1d565658cbddddf7c710a1eb",
@@ -129538,7 +129545,8 @@
         ],
         "holders": {
             "ETH": 339
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe27afdfd012e07203d5ae12301448df8cb27beff",
@@ -129561,7 +129569,11 @@
         ],
         "holders": {
             "ETH": 135
-        }
+        },
+        "emails": [
+            "info@mysite.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7e6d55c8df6e82afbc76620561cfb99196ac090c",
@@ -129574,7 +129586,9 @@
         ],
         "holders": {
             "ETH": 19
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf1e34d19f63b69eaa70952f2f64f735849959833",
@@ -129607,6 +129621,8 @@
         },
         "web_domains": [
             "dogekart.vercel.app"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
