@@ -129405,7 +129405,8 @@
         ],
         "holders": {
             "ETH": 50
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd56576d210dfc714f5037484295bc38720abb330",
@@ -129416,7 +129417,9 @@
         },
         "web_domains": [
             "coin98.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x15fe2a54c28e0dcc13d389348137bb94c1f30eb3",
