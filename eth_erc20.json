@@ -129754,7 +129754,8 @@
         ],
         "holders": {
             "ETH": 76
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x28d1291f91b10bbb193c64c154462ee6236b185c",
@@ -129765,7 +129766,12 @@
         },
         "web_domains": [
             "towelie.vip"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "Towelietoken@proton.me"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdeeb7db39ff272680684c90c16f19c466060417b",
@@ -129779,7 +129785,8 @@
         ],
         "holders": {
             "ETH": 79
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0fb6cc9272fdc8b9fffc61821fbd7cf026578c76",
@@ -129790,7 +129797,11 @@
         },
         "web_domains": [
             "zkasino.io"
-        ]
+        ],
+        "telegram_groups": [
+            "ZKasino"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x26ee9f83c61193ea6b636001b1550cd0edf6ebad",
