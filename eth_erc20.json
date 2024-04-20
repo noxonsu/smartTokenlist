@@ -129861,5 +129861,76 @@
         "holders": {
             "ETH": 5
         }
+    },
+    {
+        "contract_address": "0x050e978e655e3b7f69d6f9fd431cb50dbcb5d850",
+        "date_add": "2024-04-20 22:04:28",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 474
+        }
+    },
+    {
+        "contract_address": "0xb929b89153fc2eed442e81e5a1add4e2fa39028f",
+        "date_add": "2024-04-20 22:04:28",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 240
+        }
+    },
+    {
+        "contract_address": "0x3353e39196dde4a2dc967fd93a79dc8e6ab0e03e",
+        "date_add": "2024-04-20 22:04:28",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "groundedrwa.com",
+            "docs.groundedrwa.com"
+        ],
+        "telegram_groups": [
+            "GroundedRWA_portal"
+        ],
+        "holders": {
+            "ETH": 323
+        }
+    },
+    {
+        "contract_address": "0xe4f574daabdb615b1f20b3d4bef5fe09c7b1aa08",
+        "date_add": "2024-04-20 22:04:28",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0xaa7d60d66d8a055ea9673e0c29f203c200a3d197",
+        "date_add": "2024-04-20 22:04:28",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 92
+        }
+    },
+    {
+        "contract_address": "0x5deae0c6226aed0ae6fdbd1ca0581285dbbbbf3c",
+        "date_add": "2024-04-20 22:04:28",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0x6c6332b631ac68455ec85ded534e6721fd6ec2f6",
+        "date_add": "2024-04-20 22:04:28",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x4ca9c6f89758877b78a44e57fd8feb89b4c42b8c",
+        "date_add": "2024-04-20 22:04:28",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 41
+        }
     }
 ]
