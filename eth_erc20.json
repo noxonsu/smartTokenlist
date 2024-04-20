@@ -129311,7 +129311,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 37
-        }
+        },
+        "web_domains": [
+            "ans.gg"
+        ]
     },
     {
         "contract_address": "0xf5e11df1ebcf78b6b6d26e04ff19cd786a1e81dc",
@@ -129342,7 +129345,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 2
-        }
+        },
+        "web_domains": [
+            "catelon.net"
+        ]
     },
     {
         "contract_address": "0x690c351f059c4963362cb75aab802a2b95ba2b0c",
