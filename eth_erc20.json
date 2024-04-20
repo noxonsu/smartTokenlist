@@ -129624,5 +129624,29 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x68318357c77c3b7ca43aefa15c56a741e7b84fe9",
+        "date_add": "2024-04-20 12:05:15",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0xd25ee8509302bd23dc11d1ab867fe995cdd7b531",
+        "date_add": "2024-04-20 12:05:15",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x4b2e76ebbc9f2923d83f5fbde695d8733db1a17b",
+        "date_add": "2024-04-20 12:05:15",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 577
+        }
     }
 ]
