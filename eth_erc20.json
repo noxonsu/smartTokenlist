@@ -129690,7 +129690,9 @@
         },
         "web_domains": [
             "shibabudz.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x276bdaae1e84fb779399844d422d89961b672f3f",
@@ -129701,7 +129703,9 @@
         },
         "web_domains": [
             "jry-media.store"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8162b5bc8f651007cc38a09f557bab2bf4cefb5b",
@@ -129723,6 +129727,11 @@
         },
         "web_domains": [
             "deuslabs.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "info@deuslab.com"
+        ],
+        "p6": true
     }
 ]
