@@ -129484,5 +129484,123 @@
         "holders": {
             "ETH": 76
         }
+    },
+    {
+        "contract_address": "0x6ccd4754105c7bd0f86fe9d6b5fec1e84089e6c6",
+        "date_add": "2024-04-20 10:04:28",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.monprotocol.ai"
+        ],
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0xc53342fd7575f572b0ff4569e31941a5b821ac76",
+        "date_add": "2024-04-20 10:04:28",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@volmexlabs.com"
+        ],
+        "holders": {
+            "ETH": 788
+        }
+    },
+    {
+        "contract_address": "0x522065cf2beddabbb85cd4a140a32c08ae3e22f1",
+        "date_add": "2024-04-20 10:04:28",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 209
+        }
+    },
+    {
+        "contract_address": "0x00aba6fe5557de1a1d565658cbddddf7c710a1eb",
+        "date_add": "2024-04-20 10:04:28",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4001
+        }
+    },
+    {
+        "contract_address": "0x5e197940de82ac02614d9463de90c7088d8071ec",
+        "date_add": "2024-04-20 10:04:28",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "shillcoin.vip"
+        ],
+        "telegram_groups": [
+            "shillErc"
+        ],
+        "holders": {
+            "ETH": 339
+        }
+    },
+    {
+        "contract_address": "0xe27afdfd012e07203d5ae12301448df8cb27beff",
+        "date_add": "2024-04-20 10:04:28",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0xdb725274e951489c975c177916cd566783459139",
+        "date_add": "2024-04-20 10:04:28",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.shibiinu.com",
+            "shibi-inu.gitbook.io"
+        ],
+        "telegram_groups": [
+            "ShibiInuErc20"
+        ],
+        "holders": {
+            "ETH": 135
+        }
+    },
+    {
+        "contract_address": "0x7e6d55c8df6e82afbc76620561cfb99196ac090c",
+        "date_add": "2024-04-20 10:04:28",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ohbabygames.com",
+            "www.linkedin.com",
+            "youtube.com"
+        ],
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0xf1e34d19f63b69eaa70952f2f64f735849959833",
+        "date_add": "2024-04-20 10:04:28",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 17
+        }
+    },
+    {
+        "contract_address": "0x871305d2f5e3c820c97eb59184449eee4b0bb9f3",
+        "date_add": "2024-04-20 10:04:28",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.mona-origin.com"
+        ],
+        "telegram_groups": [
+            "MonaToken_ERC"
+        ],
+        "holders": {
+            "ETH": 531
+        }
+    },
+    {
+        "contract_address": "0x8164625f97467aa0c6d64716b52c44086829475a",
+        "date_add": "2024-04-20 10:04:28",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 35
+        }
     }
 ]
