@@ -129277,7 +129277,9 @@
         },
         "web_domains": [
             "schrodinger.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9c73879f795cefa1d5239de08d1b6aba2d2d1434",
