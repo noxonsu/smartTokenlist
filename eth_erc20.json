@@ -129248,7 +129248,14 @@
         },
         "web_domains": [
             "wdoge.tech"
-        ]
+        ],
+        "telegram_groups": [
+            "wdogeok"
+        ],
+        "emails": [
+            "devs@wdoge.tech"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6e3eced086c65702ed42a3102380817af72750c8",
