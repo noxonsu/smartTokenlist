@@ -129762,7 +129762,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "towelie.vip"
+        ]
     },
     {
         "contract_address": "0xdeeb7db39ff272680684c90c16f19c466060417b",
@@ -129784,7 +129787,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 21
-        }
+        },
+        "web_domains": [
+            "zkasino.io"
+        ]
     },
     {
         "contract_address": "0x26ee9f83c61193ea6b636001b1550cd0edf6ebad",
