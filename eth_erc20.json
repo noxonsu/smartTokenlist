@@ -129821,5 +129821,44 @@
         "holders": {
             "ETH": 210
         }
+    },
+    {
+        "contract_address": "0xd7ef41b548e7f7531682497e0d4e0e89b1c8b6c0",
+        "date_add": "2024-04-20 18:05:17",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x6d551bd441fb65513c0d815747b3409c1eb56886",
+        "date_add": "2024-04-20 18:05:17",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "skyraiders.app",
+            "docs.skyraiders.app"
+        ],
+        "telegram_groups": [
+            "skyraiders_game"
+        ],
+        "holders": {
+            "ETH": 178
+        }
+    },
+    {
+        "contract_address": "0x7093f6141293f7c4f67e5efd922ac934402e452d",
+        "date_add": "2024-04-20 18:05:17",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x2c4ea51d9dec7cdabe2d1bde01882f87b5231d21",
+        "date_add": "2024-04-20 18:05:17",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
     }
 ]
