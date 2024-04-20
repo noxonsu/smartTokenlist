@@ -129274,7 +129274,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 184
-        }
+        },
+        "web_domains": [
+            "schrodinger.com"
+        ]
     },
     {
         "contract_address": "0x9c73879f795cefa1d5239de08d1b6aba2d2d1434",
