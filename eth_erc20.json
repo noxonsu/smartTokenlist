@@ -129314,7 +129314,9 @@
         },
         "web_domains": [
             "ans.gg"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf5e11df1ebcf78b6b6d26e04ff19cd786a1e81dc",
@@ -129337,7 +129339,9 @@
         ],
         "holders": {
             "ETH": 19
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9c41f52e735c3396dee026fa423db5d4018aebe3",
@@ -129348,7 +129352,9 @@
         },
         "web_domains": [
             "catelon.net"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x690c351f059c4963362cb75aab802a2b95ba2b0c",
@@ -129360,6 +129366,8 @@
         ],
         "holders": {
             "ETH": 35
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     }
 ]
