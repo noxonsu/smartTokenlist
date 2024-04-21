@@ -130039,5 +130039,90 @@
         "holders": {
             "ETH": 23
         }
+    },
+    {
+        "contract_address": "0x4bc32b8169b2f378c359d7a631a9067d643523e0",
+        "date_add": "2024-04-21 02:13:39",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 22
+        }
+    },
+    {
+        "contract_address": "0x438691e8d9098dce98286cbc1c307e660cf0bbd8",
+        "date_add": "2024-04-21 02:13:39",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 588
+        }
+    },
+    {
+        "contract_address": "0x5c0d0d7c8051f912cfe6ee518a38fa856990d107",
+        "date_add": "2024-04-21 02:13:39",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Runesshib"
+        ],
+        "holders": {
+            "ETH": 37
+        }
+    },
+    {
+        "contract_address": "0x38731663070c657fcda75bbc75967539e096149c",
+        "date_add": "2024-04-21 02:13:39",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "moonbased.org",
+            "docs.moonbased.org"
+        ],
+        "telegram_groups": [
+            "moonbasedeth"
+        ],
+        "holders": {
+            "ETH": 73
+        }
+    },
+    {
+        "contract_address": "0x4999abc1d0b4e2cd10e11678914f512d7eca45a8",
+        "date_add": "2024-04-21 02:13:39",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8
+        }
+    },
+    {
+        "contract_address": "0xf2fed4a7a8d1cc2db73ae0439e07db21d0d58bd9",
+        "date_add": "2024-04-21 02:13:39",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 59
+        }
+    },
+    {
+        "contract_address": "0x4b49d1c3e99f2dcd7487a513d8a38d84b85f0048",
+        "date_add": "2024-04-21 02:13:39",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 309
+        }
+    },
+    {
+        "contract_address": "0x7438a5747e833699a907cc0918b93865b9fc64f3",
+        "date_add": "2024-04-21 02:13:39",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "glasscoinerc20"
+        ],
+        "holders": {
+            "ETH": 337
+        }
+    },
+    {
+        "contract_address": "0x24e89bdf2f65326b94e36978a7edeac63623dafa",
+        "date_add": "2024-04-21 02:13:39",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 15544
+        }
     }
 ]
