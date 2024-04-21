@@ -130265,7 +130265,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 27
-        }
+        },
+        "web_domains": [
+            "hachi100.visitakita.com"
+        ]
     },
     {
         "contract_address": "0x508df5aa4746be37b5b6a69684dfd8bdc322219d",
