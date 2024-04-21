@@ -130258,5 +130258,40 @@
         "holders": {
             "ETH": 58
         }
+    },
+    {
+        "contract_address": "0x25665a8a05701cea495084b78dbedd16d12629e2",
+        "date_add": "2024-04-21 08:04:38",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 27
+        }
+    },
+    {
+        "contract_address": "0x508df5aa4746be37b5b6a69684dfd8bdc322219d",
+        "date_add": "2024-04-21 08:04:38",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1667
+        }
+    },
+    {
+        "contract_address": "0x0fa2b8ad4b9d09ea0c5bd1fe9a5332e162a3f1c7",
+        "date_add": "2024-04-21 08:04:38",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "runesterminal.io"
+        ],
+        "holders": {
+            "ETH": 21
+        }
+    },
+    {
+        "contract_address": "0xeaba187306335dd773ca8042b3792c46e213636a",
+        "date_add": "2024-04-21 08:04:38",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2207
+        }
     }
 ]
