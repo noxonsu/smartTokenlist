@@ -130782,7 +130782,9 @@
         },
         "web_domains": [
             "optaplayerstats.statsperform.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
@@ -130804,7 +130806,8 @@
         ],
         "holders": {
             "ETH": 156
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9ab51734fc5d5fdd8abb58941840a5df1e3f3a99",
@@ -130818,7 +130821,11 @@
         ],
         "holders": {
             "ETH": 259
-        }
+        },
+        "emails": [
+            "mail : admin@olympiaai.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf15e95d91f6701ac2d04225bfaed209e6db008f1",
@@ -130829,7 +130836,9 @@
         },
         "web_domains": [
             "calaborfed.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x99d84a2e9df0655ec01a638342495dbd3271bd9f",
@@ -130840,12 +130849,13 @@
             "docs.redrune.tech"
         ],
         "telegram_groups": [
-            "redrune",
-            "RedRuneBot"
+            "RedRuneBot",
+            "redrune"
         ],
         "holders": {
             "ETH": 250
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x41410b1b53ff8919298af94fd7dd44936ccfc0da",
@@ -130856,7 +130866,9 @@
         },
         "web_domains": [
             "ouchrh.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8c85f830bea7d21c71cbd0047aa6de0d7acf3262",
