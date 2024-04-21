@@ -130385,5 +130385,69 @@
         "holders": {
             "ETH": 511
         }
+    },
+    {
+        "contract_address": "0xa6bbb91fc7029e259f590195c21c57d26f480835",
+        "date_add": "2024-04-21 12:06:18",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "runecoin.io",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "runecoin"
+        ],
+        "holders": {
+            "ETH": 55
+        }
+    },
+    {
+        "contract_address": "0xb45ad160634c528cc3d2926d9807104fa3157305",
+        "date_add": "2024-04-21 12:06:18",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0xe09f1b2b5e4cda876785ef02f2db95f5eee69d38",
+        "date_add": "2024-04-21 12:06:18",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 31
+        }
+    },
+    {
+        "contract_address": "0x6eb818a4bf1f731226fe3d9f16942e68b4e8c50f",
+        "date_add": "2024-04-21 12:06:18",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 864
+        }
+    },
+    {
+        "contract_address": "0x73476a2595d856758a99c3058411396d2727ab7c",
+        "date_add": "2024-04-21 12:06:18",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "cheemsethcoin"
+        ],
+        "holders": {
+            "ETH": 130
+        }
+    },
+    {
+        "contract_address": "0xeeecd285f60e802ecb6d8d8d37790c887f9a4b33",
+        "date_add": "2024-04-21 12:06:18",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bigtomerc.com"
+        ],
+        "telegram_groups": [
+            "BigTomERC"
+        ],
+        "holders": {
+            "ETH": 371
+        }
     }
 ]
