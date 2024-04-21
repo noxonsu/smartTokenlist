@@ -130046,7 +130046,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 22
-        }
+        },
+        "web_domains": [
+            "skateea.com"
+        ]
     },
     {
         "contract_address": "0x438691e8d9098dce98286cbc1c307e660cf0bbd8",
@@ -130065,7 +130068,10 @@
         ],
         "holders": {
             "ETH": 37
-        }
+        },
+        "web_domains": [
+            "lolacoin.org"
+        ]
     },
     {
         "contract_address": "0x38731663070c657fcda75bbc75967539e096149c",
@@ -130096,7 +130102,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 59
-        }
+        },
+        "web_domains": [
+            "salt.security"
+        ]
     },
     {
         "contract_address": "0x4b49d1c3e99f2dcd7487a513d8a38d84b85f0048",
