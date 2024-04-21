@@ -130597,7 +130597,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 61
-        }
+        },
+        "web_domains": [
+            "only1.app"
+        ]
     },
     {
         "contract_address": "0xe701c284ed9de407da905d918d06dd94f0908c3a",
@@ -130605,7 +130608,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 9
-        }
+        },
+        "web_domains": [
+            "lambdalambdalambda.org"
+        ]
     },
     {
         "contract_address": "0x4c917a6f6cebdde6d5ad57c05913e72a15fe2eb3",
@@ -130642,7 +130648,10 @@
         ],
         "holders": {
             "ETH": 38
-        }
+        },
+        "web_domains": [
+            "perpex.io"
+        ]
     },
     {
         "contract_address": "0x70906a0452233c78ef0c5caf04b9a9df8bd4a12a",
