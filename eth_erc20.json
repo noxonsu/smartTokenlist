@@ -130728,7 +130728,11 @@
         ],
         "holders": {
             "ETH": 116
-        }
+        },
+        "emails": [
+            "Team@DORKLORD.xyz"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x23113c8aa9db1f583ea1f17563dd927819f49cfe",
@@ -130748,7 +130752,9 @@
         ],
         "holders": {
             "ETH": 83
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0adcfdfe9e88d28cc4c1daac9cc021067aff9b0c",
@@ -130759,11 +130765,12 @@
             "tokenmint.io"
         ],
         "telegram_groups": [
-            "AnimalFam_xyz",
-            "AnimalFam_news"
+            "AnimalFam_news",
+            "AnimalFam_xyz"
         ],
         "holders": {
             "ETH": 262
-        }
+        },
+        "p6": true
     }
 ]
