@@ -130493,7 +130493,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 18
-        }
+        },
+        "web_domains": [
+            "thedogeverse.com"
+        ]
     },
     {
         "contract_address": "0x573a918e96ea33c087ab65bcf90b46fa79877239",
@@ -130501,7 +130504,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 61
-        }
+        },
+        "web_domains": [
+            "oekakimaker.net"
+        ]
     },
     {
         "contract_address": "0x0110b0c3391584ba24dbf8017bf462e9f78a6d9f",
@@ -130525,7 +130531,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 166
-        }
+        },
+        "web_domains": [
+            "gummybearshop.com"
+        ]
     },
     {
         "contract_address": "0xc82f5493ae32b43ea8a4df118f3bf0a518e903e4",
@@ -130533,7 +130542,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 30
-        }
+        },
+        "web_domains": [
+            "d2runewizard.com"
+        ]
     },
     {
         "contract_address": "0xe76d0d6425223433a7c49761545254e648e0dc03",
@@ -130544,6 +130556,9 @@
         ],
         "holders": {
             "ETH": 87
-        }
+        },
+        "web_domains": [
+            "zogz.fun"
+        ]
     }
 ]
