@@ -130160,7 +130160,12 @@
         },
         "web_domains": [
             "michiganfineyarns.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "\n  support@michiganfineyarns.com\n"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe1fa71660cdfd1849125d7e2b44af8478e3a9a86",
