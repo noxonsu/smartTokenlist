@@ -130675,5 +130675,43 @@
             "ETH": 261
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x95fe3151105ad90c6dc30dc51fdf038ae7bb7f77",
+        "date_add": "2024-04-21 18:05:11",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blackder.ai"
+        ],
+        "telegram_groups": [
+            "blackder_ai"
+        ],
+        "holders": {
+            "ETH": 280
+        }
+    },
+    {
+        "contract_address": "0x4fc76d40b630b816de4f71a674c24edc24ff12fd",
+        "date_add": "2024-04-21 18:05:11",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "anoncard.org",
+            "docs.anoncard.org"
+        ],
+        "telegram_groups": [
+            "anonCardsBot",
+            "AnonCard_erc"
+        ],
+        "holders": {
+            "ETH": 232
+        }
+    },
+    {
+        "contract_address": "0xf98409b842399b1f45b0f999124fad2e3cb1d573",
+        "date_add": "2024-04-21 18:05:11",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 60
+        }
     }
 ]
