@@ -130715,5 +130715,55 @@
         "holders": {
             "ETH": 60
         }
+    },
+    {
+        "contract_address": "0x4d342ea547a478636781e5a9c2619de763112211",
+        "date_add": "2024-04-21 20:04:55",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dorklorderc.vip"
+        ],
+        "telegram_groups": [
+            "DorkLordEthereum"
+        ],
+        "holders": {
+            "ETH": 116
+        }
+    },
+    {
+        "contract_address": "0x23113c8aa9db1f583ea1f17563dd927819f49cfe",
+        "date_add": "2024-04-21 20:04:55",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 902
+        }
+    },
+    {
+        "contract_address": "0x67466be17df832165f8c80a5a120ccc652bd7e69",
+        "date_add": "2024-04-21 20:04:55",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "boysclubwolf.com",
+            "boysclubwolf.com"
+        ],
+        "holders": {
+            "ETH": 83
+        }
+    },
+    {
+        "contract_address": "0x0adcfdfe9e88d28cc4c1daac9cc021067aff9b0c",
+        "date_add": "2024-04-21 20:04:55",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "animalfam.xyz",
+            "tokenmint.io"
+        ],
+        "telegram_groups": [
+            "AnimalFam_xyz",
+            "AnimalFam_news"
+        ],
+        "holders": {
+            "ETH": 262
+        }
     }
 ]
