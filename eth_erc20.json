@@ -130479,13 +130479,15 @@
             "www.binance.com"
         ],
         "telegram_groups": [
-            "zkasino_legal_task_force",
             "ZKasino_weiquan",
+            "zkasino_legal_task_force",
+            "BeInCryptoCommunity",
             "monkewifhat_entry"
         ],
         "holders": {
             "ETH": 26
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf7cff7098a431a905970962eb86044ce6e7a0412",
@@ -130496,7 +130498,11 @@
         },
         "web_domains": [
             "thedogeverse.com"
-        ]
+        ],
+        "telegram_groups": [
+            "The_DogeVerse"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x573a918e96ea33c087ab65bcf90b46fa79877239",
@@ -130507,7 +130513,9 @@
         },
         "web_domains": [
             "oekakimaker.net"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0110b0c3391584ba24dbf8017bf462e9f78a6d9f",
@@ -130534,7 +130542,12 @@
         },
         "web_domains": [
             "gummybearshop.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            " questions@gummybearshop.com "
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc82f5493ae32b43ea8a4df118f3bf0a518e903e4",
@@ -130545,7 +130558,9 @@
         },
         "web_domains": [
             "d2runewizard.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe76d0d6425223433a7c49761545254e648e0dc03",
@@ -130559,6 +130574,7 @@
         },
         "web_domains": [
             "zogz.fun"
-        ]
+        ],
+        "p6": true
     }
 ]
