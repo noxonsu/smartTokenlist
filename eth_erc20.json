@@ -130308,5 +130308,77 @@
         "holders": {
             "ETH": 2207
         }
+    },
+    {
+        "contract_address": "0x65d1dc00c60967fb12ea020a9abde7f836e6f483",
+        "date_add": "2024-04-21 10:04:05",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "rattycoin.vip"
+        ],
+        "telegram_groups": [
+            "RattyCoinEth"
+        ],
+        "holders": {
+            "ETH": 183
+        }
+    },
+    {
+        "contract_address": "0x2580bdd79a9773f79bc7e871d9fee426256c08af",
+        "date_add": "2024-04-21 10:04:05",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools"
+        ],
+        "holders": {
+            "ETH": 349
+        }
+    },
+    {
+        "contract_address": "0xd0e4066e2bf40cffcf7863c8be103c88693142fd",
+        "date_add": "2024-04-21 10:04:05",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sophon.xyz"
+        ],
+        "holders": {
+            "ETH": 62
+        }
+    },
+    {
+        "contract_address": "0x83f31e2ff63b39875e3bea1e652b4424af322230",
+        "date_add": "2024-04-21 10:04:05",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0x4a8104822cd322ef79ea6107ea5f4932b17cac9b",
+        "date_add": "2024-04-21 10:04:05",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "kroogcoinerc"
+        ],
+        "holders": {
+            "ETH": 445
+        }
+    },
+    {
+        "contract_address": "0xbf94a2ceeaa256a0444970176813be7841147f18",
+        "date_add": "2024-04-21 10:04:05",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "redhotcockcoin.com"
+        ],
+        "telegram_groups": [
+            "REDHOTCOCKCOIN"
+        ],
+        "holders": {
+            "ETH": 511
+        }
     }
 ]
