@@ -130268,7 +130268,12 @@
         },
         "web_domains": [
             "hachi100.visitakita.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "E-mail\uff1a hachi100.odate@gmail.com\n    "
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x508df5aa4746be37b5b6a69684dfd8bdc322219d",
@@ -130287,7 +130292,14 @@
         ],
         "holders": {
             "ETH": 21
-        }
+        },
+        "telegram_groups": [
+            "runesterminal_official"
+        ],
+        "emails": [
+            "sats@runesterminal.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xeaba187306335dd773ca8042b3792c46e213636a",
