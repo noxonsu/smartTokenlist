@@ -130407,7 +130407,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 12
-        }
+        },
+        "web_domains": [
+            "inverse.finance"
+        ]
     },
     {
         "contract_address": "0xe09f1b2b5e4cda876785ef02f2db95f5eee69d38",
@@ -130415,7 +130418,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 31
-        }
+        },
+        "web_domains": [
+            "saltoptics.com"
+        ]
     },
     {
         "contract_address": "0x6eb818a4bf1f731226fe3d9f16942e68b4e8c50f",
