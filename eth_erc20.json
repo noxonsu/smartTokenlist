@@ -130772,5 +130772,89 @@
             "ETH": 262
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x2e1cb26689a0b8763d15ffe9d7b1c637cd9282d4",
+        "date_add": "2024-04-21 22:04:12",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 146
+        }
+    },
+    {
+        "contract_address": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
+        "date_add": "2024-04-21 22:04:12",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 591
+        }
+    },
+    {
+        "contract_address": "0x5e8449e362088322ca0eac2c59af585c56b8c3db",
+        "date_add": "2024-04-21 22:04:12",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dickbuttcoin.vip"
+        ],
+        "telegram_groups": [
+            "BUTT_portal"
+        ],
+        "holders": {
+            "ETH": 156
+        }
+    },
+    {
+        "contract_address": "0x9ab51734fc5d5fdd8abb58941840a5df1e3f3a99",
+        "date_add": "2024-04-21 22:04:12",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "olympiaai.io"
+        ],
+        "telegram_groups": [
+            "Olympiaai"
+        ],
+        "holders": {
+            "ETH": 259
+        }
+    },
+    {
+        "contract_address": "0xf15e95d91f6701ac2d04225bfaed209e6db008f1",
+        "date_add": "2024-04-21 22:04:12",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 17
+        }
+    },
+    {
+        "contract_address": "0x99d84a2e9df0655ec01a638342495dbd3271bd9f",
+        "date_add": "2024-04-21 22:04:12",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "redrune.tech",
+            "docs.redrune.tech"
+        ],
+        "telegram_groups": [
+            "redrune",
+            "RedRuneBot"
+        ],
+        "holders": {
+            "ETH": 250
+        }
+    },
+    {
+        "contract_address": "0x41410b1b53ff8919298af94fd7dd44936ccfc0da",
+        "date_add": "2024-04-21 22:04:12",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 177
+        }
+    },
+    {
+        "contract_address": "0x8c85f830bea7d21c71cbd0047aa6de0d7acf3262",
+        "date_add": "2024-04-21 22:04:12",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 94
+        }
     }
 ]
