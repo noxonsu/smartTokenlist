@@ -129953,7 +129953,9 @@
         },
         "web_domains": [
             "xinehq.de"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7c68e725b0b2ffcba8947fded4198c3d1db041e6",
@@ -130026,7 +130028,9 @@
         },
         "web_domains": [
             "messari.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9da27db14e1efd53b55458162ef73b525bd611c3",
