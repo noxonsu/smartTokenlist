@@ -129950,7 +129950,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 274
-        }
+        },
+        "web_domains": [
+            "xinehq.de"
+        ]
     },
     {
         "contract_address": "0x7c68e725b0b2ffcba8947fded4198c3d1db041e6",
@@ -130020,7 +130023,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 5
-        }
+        },
+        "web_domains": [
+            "messari.io"
+        ]
     },
     {
         "contract_address": "0x9da27db14e1efd53b55458162ef73b525bd611c3",
