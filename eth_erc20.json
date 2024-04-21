@@ -130157,7 +130157,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 29
-        }
+        },
+        "web_domains": [
+            "michiganfineyarns.com"
+        ]
     },
     {
         "contract_address": "0xe1fa71660cdfd1849125d7e2b44af8478e3a9a86",
