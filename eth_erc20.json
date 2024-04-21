@@ -130049,7 +130049,9 @@
         },
         "web_domains": [
             "skateea.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x438691e8d9098dce98286cbc1c307e660cf0bbd8",
@@ -130071,7 +130073,8 @@
         },
         "web_domains": [
             "lolacoin.org"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x38731663070c657fcda75bbc75967539e096149c",
@@ -130082,11 +130085,15 @@
             "docs.moonbased.org"
         ],
         "telegram_groups": [
-            "moonbasedeth"
+            "devpluma",
+            "richardzmillie",
+            "moonbasedeth",
+            "MoonBasedETH"
         ],
         "holders": {
             "ETH": 73
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4999abc1d0b4e2cd10e11678914f512d7eca45a8",
@@ -130105,7 +130112,9 @@
         },
         "web_domains": [
             "salt.security"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4b49d1c3e99f2dcd7487a513d8a38d84b85f0048",
