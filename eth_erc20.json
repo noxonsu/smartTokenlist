@@ -130461,5 +130461,89 @@
             "ETH": 371
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x0ec72cd6690db40b16be166858299f19d4f8e5b0",
+        "date_add": "2024-04-21 14:04:48",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1077
+        }
+    },
+    {
+        "contract_address": "0x5f5804902611a89159cf2f36e1be18ff75575e64",
+        "date_add": "2024-04-21 14:04:48",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "beincrypto.com",
+            "www.binance.com"
+        ],
+        "telegram_groups": [
+            "zkasino_legal_task_force",
+            "ZKasino_weiquan",
+            "monkewifhat_entry"
+        ],
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0xf7cff7098a431a905970962eb86044ce6e7a0412",
+        "date_add": "2024-04-21 14:04:48",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0x573a918e96ea33c087ab65bcf90b46fa79877239",
+        "date_add": "2024-04-21 14:04:48",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 61
+        }
+    },
+    {
+        "contract_address": "0x0110b0c3391584ba24dbf8017bf462e9f78a6d9f",
+        "date_add": "2024-04-21 14:04:48",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0x2837ce4fe3ea4b9073bcb7174d7daca53fc29221",
+        "date_add": "2024-04-21 14:04:48",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 68
+        }
+    },
+    {
+        "contract_address": "0x847b822017cdb742ef2766a162d3e78afc01e66c",
+        "date_add": "2024-04-21 14:04:48",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 166
+        }
+    },
+    {
+        "contract_address": "0xc82f5493ae32b43ea8a4df118f3bf0a518e903e4",
+        "date_add": "2024-04-21 14:04:48",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0xe76d0d6425223433a7c49761545254e648e0dc03",
+        "date_add": "2024-04-21 14:04:48",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ZOGZPortal"
+        ],
+        "holders": {
+            "ETH": 87
+        }
     }
 ]
