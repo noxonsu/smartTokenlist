@@ -130184,7 +130184,9 @@
         },
         "web_domains": [
             "shitcoins.club"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x301754c3d5c9307d8efc640158622851aad03771",
@@ -130203,7 +130205,12 @@
         },
         "web_domains": [
             "acinq.co"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "hello@acinq.co"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7242d64ab0e9b49df65e8f65dbf172d1a8b2eacb",
@@ -130217,7 +130224,8 @@
         ],
         "holders": {
             "ETH": 89
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd639515d30395ef3c98fc6a4754d6e3245aacc3f",
@@ -130232,7 +130240,8 @@
         ],
         "holders": {
             "ETH": 78
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb2feb2c46305329a340e6188532f31fce9347a5c",
