@@ -130181,7 +130181,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 89
-        }
+        },
+        "web_domains": [
+            "shitcoins.club"
+        ]
     },
     {
         "contract_address": "0x301754c3d5c9307d8efc640158622851aad03771",
@@ -130197,7 +130200,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 18
-        }
+        },
+        "web_domains": [
+            "acinq.co"
+        ]
     },
     {
         "contract_address": "0x7242d64ab0e9b49df65e8f65dbf172d1a8b2eacb",
