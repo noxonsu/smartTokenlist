@@ -131032,5 +131032,103 @@
         "holders": {
             "ETH": 1
         }
+    },
+    {
+        "contract_address": "0x7e5981c2e072f53a0323d3d80baca3e31fb1550c",
+        "date_add": "2024-04-22 08:05:08",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 35
+        }
+    },
+    {
+        "contract_address": "0x72e203a17add19a3099137c9d7015fd3e2b7dba9",
+        "date_add": "2024-04-22 08:05:08",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 551
+        }
+    },
+    {
+        "contract_address": "0xd7bfb57288e89bbb9c43966ad36e5b2c248d01c5",
+        "date_add": "2024-04-22 08:05:08",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Pepe0x69Erc20"
+        ],
+        "holders": {
+            "ETH": 56
+        }
+    },
+    {
+        "contract_address": "0x2dfae485427012edd71b8f7a5b135ada0d61a03a",
+        "date_add": "2024-04-22 08:05:08",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 23
+        }
+    },
+    {
+        "contract_address": "0xc63799adc1c0468bfa69ae69a02ee2a38293bda7",
+        "date_add": "2024-04-22 08:05:08",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0x2ac9800f394971871511fa0aea934e679ac32414",
+        "date_add": "2024-04-22 08:05:08",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 43
+        }
+    },
+    {
+        "contract_address": "0x865ff429fe09b205ebe0e113eb22856aea27aca8",
+        "date_add": "2024-04-22 08:05:08",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 331
+        }
+    },
+    {
+        "contract_address": "0x687a300f43ef1f0d711f1b7476973ffafb0a6868",
+        "date_add": "2024-04-22 08:05:08",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Andy68Portal"
+        ],
+        "holders": {
+            "ETH": 143
+        }
+    },
+    {
+        "contract_address": "0x5c40e75663a589151ea19aee70f797df0d5975ed",
+        "date_add": "2024-04-22 08:05:08",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fren-erc.vip"
+        ],
+        "telegram_groups": [
+            "FrenERC20"
+        ],
+        "holders": {
+            "ETH": 360
+        }
+    },
+    {
+        "contract_address": "0x0fe37d5bfdb4bb4b39e09d4d2e4ca15c195b4049",
+        "date_add": "2024-04-22 08:05:08",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.drakkytheone.com"
+        ],
+        "telegram_groups": [
+            "drakkytheone"
+        ],
+        "holders": {
+            "ETH": 808
+        }
     }
 ]
