@@ -130964,7 +130964,8 @@
         ],
         "holders": {
             "ETH": 45
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x66e564819340cc2f54abceb4e49941fa07e426b4",
@@ -130989,7 +130990,8 @@
         },
         "web_domains": [
             "flappy-bird.co"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa9a206337191a51024f1dfe5f46ec878dce09546",
