@@ -130950,5 +130950,82 @@
             "ETH": 334
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xa8752c38caa247fc7724a2d8d4f04e2ed410d7ac",
+        "date_add": "2024-04-22 04:04:46",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.peaq.network",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "peaqnetwork"
+        ],
+        "holders": {
+            "ETH": 45
+        }
+    },
+    {
+        "contract_address": "0x66e564819340cc2f54abceb4e49941fa07e426b4",
+        "date_add": "2024-04-22 04:04:46",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "BRETT0x66"
+        ],
+        "holders": {
+            "ETH": 346
+        }
+    },
+    {
+        "contract_address": "0xb080e7ebb4e5c58ccbfef4b3c47d5149ca908dd4",
+        "date_add": "2024-04-22 04:04:46",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "OGFLAPPYONETH"
+        ],
+        "holders": {
+            "ETH": 63
+        }
+    },
+    {
+        "contract_address": "0xa9a206337191a51024f1dfe5f46ec878dce09546",
+        "date_add": "2024-04-22 04:04:46",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xb8c446a4b3bf103fb2588a734585bfa1d9623e57",
+        "date_add": "2024-04-22 04:04:46",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xd7504b0844694cfc34d7b89371b23c5c6e061eb1",
+        "date_add": "2024-04-22 04:04:46",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 320
+        }
+    },
+    {
+        "contract_address": "0x2bb4d9dd21d98b801437c5a7e90e207bc61d9373",
+        "date_add": "2024-04-22 04:04:46",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 54
+        }
+    },
+    {
+        "contract_address": "0xc59da39d66cf4348cec8236daf26a3491db99058",
+        "date_add": "2024-04-22 04:04:46",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
