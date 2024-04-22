@@ -130924,7 +130924,10 @@
         ],
         "holders": {
             "ETH": 59
-        }
+        },
+        "web_domains": [
+            "hottie-froggie.com"
+        ]
     },
     {
         "contract_address": "0x6db32ba9c42117837c269ae35b87db2f197bb861",
