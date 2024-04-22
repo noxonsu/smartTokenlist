@@ -131039,7 +131039,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 35
-        }
+        },
+        "web_domains": [
+            "jovjou.com"
+        ]
     },
     {
         "contract_address": "0x72e203a17add19a3099137c9d7015fd3e2b7dba9",
@@ -131058,7 +131061,10 @@
         ],
         "holders": {
             "ETH": 56
-        }
+        },
+        "web_domains": [
+            "zengo.com"
+        ]
     },
     {
         "contract_address": "0x2dfae485427012edd71b8f7a5b135ada0d61a03a",
@@ -131082,7 +131088,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 43
-        }
+        },
+        "web_domains": [
+            "batmancat.xyz"
+        ]
     },
     {
         "contract_address": "0x865ff429fe09b205ebe0e113eb22856aea27aca8",
