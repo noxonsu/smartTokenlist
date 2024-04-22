@@ -131659,5 +131659,95 @@
             "ETH": 40
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x7a5d59a38ad28c39772cc3fe8aec343a6601e547",
+        "date_add": "2024-04-22 18:05:05",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Kermit0x75"
+        ],
+        "holders": {
+            "ETH": 174
+        }
+    },
+    {
+        "contract_address": "0x652c0e3d583a43c6230eb2a8e9c9634e0ded7765",
+        "date_add": "2024-04-22 18:05:05",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mattfurieeth.com"
+        ],
+        "telegram_groups": [
+            "mattfurie0x65"
+        ],
+        "holders": {
+            "ETH": 129
+        }
+    },
+    {
+        "contract_address": "0x6a416308c31eda611e70537d37fd93b871422a9a",
+        "date_add": "2024-04-22 18:05:05",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "elitegemai.com",
+            "elitegemai.com",
+            "elitegemai.com",
+            "elitegemai.com",
+            "docs.elitegemai.com"
+        ],
+        "telegram_groups": [
+            "elitegemai"
+        ],
+        "holders": {
+            "ETH": 47
+        }
+    },
+    {
+        "contract_address": "0x2e5713210e39cd28974061ad3a47baa6ab8e66c0",
+        "date_add": "2024-04-22 18:05:05",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 29
+        }
+    },
+    {
+        "contract_address": "0x3916ea28cccc5ce0a58535dd2635a5c12ddd4457",
+        "date_add": "2024-04-22 18:05:05",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tanglenetwork.io",
+            "tanglenetwork.io",
+            "tanglenetwork.io",
+            "tanglenetwork.io"
+        ],
+        "telegram_groups": [
+            "TnetNetwork"
+        ],
+        "holders": {
+            "ETH": 182
+        }
+    },
+    {
+        "contract_address": "0xa04b48ed7232e8d0547134a976838afa63f8c622",
+        "date_add": "2024-04-22 18:05:05",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x26cf55916a7ce4eefe52864afee75e05edb03fb4",
+        "date_add": "2024-04-22 18:05:05",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.mauiwowweetoken.com"
+        ],
+        "telegram_groups": [
+            "MauiwowweePortal"
+        ],
+        "holders": {
+            "ETH": 199
+        }
     }
 ]
