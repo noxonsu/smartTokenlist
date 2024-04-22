@@ -130877,5 +130877,67 @@
         "holders": {
             "ETH": 94
         }
+    },
+    {
+        "contract_address": "0xb71d03b41f060b6dc5e00a620d91ca8789c2f707",
+        "date_add": "2024-04-22 02:12:57",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 326
+        }
+    },
+    {
+        "contract_address": "0xaee20ec596dc23e06aade3a2a2c7dd37a551bde7",
+        "date_add": "2024-04-22 02:12:57",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.xternity.io",
+            "www.linkedin.com",
+            "xternitygames.medium.com"
+        ],
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0xd7dcd9b99787c619b4d57979521258d1a7267ad7",
+        "date_add": "2024-04-22 02:12:57",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6054
+        }
+    },
+    {
+        "contract_address": "0xaaf449bf8a33a32575c31ba8cbb90612dd95acfa",
+        "date_add": "2024-04-22 02:12:57",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 175
+        }
+    },
+    {
+        "contract_address": "0x0b74c82f0ff599a33eb64356b6b3ab17e5a21064",
+        "date_add": "2024-04-22 02:12:57",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "HottieFroggieERC20"
+        ],
+        "holders": {
+            "ETH": 59
+        }
+    },
+    {
+        "contract_address": "0x6db32ba9c42117837c269ae35b87db2f197bb861",
+        "date_add": "2024-04-22 02:12:57",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.zlurpee.wtf"
+        ],
+        "telegram_groups": [
+            "zlurpeeportal"
+        ],
+        "holders": {
+            "ETH": 334
+        }
     }
 ]
