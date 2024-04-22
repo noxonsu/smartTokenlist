@@ -131274,7 +131274,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 27
-        }
+        },
+        "web_domains": [
+            "chaingpt.org"
+        ]
     },
     {
         "contract_address": "0x9a15ae96f0c2142cd60833a869fbee2e1c4e3a77",
@@ -131285,7 +131288,10 @@
         ],
         "holders": {
             "ETH": 143
-        }
+        },
+        "web_domains": [
+            "gmpepe.net"
+        ]
     },
     {
         "contract_address": "0x69d3af30c63f5bd916bbcd79b58dbc8bd16d0308",
@@ -131293,7 +131299,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 110
-        }
+        },
+        "web_domains": [
+            "hiro.so"
+        ]
     },
     {
         "contract_address": "0x4197014b377fdf6a877ed930f16982045285ef96",
