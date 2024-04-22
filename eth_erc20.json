@@ -131042,7 +131042,9 @@
         },
         "web_domains": [
             "jovjou.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x72e203a17add19a3099137c9d7015fd3e2b7dba9",
@@ -131057,6 +131059,7 @@
         "date_add": "2024-04-22 08:05:08",
         "sourceScanned": "processed",
         "telegram_groups": [
+            "zengo",
             "Pepe0x69Erc20"
         ],
         "holders": {
@@ -131064,7 +131067,11 @@
         },
         "web_domains": [
             "zengo.com"
-        ]
+        ],
+        "emails": [
+            "help@zengo.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2dfae485427012edd71b8f7a5b135ada0d61a03a",
@@ -131091,7 +131098,12 @@
         },
         "web_domains": [
             "batmancat.xyz"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            " <p>ElonMusk2.0tothemoon@gmail.com</p> "
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x865ff429fe09b205ebe0e113eb22856aea27aca8",
@@ -131124,7 +131136,8 @@
         ],
         "holders": {
             "ETH": 360
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0fe37d5bfdb4bb4b39e09d4d2e4ca15c195b4049",
