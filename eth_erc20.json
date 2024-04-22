@@ -131388,7 +131388,8 @@
         ],
         "holders": {
             "ETH": 440
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6e2a0811b2af38e45451460485f081eb3fe2a864",
@@ -131402,7 +131403,8 @@
         },
         "web_domains": [
             "hedz.io"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x696969fd8883216013f00469230a40e16556bb1e",
@@ -131424,7 +131426,9 @@
         },
         "web_domains": [
             "birddog.tv"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x86715afa18d9fd7090d5c2e0f8e6e824a8723fba",
@@ -131446,7 +131450,8 @@
         ],
         "holders": {
             "ETH": 235
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4c6f4d435a939fb85dd946bae4eec9d52587f451",
@@ -131466,7 +131471,9 @@
         ],
         "holders": {
             "ETH": 97
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc1bfd864bd1dfec9d437b2eeaff7def23a23f343",
@@ -131480,7 +131487,11 @@
         ],
         "holders": {
             "ETH": 185
-        }
+        },
+        "emails": [
+            "Contact@acidtoad.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x599c3b224c85c0f5deedbdd40f657b0f4ec19d80",
