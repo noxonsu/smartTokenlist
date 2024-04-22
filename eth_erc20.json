@@ -131152,5 +131152,106 @@
         "holders": {
             "ETH": 808
         }
+    },
+    {
+        "contract_address": "0x044faf4b04b6459ad68645edfb793bd73b143374",
+        "date_add": "2024-04-22 10:05:03",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "socialbets.org",
+            "docs.socialbets.org"
+        ],
+        "telegram_groups": [
+            "socialbetsorg"
+        ],
+        "holders": {
+            "ETH": 175
+        }
+    },
+    {
+        "contract_address": "0xf6ccfd6ef2850e84b73adeace9a075526c5910d4",
+        "date_add": "2024-04-22 10:05:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 56
+        }
+    },
+    {
+        "contract_address": "0x621ef98282ac42d2bf4c20fc73912a16599e12fb",
+        "date_add": "2024-04-22 10:05:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0x67701d67b60a96473bfc4873e7a484035c8609b0",
+        "date_add": "2024-04-22 10:05:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x70008f18fc58928dce982b0a69c2c21ff80dca54",
+        "date_add": "2024-04-22 10:05:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 894
+        }
+    },
+    {
+        "contract_address": "0xf88506b0f1d30056b9e5580668d5875b9cd30f23",
+        "date_add": "2024-04-22 10:05:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1696
+        }
+    },
+    {
+        "contract_address": "0x3e29793c9bdeb6ce5a84c2beced91ad50c530b16",
+        "date_add": "2024-04-22 10:05:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 891
+        }
+    },
+    {
+        "contract_address": "0xd91103f3db1c5dc1e4995bc03e30b9bf253a3449",
+        "date_add": "2024-04-22 10:05:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xdaccf47046ae4fee3f9f3bcfe68696a95db6ccb7",
+        "date_add": "2024-04-22 10:05:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 125
+        }
+    },
+    {
+        "contract_address": "0x4d216f1900aa1d3631bb3bd2efe939f2b741ad15",
+        "date_add": "2024-04-22 10:05:03",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "soundai.quest"
+        ],
+        "telegram_groups": [
+            "SoundAI_token"
+        ],
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x0d248ce39e26fb00f911fb1e7a45a00d8c94341c",
+        "date_add": "2024-04-22 10:05:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 753
+        }
     }
 ]
