@@ -131166,7 +131166,8 @@
         ],
         "holders": {
             "ETH": 175
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf6ccfd6ef2850e84b73adeace9a075526c5910d4",
@@ -131240,11 +131241,13 @@
             "soundai.quest"
         ],
         "telegram_groups": [
+            "SoundaiETH_bot",
             "SoundAI_token"
         ],
         "holders": {
             "ETH": 1
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0d248ce39e26fb00f911fb1e7a45a00d8c94341c",
