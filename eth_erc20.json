@@ -131753,5 +131753,61 @@
             "ETH": 199
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xabd0e3535ecfbf6959b1798220335faf1b7ada3a",
+        "date_add": "2024-04-22 20:04:39",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "linktr.ee"
+        ],
+        "holders": {
+            "ETH": 443
+        }
+    },
+    {
+        "contract_address": "0x39de54c4296997129137b689eec102f0f5d09888",
+        "date_add": "2024-04-22 20:04:39",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.amazon.sg",
+            "pedeerc.fun"
+        ],
+        "telegram_groups": [
+            "PedeCoinERC"
+        ],
+        "holders": {
+            "ETH": 104
+        }
+    },
+    {
+        "contract_address": "0x342f4ca388896e6300bb899aca2d8619cbefcece",
+        "date_add": "2024-04-22 20:04:39",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 159
+        }
+    },
+    {
+        "contract_address": "0xc32e38ec28a2f44a63b59616ea2533c94453bad6",
+        "date_add": "2024-04-22 20:04:39",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fofar.pro"
+        ],
+        "telegram_groups": [
+            "fofar_portal"
+        ],
+        "holders": {
+            "ETH": 34
+        }
+    },
+    {
+        "contract_address": "0xa359d414cfc326cab5c3412c3d6c62b017a84239",
+        "date_add": "2024-04-22 20:04:39",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
     }
 ]
