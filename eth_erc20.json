@@ -131502,6 +131502,10 @@
         },
         "web_domains": [
             "agentfi.io"
-        ]
+        ],
+        "telegram_groups": [
+            "onchainagents"
+        ],
+        "p6": true
     }
 ]
