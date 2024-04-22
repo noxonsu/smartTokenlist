@@ -131256,5 +131256,82 @@
         "holders": {
             "ETH": 753
         }
+    },
+    {
+        "contract_address": "0x01667fd39875113fec3066aab3ca182fa99188af",
+        "date_add": "2024-04-22 12:06:42",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "moonbeam.network"
+        ],
+        "holders": {
+            "ETH": 82
+        }
+    },
+    {
+        "contract_address": "0x448a31da70489a12b45779f6d60b3712669e8932",
+        "date_add": "2024-04-22 12:06:42",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 27
+        }
+    },
+    {
+        "contract_address": "0x9a15ae96f0c2142cd60833a869fbee2e1c4e3a77",
+        "date_add": "2024-04-22 12:06:42",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "GmPepeEntry"
+        ],
+        "holders": {
+            "ETH": 143
+        }
+    },
+    {
+        "contract_address": "0x69d3af30c63f5bd916bbcd79b58dbc8bd16d0308",
+        "date_add": "2024-04-22 12:06:42",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 110
+        }
+    },
+    {
+        "contract_address": "0x4197014b377fdf6a877ed930f16982045285ef96",
+        "date_add": "2024-04-22 12:06:42",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.playbux.co",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "playbuxchannel"
+        ],
+        "holders": {
+            "ETH": 23
+        }
+    },
+    {
+        "contract_address": "0xcef9fa76c26747b341984633dac29e20e7b64af8",
+        "date_add": "2024-04-22 12:06:42",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x50e40d992a575544c34fdd17745c3fd842028aa1",
+        "date_add": "2024-04-22 12:06:42",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x3c91eaeac42dfaead5f356167c52837e443b9f94",
+        "date_add": "2024-04-22 12:06:42",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
