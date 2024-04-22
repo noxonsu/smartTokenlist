@@ -131399,7 +131399,10 @@
         ],
         "holders": {
             "ETH": 236
-        }
+        },
+        "web_domains": [
+            "hedz.io"
+        ]
     },
     {
         "contract_address": "0x696969fd8883216013f00469230a40e16556bb1e",
@@ -131418,7 +131421,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 76
-        }
+        },
+        "web_domains": [
+            "birddog.tv"
+        ]
     },
     {
         "contract_address": "0x86715afa18d9fd7090d5c2e0f8e6e824a8723fba",
@@ -131482,6 +131488,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 26
-        }
+        },
+        "web_domains": [
+            "agentfi.io"
+        ]
     }
 ]
