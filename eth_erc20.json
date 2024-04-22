@@ -131513,5 +131513,142 @@
             "onchainagents"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x41cda8a77105cd1d8bd59fd94cf8324dc9a3f099",
+        "date_add": "2024-04-22 16:04:44",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1109
+        }
+    },
+    {
+        "contract_address": "0x96f0b43c95e4b84932898701db03476e57293e88",
+        "date_add": "2024-04-22 16:04:44",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "magiceden.io",
+            "instagram.com",
+            "community.magiceden.io"
+        ],
+        "holders": {
+            "ETH": 22
+        }
+    },
+    {
+        "contract_address": "0x6532126605da4289f12eaf7ddc297056da022a4f",
+        "date_add": "2024-04-22 16:04:44",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "birddog0x65.com"
+        ],
+        "telegram_groups": [
+            "BIRDDOG0x65Portal"
+        ],
+        "holders": {
+            "ETH": 199
+        }
+    },
+    {
+        "contract_address": "0xd4fba18b2dc961e89de2434bff70d43b7bcdcc40",
+        "date_add": "2024-04-22 16:04:44",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "0xbet.win",
+            "docs.0xbet.win"
+        ],
+        "telegram_groups": [
+            "ZeroxBetLabs"
+        ],
+        "holders": {
+            "ETH": 79
+        }
+    },
+    {
+        "contract_address": "0xdd84ca5066c9a334a6f1d87dbef6e8b3dc432330",
+        "date_add": "2024-04-22 16:04:44",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pipieth.com"
+        ],
+        "telegram_groups": [
+            "pipieth"
+        ],
+        "holders": {
+            "ETH": 322
+        }
+    },
+    {
+        "contract_address": "0xe236d08ab1c87aa0c66ed8dc83cdd7be440c7ece",
+        "date_add": "2024-04-22 16:04:44",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "buyzclob.com"
+        ],
+        "telegram_groups": [
+            "BuyzClob"
+        ],
+        "holders": {
+            "ETH": 129
+        }
+    },
+    {
+        "contract_address": "0x70fd93fb088150e203d2243b9bd3190276f80c70",
+        "date_add": "2024-04-22 16:04:44",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.birddog0x70.vip"
+        ],
+        "telegram_groups": [
+            "birddog0x70"
+        ],
+        "holders": {
+            "ETH": 267
+        }
+    },
+    {
+        "contract_address": "0x335cc2e6d39d965850791607df24d6dc43c3663c",
+        "date_add": "2024-04-22 16:04:44",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "neorome.codes"
+        ],
+        "telegram_groups": [
+            "neorome_codes"
+        ],
+        "holders": {
+            "ETH": 50
+        }
+    },
+    {
+        "contract_address": "0xacd2c239012d17beb128b0944d49015104113650",
+        "date_add": "2024-04-22 16:04:44",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 559
+        }
+    },
+    {
+        "contract_address": "0x8699a70303f4daa3cf38fe90bcf2bd311e15af6a",
+        "date_add": "2024-04-22 16:04:44",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x0c90f25e7987ce1489242273a4744cf96cd5f8cd",
+        "date_add": "2024-04-22 16:04:44",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zhatura.net",
+            "zhatura-bot.gitbook.io"
+        ],
+        "telegram_groups": [
+            "zhaturachannel"
+        ],
+        "holders": {
+            "ETH": 40
+        }
     }
 ]
