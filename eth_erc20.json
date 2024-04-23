@@ -132421,7 +132421,8 @@
         ],
         "holders": {
             "ETH": 178
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7a5f1b9acdf5513c8b5fb534ddb3457c85f6274f",
@@ -132454,7 +132455,11 @@
         ],
         "holders": {
             "ETH": 243
-        }
+        },
+        "telegram_groups": [
+            "SMiCTG"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x073274d5ed3963776501ed629bf8e8df68463220",
@@ -132478,7 +132483,11 @@
         ],
         "holders": {
             "ETH": 72
-        }
+        },
+        "emails": [
+            "contact@secureai.services"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x98991e6802e59eba9bebd1a462acbe4dc2fe5046",
@@ -132492,7 +132501,8 @@
         },
         "web_domains": [
             "hinton.tv"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa0c10f1fbad6631180db947174d98900c75ceae3",
