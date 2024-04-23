@@ -132553,11 +132553,13 @@
             "ai-etf.gitbook.io"
         ],
         "telegram_groups": [
-            "AIEtfPortalTelegram"
+            "AIEtfPortalTelegram",
+            "AIEtfPortal"
         ],
         "holders": {
             "ETH": 105
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xaf4bf8b3c2051a74f7bdc11a17967f57f9554db8",
@@ -132571,7 +132573,8 @@
         ],
         "holders": {
             "ETH": 298
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x196c7c376244b4e8cf450a15b6bc536783b0898d",
@@ -132582,7 +132585,9 @@
         },
         "web_domains": [
             "supersus.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xba5803f4ce0beef6f1f62a5546a018baebb5da4e",
@@ -132596,7 +132601,11 @@
         },
         "web_domains": [
             "torigen.com"
-        ]
+        ],
+        "emails": [
+            "info@torigen.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x22e45fa5b4cc3464fed974fb1dda34e38800807a",
@@ -132610,7 +132619,9 @@
         ],
         "holders": {
             "ETH": 63
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa728aa2de568766e2fa4544ec7a77f79c0bf9f97",
@@ -132621,7 +132632,9 @@
         },
         "web_domains": [
             "jokjok.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x528190e5169ddd5ff72c40cea6d8ba37613143ac",
