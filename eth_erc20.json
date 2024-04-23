@@ -132579,7 +132579,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 7
-        }
+        },
+        "web_domains": [
+            "supersus.io"
+        ]
     },
     {
         "contract_address": "0xba5803f4ce0beef6f1f62a5546a018baebb5da4e",
@@ -132590,7 +132593,10 @@
         ],
         "holders": {
             "ETH": 100
-        }
+        },
+        "web_domains": [
+            "torigen.com"
+        ]
     },
     {
         "contract_address": "0x22e45fa5b4cc3464fed974fb1dda34e38800807a",
@@ -132612,7 +132618,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 159
-        }
+        },
+        "web_domains": [
+            "jokjok.org"
+        ]
     },
     {
         "contract_address": "0x528190e5169ddd5ff72c40cea6d8ba37613143ac",
