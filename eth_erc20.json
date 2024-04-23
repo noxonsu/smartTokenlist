@@ -131828,5 +131828,57 @@
         "holders": {
             "ETH": 0
         }
+    },
+    {
+        "contract_address": "0x65aaf0e7500ec72cb16a19d27e8b228faf118452",
+        "date_add": "2024-04-23 00:15:45",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hivemind.hub"
+        ],
+        "telegram_groups": [
+            "Hive_Mind_Official"
+        ],
+        "holders": {
+            "ETH": 119
+        }
+    },
+    {
+        "contract_address": "0x52602ad562d38a0839ba317e2e81defddb85515b",
+        "date_add": "2024-04-23 00:15:45",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "babyandycoin.com"
+        ],
+        "telegram_groups": [
+            "babyandyerc"
+        ],
+        "holders": {
+            "ETH": 131
+        }
+    },
+    {
+        "contract_address": "0x558ec3152e2eb2174905cd19aea4e34a23de9ad6",
+        "date_add": "2024-04-23 00:15:45",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 28888
+        }
+    },
+    {
+        "contract_address": "0xa165bd7470059e4cdc397aabbfb2cac7c0026131",
+        "date_add": "2024-04-23 00:15:45",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0x516e2758b044433371076a48127b8cfa7b0bdb43",
+        "date_add": "2024-04-23 00:15:45",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1270
+        }
     }
 ]
