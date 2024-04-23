@@ -132658,7 +132658,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 18
-        }
+        },
+        "web_domains": [
+            "nodeyield.com"
+        ]
     },
     {
         "contract_address": "0xc7c863fbd7ff1fbfe7f30e269c572060e13de367",
@@ -132703,7 +132706,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 37
-        }
+        },
+        "web_domains": [
+            "borpatoken.com"
+        ]
     },
     {
         "contract_address": "0x3af851d58659e55b74cccdab44d12b5982a9b9b1",
