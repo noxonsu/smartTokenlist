@@ -131400,7 +131400,8 @@
         "holders": {
             "ETH": 440
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x6e2a0811b2af38e45451460485f081eb3fe2a864",
@@ -131601,7 +131602,8 @@
         "holders": {
             "ETH": 129
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x70fd93fb088150e203d2243b9bd3190276f80c70",
@@ -131616,7 +131618,8 @@
         "holders": {
             "ETH": 267
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x335cc2e6d39d965850791607df24d6dc43c3663c",
@@ -131663,7 +131666,8 @@
         "holders": {
             "ETH": 40
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x7a5d59a38ad28c39772cc3fe8aec343a6601e547",
@@ -131689,7 +131693,8 @@
         "holders": {
             "ETH": 129
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x6a416308c31eda611e70537d37fd93b871422a9a",
@@ -131734,7 +131739,8 @@
         "holders": {
             "ETH": 182
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xa04b48ed7232e8d0547134a976838afa63f8c622",
@@ -131824,7 +131830,8 @@
         "holders": {
             "ETH": 34
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xa359d414cfc326cab5c3412c3d6c62b017a84239",
@@ -131891,7 +131898,8 @@
         "emails": [
             "hello@lightlink.io"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x516e2758b044433371076a48127b8cfa7b0bdb43",
@@ -132028,7 +132036,8 @@
             "TheApeTrain",
             "ApeTrainClub"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x5d6f4e7b3f57b238eea545f16f9d6d17b77ec2fb",
