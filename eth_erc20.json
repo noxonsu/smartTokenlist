@@ -132294,11 +132294,13 @@
             "shib1.com"
         ],
         "telegram_groups": [
+            "MickkkeyEth",
             "Shib1Eth"
         ],
         "holders": {
             "ETH": 18
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4fe6b81139040e5015b8a31a23d6585dc2af86cf",
@@ -132309,7 +132311,9 @@
         },
         "web_domains": [
             "nadinekrakovcollection.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0029c42e04b9c6c4bd219fe519d29eaf9c09ce43",
@@ -132323,7 +132327,8 @@
         ],
         "holders": {
             "ETH": 125
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd5e6a92e0b46721ce9012a78b7023e73056f043c",
@@ -132333,11 +132338,14 @@
             "www.vortex-ai.app"
         ],
         "telegram_groups": [
+            "vortexaieth",
+            "VortexAIEth_Bot",
             "vortexAIETH"
         ],
         "holders": {
             "ETH": 30
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9a61efaa0f91c598e98a5b6df6fd0c36475bc228",
@@ -132351,7 +132359,8 @@
         },
         "web_domains": [
             "originalkawaiipen.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0921799cb1d702148131024d18fcde022129dc73",
@@ -132389,7 +132398,8 @@
         ],
         "holders": {
             "ETH": 398
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe635efcfac44c5f44508f4d17c3a96cb4ce421dd",
