@@ -132170,5 +132170,90 @@
         "holders": {
             "ETH": 962
         }
+    },
+    {
+        "contract_address": "0x0379eb3295add558644d2f7640153081e6821511",
+        "date_add": "2024-04-23 10:04:21",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.remote.host",
+            "docs.remote.host"
+        ],
+        "telegram_groups": [
+            "Remoteaiportal"
+        ],
+        "holders": {
+            "ETH": 289
+        }
+    },
+    {
+        "contract_address": "0x80fb784b7ed66730e8b1dbd9820afd29931aab03",
+        "date_add": "2024-04-23 10:04:21",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 132933
+        }
+    },
+    {
+        "contract_address": "0x6be3a33bb2d7806a156f8020e3174edb5343a11f",
+        "date_add": "2024-04-23 10:04:21",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 89
+        }
+    },
+    {
+        "contract_address": "0x3ed45d912c8a34e44c600972304064dfb940a277",
+        "date_add": "2024-04-23 10:04:21",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xd2bb05401fad12d9475beb5765d37af0c677d383",
+        "date_add": "2024-04-23 10:04:21",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x8c95e700b239eb75649cc8ab09eee6003562e6cc",
+        "date_add": "2024-04-23 10:04:21",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "aundy.vip"
+        ],
+        "telegram_groups": [
+            "aundyerc"
+        ],
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xa89e2871a850e0e6fd8f0018ec1fc62fa75440d4",
+        "date_add": "2024-04-23 10:04:21",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9
+        }
+    },
+    {
+        "contract_address": "0xf4f69c381270c3dec21de98315e5709a65519d51",
+        "date_add": "2024-04-23 10:04:21",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 21
+        }
+    },
+    {
+        "contract_address": "0x9d14bce1daddf408d77295bb1be9b343814f44de",
+        "date_add": "2024-04-23 10:04:21",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 56
+        }
     }
 ]
