@@ -131985,5 +131985,35 @@
         "holders": {
             "ETH": 302
         }
+    },
+    {
+        "contract_address": "0xedb67ee1b171c4ec66e6c10ec43edbba20fae8e9",
+        "date_add": "2024-04-23 04:04:36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 603
+        }
+    },
+    {
+        "contract_address": "0xa6eba1ed27b1a4ba00b020819264a70133b6e127",
+        "date_add": "2024-04-23 04:04:36",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "DEMONcoinerc20"
+        ],
+        "holders": {
+            "ETH": 260
+        }
+    },
+    {
+        "contract_address": "0x23e0b74ae3ec9f9b37ae2b13024cc089e777e865",
+        "date_add": "2024-04-23 04:04:36",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "apetrain.org"
+        ],
+        "holders": {
+            "ETH": 27
+        }
     }
 ]
