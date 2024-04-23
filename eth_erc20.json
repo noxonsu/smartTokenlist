@@ -131902,7 +131902,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 79
-        }
+        },
+        "web_domains": [
+            "9ncash.tech"
+        ]
     },
     {
         "contract_address": "0xefbbb3302ebb5583a8c1a44bf6c038cf5476e9b0",
@@ -131926,7 +131929,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "coindetect.net"
+        ]
     },
     {
         "contract_address": "0x46059b73e88390ba4fee83e006ffd77a2c542c95",
@@ -131958,7 +131964,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 132
-        }
+        },
+        "web_domains": [
+            "shi-shievents.com"
+        ]
     },
     {
         "contract_address": "0x98d00d3664c0a8e9b44a2615c133edddb78f3f27",
