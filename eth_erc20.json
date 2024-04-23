@@ -131871,7 +131871,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 20
-        }
+        },
+        "web_domains": [
+            "lightlink.io"
+        ]
     },
     {
         "contract_address": "0x516e2758b044433371076a48127b8cfa7b0bdb43",
