@@ -132184,7 +132184,8 @@
         ],
         "holders": {
             "ETH": 289
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x80fb784b7ed66730e8b1dbd9820afd29931aab03",
@@ -132203,7 +132204,9 @@
         },
         "web_domains": [
             "omics.informatics.indiana.edu"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3ed45d912c8a34e44c600972304064dfb940a277",
@@ -132233,7 +132236,8 @@
         ],
         "holders": {
             "ETH": 1
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa89e2871a850e0e6fd8f0018ec1fc62fa75440d4",
@@ -132244,7 +132248,14 @@
         },
         "web_domains": [
             "rtfight.com"
-        ]
+        ],
+        "telegram_groups": [
+            "rtfight_com"
+        ],
+        "emails": [
+            "sales@rtfight.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf4f69c381270c3dec21de98315e5709a65519d51",
@@ -132255,7 +132266,11 @@
         },
         "web_domains": [
             "yieldnest.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "YieldNest"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9d14bce1daddf408d77295bb1be9b343814f44de",
@@ -132266,6 +132281,8 @@
         },
         "web_domains": [
             "studiokoikoi.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
