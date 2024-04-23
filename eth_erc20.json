@@ -132024,5 +132024,93 @@
             "ApeTrainClub"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x5d6f4e7b3f57b238eea545f16f9d6d17b77ec2fb",
+        "date_add": "2024-04-23 08:05:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 129
+        }
+    },
+    {
+        "contract_address": "0xc8e93cbb9cdb405b9a8366a0002fcb07f96d0f8c",
+        "date_add": "2024-04-23 08:05:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0x2b783407f17e10566e2bff86a31ec1765275d719",
+        "date_add": "2024-04-23 08:05:03",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Jeetsons"
+        ],
+        "holders": {
+            "ETH": 61
+        }
+    },
+    {
+        "contract_address": "0x598c9368b8455f3a75b94f8b089882fc8df18849",
+        "date_add": "2024-04-23 08:05:03",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "popcaterc"
+        ],
+        "holders": {
+            "ETH": 425
+        }
+    },
+    {
+        "contract_address": "0x30afed155e1b749e4069a78d41e502cd2bd60cb2",
+        "date_add": "2024-04-23 08:05:03",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "aundy.vip"
+        ],
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x39f5b252de249790faed0c2f05abead56d2088e1",
+        "date_add": "2024-04-23 08:05:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 63
+        }
+    },
+    {
+        "contract_address": "0xcd4ee6c8052df6742e4b342cf720ff3ac74f415e",
+        "date_add": "2024-04-23 08:05:03",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "stellaryai.com",
+            "app.stellaryai.com"
+        ],
+        "holders": {
+            "ETH": 454
+        }
+    },
+    {
+        "contract_address": "0x1ff903a153f73a55bb65d5b9ee2ce49e8680c0e7",
+        "date_add": "2024-04-23 08:05:03",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "WojakAndy"
+        ],
+        "holders": {
+            "ETH": 54
+        }
+    },
+    {
+        "contract_address": "0x46cca329970b33e1a007dd4ef0594a1cedb3e72a",
+        "date_add": "2024-04-23 08:05:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 962
+        }
     }
 ]
