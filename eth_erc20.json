@@ -132003,7 +132003,10 @@
         ],
         "holders": {
             "ETH": 260
-        }
+        },
+        "web_domains": [
+            "reddevilclothing.com"
+        ]
     },
     {
         "contract_address": "0x23e0b74ae3ec9f9b37ae2b13024cc089e777e865",
