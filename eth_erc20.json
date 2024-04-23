@@ -132651,5 +132651,103 @@
         "holders": {
             "ETH": 335
         }
+    },
+    {
+        "contract_address": "0x484fd07d3c384145f831595d5865749ef65fdb77",
+        "date_add": "2024-04-23 22:04:44",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0xc7c863fbd7ff1fbfe7f30e269c572060e13de367",
+        "date_add": "2024-04-23 22:04:44",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "runestake.cash",
+            "docs.runestake.cash"
+        ],
+        "telegram_groups": [
+            "RuneStake_portal"
+        ],
+        "holders": {
+            "ETH": 205
+        }
+    },
+    {
+        "contract_address": "0x5df50da2edd55c14d64fa7f37fcb80bd728f1a16",
+        "date_add": "2024-04-23 22:04:44",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "shib1.com"
+        ],
+        "telegram_groups": [
+            "Shib1ETH"
+        ],
+        "holders": {
+            "ETH": 432
+        }
+    },
+    {
+        "contract_address": "0x659c25f70407bdc7fed9a6495b3bfe9530d50355",
+        "date_add": "2024-04-23 22:04:44",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xaa74e3bd28558a4953161a9d21091d2281143672",
+        "date_add": "2024-04-23 22:04:44",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 37
+        }
+    },
+    {
+        "contract_address": "0x3af851d58659e55b74cccdab44d12b5982a9b9b1",
+        "date_add": "2024-04-23 22:04:44",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pegztoken.fun"
+        ],
+        "telegram_groups": [
+            "PEGZToken"
+        ],
+        "holders": {
+            "ETH": 160
+        }
+    },
+    {
+        "contract_address": "0xd699b83e43415b774b6ed4ce9999680f049af2ab",
+        "date_add": "2024-04-23 22:04:44",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 292
+        }
+    },
+    {
+        "contract_address": "0x45d74446748fb432f05e7a85bd974abb7af5c285",
+        "date_add": "2024-04-23 22:04:44",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2017
+        }
+    },
+    {
+        "contract_address": "0x9d138ce8c16d19fd227f60b849688d6a9086d256",
+        "date_add": "2024-04-23 22:04:44",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "enigma-7.gitbook.io",
+            "enigmaprotocol.io"
+        ],
+        "telegram_groups": [
+            "enigma_protocol"
+        ],
+        "holders": {
+            "ETH": 368
+        }
     }
 ]
