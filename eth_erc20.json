@@ -132200,7 +132200,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 89
-        }
+        },
+        "web_domains": [
+            "omics.informatics.indiana.edu"
+        ]
     },
     {
         "contract_address": "0x3ed45d912c8a34e44c600972304064dfb940a277",
@@ -132238,7 +132241,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 9
-        }
+        },
+        "web_domains": [
+            "rtfight.com"
+        ]
     },
     {
         "contract_address": "0xf4f69c381270c3dec21de98315e5709a65519d51",
@@ -132246,7 +132252,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 21
-        }
+        },
+        "web_domains": [
+            "yieldnest.finance"
+        ]
     },
     {
         "contract_address": "0x9d14bce1daddf408d77295bb1be9b343814f44de",
@@ -132254,6 +132263,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 56
-        }
+        },
+        "web_domains": [
+            "studiokoikoi.com"
+        ]
     }
 ]
