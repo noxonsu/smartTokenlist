@@ -132031,7 +132031,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 129
-        }
+        },
+        "web_domains": [
+            "bsxvapor.com"
+        ]
     },
     {
         "contract_address": "0xc8e93cbb9cdb405b9a8366a0002fcb07f96d0f8c",
@@ -132039,7 +132042,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 12
-        }
+        },
+        "web_domains": [
+            "spongeboboperationseachange.com"
+        ]
     },
     {
         "contract_address": "0x2b783407f17e10566e2bff86a31ec1765275d719",
@@ -132050,7 +132056,10 @@
         ],
         "holders": {
             "ETH": 61
-        }
+        },
+        "web_domains": [
+            "jeetsons.com"
+        ]
     },
     {
         "contract_address": "0x598c9368b8455f3a75b94f8b089882fc8df18849",
@@ -132080,7 +132089,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 63
-        }
+        },
+        "web_domains": [
+            "whattofarm.io"
+        ]
     },
     {
         "contract_address": "0xcd4ee6c8052df6742e4b342cf720ff3ac74f415e",
