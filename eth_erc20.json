@@ -131841,7 +131841,8 @@
         ],
         "holders": {
             "ETH": 119
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x52602ad562d38a0839ba317e2e81defddb85515b",
@@ -131855,7 +131856,11 @@
         ],
         "holders": {
             "ETH": 131
-        }
+        },
+        "emails": [
+            "\n                dev@babyandycoin.com\n            "
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x558ec3152e2eb2174905cd19aea4e34a23de9ad6",
@@ -131874,7 +131879,14 @@
         },
         "web_domains": [
             "lightlink.io"
-        ]
+        ],
+        "telegram_groups": [
+            "lightlinkll"
+        ],
+        "emails": [
+            "hello@lightlink.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x516e2758b044433371076a48127b8cfa7b0bdb43",
