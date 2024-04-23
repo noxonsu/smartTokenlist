@@ -106401,9 +106401,14 @@
         "holders": {
             "ETH": 175
         },
-        "telegram_groups": [],
+        "telegram_groups": [
+            "Stellary_AI"
+        ],
         "p6": true,
-        "p8": true
+        "p8": true,
+        "emails": [
+            "contact@stellaryai.com"
+        ]
     },
     {
         "contract_address": "0x388212b6946be88d237a958d65694a4522625ed5",
@@ -132034,7 +132039,12 @@
         },
         "web_domains": [
             "bsxvapor.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "info@bsxvapor.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc8e93cbb9cdb405b9a8366a0002fcb07f96d0f8c",
@@ -132045,7 +132055,9 @@
         },
         "web_domains": [
             "spongeboboperationseachange.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2b783407f17e10566e2bff86a31ec1765275d719",
@@ -132059,7 +132071,11 @@
         },
         "web_domains": [
             "jeetsons.com"
-        ]
+        ],
+        "emails": [
+            " jasmeet@jeetson.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x598c9368b8455f3a75b94f8b089882fc8df18849",
@@ -132081,7 +132097,11 @@
         ],
         "holders": {
             "ETH": 19
-        }
+        },
+        "telegram_groups": [
+            "aundyerc"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x39f5b252de249790faed0c2f05abead56d2088e1",
@@ -132092,7 +132112,17 @@
         },
         "web_domains": [
             "whattofarm.io"
-        ]
+        ],
+        "telegram_groups": [
+            "whattofarm_news",
+            "WhatToFarm_Chat",
+            "whattofarm_official",
+            "whattofarmbot"
+        ],
+        "emails": [
+            "profit@whattofarm.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xcd4ee6c8052df6742e4b342cf720ff3ac74f415e",
@@ -132104,7 +132134,14 @@
         ],
         "holders": {
             "ETH": 454
-        }
+        },
+        "telegram_groups": [
+            "Stellary_AI"
+        ],
+        "emails": [
+            "contact@stellaryai.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1ff903a153f73a55bb65d5b9ee2ce49e8680c0e7",
