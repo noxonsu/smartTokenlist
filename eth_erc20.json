@@ -132306,7 +132306,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 39
-        }
+        },
+        "web_domains": [
+            "nadinekrakovcollection.com"
+        ]
     },
     {
         "contract_address": "0x0029c42e04b9c6c4bd219fe519d29eaf9c09ce43",
@@ -132345,7 +132348,10 @@
         ],
         "holders": {
             "ETH": 296
-        }
+        },
+        "web_domains": [
+            "originalkawaiipen.com"
+        ]
     },
     {
         "contract_address": "0x0921799cb1d702148131024d18fcde022129dc73",
