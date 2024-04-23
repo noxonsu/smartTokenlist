@@ -132284,5 +132284,113 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x1db68e17ca487a5fd0d6bc3fde2fda283aba5d95",
+        "date_add": "2024-04-23 14:04:20",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "X.com",
+            "shib1.com"
+        ],
+        "telegram_groups": [
+            "Shib1Eth"
+        ],
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0x4fe6b81139040e5015b8a31a23d6585dc2af86cf",
+        "date_add": "2024-04-23 14:04:20",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 39
+        }
+    },
+    {
+        "contract_address": "0x0029c42e04b9c6c4bd219fe519d29eaf9c09ce43",
+        "date_add": "2024-04-23 14:04:20",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "boysclubonerc.com"
+        ],
+        "telegram_groups": [
+            "BoysClub0x00"
+        ],
+        "holders": {
+            "ETH": 125
+        }
+    },
+    {
+        "contract_address": "0xd5e6a92e0b46721ce9012a78b7023e73056f043c",
+        "date_add": "2024-04-23 14:04:20",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.vortex-ai.app"
+        ],
+        "telegram_groups": [
+            "vortexAIETH"
+        ],
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0x9a61efaa0f91c598e98a5b6df6fd0c36475bc228",
+        "date_add": "2024-04-23 14:04:20",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "teddybeareth"
+        ],
+        "holders": {
+            "ETH": 296
+        }
+    },
+    {
+        "contract_address": "0x0921799cb1d702148131024d18fcde022129dc73",
+        "date_add": "2024-04-23 14:04:20",
+        "sourceScanned": "failed",
+        "holders": {
+            "ETH": 4480
+        }
+    },
+    {
+        "contract_address": "0x289c05b862f0f93a5bf17b97ff3c16b1781863f5",
+        "date_add": "2024-04-23 14:04:20",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 34
+        }
+    },
+    {
+        "contract_address": "0x1e7dc0f6f283dca2c05a26a3cfa381cbba5e4843",
+        "date_add": "2024-04-23 14:04:20",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0x1032ff692f0aff8567fe854dba2a3c4a5c8350f2",
+        "date_add": "2024-04-23 14:04:20",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "satancoinerc.com"
+        ],
+        "telegram_groups": [
+            "satanCoin_Erc"
+        ],
+        "holders": {
+            "ETH": 398
+        }
+    },
+    {
+        "contract_address": "0xe635efcfac44c5f44508f4d17c3a96cb4ce421dd",
+        "date_add": "2024-04-23 14:04:20",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 580
+        }
     }
 ]
