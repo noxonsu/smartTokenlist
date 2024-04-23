@@ -132661,7 +132661,9 @@
         },
         "web_domains": [
             "nodeyield.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc7c863fbd7ff1fbfe7f30e269c572060e13de367",
@@ -132676,7 +132678,8 @@
         ],
         "holders": {
             "ETH": 205
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5df50da2edd55c14d64fa7f37fcb80bd728f1a16",
@@ -132690,7 +132693,8 @@
         ],
         "holders": {
             "ETH": 432
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x659c25f70407bdc7fed9a6495b3bfe9530d50355",
@@ -132709,7 +132713,9 @@
         },
         "web_domains": [
             "borpatoken.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3af851d58659e55b74cccdab44d12b5982a9b9b1",
@@ -132719,11 +132725,13 @@
             "pegztoken.fun"
         ],
         "telegram_groups": [
-            "PEGZToken"
+            "PEGZToken",
+            "PegzToken"
         ],
         "holders": {
             "ETH": 160
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd699b83e43415b774b6ed4ce9999680f049af2ab",
@@ -132754,6 +132762,7 @@
         ],
         "holders": {
             "ETH": 368
-        }
+        },
+        "p6": true
     }
 ]
