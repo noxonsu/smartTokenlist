@@ -132764,5 +132764,56 @@
             "ETH": 368
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x1b8da78cf912e60c27865228def4628549cc72d1",
+        "date_add": "2024-04-24 00:15:32",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "BinanceCat_Moira"
+        ],
+        "holders": {
+            "ETH": 102
+        }
+    },
+    {
+        "contract_address": "0x2d499800239c4cd3012473cb1eae33562f0a6933",
+        "date_add": "2024-04-24 00:15:32",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10
+        }
+    },
+    {
+        "contract_address": "0xe577dcbe162c29a873c0e705110c2576430e0ebb",
+        "date_add": "2024-04-24 00:15:32",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "altermix.io",
+            "docs.altermix.io"
+        ],
+        "telegram_groups": [
+            "altermixETH",
+            "altermix_bot"
+        ],
+        "holders": {
+            "ETH": 232
+        }
+    },
+    {
+        "contract_address": "0xcdb2982e26ca9d59a3be9309024646bf1c340967",
+        "date_add": "2024-04-24 00:15:32",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x22c088ccb941e7244c5c5d9402775f331acdf6a3",
+        "date_add": "2024-04-24 00:15:32",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
     }
 ]
