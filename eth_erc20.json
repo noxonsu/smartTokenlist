@@ -13492,7 +13492,11 @@
         "holders": {
             "ETH": 950
         },
-        "p8skip": true
+        "p8skip": true,
+        "emails": [
+            "info@xcepterc.app"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbee709aa42375ace642338f7f657ff859a19c9bc",
@@ -133488,7 +133492,10 @@
         "holders": {
             "ETH": 1
         },
-        "p6": true
+        "p6": true,
+        "emails": [
+            "DRAGGYERC@GMAIL.COM"
+        ]
     },
     {
         "contract_address": "0x277fe0212dccc710d771f41711e80cdb9d1f7393",
@@ -133543,7 +133550,11 @@
         ],
         "holders": {
             "ETH": 197
-        }
+        },
+        "emails": [
+            "DRAGGYERC@GMAIL.COM"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xac506c7dc601500e997cad42ea446624ed40c743",
@@ -133559,7 +133570,11 @@
         ],
         "holders": {
             "ETH": 44
-        }
+        },
+        "emails": [
+            "info@xcepterc.app"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbb85cfdb20c141ba0ca8b9d1c76cbe945ab5e422",
@@ -133573,7 +133588,8 @@
         ],
         "holders": {
             "ETH": 257
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe133676987b5cc362848edf0140d01f9fceac035",
@@ -133615,12 +133631,13 @@
             "1337-leet.vip"
         ],
         "telegram_groups": [
-            "leet1337eth",
-            "leet_1337_eth_bot"
+            "leet_1337_eth_bot",
+            "leet1337eth"
         ],
         "holders": {
             "ETH": 151
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf3992cb51b5975530080915d06a00e43d979a1b8",
@@ -133634,6 +133651,7 @@
         ],
         "holders": {
             "ETH": 157
-        }
+        },
+        "p6": true
     }
 ]
