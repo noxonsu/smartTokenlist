@@ -133824,7 +133824,9 @@
         },
         "web_domains": [
             "aleo.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x38831b0915498f3286a8fd4c38c4b11553fba245",
@@ -133839,7 +133841,8 @@
         ],
         "holders": {
             "ETH": 84
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x545e0ba0fae827570fb4f3786dcd136446d87d9c",
@@ -133853,7 +133856,8 @@
         },
         "web_domains": [
             "kekistanreborn.fandom.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8c3fe4ed7bbc0d8443815aef6559b0db5be029f4",
@@ -133864,7 +133868,12 @@
         },
         "web_domains": [
             "smartai.com.au"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "sales@smartai.com.au"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x01d33fd36ec67c6ada32cf36b31e88ee190b1839",
@@ -133875,7 +133884,9 @@
         },
         "web_domains": [
             "brztoken.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xacdf0dba4b9839b96221a8487e9ca660a48212be",
@@ -133894,7 +133905,9 @@
         },
         "web_domains": [
             "novamind.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc305ae5bdc9d06821fefc50de8d1fd3e5d499170",
