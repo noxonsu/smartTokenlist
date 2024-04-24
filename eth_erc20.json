@@ -133814,5 +133814,96 @@
         "holders": {
             "ETH": 689
         }
+    },
+    {
+        "contract_address": "0x448e7cb5a540494f5155dbb538eef41896a31c8d",
+        "date_add": "2024-04-24 22:04:11",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 49
+        }
+    },
+    {
+        "contract_address": "0x38831b0915498f3286a8fd4c38c4b11553fba245",
+        "date_add": "2024-04-24 22:04:11",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tateaibot.xyz"
+        ],
+        "telegram_groups": [
+            "tateai_eth",
+            "tate_aibot"
+        ],
+        "holders": {
+            "ETH": 84
+        }
+    },
+    {
+        "contract_address": "0x545e0ba0fae827570fb4f3786dcd136446d87d9c",
+        "date_add": "2024-04-24 22:04:11",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Kekistanentry"
+        ],
+        "holders": {
+            "ETH": 89
+        }
+    },
+    {
+        "contract_address": "0x8c3fe4ed7bbc0d8443815aef6559b0db5be029f4",
+        "date_add": "2024-04-24 22:04:11",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 113
+        }
+    },
+    {
+        "contract_address": "0x01d33fd36ec67c6ada32cf36b31e88ee190b1839",
+        "date_add": "2024-04-24 22:04:11",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 102
+        }
+    },
+    {
+        "contract_address": "0xacdf0dba4b9839b96221a8487e9ca660a48212be",
+        "date_add": "2024-04-24 22:04:11",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x9cb6dd255a6bbe32130ce645ec45c0a3e9d87a4a",
+        "date_add": "2024-04-24 22:04:11",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 109
+        }
+    },
+    {
+        "contract_address": "0xc305ae5bdc9d06821fefc50de8d1fd3e5d499170",
+        "date_add": "2024-04-24 22:04:11",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "flipoff.wtf"
+        ],
+        "telegram_groups": [
+            "flipoffwtf"
+        ],
+        "holders": {
+            "ETH": 23
+        }
+    },
+    {
+        "contract_address": "0x2015730cb36934f40157ea98a8ee6b29d2f825d8",
+        "date_add": "2024-04-24 22:04:11",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ethereum20150730"
+        ],
+        "holders": {
+            "ETH": 158
+        }
     }
 ]
