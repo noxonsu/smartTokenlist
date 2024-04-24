@@ -133408,7 +133408,9 @@
         },
         "web_domains": [
             "elf.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xaea12da76020f95f4bdb6e44c2c878afbffedc0b",
@@ -133422,7 +133424,8 @@
         ],
         "holders": {
             "ETH": 220
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x002f07b9091e150937d691d6dfe5515fcaa52eba",
@@ -133436,7 +133439,8 @@
         },
         "web_domains": [
             "vbmappapp.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa9e199dbbb113bdf79fb258417fae394c5ad0348",
