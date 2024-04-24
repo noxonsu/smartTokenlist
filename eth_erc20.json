@@ -133462,7 +133462,8 @@
         ],
         "holders": {
             "ETH": 293
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa7ab2a0ab2616335d9b3da118db24bec9cde5821",
@@ -133476,7 +133477,8 @@
         ],
         "holders": {
             "ETH": 1
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x277fe0212dccc710d771f41711e80cdb9d1f7393",
@@ -133490,7 +133492,8 @@
         ],
         "holders": {
             "ETH": 133
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x840622b5ff644c8c92a4b52e38284054839d880a",
@@ -133512,6 +133515,10 @@
         ],
         "holders": {
             "ETH": 273
-        }
+        },
+        "emails": [
+            "TEAM@EPEP96.COM "
+        ],
+        "p6": true
     }
 ]
