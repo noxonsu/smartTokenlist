@@ -133366,7 +133366,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 30
-        }
+        },
+        "web_domains": [
+            "birddoge.com"
+        ]
     },
     {
         "contract_address": "0x8a13f32e2a556830f3a5e97a96ae941abfcb1d5c",
@@ -133374,7 +133377,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 90
-        }
+        },
+        "web_domains": [
+            "elf.com"
+        ]
     },
     {
         "contract_address": "0xaea12da76020f95f4bdb6e44c2c878afbffedc0b",
@@ -133399,7 +133405,10 @@
         ],
         "holders": {
             "ETH": 64
-        }
+        },
+        "web_domains": [
+            "vbmappapp.com"
+        ]
     },
     {
         "contract_address": "0xa9e199dbbb113bdf79fb258417fae394c5ad0348",
