@@ -133710,7 +133710,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 127
-        }
+        },
+        "web_domains": [
+            "memerun.xyz"
+        ]
     },
     {
         "contract_address": "0xbc8646007fb67cd69d2e423a9a0bc0804314f33a",
