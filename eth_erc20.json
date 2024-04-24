@@ -133530,5 +133530,110 @@
             "TEAM@EPEP96.COM "
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0xd12a99dbc40036cec6f1b776dccd2d36f5953b94",
+        "date_add": "2024-04-24 16:04:27",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "draggy.wtf"
+        ],
+        "telegram_groups": [
+            "DRAGGYETH"
+        ],
+        "holders": {
+            "ETH": 197
+        }
+    },
+    {
+        "contract_address": "0xac506c7dc601500e997cad42ea446624ed40c743",
+        "date_add": "2024-04-24 16:04:27",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "xcepterc.app",
+            "linktr.ee",
+            "xception.gitbook.io"
+        ],
+        "telegram_groups": [
+            "XCeptionPortal"
+        ],
+        "holders": {
+            "ETH": 44
+        }
+    },
+    {
+        "contract_address": "0xbb85cfdb20c141ba0ca8b9d1c76cbe945ab5e422",
+        "date_add": "2024-04-24 16:04:27",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mami.cat"
+        ],
+        "telegram_groups": [
+            "MamiCoinETH"
+        ],
+        "holders": {
+            "ETH": 257
+        }
+    },
+    {
+        "contract_address": "0xe133676987b5cc362848edf0140d01f9fceac035",
+        "date_add": "2024-04-24 16:04:27",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x037a5fef5470cf4ad539a19a7d849bb6886a4ec3",
+        "date_add": "2024-04-24 16:04:27",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 472
+        }
+    },
+    {
+        "contract_address": "0xd61e1cafd50e570356dd5f6d679a7bd0535a7fcf",
+        "date_add": "2024-04-24 16:04:27",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2997
+        }
+    },
+    {
+        "contract_address": "0xdbe88dbac39263c47629ebba02b3ef4cf0752a72",
+        "date_add": "2024-04-24 16:04:27",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 73
+        }
+    },
+    {
+        "contract_address": "0x1337ec9dd1335e8397372c21511ca85c5e492c2b",
+        "date_add": "2024-04-24 16:04:27",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "1337-leet.vip"
+        ],
+        "telegram_groups": [
+            "leet1337eth",
+            "leet_1337_eth_bot"
+        ],
+        "holders": {
+            "ETH": 151
+        }
+    },
+    {
+        "contract_address": "0xf3992cb51b5975530080915d06a00e43d979a1b8",
+        "date_add": "2024-04-24 16:04:27",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pineappleelephantsmurf.vip"
+        ],
+        "telegram_groups": [
+            "PEStoken"
+        ],
+        "holders": {
+            "ETH": 157
+        }
     }
 ]
