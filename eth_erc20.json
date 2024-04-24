@@ -133689,5 +133689,113 @@
             "pNetworkDefi"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x48405cc2493e0973978e056476627c344ec528e8",
+        "date_add": "2024-04-24 20:04:22",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.polychain.ai"
+        ],
+        "telegram_groups": [
+            "polychainai"
+        ],
+        "holders": {
+            "ETH": 137
+        }
+    },
+    {
+        "contract_address": "0x261844c0d23e250afab30d714d03062dc335f06e",
+        "date_add": "2024-04-24 20:04:22",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 127
+        }
+    },
+    {
+        "contract_address": "0xbc8646007fb67cd69d2e423a9a0bc0804314f33a",
+        "date_add": "2024-04-24 20:04:22",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wendysthefrog.com"
+        ],
+        "telegram_groups": [
+            "WendysTheFrog"
+        ],
+        "holders": {
+            "ETH": 146
+        }
+    },
+    {
+        "contract_address": "0x47e69b8f2bdfaea36643fa4bfb8c0933e46ba821",
+        "date_add": "2024-04-24 20:04:22",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 48
+        }
+    },
+    {
+        "contract_address": "0xfb032d78438200da8ff64fd2aa8f42da79263943",
+        "date_add": "2024-04-24 20:04:22",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "octaprotocol.com",
+            "octa-protocol.gitbook.io"
+        ],
+        "telegram_groups": [
+            "OctaProtocol"
+        ],
+        "holders": {
+            "ETH": 23
+        }
+    },
+    {
+        "contract_address": "0x55b7068bc97d93c574ef844fac2b5e5a365ae16a",
+        "date_add": "2024-04-24 20:04:22",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cryptochampion.game",
+            "cryptochampion.game",
+            "whitepaper.cryptochampion.game"
+        ],
+        "telegram_groups": [
+            "CryptoChampionPortal"
+        ],
+        "holders": {
+            "ETH": 392
+        }
+    },
+    {
+        "contract_address": "0x2009103b4bdf0a3cab041cb2dea5d0fcfe0501e0",
+        "date_add": "2024-04-24 20:04:22",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "bitcoin20090103ETH"
+        ],
+        "holders": {
+            "ETH": 243
+        }
+    },
+    {
+        "contract_address": "0x4d9b0b7a6db042cb990d36a0df5aa2960e552f16",
+        "date_add": "2024-04-24 20:04:22",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hpohs888inu.com"
+        ],
+        "telegram_groups": [
+            "HPOHS888Inu"
+        ],
+        "holders": {
+            "ETH": 704
+        }
+    },
+    {
+        "contract_address": "0x8e9f7954be652d0f10fb055324176442c0985bfd",
+        "date_add": "2024-04-24 20:04:22",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 689
+        }
     }
 ]
