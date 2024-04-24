@@ -133192,5 +133192,64 @@
         "holders": {
             "ETH": 18
         }
+    },
+    {
+        "contract_address": "0xa9a57d0824a613d181e0323b0ca85fbd4e27160b",
+        "date_add": "2024-04-24 10:05:11",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0xb912cfd8cd814988b794b5301785c12c71b51651",
+        "date_add": "2024-04-24 10:05:11",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "proofplatform.io"
+        ],
+        "holders": {
+            "ETH": 283
+        }
+    },
+    {
+        "contract_address": "0x44e5970d6bec25f036b3f8a978e26e3a82ff5d2e",
+        "date_add": "2024-04-24 10:05:11",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xce98eb8b2fb98049b3f2db0a212ba7ca3efd63b0",
+        "date_add": "2024-04-24 10:05:11",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 21
+        }
+    },
+    {
+        "contract_address": "0xf51e192cf66c3e2985073845a9337d20a36cdf4f",
+        "date_add": "2024-04-24 10:05:11",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xd82fd4d6d62f89a1e50b1db69ad19932314aa408",
+        "date_add": "2024-04-24 10:05:11",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 140
+        }
+    },
+    {
+        "contract_address": "0x42aebce3570153766084869a47cca5c240b7f9d4",
+        "date_add": "2024-04-24 10:05:11",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 38
+        }
     }
 ]
