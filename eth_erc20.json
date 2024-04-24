@@ -132793,12 +132793,13 @@
             "docs.altermix.io"
         ],
         "telegram_groups": [
-            "altermixETH",
-            "altermix_bot"
+            "altermix_bot",
+            "altermixETH"
         ],
         "holders": {
             "ETH": 232
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xcdb2982e26ca9d59a3be9309024646bf1c340967",
@@ -132817,6 +132818,10 @@
         },
         "web_domains": [
             "cheekydawg.xyz"
-        ]
+        ],
+        "telegram_groups": [
+            "Cheeky_Dawg"
+        ],
+        "p6": true
     }
 ]
