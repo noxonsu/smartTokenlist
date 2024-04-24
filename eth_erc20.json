@@ -132888,7 +132888,11 @@
         },
         "web_domains": [
             "shibashootout.com"
-        ]
+        ],
+        "telegram_groups": [
+            "shibashootout"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x692ce13da5beeaeb1da98300cc05a15baf05f1df",
@@ -132902,7 +132906,8 @@
         ],
         "holders": {
             "ETH": 166
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xbec24173a5663cbe6e27ef6ec67b12902d0a37f9",
@@ -132913,7 +132918,12 @@
         },
         "web_domains": [
             "freecz.cz"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "info@freecz.cz\u200b"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd09e436189ff6b810589550af39e8643580e96a3",
@@ -132924,7 +132934,11 @@
         },
         "web_domains": [
             "ownthedoge.com"
-        ]
+        ],
+        "telegram_groups": [
+            "ownthedoge"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x93616f9837bfbe2a4f9a006492457b2886457936",
@@ -132938,7 +132952,8 @@
         ],
         "holders": {
             "ETH": 126
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6968676661ac9851c38907bdfcc22d5dd77b564d",
@@ -132952,7 +132967,8 @@
         },
         "web_domains": [
             "boysclub.vip"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6968b78f034475ebad122e8f441d2ae438076766",
