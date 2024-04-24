@@ -133242,7 +133242,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 140
-        }
+        },
+        "web_domains": [
+            "liquids.com"
+        ]
     },
     {
         "contract_address": "0x42aebce3570153766084869a47cca5c240b7f9d4",
@@ -133250,6 +133253,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 38
-        }
+        },
+        "web_domains": [
+            "iskra.eu"
+        ]
     }
 ]
