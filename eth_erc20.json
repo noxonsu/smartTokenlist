@@ -133821,7 +133821,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 49
-        }
+        },
+        "web_domains": [
+            "aleo.org"
+        ]
     },
     {
         "contract_address": "0x38831b0915498f3286a8fd4c38c4b11553fba245",
@@ -133847,7 +133850,10 @@
         ],
         "holders": {
             "ETH": 89
-        }
+        },
+        "web_domains": [
+            "kekistanreborn.fandom.com"
+        ]
     },
     {
         "contract_address": "0x8c3fe4ed7bbc0d8443815aef6559b0db5be029f4",
@@ -133855,7 +133861,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 113
-        }
+        },
+        "web_domains": [
+            "smartai.com.au"
+        ]
     },
     {
         "contract_address": "0x01d33fd36ec67c6ada32cf36b31e88ee190b1839",
@@ -133863,7 +133872,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 102
-        }
+        },
+        "web_domains": [
+            "brztoken.io"
+        ]
     },
     {
         "contract_address": "0xacdf0dba4b9839b96221a8487e9ca660a48212be",
@@ -133879,7 +133891,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 109
-        }
+        },
+        "web_domains": [
+            "novamind.io"
+        ]
     },
     {
         "contract_address": "0xc305ae5bdc9d06821fefc50de8d1fd3e5d499170",
