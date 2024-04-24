@@ -133449,5 +133449,69 @@
         "holders": {
             "ETH": 513
         }
+    },
+    {
+        "contract_address": "0x15420963ea86d613b0568ae1ccf0c3905cdd7553",
+        "date_add": "2024-04-24 14:04:25",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.google.com"
+        ],
+        "telegram_groups": [
+            "Satoshi0x15420"
+        ],
+        "holders": {
+            "ETH": 293
+        }
+    },
+    {
+        "contract_address": "0xa7ab2a0ab2616335d9b3da118db24bec9cde5821",
+        "date_add": "2024-04-24 14:04:25",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "draggy.wtf"
+        ],
+        "telegram_groups": [
+            "DRAGGYETH"
+        ],
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x277fe0212dccc710d771f41711e80cdb9d1f7393",
+        "date_add": "2024-04-24 14:04:25",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "phattpepe.website"
+        ],
+        "telegram_groups": [
+            "phattpepeportal"
+        ],
+        "holders": {
+            "ETH": 133
+        }
+    },
+    {
+        "contract_address": "0x840622b5ff644c8c92a4b52e38284054839d880a",
+        "date_add": "2024-04-24 14:04:25",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 100
+        }
+    },
+    {
+        "contract_address": "0x96e4e4dd72f069968a8521488c718311f2fa28bc",
+        "date_add": "2024-04-24 14:04:25",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "epep96.com"
+        ],
+        "telegram_groups": [
+            "EPEP0x96"
+        ],
+        "holders": {
+            "ETH": 273
+        }
     }
 ]
