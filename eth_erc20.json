@@ -114703,7 +114703,14 @@
         ],
         "holders": {
             "ETH": 570
-        }
+        },
+        "telegram_groups": [
+            "PROOFPlatform"
+        ],
+        "emails": [
+            "hi@proofplatform.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4563554284aa7148d6e6d0351519e954ba3b6e02",
@@ -133210,7 +133217,14 @@
         ],
         "holders": {
             "ETH": 283
-        }
+        },
+        "telegram_groups": [
+            "PROOFPlatform"
+        ],
+        "emails": [
+            "hi@proofplatform.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x44e5970d6bec25f036b3f8a978e26e3a82ff5d2e",
@@ -133245,7 +133259,12 @@
         },
         "web_domains": [
             "liquids.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "For more information, drop me a line loren@800.net"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x42aebce3570153766084869a47cca5c240b7f9d4",
@@ -133256,7 +133275,9 @@
         },
         "web_domains": [
             "iskra.eu"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x44443706bc2acef7076f5884245cb6c29ba20bab",
@@ -133300,7 +133321,11 @@
         ],
         "holders": {
             "ETH": 195
-        }
+        },
+        "telegram_groups": [
+            "Pepper_ss"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x42069caef15dbac7f4aad588197ae568cfe3323f",
@@ -133325,7 +133350,8 @@
         ],
         "holders": {
             "ETH": 353
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe2c2080c56870ded2d5d6792b23d41cc85892c7e",
@@ -133369,7 +133395,9 @@
         },
         "web_domains": [
             "birddoge.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8a13f32e2a556830f3a5e97a96ae941abfcb1d5c",
