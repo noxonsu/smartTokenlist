@@ -133105,7 +133105,12 @@
         },
         "web_domains": [
             "magicschool.ai"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "hey@magicschool.ai"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xea709c5a0cb85a9894da1fbe5703b3d2f5315e90",
@@ -133127,7 +133132,8 @@
         ],
         "holders": {
             "ETH": 223
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0c0c9044baa911efd1c9f711e28570070dbf82a0",
@@ -133138,7 +133144,9 @@
         ],
         "holders": {
             "ETH": 67
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x616114c67037431b2cb79d848f07971b0f71a1e8",
@@ -133149,22 +133157,25 @@
         },
         "web_domains": [
             "argoxtv.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9756f5cd1cb7c0dbb6893973c2f0cec59c671c05",
         "date_add": "2024-04-24 08:05:47",
         "sourceScanned": "processed",
         "telegram_groups": [
-            "Rehab_ERC",
-            "AddictedERC"
+            "AddictedERC",
+            "Rehab_ERC"
         ],
         "holders": {
             "ETH": 95
         },
         "web_domains": [
             "rbrehab.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x354e571311e23b4bf3177be9ae5c3c05127cc967",
