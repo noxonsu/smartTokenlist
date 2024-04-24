@@ -133102,7 +133102,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 41
-        }
+        },
+        "web_domains": [
+            "magicschool.ai"
+        ]
     },
     {
         "contract_address": "0xea709c5a0cb85a9894da1fbe5703b3d2f5315e90",
@@ -133143,7 +133146,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 53
-        }
+        },
+        "web_domains": [
+            "argoxtv.com"
+        ]
     },
     {
         "contract_address": "0x9756f5cd1cb7c0dbb6893973c2f0cec59c671c05",
@@ -133155,7 +133161,10 @@
         ],
         "holders": {
             "ETH": 95
-        }
+        },
+        "web_domains": [
+            "rbrehab.com"
+        ]
     },
     {
         "contract_address": "0x354e571311e23b4bf3177be9ae5c3c05127cc967",
