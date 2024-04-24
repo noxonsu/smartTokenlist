@@ -133671,7 +133671,9 @@
         },
         "web_domains": [
             "usemotion.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd055b033b2d72e4b2c26048c5d412026c1823015",
@@ -133682,6 +133684,10 @@
         },
         "web_domains": [
             "dapp.ptokens.io"
-        ]
+        ],
+        "telegram_groups": [
+            "pNetworkDefi"
+        ],
+        "p6": true
     }
 ]
