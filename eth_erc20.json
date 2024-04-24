@@ -133095,5 +133095,82 @@
         "holders": {
             "ETH": 1
         }
+    },
+    {
+        "contract_address": "0x0c21db9a62158e0a94e3371d942fb997c322c7dc",
+        "date_add": "2024-04-24 08:05:47",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 41
+        }
+    },
+    {
+        "contract_address": "0xea709c5a0cb85a9894da1fbe5703b3d2f5315e90",
+        "date_add": "2024-04-24 08:05:47",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 65
+        }
+    },
+    {
+        "contract_address": "0x69420e3a3aa9e17dea102bb3a9b3b73dcddb9528",
+        "date_add": "2024-04-24 08:05:47",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "elon0x69420.vip"
+        ],
+        "telegram_groups": [
+            "elon0x69420"
+        ],
+        "holders": {
+            "ETH": 223
+        }
+    },
+    {
+        "contract_address": "0x0c0c9044baa911efd1c9f711e28570070dbf82a0",
+        "date_add": "2024-04-24 08:05:47",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "reya.network"
+        ],
+        "holders": {
+            "ETH": 67
+        }
+    },
+    {
+        "contract_address": "0x616114c67037431b2cb79d848f07971b0f71a1e8",
+        "date_add": "2024-04-24 08:05:47",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 53
+        }
+    },
+    {
+        "contract_address": "0x9756f5cd1cb7c0dbb6893973c2f0cec59c671c05",
+        "date_add": "2024-04-24 08:05:47",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Rehab_ERC",
+            "AddictedERC"
+        ],
+        "holders": {
+            "ETH": 95
+        }
+    },
+    {
+        "contract_address": "0x354e571311e23b4bf3177be9ae5c3c05127cc967",
+        "date_add": "2024-04-24 08:05:47",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 62
+        }
+    },
+    {
+        "contract_address": "0xcbe044eeba2793f640d3b60cb94ee57c1f21541c",
+        "date_add": "2024-04-24 08:05:47",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
     }
 ]
