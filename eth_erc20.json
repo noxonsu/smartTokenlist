@@ -132982,7 +132982,8 @@
         ],
         "holders": {
             "ETH": 223
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x963cd3e835d81ce8e4ae4836e654336dab4298e9",
@@ -132996,7 +132997,9 @@
         },
         "web_domains": [
             "tuitioncoin.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x68a5b2d6015c9df176c62a71199df311550895ab",
@@ -133007,7 +133010,9 @@
         },
         "web_domains": [
             "theakempirecompany.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd996371130750fddd5cb0d50ff21e84bb23bc7f8",
@@ -133018,7 +133023,14 @@
         },
         "web_domains": [
             "scallop.io"
-        ]
+        ],
+        "telegram_groups": [
+            "scallop_io"
+        ],
+        "emails": [
+            "support@scallop.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x80286b475969e032bdfb85639fed4d4f30ea9526",
@@ -133072,7 +133084,9 @@
         ],
         "holders": {
             "ETH": 21
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd2cee8334ba92f36645107f0cb70d4e408078281",
