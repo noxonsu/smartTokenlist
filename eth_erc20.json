@@ -133702,7 +133702,8 @@
         ],
         "holders": {
             "ETH": 137
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x261844c0d23e250afab30d714d03062dc335f06e",
@@ -133713,7 +133714,9 @@
         },
         "web_domains": [
             "memerun.xyz"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xbc8646007fb67cd69d2e423a9a0bc0804314f33a",
@@ -133723,11 +133726,17 @@
             "wendysthefrog.com"
         ],
         "telegram_groups": [
+            "Wendysthefrog",
+            "wendysthefrog",
             "WendysTheFrog"
         ],
         "holders": {
             "ETH": 146
-        }
+        },
+        "emails": [
+            "team@wendysthefrog.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x47e69b8f2bdfaea36643fa4bfb8c0933e46ba821",
@@ -133750,7 +133759,8 @@
         ],
         "holders": {
             "ETH": 23
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x55b7068bc97d93c574ef844fac2b5e5a365ae16a",
@@ -133766,7 +133776,11 @@
         ],
         "holders": {
             "ETH": 392
-        }
+        },
+        "emails": [
+            "support@cryptochampion.game "
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2009103b4bdf0a3cab041cb2dea5d0fcfe0501e0",
