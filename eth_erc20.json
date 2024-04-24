@@ -132823,5 +132823,42 @@
             "Cheeky_Dawg"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x572523ab20569848433b7ec07041a2a7484349ba",
+        "date_add": "2024-04-24 02:12:02",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 318
+        }
+    },
+    {
+        "contract_address": "0x64424b26098d7c8ad8af1ba36c904c972aed92b9",
+        "date_add": "2024-04-24 02:12:02",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hoppy0x64.com"
+        ],
+        "telegram_groups": [
+            "hoppy0x64"
+        ],
+        "holders": {
+            "ETH": 366
+        }
+    },
+    {
+        "contract_address": "0x90aece1f29e89b5d1e5ffad3eca9fc3d238064b4",
+        "date_add": "2024-04-24 02:12:02",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "theaquilareport.com",
+            "satannamaste.com"
+        ],
+        "telegram_groups": [
+            "SatanNamaste"
+        ],
+        "holders": {
+            "ETH": 45
+        }
     }
 ]
