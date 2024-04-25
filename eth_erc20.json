@@ -134068,7 +134068,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 32
-        }
+        },
+        "web_domains": [
+            "hiod.io"
+        ]
     },
     {
         "contract_address": "0xc4ed348c56223c5953939e932e315f9d72cd83ff",
