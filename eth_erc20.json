@@ -57529,8 +57529,8 @@
             "www.x.com"
         ],
         "telegram_groups": [
-            null,
             "loem_ai",
+            null,
             "doge2rescue"
         ],
         "holders": {
@@ -134538,7 +134538,8 @@
         ],
         "holders": {
             "ETH": 24
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x60699dcb767b7a5e0935a156080879d68d402404",
@@ -134550,7 +134551,13 @@
         ],
         "holders": {
             "ETH": 116
-        }
+        },
+        "telegram_groups": [
+            "loem_ai",
+            null,
+            "doge2rescue"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x857110b5f8efd66cc3762abb935315630ac770b5",
