@@ -134046,7 +134046,8 @@
         ],
         "holders": {
             "ETH": 394
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0236eec7d3492b6b4b3593960e3fca47c3a9af3e",
@@ -134060,7 +134061,8 @@
         ],
         "holders": {
             "ETH": 159
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7a83ff237e7870d8d6c3485920ebe654d2841315",
@@ -134071,7 +134073,9 @@
         },
         "web_domains": [
             "hiod.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc4ed348c56223c5953939e932e315f9d72cd83ff",
