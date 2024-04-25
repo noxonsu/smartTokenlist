@@ -134379,7 +134379,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 37
-        }
+        },
+        "web_domains": [
+            "manekiseattle.com"
+        ]
     },
     {
         "contract_address": "0x82a3f389aa8519ebe78947d4bfd45f4e050a3f2c",
