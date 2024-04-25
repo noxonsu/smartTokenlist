@@ -133948,7 +133948,11 @@
         ],
         "holders": {
             "ETH": 24
-        }
+        },
+        "emails": [
+            "support@io.net "
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xef16f4914cfe9f35ab2c0fd542621607908c47ea",
@@ -133967,7 +133971,9 @@
         },
         "web_domains": [
             "donkey-products.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x69824fabbde6deadeca2ac6c3df3c1be069eba32",
