@@ -2070,7 +2070,9 @@
         "holders": {
             "ETH": 2097
         },
-        "p8skip": true
+        "p8skip": true,
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x62cc883b8d96fb98900ae6eb68dbb328e8e9f412",
@@ -32998,7 +33000,9 @@
         "holders": {
             "ETH": 7540
         },
-        "p8skip": true
+        "p8skip": true,
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x238a1fcc2f65ed50c1e1797cf5857cba3e82a55b",
@@ -50177,7 +50181,9 @@
         "holders": {
             "ETH": 860
         },
-        "p8skip": true
+        "p8skip": true,
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x80a9bf2b338b7cd1aef6bfc2e89db0737aecbeef",
@@ -110155,7 +110161,9 @@
         ],
         "holders": {
             "ETH": 548
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x315031472b5bbf2a32f6f1d9653d5d7f423a8fe3",
@@ -129828,7 +129836,12 @@
         ],
         "holders": {
             "ETH": 686
-        }
+        },
+        "telegram_groups": [
+            "remilios",
+            "LunaInuERC20"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf9fb4ad91812b704ba883b11d2b576e890a6730a",
@@ -134854,11 +134867,14 @@
             "www.theblock.co"
         ],
         "telegram_groups": [
+            "the_block_crypto",
+            "blobserc20coin",
             "SaveOurMemes"
         ],
         "holders": {
             "ETH": 423
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x15e946422bdfc06469fc21f0587d260f581a18ff",
@@ -134896,7 +134912,9 @@
         ],
         "holders": {
             "ETH": 13
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2d618d7cf1de4911684336d5f973c113ea452cc3",
@@ -134915,6 +134933,11 @@
         ],
         "holders": {
             "ETH": 151
-        }
+        },
+        "telegram_groups": [
+            "remilios",
+            "LunaInuERC20"
+        ],
+        "p6": true
     }
 ]
