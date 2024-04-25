@@ -134125,7 +134125,8 @@
         ],
         "holders": {
             "ETH": 69
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0da210f60a179ee3364123943930dadbab8b210e",
@@ -134144,7 +134145,11 @@
         },
         "web_domains": [
             "piteas.io"
-        ]
+        ],
+        "telegram_groups": [
+            "piteasio"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xfdc58bbd4359c9d9b7ba2bcb3529366cb9cfb9e1",
@@ -134158,7 +134163,11 @@
         ],
         "holders": {
             "ETH": 99
-        }
+        },
+        "emails": [
+            "worship@lordkek.biz"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2024c22f8501de29e68fd67ad84c59d8d9481889",
@@ -134172,7 +134181,8 @@
         ],
         "holders": {
             "ETH": 205
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf7906f274c174a52d444175729e3fa98f9bde285",
@@ -134202,7 +134212,8 @@
         ],
         "holders": {
             "ETH": 202
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xfd7399191adf5537e4a2abbd6df9dba55c1d492c",
@@ -134246,6 +134257,8 @@
         },
         "web_domains": [
             "scorpioncasino.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
