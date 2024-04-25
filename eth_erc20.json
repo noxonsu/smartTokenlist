@@ -134731,7 +134731,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 22
-        }
+        },
+        "web_domains": [
+            "bookofelon.xyz"
+        ]
     },
     {
         "contract_address": "0xbad69693f4fcbaec70689775c0c8ac6ef44cf6a5",
