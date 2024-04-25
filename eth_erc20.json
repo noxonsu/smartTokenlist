@@ -134724,5 +134724,79 @@
             "Contact: admin@bookofsolana.io"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x4b6fac28f7db0068c0283a476939dd098e6ad1c2",
+        "date_add": "2024-04-25 18:04:48",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 22
+        }
+    },
+    {
+        "contract_address": "0xbad69693f4fcbaec70689775c0c8ac6ef44cf6a5",
+        "date_add": "2024-04-25 18:04:48",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "badpepe.xyz"
+        ],
+        "telegram_groups": [
+            "badpepe0xbad69"
+        ],
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0x6a96ecb2c4444e26c8ad4a3007a69949fa8813f5",
+        "date_add": "2024-04-25 18:04:48",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "plusprotocol.io",
+            "plusprotocol.gitbook.io"
+        ],
+        "telegram_groups": [
+            "plusprotocolerc"
+        ],
+        "holders": {
+            "ETH": 83
+        }
+    },
+    {
+        "contract_address": "0x9dd361cf608bcacdc21effd2273c60afe2df3637",
+        "date_add": "2024-04-25 18:04:48",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 27
+        }
+    },
+    {
+        "contract_address": "0x14a20f22c6d5f14c958d9a3a597a0f7dc2e3d6c4",
+        "date_add": "2024-04-25 18:04:48",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sniperaibot.tech"
+        ],
+        "telegram_groups": [
+            "SniperAiErc20"
+        ],
+        "holders": {
+            "ETH": 75
+        }
+    },
+    {
+        "contract_address": "0x219b37faa2f51bb75df76b13af90a99ca14a4635",
+        "date_add": "2024-04-25 18:04:48",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.ercdocs.cloud",
+            "app.ercdocs.cloud"
+        ],
+        "telegram_groups": [
+            "ercdocs"
+        ],
+        "holders": {
+            "ETH": 25
+        }
     }
 ]
