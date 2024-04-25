@@ -134361,5 +134361,60 @@
             "ETH": 200
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x69420b65e8c298af6d6f17ea2a88cd880fc06719",
+        "date_add": "2024-04-25 08:04:54",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ELON200x69420"
+        ],
+        "holders": {
+            "ETH": 50
+        }
+    },
+    {
+        "contract_address": "0x8f1525d63325e066705aa475dbd47df4a3b54e24",
+        "date_add": "2024-04-25 08:04:54",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 37
+        }
+    },
+    {
+        "contract_address": "0x82a3f389aa8519ebe78947d4bfd45f4e050a3f2c",
+        "date_add": "2024-04-25 08:04:54",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0xc057d974c6b01a67e9ee8d840b8cb15bcd694a86",
+        "date_add": "2024-04-25 08:04:54",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "brettmeme.com"
+        ],
+        "telegram_groups": [
+            "Brett_Tokenerc20"
+        ],
+        "holders": {
+            "ETH": 83
+        }
+    },
+    {
+        "contract_address": "0x0814796111e2be5efe9809cf2761cd72c3f7d7fc",
+        "date_add": "2024-04-25 08:04:54",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mattfuriecoin.club"
+        ],
+        "telegram_groups": [
+            "MattFurie_Coins"
+        ],
+        "holders": {
+            "ETH": 454
+        }
     }
 ]
