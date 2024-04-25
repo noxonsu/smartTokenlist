@@ -134141,7 +134141,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 5
-        }
+        },
+        "web_domains": [
+            "piteas.io"
+        ]
     },
     {
         "contract_address": "0xfdc58bbd4359c9d9b7ba2bcb3529366cb9cfb9e1",
@@ -134240,6 +134243,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 37
-        }
+        },
+        "web_domains": [
+            "scorpioncasino.com"
+        ]
     }
 ]
