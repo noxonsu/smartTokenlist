@@ -134477,7 +134477,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 23
-        }
+        },
+        "web_domains": [
+            "carlocarlo.com"
+        ]
     },
     {
         "contract_address": "0x7ab42992e141e88d096d03b7cf21fe3e5c53e06e",
