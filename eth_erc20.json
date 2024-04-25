@@ -134810,5 +134810,111 @@
             "ETH": 25
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x90046659f3ee77cd3f5eacdedddec4cd5de71b1d",
+        "date_add": "2024-04-25 20:04:41",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "luglord_eth"
+        ],
+        "holders": {
+            "ETH": 272
+        }
+    },
+    {
+        "contract_address": "0xbcfa0ca8568e6f2881cb7fcab2a4911cb04df4c9",
+        "date_add": "2024-04-25 20:04:41",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x5c07440a172805d566faf7ebaf16ef068ac05f43",
+        "date_add": "2024-04-25 20:04:41",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0xb00aa565137b64352cddde7c9c1966f6a704af32",
+        "date_add": "2024-04-25 20:04:41",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 81
+        }
+    },
+    {
+        "contract_address": "0xc4bcb24455eb9750ee131591bc270371f83e793f",
+        "date_add": "2024-04-25 20:04:41",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.theblock.co"
+        ],
+        "telegram_groups": [
+            "SaveOurMemes"
+        ],
+        "holders": {
+            "ETH": 423
+        }
+    },
+    {
+        "contract_address": "0x15e946422bdfc06469fc21f0587d260f581a18ff",
+        "date_add": "2024-04-25 20:04:41",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 79
+        }
+    },
+    {
+        "contract_address": "0x5791254f5d7a4d7ce4dda0391ce15812b65ac2a2",
+        "date_add": "2024-04-25 20:04:41",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "luglord_erc"
+        ],
+        "holders": {
+            "ETH": 190
+        }
+    },
+    {
+        "contract_address": "0x8e7a7dd511a4cc3875c56d8326c82ba8e5ce53f9",
+        "date_add": "2024-04-25 20:04:41",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 557
+        }
+    },
+    {
+        "contract_address": "0xe4c72b4de5b0f9accea880ad0b1f944f85a9daa0",
+        "date_add": "2024-04-25 20:04:41",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dapp.tools"
+        ],
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0x2d618d7cf1de4911684336d5f973c113ea452cc3",
+        "date_add": "2024-04-25 20:04:41",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 227
+        }
+    },
+    {
+        "contract_address": "0x28c5d11436cf68fb0e7b21bb0c570f9ec62199a1",
+        "date_add": "2024-04-25 20:04:41",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tokenmint.io"
+        ],
+        "holders": {
+            "ETH": 151
+        }
     }
 ]
