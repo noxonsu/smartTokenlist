@@ -134734,7 +134734,11 @@
         },
         "web_domains": [
             "bookofelon.xyz"
-        ]
+        ],
+        "telegram_groups": [
+            "boemsolana"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbad69693f4fcbaec70689775c0c8ac6ef44cf6a5",
@@ -134748,7 +134752,8 @@
         ],
         "holders": {
             "ETH": 15
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6a96ecb2c4444e26c8ad4a3007a69949fa8813f5",
@@ -134759,11 +134764,13 @@
             "plusprotocol.gitbook.io"
         ],
         "telegram_groups": [
-            "plusprotocolerc"
+            "plusprotocolerc",
+            "plus_sniper_bot"
         ],
         "holders": {
             "ETH": 83
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9dd361cf608bcacdc21effd2273c60afe2df3637",
@@ -134785,7 +134792,8 @@
         ],
         "holders": {
             "ETH": 75
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x219b37faa2f51bb75df76b13af90a99ca14a4635",
@@ -134800,6 +134808,7 @@
         ],
         "holders": {
             "ETH": 25
-        }
+        },
+        "p6": true
     }
 ]
