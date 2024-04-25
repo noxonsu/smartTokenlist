@@ -134682,7 +134682,10 @@
         ],
         "holders": {
             "ETH": 117
-        }
+        },
+        "web_domains": [
+            "donaldjtrump.com"
+        ]
     },
     {
         "contract_address": "0xca790d038635175e8892cb05a8132af0a23d8faf",
@@ -134693,6 +134696,9 @@
         ],
         "holders": {
             "ETH": 12
-        }
+        },
+        "web_domains": [
+            "bookofsolana.io"
+        ]
     }
 ]
