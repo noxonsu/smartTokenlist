@@ -133934,5 +133934,71 @@
         "holders": {
             "ETH": 158
         }
+    },
+    {
+        "contract_address": "0xc09fb61cd91439c2cb8f8554f701c33ceca47a25",
+        "date_add": "2024-04-25 00:17:10",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "io.net",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "io_net"
+        ],
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0xef16f4914cfe9f35ab2c0fd542621607908c47ea",
+        "date_add": "2024-04-25 00:17:10",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0xc85bf2b2c611ab37471972d931152c5c50e87314",
+        "date_add": "2024-04-25 00:17:10",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0x69824fabbde6deadeca2ac6c3df3c1be069eba32",
+        "date_add": "2024-04-25 00:17:10",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "kobe0x69824"
+        ],
+        "holders": {
+            "ETH": 155
+        }
+    },
+    {
+        "contract_address": "0x50ecc157b8e601dd877e2fe5a8950c69c1853dc4",
+        "date_add": "2024-04-25 00:17:10",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xc798130644b8962a357dfbe8bb30b19b681aa7d4",
+        "date_add": "2024-04-25 00:17:10",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x592878b920101946fb5915ab97961bc546f211cc",
+        "date_add": "2024-04-25 00:17:10",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
     }
 ]
