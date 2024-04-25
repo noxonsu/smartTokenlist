@@ -134260,5 +134260,94 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x9087d5d82c297df165bbfaa4e604fe7484fa8e74",
+        "date_add": "2024-04-25 06:05:07",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "imaginemetaai.com"
+        ],
+        "telegram_groups": [
+            "imaginemetaai"
+        ],
+        "holders": {
+            "ETH": 371
+        }
+    },
+    {
+        "contract_address": "0xdb00e4d777b44dafb5122ec9699dbff82b7af315",
+        "date_add": "2024-04-25 06:05:07",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 336
+        }
+    },
+    {
+        "contract_address": "0x4701bd9e462012bc2a6d9e6ad71a132d7b64df7d",
+        "date_add": "2024-04-25 06:05:07",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.renzoprotocol.com",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "RenzoProtocolChat"
+        ],
+        "holders": {
+            "ETH": 44
+        }
+    },
+    {
+        "contract_address": "0xa8f921bd5867160b1e9d7d6d3efc4afd072cc897",
+        "date_add": "2024-04-25 06:05:07",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "xyraai.com"
+        ],
+        "telegram_groups": [
+            "xyraaiportal"
+        ],
+        "holders": {
+            "ETH": 228
+        }
+    },
+    {
+        "contract_address": "0x7d0ce6f744ebfe2ea039b9a9a77d5c3075f275b9",
+        "date_add": "2024-04-25 06:05:07",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0x4274c28748063a9cd7c5aa4432752c1a8751ead6",
+        "date_add": "2024-04-25 06:05:07",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x1f3739f29ae424d30426f3e40b9fc715000712e4",
+        "date_add": "2024-04-25 06:05:07",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8
+        }
+    },
+    {
+        "contract_address": "0x694200db3b335fe5b9661927a73a10647dfa7eb5",
+        "date_add": "2024-04-25 06:05:07",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "neopepe.com"
+        ],
+        "telegram_groups": [
+            "neopepecoin"
+        ],
+        "holders": {
+            "ETH": 200
+        }
     }
 ]
