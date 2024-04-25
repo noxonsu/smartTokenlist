@@ -134579,7 +134579,11 @@
         ],
         "holders": {
             "ETH": 226
-        }
+        },
+        "emails": [
+            "RattyErc@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x289ff00235d2b98b0145ff5d4435d3e92f9540a6",
@@ -134628,7 +134632,8 @@
         ],
         "holders": {
             "ETH": 226
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9bd4279de16c8e17b06b1da39a5c0e098130529f",
@@ -134640,7 +134645,9 @@
         ],
         "holders": {
             "ETH": 75
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x033be8705c262bb2a12da0274297790e9479cce1",
@@ -134655,7 +134662,8 @@
         ],
         "holders": {
             "ETH": 58
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xca978a0528116dda3cba9acd3e68bc6191ca53d0",
@@ -134685,20 +134693,26 @@
         },
         "web_domains": [
             "donaldjtrump.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xca790d038635175e8892cb05a8132af0a23d8faf",
         "date_add": "2024-04-25 16:04:52",
         "sourceScanned": "processed",
         "telegram_groups": [
-            "BookOfSolanaETH"
+            "BookOfSolanaETH",
+            "bookofsolanaonsol"
         ],
         "holders": {
             "ETH": 12
         },
         "web_domains": [
             "bookofsolana.io"
-        ]
+        ],
+        "emails": [
+            "Contact: admin@bookofsolana.io"
+        ],
+        "p6": true
     }
 ]
