@@ -134382,7 +134382,9 @@
         },
         "web_domains": [
             "manekiseattle.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x82a3f389aa8519ebe78947d4bfd45f4e050a3f2c",
@@ -134404,7 +134406,8 @@
         ],
         "holders": {
             "ETH": 83
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0814796111e2be5efe9809cf2761cd72c3f7d7fc",
@@ -134418,6 +134421,10 @@
         ],
         "holders": {
             "ETH": 454
-        }
+        },
+        "emails": [
+            "teammatt@mattfuriecoin.club"
+        ],
+        "p6": true
     }
 ]
