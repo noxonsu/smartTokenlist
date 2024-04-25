@@ -134273,7 +134273,8 @@
         ],
         "holders": {
             "ETH": 371
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xdb00e4d777b44dafb5122ec9699dbff82b7af315",
@@ -134296,7 +134297,8 @@
         ],
         "holders": {
             "ETH": 44
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa8f921bd5867160b1e9d7d6d3efc4afd072cc897",
@@ -134310,7 +134312,11 @@
         ],
         "holders": {
             "ETH": 228
-        }
+        },
+        "emails": [
+            "contact@xyraai.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7d0ce6f744ebfe2ea039b9a9a77d5c3075f275b9",
@@ -134329,7 +134335,9 @@
         },
         "web_domains": [
             "pancakelp.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x1f3739f29ae424d30426f3e40b9fc715000712e4",
@@ -134351,6 +134359,7 @@
         ],
         "holders": {
             "ETH": 200
-        }
+        },
+        "p6": true
     }
 ]
