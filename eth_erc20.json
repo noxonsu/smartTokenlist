@@ -134939,5 +134939,35 @@
             "LunaInuERC20"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x187c1b8101c0c3ead437f25aa7e525972467946f",
+        "date_add": "2024-04-25 22:04:08",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 442
+        }
+    },
+    {
+        "contract_address": "0x8bf9003c289edbc5c0711ad8f2f9d4915fd527df",
+        "date_add": "2024-04-25 22:04:08",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6001
+        }
+    },
+    {
+        "contract_address": "0xe4e5b28504654b61a1c1153cce01f533c429404d",
+        "date_add": "2024-04-25 22:04:08",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sensoryai.tech"
+        ],
+        "telegram_groups": [
+            "sensoryai"
+        ],
+        "holders": {
+            "ETH": 227
+        }
     }
 ]
