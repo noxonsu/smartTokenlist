@@ -134493,5 +134493,71 @@
         "holders": {
             "ETH": 31
         }
+    },
+    {
+        "contract_address": "0x879054273cb2dad631980fa4efe6d25eefe08aa4",
+        "date_add": "2024-04-25 12:05:52",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 195
+        }
+    },
+    {
+        "contract_address": "0x6ee2b5e19ecba773a352e5b21415dc419a700d1d",
+        "date_add": "2024-04-25 12:05:52",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 40
+        }
+    },
+    {
+        "contract_address": "0xd547d9c74314f787affc587d101146e1663d046e",
+        "date_add": "2024-04-25 12:05:52",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10
+        }
+    },
+    {
+        "contract_address": "0xb5cd090010d4735f18306eb680d898ef9f36f044",
+        "date_add": "2024-04-25 12:05:52",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0x4b62446c6f67969429bb45e7395e2a61d3977729",
+        "date_add": "2024-04-25 12:05:52",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "droooler.com"
+        ],
+        "telegram_groups": [
+            "droolers"
+        ],
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0x60699dcb767b7a5e0935a156080879d68d402404",
+        "date_add": "2024-04-25 12:05:52",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.x.com",
+            "www.t.me"
+        ],
+        "holders": {
+            "ETH": 116
+        }
+    },
+    {
+        "contract_address": "0x857110b5f8efd66cc3762abb935315630ac770b5",
+        "date_add": "2024-04-25 12:05:52",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
     }
 ]
