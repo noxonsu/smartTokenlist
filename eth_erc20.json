@@ -134439,7 +134439,8 @@
         ],
         "holders": {
             "ETH": 306
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x135a410f1d6384ac86a448db8c1eaca4be02e6c2",
@@ -134461,7 +134462,8 @@
         ],
         "holders": {
             "ETH": 326
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xff0fb72406a7392cd352e2226e9443e7bd0d70f4",
@@ -134480,7 +134482,9 @@
         },
         "web_domains": [
             "carlocarlo.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7ab42992e141e88d096d03b7cf21fe3e5c53e06e",
