@@ -135806,7 +135806,9 @@
         },
         "web_domains": [
             "eniac.vc"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4a1727e6c9ecdb74ed742989d502959b396ef288",
@@ -135817,7 +135819,12 @@
         },
         "web_domains": [
             "bunaethiopianmarket.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            " ehwzta@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x028ec7330ff87667b6dfb0d94b954c820195336c",
@@ -135844,7 +135851,9 @@
         },
         "web_domains": [
             "catnapfromtheheart.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4ecb692b0fedecd7b486b4c99044392784877e8c",
