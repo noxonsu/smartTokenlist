@@ -135759,7 +135759,9 @@
         ],
         "holders": {
             "ETH": 24
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc0b3eb1b9ea64658dcee0058b4f37a92c9bd70d5",
@@ -135771,10 +135773,12 @@
         ],
         "telegram_groups": [
             "runicbetabot",
+            "the_orangebot",
             "runicbtc"
         ],
         "holders": {
             "ETH": 287
-        }
+        },
+        "p6": true
     }
 ]
