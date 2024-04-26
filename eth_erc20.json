@@ -134988,7 +134988,12 @@
         },
         "web_domains": [
             "memeverse.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "hello@memeverse.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xeaa50392d28fbd2669f0492b390a0316cd2e1be6",
@@ -135002,7 +135007,8 @@
         ],
         "holders": {
             "ETH": 42
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe8e1db5b7ee5b6acbb84b90f01c503e2da8cef5f",
@@ -135013,7 +135019,9 @@
         ],
         "holders": {
             "ETH": 9
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x1e31b601488e97bc247c57af7b6aa336edbc5477",
@@ -135035,6 +135043,10 @@
         ],
         "holders": {
             "ETH": 19
-        }
+        },
+        "emails": [
+            "memecoincityland@gmail.com"
+        ],
+        "p6": true
     }
 ]
