@@ -135324,7 +135324,9 @@
         },
         "web_domains": [
             "lausd.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x90e87739048a9b7e4f1b6338c13678011ae07941",
@@ -135339,7 +135341,11 @@
         ],
         "holders": {
             "ETH": 119
-        }
+        },
+        "emails": [
+            "admin@yuro-ai.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe195d97bee819b2b93a05413b3031a29a34a8305",
