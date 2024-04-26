@@ -134985,7 +134985,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 30
-        }
+        },
+        "web_domains": [
+            "memeverse.com"
+        ]
     },
     {
         "contract_address": "0xeaa50392d28fbd2669f0492b390a0316cd2e1be6",
