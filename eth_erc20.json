@@ -135088,7 +135088,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 133
-        }
+        },
+        "web_domains": [
+            "bastardganpunks.club"
+        ]
     },
     {
         "contract_address": "0xa3726bedfd1a8aa696b9b4581277240028c4314b",
