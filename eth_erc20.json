@@ -135362,5 +135362,61 @@
         "holders": {
             "ETH": 3231
         }
+    },
+    {
+        "contract_address": "0x77b0fa6a9d2f8f81a715550e1e1d86e9fe483ec5",
+        "date_add": "2024-04-26 08:04:56",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0x9afb950948c2370975fb91a441f36fdc02737cd4",
+        "date_add": "2024-04-26 08:04:56",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2980
+        }
+    },
+    {
+        "contract_address": "0x7dda472c943f83925e36f2ee5adf7815c351e433",
+        "date_add": "2024-04-26 08:04:56",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.basedcoin.io"
+        ],
+        "telegram_groups": [
+            "BasedCoinERC"
+        ],
+        "holders": {
+            "ETH": 206
+        }
+    },
+    {
+        "contract_address": "0xbabe54e6c93f721977105de02773dc20ea15d84e",
+        "date_add": "2024-04-26 08:04:56",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "0xbabe-coin.com"
+        ],
+        "telegram_groups": [
+            "Babe_Coin"
+        ],
+        "holders": {
+            "ETH": 189
+        }
+    },
+    {
+        "contract_address": "0x2a4bdc3f00e561e6335bd2161dcc4557e604c43e",
+        "date_add": "2024-04-26 08:04:56",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bouncebit.io",
+            "discord.com"
+        ],
+        "holders": {
+            "ETH": 24
+        }
     }
 ]
