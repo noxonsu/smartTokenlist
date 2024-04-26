@@ -135912,5 +135912,84 @@
         "holders": {
             "ETH": 100
         }
+    },
+    {
+        "contract_address": "0xc2a30bc623f4c4e1f0011e42f5d74b6beca98aca",
+        "date_add": "2024-04-26 22:04:08",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0x7d81a3399ceac86c5cf7b11e348a2a4bb7536844",
+        "date_add": "2024-04-26 22:04:08",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x1fac4b7640f5fb6f9192a4fcfd7a3d1127145e33",
+        "date_add": "2024-04-26 22:04:08",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x515bbcc6162f7febba77e781994dd32cd2d82e2e",
+        "date_add": "2024-04-26 22:04:08",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.saitamainu.vip"
+        ],
+        "telegram_groups": [
+            "SaitamaInuCommunity"
+        ],
+        "holders": {
+            "ETH": 184
+        }
+    },
+    {
+        "contract_address": "0x4116f14b6d462b32a1c10f98049e4b1765e34fa9",
+        "date_add": "2024-04-26 22:04:08",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 187
+        }
+    },
+    {
+        "contract_address": "0xb9defc03a0bc2de454a60e5cef159c7dd6052fd6",
+        "date_add": "2024-04-26 22:04:08",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "RetardPepeERC"
+        ],
+        "holders": {
+            "ETH": 117
+        }
+    },
+    {
+        "contract_address": "0xc991f6b7d6a6023559490db289ef87e6e07f4cd6",
+        "date_add": "2024-04-26 22:04:08",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "memecoincityland.com"
+        ],
+        "telegram_groups": [
+            "memecoincity"
+        ],
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x8975714e08075f9d52ebd86176a7151c15e3010c",
+        "date_add": "2024-04-26 22:04:08",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 37
+        }
     }
 ]
