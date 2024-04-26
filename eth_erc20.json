@@ -135103,5 +135103,94 @@
         "holders": {
             "ETH": 1
         }
+    },
+    {
+        "contract_address": "0xdb5b0623d029b4ca758d561de8e2446ef42961ac",
+        "date_add": "2024-04-26 04:04:36",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools"
+        ],
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x087e48e1e8e6b48ea2ef318fc7d9f40542bfaf9d",
+        "date_add": "2024-04-26 04:04:36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 347
+        }
+    },
+    {
+        "contract_address": "0x69bab1e22e670ee7782e3bdc5ba004f445d64dee",
+        "date_add": "2024-04-26 04:04:36",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "opensea.io",
+            "www.pegz.fun",
+            "peper0x69bab1.vip"
+        ],
+        "telegram_groups": [
+            "peper0x69BAB1"
+        ],
+        "holders": {
+            "ETH": 328
+        }
+    },
+    {
+        "contract_address": "0x3e99d943f269b83f108eb26f7a81e94831291c77",
+        "date_add": "2024-04-26 04:04:36",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.fuel.network"
+        ],
+        "telegram_groups": [
+            "fuelcommunity"
+        ],
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0x8d9579e8591826ef37c80f680e33b6c8c38bab47",
+        "date_add": "2024-04-26 04:04:36",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.aethir.com",
+            "discord.com",
+            "aethir.medium.com"
+        ],
+        "holders": {
+            "ETH": 22
+        }
+    },
+    {
+        "contract_address": "0x92146d222e575425f4115e5b2c56fd25ea042a94",
+        "date_add": "2024-04-26 04:04:36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0xeb6765e08fbec04d920e57f634be261ec77617a3",
+        "date_add": "2024-04-26 04:04:36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 300
+        }
+    },
+    {
+        "contract_address": "0xd5eb7e91ae88ea2550f9bfd04208399c95df4dc7",
+        "date_add": "2024-04-26 04:04:36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
     }
 ]
