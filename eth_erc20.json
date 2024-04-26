@@ -135435,5 +135435,54 @@
             "bouncebit"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x24d56ce62d0593def9639229c4aa329dd8fd5730",
+        "date_add": "2024-04-26 12:06:40",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "catgirleth.vip"
+        ],
+        "telegram_groups": [
+            "catgirlentry"
+        ],
+        "holders": {
+            "ETH": 66
+        }
+    },
+    {
+        "contract_address": "0x5e36751c5d9dcaed7a31cd198b30018297a58ca1",
+        "date_add": "2024-04-26 12:06:40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0x32e8d4c9d1b711bc958d0ce8d14b41f77bb03a64",
+        "date_add": "2024-04-26 12:06:40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x218de5e6324c5351c3a2bf0c40d76f585b8de04d",
+        "date_add": "2024-04-26 12:06:40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 365
+        }
+    },
+    {
+        "contract_address": "0xf7de6def3d319811418d69bf56c532a815fc47e8",
+        "date_add": "2024-04-26 12:06:40",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "twopaws.io"
+        ],
+        "holders": {
+            "ETH": 456
+        }
     }
 ]
