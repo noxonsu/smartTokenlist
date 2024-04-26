@@ -135641,5 +135641,120 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x9e86fac6d04e8e878e0afcdddf275116bc0644d9",
+        "date_add": "2024-04-26 16:04:33",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.emmaai.tech",
+            "app.emmaai.tech"
+        ],
+        "telegram_groups": [
+            "emmaai_tech"
+        ],
+        "holders": {
+            "ETH": 59
+        }
+    },
+    {
+        "contract_address": "0xda007777d86ac6d989cc9f79a73261b3fc5e0da0",
+        "date_add": "2024-04-26 16:04:33",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2186
+        }
+    },
+    {
+        "contract_address": "0x2f3048d13d1d9cee8d7aae4edace721beb43b6b6",
+        "date_add": "2024-04-26 16:04:33",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 222
+        }
+    },
+    {
+        "contract_address": "0x4a576a79cb1f5654a8e8eb2d2825d6aa57b055ec",
+        "date_add": "2024-04-26 16:04:33",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "xeroai.tech",
+            "docs.xeroai.tech"
+        ],
+        "telegram_groups": [
+            "xeroai_erc_bot",
+            "xeroaitech"
+        ],
+        "holders": {
+            "ETH": 52
+        }
+    },
+    {
+        "contract_address": "0xd799d4aa0491f40a14610ce71dcb015a19071e75",
+        "date_add": "2024-04-26 16:04:33",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "synthetixnet.io"
+        ],
+        "telegram_groups": [
+            "SynthetixNetworkai"
+        ],
+        "holders": {
+            "ETH": 85
+        }
+    },
+    {
+        "contract_address": "0x01dbb77a741df0f600a278f8bb687ce4fb477d84",
+        "date_add": "2024-04-26 16:04:33",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10
+        }
+    },
+    {
+        "contract_address": "0x9a020e4ae82e8ff6b82c1b88dc73990828c17bea",
+        "date_add": "2024-04-26 16:04:33",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 79
+        }
+    },
+    {
+        "contract_address": "0xb3ed706b564bba9cab64042f4e1b391be7bebce5",
+        "date_add": "2024-04-26 16:04:33",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 116
+        }
+    },
+    {
+        "contract_address": "0x467a889da06f8f5d43e8725456e8c192689afe31",
+        "date_add": "2024-04-26 16:04:33",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools"
+        ],
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0xc0b3eb1b9ea64658dcee0058b4f37a92c9bd70d5",
+        "date_add": "2024-04-26 16:04:33",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "docs.runicbot.xyz",
+            "www.runicbot.xyz"
+        ],
+        "telegram_groups": [
+            "runicbetabot",
+            "runicbtc"
+        ],
+        "holders": {
+            "ETH": 287
+        }
     }
 ]
