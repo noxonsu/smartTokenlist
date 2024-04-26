@@ -135072,7 +135072,8 @@
         ],
         "holders": {
             "ETH": 26
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x93109ba54cf51fcee975abdf07e407281358fc5d",
@@ -135091,7 +135092,9 @@
         },
         "web_domains": [
             "bastardganpunks.club"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa3726bedfd1a8aa696b9b4581277240028c4314b",
