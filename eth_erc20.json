@@ -134970,5 +134970,68 @@
             "ETH": 227
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xd8a0cb0843471dea74ff6829970b0e0f8a07e029",
+        "date_add": "2024-04-26 00:15:37",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x9c9e3c748edfa213820f745db52e5a242d01fb6b",
+        "date_add": "2024-04-26 00:15:37",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0xeaa50392d28fbd2669f0492b390a0316cd2e1be6",
+        "date_add": "2024-04-26 00:15:37",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cockchomper.xyz"
+        ],
+        "telegram_groups": [
+            "CockChomperr"
+        ],
+        "holders": {
+            "ETH": 42
+        }
+    },
+    {
+        "contract_address": "0xe8e1db5b7ee5b6acbb84b90f01c503e2da8cef5f",
+        "date_add": "2024-04-26 00:15:37",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "somo.games"
+        ],
+        "holders": {
+            "ETH": 9
+        }
+    },
+    {
+        "contract_address": "0x1e31b601488e97bc247c57af7b6aa336edbc5477",
+        "date_add": "2024-04-26 00:15:37",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2253
+        }
+    },
+    {
+        "contract_address": "0x315849769b3e60ebaa67f7bebd0c76c442cdf1c4",
+        "date_add": "2024-04-26 00:15:37",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "memecoincityland.com"
+        ],
+        "telegram_groups": [
+            "memecoincity"
+        ],
+        "holders": {
+            "ETH": 19
+        }
     }
 ]
