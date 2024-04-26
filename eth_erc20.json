@@ -135919,7 +135919,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 33
-        }
+        },
+        "web_domains": [
+            "movementlabs.xyz"
+        ]
     },
     {
         "contract_address": "0x7d81a3399ceac86c5cf7b11e348a2a4bb7536844",
@@ -135935,7 +135938,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 2
-        }
+        },
+        "web_domains": [
+            "cloudblogs.microsoft.com"
+        ]
     },
     {
         "contract_address": "0x515bbcc6162f7febba77e781994dd32cd2d82e2e",
@@ -135957,7 +135963,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 187
-        }
+        },
+        "web_domains": [
+            "dotmoovs.com"
+        ]
     },
     {
         "contract_address": "0xb9defc03a0bc2de454a60e5cef159c7dd6052fd6",
@@ -135990,6 +135999,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 37
-        }
+        },
+        "web_domains": [
+            "hinkal.pro"
+        ]
     }
 ]
