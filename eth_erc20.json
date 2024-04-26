@@ -135780,5 +135780,72 @@
             "ETH": 287
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x8a1ffb172bff8f585dc5ad19dc8566627b166e8c",
+        "date_add": "2024-04-26 18:04:24",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 128
+        }
+    },
+    {
+        "contract_address": "0x121200ecc026d319c1b887dabeafcc1743827b1d",
+        "date_add": "2024-04-26 18:04:24",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 68
+        }
+    },
+    {
+        "contract_address": "0xbe2526a985f33091187286111456c3089a185a69",
+        "date_add": "2024-04-26 18:04:24",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 41
+        }
+    },
+    {
+        "contract_address": "0x4a1727e6c9ecdb74ed742989d502959b396ef288",
+        "date_add": "2024-04-26 18:04:24",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0x028ec7330ff87667b6dfb0d94b954c820195336c",
+        "date_add": "2024-04-26 18:04:24",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0xc56413869c6cdf96496f2b1ef801fedbdfa7ddb0",
+        "date_add": "2024-04-26 18:04:24",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0x8f5f009c760c124fe7b9827c451d78d8519f6e48",
+        "date_add": "2024-04-26 18:04:24",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0x4ecb692b0fedecd7b486b4c99044392784877e8c",
+        "date_add": "2024-04-26 18:04:24",
+        "sourceScanned": "processed",
+        "emails": [
+            "jake@jakegsy.com"
+        ],
+        "holders": {
+            "ETH": 577
+        }
     }
 ]
