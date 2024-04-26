@@ -135865,5 +135865,50 @@
         "holders": {
             "ETH": 577
         }
+    },
+    {
+        "contract_address": "0x1c9deea42e6fe0900f584c896bceebfcb16bb778",
+        "date_add": "2024-04-26 20:04:17",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "meruai.net",
+            "docs.meruai.net"
+        ],
+        "telegram_groups": [
+            "meru_ai_app"
+        ],
+        "holders": {
+            "ETH": 136
+        }
+    },
+    {
+        "contract_address": "0x19607c2c442bdc78d3592e434df48c3d02930125",
+        "date_add": "2024-04-26 20:04:17",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1105
+        }
+    },
+    {
+        "contract_address": "0xb0b0203fdffcddca0704cd69d179f70b902e5f44",
+        "date_add": "2024-04-26 20:04:17",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.0xb0b0.com"
+        ],
+        "telegram_groups": [
+            "Boboeth20"
+        ],
+        "holders": {
+            "ETH": 170
+        }
+    },
+    {
+        "contract_address": "0x8d6e298e700fc69dda2c30abc12cdabe27b8869e",
+        "date_add": "2024-04-26 20:04:17",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 100
+        }
     }
 ]
