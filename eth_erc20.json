@@ -106195,8 +106195,8 @@
             "dirtypilot.com"
         ],
         "telegram_groups": [
-            "RefundKitties_ERC",
             "birddogcoineth",
+            "RefundKitties_ERC",
             "pandoratwo_404"
         ],
         "holders": {
@@ -107390,8 +107390,8 @@
             "pepercoin.vip"
         ],
         "telegram_groups": [
-            "RefundKitties_ERC",
             "birddogcoineth",
+            "RefundKitties_ERC",
             "pandoratwo_404",
             "pepermemecoin"
         ],
@@ -121099,8 +121099,8 @@
             "kiwicoineth.vip"
         ],
         "telegram_groups": [
-            "RefundKitties_ERC",
             "birddogcoineth",
+            "RefundKitties_ERC",
             "pepermemecoin",
             "pandoratwo_404",
             "kiwicoinerc"
@@ -128402,11 +128402,11 @@
             "snortcoin.vip"
         ],
         "telegram_groups": [
-            "pepermemecoin",
-            "kiwicoinerc",
-            "pandoratwo_404",
-            "RefundKitties_ERC",
             "birddogcoineth",
+            "RefundKitties_ERC",
+            "pepermemecoin",
+            "pandoratwo_404",
+            "kiwicoinerc",
             "snorteth"
         ],
         "holders": {
@@ -135116,7 +135116,9 @@
         ],
         "holders": {
             "ETH": 5
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x087e48e1e8e6b48ea2ef318fc7d9f40542bfaf9d",
@@ -135136,11 +135138,18 @@
             "peper0x69bab1.vip"
         ],
         "telegram_groups": [
-            "peper0x69BAB1"
+            "pepermemecoin",
+            "peper0x69BAB1",
+            "pandoratwo_404",
+            "snorteth",
+            "birddogcoineth",
+            "RefundKitties_ERC",
+            "kiwicoinerc"
         ],
         "holders": {
             "ETH": 328
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3e99d943f269b83f108eb26f7a81e94831291c77",
@@ -135154,7 +135163,8 @@
         ],
         "holders": {
             "ETH": 33
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8d9579e8591826ef37c80f680e33b6c8c38bab47",
@@ -135167,7 +135177,11 @@
         ],
         "holders": {
             "ETH": 22
-        }
+        },
+        "telegram_groups": [
+            "aethirofficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x92146d222e575425f4115e5b2c56fd25ea042a94",
@@ -135178,7 +135192,9 @@
         },
         "web_domains": [
             "jointhemovementmovement.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xeb6765e08fbec04d920e57f634be261ec77617a3",
@@ -135197,6 +135213,10 @@
         },
         "web_domains": [
             "doglibre.com"
-        ]
+        ],
+        "telegram_groups": [
+            "DogLibre"
+        ],
+        "p6": true
     }
 ]
