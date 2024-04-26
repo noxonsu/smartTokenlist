@@ -135175,7 +135175,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 19
-        }
+        },
+        "web_domains": [
+            "jointhemovementmovement.com"
+        ]
     },
     {
         "contract_address": "0xeb6765e08fbec04d920e57f634be261ec77617a3",
@@ -135191,6 +135194,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 4
-        }
+        },
+        "web_domains": [
+            "doglibre.com"
+        ]
     }
 ]
