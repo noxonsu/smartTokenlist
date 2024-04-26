@@ -135922,7 +135922,11 @@
         },
         "web_domains": [
             "movementlabs.xyz"
-        ]
+        ],
+        "telegram_groups": [
+            "movementlabsxyz"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7d81a3399ceac86c5cf7b11e348a2a4bb7536844",
@@ -135941,7 +135945,9 @@
         },
         "web_domains": [
             "cloudblogs.microsoft.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x515bbcc6162f7febba77e781994dd32cd2d82e2e",
@@ -135955,7 +135961,8 @@
         ],
         "holders": {
             "ETH": 184
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4116f14b6d462b32a1c10f98049e4b1765e34fa9",
@@ -135966,7 +135973,9 @@
         },
         "web_domains": [
             "dotmoovs.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb9defc03a0bc2de454a60e5cef159c7dd6052fd6",
@@ -135991,7 +136000,11 @@
         ],
         "holders": {
             "ETH": 6
-        }
+        },
+        "emails": [
+            "memecoincityland@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8975714e08075f9d52ebd86176a7151c15e3010c",
@@ -136002,6 +136015,10 @@
         },
         "web_domains": [
             "hinkal.pro"
-        ]
+        ],
+        "telegram_groups": [
+            "steve_in_motion"
+        ],
+        "p6": true
     }
 ]
