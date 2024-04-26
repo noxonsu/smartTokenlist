@@ -135530,7 +135530,10 @@
         ],
         "holders": {
             "ETH": 53
-        }
+        },
+        "web_domains": [
+            "bookofmeme.com"
+        ]
     },
     {
         "contract_address": "0x00b7db6b4431e345eee5cc23d21e8dbc1d5cada3",
@@ -135576,7 +135579,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 9
-        }
+        },
+        "web_domains": [
+            "rez.church"
+        ]
     },
     {
         "contract_address": "0xa86c53af3aadf20be5d7a8136acfdbc4b074758a",
@@ -135584,7 +135590,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 43
-        }
+        },
+        "web_domains": [
+            "paladin.vote"
+        ]
     },
     {
         "contract_address": "0xa8258dee2a677874a48f5320670a869d74f0cbc1",
@@ -135608,6 +135617,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 27
-        }
+        },
+        "web_domains": [
+            "usc.edu"
+        ]
     }
 ]
