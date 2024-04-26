@@ -135709,7 +135709,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 10
-        }
+        },
+        "web_domains": [
+            "iamag.co"
+        ]
     },
     {
         "contract_address": "0x9a020e4ae82e8ff6b82c1b88dc73990828c17bea",
@@ -135717,7 +135720,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 79
-        }
+        },
+        "web_domains": [
+            "neuraprotocol.io"
+        ]
     },
     {
         "contract_address": "0xb3ed706b564bba9cab64042f4e1b391be7bebce5",
@@ -135725,7 +135731,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 116
-        }
+        },
+        "web_domains": [
+            "augmented.finance"
+        ]
     },
     {
         "contract_address": "0x467a889da06f8f5d43e8725456e8c192689afe31",
