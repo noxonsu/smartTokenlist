@@ -135489,5 +135489,125 @@
             "twopawsdefi"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x1671f321688b9dc4f023dab650722629e7274b82",
+        "date_add": "2024-04-26 14:04:14",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tevaera.com",
+            "tevaera.medium.com"
+        ],
+        "telegram_groups": [
+            "TevaeraNews"
+        ],
+        "holders": {
+            "ETH": 48
+        }
+    },
+    {
+        "contract_address": "0x3386d2c68d3bd8a50bb31056ab74fac18ad6e74f",
+        "date_add": "2024-04-26 14:04:14",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pamper.finance",
+            "app.pamper.finance",
+            "docs.pamper.finance"
+        ],
+        "telegram_groups": [
+            "pamper_channel"
+        ],
+        "holders": {
+            "ETH": 61
+        }
+    },
+    {
+        "contract_address": "0xbf56f9ae160081368b23611d4840d1a0cab4e2f0",
+        "date_add": "2024-04-26 14:04:14",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "BOOK_OF_MEME_ON_ETH"
+        ],
+        "holders": {
+            "ETH": 53
+        }
+    },
+    {
+        "contract_address": "0x00b7db6b4431e345eee5cc23d21e8dbc1d5cada3",
+        "date_add": "2024-04-26 14:04:14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10558
+        }
+    },
+    {
+        "contract_address": "0xb57680bff408b19a4021a4ea6496b864551e0013",
+        "date_add": "2024-04-26 14:04:14",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "TheBestWhitepaper.com"
+        ],
+        "telegram_groups": [
+            "thebestwhitepaper"
+        ],
+        "holders": {
+            "ETH": 64
+        }
+    },
+    {
+        "contract_address": "0xd80c823471368d24f7715672700687aa719be71f",
+        "date_add": "2024-04-26 14:04:14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x5fa54fddf1870c344dbfabb37dfab8700ec0def1",
+        "date_add": "2024-04-26 14:04:14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 539
+        }
+    },
+    {
+        "contract_address": "0xb9332bbc225054c1f682bb7e1690d21dd108287c",
+        "date_add": "2024-04-26 14:04:14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9
+        }
+    },
+    {
+        "contract_address": "0xa86c53af3aadf20be5d7a8136acfdbc4b074758a",
+        "date_add": "2024-04-26 14:04:14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 43
+        }
+    },
+    {
+        "contract_address": "0xa8258dee2a677874a48f5320670a869d74f0cbc1",
+        "date_add": "2024-04-26 14:04:14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0xb77ec71b8460521c8e7139025be70b7ce84d22d8",
+        "date_add": "2024-04-26 14:04:14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x38547d918b9645f2d94336b6b61aeb08053e142c",
+        "date_add": "2024-04-26 14:04:14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 27
+        }
     }
 ]
