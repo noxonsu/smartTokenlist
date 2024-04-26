@@ -135655,7 +135655,8 @@
         ],
         "holders": {
             "ETH": 59
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xda007777d86ac6d989cc9f79a73261b3fc5e0da0",
@@ -135687,7 +135688,8 @@
         ],
         "holders": {
             "ETH": 52
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd799d4aa0491f40a14610ce71dcb015a19071e75",
@@ -135701,7 +135703,8 @@
         ],
         "holders": {
             "ETH": 85
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x01dbb77a741df0f600a278f8bb687ce4fb477d84",
@@ -135712,7 +135715,9 @@
         },
         "web_domains": [
             "iamag.co"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9a020e4ae82e8ff6b82c1b88dc73990828c17bea",
@@ -135723,7 +135728,11 @@
         },
         "web_domains": [
             "neuraprotocol.io"
-        ]
+        ],
+        "telegram_groups": [
+            "ankrnetwork"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb3ed706b564bba9cab64042f4e1b391be7bebce5",
@@ -135734,7 +135743,9 @@
         },
         "web_domains": [
             "augmented.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x467a889da06f8f5d43e8725456e8c192689afe31",
