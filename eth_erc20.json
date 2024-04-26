@@ -135240,7 +135240,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 71
-        }
+        },
+        "web_domains": [
+            "wguardian.com"
+        ]
     },
     {
         "contract_address": "0x05687887abd9c301ba8991cb2f27e05b896b8106",
@@ -135270,7 +135273,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 33
-        }
+        },
+        "web_domains": [
+            "norhalla.com"
+        ]
     },
     {
         "contract_address": "0x6969749ae7fc6d3b717b495405ce5ccc1efec82a",
@@ -135292,7 +135298,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 97
-        }
+        },
+        "web_domains": [
+            "drift.trade"
+        ]
     },
     {
         "contract_address": "0xf5a7906b41b858b66d3a7cbe167df1fb43ffe977",
@@ -135300,7 +135309,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "lausd.org"
+        ]
     },
     {
         "contract_address": "0x90e87739048a9b7e4f1b6338c13678011ae07941",
