@@ -135232,7 +135232,11 @@
         ],
         "holders": {
             "ETH": 14
-        }
+        },
+        "emails": [
+            "r1rabbit24@mail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x526a913a7a4518aa2abc3dcd3c46a9c73f40f94a",
@@ -135243,7 +135247,9 @@
         },
         "web_domains": [
             "wguardian.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x05687887abd9c301ba8991cb2f27e05b896b8106",
@@ -135257,7 +135263,8 @@
         ],
         "holders": {
             "ETH": 230
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xcd6bcca48069f8588780dfa274960f15685aee0e",
@@ -135276,7 +135283,9 @@
         },
         "web_domains": [
             "norhalla.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6969749ae7fc6d3b717b495405ce5ccc1efec82a",
@@ -135290,7 +135299,8 @@
         ],
         "holders": {
             "ETH": 384
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb7cffebb06621287c7850ffefb22c30252e78e6b",
@@ -135301,7 +135311,9 @@
         },
         "web_domains": [
             "drift.trade"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf5a7906b41b858b66d3a7cbe167df1fb43ffe977",
