@@ -135369,7 +135369,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 18
-        }
+        },
+        "web_domains": [
+            "anichess.com"
+        ]
     },
     {
         "contract_address": "0x9afb950948c2370975fb91a441f36fdc02737cd4",
