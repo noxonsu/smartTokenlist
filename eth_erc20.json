@@ -135448,7 +135448,8 @@
         ],
         "holders": {
             "ETH": 66
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5e36751c5d9dcaed7a31cd198b30018297a58ca1",
@@ -135483,6 +135484,10 @@
         ],
         "holders": {
             "ETH": 456
-        }
+        },
+        "telegram_groups": [
+            "twopawsdefi"
+        ],
+        "p6": true
     }
 ]
