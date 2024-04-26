@@ -135048,5 +135048,54 @@
             "memecoincityland@gmail.com"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0xb2024b37d0bb6a1e45f3201a357c04149e4b69e3",
+        "date_add": "2024-04-26 02:11:47",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Biden0xb2024"
+        ],
+        "holders": {
+            "ETH": 85
+        }
+    },
+    {
+        "contract_address": "0x850f461593ea02b572c10d73559a36da444d697b",
+        "date_add": "2024-04-26 02:11:47",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ngmi.online"
+        ],
+        "telegram_groups": [
+            "NGMI_eth"
+        ],
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0x93109ba54cf51fcee975abdf07e407281358fc5d",
+        "date_add": "2024-04-26 02:11:47",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 271
+        }
+    },
+    {
+        "contract_address": "0xc3b5284b2c0cfa1871a6ac63b6d6ee43c08bdc79",
+        "date_add": "2024-04-26 02:11:47",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 133
+        }
+    },
+    {
+        "contract_address": "0xa3726bedfd1a8aa696b9b4581277240028c4314b",
+        "date_add": "2024-04-26 02:11:47",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
