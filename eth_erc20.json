@@ -135372,7 +135372,9 @@
         },
         "web_domains": [
             "anichess.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9afb950948c2370975fb91a441f36fdc02737cd4",
@@ -135394,7 +135396,8 @@
         ],
         "holders": {
             "ETH": 206
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xbabe54e6c93f721977105de02773dc20ea15d84e",
@@ -135408,7 +135411,8 @@
         ],
         "holders": {
             "ETH": 189
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2a4bdc3f00e561e6335bd2161dcc4557e604c43e",
@@ -135420,6 +135424,10 @@
         ],
         "holders": {
             "ETH": 24
-        }
+        },
+        "telegram_groups": [
+            "bouncebit"
+        ],
+        "p6": true
     }
 ]
