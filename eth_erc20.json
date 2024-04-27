@@ -136591,7 +136591,9 @@
         },
         "web_domains": [
             "moo.curve.fi"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3ec58c6c3be8d37b519c7e9cff1e1447862b4b1b",
@@ -136611,7 +136613,9 @@
         ],
         "holders": {
             "ETH": 32
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x74db6c04102b0f70fef7857bc5efee35f40b62c0",
@@ -136638,7 +136642,11 @@
         },
         "web_domains": [
             "grokwif.xyz"
-        ]
+        ],
+        "telegram_groups": [
+            "grokwif"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2024a112e5c054392056396acda3d50d8d32c197",
@@ -136653,7 +136661,8 @@
         ],
         "holders": {
             "ETH": 118
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3489741c04518163ebdb71b8c2a6ccd1ee820159",
@@ -136667,6 +136676,7 @@
         ],
         "holders": {
             "ETH": 211
-        }
+        },
+        "p6": true
     }
 ]
