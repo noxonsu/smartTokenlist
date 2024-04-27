@@ -136042,13 +136042,19 @@
         ],
         "holders": {
             "ETH": 33
-        }
+        },
+        "emails": [
+            "hello@tunachain.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbdc2d2c78a948b5c09cc68be8f977c524ada76e2",
         "date_add": "2024-04-27 00:15:27",
         "sourceScanned": "processed",
         "telegram_groups": [
+            "tinymanofficial",
+            "tinymanannouncement",
             "kinggrok_eth"
         ],
         "holders": {
@@ -136056,7 +136062,8 @@
         },
         "web_domains": [
             "tinyman.org"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc8357c4ef5660ecddb5683d7a38551c21aac9a41",
