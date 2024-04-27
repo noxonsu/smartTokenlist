@@ -136442,7 +136442,9 @@
         },
         "web_domains": [
             "salty.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2c9c748fe550c11ff1ed5df8822d7dbb7a86de9e",
@@ -136453,7 +136455,9 @@
         },
         "web_domains": [
             "espressosys.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe2510aa4b019af3eb835d3ac9c800382109a4631",
@@ -136467,7 +136471,9 @@
         },
         "web_domains": [
             "decent.xyz"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xae9038fa305afb2d20e4477bc39b0bc2453aed3b",
@@ -136501,7 +136507,8 @@
         ],
         "holders": {
             "ETH": 109
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xaaaaaaaba2ea3daab0a6c05f1b962c78c9836d99",
