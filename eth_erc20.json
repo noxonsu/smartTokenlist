@@ -136875,7 +136875,12 @@
         },
         "web_domains": [
             "wellmedpharm.uz"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "\n            wellmed.inf@gmail.com\n        "
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x801ca91952bf06dc20d41abdfbc12b796111c613",
@@ -136886,7 +136891,9 @@
         },
         "web_domains": [
             "symbol-community.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe2ba25c0a0acd13f87513b362874c82c3694877c",
@@ -136896,11 +136903,13 @@
             "flur.ai"
         ],
         "telegram_groups": [
-            "flur_ai"
+            "flur_ai",
+            "flur_portal"
         ],
         "holders": {
             "ETH": 375
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2b8183584b58f2e3b65f3f2c0765719d9422b8ef",
