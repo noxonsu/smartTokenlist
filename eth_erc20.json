@@ -136082,7 +136082,10 @@
         ],
         "holders": {
             "ETH": 5
-        }
+        },
+        "web_domains": [
+            "gold-grok.com"
+        ]
     },
     {
         "contract_address": "0x809e130e10e787139c54e1d12d3d1971b7a675bf",
@@ -136090,7 +136093,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 65
-        }
+        },
+        "web_domains": [
+            "mtd-en.com"
+        ]
     },
     {
         "contract_address": "0x5224550aa98d8ffdd6e3dbfaf571c9cc99aaaa93",
@@ -136114,7 +136120,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 3
-        }
+        },
+        "web_domains": [
+            "cronoscan.com"
+        ]
     },
     {
         "contract_address": "0x6e4f66f03552fe4c43d81c55fb4f78a19957e836",
