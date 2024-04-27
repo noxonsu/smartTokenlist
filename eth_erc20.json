@@ -136182,7 +136182,8 @@
         ],
         "holders": {
             "ETH": 190
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xebdadfc590393938b601a9738c3107460838e880",
@@ -136201,7 +136202,9 @@
         },
         "web_domains": [
             "nexgami.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7089108587c72efce36e0c7d38fc8e0ec389956c",
@@ -136212,7 +136215,9 @@
         ],
         "holders": {
             "ETH": 163
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8dba4bc68126bd186fbb62c976539d1558c9fe73",
@@ -136237,7 +136242,8 @@
         ],
         "holders": {
             "ETH": 362
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3567d208042caa5cf36285b713122eb095b0008f",
@@ -136251,7 +136257,8 @@
         },
         "web_domains": [
             "avatar.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x69696b5ead1b7f89e24eeb81ad82ff263d02f40c",
@@ -136265,7 +136272,8 @@
         },
         "web_domains": [
             "sadfrog.co.uk"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1c84656cb4c286daa16f27d8b305f1053b5a8771",
