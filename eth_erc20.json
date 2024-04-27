@@ -136321,7 +136321,12 @@
         },
         "web_domains": [
             "xelon-lubricants.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            " info@conlubricants.de "
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4547903cdd7fba143bd1f1e233d8fcd6f2fb83c7",
@@ -136340,7 +136345,8 @@
         ],
         "holders": {
             "ETH": 439
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0bf0864a3cb2b090db2e1b5dd37622fd06721be6",
@@ -136362,7 +136368,8 @@
         ],
         "holders": {
             "ETH": 29
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2fbba5cbff94e4af28166104ce3f809319e7938e",
@@ -136406,6 +136413,8 @@
         ],
         "holders": {
             "ETH": 30
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     }
 ]
