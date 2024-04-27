@@ -136169,5 +136169,117 @@
             "ETH": 112
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x4018ebf754fa0d5405fdd0eb250e9b9487aab5a2",
+        "date_add": "2024-04-27 06:04:34",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ezet-etf.com"
+        ],
+        "telegram_groups": [
+            "EZEZ_ETH"
+        ],
+        "holders": {
+            "ETH": 190
+        }
+    },
+    {
+        "contract_address": "0xebdadfc590393938b601a9738c3107460838e880",
+        "date_add": "2024-04-27 06:04:34",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0xccde2d921008ff7ccb4254aa2a868cd59e6032dd",
+        "date_add": "2024-04-27 06:04:34",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x7089108587c72efce36e0c7d38fc8e0ec389956c",
+        "date_add": "2024-04-27 06:04:34",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "froggercoin.com"
+        ],
+        "holders": {
+            "ETH": 163
+        }
+    },
+    {
+        "contract_address": "0x8dba4bc68126bd186fbb62c976539d1558c9fe73",
+        "date_add": "2024-04-27 06:04:34",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 999
+        }
+    },
+    {
+        "contract_address": "0xb60fdf036f2ad584f79525b5da76c5c531283a1b",
+        "date_add": "2024-04-27 06:04:34",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nemosum.io"
+        ],
+        "telegram_groups": [
+            "NemoInveniens"
+        ],
+        "emails": [
+            "nobody@nemosum.io"
+        ],
+        "holders": {
+            "ETH": 362
+        }
+    },
+    {
+        "contract_address": "0x3567d208042caa5cf36285b713122eb095b0008f",
+        "date_add": "2024-04-27 06:04:34",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "theworldofavatar"
+        ],
+        "holders": {
+            "ETH": 165
+        }
+    },
+    {
+        "contract_address": "0x69696b5ead1b7f89e24eeb81ad82ff263d02f40c",
+        "date_add": "2024-04-27 06:04:34",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "SadFrog_Eth"
+        ],
+        "holders": {
+            "ETH": 43
+        }
+    },
+    {
+        "contract_address": "0x1c84656cb4c286daa16f27d8b305f1053b5a8771",
+        "date_add": "2024-04-27 06:04:34",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1213
+        }
+    },
+    {
+        "contract_address": "0x18f397abf1c3b75da95d5120ea4f73678735832b",
+        "date_add": "2024-04-27 06:04:34",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 36
+        }
+    },
+    {
+        "contract_address": "0x7f0eedc8e97e723284bbe38c265b374654b0a3e7",
+        "date_add": "2024-04-27 06:04:34",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
