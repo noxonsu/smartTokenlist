@@ -136439,7 +136439,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 19
-        }
+        },
+        "web_domains": [
+            "salty.io"
+        ]
     },
     {
         "contract_address": "0x2c9c748fe550c11ff1ed5df8822d7dbb7a86de9e",
@@ -136447,7 +136450,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 93
-        }
+        },
+        "web_domains": [
+            "espressosys.com"
+        ]
     },
     {
         "contract_address": "0xe2510aa4b019af3eb835d3ac9c800382109a4631",
@@ -136458,7 +136464,10 @@
         ],
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "decent.xyz"
+        ]
     },
     {
         "contract_address": "0xae9038fa305afb2d20e4477bc39b0bc2453aed3b",
