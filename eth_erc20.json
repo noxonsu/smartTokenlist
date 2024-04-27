@@ -136198,7 +136198,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "nexgami.com"
+        ]
     },
     {
         "contract_address": "0x7089108587c72efce36e0c7d38fc8e0ec389956c",
@@ -136245,7 +136248,10 @@
         ],
         "holders": {
             "ETH": 165
-        }
+        },
+        "web_domains": [
+            "avatar.com"
+        ]
     },
     {
         "contract_address": "0x69696b5ead1b7f89e24eeb81ad82ff263d02f40c",
@@ -136256,7 +136262,10 @@
         ],
         "holders": {
             "ETH": 43
-        }
+        },
+        "web_domains": [
+            "sadfrog.co.uk"
+        ]
     },
     {
         "contract_address": "0x1c84656cb4c286daa16f27d8b305f1053b5a8771",
@@ -136280,6 +136289,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "babadari.com"
+        ]
     }
 ]
