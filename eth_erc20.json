@@ -136072,5 +136072,76 @@
         "holders": {
             "ETH": 2
         }
+    },
+    {
+        "contract_address": "0xc3211ae7ab20908af26acfabb834b0bb1a04981c",
+        "date_add": "2024-04-27 02:11:44",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "goldenerc"
+        ],
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x809e130e10e787139c54e1d12d3d1971b7a675bf",
+        "date_add": "2024-04-27 02:11:44",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 65
+        }
+    },
+    {
+        "contract_address": "0x5224550aa98d8ffdd6e3dbfaf571c9cc99aaaa93",
+        "date_add": "2024-04-27 02:11:44",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xad1901f50feaf851f7643e62367d70bf4319fcfc",
+        "date_add": "2024-04-27 02:11:44",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 21
+        }
+    },
+    {
+        "contract_address": "0xe7a0ed6d6f518a6fc6ec2e26c4b6258a67b988f1",
+        "date_add": "2024-04-27 02:11:44",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x6e4f66f03552fe4c43d81c55fb4f78a19957e836",
+        "date_add": "2024-04-27 02:11:44",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "memecoincityland.com"
+        ],
+        "telegram_groups": [
+            "memecoincity"
+        ],
+        "holders": {
+            "ETH": 128
+        }
+    },
+    {
+        "contract_address": "0x5cc8f8c24d8ee32d768b70856474c4ab9b1c33f1",
+        "date_add": "2024-04-27 02:11:44",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "jewishtunnels.com"
+        ],
+        "telegram_groups": [
+            "TunnelJews"
+        ],
+        "holders": {
+            "ETH": 112
+        }
     }
 ]
