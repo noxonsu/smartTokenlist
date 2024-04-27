@@ -136416,5 +136416,109 @@
         },
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xbf238a475eb38083d9bbcc95df781a17a09a21b2",
+        "date_add": "2024-04-27 10:05:06",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x56ebf72f8b185d010f597a1d02fe5b6cb833296d",
+        "date_add": "2024-04-27 10:05:06",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x3595c8255a7187155ad2a006760e6c8b9bddb3dd",
+        "date_add": "2024-04-27 10:05:06",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x2c9c748fe550c11ff1ed5df8822d7dbb7a86de9e",
+        "date_add": "2024-04-27 10:05:06",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 93
+        }
+    },
+    {
+        "contract_address": "0xe2510aa4b019af3eb835d3ac9c800382109a4631",
+        "date_add": "2024-04-27 10:05:06",
+        "sourceScanned": "processed",
+        "emails": [
+            "goncalo.sa@consensys.net"
+        ],
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xae9038fa305afb2d20e4477bc39b0bc2453aed3b",
+        "date_add": "2024-04-27 10:05:06",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 17
+        }
+    },
+    {
+        "contract_address": "0xe5db97a95e7b6ce101ed3316bead3fc98aeb3168",
+        "date_add": "2024-04-27 10:05:06",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "tgerc20"
+        ],
+        "holders": {
+            "ETH": 92
+        }
+    },
+    {
+        "contract_address": "0x28dc1ac7686136b29384cf5bdfafd4fae264c201",
+        "date_add": "2024-04-27 10:05:06",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.meson.network",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "mesonnetwork"
+        ],
+        "holders": {
+            "ETH": 109
+        }
+    },
+    {
+        "contract_address": "0xaaaaaaaba2ea3daab0a6c05f1b962c78c9836d99",
+        "date_add": "2024-04-27 10:05:06",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5840
+        }
+    },
+    {
+        "contract_address": "0x84e55c6bc5b7e9505d87b3df6ceff7753e15a0c5",
+        "date_add": "2024-04-27 10:05:06",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 204
+        }
+    },
+    {
+        "contract_address": "0x3a3a65aab0dd2a17e3f1947ba16138cd37d08c04",
+        "date_add": "2024-04-27 10:05:06",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "developers.aave.com"
+        ],
+        "holders": {
+            "ETH": 5381
+        }
     }
 ]
