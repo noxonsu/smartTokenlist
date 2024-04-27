@@ -136546,7 +136546,14 @@
         },
         "web_domains": [
             "mochidefi.io"
-        ]
+        ],
+        "telegram_groups": [
+            "Mochi_DeFi"
+        ],
+        "emails": [
+            "Email us: hello@mochidefi.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x39890ba8316caea453d08514231704bdc98069df",
@@ -136561,6 +136568,7 @@
         "date_add": "2024-04-27 12:05:15",
         "sourceScanned": "processed",
         "emails": [
+            "info@cannaversetech.io",
             "jack@cannaversetech.io"
         ],
         "holders": {
@@ -136568,6 +136576,10 @@
         },
         "web_domains": [
             "cannaland.xyz"
-        ]
+        ],
+        "telegram_groups": [
+            "TheCannaLand_CNLT"
+        ],
+        "p6": true
     }
 ]
