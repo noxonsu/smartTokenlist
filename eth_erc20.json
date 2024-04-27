@@ -136678,5 +136678,103 @@
             "ETH": 211
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x75fa2a76e5ec2269cf507b9296ac108373c72a6e",
+        "date_add": "2024-04-27 16:04:33",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 509
+        }
+    },
+    {
+        "contract_address": "0xa020fc5067a61be9dd8ab6a535348d092625918e",
+        "date_add": "2024-04-27 16:04:33",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0xff2bc2a6dd309be950f6e82e9f24ce30fd78f934",
+        "date_add": "2024-04-27 16:04:33",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 35
+        }
+    },
+    {
+        "contract_address": "0x70b31d811fc38dbdd5f08f01a95a0c5221956cce",
+        "date_add": "2024-04-27 16:04:33",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "popcat.life"
+        ],
+        "telegram_groups": [
+            "PopcatERC20"
+        ],
+        "holders": {
+            "ETH": 268
+        }
+    },
+    {
+        "contract_address": "0x36609f8fd720672ad4f34e15383ce127e3e0f865",
+        "date_add": "2024-04-27 16:04:33",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xa8f32d3296c0ab3f06eb8f8b14a510333fe0bf81",
+        "date_add": "2024-04-27 16:04:33",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "trump0x2024.vip"
+        ],
+        "telegram_groups": [
+            "trump_0x2024"
+        ],
+        "holders": {
+            "ETH": 42
+        }
+    },
+    {
+        "contract_address": "0x598dbfe77578492ecd537231aa75db2a4a50d8df",
+        "date_add": "2024-04-27 16:04:33",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0x50ebdf73a0df61b782cea489e8102b3bfde0bda6",
+        "date_add": "2024-04-27 16:04:33",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x80dc43f8f162dd11ef34df7c0b0ebdf1357468de",
+        "date_add": "2024-04-27 16:04:33",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 67
+        }
+    },
+    {
+        "contract_address": "0x734deb747c45f5ef73bf39d1141e9be8ce283c20",
+        "date_add": "2024-04-27 16:04:33",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "brettalterego.xyz"
+        ],
+        "telegram_groups": [
+            "BrettAlterEgo"
+        ],
+        "holders": {
+            "ETH": 165
+        }
     }
 ]
