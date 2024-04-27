@@ -136782,5 +136782,61 @@
             "ETH": 165
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x118b0af0e8e8f926c40e361ca934bca37ed8d23a",
+        "date_add": "2024-04-27 18:04:35",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tron.network"
+        ],
+        "holders": {
+            "ETH": 276
+        }
+    },
+    {
+        "contract_address": "0xa94f07d846df6c002507247e5ff4107f62153c5b",
+        "date_add": "2024-04-27 18:04:35",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "lightsat.io",
+            "docs.lightsat.io"
+        ],
+        "telegram_groups": [
+            "Lightsat_io"
+        ],
+        "holders": {
+            "ETH": 329
+        }
+    },
+    {
+        "contract_address": "0x27d22a7648e955e510a40bdb058333e9190d12d4",
+        "date_add": "2024-04-27 18:04:35",
+        "sourceScanned": "processed",
+        "emails": [
+            "epiquerass@gmail.com"
+        ],
+        "holders": {
+            "ETH": 1421
+        }
+    },
+    {
+        "contract_address": "0xdbb7a34bf10169d6d2d0d02a6cbb436cf4381bfa",
+        "date_add": "2024-04-27 18:04:35",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@zentry.com"
+        ],
+        "holders": {
+            "ETH": 235
+        }
+    },
+    {
+        "contract_address": "0xfb57a5e307aefb3e49aa83e1a2ecaba475a0b900",
+        "date_add": "2024-04-27 18:04:35",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 282
+        }
     }
 ]
