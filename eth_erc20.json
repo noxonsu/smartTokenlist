@@ -136857,5 +136857,51 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xd510fff6544db984bee416689b87c84206d88a15",
+        "date_add": "2024-04-27 20:04:29",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xd9b9458875a66633a7b82bc63f0ca348d35366f1",
+        "date_add": "2024-04-27 20:04:29",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 29
+        }
+    },
+    {
+        "contract_address": "0x801ca91952bf06dc20d41abdfbc12b796111c613",
+        "date_add": "2024-04-27 20:04:29",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 21
+        }
+    },
+    {
+        "contract_address": "0xe2ba25c0a0acd13f87513b362874c82c3694877c",
+        "date_add": "2024-04-27 20:04:29",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "flur.ai"
+        ],
+        "telegram_groups": [
+            "flur_ai"
+        ],
+        "holders": {
+            "ETH": 375
+        }
+    },
+    {
+        "contract_address": "0x2b8183584b58f2e3b65f3f2c0765719d9422b8ef",
+        "date_add": "2024-04-27 20:04:29",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 25
+        }
     }
 ]
