@@ -136588,7 +136588,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 26
-        }
+        },
+        "web_domains": [
+            "moo.curve.fi"
+        ]
     },
     {
         "contract_address": "0x3ec58c6c3be8d37b519c7e9cff1e1447862b4b1b",
@@ -136632,7 +136635,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 13
-        }
+        },
+        "web_domains": [
+            "grokwif.xyz"
+        ]
     },
     {
         "contract_address": "0x2024a112e5c054392056396acda3d50d8d32c197",
