@@ -136918,5 +136918,59 @@
         "holders": {
             "ETH": 25
         }
+    },
+    {
+        "contract_address": "0x30045aa941ff9be1d2d3603a75207c07860d4156",
+        "date_add": "2024-04-27 22:05:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0x129e6b5dbc0ecc12f9e486c5bc9cdf1a6a80bc6a",
+        "date_add": "2024-04-27 22:05:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 243
+        }
+    },
+    {
+        "contract_address": "0x2ebc9a3685fcffe3a4d4fca47d5328ec9324662d",
+        "date_add": "2024-04-27 22:05:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xb38aa481cf4fcd823a06a28a766c94cc0cca13a5",
+        "date_add": "2024-04-27 22:05:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 76
+        }
+    },
+    {
+        "contract_address": "0xbc540c66b48ee758d903fd13c4dc0cabcbb6cdab",
+        "date_add": "2024-04-27 22:05:03",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cointelegraph.com"
+        ],
+        "telegram_groups": [
+            "EminemERC20"
+        ],
+        "holders": {
+            "ETH": 316
+        }
+    },
+    {
+        "contract_address": "0x2f23b07503bf50c6850a133dbf88341844b41173",
+        "date_add": "2024-04-27 22:05:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 27
+        }
     }
 ]
