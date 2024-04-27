@@ -136078,6 +136078,7 @@
         "date_add": "2024-04-27 02:11:44",
         "sourceScanned": "processed",
         "telegram_groups": [
+            "GoldGrok",
             "goldenerc"
         ],
         "holders": {
@@ -136085,7 +136086,11 @@
         },
         "web_domains": [
             "gold-grok.com"
-        ]
+        ],
+        "emails": [
+            "info@gold-grok.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x809e130e10e787139c54e1d12d3d1971b7a675bf",
@@ -136096,7 +136101,12 @@
         },
         "web_domains": [
             "mtd-en.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "EMEAOutdoor@sbdinc.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5224550aa98d8ffdd6e3dbfaf571c9cc99aaaa93",
@@ -136123,7 +136133,9 @@
         },
         "web_domains": [
             "cronoscan.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6e4f66f03552fe4c43d81c55fb4f78a19957e836",
@@ -136137,7 +136149,11 @@
         ],
         "holders": {
             "ETH": 128
-        }
+        },
+        "emails": [
+            "memecoincityland@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5cc8f8c24d8ee32d768b70856474c4ab9b1c33f1",
@@ -136151,6 +136167,7 @@
         ],
         "holders": {
             "ETH": 112
-        }
+        },
+        "p6": true
     }
 ]
