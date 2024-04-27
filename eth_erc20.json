@@ -136020,5 +136020,47 @@
             "steve_in_motion"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x788bdcdda5eb44556b4dbce2247dccd85de5e523",
+        "date_add": "2024-04-27 00:15:27",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 27
+        }
+    },
+    {
+        "contract_address": "0xeabb09b24720d1f7d8acb1ec955ec0b735262c0a",
+        "date_add": "2024-04-27 00:15:27",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tunachain.io",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "tunachain"
+        ],
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0xbdc2d2c78a948b5c09cc68be8f977c524ada76e2",
+        "date_add": "2024-04-27 00:15:27",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "kinggrok_eth"
+        ],
+        "holders": {
+            "ETH": 193
+        }
+    },
+    {
+        "contract_address": "0xc8357c4ef5660ecddb5683d7a38551c21aac9a41",
+        "date_add": "2024-04-27 00:15:27",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
     }
 ]
