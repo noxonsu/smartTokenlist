@@ -136581,5 +136581,86 @@
             "TheCannaLand_CNLT"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0xae0bffc3110e69da8993f11c1cbd9a6ea3d16daf",
+        "date_add": "2024-04-27 14:04:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0x3ec58c6c3be8d37b519c7e9cff1e1447862b4b1b",
+        "date_add": "2024-04-27 14:04:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 218
+        }
+    },
+    {
+        "contract_address": "0x5ee945d9bfa5ad48c64fc7acfed497d3546c0d03",
+        "date_add": "2024-04-27 14:04:03",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.swaap.finance",
+            "forum.balancer.fi"
+        ],
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0x74db6c04102b0f70fef7857bc5efee35f40b62c0",
+        "date_add": "2024-04-27 14:04:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 23
+        }
+    },
+    {
+        "contract_address": "0x7b83f74b922d029f8eaa4b884a1904b4317936a9",
+        "date_add": "2024-04-27 14:04:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x783047a446dca558eaa2a3a947a78085e1cb881a",
+        "date_add": "2024-04-27 14:04:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0x2024a112e5c054392056396acda3d50d8d32c197",
+        "date_add": "2024-04-27 14:04:03",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.grok2024coin.com",
+            "grok2024.gitbook.io"
+        ],
+        "telegram_groups": [
+            "Grok2024a1"
+        ],
+        "holders": {
+            "ETH": 118
+        }
+    },
+    {
+        "contract_address": "0x3489741c04518163ebdb71b8c2a6ccd1ee820159",
+        "date_add": "2024-04-27 14:04:03",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.rocky-token.com"
+        ],
+        "telegram_groups": [
+            "ROCKYPortal"
+        ],
+        "holders": {
+            "ETH": 211
+        }
     }
 ]
