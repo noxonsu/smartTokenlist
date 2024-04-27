@@ -136303,5 +136303,106 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x7633f0bc0c004b867df3bbef38e7f6331bdab2ee",
+        "date_add": "2024-04-27 08:05:08",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 83
+        }
+    },
+    {
+        "contract_address": "0x1ef2720eafe4a79eba4968f04cb71b186ef8b2c4",
+        "date_add": "2024-04-27 08:05:08",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0x4547903cdd7fba143bd1f1e233d8fcd6f2fb83c7",
+        "date_add": "2024-04-27 08:05:08",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "truthsocial.com",
+            "truthsocial.com",
+            "www.don4547.com",
+            "www.thedailybeast.com",
+            "truthsocial.com",
+            "www.donaldjtrump.com"
+        ],
+        "telegram_groups": [
+            "HonestDoneth"
+        ],
+        "holders": {
+            "ETH": 439
+        }
+    },
+    {
+        "contract_address": "0x0bf0864a3cb2b090db2e1b5dd37622fd06721be6",
+        "date_add": "2024-04-27 08:05:08",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x1835283ac62164a6d002a503a78a0b7427d15c85",
+        "date_add": "2024-04-27 08:05:08",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "shrt.care"
+        ],
+        "telegram_groups": [
+            "mesonnetwork"
+        ],
+        "holders": {
+            "ETH": 29
+        }
+    },
+    {
+        "contract_address": "0x2fbba5cbff94e4af28166104ce3f809319e7938e",
+        "date_add": "2024-04-27 08:05:08",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8
+        }
+    },
+    {
+        "contract_address": "0x2fb187a1c87aa67430e6bcf81e6e5aed1f26e095",
+        "date_add": "2024-04-27 08:05:08",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0xaacd8afa23a5e7660ff5fe4d72dc12ff333ebb5f",
+        "date_add": "2024-04-27 08:05:08",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 34
+        }
+    },
+    {
+        "contract_address": "0xf49ee9dcdf340b55898076f28a3f3679cbac5298",
+        "date_add": "2024-04-27 08:05:08",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0x1a19759faf9e49557199557e3b4fbb2a596d1e13",
+        "date_add": "2024-04-27 08:05:08",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "layer3.xyz",
+            "discord.com"
+        ],
+        "holders": {
+            "ETH": 30
+        }
     }
 ]
