@@ -136715,7 +136715,8 @@
         ],
         "holders": {
             "ETH": 268
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x36609f8fd720672ad4f34e15383ce127e3e0f865",
@@ -136737,7 +136738,11 @@
         ],
         "holders": {
             "ETH": 42
-        }
+        },
+        "emails": [
+            "dev@trump0x2024.vip"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x598dbfe77578492ecd537231aa75db2a4a50d8df",
@@ -136775,6 +136780,7 @@
         ],
         "holders": {
             "ETH": 165
-        }
+        },
+        "p6": true
     }
 ]
