@@ -136928,7 +136928,9 @@
         },
         "web_domains": [
             "truewojack.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x129e6b5dbc0ecc12f9e486c5bc9cdf1a6a80bc6a",
@@ -136955,7 +136957,9 @@
         },
         "web_domains": [
             "fomonetwork.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xbc540c66b48ee758d903fd13c4dc0cabcbb6cdab",
@@ -136969,7 +136973,8 @@
         ],
         "holders": {
             "ETH": 316
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2f23b07503bf50c6850a133dbf88341844b41173",
@@ -136980,6 +136985,8 @@
         },
         "web_domains": [
             "trump.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
