@@ -136872,7 +136872,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 29
-        }
+        },
+        "web_domains": [
+            "wellmedpharm.uz"
+        ]
     },
     {
         "contract_address": "0x801ca91952bf06dc20d41abdfbc12b796111c613",
@@ -136880,7 +136883,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 21
-        }
+        },
+        "web_domains": [
+            "symbol-community.com"
+        ]
     },
     {
         "contract_address": "0xe2ba25c0a0acd13f87513b362874c82c3694877c",
