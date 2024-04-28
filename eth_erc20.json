@@ -137759,5 +137759,100 @@
             "info@mysite.com"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x8e20bc5e89bcf0ad3fceb1bbaa7dd5a1a51bb030",
+        "date_add": "2024-04-28 18:04:45",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x8ecd14f1dc02b40724bf95874ccb7438a12e3b8b",
+        "date_add": "2024-04-28 18:04:45",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "pepe_monk"
+        ],
+        "holders": {
+            "ETH": 99
+        }
+    },
+    {
+        "contract_address": "0xde621989216a655f0fa604f077203323fa64788f",
+        "date_add": "2024-04-28 18:04:45",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mozzarellatoken.com"
+        ],
+        "telegram_groups": [
+            "mozzatoken"
+        ],
+        "holders": {
+            "ETH": 895
+        }
+    },
+    {
+        "contract_address": "0x4cfc3f4095d19b84603c11fd8a2f0154e9036a98",
+        "date_add": "2024-04-28 18:04:45",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 58
+        }
+    },
+    {
+        "contract_address": "0xdcf91d08a0e9067f3a7ca34e352b01078973d699",
+        "date_add": "2024-04-28 18:04:45",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 35
+        }
+    },
+    {
+        "contract_address": "0xed0254e3053809237f9c349fbf43a0ef8ad98034",
+        "date_add": "2024-04-28 18:04:45",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x33ebd466d57078dfd31740b0ec9f0231f71e7256",
+        "date_add": "2024-04-28 18:04:45",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 34
+        }
+    },
+    {
+        "contract_address": "0x029702fb3fc1d07bd6a7b1b7c3fa59c26637b108",
+        "date_add": "2024-04-28 18:04:45",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0xb51f76df6530f52e6ec9344a77b97f6879036d1b",
+        "date_add": "2024-04-28 18:04:45",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dogswap.io"
+        ],
+        "telegram_groups": [
+            "DogswapERC20"
+        ],
+        "holders": {
+            "ETH": 81
+        }
+    },
+    {
+        "contract_address": "0x57aee8b0c27fd7a239f3fae7b555fa9439799a42",
+        "date_add": "2024-04-28 18:04:45",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 32
+        }
     }
 ]
