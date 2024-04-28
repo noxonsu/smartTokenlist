@@ -138010,7 +138010,11 @@
         },
         "web_domains": [
             "neonfoundation.io"
-        ]
+        ],
+        "telegram_groups": [
+            "NeonEvmCommunity"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xba5ed663a1f20136e583a052104edcaa0f13d6dd",
@@ -138024,7 +138028,11 @@
         ],
         "holders": {
             "ETH": 39
-        }
+        },
+        "emails": [
+            "DEV@BRG.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8c37b960e51708749d230b6b76afe1a5df84b07f",
@@ -138035,7 +138043,9 @@
         },
         "web_domains": [
             "ipvanish.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa82f7672f55c0cd443615b026279013fd5012a17",
@@ -138046,7 +138056,12 @@
         },
         "web_domains": [
             "hooai.ae"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "Email: support@hooai.ae"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0f5ef0907fec08328661e0fbd776bdfd5dfd234a",
@@ -138073,6 +138088,8 @@
         ],
         "holders": {
             "ETH": 23
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     }
 ]
