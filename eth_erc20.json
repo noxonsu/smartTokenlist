@@ -137644,7 +137644,9 @@
         },
         "web_domains": [
             "jito.wtf"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xdb899b42bf4445ac5ab863e6711e4b1a21238e8d",
@@ -137655,7 +137657,12 @@
         },
         "web_domains": [
             "zerosum.lt"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "info@zerosum.lt"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdec5633e879d392eef4501f0343efb350bd98a31",
@@ -137666,7 +137673,9 @@
         },
         "web_domains": [
             "heroglyphs.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd3abd506fe7613f60ebb026a97e6ade810df35ec",
@@ -137682,21 +137691,24 @@
         ],
         "holders": {
             "ETH": 188
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1e4333f7a57987e27747b77f214f00cf5ee5fb2c",
         "date_add": "2024-04-28 16:04:22",
         "sourceScanned": "processed",
         "telegram_groups": [
-            "Bananacoinerc20"
+            "Bananacoinerc20",
+            "bananacoin88"
         ],
         "holders": {
             "ETH": 189
         },
         "web_domains": [
             "banana-coin.org"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc096251a6bb2e6c2015307be53fe60b01a4a7c3e",
@@ -137707,7 +137719,15 @@
         ],
         "holders": {
             "ETH": 74
-        }
+        },
+        "telegram_groups": [
+            "MetaChainNews",
+            "MetaChainChat"
+        ],
+        "emails": [
+            "\n                  mail@metachain.biz\n                "
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x05a811275fe9b4de503b3311f51edf6a856d936e",
