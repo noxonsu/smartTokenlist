@@ -137641,7 +137641,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 33
-        }
+        },
+        "web_domains": [
+            "jito.wtf"
+        ]
     },
     {
         "contract_address": "0xdb899b42bf4445ac5ab863e6711e4b1a21238e8d",
@@ -137649,7 +137652,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 34
-        }
+        },
+        "web_domains": [
+            "zerosum.lt"
+        ]
     },
     {
         "contract_address": "0xdec5633e879d392eef4501f0343efb350bd98a31",
@@ -137657,7 +137663,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 38
-        }
+        },
+        "web_domains": [
+            "heroglyphs.com"
+        ]
     },
     {
         "contract_address": "0xd3abd506fe7613f60ebb026a97e6ade810df35ec",
@@ -137684,7 +137693,10 @@
         ],
         "holders": {
             "ETH": 189
-        }
+        },
+        "web_domains": [
+            "banana-coin.org"
+        ]
     },
     {
         "contract_address": "0xc096251a6bb2e6c2015307be53fe60b01a4a7c3e",
@@ -137703,7 +137715,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 3
-        }
+        },
+        "web_domains": [
+            "0x0.dog"
+        ]
     },
     {
         "contract_address": "0xd568573fc7325a92c602f6b8cd623e9e6354438e",
