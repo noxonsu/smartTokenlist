@@ -137122,7 +137122,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 47
-        }
+        },
+        "web_domains": [
+            "quandale.com"
+        ]
     },
     {
         "contract_address": "0x92064e9816f0f1a196d5261b29aa5733bccb8c0f",
@@ -137159,7 +137162,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 263
-        }
+        },
+        "web_domains": [
+            "charitycoin.help"
+        ]
     },
     {
         "contract_address": "0x603024b7572a090eea0d3f6638d0d3e277ff492e",
@@ -137202,6 +137208,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 145
-        }
+        },
+        "web_domains": [
+            "sevenseas.capital"
+        ]
     }
 ]
