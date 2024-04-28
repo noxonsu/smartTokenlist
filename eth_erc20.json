@@ -137007,7 +137007,9 @@
         ],
         "holders": {
             "ETH": 42
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x730f8c56c709c5f5b4a6e91f98fa7a7c410e990d",
@@ -137033,11 +137035,13 @@
             "miladydorklord.com"
         ],
         "telegram_groups": [
-            "MILORD_ETH"
+            "MILORD_ETH",
+            "AUTISMCAT"
         ],
         "holders": {
             "ETH": 113
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5ed26f26b2f843492090842270d4a5a1e447d01f",
@@ -137056,6 +137060,8 @@
         },
         "web_domains": [
             "bobocoin.tech"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
