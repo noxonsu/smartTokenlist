@@ -137125,7 +137125,9 @@
         },
         "web_domains": [
             "quandale.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x92064e9816f0f1a196d5261b29aa5733bccb8c0f",
@@ -137139,7 +137141,8 @@
         ],
         "holders": {
             "ETH": 103
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2024eebc1caaa0af29478a2b6dabc352e6414035",
@@ -137154,7 +137157,8 @@
         ],
         "holders": {
             "ETH": 154
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf74049eb95fc3565bc7ae1f0ff6f2e00f2dc1791",
@@ -137165,7 +137169,12 @@
         },
         "web_domains": [
             "charitycoin.help"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "coincharity3@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x603024b7572a090eea0d3f6638d0d3e277ff492e",
@@ -137211,6 +137220,8 @@
         },
         "web_domains": [
             "sevenseas.capital"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
