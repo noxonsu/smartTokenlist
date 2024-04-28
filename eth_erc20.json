@@ -137887,7 +137887,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 44
-        }
+        },
+        "web_domains": [
+            "pendalgroup.com"
+        ]
     },
     {
         "contract_address": "0x331e42e7dc117f537a7380c3a4f5e03f48a58db9",
@@ -137951,7 +137954,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 121
-        }
+        },
+        "web_domains": [
+            "liquidcrypto.finance"
+        ]
     },
     {
         "contract_address": "0x821d0cabcefa8431409c2d08a973705d06e3f593",
@@ -137962,7 +137968,10 @@
         ],
         "holders": {
             "ETH": 159
-        }
+        },
+        "web_domains": [
+            "xdating.com"
+        ]
     },
     {
         "contract_address": "0x70536d44820fe3ddd4a2e3eedbc937b8b9d566c7",
@@ -137970,6 +137979,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 70
-        }
+        },
+        "web_domains": [
+            "nxdproject.com"
+        ]
     }
 ]
