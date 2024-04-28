@@ -137780,7 +137780,8 @@
         },
         "web_domains": [
             "pepebonk.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xde621989216a655f0fa604f077203323fa64788f",
@@ -137805,7 +137806,12 @@
         },
         "web_domains": [
             "eefi.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "elastic_finance_community",
+            "ampleforth_community"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdcf91d08a0e9067f3a7ca34e352b01078973d699",
@@ -137824,7 +137830,9 @@
         },
         "web_domains": [
             "bomquilts.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x33ebd466d57078dfd31740b0ec9f0231f71e7256",
@@ -137835,7 +137843,9 @@
         },
         "web_domains": [
             "villcaso.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x029702fb3fc1d07bd6a7b1b7c3fa59c26637b108",
@@ -137857,7 +137867,11 @@
         ],
         "holders": {
             "ETH": 81
-        }
+        },
+        "emails": [
+            "contact@dogswap.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x57aee8b0c27fd7a239f3fae7b555fa9439799a42",
