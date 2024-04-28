@@ -136988,5 +136988,71 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x132eeb05d5cb6829bd34f552cde0b6b708ef5014",
+        "date_add": "2024-04-28 00:17:37",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0xa0272c11d569e445f8780f8f23f995680f4bcabf",
+        "date_add": "2024-04-28 00:17:37",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.lavanet.xyz",
+            "discord.com"
+        ],
+        "holders": {
+            "ETH": 42
+        }
+    },
+    {
+        "contract_address": "0x730f8c56c709c5f5b4a6e91f98fa7a7c410e990d",
+        "date_add": "2024-04-28 00:17:37",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 701
+        }
+    },
+    {
+        "contract_address": "0xae0585a259a3bcab258d6ee02fb583f7b33c2a12",
+        "date_add": "2024-04-28 00:17:37",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2360
+        }
+    },
+    {
+        "contract_address": "0x12edccb978ad8e5bc571bbab87bdc2b17ad0e845",
+        "date_add": "2024-04-28 00:17:37",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "miladydorklord.com"
+        ],
+        "telegram_groups": [
+            "MILORD_ETH"
+        ],
+        "holders": {
+            "ETH": 113
+        }
+    },
+    {
+        "contract_address": "0x5ed26f26b2f843492090842270d4a5a1e447d01f",
+        "date_add": "2024-04-28 00:17:37",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 456
+        }
+    },
+    {
+        "contract_address": "0x5a4e8ec490697e9cfee45a5c0ed9c262e34eae59",
+        "date_add": "2024-04-28 00:17:37",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 25
+        }
     }
 ]
