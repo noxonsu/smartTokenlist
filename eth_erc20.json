@@ -137269,5 +137269,62 @@
         "holders": {
             "ETH": 372
         }
+    },
+    {
+        "contract_address": "0x02b1b47a76584872fef1762875ce38aaf14a3c17",
+        "date_add": "2024-04-28 10:04:24",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0x3a9b0c47492654b49cae73749ae94b71219bc005",
+        "date_add": "2024-04-28 10:04:24",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 394
+        }
+    },
+    {
+        "contract_address": "0xb624960aaad05d433075a5c9e760adec26036934",
+        "date_add": "2024-04-28 10:04:24",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "monkecoinerc.com"
+        ],
+        "telegram_groups": [
+            "monkecoinerc"
+        ],
+        "holders": {
+            "ETH": 661
+        }
+    },
+    {
+        "contract_address": "0xf10c41ca085fc8d9326a65408d14dae28a3e69a5",
+        "date_add": "2024-04-28 10:04:24",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0x7d81e25d9eb437b074ce7b423a44b63231e85573",
+        "date_add": "2024-04-28 10:04:24",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 21
+        }
+    },
+    {
+        "contract_address": "0x73f63eb1f6f9db4f145ad08fbaa7af0e5a9322ec",
+        "date_add": "2024-04-28 10:04:24",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.coincall.com"
+        ],
+        "holders": {
+            "ETH": 2
+        }
     }
 ]
