@@ -137343,5 +137343,124 @@
         },
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xfefafb9446d84a9e58a3a2f2dddd7219e8c94fbb",
+        "date_add": "2024-04-28 12:06:40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0x0a8c9fd739d7662479a6d70cadc3124c6bd31d0b",
+        "date_add": "2024-04-28 12:06:40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 104
+        }
+    },
+    {
+        "contract_address": "0xf3dc8ec4477952b748d726460b74dd87403b3c2d",
+        "date_add": "2024-04-28 12:06:40",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "JamesERC20"
+        ],
+        "holders": {
+            "ETH": 215
+        }
+    },
+    {
+        "contract_address": "0xb62492a991e60d9058af3755d085e7dd28cb9b23",
+        "date_add": "2024-04-28 12:06:40",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "BonkeCoinERC"
+        ],
+        "holders": {
+            "ETH": 28
+        }
+    },
+    {
+        "contract_address": "0x42069081bf54a19b38c9b2ccd3618f2c9ddc40e6",
+        "date_add": "2024-04-28 12:06:40",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wojak.hair"
+        ],
+        "telegram_groups": [
+            "wojak0x420"
+        ],
+        "holders": {
+            "ETH": 202
+        }
+    },
+    {
+        "contract_address": "0x949185d3be66775ea648f4a306740ea9eff9c567",
+        "date_add": "2024-04-28 12:06:40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 17
+        }
+    },
+    {
+        "contract_address": "0x7815bda662050d84718b988735218cffd32f75ea",
+        "date_add": "2024-04-28 12:06:40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1469
+        }
+    },
+    {
+        "contract_address": "0x09539705838eea6661633d568f77bc10a02cf375",
+        "date_add": "2024-04-28 12:06:40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0xda6913a4c4338588c052d287922f1efde7be89d5",
+        "date_add": "2024-04-28 12:06:40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0x6dd495d10884c44082943a7cce3318a1182499e4",
+        "date_add": "2024-04-28 12:06:40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0x24ecf598cad941bedcf7c45cd5426d43e847ffa1",
+        "date_add": "2024-04-28 12:06:40",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "PonkeErc"
+        ],
+        "holders": {
+            "ETH": 237
+        }
+    },
+    {
+        "contract_address": "0xd90e69f67203ebe02c917b5128629e77b4cd92dc",
+        "date_add": "2024-04-28 12:06:40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 624
+        }
+    },
+    {
+        "contract_address": "0x93fa1d7c310692eaf390f951828f8791bc19cb36",
+        "date_add": "2024-04-28 12:06:40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 96
+        }
     }
 ]
