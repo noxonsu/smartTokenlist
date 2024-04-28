@@ -137279,7 +137279,9 @@
         },
         "web_domains": [
             "tenjinworks.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3a9b0c47492654b49cae73749ae94b71219bc005",
@@ -137312,7 +137314,14 @@
         },
         "web_domains": [
             "islamiccoin.net"
-        ]
+        ],
+        "telegram_groups": [
+            "islamiccoin_int"
+        ],
+        "emails": [
+            "hello@islamiccoin.net"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7d81e25d9eb437b074ce7b423a44b63231e85573",
@@ -137331,6 +137340,8 @@
         ],
         "holders": {
             "ETH": 2
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     }
 ]
