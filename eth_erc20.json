@@ -137738,7 +137738,9 @@
         },
         "web_domains": [
             "0x0.dog"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd568573fc7325a92c602f6b8cd623e9e6354438e",
@@ -137752,6 +137754,10 @@
         ],
         "holders": {
             "ETH": 23
-        }
+        },
+        "emails": [
+            "info@mysite.com"
+        ],
+        "p6": true
     }
 ]
