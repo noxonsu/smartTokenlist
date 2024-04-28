@@ -138000,5 +138000,70 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x8f5301d1e5d09a8d6fbd609eb1a819e8f771d023",
+        "date_add": "2024-04-28 22:04:11",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 52
+        }
+    },
+    {
+        "contract_address": "0xba5ed663a1f20136e583a052104edcaa0f13d6dd",
+        "date_add": "2024-04-28 22:04:11",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "basedretardgang.xyz"
+        ],
+        "telegram_groups": [
+            "basedretardgangeth"
+        ],
+        "holders": {
+            "ETH": 39
+        }
+    },
+    {
+        "contract_address": "0x8c37b960e51708749d230b6b76afe1a5df84b07f",
+        "date_add": "2024-04-28 22:04:11",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 296
+        }
+    },
+    {
+        "contract_address": "0xa82f7672f55c0cd443615b026279013fd5012a17",
+        "date_add": "2024-04-28 22:04:11",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 17
+        }
+    },
+    {
+        "contract_address": "0x0f5ef0907fec08328661e0fbd776bdfd5dfd234a",
+        "date_add": "2024-04-28 22:04:11",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x5aee1e99fe86960377de9f88689616916d5dcabe",
+        "date_add": "2024-04-28 22:04:11",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi"
+        ],
+        "holders": {
+            "ETH": 23
+        }
     }
 ]
