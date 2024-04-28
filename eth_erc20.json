@@ -137494,5 +137494,111 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x5448e813195148bf71d4d6006393674ba5827eca",
+        "date_add": "2024-04-28 14:04:06",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0x7769b09edb011b759875e9f902644df8349300b1",
+        "date_add": "2024-04-28 14:04:06",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 157
+        }
+    },
+    {
+        "contract_address": "0x2ac29781547eb7501d3cfd9733ce11e38df5463a",
+        "date_add": "2024-04-28 14:04:06",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 109
+        }
+    },
+    {
+        "contract_address": "0xde202455472013b21424746383d6c91d26b6d38d",
+        "date_add": "2024-04-28 14:04:06",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.dogelon2024.com"
+        ],
+        "telegram_groups": [
+            "Dogelon2024"
+        ],
+        "holders": {
+            "ETH": 106
+        }
+    },
+    {
+        "contract_address": "0x6635e8fdc64b4031ceb02d49eeef43016b6f6666",
+        "date_add": "2024-04-28 14:04:06",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "chinamonke.top"
+        ],
+        "telegram_groups": [
+            "ChinaMonke"
+        ],
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0xea5ccdc02beb57cf47fbae2c63307edcd6065e43",
+        "date_add": "2024-04-28 14:04:06",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 22
+        }
+    },
+    {
+        "contract_address": "0xcbe82c971e7e6a4478031e002f8fd76a95f145c1",
+        "date_add": "2024-04-28 14:04:06",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "bullcoinbull"
+        ],
+        "holders": {
+            "ETH": 215
+        }
+    },
+    {
+        "contract_address": "0x4a0123a5971dbe0a965597ead5e396bf76d6fd8d",
+        "date_add": "2024-04-28 14:04:06",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0x3db28e471fa398bf2527135a1c559665941ee7a3",
+        "date_add": "2024-04-28 14:04:06",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 116
+        }
+    },
+    {
+        "contract_address": "0x65fb0a25e7da3ac7fd576ce864fbca4efa9296c3",
+        "date_add": "2024-04-28 14:04:06",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "babysitterserc"
+        ],
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0xb186035490c8602ead853ec98be05e3461521ab2",
+        "date_add": "2024-04-28 14:04:06",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 286
+        }
     }
 ]
