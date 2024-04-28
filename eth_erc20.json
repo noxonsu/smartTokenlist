@@ -138007,7 +138007,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 52
-        }
+        },
+        "web_domains": [
+            "neonfoundation.io"
+        ]
     },
     {
         "contract_address": "0xba5ed663a1f20136e583a052104edcaa0f13d6dd",
@@ -138029,7 +138032,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 296
-        }
+        },
+        "web_domains": [
+            "ipvanish.com"
+        ]
     },
     {
         "contract_address": "0xa82f7672f55c0cd443615b026279013fd5012a17",
@@ -138037,7 +138043,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 17
-        }
+        },
+        "web_domains": [
+            "hooai.ae"
+        ]
     },
     {
         "contract_address": "0x0f5ef0907fec08328661e0fbd776bdfd5dfd234a",
