@@ -95505,10 +95505,10 @@
             "www.reddit.com"
         ],
         "telegram_groups": [
-            "WagieTokenERC",
             "MononokeTokenOfficial",
             "luffytokenchannel",
-            "WagieTokenSOL"
+            "WagieTokenSOL",
+            "WagieTokenERC"
         ],
         "holders": {
             "ETH": 93
@@ -105100,10 +105100,10 @@
         ],
         "telegram_groups": [
             "MononokeTokenOfficial",
-            "luffytokenchannel",
             "NauxeAI",
-            "WagieTokenSOL",
-            "WagieTokenERC"
+            "WagieTokenERC",
+            "luffytokenchannel",
+            "WagieTokenSOL"
         ],
         "holders": {
             "ETH": 169
@@ -107011,9 +107011,9 @@
         ],
         "telegram_groups": [
             "MononokeTokenOfficial",
+            "ogpepecoineth",
             "NauxeAI",
             "WagieTokenSOL",
-            "ogpepecoineth",
             "luffytokenchannel",
             "WagieTokenERC"
         ],
@@ -137234,11 +137234,18 @@
             "www.ogetherium.vip"
         ],
         "telegram_groups": [
-            "etheriumcoineth"
+            "etheriumcoineth",
+            "NauxeAI",
+            "luffytokenchannel",
+            "MononokeTokenOfficial",
+            "ogpepecoineth",
+            "WagieTokenERC",
+            "WagieTokenSOL"
         ],
         "holders": {
             "ETH": 333
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x000000c015961e76c9d69aabcfafc0989f338332",
@@ -137252,7 +137259,8 @@
         ],
         "holders": {
             "ETH": 207
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0123c2c709804e0195e50dfb451fc65650f461a8",
