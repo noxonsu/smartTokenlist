@@ -137890,7 +137890,9 @@
         },
         "web_domains": [
             "pendalgroup.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x331e42e7dc117f537a7380c3a4f5e03f48a58db9",
@@ -137904,7 +137906,11 @@
         ],
         "holders": {
             "ETH": 186
-        }
+        },
+        "emails": [
+            "team@monkpe.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8668c5212834002968688f6ee950f1e45bd2dff5",
@@ -137916,7 +137922,9 @@
         ],
         "holders": {
             "ETH": 25
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xdcb7a37a872f77f84f62cbf7f58f048785890c6c",
@@ -137930,7 +137938,8 @@
         ],
         "holders": {
             "ETH": 171
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x16adab68bdece3089d4f1626bb5aedd0d02471ad",
@@ -137957,7 +137966,9 @@
         },
         "web_domains": [
             "liquidcrypto.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x821d0cabcefa8431409c2d08a973705d06e3f593",
@@ -137971,7 +137982,11 @@
         },
         "web_domains": [
             "xdating.com"
-        ]
+        ],
+        "emails": [
+            "support@xdating.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x70536d44820fe3ddd4a2e3eedbc937b8b9d566c7",
