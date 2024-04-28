@@ -137512,7 +137512,14 @@
         },
         "web_domains": [
             "revolutoken.com"
-        ]
+        ],
+        "telegram_groups": [
+            "RevoluToken"
+        ],
+        "emails": [
+            "support@revolutoken.com\n                  "
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2ac29781547eb7501d3cfd9733ce11e38df5463a",
@@ -137530,11 +137537,16 @@
             "www.dogelon2024.com"
         ],
         "telegram_groups": [
+            "DogelonErc20",
             "Dogelon2024"
         ],
         "holders": {
             "ETH": 106
-        }
+        },
+        "emails": [
+            "info@mysite.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6635e8fdc64b4031ceb02d49eeef43016b6f6666",
@@ -137548,7 +137560,8 @@
         ],
         "holders": {
             "ETH": 18
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xea5ccdc02beb57cf47fbae2c63307edcd6065e43",
@@ -137559,7 +137572,9 @@
         },
         "web_domains": [
             "superseed.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xcbe82c971e7e6a4478031e002f8fd76a95f145c1",
@@ -137589,7 +137604,12 @@
         },
         "web_domains": [
             "earlyzero.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "\nWant to say hello? bc@earlyzero.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x65fb0a25e7da3ac7fd576ce864fbca4efa9296c3",
@@ -137611,6 +137631,8 @@
         },
         "web_domains": [
             "packpackworld.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
