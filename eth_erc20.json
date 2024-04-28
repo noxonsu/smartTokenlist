@@ -137634,5 +137634,89 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xbc948ca22ce08434505c22983bcb03c63cf56170",
+        "date_add": "2024-04-28 16:04:22",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0xdb899b42bf4445ac5ab863e6711e4b1a21238e8d",
+        "date_add": "2024-04-28 16:04:22",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 34
+        }
+    },
+    {
+        "contract_address": "0xdec5633e879d392eef4501f0343efb350bd98a31",
+        "date_add": "2024-04-28 16:04:22",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 38
+        }
+    },
+    {
+        "contract_address": "0xd3abd506fe7613f60ebb026a97e6ade810df35ec",
+        "date_add": "2024-04-28 16:04:22",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "runeth.io",
+            "docs.runeth.io",
+            "explorer.runeth.io"
+        ],
+        "telegram_groups": [
+            "Runeth_portal"
+        ],
+        "holders": {
+            "ETH": 188
+        }
+    },
+    {
+        "contract_address": "0x1e4333f7a57987e27747b77f214f00cf5ee5fb2c",
+        "date_add": "2024-04-28 16:04:22",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Bananacoinerc20"
+        ],
+        "holders": {
+            "ETH": 189
+        }
+    },
+    {
+        "contract_address": "0xc096251a6bb2e6c2015307be53fe60b01a4a7c3e",
+        "date_add": "2024-04-28 16:04:22",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "metachain.biz"
+        ],
+        "holders": {
+            "ETH": 74
+        }
+    },
+    {
+        "contract_address": "0x05a811275fe9b4de503b3311f51edf6a856d936e",
+        "date_add": "2024-04-28 16:04:22",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0xd568573fc7325a92c602f6b8cd623e9e6354438e",
+        "date_add": "2024-04-28 16:04:22",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.wonkecoin.com"
+        ],
+        "telegram_groups": [
+            "WonkeErc"
+        ],
+        "holders": {
+            "ETH": 23
+        }
     }
 ]
