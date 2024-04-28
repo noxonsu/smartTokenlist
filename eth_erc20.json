@@ -137358,7 +137358,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 104
-        }
+        },
+        "web_domains": [
+            "tokeninsight.com"
+        ]
     },
     {
         "contract_address": "0xf3dc8ec4477952b748d726460b74dd87403b3c2d",
@@ -137380,7 +137383,10 @@
         ],
         "holders": {
             "ETH": 28
-        }
+        },
+        "web_domains": [
+            "bonkcoin.com"
+        ]
     },
     {
         "contract_address": "0x42069081bf54a19b38c9b2ccd3618f2c9ddc40e6",
@@ -137402,7 +137408,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 17
-        }
+        },
+        "web_domains": [
+            "yel.finance"
+        ]
     },
     {
         "contract_address": "0x7815bda662050d84718b988735218cffd32f75ea",
@@ -137426,7 +137435,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 24
-        }
+        },
+        "web_domains": [
+            "mneko.com"
+        ]
     },
     {
         "contract_address": "0x6dd495d10884c44082943a7cce3318a1182499e4",
@@ -137445,7 +137457,10 @@
         ],
         "holders": {
             "ETH": 237
-        }
+        },
+        "web_domains": [
+            "ponke.io"
+        ]
     },
     {
         "contract_address": "0xd90e69f67203ebe02c917b5128629e77b4cd92dc",
@@ -137461,6 +137476,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 96
-        }
+        },
+        "web_domains": [
+            "barnana.com"
+        ]
     }
 ]
