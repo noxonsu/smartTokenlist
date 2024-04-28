@@ -137880,5 +137880,96 @@
         "holders": {
             "ETH": 32
         }
+    },
+    {
+        "contract_address": "0x32a8d74dab747c0e556a19a4f396e96e53c1e02c",
+        "date_add": "2024-04-28 20:04:53",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 44
+        }
+    },
+    {
+        "contract_address": "0x331e42e7dc117f537a7380c3a4f5e03f48a58db9",
+        "date_add": "2024-04-28 20:04:53",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "monkpe.com"
+        ],
+        "telegram_groups": [
+            "monkpe"
+        ],
+        "holders": {
+            "ETH": 186
+        }
+    },
+    {
+        "contract_address": "0x8668c5212834002968688f6ee950f1e45bd2dff5",
+        "date_add": "2024-04-28 20:04:53",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "trailblaze.xyz",
+            "discord.com"
+        ],
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0xdcb7a37a872f77f84f62cbf7f58f048785890c6c",
+        "date_add": "2024-04-28 20:04:53",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "poppytoken.vip"
+        ],
+        "telegram_groups": [
+            "POPPY_Portal"
+        ],
+        "holders": {
+            "ETH": 171
+        }
+    },
+    {
+        "contract_address": "0x16adab68bdece3089d4f1626bb5aedd0d02471ad",
+        "date_add": "2024-04-28 20:04:53",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 79
+        }
+    },
+    {
+        "contract_address": "0x21b133eaf602a20f7319843e6680e655de380f5d",
+        "date_add": "2024-04-28 20:04:53",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0x872952d3c1caf944852c5adda65633f1ef218a26",
+        "date_add": "2024-04-28 20:04:53",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 121
+        }
+    },
+    {
+        "contract_address": "0x821d0cabcefa8431409c2d08a973705d06e3f593",
+        "date_add": "2024-04-28 20:04:53",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ercdatingerc20"
+        ],
+        "holders": {
+            "ETH": 159
+        }
+    },
+    {
+        "contract_address": "0x70536d44820fe3ddd4a2e3eedbc937b8b9d566c7",
+        "date_add": "2024-04-28 20:04:53",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 70
+        }
     }
 ]
