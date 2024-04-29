@@ -138635,7 +138635,14 @@
         },
         "web_domains": [
             "smurfcat.eth.limo"
-        ]
+        ],
+        "telegram_groups": [
+            "smurfcateth"
+        ],
+        "emails": [
+            "real smurf cat contact: realsmurfcat@outlook.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6f62b016b3393fdfb1f1688871b6580d47acad74",
@@ -138654,7 +138661,12 @@
         },
         "web_domains": [
             "sonke.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            " info@sonke.org"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x252da5613769b1c56b71a222d7fe737691574fb8",
@@ -138668,7 +138680,8 @@
         ],
         "holders": {
             "ETH": 456
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9afc975edb8a0b57f066e8e0a72a5e2adbdcb605",
@@ -138679,7 +138692,9 @@
         },
         "web_domains": [
             "fusion.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x45288e1aaeac50d8b8d1e984fe78a002a618c1e8",
@@ -138698,7 +138713,11 @@
         },
         "web_domains": [
             "zunami.io"
-        ]
+        ],
+        "telegram_groups": [
+            "ZunamiCommunityChat"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x20f942fbc734d8a09c2a3b2e649d0dcf97fd58eb",
@@ -138709,7 +138728,14 @@
         },
         "web_domains": [
             "hemule.vip"
-        ]
+        ],
+        "telegram_groups": [
+            "HemulePortal"
+        ],
+        "emails": [
+            "Team@Hemule.vip"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3062cd27ee17479ef6d0bb2cfb57526cbfd7ff20",
