@@ -139004,12 +139004,13 @@
             "docs.runegun.com"
         ],
         "telegram_groups": [
-            "RunegunAssistantBot",
-            "Runegun_portal"
+            "Runegun_portal",
+            "RunegunAssistantBot"
         ],
         "holders": {
             "ETH": 237
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x856d38d414eee4dc22ba4029b634ae71165e0df1",
@@ -139020,7 +139021,23 @@
         },
         "web_domains": [
             "xkx.app"
-        ]
+        ],
+        "telegram_groups": [
+            "MAGATrumpPortal",
+            "Banana_Gun_Portal",
+            "zuzaluinu",
+            "XKXPortal",
+            "hpos10i",
+            "bypassERC20",
+            "joinchat",
+            "joecoinportal",
+            "pepecoineth",
+            "FlokiInuToken"
+        ],
+        "emails": [
+            "Support@XKX.App"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x70f710f5f6990de5bd77110e47ed1abac66ac7f3",
@@ -139034,7 +139051,8 @@
         ],
         "holders": {
             "ETH": 14
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9db92f32c766ce51e9821703c543387c6c58b432",
@@ -139045,7 +139063,9 @@
         },
         "web_domains": [
             "vercel.app"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa5feaaca8a0613611f5939ac5c5e7f337712e4d5",
@@ -139056,7 +139076,11 @@
         },
         "web_domains": [
             "threeprotocol.ai"
-        ]
+        ],
+        "telegram_groups": [
+            "Threeprotocol"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x52c6889677e514bdd0f09e32003c15b33e88dcce",
@@ -139067,7 +139091,9 @@
         },
         "web_domains": [
             "bndr.pl"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xae4a0dba1f5b9a4ab25b0a9f55c90d093c0a2cf8",
