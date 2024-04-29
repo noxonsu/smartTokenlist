@@ -126405,7 +126405,9 @@
         ],
         "holders": {
             "ETH": 5116
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x71d641deb8898becb15e3bd8b857047af37f788f",
@@ -139161,7 +139163,9 @@
         },
         "web_domains": [
             "ambrhomes.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x538885d1d30d6cb1d198e1cb0705571e174ca4d4",
@@ -139172,7 +139176,12 @@
         },
         "web_domains": [
             "dumaidunai.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "dumai.dunai.music@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8fa902c36d1fe08c0306645c7936817766ff0326",
@@ -139191,7 +139200,9 @@
         },
         "web_domains": [
             "xnet.company"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x11613b1f840bb5a40f8866d857e24da126b79d73",
@@ -139210,7 +139221,9 @@
         },
         "web_domains": [
             "staxpayments.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xef4bd7f8d5aaf27e03f3b315376b3ee5c05d3c0f",
@@ -139224,12 +139237,13 @@
             "axioai.io"
         ],
         "telegram_groups": [
-            "axioai",
-            "AxioAI_bot"
+            "AxioAI_bot",
+            "axioai"
         ],
         "holders": {
             "ETH": 61
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2ffa85f655752fb2acb210287c60b9ef335f5b6e",
@@ -139243,6 +139257,8 @@
         ],
         "holders": {
             "ETH": 11
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     }
 ]
