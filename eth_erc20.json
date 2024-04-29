@@ -138282,5 +138282,74 @@
             "ETH": 292
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xaba2f5ccc85166d1ea594c8b0306447f3f3c7dd3",
+        "date_add": "2024-04-29 04:04:49",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "planetquest.io",
+            "discord.com"
+        ],
+        "holders": {
+            "ETH": 28
+        }
+    },
+    {
+        "contract_address": "0x325ea6050b3a7d7611f7e4154eb98f7cb44b60a1",
+        "date_add": "2024-04-29 04:04:49",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 37
+        }
+    },
+    {
+        "contract_address": "0x42069c62549b02f34278c0ed86bdf68369928e46",
+        "date_add": "2024-04-29 04:04:49",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "godofmemeerc.com"
+        ],
+        "telegram_groups": [
+            "GodOfMemeErc"
+        ],
+        "holders": {
+            "ETH": 290
+        }
+    },
+    {
+        "contract_address": "0x487969e5fdfae6cc7d41adc7636d42147456b200",
+        "date_add": "2024-04-29 04:04:49",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xee06a81a695750e71a662b51066f2c74cf4478a0",
+        "date_add": "2024-04-29 04:04:49",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2986
+        }
+    },
+    {
+        "contract_address": "0x6a0d12bba4c736ffb1095087c56313a4d7bd5beb",
+        "date_add": "2024-04-29 04:04:49",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "monkecoinerc.com"
+        ],
+        "holders": {
+            "ETH": 72
+        }
+    },
+    {
+        "contract_address": "0x03b2f44a7e10861c65233fdcd33cce8c6f7c1fef",
+        "date_add": "2024-04-29 04:04:49",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 283
+        }
     }
 ]
