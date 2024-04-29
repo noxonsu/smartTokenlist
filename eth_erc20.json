@@ -139017,7 +139017,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 78
-        }
+        },
+        "web_domains": [
+            "xkx.app"
+        ]
     },
     {
         "contract_address": "0x70f710f5f6990de5bd77110e47ed1abac66ac7f3",
@@ -139039,7 +139042,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 130
-        }
+        },
+        "web_domains": [
+            "vercel.app"
+        ]
     },
     {
         "contract_address": "0xa5feaaca8a0613611f5939ac5c5e7f337712e4d5",
@@ -139047,7 +139053,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 15
-        }
+        },
+        "web_domains": [
+            "threeprotocol.ai"
+        ]
     },
     {
         "contract_address": "0x52c6889677e514bdd0f09e32003c15b33e88dcce",
@@ -139055,7 +139064,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 71
-        }
+        },
+        "web_domains": [
+            "bndr.pl"
+        ]
     },
     {
         "contract_address": "0xae4a0dba1f5b9a4ab25b0a9f55c90d093c0a2cf8",
@@ -139077,7 +139089,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 32
-        }
+        },
+        "web_domains": [
+            "three-3.gitbook.io"
+        ]
     },
     {
         "contract_address": "0x1ea8ee90961654f40dbba3b808f1bf28576a9075",
@@ -139085,6 +139100,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 21
-        }
+        },
+        "web_domains": [
+            "generationmeme.com"
+        ]
     }
 ]
