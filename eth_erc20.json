@@ -138994,5 +138994,97 @@
             "VutalekPortal"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x14ac72170df0643e3f97d4472859762206641cf6",
+        "date_add": "2024-04-29 20:04:35",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "runegun.com",
+            "docs.runegun.com"
+        ],
+        "telegram_groups": [
+            "RunegunAssistantBot",
+            "Runegun_portal"
+        ],
+        "holders": {
+            "ETH": 237
+        }
+    },
+    {
+        "contract_address": "0x856d38d414eee4dc22ba4029b634ae71165e0df1",
+        "date_add": "2024-04-29 20:04:35",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 78
+        }
+    },
+    {
+        "contract_address": "0x70f710f5f6990de5bd77110e47ed1abac66ac7f3",
+        "date_add": "2024-04-29 20:04:35",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dexeye.app"
+        ],
+        "telegram_groups": [
+            "dexeyeth"
+        ],
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0x9db92f32c766ce51e9821703c543387c6c58b432",
+        "date_add": "2024-04-29 20:04:35",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 130
+        }
+    },
+    {
+        "contract_address": "0xa5feaaca8a0613611f5939ac5c5e7f337712e4d5",
+        "date_add": "2024-04-29 20:04:35",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0x52c6889677e514bdd0f09e32003c15b33e88dcce",
+        "date_add": "2024-04-29 20:04:35",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 71
+        }
+    },
+    {
+        "contract_address": "0xae4a0dba1f5b9a4ab25b0a9f55c90d093c0a2cf8",
+        "date_add": "2024-04-29 20:04:35",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "youtube.com"
+        ],
+        "telegram_groups": [
+            "AssetSphereERC"
+        ],
+        "holders": {
+            "ETH": 129
+        }
+    },
+    {
+        "contract_address": "0x5cb886515caaebecd1364ce8bd57ca21a326211f",
+        "date_add": "2024-04-29 20:04:35",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0x1ea8ee90961654f40dbba3b808f1bf28576a9075",
+        "date_add": "2024-04-29 20:04:35",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 21
+        }
     }
 ]
