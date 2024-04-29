@@ -138091,5 +138091,67 @@
         },
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x78c5bb425b6059b4c1c61e1a39a2f2fc0a66d677",
+        "date_add": "2024-04-29 00:15:56",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8
+        }
+    },
+    {
+        "contract_address": "0xaa785491ef31581bba683b71d216794e5a007873",
+        "date_add": "2024-04-29 00:15:56",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "X.com",
+            "donkecoinerc.xyz"
+        ],
+        "telegram_groups": [
+            "DonkeCoinERC"
+        ],
+        "holders": {
+            "ETH": 191
+        }
+    },
+    {
+        "contract_address": "0xcbfae8c50f9e49d49409f4f543f8d363a014415b",
+        "date_add": "2024-04-29 00:15:56",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.nexgami.com",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "NexGami"
+        ],
+        "holders": {
+            "ETH": 40
+        }
+    },
+    {
+        "contract_address": "0xbf045cebc5d825ba31c5b4dc428fd64d3a90133d",
+        "date_add": "2024-04-29 00:15:56",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0x7b22938ca841aa392c93dbb7f4c42178e3d65e88",
+        "date_add": "2024-04-29 00:15:56",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2154
+        }
+    },
+    {
+        "contract_address": "0xfc9a1480ad48e66b76e46585fe676d90a0051e9b",
+        "date_add": "2024-04-29 00:15:56",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 488
+        }
     }
 ]
