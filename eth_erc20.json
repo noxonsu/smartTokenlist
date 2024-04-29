@@ -138460,7 +138460,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "blasteth.com"
+        ]
     },
     {
         "contract_address": "0x00a1d3451ac25c7f2c51aa20b03d2c9e1985d0a8",
@@ -138491,7 +138494,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 51
-        }
+        },
+        "web_domains": [
+            "drinko2.com"
+        ]
     },
     {
         "contract_address": "0x4774894d0a79b63359579fdd9e5377c3bd793f40",
