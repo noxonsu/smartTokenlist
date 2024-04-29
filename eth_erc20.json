@@ -138379,5 +138379,67 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x18807c6b0e93f4934d513082e5de804661534730",
+        "date_add": "2024-04-29 06:05:08",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 31
+        }
+    },
+    {
+        "contract_address": "0x0205772bc5bb779c0a947686fba99c7ddc3f45ac",
+        "date_add": "2024-04-29 06:05:08",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "changpengzhaocoin.vip"
+        ],
+        "telegram_groups": [
+            "Cz0x020577"
+        ],
+        "holders": {
+            "ETH": 450
+        }
+    },
+    {
+        "contract_address": "0x9567d4c124f7724d02b69af178a010016f84209b",
+        "date_add": "2024-04-29 06:05:08",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "oddyai.bet",
+            "docs.oddyai.bet"
+        ],
+        "telegram_groups": [
+            "OddyAi_Bot",
+            "oddyai"
+        ],
+        "holders": {
+            "ETH": 23
+        }
+    },
+    {
+        "contract_address": "0xd23ba02253d078584ff5d1f6e850e97a6ce3e684",
+        "date_add": "2024-04-29 06:05:08",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xe28e7800fc49e0ff74f9f55c07ffc86aeb3daa29",
+        "date_add": "2024-04-29 06:05:08",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 36
+        }
+    },
+    {
+        "contract_address": "0xaa247c0d81b83812e1abf8bab078e4540d87e3fb",
+        "date_add": "2024-04-29 06:05:08",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2873
+        }
     }
 ]
