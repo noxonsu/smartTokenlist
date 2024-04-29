@@ -138529,7 +138529,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 30
-        }
+        },
+        "web_domains": [
+            "solv.finance"
+        ]
     },
     {
         "contract_address": "0xdfdb91da8b84fbe44202e4544e1d76c003160c1d",
@@ -138537,7 +138540,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 14
-        }
+        },
+        "web_domains": [
+            "hyperlane.xyz"
+        ]
     },
     {
         "contract_address": "0x69b212494ca4f03ffa650c27e5119ff40f53cc0b",
@@ -138567,7 +138573,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 76
-        }
+        },
+        "web_domains": [
+            "szindore.com"
+        ]
     },
     {
         "contract_address": "0x749b967c6e9c706f95f76baf200432a1ca49203f",
