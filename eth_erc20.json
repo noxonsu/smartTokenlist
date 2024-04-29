@@ -137299,11 +137299,17 @@
             "monkecoinerc.com"
         ],
         "telegram_groups": [
+            "Monkecoinerc",
+            "MonkecoinERC",
             "monkecoinerc"
         ],
         "holders": {
             "ETH": 661
-        }
+        },
+        "emails": [
+            "\u00a9 2024 \u2013 Monkecoin74@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf10c41ca085fc8d9326a65408d14dae28a3e69a5",
@@ -138293,7 +138299,9 @@
         ],
         "holders": {
             "ETH": 28
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x325ea6050b3a7d7611f7e4154eb98f7cb44b60a1",
@@ -138304,7 +138312,9 @@
         },
         "web_domains": [
             "ironcladapp.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x42069c62549b02f34278c0ed86bdf68369928e46",
@@ -138318,7 +138328,8 @@
         ],
         "holders": {
             "ETH": 290
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x487969e5fdfae6cc7d41adc7636d42147456b200",
@@ -138345,7 +138356,16 @@
         ],
         "holders": {
             "ETH": 72
-        }
+        },
+        "telegram_groups": [
+            "monkecoinerc",
+            "Monkecoinerc",
+            "MonkecoinERC"
+        ],
+        "emails": [
+            "\u00a9 2024 \u2013 Monkecoin74@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x03b2f44a7e10861c65233fdcd33cce8c6f7c1fef",
@@ -138356,6 +138376,8 @@
         },
         "web_domains": [
             "xpepenft.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
