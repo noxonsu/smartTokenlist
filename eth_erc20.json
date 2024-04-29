@@ -138823,7 +138823,8 @@
         ],
         "holders": {
             "ETH": 100
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xce69a4440ce99a5a150172ea8c6f381dae12d49a",
@@ -138837,7 +138838,8 @@
         ],
         "holders": {
             "ETH": 214
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8fce22ca8a6b295a67890122b59b49a39bbf483d",
@@ -138851,7 +138853,8 @@
         ],
         "holders": {
             "ETH": 61
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe28e3bb86bb11cb5ba100e15eda081b104ee8ca1",
@@ -138862,7 +138865,9 @@
         },
         "web_domains": [
             "nsavx.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xce5513474e077f5336cf1b33c1347fdd8d48ae8c",
