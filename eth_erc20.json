@@ -139137,5 +139137,100 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xa059b81568fee88791de88232e838465826cf419",
+        "date_add": "2024-04-29 22:04:13",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.jobs3.io"
+        ],
+        "telegram_groups": [
+            "threeprotocol"
+        ],
+        "holders": {
+            "ETH": 713
+        }
+    },
+    {
+        "contract_address": "0x5e5d64ea20e932d9031db75e9329663a68f76185",
+        "date_add": "2024-04-29 22:04:13",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0x538885d1d30d6cb1d198e1cb0705571e174ca4d4",
+        "date_add": "2024-04-29 22:04:13",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 59
+        }
+    },
+    {
+        "contract_address": "0x8fa902c36d1fe08c0306645c7936817766ff0326",
+        "date_add": "2024-04-29 22:04:13",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 595
+        }
+    },
+    {
+        "contract_address": "0x5393ceed9a265bda7952780e5b9413150e666a24",
+        "date_add": "2024-04-29 22:04:13",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10
+        }
+    },
+    {
+        "contract_address": "0x11613b1f840bb5a40f8866d857e24da126b79d73",
+        "date_add": "2024-04-29 22:04:13",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7774
+        }
+    },
+    {
+        "contract_address": "0x8c1e4031c60256ae8987f8ac328f87adbffa48e4",
+        "date_add": "2024-04-29 22:04:13",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 99
+        }
+    },
+    {
+        "contract_address": "0xef4bd7f8d5aaf27e03f3b315376b3ee5c05d3c0f",
+        "date_add": "2024-04-29 22:04:13",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "axioai.io",
+            "medium.axioai.com",
+            "whitepaper.axioai.io",
+            "axioai.io",
+            "axioai.io"
+        ],
+        "telegram_groups": [
+            "axioai",
+            "AxioAI_bot"
+        ],
+        "holders": {
+            "ETH": 61
+        }
+    },
+    {
+        "contract_address": "0x2ffa85f655752fb2acb210287c60b9ef335f5b6e",
+        "date_add": "2024-04-29 22:04:13",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bzx.network"
+        ],
+        "emails": [
+            "alexey@mixbytes.io"
+        ],
+        "holders": {
+            "ETH": 11
+        }
     }
 ]
