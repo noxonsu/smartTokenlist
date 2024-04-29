@@ -138453,5 +138453,52 @@
         "holders": {
             "ETH": 2873
         }
+    },
+    {
+        "contract_address": "0x83998e169026136760be6af93e776c2f352d4b28",
+        "date_add": "2024-04-29 08:06:10",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x00a1d3451ac25c7f2c51aa20b03d2c9e1985d0a8",
+        "date_add": "2024-04-29 08:06:10",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.globaltimes.cn",
+            "vidu-ai.xyz"
+        ],
+        "telegram_groups": [
+            "ViduAiToken"
+        ],
+        "holders": {
+            "ETH": 256
+        }
+    },
+    {
+        "contract_address": "0x54cadf0dece6da2a4b9d4d0b8c675ad591b48b7b",
+        "date_add": "2024-04-29 08:06:10",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0x6ce05bf4e783a98015cd363abdab2cc78e8a8358",
+        "date_add": "2024-04-29 08:06:10",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 51
+        }
+    },
+    {
+        "contract_address": "0x4774894d0a79b63359579fdd9e5377c3bd793f40",
+        "date_add": "2024-04-29 08:06:10",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 183
+        }
     }
 ]
