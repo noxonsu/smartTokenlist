@@ -132318,8 +132318,8 @@
             "shib1.com"
         ],
         "telegram_groups": [
-            "MickkkeyEth",
-            "Shib1Eth"
+            "Shib1Eth",
+            "MickkkeyEth"
         ],
         "holders": {
             "ETH": 18
@@ -138101,7 +138101,9 @@
         },
         "web_domains": [
             "nodes.ai"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xaa785491ef31581bba683b71d216794e5a007873",
@@ -138112,11 +138114,14 @@
             "donkecoinerc.xyz"
         ],
         "telegram_groups": [
-            "DonkeCoinERC"
+            "DonkeCoinERC",
+            "Shib1Eth",
+            "MickkkeyEth"
         ],
         "holders": {
             "ETH": 191
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xcbfae8c50f9e49d49409f4f543f8d363a014415b",
@@ -138127,11 +138132,16 @@
             "discord.com"
         ],
         "telegram_groups": [
-            "NexGami"
+            "NexGami",
+            "NexGami_Ann"
         ],
         "holders": {
             "ETH": 40
-        }
+        },
+        "emails": [
+            "service@nexgami.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbf045cebc5d825ba31c5b4dc428fd64d3a90133d",
