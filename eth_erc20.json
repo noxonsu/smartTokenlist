@@ -138098,7 +138098,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 8
-        }
+        },
+        "web_domains": [
+            "nodes.ai"
+        ]
     },
     {
         "contract_address": "0xaa785491ef31581bba683b71d216794e5a007873",
