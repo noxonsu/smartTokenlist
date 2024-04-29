@@ -138166,5 +138166,110 @@
         "holders": {
             "ETH": 488
         }
+    },
+    {
+        "contract_address": "0x620afcdce7688f952240df6f672df3557f660c48",
+        "date_add": "2024-04-29 02:13:04",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 329
+        }
+    },
+    {
+        "contract_address": "0x99999988db76f0e215af4b861f7c9fe797ea2078",
+        "date_add": "2024-04-29 02:13:04",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "APECOINERC"
+        ],
+        "holders": {
+            "ETH": 239
+        }
+    },
+    {
+        "contract_address": "0x6942063f44d4a776d45eade0d761894336594cd6",
+        "date_add": "2024-04-29 02:13:04",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "BOOKOFPEPE_Channel"
+        ],
+        "holders": {
+            "ETH": 139
+        }
+    },
+    {
+        "contract_address": "0x52eb7027d9dda50498f87639e374d61799faedf6",
+        "date_add": "2024-04-29 02:13:04",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "vladimirgav.github.io"
+        ],
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0xe45b0a030ba451ad642ca98c3a2d3f64a6861bae",
+        "date_add": "2024-04-29 02:13:04",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.dorklordcoin.vip"
+        ],
+        "telegram_groups": [
+            "DorkLordCoinErc"
+        ],
+        "holders": {
+            "ETH": 254
+        }
+    },
+    {
+        "contract_address": "0xa6aac650c85864d216a0d134d6a679f389287cbf",
+        "date_add": "2024-04-29 02:13:04",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "innovateai.dev"
+        ],
+        "telegram_groups": [
+            "innovateai"
+        ],
+        "holders": {
+            "ETH": 473
+        }
+    },
+    {
+        "contract_address": "0xcc23bb8c3b7e6e13d938a53133a4279810030269",
+        "date_add": "2024-04-29 02:13:04",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 61
+        }
+    },
+    {
+        "contract_address": "0x1e3179b0f92cce44eceb60e3316ac794888340ed",
+        "date_add": "2024-04-29 02:13:04",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.bip-42o.xyz"
+        ],
+        "telegram_groups": [
+            "Bip420_ERC"
+        ],
+        "holders": {
+            "ETH": 142
+        }
+    },
+    {
+        "contract_address": "0x5cd7e7f3e963091e3579647c22394b00b2dd5cd7",
+        "date_add": "2024-04-29 02:13:04",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "spread-node.com"
+        ],
+        "telegram_groups": [
+            "spreadnode"
+        ],
+        "holders": {
+            "ETH": 292
+        }
     }
 ]
