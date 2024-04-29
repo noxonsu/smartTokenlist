@@ -138424,7 +138424,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 0
-        }
+        },
+        "web_domains": [
+            "mantle.finance"
+        ]
     },
     {
         "contract_address": "0xe28e7800fc49e0ff74f9f55c07ffc86aeb3daa29",
@@ -138432,7 +138435,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 36
-        }
+        },
+        "web_domains": [
+            "dulcededonke.com"
+        ]
     },
     {
         "contract_address": "0xaa247c0d81b83812e1abf8bab078e4540d87e3fb",
