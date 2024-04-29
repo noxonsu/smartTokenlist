@@ -138187,7 +138187,8 @@
         },
         "web_domains": [
             "apecoin.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6942063f44d4a776d45eade0d761894336594cd6",
@@ -138209,7 +138210,9 @@
         ],
         "holders": {
             "ETH": 5
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe45b0a030ba451ad642ca98c3a2d3f64a6861bae",
@@ -138223,7 +138226,8 @@
         ],
         "holders": {
             "ETH": 254
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa6aac650c85864d216a0d134d6a679f389287cbf",
@@ -138233,11 +138237,13 @@
             "innovateai.dev"
         ],
         "telegram_groups": [
+            "stacy_white0",
             "innovateai"
         ],
         "holders": {
             "ETH": 473
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xcc23bb8c3b7e6e13d938a53133a4279810030269",
@@ -138259,7 +138265,8 @@
         ],
         "holders": {
             "ETH": 142
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5cd7e7f3e963091e3579647c22394b00b2dd5cd7",
@@ -138273,6 +138280,7 @@
         ],
         "holders": {
             "ETH": 292
-        }
+        },
+        "p6": true
     }
 ]
