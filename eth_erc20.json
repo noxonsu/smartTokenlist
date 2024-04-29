@@ -139158,7 +139158,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 25
-        }
+        },
+        "web_domains": [
+            "ambrhomes.com"
+        ]
     },
     {
         "contract_address": "0x538885d1d30d6cb1d198e1cb0705571e174ca4d4",
@@ -139166,7 +139169,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 59
-        }
+        },
+        "web_domains": [
+            "dumaidunai.com"
+        ]
     },
     {
         "contract_address": "0x8fa902c36d1fe08c0306645c7936817766ff0326",
@@ -139182,7 +139188,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 10
-        }
+        },
+        "web_domains": [
+            "xnet.company"
+        ]
     },
     {
         "contract_address": "0x11613b1f840bb5a40f8866d857e24da126b79d73",
@@ -139198,7 +139207,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 99
-        }
+        },
+        "web_domains": [
+            "staxpayments.com"
+        ]
     },
     {
         "contract_address": "0xef4bd7f8d5aaf27e03f3b315376b3ee5c05d3c0f",
