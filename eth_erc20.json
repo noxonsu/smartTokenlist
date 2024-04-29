@@ -138632,7 +138632,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 32
-        }
+        },
+        "web_domains": [
+            "smurfcat.eth.limo"
+        ]
     },
     {
         "contract_address": "0x6f62b016b3393fdfb1f1688871b6580d47acad74",
@@ -138648,7 +138651,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 31
-        }
+        },
+        "web_domains": [
+            "sonke.org"
+        ]
     },
     {
         "contract_address": "0x252da5613769b1c56b71a222d7fe737691574fb8",
@@ -138670,7 +138676,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 11
-        }
+        },
+        "web_domains": [
+            "fusion.org"
+        ]
     },
     {
         "contract_address": "0x45288e1aaeac50d8b8d1e984fe78a002a618c1e8",
@@ -138686,7 +138695,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 15
-        }
+        },
+        "web_domains": [
+            "zunami.io"
+        ]
     },
     {
         "contract_address": "0x20f942fbc734d8a09c2a3b2e649d0dcf97fd58eb",
@@ -138694,7 +138706,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 20
-        }
+        },
+        "web_domains": [
+            "hemule.vip"
+        ]
     },
     {
         "contract_address": "0x3062cd27ee17479ef6d0bb2cfb57526cbfd7ff20",
@@ -138716,7 +138731,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 35
-        }
+        },
+        "web_domains": [
+            "aethir.com"
+        ]
     },
     {
         "contract_address": "0x2fd5a79ed7376c743e5c92e25f907f13041688d9",
