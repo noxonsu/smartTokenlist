@@ -138911,7 +138911,8 @@
         ],
         "holders": {
             "ETH": 259
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x085b70fa64a8defe0537a605144b9e73ed0a64ca",
@@ -138922,7 +138923,9 @@
         },
         "web_domains": [
             "momentum8.xyz"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x69420f38d81105390d540f773276d9f8b338c2ae",
@@ -138933,7 +138936,9 @@
         },
         "web_domains": [
             "xtv.cz"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x14189ff53873d23542c099427b0c81df8d7c0785",
@@ -138944,7 +138949,9 @@
         },
         "web_domains": [
             "rollsroyce.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8c684cfe8b549452ec9df5b8d88a34ae86acef41",
@@ -138982,6 +138989,10 @@
         },
         "web_domains": [
             "vutalekbuteren.com"
-        ]
+        ],
+        "telegram_groups": [
+            "VutalekPortal"
+        ],
+        "p6": true
     }
 ]
