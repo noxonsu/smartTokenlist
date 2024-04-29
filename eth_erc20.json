@@ -138749,7 +138749,8 @@
         ],
         "holders": {
             "ETH": 127
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3c4559caecda3ba4f880614697c39c93fb9a7f19",
@@ -138760,7 +138761,9 @@
         },
         "web_domains": [
             "aethir.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2fd5a79ed7376c743e5c92e25f907f13041688d9",
@@ -138782,6 +138785,7 @@
         ],
         "holders": {
             "ETH": 24
-        }
+        },
+        "p6": true
     }
 ]
