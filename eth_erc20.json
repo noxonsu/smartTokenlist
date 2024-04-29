@@ -138791,5 +138791,104 @@
             "ETH": 24
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xb35bbcce74ee17f83bc95d582e821a1cedd99a8a",
+        "date_add": "2024-04-29 14:04:18",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Biniuscoinerc20"
+        ],
+        "holders": {
+            "ETH": 305
+        }
+    },
+    {
+        "contract_address": "0xd3fc516b84a4a4c32183d660db1ad02b274658cf",
+        "date_add": "2024-04-29 14:04:18",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0x4df7a3db82c9c84947e09bad68fae6cceca0bf90",
+        "date_add": "2024-04-29 14:04:18",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fuatoken.io"
+        ],
+        "telegram_groups": [
+            "FUA_Eth"
+        ],
+        "holders": {
+            "ETH": 100
+        }
+    },
+    {
+        "contract_address": "0xce69a4440ce99a5a150172ea8c6f381dae12d49a",
+        "date_add": "2024-04-29 14:04:18",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ponkerc20.com"
+        ],
+        "telegram_groups": [
+            "ponkethcoin"
+        ],
+        "holders": {
+            "ETH": 214
+        }
+    },
+    {
+        "contract_address": "0x8fce22ca8a6b295a67890122b59b49a39bbf483d",
+        "date_add": "2024-04-29 14:04:18",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "iregretnothing.pro"
+        ],
+        "telegram_groups": [
+            "iregretnothing_pro"
+        ],
+        "holders": {
+            "ETH": 61
+        }
+    },
+    {
+        "contract_address": "0xe28e3bb86bb11cb5ba100e15eda081b104ee8ca1",
+        "date_add": "2024-04-29 14:04:18",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 35
+        }
+    },
+    {
+        "contract_address": "0xce5513474e077f5336cf1b33c1347fdd8d48ae8c",
+        "date_add": "2024-04-29 14:04:18",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 980
+        }
+    },
+    {
+        "contract_address": "0xbc206eb2e256f3cba3146424ef367e40c8b84315",
+        "date_add": "2024-04-29 14:04:18",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "spreadlove.club"
+        ],
+        "telegram_groups": [
+            "spreadloveclubportal"
+        ],
+        "holders": {
+            "ETH": 844
+        }
+    },
+    {
+        "contract_address": "0x1edb7e6c9b5a717f8f98d3f0270c23a79f77076c",
+        "date_add": "2024-04-29 14:04:18",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 346
+        }
     }
 ]
