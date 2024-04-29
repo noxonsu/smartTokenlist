@@ -138463,7 +138463,9 @@
         },
         "web_domains": [
             "blasteth.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x00a1d3451ac25c7f2c51aa20b03d2c9e1985d0a8",
@@ -138478,7 +138480,11 @@
         ],
         "holders": {
             "ETH": 256
-        }
+        },
+        "emails": [
+            "\u8fdd\u6cd5\u548c\u4e0d\u826f\u4fe1\u606f\u4e3e\u62a5\u7535\u8bdd\uff1a010-65363263\u00a0\u00a0\u00a0\u4e3e\u62a5\u90ae\u7bb1\uff1ajubao@people.cn\u00a0\u00a0\u00a0"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x54cadf0dece6da2a4b9d4d0b8c675ad591b48b7b",
@@ -138497,7 +138503,9 @@
         },
         "web_domains": [
             "drinko2.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4774894d0a79b63359579fdd9e5377c3bd793f40",
