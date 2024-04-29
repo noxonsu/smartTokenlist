@@ -138859,7 +138859,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 35
-        }
+        },
+        "web_domains": [
+            "nsavx.com"
+        ]
     },
     {
         "contract_address": "0xce5513474e077f5336cf1b33c1347fdd8d48ae8c",
