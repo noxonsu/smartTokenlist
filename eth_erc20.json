@@ -139107,7 +139107,8 @@
         ],
         "holders": {
             "ETH": 129
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5cb886515caaebecd1364ce8bd57ca21a326211f",
@@ -139118,7 +139119,11 @@
         },
         "web_domains": [
             "three-3.gitbook.io"
-        ]
+        ],
+        "telegram_groups": [
+            "threeprotocol"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1ea8ee90961654f40dbba3b808f1bf28576a9075",
@@ -139129,6 +139134,8 @@
         },
         "web_domains": [
             "generationmeme.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
