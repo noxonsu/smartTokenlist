@@ -138614,5 +138614,130 @@
         },
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x4d092cbb71e611e70a5bb5960c3a621188339564",
+        "date_add": "2024-04-29 12:06:11",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "BabyMonkeETH"
+        ],
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0x4979890ef85a307353845fb0b8b2a7284771fed7",
+        "date_add": "2024-04-29 12:06:11",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0x6f62b016b3393fdfb1f1688871b6580d47acad74",
+        "date_add": "2024-04-29 12:06:11",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 84
+        }
+    },
+    {
+        "contract_address": "0x6095042554da94b3ad6315d932a0ce9f6c989e7d",
+        "date_add": "2024-04-29 12:06:11",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 31
+        }
+    },
+    {
+        "contract_address": "0x252da5613769b1c56b71a222d7fe737691574fb8",
+        "date_add": "2024-04-29 12:06:11",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pengerc20.com"
+        ],
+        "telegram_groups": [
+            "PengERC20"
+        ],
+        "holders": {
+            "ETH": 456
+        }
+    },
+    {
+        "contract_address": "0x9afc975edb8a0b57f066e8e0a72a5e2adbdcb605",
+        "date_add": "2024-04-29 12:06:11",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0x45288e1aaeac50d8b8d1e984fe78a002a618c1e8",
+        "date_add": "2024-04-29 12:06:11",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x8c0d76c9b18779665475f3e212d9ca1ed6a1a0e6",
+        "date_add": "2024-04-29 12:06:11",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0x20f942fbc734d8a09c2a3b2e649d0dcf97fd58eb",
+        "date_add": "2024-04-29 12:06:11",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0x3062cd27ee17479ef6d0bb2cfb57526cbfd7ff20",
+        "date_add": "2024-04-29 12:06:11",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "npcmeme.xyz"
+        ],
+        "telegram_groups": [
+            "NPC_official_portal"
+        ],
+        "holders": {
+            "ETH": 127
+        }
+    },
+    {
+        "contract_address": "0x3c4559caecda3ba4f880614697c39c93fb9a7f19",
+        "date_add": "2024-04-29 12:06:11",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 35
+        }
+    },
+    {
+        "contract_address": "0x2fd5a79ed7376c743e5c92e25f907f13041688d9",
+        "date_add": "2024-04-29 12:06:11",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xf5fd230963e925d4624c600ed7ad63044dcba63d",
+        "date_add": "2024-04-29 12:06:11",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.elixir.xyz"
+        ],
+        "telegram_groups": [
+            "elixir_network"
+        ],
+        "holders": {
+            "ETH": 24
+        }
     }
 ]
