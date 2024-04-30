@@ -139777,7 +139777,11 @@
         ],
         "holders": {
             "ETH": 96
-        }
+        },
+        "emails": [
+            "dev@ROMANEMPIRE.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5a89fffeb5af544ef9a143bf7088c2ead0089242",
@@ -139799,7 +139803,9 @@
         ],
         "holders": {
             "ETH": 111
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4dd0cf20237deb5f2be76340838b9e2d7c70e852",
@@ -139821,6 +139827,8 @@
         },
         "web_domains": [
             "cerebrumdao.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
