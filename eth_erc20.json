@@ -76574,8 +76574,8 @@
             "vitalik.eth.limo"
         ],
         "telegram_groups": [
-            "casinu_inu",
-            "LFG_coinERC20"
+            "LFG_coinERC20",
+            "casinu_inu"
         ],
         "holders": {
             "ETH": 95
@@ -76603,8 +76603,8 @@
             "ETH": 3
         },
         "telegram_groups": [
-            "casinu_inu",
-            "LFG_coinERC20"
+            "LFG_coinERC20",
+            "casinu_inu"
         ],
         "p6": true,
         "p8": true
@@ -139840,7 +139840,9 @@
         },
         "web_domains": [
             "noveltylane.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf9f90009f8308963b6bf44ec7ead78b479a1e4d3",
@@ -139851,7 +139853,12 @@
         ],
         "holders": {
             "ETH": 54
-        }
+        },
+        "telegram_groups": [
+            "LFG_coinERC20",
+            "casinu_inu"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xca3222dfa3eef99f747841c3bb63cbc01a3eeb96",
@@ -139865,7 +139872,8 @@
         ],
         "holders": {
             "ETH": 143
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x09d6f0f5a21f5be4f59e209747e2d07f50bc694c",
@@ -139876,7 +139884,9 @@
         },
         "web_domains": [
             "nftfi.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x37c07a5ccd150f2d1c3ff2107dbab9deb081cd86",
@@ -139898,7 +139908,8 @@
         ],
         "holders": {
             "ETH": 15
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8eac4415689d6f8c98cfbaf84572cdda1fd58825",
