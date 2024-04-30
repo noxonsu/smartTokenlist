@@ -139351,5 +139351,68 @@
         "holders": {
             "ETH": 2
         }
+    },
+    {
+        "contract_address": "0x10f44a834097469ac340592d28c479c442e99bfe",
+        "date_add": "2024-04-30 02:11:42",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 911
+        }
+    },
+    {
+        "contract_address": "0x20246541c3cc64815d18b41d2a991e5cd582ed4f",
+        "date_add": "2024-04-30 02:11:42",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "HarryPotterTrumpHomerSimpson2024"
+        ],
+        "holders": {
+            "ETH": 45
+        }
+    },
+    {
+        "contract_address": "0x12989fabd2f4e0673bcbe2661537c5ae7fadf774",
+        "date_add": "2024-04-30 02:11:42",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 112
+        }
+    },
+    {
+        "contract_address": "0x2d77a081b826971125a8a00af560822533395f73",
+        "date_add": "2024-04-30 02:11:42",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wienerdog.ai"
+        ],
+        "telegram_groups": [
+            "WienerAi"
+        ],
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0xbd33f03041fc1a8a20d920e50e44186985e0472b",
+        "date_add": "2024-04-30 02:11:42",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0x595697c353cc5329e031cff65e665273fed18ac1",
+        "date_add": "2024-04-30 02:11:42",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nekoerc20.com"
+        ],
+        "telegram_groups": [
+            "NekoERC20"
+        ],
+        "holders": {
+            "ETH": 165
+        }
     }
 ]
