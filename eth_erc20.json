@@ -139125,7 +139125,8 @@
         "telegram_groups": [
             "threeprotocol"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x1ea8ee90961654f40dbba3b808f1bf28576a9075",
@@ -139243,7 +139244,8 @@
         "holders": {
             "ETH": 61
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x2ffa85f655752fb2acb210287c60b9ef335f5b6e",
@@ -139326,7 +139328,8 @@
         "holders": {
             "ETH": 355
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x21e83dbfd8f11d885eba9f9ba126da11ae0671b7",
@@ -139392,7 +139395,8 @@
         "holders": {
             "ETH": 30
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xbd33f03041fc1a8a20d920e50e44186985e0472b",
@@ -139564,7 +139568,8 @@
         "holders": {
             "ETH": 225
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x871c6614afa271844cb96e735a65b61dd096c3c5",
@@ -139624,7 +139629,8 @@
         "holders": {
             "ETH": 236
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x6d6424b40ea6f08ad62560cd379a95a37accb995",
