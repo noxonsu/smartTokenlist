@@ -139702,5 +139702,57 @@
         "holders": {
             "ETH": 1
         }
+    },
+    {
+        "contract_address": "0x3b50805453023a91a8bf641e279401a0b23fa6f9",
+        "date_add": "2024-04-30 12:05:36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7766
+        }
+    },
+    {
+        "contract_address": "0x50fbcf7630bae4f525266b15bab95f1bda54c852",
+        "date_add": "2024-04-30 12:05:36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x198939b020892f287b99fcf3ae6136ef8637217f",
+        "date_add": "2024-04-30 12:05:36",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.blockstream.com"
+        ],
+        "telegram_groups": [
+            "blockstreamentry"
+        ],
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x4690c74d610e41064475a6fe8cbccf085fc223f8",
+        "date_add": "2024-04-30 12:05:36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 534
+        }
+    },
+    {
+        "contract_address": "0x911328af1291f7f8c03576761cdd826e4181d018",
+        "date_add": "2024-04-30 12:05:36",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools"
+        ],
+        "holders": {
+            "ETH": 22
+        }
     }
 ]
