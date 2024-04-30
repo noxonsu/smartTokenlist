@@ -139391,7 +139391,8 @@
         ],
         "holders": {
             "ETH": 30
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xbd33f03041fc1a8a20d920e50e44186985e0472b",
@@ -139402,7 +139403,9 @@
         },
         "web_domains": [
             "nekoneko.co"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x595697c353cc5329e031cff65e665273fed18ac1",
@@ -139416,6 +139419,7 @@
         ],
         "holders": {
             "ETH": 165
-        }
+        },
+        "p6": true
     }
 ]
