@@ -139270,7 +139270,9 @@
         ],
         "holders": {
             "ETH": 42
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4cb1e6c430bb4b874869fd6049ed07ae975b02f1",
@@ -139308,7 +139310,8 @@
         ],
         "holders": {
             "ETH": 238
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1776b223ff636d0d76adf2290821f176421dd889",
@@ -139322,7 +139325,8 @@
         ],
         "holders": {
             "ETH": 355
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x21e83dbfd8f11d885eba9f9ba126da11ae0671b7",
