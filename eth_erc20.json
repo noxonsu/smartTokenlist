@@ -139436,7 +139436,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 180
-        }
+        },
+        "web_domains": [
+            "boredapeyachtclub.com"
+        ]
     },
     {
         "contract_address": "0x35e7d682bca1899bcdf8ad41e127dde91bcd7d89",
