@@ -139960,7 +139960,9 @@
         },
         "web_domains": [
             "maringarden.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x1628997063959a991e1b389438b6bc3b30572a6f",
