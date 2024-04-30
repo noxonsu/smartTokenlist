@@ -139764,5 +139764,60 @@
         },
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x476adaa12010b987926262de024851fddcf5cebb",
+        "date_add": "2024-04-30 14:05:11",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.romanempire.lol"
+        ],
+        "telegram_groups": [
+            "romanempire0x476ad"
+        ],
+        "holders": {
+            "ETH": 96
+        }
+    },
+    {
+        "contract_address": "0x5a89fffeb5af544ef9a143bf7088c2ead0089242",
+        "date_add": "2024-04-30 14:05:11",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 95
+        }
+    },
+    {
+        "contract_address": "0x6b093998d36f2c7f0cc359441fbb24cc629d5ff0",
+        "date_add": "2024-04-30 14:05:11",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bzx.network"
+        ],
+        "emails": [
+            "alexey@mixbytes.io"
+        ],
+        "holders": {
+            "ETH": 111
+        }
+    },
+    {
+        "contract_address": "0x4dd0cf20237deb5f2be76340838b9e2d7c70e852",
+        "date_add": "2024-04-30 14:05:11",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0xab814ce69e15f6b9660a3b184c0b0c97b9394a6b",
+        "date_add": "2024-04-30 14:05:11",
+        "sourceScanned": "processed",
+        "emails": [
+            "tech@molecule.to"
+        ],
+        "holders": {
+            "ETH": 62
+        }
     }
 ]
