@@ -139830,5 +139830,92 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xd18625d55ce4132fa5059671d51684e49307f629",
+        "date_add": "2024-04-30 16:06:06",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 149
+        }
+    },
+    {
+        "contract_address": "0xf9f90009f8308963b6bf44ec7ead78b479a1e4d3",
+        "date_add": "2024-04-30 16:06:06",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "vitalik.eth.limo"
+        ],
+        "holders": {
+            "ETH": 54
+        }
+    },
+    {
+        "contract_address": "0xca3222dfa3eef99f747841c3bb63cbc01a3eeb96",
+        "date_add": "2024-04-30 16:06:06",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "gmpepe.meme"
+        ],
+        "telegram_groups": [
+            "GMOfficialEntry"
+        ],
+        "holders": {
+            "ETH": 143
+        }
+    },
+    {
+        "contract_address": "0x09d6f0f5a21f5be4f59e209747e2d07f50bc694c",
+        "date_add": "2024-04-30 16:06:06",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8
+        }
+    },
+    {
+        "contract_address": "0x37c07a5ccd150f2d1c3ff2107dbab9deb081cd86",
+        "date_add": "2024-04-30 16:06:06",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 111
+        }
+    },
+    {
+        "contract_address": "0x338ec6c3646973cb83958782a3621b7b0254c46d",
+        "date_add": "2024-04-30 16:06:06",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "PonkeTwoerc20.com"
+        ],
+        "telegram_groups": [
+            "PonkeTwoerc20"
+        ],
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0x8eac4415689d6f8c98cfbaf84572cdda1fd58825",
+        "date_add": "2024-04-30 16:06:06",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x6f1e92fb8a685aaa0710bad194d7b1aa839f7f8a",
+        "date_add": "2024-04-30 16:06:06",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 431
+        }
+    },
+    {
+        "contract_address": "0x0a167d567830b9d06d682acb8eef1372005e7fba",
+        "date_add": "2024-04-30 16:06:06",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 16
+        }
     }
 ]
