@@ -139989,7 +139989,9 @@
         },
         "web_domains": [
             "rcof.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf8391a4c2e964c7b175d4027cb384ae73784c46b",
@@ -140000,7 +140002,9 @@
         },
         "web_domains": [
             "eth.0x0.dog"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb1b385542b6e80f77b94393ba8342c3af699f15c",
@@ -140011,7 +140015,9 @@
         },
         "web_domains": [
             "resolv.im"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xaeebc58a62cea1888608ca388362f8958c93bdc0",
@@ -140030,7 +140036,9 @@
         },
         "web_domains": [
             "power.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x689a9eb65ac222b623be4d31df0bd3598f3ce7fd",
@@ -140045,7 +140053,8 @@
         ],
         "holders": {
             "ETH": 63
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8f2584404f2cb1653328344a4d8755d351555ef9",
@@ -140067,7 +140076,9 @@
         },
         "web_domains": [
             "cardkingdom.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x444444444117579e397da97a774f95ff408aed58",
