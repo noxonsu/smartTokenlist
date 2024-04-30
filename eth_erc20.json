@@ -139727,11 +139727,13 @@
             "www.blockstream.com"
         ],
         "telegram_groups": [
+            "blockstream",
             "blockstreamentry"
         ],
         "holders": {
             "ETH": 6
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4690c74d610e41064475a6fe8cbccf085fc223f8",
@@ -139753,6 +139755,8 @@
         ],
         "holders": {
             "ETH": 22
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     }
 ]
