@@ -139543,7 +139543,10 @@
         ],
         "holders": {
             "ETH": 36
-        }
+        },
+        "web_domains": [
+            "undeadservicetoken.com"
+        ]
     },
     {
         "contract_address": "0x78c56ede52282899ac0d75585f166e31f9a04cc6",
