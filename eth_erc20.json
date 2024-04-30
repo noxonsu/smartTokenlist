@@ -140139,7 +140139,11 @@
         ],
         "holders": {
             "ETH": 175
-        }
+        },
+        "emails": [
+            "info@hoppyoneth.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb9a42e5491eb543da71f78422497300cece1df43",
@@ -140149,11 +140153,15 @@
             "solgunsniper.bot"
         ],
         "telegram_groups": [
-            "SolGun_Community"
+            "SolGun_Channel",
+            "SolGun_Community",
+            "SafeAnalyzerbot",
+            "solgun_snipe_bot"
         ],
         "holders": {
             "ETH": 210
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc819617f360f6347d222f260e9f4987ca1d0f879",
@@ -140164,7 +140172,11 @@
         },
         "web_domains": [
             "iclickinu.com"
-        ]
+        ],
+        "telegram_groups": [
+            "iclickinu"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1701b113220761f77bcbceaa2260e6864b2c4eb5",
@@ -140178,6 +140190,7 @@
         ],
         "holders": {
             "ETH": 156
-        }
+        },
+        "p6": true
     }
 ]
