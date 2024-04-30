@@ -140126,5 +140126,55 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x700d0e92ea7db8362a4449696d2d84a658f7808d",
+        "date_add": "2024-04-30 22:04:20",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hoppyoneth.com"
+        ],
+        "telegram_groups": [
+            "HoppyOnEthereum"
+        ],
+        "holders": {
+            "ETH": 175
+        }
+    },
+    {
+        "contract_address": "0xb9a42e5491eb543da71f78422497300cece1df43",
+        "date_add": "2024-04-30 22:04:20",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "solgunsniper.bot"
+        ],
+        "telegram_groups": [
+            "SolGun_Community"
+        ],
+        "holders": {
+            "ETH": 210
+        }
+    },
+    {
+        "contract_address": "0xc819617f360f6347d222f260e9f4987ca1d0f879",
+        "date_add": "2024-04-30 22:04:20",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x1701b113220761f77bcbceaa2260e6864b2c4eb5",
+        "date_add": "2024-04-30 22:04:20",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "palbboys.club"
+        ],
+        "telegram_groups": [
+            "PepeAndyLandwolfBrettETH"
+        ],
+        "holders": {
+            "ETH": 156
+        }
     }
 ]
