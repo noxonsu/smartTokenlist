@@ -139625,5 +139625,74 @@
             "ETH": 236
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x6d6424b40ea6f08ad62560cd379a95a37accb995",
+        "date_add": "2024-04-30 10:05:28",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.bluwhale.com"
+        ],
+        "holders": {
+            "ETH": 64
+        }
+    },
+    {
+        "contract_address": "0x6928e5947e5a9e8e57da66121037c7e8da3a5b30",
+        "date_add": "2024-04-30 10:05:28",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x667377be61b75523db29d9d5ccb9b3602acc18ed",
+        "date_add": "2024-04-30 10:05:28",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 37
+        }
+    },
+    {
+        "contract_address": "0xaea12f122cd194c96f2ce61df019c3d72c1e144d",
+        "date_add": "2024-04-30 10:05:28",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.popularmechanics.com",
+            "xaea12eth.com"
+        ],
+        "telegram_groups": [
+            "lilxcoineth"
+        ],
+        "holders": {
+            "ETH": 179
+        }
+    },
+    {
+        "contract_address": "0x2eb714fa68e9873ce457bd6da60a4966d0c76591",
+        "date_add": "2024-04-30 10:05:28",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 664
+        }
+    },
+    {
+        "contract_address": "0x9b38de872cb6c774c9a5de72f79fa31fa4bedffb",
+        "date_add": "2024-04-30 10:05:28",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "babyPorkERC"
+        ],
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0xf6ecad2018bed76b419c94927cbf4bb56b5eb5ab",
+        "date_add": "2024-04-30 10:05:28",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
