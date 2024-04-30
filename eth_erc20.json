@@ -139399,7 +139399,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 25
-        }
+        },
+        "web_domains": [
+            "nekoneko.co"
+        ]
     },
     {
         "contract_address": "0x595697c353cc5329e031cff65e665273fed18ac1",
