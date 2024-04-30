@@ -139521,7 +139521,8 @@
         ],
         "holders": {
             "ETH": 4
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa634d240f1049a679d30a8aa3e63024fed208c64",
@@ -139546,7 +139547,9 @@
         },
         "web_domains": [
             "undeadservicetoken.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x78c56ede52282899ac0d75585f166e31f9a04cc6",
@@ -139560,7 +139563,8 @@
         ],
         "holders": {
             "ETH": 225
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x871c6614afa271844cb96e735a65b61dd096c3c5",
@@ -139582,7 +139586,8 @@
         ],
         "holders": {
             "ETH": 75
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x30ddaefcea60d4052b906c2231aaa921f232ffd9",
@@ -139618,6 +139623,7 @@
         ],
         "holders": {
             "ETH": 236
-        }
+        },
+        "p6": true
     }
 ]
