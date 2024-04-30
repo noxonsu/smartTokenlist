@@ -139837,7 +139837,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 149
-        }
+        },
+        "web_domains": [
+            "noveltylane.com"
+        ]
     },
     {
         "contract_address": "0xf9f90009f8308963b6bf44ec7ead78b479a1e4d3",
@@ -139870,7 +139873,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 8
-        }
+        },
+        "web_domains": [
+            "nftfi.com"
+        ]
     },
     {
         "contract_address": "0x37c07a5ccd150f2d1c3ff2107dbab9deb081cd86",
