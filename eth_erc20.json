@@ -139635,7 +139635,9 @@
         ],
         "holders": {
             "ETH": 64
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6928e5947e5a9e8e57da66121037c7e8da3a5b30",
@@ -139654,7 +139656,9 @@
         },
         "web_domains": [
             "tnamerch.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xaea12f122cd194c96f2ce61df019c3d72c1e144d",
@@ -139669,7 +139673,8 @@
         ],
         "holders": {
             "ETH": 179
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2eb714fa68e9873ce457bd6da60a4966d0c76591",
