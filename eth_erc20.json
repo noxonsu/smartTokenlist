@@ -140103,7 +140103,8 @@
         ],
         "holders": {
             "ETH": 32
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7814df955564d091701016195ed4f065b19b4444",
@@ -140122,6 +140123,8 @@
         },
         "web_domains": [
             "longdao.design"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
