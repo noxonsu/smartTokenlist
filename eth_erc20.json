@@ -139421,5 +139421,75 @@
             "ETH": 165
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x8ce6936845b85412b4bd7ec9458ebcb8703a326b",
+        "date_add": "2024-04-30 04:05:25",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xea47b64e1bfccb773a0420247c0aa0a3c1d2e5c5",
+        "date_add": "2024-04-30 04:05:25",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 180
+        }
+    },
+    {
+        "contract_address": "0x35e7d682bca1899bcdf8ad41e127dde91bcd7d89",
+        "date_add": "2024-04-30 04:05:25",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0x5504e1f622c43bd2218f0fc0f4b99eb75f437747",
+        "date_add": "2024-04-30 04:05:25",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xf76d80200226ac250665139b9e435617e4ba55f9",
+        "date_add": "2024-04-30 04:05:25",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1507
+        }
+    },
+    {
+        "contract_address": "0x22e71d8ee73e9c5e9f6a898c82562d3e8f3673fa",
+        "date_add": "2024-04-30 04:05:25",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 419
+        }
+    },
+    {
+        "contract_address": "0x906be3780c794bbf9ef16e740f3e047b8d899574",
+        "date_add": "2024-04-30 04:05:25",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "yotsubakoiwai.com"
+        ],
+        "telegram_groups": [
+            "yotsubacoin"
+        ],
+        "holders": {
+            "ETH": 190
+        }
+    },
+    {
+        "contract_address": "0x82b89e0f9c0695639eb88659d0c306dbc242af96",
+        "date_add": "2024-04-30 04:05:25",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5603
+        }
     }
 ]
