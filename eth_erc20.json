@@ -139500,5 +139500,121 @@
         "holders": {
             "ETH": 5603
         }
+    },
+    {
+        "contract_address": "0xe2874202d304a075c5ad486e71e0d7b21b8b8714",
+        "date_add": "2024-04-30 08:05:18",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 165
+        }
+    },
+    {
+        "contract_address": "0x0d01dcfb4d62d520884c622cd678a11495f6f889",
+        "date_add": "2024-04-30 08:05:18",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "conkecoin.vip"
+        ],
+        "telegram_groups": [
+            "conkecoin_erc20"
+        ],
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0xa634d240f1049a679d30a8aa3e63024fed208c64",
+        "date_add": "2024-04-30 08:05:18",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x712bd4beb54c6b958267d9db0259abdbb0bff606",
+        "date_add": "2024-04-30 08:05:18",
+        "sourceScanned": "processed",
+        "emails": [
+            "is@unicsoft.com",
+            "is@unicsoft.com",
+            "is@unicsoft.com",
+            "is@unicsoft.com"
+        ],
+        "holders": {
+            "ETH": 36
+        }
+    },
+    {
+        "contract_address": "0x78c56ede52282899ac0d75585f166e31f9a04cc6",
+        "date_add": "2024-04-30 08:05:18",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "honkecoin.com"
+        ],
+        "telegram_groups": [
+            "HONKE_PORTAL"
+        ],
+        "holders": {
+            "ETH": 225
+        }
+    },
+    {
+        "contract_address": "0x871c6614afa271844cb96e735a65b61dd096c3c5",
+        "date_add": "2024-04-30 08:05:18",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 63
+        }
+    },
+    {
+        "contract_address": "0x444485cc3ccc7475781589dc81daf3a3773c84c9",
+        "date_add": "2024-04-30 08:05:18",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cz4444.com"
+        ],
+        "telegram_groups": [
+            "Cz0x44444"
+        ],
+        "holders": {
+            "ETH": 75
+        }
+    },
+    {
+        "contract_address": "0x30ddaefcea60d4052b906c2231aaa921f232ffd9",
+        "date_add": "2024-04-30 08:05:18",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "shinjiinuerc"
+        ],
+        "holders": {
+            "ETH": 55
+        }
+    },
+    {
+        "contract_address": "0x42069d6b45df4bebd549a68ee3bce9e214e8fcfe",
+        "date_add": "2024-04-30 08:05:18",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ElonTusk0x42069"
+        ],
+        "holders": {
+            "ETH": 252
+        }
+    },
+    {
+        "contract_address": "0x5af930b0d191b6436f72d7c951c639975c27d947",
+        "date_add": "2024-04-30 08:05:18",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "donke.pro"
+        ],
+        "telegram_groups": [
+            "DonkeEth"
+        ],
+        "holders": {
+            "ETH": 236
+        }
     }
 ]
