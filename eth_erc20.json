@@ -139260,5 +139260,92 @@
         },
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xf94295e56397eae6ec6cbc4a4212237a73d40501",
+        "date_add": "2024-04-30 00:14:58",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "xter.io"
+        ],
+        "holders": {
+            "ETH": 42
+        }
+    },
+    {
+        "contract_address": "0x4cb1e6c430bb4b874869fd6049ed07ae975b02f1",
+        "date_add": "2024-04-30 00:14:58",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 307
+        }
+    },
+    {
+        "contract_address": "0x84b5a3bd6acb304cb89ffc43117a18bede062376",
+        "date_add": "2024-04-30 00:14:58",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 28
+        }
+    },
+    {
+        "contract_address": "0xa500b88a6559d074b2198e528c33adf850108a28",
+        "date_add": "2024-04-30 00:14:58",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 709
+        }
+    },
+    {
+        "contract_address": "0xbe82bbd9c47e05f1fac183b106a768717588be73",
+        "date_add": "2024-04-30 00:14:58",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cryptothreads.app"
+        ],
+        "telegram_groups": [
+            "CryptothreadsCT"
+        ],
+        "holders": {
+            "ETH": 238
+        }
+    },
+    {
+        "contract_address": "0x1776b223ff636d0d76adf2290821f176421dd889",
+        "date_add": "2024-04-30 00:14:58",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "1776america.vip"
+        ],
+        "telegram_groups": [
+            "america0x1776"
+        ],
+        "holders": {
+            "ETH": 355
+        }
+    },
+    {
+        "contract_address": "0x21e83dbfd8f11d885eba9f9ba126da11ae0671b7",
+        "date_add": "2024-04-30 00:14:58",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x021ea1dbc89806701f81fd74bacb0c3c38156dc1",
+        "date_add": "2024-04-30 00:14:58",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xc433ec439f5a63bb360f432fb013d572564a9ce1",
+        "date_add": "2024-04-30 00:14:58",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
     }
 ]
