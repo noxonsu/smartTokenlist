@@ -140308,7 +140308,8 @@
         },
         "web_domains": [
             "blackrockneurotech.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xed1d7359bd6faadf273f1c80a987253a2edd783e",
@@ -140322,7 +140323,8 @@
         ],
         "holders": {
             "ETH": 371
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf09905739cf7f9665cdd4bdd037b84e04fef5023",
@@ -140341,7 +140343,12 @@
         ],
         "holders": {
             "ETH": 214
-        }
+        },
+        "telegram_groups": [
+            "J1nx_13",
+            "enterteat"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6fc7ea6ca8cd2759803eb78159c931a8ff5e0557",
@@ -140352,7 +140359,9 @@
         },
         "web_domains": [
             "curvegaugeinspector.netlify.app"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x28cb7a00e1b921b020ab87ef4ead49e5a5af8740",
@@ -140364,6 +140373,8 @@
         ],
         "holders": {
             "ETH": 47
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     }
 ]
