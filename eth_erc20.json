@@ -140192,5 +140192,35 @@
             "ETH": 156
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x3dc2a60b9bdca2bcac359091c7d19d307f552d65",
+        "date_add": "2024-05-01 00:16:49",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.pepeonceagain.com"
+        ],
+        "telegram_groups": [
+            "PEPEOnceAgain"
+        ],
+        "holders": {
+            "ETH": 98
+        }
+    },
+    {
+        "contract_address": "0x0e7f79e89ba8c4a13431129fb2db0d4f444b5b9a",
+        "date_add": "2024-05-01 00:16:49",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 296
+        }
+    },
+    {
+        "contract_address": "0x434ba77fc68e250b9686f49f1055627c8455003b",
+        "date_add": "2024-05-01 00:16:49",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 44
+        }
     }
 ]
