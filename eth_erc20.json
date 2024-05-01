@@ -140530,7 +140530,11 @@
         },
         "web_domains": [
             "michiwifhatsol.com"
-        ]
+        ],
+        "telegram_groups": [
+            "michiwifhatsol"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9e91f79070926a191e41367d40ad582686f9e66d",
