@@ -140561,7 +140561,11 @@
         },
         "web_domains": [
             "gora.io"
-        ]
+        ],
+        "telegram_groups": [
+            "GoraNetwork"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x88b586e0410ed5368a332aeaf0418ab0a98ccaa9",
@@ -140580,7 +140584,9 @@
         },
         "web_domains": [
             "taocat.global"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xfdf40f348e859c02492195341ab649ac3eda634c",
@@ -140590,11 +140596,14 @@
             "honktoken.vip"
         ],
         "telegram_groups": [
+            "HONKERC20",
+            "honkerc20",
             "Honkerc20"
         ],
         "holders": {
             "ETH": 350
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2920f9fc667e780c0cb5a78a104d21413377f97e",
@@ -140605,7 +140614,9 @@
         },
         "web_domains": [
             "nusdc.tech"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xaeeafb1259f01f363d09d7027ad80a9d442de762",
@@ -140616,7 +140627,9 @@
         },
         "web_domains": [
             "notional.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x61beb7929304eadbb6e3c4310d480e4f99659f8c",
@@ -140627,7 +140640,11 @@
         },
         "web_domains": [
             "screameme.com"
-        ]
+        ],
+        "telegram_groups": [
+            "OfficalScreameme"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x25338417d61cc423d94b70f990e406ac0dadb1b0",
