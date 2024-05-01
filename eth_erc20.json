@@ -140923,7 +140923,11 @@
         ],
         "holders": {
             "ETH": 281
-        }
+        },
+        "emails": [
+            "dev@gamestop.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe079dbdb0e63a991db5b7046db79651e4c726f44",
@@ -140934,7 +140938,9 @@
         },
         "web_domains": [
             "airpuff.app"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8c28b44dacfb9cd69b25ad641f8ca3a7a98324f8",
