@@ -140305,7 +140305,10 @@
         ],
         "holders": {
             "ETH": 45
-        }
+        },
+        "web_domains": [
+            "blackrockneurotech.com"
+        ]
     },
     {
         "contract_address": "0xed1d7359bd6faadf273f1c80a987253a2edd783e",
@@ -140346,7 +140349,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 5
-        }
+        },
+        "web_domains": [
+            "curvegaugeinspector.netlify.app"
+        ]
     },
     {
         "contract_address": "0x28cb7a00e1b921b020ab87ef4ead49e5a5af8740",
