@@ -140229,5 +140229,57 @@
         "holders": {
             "ETH": 44
         }
+    },
+    {
+        "contract_address": "0xe20c4edb8440cadd4001c144b4f38576d1aa3820",
+        "date_add": "2024-05-01 02:15:40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 526
+        }
+    },
+    {
+        "contract_address": "0x3b6831c0077a1e44ed0a21841c3bc4dc11bce833",
+        "date_add": "2024-05-01 02:15:40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10
+        }
+    },
+    {
+        "contract_address": "0x46c0f8259c4e4d50320124e52f3040cb9e4d04c7",
+        "date_add": "2024-05-01 02:15:40",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "chattershield.io"
+        ],
+        "telegram_groups": [
+            "ChatterShieldBot"
+        ],
+        "holders": {
+            "ETH": 373
+        }
+    },
+    {
+        "contract_address": "0x694206bd67fde57989ec303d7e3984036d2f9c81",
+        "date_add": "2024-05-01 02:15:40",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ELON20_0x69420tg"
+        ],
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0x1438c768d7f472bcf48aae9f6f0b2414e2cbba91",
+        "date_add": "2024-05-01 02:15:40",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tooly.live"
+        ],
+        "holders": {
+            "ETH": 375
+        }
     }
 ]
