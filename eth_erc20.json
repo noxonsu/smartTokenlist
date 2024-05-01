@@ -140295,5 +140295,69 @@
             "ToolyIamKing@proton.me"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x9b9323054ba948aa2fbd6fe03cc228912cecb1ab",
+        "date_add": "2024-05-01 04:04:45",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "BlackrockNeurotech_ERC"
+        ],
+        "holders": {
+            "ETH": 45
+        }
+    },
+    {
+        "contract_address": "0xed1d7359bd6faadf273f1c80a987253a2edd783e",
+        "date_add": "2024-05-01 04:04:45",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.tu-gou.com"
+        ],
+        "telegram_groups": [
+            "TuGou_ERC"
+        ],
+        "holders": {
+            "ETH": 371
+        }
+    },
+    {
+        "contract_address": "0xf09905739cf7f9665cdd4bdd037b84e04fef5023",
+        "date_add": "2024-05-01 04:04:45",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 161
+        }
+    },
+    {
+        "contract_address": "0xaeba88c4df7e92af27fcaa7087c18dab4be9e607",
+        "date_add": "2024-05-01 04:04:45",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "teat.info"
+        ],
+        "holders": {
+            "ETH": 214
+        }
+    },
+    {
+        "contract_address": "0x6fc7ea6ca8cd2759803eb78159c931a8ff5e0557",
+        "date_add": "2024-05-01 04:04:45",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x28cb7a00e1b921b020ab87ef4ead49e5a5af8740",
+        "date_add": "2024-05-01 04:04:45",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.eigenlayer.xyz",
+            "discord.com"
+        ],
+        "holders": {
+            "ETH": 47
+        }
     }
 ]
