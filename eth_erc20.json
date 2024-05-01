@@ -140213,7 +140213,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 296
-        }
+        },
+        "web_domains": [
+            "xank.io"
+        ]
     },
     {
         "contract_address": "0x434ba77fc68e250b9686f49f1055627c8455003b",
