@@ -140422,5 +140422,47 @@
             "ETH": 193
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xe7146f53dbcae9d6fa3555fe502648deb0b2f823",
+        "date_add": "2024-05-01 08:06:10",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x8805792d41facb22b6f47d468b06af36ff3fc1c5",
+        "date_add": "2024-05-01 08:06:10",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 259
+        }
+    },
+    {
+        "contract_address": "0x74c037b76349bbcc3e1321ae14d0d0470fd9c861",
+        "date_add": "2024-05-01 08:06:10",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sale.injex.fi"
+        ],
+        "telegram_groups": [
+            "injexfi"
+        ],
+        "holders": {
+            "ETH": 23
+        }
+    },
+    {
+        "contract_address": "0x66bff695f3b16a824869a8018a3a6e3685241269",
+        "date_add": "2024-05-01 08:06:10",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bretter.io",
+            "bretter.io"
+        ],
+        "holders": {
+            "ETH": 78
+        }
     }
 ]
