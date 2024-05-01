@@ -140201,11 +140201,13 @@
             "www.pepeonceagain.com"
         ],
         "telegram_groups": [
+            "pepeonceagain",
             "PEPEOnceAgain"
         ],
         "holders": {
             "ETH": 98
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0e7f79e89ba8c4a13431129fb2db0d4f444b5b9a",
@@ -140216,7 +140218,9 @@
         },
         "web_domains": [
             "xank.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x434ba77fc68e250b9686f49f1055627c8455003b",
