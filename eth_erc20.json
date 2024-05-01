@@ -140475,5 +140475,27 @@
         },
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x5d9079a14a98cdb0671d734f63e46f147a61800d",
+        "date_add": "2024-05-01 10:04:17",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 36
+        }
+    },
+    {
+        "contract_address": "0x9e084cfe4f750ce16fc7171b7e9244f654b82280",
+        "date_add": "2024-05-01 10:04:17",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sandygirl.xyz"
+        ],
+        "telegram_groups": [
+            "sandycoineth"
+        ],
+        "holders": {
+            "ETH": 47
+        }
     }
 ]
