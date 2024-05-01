@@ -140265,7 +140265,8 @@
         "holders": {
             "ETH": 373
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x694206bd67fde57989ec303d7e3984036d2f9c81",
@@ -140421,7 +140422,8 @@
         "holders": {
             "ETH": 193
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xe7146f53dbcae9d6fa3555fe502648deb0b2f823",
@@ -140565,7 +140567,8 @@
         "telegram_groups": [
             "GoraNetwork"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x88b586e0410ed5368a332aeaf0418ab0a98ccaa9",
@@ -140603,7 +140606,8 @@
         "holders": {
             "ETH": 350
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x2920f9fc667e780c0cb5a78a104d21413377f97e",
@@ -140747,6 +140751,7 @@
         "holders": {
             "ETH": 78
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     }
 ]
