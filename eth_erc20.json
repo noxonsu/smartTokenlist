@@ -140376,5 +140376,46 @@
         },
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x3fca2cd116121decd03043fbaba39f60651de903",
+        "date_add": "2024-05-01 06:06:02",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 608
+        }
+    },
+    {
+        "contract_address": "0x06998af8f39ff8630d1fb515d22781da4dc2ca71",
+        "date_add": "2024-05-01 06:06:02",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 433
+        }
+    },
+    {
+        "contract_address": "0x904751e85279acb7dd3a0cab3e06e19981f4e552",
+        "date_add": "2024-05-01 06:06:02",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "madeinchina_eth"
+        ],
+        "holders": {
+            "ETH": 126
+        }
+    },
+    {
+        "contract_address": "0x55c3a56e638e96c91f98735cc86f60a6820e6a44",
+        "date_add": "2024-05-01 06:06:02",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "gavcoin.vip"
+        ],
+        "telegram_groups": [
+            "GavCoin_ETH"
+        ],
+        "holders": {
+            "ETH": 193
+        }
     }
 ]
