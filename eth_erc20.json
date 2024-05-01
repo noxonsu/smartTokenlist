@@ -140498,5 +140498,51 @@
             "ETH": 47
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x759445ded88f2eb44d27e079025597af741e5301",
+        "date_add": "2024-05-01 12:06:05",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ngmierc.com"
+        ],
+        "telegram_groups": [
+            "NGMI_ERC"
+        ],
+        "holders": {
+            "ETH": 1109
+        }
+    },
+    {
+        "contract_address": "0x1bef0d587dde09d4cee9b13d4d38b5bec57a1397",
+        "date_add": "2024-05-01 12:06:05",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 923
+        }
+    },
+    {
+        "contract_address": "0xf8d33aa361bdbeac6384992da7c2c6e2cf7c4682",
+        "date_add": "2024-05-01 12:06:05",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 28
+        }
+    },
+    {
+        "contract_address": "0x9e91f79070926a191e41367d40ad582686f9e66d",
+        "date_add": "2024-05-01 12:06:05",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 268
+        }
+    },
+    {
+        "contract_address": "0xa5ccbd739e7f5662b95d269ee9a48a37cbfb88bc",
+        "date_add": "2024-05-01 12:06:05",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
