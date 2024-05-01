@@ -140247,7 +140247,9 @@
         },
         "web_domains": [
             "stakek.it"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x46c0f8259c4e4d50320124e52f3040cb9e4d04c7",
@@ -140257,11 +140259,13 @@
             "chattershield.io"
         ],
         "telegram_groups": [
-            "ChatterShieldBot"
+            "ChatterShieldBot",
+            "ChatterShield_Bot"
         ],
         "holders": {
             "ETH": 373
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x694206bd67fde57989ec303d7e3984036d2f9c81",
@@ -140283,6 +140287,13 @@
         ],
         "holders": {
             "ETH": 375
-        }
+        },
+        "telegram_groups": [
+            "ToolyPortal"
+        ],
+        "emails": [
+            "ToolyIamKing@proton.me"
+        ],
+        "p6": true
     }
 ]
