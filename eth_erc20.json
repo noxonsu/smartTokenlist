@@ -140437,7 +140437,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 259
-        }
+        },
+        "web_domains": [
+            "upmaxnow.com"
+        ]
     },
     {
         "contract_address": "0x74c037b76349bbcc3e1321ae14d0d0470fd9c861",
