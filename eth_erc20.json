@@ -140244,7 +140244,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 10
-        }
+        },
+        "web_domains": [
+            "stakek.it"
+        ]
     },
     {
         "contract_address": "0x46c0f8259c4e4d50320124e52f3040cb9e4d04c7",
