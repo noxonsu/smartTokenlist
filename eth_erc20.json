@@ -140402,7 +140402,10 @@
         ],
         "holders": {
             "ETH": 126
-        }
+        },
+        "web_domains": [
+            "cn.made-in-china.com"
+        ]
     },
     {
         "contract_address": "0x55c3a56e638e96c91f98735cc86f60a6820e6a44",
