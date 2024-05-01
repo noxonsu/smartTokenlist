@@ -140853,7 +140853,9 @@
         },
         "web_domains": [
             "membersonly.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6006fc2a849fedaba8330ce36f5133de01f96189",
@@ -140875,7 +140877,8 @@
         ],
         "holders": {
             "ETH": 288
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0f9768ee0914c48f65234cf10e8aeb6028c8426c",
@@ -140894,7 +140897,11 @@
         ],
         "holders": {
             "ETH": 19
-        }
+        },
+        "telegram_groups": [
+            "NATIXNetwork"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x26fa5e4e99aa901baa4faa7ffd9c9576cfa1bab8",
