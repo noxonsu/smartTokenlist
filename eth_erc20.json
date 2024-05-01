@@ -140663,7 +140663,11 @@
         },
         "web_domains": [
             "micropets.io"
-        ]
+        ],
+        "telegram_groups": [
+            "MicroPets_io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8b02221cdf2a017eb10074cb95d7059c91052b54",
@@ -140690,7 +140694,9 @@
         },
         "web_domains": [
             "tokenrewards.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x064796e828ac4d21b3279197d67be06c6e4aa2e9",
@@ -140712,7 +140718,8 @@
         ],
         "holders": {
             "ETH": 195
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x694206d3574c910264714c664eae6caf8a8d2278",
@@ -140733,10 +140740,13 @@
             "nodify.digital"
         ],
         "telegram_groups": [
-            "NodifyETH"
+            "nodifyETH",
+            "NodifyETH",
+            "nodifyETH_bot"
         ],
         "holders": {
             "ETH": 78
-        }
+        },
+        "p6": true
     }
 ]
