@@ -140753,5 +140753,91 @@
         },
         "p6": true,
         "p8": true
+    },
+    {
+        "contract_address": "0x9f04c2bd696a6191246144ba762456a24c457520",
+        "date_add": "2024-05-01 18:04:44",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "aitax.bot",
+            "docs.aitax.bot",
+            "linktr.ee",
+            "assuredefi.com"
+        ],
+        "telegram_groups": [
+            "aitaxbot",
+            "aitaxbotportal"
+        ],
+        "holders": {
+            "ETH": 569
+        }
+    },
+    {
+        "contract_address": "0xcc9f8c2a6366556e1899e40782b7076db87dce27",
+        "date_add": "2024-05-01 18:04:44",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x55a3a857598b500fd844610ed875ec73ff296c4b",
+        "date_add": "2024-05-01 18:04:44",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0x66267c6e24fbcdebf06ae9104e0ccfb9c8b2ae08",
+        "date_add": "2024-05-01 18:04:44",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0xd60eea80c83779a8a5bfcdac1f3323548e6bb62d",
+        "date_add": "2024-05-01 18:04:44",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0xaabd6e90609501b5aff4fb5d83a9064b57c560e2",
+        "date_add": "2024-05-01 18:04:44",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "boysclubgame.com"
+        ],
+        "telegram_groups": [
+            "BoysClubFighter_portal"
+        ],
+        "holders": {
+            "ETH": 185
+        }
+    },
+    {
+        "contract_address": "0x7cea1bdfc37c21f845137b4e84ab85cb09bb3362",
+        "date_add": "2024-05-01 18:04:44",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9
+        }
+    },
+    {
+        "contract_address": "0x7d4a23832fad83258b32ce4fd3109ceef4332af4",
+        "date_add": "2024-05-01 18:04:44",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "stonkserc20.com"
+        ],
+        "telegram_groups": [
+            "StonksERC20"
+        ],
+        "holders": {
+            "ETH": 192
+        }
     }
 ]
