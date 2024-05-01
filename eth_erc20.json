@@ -140660,7 +140660,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 75
-        }
+        },
+        "web_domains": [
+            "micropets.io"
+        ]
     },
     {
         "contract_address": "0x8b02221cdf2a017eb10074cb95d7059c91052b54",
@@ -140684,7 +140687,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 20
-        }
+        },
+        "web_domains": [
+            "tokenrewards.com"
+        ]
     },
     {
         "contract_address": "0x064796e828ac4d21b3279197d67be06c6e4aa2e9",
