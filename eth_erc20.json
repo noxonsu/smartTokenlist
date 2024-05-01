@@ -140843,5 +140843,62 @@
             "ETH": 192
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xbf8168680bad9e0f9da6c20f86ea44d40d97eb1f",
+        "date_add": "2024-05-01 20:05:15",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 70
+        }
+    },
+    {
+        "contract_address": "0x6006fc2a849fedaba8330ce36f5133de01f96189",
+        "date_add": "2024-05-01 20:05:15",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1000
+        }
+    },
+    {
+        "contract_address": "0xa0e1d47525ff1ff531acdc28380955e5dab55eb0",
+        "date_add": "2024-05-01 20:05:15",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hopeofmeme.com"
+        ],
+        "telegram_groups": [
+            "HopeofMeme"
+        ],
+        "holders": {
+            "ETH": 288
+        }
+    },
+    {
+        "contract_address": "0x0f9768ee0914c48f65234cf10e8aeb6028c8426c",
+        "date_add": "2024-05-01 20:05:15",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 57
+        }
+    },
+    {
+        "contract_address": "0x135d1448718623a1167d9b0588462443c245da01",
+        "date_add": "2024-05-01 20:05:15",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.natix.network"
+        ],
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x26fa5e4e99aa901baa4faa7ffd9c9576cfa1bab8",
+        "date_add": "2024-05-01 20:05:15",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
     }
 ]
