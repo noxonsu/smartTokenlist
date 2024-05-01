@@ -140440,7 +140440,12 @@
         },
         "web_domains": [
             "upmaxnow.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "hello@upmaxnow.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x74c037b76349bbcc3e1321ae14d0d0470fd9c861",
@@ -140454,7 +140459,8 @@
         ],
         "holders": {
             "ETH": 23
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x66bff695f3b16a824869a8018a3a6e3685241269",
@@ -140466,6 +140472,8 @@
         ],
         "holders": {
             "ETH": 78
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     }
 ]
