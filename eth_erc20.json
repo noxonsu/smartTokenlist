@@ -141100,5 +141100,65 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x4202aa664a3c528d190a206087c4680c9983968a",
+        "date_add": "2024-05-02 04:04:43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 28
+        }
+    },
+    {
+        "contract_address": "0x5adb241889a18d456786e1962f0e78cce636fe53",
+        "date_add": "2024-05-02 04:04:43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 339
+        }
+    },
+    {
+        "contract_address": "0xbed4604f9adbd9ce467c38cfa382ef215b1c6fef",
+        "date_add": "2024-05-02 04:04:43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 35
+        }
+    },
+    {
+        "contract_address": "0x19fc296f917063174f72e949e5d6e9760a98ebee",
+        "date_add": "2024-05-02 04:04:43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8
+        }
+    },
+    {
+        "contract_address": "0x12a1a703ca942a5d93a2cb9d00fd727d90c6eca1",
+        "date_add": "2024-05-02 04:04:43",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "fatherofallmemesofficial",
+            "ContractDevAI"
+        ],
+        "holders": {
+            "ETH": 55
+        }
+    },
+    {
+        "contract_address": "0xcd0aa40948c662dedd9f157085fd6369a255f2f7",
+        "date_add": "2024-05-02 04:04:43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 99
+        }
+    },
+    {
+        "contract_address": "0x23ddbd36547d43627afa9b42d4e9fb0515f48b09",
+        "date_add": "2024-05-02 04:04:43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 24
+        }
     }
 ]
