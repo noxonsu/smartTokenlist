@@ -141539,7 +141539,10 @@
         ],
         "holders": {
             "ETH": 234
-        }
+        },
+        "web_domains": [
+            "bigallet.com"
+        ]
     },
     {
         "contract_address": "0x2a6e4c609663bd9f2404e3da56bc84ba85e46f32",
