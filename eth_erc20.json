@@ -141005,5 +141005,92 @@
         "holders": {
             "ETH": 22
         }
+    },
+    {
+        "contract_address": "0xa06bc25b5805d5f8d82847d191cb4af5a3e873e0",
+        "date_add": "2024-05-02 02:12:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2085
+        }
+    },
+    {
+        "contract_address": "0x85791d117a392097590bded3bd5abb8d5a20491a",
+        "date_add": "2024-05-02 02:12:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 27
+        }
+    },
+    {
+        "contract_address": "0xdf7ff54aacacbff42dfe29dd6144a69b629f8c9e",
+        "date_add": "2024-05-02 02:12:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 180
+        }
+    },
+    {
+        "contract_address": "0x77777fbf46ab95757491d81160d16f9de1ac9eaa",
+        "date_add": "2024-05-02 02:12:03",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wallstreetbets.icu"
+        ],
+        "telegram_groups": [
+            "WallStreetBets_ERC20"
+        ],
+        "holders": {
+            "ETH": 266
+        }
+    },
+    {
+        "contract_address": "0x694202d9cb651616da7e0ebbf44989b72d15f116",
+        "date_add": "2024-05-02 02:12:03",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "BookofPepeentry"
+        ],
+        "holders": {
+            "ETH": 46
+        }
+    },
+    {
+        "contract_address": "0x0000000004d5e7002012a80ae8c08d7339d22c91",
+        "date_add": "2024-05-02 02:12:03",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "smartdeployer.ai"
+        ],
+        "telegram_groups": [
+            "smartdeployerai"
+        ],
+        "holders": {
+            "ETH": 35
+        }
+    },
+    {
+        "contract_address": "0x30df64c3315fca337f605f9d9995a8370668ca67",
+        "date_add": "2024-05-02 02:12:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 37
+        }
+    },
+    {
+        "contract_address": "0x7f86a3b236f8f5e730b4bea9b67f89b190e9f1bb",
+        "date_add": "2024-05-02 02:12:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 76
+        }
+    },
+    {
+        "contract_address": "0x4dfca7eb71d9edbe5714652cc7bd81003bd2e059",
+        "date_add": "2024-05-02 02:12:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8
+        }
     }
 ]
