@@ -141600,7 +141600,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 0
-        }
+        },
+        "web_domains": [
+            "telemetr.io"
+        ]
     },
     {
         "contract_address": "0x54819fed357cfbd64e2c6d94b73afe9ed7d13ea7",
@@ -141611,7 +141614,10 @@
         ],
         "holders": {
             "ETH": 247
-        }
+        },
+        "web_domains": [
+            "haskaynembasociety.ca"
+        ]
     },
     {
         "contract_address": "0x18500bf205a788d88e9377e74817c4c5271416cf",
@@ -141655,7 +141661,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 11
-        }
+        },
+        "web_domains": [
+            "qntm.org"
+        ]
     },
     {
         "contract_address": "0x82a49c799c4ca5bdb629bcd6107737a3de8d2805",
