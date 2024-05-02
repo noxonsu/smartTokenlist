@@ -141463,7 +141463,9 @@
         },
         "web_domains": [
             "sst.dev"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x134791c8971fab1a540cfa515b3d5be7514258ff",
@@ -141474,7 +141476,9 @@
         },
         "web_domains": [
             "magpieprotocol.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x42069220aa5efd51b3d54532533302975346853b",
@@ -141485,7 +141489,9 @@
         ],
         "holders": {
             "ETH": 262
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb3f6e7ee5a276572168659111608af5fbab2501e",
@@ -141521,6 +141527,7 @@
         ],
         "holders": {
             "ETH": 199
-        }
+        },
+        "p6": true
     }
 ]
