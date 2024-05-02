@@ -141110,7 +141110,9 @@
         },
         "web_domains": [
             "mypethooligangame.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x5adb241889a18d456786e1962f0e78cce636fe53",
@@ -141129,7 +141131,9 @@
         },
         "web_domains": [
             "pepereum.top"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x19fc296f917063174f72e949e5d6e9760a98ebee",
@@ -141140,7 +141144,9 @@
         },
         "web_domains": [
             "petscool.ca"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x12a1a703ca942a5d93a2cb9d00fd727d90c6eca1",
@@ -141155,7 +141161,8 @@
         },
         "web_domains": [
             "fatherofallmemes.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xcd0aa40948c662dedd9f157085fd6369a255f2f7",
