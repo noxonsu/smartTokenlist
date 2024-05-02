@@ -141333,7 +141333,8 @@
         ],
         "holders": {
             "ETH": 154
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x581f6aba02f9f31aeac0bbf8243002e86210312e",
@@ -141344,11 +141345,13 @@
             "docs.nodecoin.pro"
         ],
         "telegram_groups": [
-            "CoinNode_portal"
+            "CoinNode_portal",
+            "CoinNodeCPUBot"
         ],
         "holders": {
             "ETH": 290
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x420dae23d6b4d281bdc474c1e7d33f33a24ae90e",
@@ -141362,7 +141365,8 @@
         ],
         "holders": {
             "ETH": 230
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x00de219a162eceb389f652c2ef50c3dfe795d198",
@@ -141392,7 +141396,8 @@
         ],
         "holders": {
             "ETH": 21
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x798bcb35d2d48c8ce7ef8171860b8d53a98b361d",
@@ -141414,7 +141419,11 @@
         ],
         "holders": {
             "ETH": 246
-        }
+        },
+        "emails": [
+            "E-mail: contact@thetoecoin.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe60fbbeed16445fa51004a4903ad579a5f74af1f",
@@ -141425,6 +141434,8 @@
         },
         "web_domains": [
             "caduceus.foundation"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
