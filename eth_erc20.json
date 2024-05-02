@@ -141542,7 +141542,8 @@
         },
         "web_domains": [
             "bigallet.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2a6e4c609663bd9f2404e3da56bc84ba85e46f32",
@@ -141556,7 +141557,11 @@
         ],
         "holders": {
             "ETH": 48
-        }
+        },
+        "emails": [
+            "contact@cosmicgenie.xyz"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf5d791eebfc229c4fe976e8328ed2c261690cb34",
@@ -141570,7 +141575,8 @@
         ],
         "holders": {
             "ETH": 488
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4e56811fe186ba9dc1e4dd156821a19b8d9065b1",
