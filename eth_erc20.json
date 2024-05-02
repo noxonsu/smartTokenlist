@@ -141179,5 +141179,82 @@
         "holders": {
             "ETH": 24
         }
+    },
+    {
+        "contract_address": "0xd04d9f784bcea30690582c97b1b60df19ebb59a8",
+        "date_add": "2024-05-02 06:05:09",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xb3d9475f07538a532cb655cde15303b89bb01146",
+        "date_add": "2024-05-02 06:05:09",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x3581fc32ba8a6291dd49ae698d1e2adf03b5a9cd",
+        "date_add": "2024-05-02 06:05:09",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0x20a8f43a3513e04cdc9d04e8af646ec40635a6f3",
+        "date_add": "2024-05-02 06:05:09",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "highercommunityERC"
+        ],
+        "holders": {
+            "ETH": 153
+        }
+    },
+    {
+        "contract_address": "0x1971628beffc84be31bc44e7a06faf2f520115ca",
+        "date_add": "2024-05-02 06:05:09",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "elon1971.com"
+        ],
+        "telegram_groups": [
+            "eloncccoinerc20"
+        ],
+        "holders": {
+            "ETH": 304
+        }
+    },
+    {
+        "contract_address": "0xf0629648166323275c48740036eb6205e9adfa8f",
+        "date_add": "2024-05-02 06:05:09",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 178
+        }
+    },
+    {
+        "contract_address": "0xf0ac58af1ca98afce29fae456e853688ab9d41e2",
+        "date_add": "2024-05-02 06:05:09",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x87f336708d373f2fc718965a6a584fe92d095ff5",
+        "date_add": "2024-05-02 06:05:09",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "movementlabs.xyz",
+            "www.linkedin.com"
+        ],
+        "holders": {
+            "ETH": 48
+        }
     }
 ]
