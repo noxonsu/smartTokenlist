@@ -141320,5 +141320,108 @@
             "israelpolicyforum.org"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0xbe2abb46e40e0b8b03f6c2712c04ffcfc9eeed32",
+        "date_add": "2024-05-02 10:04:29",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "marlborocommunity.xyz"
+        ],
+        "telegram_groups": [
+            "marlborocoinerc"
+        ],
+        "holders": {
+            "ETH": 154
+        }
+    },
+    {
+        "contract_address": "0x581f6aba02f9f31aeac0bbf8243002e86210312e",
+        "date_add": "2024-05-02 10:04:29",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nodecoin.pro",
+            "docs.nodecoin.pro"
+        ],
+        "telegram_groups": [
+            "CoinNode_portal"
+        ],
+        "holders": {
+            "ETH": 290
+        }
+    },
+    {
+        "contract_address": "0x420dae23d6b4d281bdc474c1e7d33f33a24ae90e",
+        "date_add": "2024-05-02 10:04:29",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "poecoin.site"
+        ],
+        "telegram_groups": [
+            "poecoinerc20"
+        ],
+        "holders": {
+            "ETH": 230
+        }
+    },
+    {
+        "contract_address": "0x00de219a162eceb389f652c2ef50c3dfe795d198",
+        "date_add": "2024-05-02 10:04:29",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0xf96798f49936efb1a56f99ceae924b6b8359affb",
+        "date_add": "2024-05-02 10:04:29",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 310
+        }
+    },
+    {
+        "contract_address": "0x22dea9a2aa120ac558783ed64c20a873a48f8ff9",
+        "date_add": "2024-05-02 10:04:29",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blendex.finance"
+        ],
+        "telegram_groups": [
+            "blendex"
+        ],
+        "holders": {
+            "ETH": 21
+        }
+    },
+    {
+        "contract_address": "0x798bcb35d2d48c8ce7ef8171860b8d53a98b361d",
+        "date_add": "2024-05-02 10:04:29",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 27
+        }
+    },
+    {
+        "contract_address": "0x3aca128bc16ee32ba4e661c57c174c2968ca81b4",
+        "date_add": "2024-05-02 10:04:29",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "thetoecoin.com"
+        ],
+        "telegram_groups": [
+            "toememecoin"
+        ],
+        "holders": {
+            "ETH": 246
+        }
+    },
+    {
+        "contract_address": "0xe60fbbeed16445fa51004a4903ad579a5f74af1f",
+        "date_add": "2024-05-02 10:04:29",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 140
+        }
     }
 ]
