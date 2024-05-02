@@ -141298,13 +141298,13 @@
             "www.fillfloat.com"
         ],
         "telegram_groups": [
-            "FillFloat",
-            "FillFloat",
-            "FillFloatBot"
+            "FillFloatBot",
+            "FillFloat"
         ],
         "holders": {
             "ETH": 69
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x790b7b7d0398aaaa4d2d0e9d0cd32f5e242dcb71",
@@ -141318,6 +141318,7 @@
         },
         "web_domains": [
             "israelpolicyforum.org"
-        ]
+        ],
+        "p6": true
     }
 ]
