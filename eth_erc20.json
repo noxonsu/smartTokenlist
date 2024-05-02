@@ -141793,7 +141793,8 @@
         ],
         "holders": {
             "ETH": 70
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8a45cc295f7349c501b3ed138ee5629a679f18d3",
@@ -141807,7 +141808,8 @@
         ],
         "holders": {
             "ETH": 62
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x294fff8fbfe37da6ffd410b4ca370b92ae853a9b",
@@ -141826,7 +141828,11 @@
         },
         "web_domains": [
             "wrapped.zano.org"
-        ]
+        ],
+        "telegram_groups": [
+            "zanocoin"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd9dcd611bed2be9a4700c725a3810870b9bff094",
@@ -141837,7 +141843,14 @@
         },
         "web_domains": [
             "maxxchain.org"
-        ]
+        ],
+        "telegram_groups": [
+            "MaxxChainPWR"
+        ],
+        "emails": [
+            "nayan@maxxchain.org"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc9e2d2a161445b4602d1908dae1a4ad90e3f1b49",
@@ -141848,7 +141861,11 @@
         ],
         "holders": {
             "ETH": 13
-        }
+        },
+        "telegram_groups": [
+            "NATIXNetwork"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x001696634ecc96fcf422efcc55bb0b6a1d607837",
