@@ -141107,7 +141107,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 28
-        }
+        },
+        "web_domains": [
+            "mypethooligangame.com"
+        ]
     },
     {
         "contract_address": "0x5adb241889a18d456786e1962f0e78cce636fe53",
@@ -141123,7 +141126,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 35
-        }
+        },
+        "web_domains": [
+            "pepereum.top"
+        ]
     },
     {
         "contract_address": "0x19fc296f917063174f72e949e5d6e9760a98ebee",
@@ -141131,7 +141137,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 8
-        }
+        },
+        "web_domains": [
+            "petscool.ca"
+        ]
     },
     {
         "contract_address": "0x12a1a703ca942a5d93a2cb9d00fd727d90c6eca1",
@@ -141143,7 +141152,10 @@
         ],
         "holders": {
             "ETH": 55
-        }
+        },
+        "web_domains": [
+            "fatherofallmemes.com"
+        ]
     },
     {
         "contract_address": "0xcd0aa40948c662dedd9f157085fd6369a255f2f7",
