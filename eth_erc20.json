@@ -141603,7 +141603,14 @@
         },
         "web_domains": [
             "telemetr.io"
-        ]
+        ],
+        "telegram_groups": [
+            "telemetrio_news",
+            "telemetrio_api_bot",
+            "TelemetrioSupport_bot",
+            "telemetr_io_bot"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x54819fed357cfbd64e2c6d94b73afe9ed7d13ea7",
@@ -141617,7 +141624,8 @@
         },
         "web_domains": [
             "haskaynembasociety.ca"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x18500bf205a788d88e9377e74817c4c5271416cf",
@@ -141631,7 +141639,11 @@
         ],
         "holders": {
             "ETH": 210
-        }
+        },
+        "emails": [
+            "team@mcboys.club"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5b39de9ec49f808272a8f27b6d7ce65589a64f9d",
@@ -141664,7 +141676,9 @@
         },
         "web_domains": [
             "qntm.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x82a49c799c4ca5bdb629bcd6107737a3de8d2805",
@@ -141732,7 +141746,8 @@
         ],
         "holders": {
             "ETH": 36
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x108ce14704263c9e2db314e03929d5cf044756d3",
