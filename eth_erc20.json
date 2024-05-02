@@ -141042,7 +141042,8 @@
         ],
         "holders": {
             "ETH": 266
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x694202d9cb651616da7e0ebbf44989b72d15f116",
@@ -141063,11 +141064,13 @@
             "smartdeployer.ai"
         ],
         "telegram_groups": [
+            "SmartDeployerAI_bot",
             "smartdeployerai"
         ],
         "holders": {
             "ETH": 35
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x30df64c3315fca337f605f9d9995a8370668ca67",
@@ -141094,6 +141097,8 @@
         },
         "web_domains": [
             "sadfrog.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
