@@ -141764,5 +141764,92 @@
         "holders": {
             "ETH": 44
         }
+    },
+    {
+        "contract_address": "0x8d4f99a2b2ee6f170def07dd859ee617dabb9268",
+        "date_add": "2024-05-02 20:04:18",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 21
+        }
+    },
+    {
+        "contract_address": "0xc7d4515ba4c82c98a5a81d2a5ef98dcf35314314",
+        "date_add": "2024-05-02 20:04:18",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 50
+        }
+    },
+    {
+        "contract_address": "0x1c99d2bdd07249c085366b2163255b15fe27558d",
+        "date_add": "2024-05-02 20:04:18",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.ethergram.io"
+        ],
+        "telegram_groups": [
+            "EthergramIO"
+        ],
+        "holders": {
+            "ETH": 70
+        }
+    },
+    {
+        "contract_address": "0x8a45cc295f7349c501b3ed138ee5629a679f18d3",
+        "date_add": "2024-05-02 20:04:18",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "chinacoin.cc"
+        ],
+        "telegram_groups": [
+            "china_eth"
+        ],
+        "holders": {
+            "ETH": 62
+        }
+    },
+    {
+        "contract_address": "0x294fff8fbfe37da6ffd410b4ca370b92ae853a9b",
+        "date_add": "2024-05-02 20:04:18",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0xdb85f6685950e285b1e611037bebe5b34e2b7d78",
+        "date_add": "2024-05-02 20:04:18",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 59
+        }
+    },
+    {
+        "contract_address": "0xd9dcd611bed2be9a4700c725a3810870b9bff094",
+        "date_add": "2024-05-02 20:04:18",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 159
+        }
+    },
+    {
+        "contract_address": "0xc9e2d2a161445b4602d1908dae1a4ad90e3f1b49",
+        "date_add": "2024-05-02 20:04:18",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.natix.network"
+        ],
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0x001696634ecc96fcf422efcc55bb0b6a1d607837",
+        "date_add": "2024-05-02 20:04:18",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 26
+        }
     }
 ]
