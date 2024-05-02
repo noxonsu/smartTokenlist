@@ -141460,7 +141460,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 6
-        }
+        },
+        "web_domains": [
+            "sst.dev"
+        ]
     },
     {
         "contract_address": "0x134791c8971fab1a540cfa515b3d5be7514258ff",
@@ -141468,7 +141471,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 23
-        }
+        },
+        "web_domains": [
+            "magpieprotocol.com"
+        ]
     },
     {
         "contract_address": "0x42069220aa5efd51b3d54532533302975346853b",
