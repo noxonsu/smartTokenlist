@@ -141197,7 +141197,9 @@
         },
         "web_domains": [
             "kamino.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3581fc32ba8a6291dd49ae698d1e2adf03b5a9cd",
@@ -141226,11 +141228,13 @@
             "elon1971.com"
         ],
         "telegram_groups": [
+            "elon1971coin",
             "eloncccoinerc20"
         ],
         "holders": {
             "ETH": 304
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf0629648166323275c48740036eb6205e9adfa8f",
@@ -141241,7 +141245,9 @@
         },
         "web_domains": [
             "papaadvertising.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf0ac58af1ca98afce29fae456e853688ab9d41e2",
@@ -141261,6 +141267,10 @@
         ],
         "holders": {
             "ETH": 48
-        }
+        },
+        "telegram_groups": [
+            "movementlabsxyz"
+        ],
+        "p6": true
     }
 ]
