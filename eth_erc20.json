@@ -141194,7 +141194,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 3
-        }
+        },
+        "web_domains": [
+            "kamino.finance"
+        ]
     },
     {
         "contract_address": "0x3581fc32ba8a6291dd49ae698d1e2adf03b5a9cd",
@@ -141235,7 +141238,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 178
-        }
+        },
+        "web_domains": [
+            "papaadvertising.com"
+        ]
     },
     {
         "contract_address": "0xf0ac58af1ca98afce29fae456e853688ab9d41e2",
