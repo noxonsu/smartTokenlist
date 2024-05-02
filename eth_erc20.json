@@ -140949,5 +140949,56 @@
         "holders": {
             "ETH": 29
         }
+    },
+    {
+        "contract_address": "0xfdfc6d5a2e9f30a041b2d73ff53465ae76d19b6e",
+        "date_add": "2024-05-02 00:15:37",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 23
+        }
+    },
+    {
+        "contract_address": "0xd8f88d2d641f1278297532b37d91f68bc047b16f",
+        "date_add": "2024-05-02 00:15:37",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.natix.network",
+            "discord.com",
+            "www.natix.network"
+        ],
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0x503b36441618e61135ade1fa6aa8e5345da7ce75",
+        "date_add": "2024-05-02 00:15:37",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 188
+        }
+    },
+    {
+        "contract_address": "0x06074049adcbd09d8610f8e2ea2b748e73fc1965",
+        "date_add": "2024-05-02 00:15:37",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "broskieth.xyz"
+        ],
+        "telegram_groups": [
+            "BroskiEth"
+        ],
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xbe826ddaa8355ea5a5ff438fcff1a170e25822a1",
+        "date_add": "2024-05-02 00:15:37",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 22
+        }
     }
 ]
