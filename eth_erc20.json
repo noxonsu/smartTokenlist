@@ -140969,7 +140969,11 @@
         ],
         "holders": {
             "ETH": 25
-        }
+        },
+        "telegram_groups": [
+            "NATIXNetwork"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x503b36441618e61135ade1fa6aa8e5345da7ce75",
@@ -140991,7 +140995,8 @@
         ],
         "holders": {
             "ETH": 2
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xbe826ddaa8355ea5a5ff438fcff1a170e25822a1",
