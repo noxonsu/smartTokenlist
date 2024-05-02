@@ -141529,5 +141529,60 @@
             "ETH": 199
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x19491019f795189c8f6b13322e08431ca74b9af4",
+        "date_add": "2024-05-02 16:04:21",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "chinaerc"
+        ],
+        "holders": {
+            "ETH": 234
+        }
+    },
+    {
+        "contract_address": "0x2a6e4c609663bd9f2404e3da56bc84ba85e46f32",
+        "date_add": "2024-05-02 16:04:21",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cosmicgenie.xyz"
+        ],
+        "telegram_groups": [
+            "cosmicgenie"
+        ],
+        "holders": {
+            "ETH": 48
+        }
+    },
+    {
+        "contract_address": "0xf5d791eebfc229c4fe976e8328ed2c261690cb34",
+        "date_add": "2024-05-02 16:04:21",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "boobeth.com"
+        ],
+        "telegram_groups": [
+            "boobcoineth"
+        ],
+        "holders": {
+            "ETH": 488
+        }
+    },
+    {
+        "contract_address": "0x4e56811fe186ba9dc1e4dd156821a19b8d9065b1",
+        "date_add": "2024-05-02 16:04:21",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 302
+        }
+    },
+    {
+        "contract_address": "0xe77012c34162eadfa05abdf358d75b9f5b59f880",
+        "date_add": "2024-05-02 16:04:21",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8
+        }
     }
 ]
