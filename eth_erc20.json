@@ -141272,5 +141272,49 @@
             "movementlabsxyz"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x42069d95d41c759bf1769b6abca5098f39e65a5c",
+        "date_add": "2024-05-02 08:05:07",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Boecoin"
+        ],
+        "holders": {
+            "ETH": 117
+        }
+    },
+    {
+        "contract_address": "0x6d592480faedb73c9df8b78f24649297addcb79d",
+        "date_add": "2024-05-02 08:05:07",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fillfloat.com",
+            "www.fillfloat.com",
+            "docs.fillfloat.com",
+            "docs.fillfloat.com",
+            "docs.fillfloat.com",
+            "docs.fillfloat.com",
+            "www.fillfloat.com"
+        ],
+        "telegram_groups": [
+            "FillFloat",
+            "FillFloat",
+            "FillFloatBot"
+        ],
+        "holders": {
+            "ETH": 69
+        }
+    },
+    {
+        "contract_address": "0x790b7b7d0398aaaa4d2d0e9d0cd32f5e242dcb71",
+        "date_add": "2024-05-02 08:05:07",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ISRAEL_ERC20"
+        ],
+        "holders": {
+            "ETH": 120
+        }
     }
 ]
