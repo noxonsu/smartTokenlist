@@ -141823,7 +141823,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 59
-        }
+        },
+        "web_domains": [
+            "wrapped.zano.org"
+        ]
     },
     {
         "contract_address": "0xd9dcd611bed2be9a4700c725a3810870b9bff094",
@@ -141831,7 +141834,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 159
-        }
+        },
+        "web_domains": [
+            "maxxchain.org"
+        ]
     },
     {
         "contract_address": "0xc9e2d2a161445b4602d1908dae1a4ad90e3f1b49",
