@@ -141992,7 +141992,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 189
-        }
+        },
+        "web_domains": [
+            "mrkrabs.io"
+        ]
     },
     {
         "contract_address": "0x78d448a1d1fedaa3e916f467568e86081e0f4df5",
