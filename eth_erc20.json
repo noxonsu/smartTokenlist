@@ -141892,7 +141892,12 @@
         },
         "web_domains": [
             "zweetshop.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "\n                    ecom@galilfoods.com\n                  "
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd28cca138166f1d6dae560a0e15e5be2a97c819d",
@@ -141914,7 +141919,8 @@
         ],
         "holders": {
             "ETH": 233
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6d91610ca9350e62cc229e01f772410e81844acf",
@@ -141928,7 +141934,8 @@
         ],
         "holders": {
             "ETH": 357
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x37260d0751955f2e760c0f289d2cf13f37d3fe17",
