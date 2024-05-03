@@ -142546,7 +142546,11 @@
         ],
         "holders": {
             "ETH": 35
-        }
+        },
+        "telegram_groups": [
+            "aethirofficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf7449896d64dce55c0a25051b55857d5d1b0cf7a",
@@ -142571,7 +142575,11 @@
         ],
         "holders": {
             "ETH": 442
-        }
+        },
+        "emails": [
+            "team@goeerc.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc2aaee9c657c2bab72fb3be5e17d401c4bd33019",
@@ -142585,7 +142593,11 @@
         ],
         "holders": {
             "ETH": 51
-        }
+        },
+        "emails": [
+            "team@sensenova.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc49a9fe7c7b41545edff6b2f2be7662eb588279c",
@@ -142597,6 +142609,10 @@
         ],
         "holders": {
             "ETH": 35
-        }
+        },
+        "telegram_groups": [
+            "movementlabsxyz"
+        ],
+        "p6": true
     }
 ]
