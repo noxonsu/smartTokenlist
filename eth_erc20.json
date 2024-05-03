@@ -141971,5 +141971,69 @@
         "holders": {
             "ETH": 103
         }
+    },
+    {
+        "contract_address": "0xbbf00afa23f81a8cd96dc81b6d088aa69e523f9b",
+        "date_add": "2024-05-03 04:06:03",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wearebrainlet.com"
+        ],
+        "telegram_groups": [
+            "weareBrainlet"
+        ],
+        "holders": {
+            "ETH": 112
+        }
+    },
+    {
+        "contract_address": "0xc79b8475750da6a1ce41c0e83ffbcc1620fd5073",
+        "date_add": "2024-05-03 04:06:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 189
+        }
+    },
+    {
+        "contract_address": "0x78d448a1d1fedaa3e916f467568e86081e0f4df5",
+        "date_add": "2024-05-03 04:06:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 738
+        }
+    },
+    {
+        "contract_address": "0x420699431787231307c34c7aec4ba8d0971e842d",
+        "date_add": "2024-05-03 04:06:03",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bookofmemetoken.com"
+        ],
+        "telegram_groups": [
+            "BoomErc20coin"
+        ],
+        "holders": {
+            "ETH": 159
+        }
+    },
+    {
+        "contract_address": "0x22e7f1b1300dbd955c689ac4da292f938a4aebfa",
+        "date_add": "2024-05-03 04:06:03",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "side.xyz",
+            "discord.com"
+        ],
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x36eb17df30ed188d07b0439341f1a44781d0e689",
+        "date_add": "2024-05-03 04:06:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
     }
 ]
