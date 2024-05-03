@@ -142627,7 +142627,8 @@
         ],
         "holders": {
             "ETH": 21
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x50681496cfef04fbdcf3b7d19bde7be06ae77001",
@@ -142638,6 +142639,8 @@
         },
         "web_domains": [
             "milady.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
