@@ -142402,7 +142402,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 31
-        }
+        },
+        "web_domains": [
+            "rekt.news"
+        ]
     },
     {
         "contract_address": "0x9f3d1518426197c97cf535b270db178af4df6dcf",
