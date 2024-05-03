@@ -142535,5 +142535,68 @@
         "holders": {
             "ETH": 460
         }
+    },
+    {
+        "contract_address": "0x0d78d64e0889d8199001868faf1542c90cac768c",
+        "date_add": "2024-05-03 16:04:25",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.aethir.com",
+            "discord.com"
+        ],
+        "holders": {
+            "ETH": 35
+        }
+    },
+    {
+        "contract_address": "0xf7449896d64dce55c0a25051b55857d5d1b0cf7a",
+        "date_add": "2024-05-03 16:04:25",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "GOPERC"
+        ],
+        "holders": {
+            "ETH": 48
+        }
+    },
+    {
+        "contract_address": "0xccc80ce58995baae4e5867e5cde3bd9f8b242376",
+        "date_add": "2024-05-03 16:04:25",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "goeerc.com"
+        ],
+        "telegram_groups": [
+            "goeerc"
+        ],
+        "holders": {
+            "ETH": 442
+        }
+    },
+    {
+        "contract_address": "0xc2aaee9c657c2bab72fb3be5e17d401c4bd33019",
+        "date_add": "2024-05-03 16:04:25",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sensenova.io"
+        ],
+        "telegram_groups": [
+            "sensenovaerc"
+        ],
+        "holders": {
+            "ETH": 51
+        }
+    },
+    {
+        "contract_address": "0xc49a9fe7c7b41545edff6b2f2be7662eb588279c",
+        "date_add": "2024-05-03 16:04:25",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "movementlabs.xyz",
+            "discord.com"
+        ],
+        "holders": {
+            "ETH": 35
+        }
     }
 ]
