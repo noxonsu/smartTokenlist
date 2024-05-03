@@ -142086,7 +142086,8 @@
         ],
         "holders": {
             "ETH": 138
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x11c79360195ea97d4de0b0de7e53721aeb4ebd49",
@@ -142167,7 +142168,8 @@
         ],
         "holders": {
             "ETH": 217
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x533eed9afa610521e12c01b2c3f1a793ce01044c",
@@ -142178,6 +142180,8 @@
         },
         "web_domains": [
             "redstonecolorado.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
