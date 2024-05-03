@@ -142196,7 +142196,11 @@
         ],
         "holders": {
             "ETH": 55
-        }
+        },
+        "emails": [
+            "\n\t\t\t\t\t\t\t\t\t\t\t\t\tdev@russiacoin.cash"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd73de16eac9e4db42eb27798e93215e16a0a3ff5",
@@ -142210,7 +142214,8 @@
         ],
         "holders": {
             "ETH": 294
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x20721fb584183f3c65db27de813bf0ae4c39e497",
@@ -142224,7 +142229,8 @@
         ],
         "holders": {
             "ETH": 263
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5caab0a9203c0245b39850d8e222559b6ea7471b",
@@ -142234,11 +142240,14 @@
             "skiperc.xyz"
         ],
         "telegram_groups": [
+            "skiponeth",
+            "skimaskpepeerc",
             "SkiMaskPepeErc"
         ],
         "holders": {
             "ETH": 203
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x49948e6b5b00255599c16b0a508b316d5540af9e",
@@ -142250,12 +142259,15 @@
             "RealWorldIncome.com"
         ],
         "telegram_groups": [
-            "RealWorldIncome",
             "RealWorldIncome"
         ],
         "holders": {
             "ETH": 159
-        }
+        },
+        "emails": [
+            "RealWorldIncome@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x878ee7ae4acda3ae904e491bc1623c0590a571b5",
@@ -142266,6 +142278,10 @@
         ],
         "holders": {
             "ETH": 58
-        }
+        },
+        "telegram_groups": [
+            "RenzoProtocolChat"
+        ],
+        "p6": true
     }
 ]
