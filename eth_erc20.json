@@ -141984,7 +141984,8 @@
         ],
         "holders": {
             "ETH": 112
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc79b8475750da6a1ce41c0e83ffbcc1620fd5073",
@@ -141995,7 +141996,14 @@
         },
         "web_domains": [
             "mrkrabs.io"
-        ]
+        ],
+        "telegram_groups": [
+            "KrabsSOL_Official"
+        ],
+        "emails": [
+            "Team@mrkrabs.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x78d448a1d1fedaa3e916f467568e86081e0f4df5",
@@ -142017,7 +142025,8 @@
         ],
         "holders": {
             "ETH": 159
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x22e7f1b1300dbd955c689ac4da292f938a4aebfa",
@@ -142029,7 +142038,11 @@
         ],
         "holders": {
             "ETH": 4
-        }
+        },
+        "telegram_groups": [
+            "sidexyz"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x36eb17df30ed188d07b0439341f1a44781d0e689",
