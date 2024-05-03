@@ -141889,7 +141889,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 25
-        }
+        },
+        "web_domains": [
+            "zweetshop.com"
+        ]
     },
     {
         "contract_address": "0xd28cca138166f1d6dae560a0e15e5be2a97c819d",
