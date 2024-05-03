@@ -142283,5 +142283,102 @@
             "RenzoProtocolChat"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x1a7b590b510aa2baa69816bc3613846ca0a17d52",
+        "date_add": "2024-05-03 12:05:55",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 79
+        }
+    },
+    {
+        "contract_address": "0x4c5d5198344e5612124d473dd57c8b4867ed7806",
+        "date_add": "2024-05-03 12:05:55",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "DEGENOBRAIN"
+        ],
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x983939868612289b92863b324d12de8b64271bf7",
+        "date_add": "2024-05-03 12:05:55",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xde4177a47abc8a9ec5f3a22b46a656eedb96bd27",
+        "date_add": "2024-05-03 12:05:55",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "peapods.finance"
+        ],
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0x8e4e0257a4759559b4b1ac087fe8d80c63f20d19",
+        "date_add": "2024-05-03 12:05:55",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 200
+        }
+    },
+    {
+        "contract_address": "0x949df2d6ba32021b513472d2055558ebfaa49490",
+        "date_add": "2024-05-03 12:05:55",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0x5930236b41f1b4ffe2223466c7cc5c6514286fda",
+        "date_add": "2024-05-03 12:05:55",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x865a755bcc8c8e82117dcad7e7ea86a2a1b8cfd8",
+        "date_add": "2024-05-03 12:05:55",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.createmytoken.com"
+        ],
+        "holders": {
+            "ETH": 52
+        }
+    },
+    {
+        "contract_address": "0xfb43f573a247cbcb8bd9a366d0afb31f4dba1e55",
+        "date_add": "2024-05-03 12:05:55",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zerolend.xyz",
+            "discord.com",
+            "zerolend.medium.com"
+        ],
+        "telegram_groups": [
+            "zerolendxyz"
+        ],
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0x9a12c4f6e761d46c953d29787c0eda26b0aa65db",
+        "date_add": "2024-05-03 12:05:55",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 34
+        }
     }
 ]
