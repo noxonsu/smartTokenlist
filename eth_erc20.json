@@ -142405,7 +142405,9 @@
         },
         "web_domains": [
             "rekt.news"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9f3d1518426197c97cf535b270db178af4df6dcf",
@@ -142415,11 +142417,14 @@
             "cartoon1921.com"
         ],
         "telegram_groups": [
-            "cartoon1921"
+            "cartoon1921",
+            "CARTOON1921",
+            "Cartoon1921"
         ],
         "holders": {
             "ETH": 230
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x69420ad5236204f4f3aa304a8ab594470974b79e",
@@ -142433,7 +142438,8 @@
         ],
         "holders": {
             "ETH": 25
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf9e0bea01f128fdb036461e410a17f36767f8f58",
@@ -142447,7 +142453,11 @@
         ],
         "holders": {
             "ETH": 153
-        }
+        },
+        "emails": [
+            "team@sensenova.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xfaf30e1d71d52301e4813a574a791b893b3a541e",
@@ -142477,7 +142487,8 @@
         ],
         "holders": {
             "ETH": 158
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb01a21df043f21365aa44877ce1f856d66753bc0",
@@ -142491,7 +142502,8 @@
         ],
         "holders": {
             "ETH": 25
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x420693134600b2762767cab88043ab386351851d",
