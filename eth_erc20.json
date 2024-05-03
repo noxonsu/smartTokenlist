@@ -142614,5 +142614,27 @@
             "movementlabsxyz"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x821d158c454b3a3fcef1b9f35dba9cb0e37c5453",
+        "date_add": "2024-05-03 18:04:48",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "primex.finance"
+        ],
+        "telegram_groups": [
+            "primexfinance"
+        ],
+        "holders": {
+            "ETH": 21
+        }
+    },
+    {
+        "contract_address": "0x50681496cfef04fbdcf3b7d19bde7be06ae77001",
+        "date_add": "2024-05-03 18:04:48",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
     }
 ]
