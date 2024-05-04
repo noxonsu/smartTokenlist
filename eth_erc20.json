@@ -142842,7 +142842,8 @@
         ],
         "holders": {
             "ETH": 148
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7d372819240d14fb477f17b964f95f33beb4c704",
@@ -142881,6 +142882,10 @@
         ],
         "holders": {
             "ETH": 123
-        }
+        },
+        "emails": [
+            "info@0xrp.com"
+        ],
+        "p6": true
     }
 ]
