@@ -143615,7 +143615,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 4
-        }
+        },
+        "web_domains": [
+            "notcoinbot.com"
+        ]
     },
     {
         "contract_address": "0x0088348bc2d63ad548475f6e86485a199d19a945",
