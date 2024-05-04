@@ -143654,7 +143654,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 5
-        }
+        },
+        "web_domains": [
+            "vionaswap.com"
+        ]
     },
     {
         "contract_address": "0xb3c6efa9742a2afbd196cc23e02f870c04f4d7b9",
@@ -143676,7 +143679,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 72
-        }
+        },
+        "web_domains": [
+            "memeinator.com"
+        ]
     },
     {
         "contract_address": "0x0266a7d8cb2262224a8e96b894dfa01be50000d6",
