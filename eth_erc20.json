@@ -142965,5 +142965,156 @@
         },
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x50b4dc15b34e31671c9ca40f9eb05d7ebd6b13f9",
+        "date_add": "2024-05-04 08:04:40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x936a393b85db049f755088c1a4df390a807a3348",
+        "date_add": "2024-05-04 08:04:40",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "chinacoin.cc"
+        ],
+        "telegram_groups": [
+            "china_erc20"
+        ],
+        "holders": {
+            "ETH": 59
+        }
+    },
+    {
+        "contract_address": "0xa4a25569fb8baf7d935e419261ce6d27dd4ff8a6",
+        "date_add": "2024-05-04 08:04:40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 38
+        }
+    },
+    {
+        "contract_address": "0x676b19c11fbbcc046a3f5ccf396ed050535a2153",
+        "date_add": "2024-05-04 08:04:40",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.god-of-bitcoin.com"
+        ],
+        "telegram_groups": [
+            "GodOfBitcoinErc20"
+        ],
+        "holders": {
+            "ETH": 101
+        }
+    },
+    {
+        "contract_address": "0x850ea4000059b103f987b592bc25ba2e9a108a1a",
+        "date_add": "2024-05-04 08:04:40",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "daredevildog.org"
+        ],
+        "telegram_groups": [
+            "daredevildogerc"
+        ],
+        "holders": {
+            "ETH": 328
+        }
+    },
+    {
+        "contract_address": "0x08c6f91e2b681faf5e17227f2a44c307b3c1364c",
+        "date_add": "2024-05-04 08:04:40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 273
+        }
+    },
+    {
+        "contract_address": "0xfb1da7e6539ff9c0ac6bd680f2dfd4b2bc0d2950",
+        "date_add": "2024-05-04 08:04:40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x600a4bcbe24186b10b5c9ec066d255784781bc95",
+        "date_add": "2024-05-04 08:04:40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xe6df6bca27612972a91374fbc630584f12e69495",
+        "date_add": "2024-05-04 08:04:40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 21
+        }
+    },
+    {
+        "contract_address": "0x3853fe4616a18cfff994293432e45ce8c5ee2d5b",
+        "date_add": "2024-05-04 08:04:40",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "xdcoins.vip"
+        ],
+        "telegram_groups": [
+            "XDCoinETH"
+        ],
+        "holders": {
+            "ETH": 128
+        }
+    },
+    {
+        "contract_address": "0x9c2341fd8173ec60dae6664b45b002c89899cf09",
+        "date_add": "2024-05-04 08:04:40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0xf024410e11dc94be49f13ebe053cb784f078642f",
+        "date_add": "2024-05-04 08:04:40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x7efbac35b65e73484764fd00f18e64929e782855",
+        "date_add": "2024-05-04 08:04:40",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cifi.ai",
+            "chat.cifi.ai"
+        ],
+        "holders": {
+            "ETH": 131
+        }
+    },
+    {
+        "contract_address": "0x88888888eafab4dde63146fea2ae1bfdbc46cd67",
+        "date_add": "2024-05-04 08:04:40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0x0c99189fa09556eabecf3fe9756a22401f3aadbd",
+        "date_add": "2024-05-04 08:04:40",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "groypereth"
+        ],
+        "holders": {
+            "ETH": 154
+        }
     }
 ]
