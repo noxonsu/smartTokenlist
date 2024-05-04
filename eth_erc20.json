@@ -143163,7 +143163,8 @@
         },
         "web_domains": [
             "atoem.bandcamp.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8c3e3821259b82ffb32b2450a95d2dcbf161c24e",
@@ -143249,7 +143250,9 @@
         },
         "web_domains": [
             "nockchain.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x29542a3f517d022e5cd126fc72e106ab1601bfae",
@@ -143263,6 +143266,7 @@
         ],
         "holders": {
             "ETH": 18
-        }
+        },
+        "p6": true
     }
 ]
