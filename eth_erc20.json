@@ -142887,5 +142887,74 @@
             "info@0xrp.com"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x46792167272e42c2f3d6af10771860e5fd55bb1c",
+        "date_add": "2024-05-04 06:04:45",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 338
+        }
+    },
+    {
+        "contract_address": "0xd4e30a2345cf12ef188f4d82457e365d5955a62a",
+        "date_add": "2024-05-04 06:04:45",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 356
+        }
+    },
+    {
+        "contract_address": "0xcaeb21ac46d1288eca2559084262be662979dd75",
+        "date_add": "2024-05-04 06:04:45",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "scrollofeth.vip"
+        ],
+        "telegram_groups": [
+            "ScrollofEthereum"
+        ],
+        "holders": {
+            "ETH": 253
+        }
+    },
+    {
+        "contract_address": "0xa1a1e2f400f1da4b5b63e42a59e46006c082eb29",
+        "date_add": "2024-05-04 06:04:45",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bybythefrog.xyz"
+        ],
+        "telegram_groups": [
+            "BybyErc20"
+        ],
+        "holders": {
+            "ETH": 265
+        }
+    },
+    {
+        "contract_address": "0x559b7bfc48a5274754b08819f75c5f27af53d53b",
+        "date_add": "2024-05-04 06:04:45",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 131
+        }
+    },
+    {
+        "contract_address": "0x39eb558131e5ebeb9f76a6cbf6898f6e6dce5e4e",
+        "date_add": "2024-05-04 06:04:45",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi"
+        ],
+        "holders": {
+            "ETH": 15
+        }
     }
 ]
