@@ -143054,7 +143054,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 21
-        }
+        },
+        "web_domains": [
+            "gevulot.com"
+        ]
     },
     {
         "contract_address": "0x3853fe4616a18cfff994293432e45ce8c5ee2d5b",
@@ -143076,7 +143079,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 30
-        }
+        },
+        "web_domains": [
+            "bonehealthandosteoporosis.org"
+        ]
     },
     {
         "contract_address": "0xf024410e11dc94be49f13ebe053cb784f078642f",
@@ -143115,6 +143121,9 @@
         ],
         "holders": {
             "ETH": 154
-        }
+        },
+        "web_domains": [
+            "groypcoin.com"
+        ]
     }
 ]
