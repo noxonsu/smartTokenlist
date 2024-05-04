@@ -142739,7 +142739,12 @@
         },
         "web_domains": [
             "aimusk.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "Contact Email: aiwith@hotmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x682f3317a8db21ba205dc84a0b7bd5010333bda7",
@@ -142769,7 +142774,8 @@
         ],
         "holders": {
             "ETH": 54
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x965b85d4674f64422c4898c8f8083187f02b32c0",
@@ -142788,7 +142794,9 @@
         },
         "web_domains": [
             "pepepalv2.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x28218b8e8637baf43e0f08172fd00d60d9ab5908",
@@ -142799,6 +142807,11 @@
         },
         "web_domains": [
             "emilyrobot.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "info@hydronalix.com"
+        ],
+        "p6": true
     }
 ]
