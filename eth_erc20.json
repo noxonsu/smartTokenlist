@@ -142736,7 +142736,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 12
-        }
+        },
+        "web_domains": [
+            "aimusk.com"
+        ]
     },
     {
         "contract_address": "0x682f3317a8db21ba205dc84a0b7bd5010333bda7",
@@ -142782,7 +142785,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 38
-        }
+        },
+        "web_domains": [
+            "pepepalv2.com"
+        ]
     },
     {
         "contract_address": "0x28218b8e8637baf43e0f08172fd00d60d9ab5908",
@@ -142790,6 +142796,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 200
-        }
+        },
+        "web_domains": [
+            "emilyrobot.com"
+        ]
     }
 ]
