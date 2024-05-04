@@ -143268,5 +143268,65 @@
             "ETH": 18
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xf92050985936150572fca5d8307bfd35771cdb54",
+        "date_add": "2024-05-04 12:05:16",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.mode.network"
+        ],
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0x9e7fd25ad9d97f1e6716fa5bb04749a4621e892d",
+        "date_add": "2024-05-04 12:05:16",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8
+        }
+    },
+    {
+        "contract_address": "0x47bdc41c790be8f0e2de6329692391f23b4e6ab7",
+        "date_add": "2024-05-04 12:05:16",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x7b9ff34f1fd69e603020b4ea32d6c43f5cfaaaa0",
+        "date_add": "2024-05-04 12:05:16",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x9727255fb591b24747c855d7e16b10118965f83a",
+        "date_add": "2024-05-04 12:05:16",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Arky20erc"
+        ],
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0xe463d16d55b9dae0529dd22462ae1d8cc1e081ba",
+        "date_add": "2024-05-04 12:05:16",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mewingoneth.wtf"
+        ],
+        "telegram_groups": [
+            "MewingOnEthereum"
+        ],
+        "holders": {
+            "ETH": 17
+        }
     }
 ]
