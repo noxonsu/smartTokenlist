@@ -143150,5 +143150,113 @@
             "groypcoin.com"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x0428e8fb4bf521f70d3df0d0acc743a87f91c76c",
+        "date_add": "2024-05-04 10:04:22",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "EntropyElon"
+        ],
+        "holders": {
+            "ETH": 216
+        }
+    },
+    {
+        "contract_address": "0x8c3e3821259b82ffb32b2450a95d2dcbf161c24e",
+        "date_add": "2024-05-04 10:04:22",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 28
+        }
+    },
+    {
+        "contract_address": "0xb460daa847c45f1c4a41cb05bfb3b51c92e41b36",
+        "date_add": "2024-05-04 10:04:22",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 56
+        }
+    },
+    {
+        "contract_address": "0x63ad745506bd6a3e57f764409a47ed004bec40b1",
+        "date_add": "2024-05-04 10:04:22",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0x4efc8ded860bc472fa8d938dc3fd4946bc1a0a18",
+        "date_add": "2024-05-04 10:04:22",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xf9ad7c6bab11d9f483fd40ee4170bf27f21d4c78",
+        "date_add": "2024-05-04 10:04:22",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xba485b556399123261a5f9c95d413b4f93107407",
+        "date_add": "2024-05-04 10:04:22",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 139
+        }
+    },
+    {
+        "contract_address": "0x8eb6c82c3081bbbd45dcac5afa631aac53478b7c",
+        "date_add": "2024-05-04 10:04:22",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 34
+        }
+    },
+    {
+        "contract_address": "0x371b7c451858bd88eaf392b383df8bd7b8955d5a",
+        "date_add": "2024-05-04 10:04:22",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x0affa06e7fbe5bc9a764c979aa66e8256a631f02",
+        "date_add": "2024-05-04 10:04:22",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.ambisafe.co"
+        ],
+        "holders": {
+            "ETH": 15149
+        }
+    },
+    {
+        "contract_address": "0x07ec5bab2b2f0f35751f72a75fbb4a4e8bfa73a8",
+        "date_add": "2024-05-04 10:04:22",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0x29542a3f517d022e5cd126fc72e106ab1601bfae",
+        "date_add": "2024-05-04 10:04:22",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "northcattoken.com"
+        ],
+        "telegram_groups": [
+            "NorthCatToken_Portal"
+        ],
+        "holders": {
+            "ETH": 18
+        }
     }
 ]
