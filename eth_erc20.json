@@ -143350,11 +143350,16 @@
             "cyberpunkpepe.com"
         ],
         "telegram_groups": [
+            "pepe2077onsol",
             "pepunktoken"
         ],
         "holders": {
             "ETH": 5
-        }
+        },
+        "emails": [
+            "team@cyberpunkpepe.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x05032b0843d76d5fcd164f89bc017d8b99d625ad",
@@ -143384,7 +143389,8 @@
         ],
         "holders": {
             "ETH": 186
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5f250ed62cf3e5cf25f4f370d35d04782b0678a3",
@@ -143426,12 +143432,13 @@
         ],
         "telegram_groups": [
             "ScrollOfPEPE",
-            "addstickers",
-            "addemoji"
+            "addemoji",
+            "addstickers"
         ],
         "holders": {
             "ETH": 177
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x43ec23961af3c004bd5bd3648ae195a10b26bd76",
@@ -143483,7 +143490,8 @@
         },
         "web_domains": [
             "starwars.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbe06167ea72f95f8b72ff8a2d326ea84a742581f",
@@ -143497,7 +143505,8 @@
         ],
         "holders": {
             "ETH": 252
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x89be8463d223adca518e4060b32aaf8bd14cb858",
@@ -143511,7 +143520,8 @@
         ],
         "holders": {
             "ETH": 185
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x35872fea6a4843facbcdbce99e3b69596a3680b8",
