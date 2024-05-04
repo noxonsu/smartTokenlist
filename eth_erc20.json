@@ -143278,7 +143278,11 @@
         ],
         "holders": {
             "ETH": 32
-        }
+        },
+        "telegram_groups": [
+            "ModeNetworkOfficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9e7fd25ad9d97f1e6716fa5bb04749a4621e892d",
@@ -143327,6 +143331,7 @@
         ],
         "holders": {
             "ETH": 17
-        }
+        },
+        "p6": true
     }
 ]
