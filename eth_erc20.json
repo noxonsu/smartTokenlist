@@ -143480,7 +143480,10 @@
         ],
         "holders": {
             "ETH": 176
-        }
+        },
+        "web_domains": [
+            "starwars.com"
+        ]
     },
     {
         "contract_address": "0xbe06167ea72f95f8b72ff8a2d326ea84a742581f",
