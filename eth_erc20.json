@@ -143123,7 +143123,9 @@
         ],
         "holders": {
             "ETH": 131
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x88888888eafab4dde63146fea2ae1bfdbc46cd67",
@@ -143138,6 +143140,7 @@
         "date_add": "2024-05-04 08:04:40",
         "sourceScanned": "processed",
         "telegram_groups": [
+            "groypcoineth",
             "groypereth"
         ],
         "holders": {
@@ -143145,6 +143148,7 @@
         },
         "web_domains": [
             "groypcoin.com"
-        ]
+        ],
+        "p6": true
     }
 ]
