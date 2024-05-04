@@ -141807,12 +141807,16 @@
             "chinacoin.cc"
         ],
         "telegram_groups": [
+            "china_erc20",
             "china_eth"
         ],
         "holders": {
             "ETH": 62
         },
-        "p6": true
+        "p6": true,
+        "emails": [
+            "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tdev@chinacoin.cc"
+        ]
     },
     {
         "contract_address": "0x294fff8fbfe37da6ffd410b4ca370b92ae853a9b",
@@ -142982,11 +142986,16 @@
             "chinacoin.cc"
         ],
         "telegram_groups": [
-            "china_erc20"
+            "china_erc20",
+            "china_eth"
         ],
         "holders": {
             "ETH": 59
-        }
+        },
+        "emails": [
+            "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tdev@chinacoin.cc"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa4a25569fb8baf7d935e419261ce6d27dd4ff8a6",
@@ -143008,7 +143017,8 @@
         ],
         "holders": {
             "ETH": 101
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x850ea4000059b103f987b592bc25ba2e9a108a1a",
@@ -143022,7 +143032,8 @@
         ],
         "holders": {
             "ETH": 328
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x08c6f91e2b681faf5e17227f2a44c307b3c1364c",
@@ -143057,7 +143068,11 @@
         },
         "web_domains": [
             "gevulot.com"
-        ]
+        ],
+        "telegram_groups": [
+            "gevulot"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3853fe4616a18cfff994293432e45ce8c5ee2d5b",
@@ -143071,7 +143086,8 @@
         ],
         "holders": {
             "ETH": 128
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9c2341fd8173ec60dae6664b45b002c89899cf09",
@@ -143082,7 +143098,12 @@
         },
         "web_domains": [
             "bonehealthandosteoporosis.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "info@bonehealthandosteoporosis.org"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf024410e11dc94be49f13ebe053cb784f078642f",
