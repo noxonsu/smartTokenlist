@@ -143543,11 +143543,13 @@
             "realpeperc20.com"
         ],
         "telegram_groups": [
+            "Satoshi0x15420",
             "realpepecoinerc20"
         ],
         "holders": {
             "ETH": 187
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe5f302a5aa259a7c4af29f0f0951178277f6c07b",
@@ -143561,7 +143563,11 @@
         ],
         "holders": {
             "ETH": 100
-        }
+        },
+        "emails": [
+            " team@maythe4th.vip"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1253b26928655476d4d11b1f831c805be47bcd81",
@@ -143575,7 +143581,8 @@
         ],
         "holders": {
             "ETH": 69
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc3b051496cf539f1761628fa52fa0ca84bf2570d",
@@ -143607,7 +143614,8 @@
         ],
         "holders": {
             "ETH": 19
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5ba66281ec78ee1a83e7a449d1692b0fda7023e2",
@@ -143618,7 +143626,9 @@
         },
         "web_domains": [
             "notcoinbot.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0088348bc2d63ad548475f6e86485a199d19a945",
@@ -143632,6 +143642,10 @@
         ],
         "holders": {
             "ETH": 39
-        }
+        },
+        "emails": [
+            "team@makecryptogreatagain.org"
+        ],
+        "p6": true
     }
 ]
