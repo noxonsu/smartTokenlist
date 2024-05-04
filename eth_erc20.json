@@ -143647,5 +143647,58 @@
             "team@makecryptogreatagain.org"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0xb06c270937e9e1ecedd10c197695471d85c04305",
+        "date_add": "2024-05-04 20:05:04",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0xb3c6efa9742a2afbd196cc23e02f870c04f4d7b9",
+        "date_add": "2024-05-04 20:05:04",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.ethereumbreadcat.com"
+        ],
+        "telegram_groups": [
+            "breadcat_eth"
+        ],
+        "holders": {
+            "ETH": 49
+        }
+    },
+    {
+        "contract_address": "0xec72528d10a2d8a3964645c8cdccea9aa271bb0a",
+        "date_add": "2024-05-04 20:05:04",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 72
+        }
+    },
+    {
+        "contract_address": "0x0266a7d8cb2262224a8e96b894dfa01be50000d6",
+        "date_add": "2024-05-04 20:05:04",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 307
+        }
+    },
+    {
+        "contract_address": "0x14aa86515f3405e27a42015caa608d5399888d56",
+        "date_add": "2024-05-04 20:05:04",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "soulcial.pro",
+            "app.soulcial.pro"
+        ],
+        "telegram_groups": [
+            "soulcial_erc20"
+        ],
+        "holders": {
+            "ETH": 53
+        }
     }
 ]
