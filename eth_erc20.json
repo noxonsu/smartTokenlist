@@ -142813,5 +142813,74 @@
             "info@hydronalix.com"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x55573fa1aa85ee3d4e85156c38a02d4deca95ced",
+        "date_add": "2024-05-04 02:11:04",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x045cb2ffea4c2cef4e9a754bd02bd6bb9e0df841",
+        "date_add": "2024-05-04 02:11:04",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x6af54d6fd9ca68fa405be6d6b72949c97c03b0b5",
+        "date_add": "2024-05-04 02:11:04",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hopeofeth.com"
+        ],
+        "telegram_groups": [
+            "HOEErc"
+        ],
+        "holders": {
+            "ETH": 148
+        }
+    },
+    {
+        "contract_address": "0x7d372819240d14fb477f17b964f95f33beb4c704",
+        "date_add": "2024-05-04 02:11:04",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 178
+        }
+    },
+    {
+        "contract_address": "0xb986fd52697f16be888bfad2c5bf12cd67ce834b",
+        "date_add": "2024-05-04 02:11:04",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi",
+            "forum.balancer.fi"
+        ],
+        "holders": {
+            "ETH": 8556
+        }
+    },
+    {
+        "contract_address": "0x2006c5fcb1558d18d8115f8b0e6ceae3d4e0be39",
+        "date_add": "2024-05-04 02:11:04",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.bookoffurie.xyz"
+        ],
+        "telegram_groups": [
+            "bookoffurieerc"
+        ],
+        "holders": {
+            "ETH": 123
+        }
     }
 ]
