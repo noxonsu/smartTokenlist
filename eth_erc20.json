@@ -143657,7 +143657,11 @@
         },
         "web_domains": [
             "vionaswap.com"
-        ]
+        ],
+        "telegram_groups": [
+            "vionaswap"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb3c6efa9742a2afbd196cc23e02f870c04f4d7b9",
@@ -143671,7 +143675,8 @@
         ],
         "holders": {
             "ETH": 49
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xec72528d10a2d8a3964645c8cdccea9aa271bb0a",
@@ -143682,7 +143687,11 @@
         },
         "web_domains": [
             "memeinator.com"
-        ]
+        ],
+        "telegram_groups": [
+            "MemeinatorOfficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0266a7d8cb2262224a8e96b894dfa01be50000d6",
@@ -143705,6 +143714,7 @@
         ],
         "holders": {
             "ETH": 53
-        }
+        },
+        "p6": true
     }
 ]
