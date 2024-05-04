@@ -142729,5 +142729,67 @@
         "holders": {
             "ETH": 353
         }
+    },
+    {
+        "contract_address": "0x40a08c93a1c6a1510d2f339c8c1765cd116f9a1a",
+        "date_add": "2024-05-04 00:15:23",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0x682f3317a8db21ba205dc84a0b7bd5010333bda7",
+        "date_add": "2024-05-04 00:15:23",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 304
+        }
+    },
+    {
+        "contract_address": "0xfa2562da1bba7b954f26c74725df51fb62646313",
+        "date_add": "2024-05-04 00:15:23",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 351
+        }
+    },
+    {
+        "contract_address": "0x261e4414edebe55c5c3f504b020a3e3d9eb46943",
+        "date_add": "2024-05-04 00:15:23",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "colonies.cc"
+        ],
+        "telegram_groups": [
+            "OGUSAETH"
+        ],
+        "holders": {
+            "ETH": 54
+        }
+    },
+    {
+        "contract_address": "0x965b85d4674f64422c4898c8f8083187f02b32c0",
+        "date_add": "2024-05-04 00:15:23",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2381
+        }
+    },
+    {
+        "contract_address": "0xfdce70764ffad176b710616ca4a00a24c96b1e8e",
+        "date_add": "2024-05-04 00:15:23",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 38
+        }
+    },
+    {
+        "contract_address": "0x28218b8e8637baf43e0f08172fd00d60d9ab5908",
+        "date_add": "2024-05-04 00:15:23",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 200
+        }
     }
 ]
