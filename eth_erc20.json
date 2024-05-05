@@ -144035,7 +144035,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 30
-        }
+        },
+        "web_domains": [
+            "disfold.com"
+        ]
     },
     {
         "contract_address": "0xbe3ca34d0e877a1fc889bd5231d65477779aff4e",
