@@ -144166,7 +144166,8 @@
         ],
         "holders": {
             "ETH": 251
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x96e99106d9c58573171dd6c19d767d2ae7ec0435",
@@ -144177,7 +144178,9 @@
         },
         "web_domains": [
             "parisjetaime.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa33cecd735b4ba365de891fc0aa6d7e702ab8ad8",
@@ -144191,7 +144194,8 @@
         ],
         "holders": {
             "ETH": 71
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0e28ed847fcc7cedc856a7fd15d5e202f7514fb5",
@@ -144205,6 +144209,7 @@
         ],
         "holders": {
             "ETH": 159
-        }
+        },
+        "p6": true
     }
 ]
