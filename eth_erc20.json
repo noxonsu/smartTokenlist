@@ -143955,5 +143955,73 @@
         "holders": {
             "ETH": 0
         }
+    },
+    {
+        "contract_address": "0xdb239db28a50010bd5e8c7ac8d6953ca0bfc1c97",
+        "date_add": "2024-05-05 04:05:20",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bitcointalk.org",
+            "clarkerc20.com"
+        ],
+        "telegram_groups": [
+            "clarkgthedog"
+        ],
+        "holders": {
+            "ETH": 464
+        }
+    },
+    {
+        "contract_address": "0xfd9eb2a64fa3af8f31a6ee13323cd31c0633407a",
+        "date_add": "2024-05-05 04:05:20",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.powerofethereum.com"
+        ],
+        "telegram_groups": [
+            "PowerOfEthereumErc"
+        ],
+        "holders": {
+            "ETH": 22
+        }
+    },
+    {
+        "contract_address": "0x112009368d206d8eaae869bc3acc65740e5b7db3",
+        "date_add": "2024-05-05 04:05:20",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "news.ycombinator.com",
+            "runningbitcoin.site"
+        ],
+        "telegram_groups": [
+            "halfin_eth"
+        ],
+        "holders": {
+            "ETH": 103
+        }
+    },
+    {
+        "contract_address": "0x77776b40c3d75cb07ce54dea4b2fd1d07f865222",
+        "date_add": "2024-05-05 04:05:20",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 108
+        }
+    },
+    {
+        "contract_address": "0x5bf13c91ca4e007f32c5d9e800d36ed69082fc5d",
+        "date_add": "2024-05-05 04:05:20",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 433
+        }
+    },
+    {
+        "contract_address": "0xfffdaa42568c2032616ba7061c690e9dccf6bdea",
+        "date_add": "2024-05-05 04:05:20",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
     }
 ]
