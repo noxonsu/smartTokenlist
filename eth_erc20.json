@@ -144429,7 +144429,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 221
-        }
+        },
+        "web_domains": [
+            "sator.io"
+        ]
     },
     {
         "contract_address": "0x91d509905e3b4c66424042cdfa799797923bb0bd",
@@ -144478,7 +144481,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 23
-        }
+        },
+        "web_domains": [
+            "crestalhealth.com"
+        ]
     },
     {
         "contract_address": "0xea5eb460c0ff3ee6852fb72af43aa0fa1e0975f2",
@@ -144508,6 +144514,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 12
-        }
+        },
+        "web_domains": [
+            "drakerelated.com"
+        ]
     }
 ]
