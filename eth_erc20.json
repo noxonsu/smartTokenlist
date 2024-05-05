@@ -144232,7 +144232,8 @@
         },
         "web_domains": [
             "askmarvin.ai"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x009a09f78b8fc2a9a1a9c1ca91bc04febeb9a000",
@@ -144251,7 +144252,9 @@
         },
         "web_domains": [
             "editionrecords.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0bcff8b239fc3ef8e0bf836cb179ae7bdbdb89dd",
@@ -144266,7 +144269,8 @@
         ],
         "holders": {
             "ETH": 77
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe6ea54ba959bf7a65f00c7391818a97e4a81952b",
@@ -144277,7 +144281,11 @@
         },
         "web_domains": [
             "pulsechain.com"
-        ]
+        ],
+        "telegram_groups": [
+            "PulseChainCom"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x406944c27539b0ef1598b7f2daa6ce7ea3fadcf2",
@@ -144291,7 +144299,8 @@
         ],
         "holders": {
             "ETH": 75
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xfd979c8c2b4b42bf6bec5191a413ab800c767602",
@@ -144310,6 +144319,8 @@
         },
         "web_domains": [
             "tittybingo.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
