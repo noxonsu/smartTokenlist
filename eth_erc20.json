@@ -144600,7 +144600,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 24
-        }
+        },
+        "web_domains": [
+            "pupstoken.com"
+        ]
     },
     {
         "contract_address": "0x844605368ae6d90784a49c79439ebd64c098ca90",
@@ -144622,7 +144625,10 @@
         ],
         "holders": {
             "ETH": 120
-        }
+        },
+        "web_domains": [
+            "griffin.de"
+        ]
     },
     {
         "contract_address": "0xeca60a11c49486088ad7c5e4ad7dae2c061dbb1c",
