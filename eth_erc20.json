@@ -144098,7 +144098,10 @@
         ],
         "holders": {
             "ETH": 284
-        }
+        },
+        "web_domains": [
+            "paws4people.org"
+        ]
     },
     {
         "contract_address": "0x64985ddc78861efe23cd765f69ec33877553b58d",
