@@ -144153,5 +144153,55 @@
         "holders": {
             "ETH": 2
         }
+    },
+    {
+        "contract_address": "0x7d078b60fdb4f2f4cebc527e83d10ff5df51eb9d",
+        "date_add": "2024-05-05 10:04:59",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "elsaerc20.com"
+        ],
+        "telegram_groups": [
+            "elsaerc20"
+        ],
+        "holders": {
+            "ETH": 251
+        }
+    },
+    {
+        "contract_address": "0x96e99106d9c58573171dd6c19d767d2ae7ec0435",
+        "date_add": "2024-05-05 10:04:59",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 143
+        }
+    },
+    {
+        "contract_address": "0xa33cecd735b4ba365de891fc0aa6d7e702ab8ad8",
+        "date_add": "2024-05-05 10:04:59",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "rishu.cash"
+        ],
+        "telegram_groups": [
+            "rishucoin"
+        ],
+        "holders": {
+            "ETH": 71
+        }
+    },
+    {
+        "contract_address": "0x0e28ed847fcc7cedc856a7fd15d5e202f7514fb5",
+        "date_add": "2024-05-05 10:04:59",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.bookofpresident.xyz"
+        ],
+        "telegram_groups": [
+            "BookOfPresidentserc"
+        ],
+        "holders": {
+            "ETH": 159
+        }
     }
 ]
