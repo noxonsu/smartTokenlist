@@ -143716,5 +143716,127 @@
             "ETH": 53
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x65a12a8bb4dcfb6eafffd57cd0d4649864cb27f4",
+        "date_add": "2024-05-05 00:16:50",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 36
+        }
+    },
+    {
+        "contract_address": "0x36eace3bc3111288fdc6d2d4acc6f9cdd5bab957",
+        "date_add": "2024-05-05 00:16:50",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "URSULAFURIE_ERC"
+        ],
+        "holders": {
+            "ETH": 131
+        }
+    },
+    {
+        "contract_address": "0xe7593f6439dac6b6c252de4ec4ea6287859d71bc",
+        "date_add": "2024-05-05 00:16:50",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "arky-coin.com"
+        ],
+        "holders": {
+            "ETH": 70
+        }
+    },
+    {
+        "contract_address": "0x3ea6680e1886344d01f3f72d6f61f76b4712bf10",
+        "date_add": "2024-05-05 00:16:50",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x5f9256d81814eefa1dd67ad376e3150fb121732a",
+        "date_add": "2024-05-05 00:16:50",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x7815a942799739eb05b446739b6fc8f025045832",
+        "date_add": "2024-05-05 00:16:50",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "FranFinneyERC"
+        ],
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0x3c522221203916211af9f53d77b7b66cbab963b1",
+        "date_add": "2024-05-05 00:16:50",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "thegeneraltheo.xyz"
+        ],
+        "telegram_groups": [
+            "TheGeneralTheo"
+        ],
+        "holders": {
+            "ETH": 197
+        }
+    },
+    {
+        "contract_address": "0xb2be0c829da5489a6c1d8a8c7e742b443384a772",
+        "date_add": "2024-05-05 00:16:50",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0xc4eba26a030d9520e494d88ab46115ff5956f584",
+        "date_add": "2024-05-05 00:16:50",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 34
+        }
+    },
+    {
+        "contract_address": "0x91daa60fcf1b574d18e5278250456bdd9fd88ed3",
+        "date_add": "2024-05-05 00:16:50",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xe944275b7ab41954db958188736c5dd38d391154",
+        "date_add": "2024-05-05 00:16:50",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "PepeShibaTG"
+        ],
+        "holders": {
+            "ETH": 448
+        }
+    },
+    {
+        "contract_address": "0x8f006d1e1d9dc6c98996f50a4c810f17a47fbf19",
+        "date_add": "2024-05-05 00:16:50",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 209
+        }
+    },
+    {
+        "contract_address": "0x2099f022ac19d71503c8b2ef65498704f7dcb5d3",
+        "date_add": "2024-05-05 00:16:50",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 27
+        }
     }
 ]
