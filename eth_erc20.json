@@ -144229,7 +144229,10 @@
         ],
         "holders": {
             "ETH": 38
-        }
+        },
+        "web_domains": [
+            "askmarvin.ai"
+        ]
     },
     {
         "contract_address": "0x009a09f78b8fc2a9a1a9c1ca91bc04febeb9a000",
@@ -144245,7 +144248,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 34
-        }
+        },
+        "web_domains": [
+            "editionrecords.com"
+        ]
     },
     {
         "contract_address": "0x0bcff8b239fc3ef8e0bf836cb179ae7bdbdb89dd",
@@ -144268,7 +144274,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 11
-        }
+        },
+        "web_domains": [
+            "pulsechain.com"
+        ]
     },
     {
         "contract_address": "0x406944c27539b0ef1598b7f2daa6ce7ea3fadcf2",
@@ -144298,6 +144307,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 35
-        }
+        },
+        "web_domains": [
+            "tittybingo.com"
+        ]
     }
 ]
