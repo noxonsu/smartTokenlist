@@ -143879,5 +143879,64 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x5510d26c504b21ef22ca85b7125390bc23ca50e7",
+        "date_add": "2024-05-05 02:14:47",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1189
+        }
+    },
+    {
+        "contract_address": "0x70e4fd7b43caf532d3b4ef88e21d86fc63a9e3b6",
+        "date_add": "2024-05-05 02:14:47",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x42069ab7b08c2f3e5a766b2405ba5c2914759811",
+        "date_add": "2024-05-05 02:14:47",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Zuzu_Coin"
+        ],
+        "holders": {
+            "ETH": 73
+        }
+    },
+    {
+        "contract_address": "0x2e91e751d5ce8635a02ab308d4484b4891da0a26",
+        "date_add": "2024-05-05 02:14:47",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0x0e186357c323c806c1efdad36d217f7a54b63d18",
+        "date_add": "2024-05-05 02:14:47",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 838
+        }
+    },
+    {
+        "contract_address": "0x1edb8bded80e1b87ed19ee7d97ee80b4fdb615c1",
+        "date_add": "2024-05-05 02:14:47",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xab79226e4fbd6d299316c0964be9f417c8f920c9",
+        "date_add": "2024-05-05 02:14:47",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
     }
 ]
