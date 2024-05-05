@@ -144101,7 +144101,11 @@
         },
         "web_domains": [
             "paws4people.org"
-        ]
+        ],
+        "emails": [
+            "info@paws4people.org"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x64985ddc78861efe23cd765f69ec33877553b58d",
@@ -144131,7 +144135,8 @@
         ],
         "holders": {
             "ETH": 16
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x068aff98f09240d0218b8e31ac96dab20e5957ac",
