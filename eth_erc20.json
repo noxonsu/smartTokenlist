@@ -144340,7 +144340,9 @@
         },
         "web_domains": [
             "eigenpie.xyz"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x28be7e8cd8125cb7a74d2002a5862e1bfd774cd9",
@@ -144351,7 +144353,20 @@
         },
         "web_domains": [
             "shibarmystrong.com"
-        ]
+        ],
+        "telegram_groups": [
+            "Turk14533",
+            "KURTBEY66",
+            "OnurAlc",
+            "ShibArmy_SAS",
+            "Ugur12000",
+            "OmerBay44",
+            "KaanKOZANn"
+        ],
+        "emails": [
+            "info@shibarmystrong.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1bd295e533522ea0ec23320ef44b01f06301c778",
@@ -144397,6 +144412,7 @@
         ],
         "holders": {
             "ETH": 95
-        }
+        },
+        "p6": true
     }
 ]
