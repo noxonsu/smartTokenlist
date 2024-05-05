@@ -143861,7 +143861,11 @@
         },
         "web_domains": [
             "pleasurecoin.com"
-        ]
+        ],
+        "telegram_groups": [
+            "pleasurecoin_crypto"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2099f022ac19d71503c8b2ef65498704f7dcb5d3",
@@ -143872,6 +143876,8 @@
         },
         "web_domains": [
             "kingkongbroadway.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
