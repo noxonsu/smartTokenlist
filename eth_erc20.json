@@ -144211,5 +144211,93 @@
             "ETH": 159
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x86153d4d94ce8e4702a449abfc6d1f31c548ac8b",
+        "date_add": "2024-05-05 12:05:22",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 845
+        }
+    },
+    {
+        "contract_address": "0x6969272ea59a95884371d88600cd793b5169affd",
+        "date_add": "2024-05-05 12:05:22",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "MARVINXFoundersDog"
+        ],
+        "holders": {
+            "ETH": 38
+        }
+    },
+    {
+        "contract_address": "0x009a09f78b8fc2a9a1a9c1ca91bc04febeb9a000",
+        "date_add": "2024-05-05 12:05:22",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 121
+        }
+    },
+    {
+        "contract_address": "0x5f435dc950eab18d99f72641ed75ac68f31a25cf",
+        "date_add": "2024-05-05 12:05:22",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 34
+        }
+    },
+    {
+        "contract_address": "0x0bcff8b239fc3ef8e0bf836cb179ae7bdbdb89dd",
+        "date_add": "2024-05-05 12:05:22",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nftnow.com",
+            "quantumnfterc.com"
+        ],
+        "telegram_groups": [
+            "quantumnfterc20"
+        ],
+        "holders": {
+            "ETH": 77
+        }
+    },
+    {
+        "contract_address": "0xe6ea54ba959bf7a65f00c7391818a97e4a81952b",
+        "date_add": "2024-05-05 12:05:22",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0x406944c27539b0ef1598b7f2daa6ce7ea3fadcf2",
+        "date_add": "2024-05-05 12:05:22",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "katethecat.vip"
+        ],
+        "telegram_groups": [
+            "katethecatETH"
+        ],
+        "holders": {
+            "ETH": 75
+        }
+    },
+    {
+        "contract_address": "0xfd979c8c2b4b42bf6bec5191a413ab800c767602",
+        "date_add": "2024-05-05 12:05:22",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0xbffb72d774f61ed4042420da0fb77785b39ccb8f",
+        "date_add": "2024-05-05 12:05:22",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 35
+        }
     }
 ]
