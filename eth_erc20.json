@@ -144337,7 +144337,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 32
-        }
+        },
+        "web_domains": [
+            "eigenpie.xyz"
+        ]
     },
     {
         "contract_address": "0x28be7e8cd8125cb7a74d2002a5862e1bfd774cd9",
@@ -144345,7 +144348,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 116
-        }
+        },
+        "web_domains": [
+            "shibarmystrong.com"
+        ]
     },
     {
         "contract_address": "0x1bd295e533522ea0ec23320ef44b01f06301c778",
