@@ -144414,5 +144414,100 @@
             "ETH": 95
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xa63f8bc44f4c8999f61ab986d9dc3a2635f80da9",
+        "date_add": "2024-05-05 16:04:23",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 484
+        }
+    },
+    {
+        "contract_address": "0x3ef389f264e07fff3106a3926f2a166d1393086f",
+        "date_add": "2024-05-05 16:04:23",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 221
+        }
+    },
+    {
+        "contract_address": "0x91d509905e3b4c66424042cdfa799797923bb0bd",
+        "date_add": "2024-05-05 16:04:23",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dogofmeme.com"
+        ],
+        "telegram_groups": [
+            "DogofMeme"
+        ],
+        "holders": {
+            "ETH": 242
+        }
+    },
+    {
+        "contract_address": "0xb5a7d8c7f85bb48fcf10ad5c3efb090a3fe40069",
+        "date_add": "2024-05-05 16:04:23",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x59df20be61e4d74db96f247e6e57e2667bbf0d92",
+        "date_add": "2024-05-05 16:04:23",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 52
+        }
+    },
+    {
+        "contract_address": "0xc4d4d49eab3d33a9a499f212106e871eb03190cf",
+        "date_add": "2024-05-05 16:04:23",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pepe.vip"
+        ],
+        "holders": {
+            "ETH": 60
+        }
+    },
+    {
+        "contract_address": "0x65bd4dce18daac86dcf666cc1e127789d21e2777",
+        "date_add": "2024-05-05 16:04:23",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 23
+        }
+    },
+    {
+        "contract_address": "0xea5eb460c0ff3ee6852fb72af43aa0fa1e0975f2",
+        "date_add": "2024-05-05 16:04:23",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "muskbio.org"
+        ],
+        "telegram_groups": [
+            "BioErcPortal"
+        ],
+        "holders": {
+            "ETH": 214
+        }
+    },
+    {
+        "contract_address": "0x65ca08479274387b6179d239fd93bbc424982a55",
+        "date_add": "2024-05-05 16:04:23",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 962
+        }
+    },
+    {
+        "contract_address": "0x709fbb7903d631be0cc03eaa3b8711aa39244c8f",
+        "date_add": "2024-05-05 16:04:23",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12
+        }
     }
 ]
