@@ -143734,7 +143734,10 @@
         ],
         "holders": {
             "ETH": 131
-        }
+        },
+        "web_domains": [
+            "ursulafurie.xyz"
+        ]
     },
     {
         "contract_address": "0xe7593f6439dac6b6c252de4ec4ea6287859d71bc",
@@ -143772,7 +143775,10 @@
         ],
         "holders": {
             "ETH": 7
-        }
+        },
+        "web_domains": [
+            "stacker.news"
+        ]
     },
     {
         "contract_address": "0x3c522221203916211af9f53d77b7b66cbab963b1",
@@ -143794,7 +143800,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 30
-        }
+        },
+        "web_domains": [
+            "projectmisty.org"
+        ]
     },
     {
         "contract_address": "0xc4eba26a030d9520e494d88ab46115ff5956f584",
@@ -143802,7 +143811,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 34
-        }
+        },
+        "web_domains": [
+            "grumpycat.meme"
+        ]
     },
     {
         "contract_address": "0x91daa60fcf1b574d18e5278250456bdd9fd88ed3",
@@ -143829,7 +143841,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 209
-        }
+        },
+        "web_domains": [
+            "pleasurecoin.com"
+        ]
     },
     {
         "contract_address": "0x2099f022ac19d71503c8b2ef65498704f7dcb5d3",
@@ -143837,6 +143852,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 27
-        }
+        },
+        "web_domains": [
+            "kingkongbroadway.com"
+        ]
     }
 ]
