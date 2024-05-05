@@ -144028,5 +144028,59 @@
         "holders": {
             "ETH": 11
         }
+    },
+    {
+        "contract_address": "0x63dece5a5ce6c6443463e9bb7abc244832c67f63",
+        "date_add": "2024-05-05 06:04:43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0xbe3ca34d0e877a1fc889bd5231d65477779aff4e",
+        "date_add": "2024-05-05 06:04:43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x0644d137cf049e1453a417e0c9b9da86e9e4f3c0",
+        "date_add": "2024-05-05 06:04:43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 301
+        }
+    },
+    {
+        "contract_address": "0x5aa158404fed6b4730c13f49d3a7f820e14a636f",
+        "date_add": "2024-05-05 06:04:43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 615
+        }
+    },
+    {
+        "contract_address": "0xb74ee901c2b0a04d75d38f7f4722e8a848e613b9",
+        "date_add": "2024-05-05 06:04:43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0x1f23f152624d275bc9e9917106e5c0ff8eeae067",
+        "date_add": "2024-05-05 06:04:43",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "99bitcoins.com"
+        ],
+        "telegram_groups": [
+            "ELSA_DOG"
+        ],
+        "holders": {
+            "ETH": 127
+        }
     }
 ]
