@@ -144174,7 +144174,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 143
-        }
+        },
+        "web_domains": [
+            "parisjetaime.com"
+        ]
     },
     {
         "contract_address": "0xa33cecd735b4ba365de891fc0aa6d7e702ab8ad8",
