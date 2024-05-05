@@ -144432,7 +144432,11 @@
         },
         "web_domains": [
             "sator.io"
-        ]
+        ],
+        "telegram_groups": [
+            "SatorSAO"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x91d509905e3b4c66424042cdfa799797923bb0bd",
@@ -144446,7 +144450,8 @@
         ],
         "holders": {
             "ETH": 242
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb5a7d8c7f85bb48fcf10ad5c3efb090a3fe40069",
@@ -144473,7 +144478,11 @@
         ],
         "holders": {
             "ETH": 60
-        }
+        },
+        "telegram_groups": [
+            "enterpepe"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x65bd4dce18daac86dcf666cc1e127789d21e2777",
@@ -144484,7 +144493,9 @@
         },
         "web_domains": [
             "crestalhealth.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xea5eb460c0ff3ee6852fb72af43aa0fa1e0975f2",
@@ -144498,7 +144509,8 @@
         ],
         "holders": {
             "ETH": 214
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x65ca08479274387b6179d239fd93bbc424982a55",
@@ -144517,6 +144529,8 @@
         },
         "web_domains": [
             "drakerelated.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
