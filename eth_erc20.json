@@ -144833,7 +144833,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 114
-        }
+        },
+        "web_domains": [
+            "treatwithtrud.com"
+        ]
     },
     {
         "contract_address": "0xe595ba7a8c8ff457e958baa01eb1c3e36c2a88b7",
