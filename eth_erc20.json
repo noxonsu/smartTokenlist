@@ -144541,11 +144541,14 @@
             "zydio.ai"
         ],
         "telegram_groups": [
+            "zydioai",
+            "ZydioBot",
             "ZydioAI"
         ],
         "holders": {
             "ETH": 229
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xbcd572cd7e56ac82e762214415da2b6f1d51e6de",
@@ -144559,7 +144562,8 @@
         ],
         "holders": {
             "ETH": 16
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x74e93330243fb87c5f5c4787d949b80c6cfc8f8f",
@@ -144592,7 +144596,8 @@
         ],
         "holders": {
             "ETH": 8
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6821887d0bab40f20ce85a8e9f48b7cdd40e8ff4",
@@ -144603,7 +144608,11 @@
         },
         "web_domains": [
             "pupstoken.com"
-        ]
+        ],
+        "telegram_groups": [
+            "pupsworldpeace"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x844605368ae6d90784a49c79439ebd64c098ca90",
@@ -144628,7 +144637,8 @@
         },
         "web_domains": [
             "griffin.de"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xeca60a11c49486088ad7c5e4ad7dae2c061dbb1c",
@@ -144654,10 +144664,13 @@
             "zydio.ai"
         ],
         "telegram_groups": [
+            "zydioai",
+            "ZydioBot",
             "ZydioAI"
         ],
         "holders": {
             "ETH": 19
-        }
+        },
+        "p6": true
     }
 ]
