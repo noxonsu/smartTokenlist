@@ -109219,8 +109219,8 @@
             "erctalkingdog.com"
         ],
         "telegram_groups": [
-            "tdogerc20",
-            "BellsCoin"
+            "BellsCoin",
+            "tdogerc20"
         ],
         "holders": {
             "ETH": 108
@@ -143965,11 +143965,14 @@
             "clarkerc20.com"
         ],
         "telegram_groups": [
-            "clarkgthedog"
+            "clarkgthedog",
+            "BellsCoin",
+            "tdogerc20"
         ],
         "holders": {
             "ETH": 464
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xfd9eb2a64fa3af8f31a6ee13323cd31c0633407a",
@@ -143983,7 +143986,8 @@
         ],
         "holders": {
             "ETH": 22
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x112009368d206d8eaae869bc3acc65740e5b7db3",
@@ -143998,7 +144002,8 @@
         ],
         "holders": {
             "ETH": 103
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x77776b40c3d75cb07ce54dea4b2fd1d07f865222",
