@@ -144710,7 +144710,8 @@
         ],
         "holders": {
             "ETH": 185
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xfcfbdfc892839c5f3ac30b1421cb5ca3169af69d",
@@ -144724,7 +144725,8 @@
         ],
         "holders": {
             "ETH": 42
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7b7b1d45708ddb5908d74924555022b3e5c33442",
@@ -144735,7 +144737,14 @@
         },
         "web_domains": [
             "echooo-coin.com"
-        ]
+        ],
+        "telegram_groups": [
+            "EchoooCoin"
+        ],
+        "emails": [
+            "Support@echooo-coin.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb167b290d172eb33e221309592df0c042ab9dcdd",
