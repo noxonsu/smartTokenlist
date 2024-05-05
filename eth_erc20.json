@@ -144088,5 +144088,62 @@
             "ETH": 127
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x2509eecc846e9ddca7a71a9123abeaa936ff39c6",
+        "date_add": "2024-05-05 08:04:42",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Layladogerc20"
+        ],
+        "holders": {
+            "ETH": 284
+        }
+    },
+    {
+        "contract_address": "0x64985ddc78861efe23cd765f69ec33877553b58d",
+        "date_add": "2024-05-05 08:04:42",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0xf93f5e23bf4bd8f10f0d4e97cc676440de14af51",
+        "date_add": "2024-05-05 08:04:42",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 449
+        }
+    },
+    {
+        "contract_address": "0x0b88eba7f4f354d1428faa5735c946f8ea139cc5",
+        "date_add": "2024-05-05 08:04:42",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "rishu.cash"
+        ],
+        "telegram_groups": [
+            "rishucoin"
+        ],
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0x068aff98f09240d0218b8e31ac96dab20e5957ac",
+        "date_add": "2024-05-05 08:04:42",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 333
+        }
+    },
+    {
+        "contract_address": "0x32ecc02da852f118966d0cd6d198a3b7d333aa78",
+        "date_add": "2024-05-05 08:04:42",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
     }
 ]
