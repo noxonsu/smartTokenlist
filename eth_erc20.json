@@ -143908,7 +143908,8 @@
         },
         "web_domains": [
             "experiencezuzu.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2e91e751d5ce8635a02ab308d4484b4891da0a26",
@@ -143919,7 +143920,9 @@
         },
         "web_domains": [
             "bdj.pensoft.net"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0e186357c323c806c1efdad36d217f7a54b63d18",
@@ -143938,7 +143941,12 @@
         },
         "web_domains": [
             "ens.domains"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "press@ens.domains"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xab79226e4fbd6d299316c0964be9f417c8f920c9",
