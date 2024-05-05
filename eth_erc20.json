@@ -144322,5 +144322,75 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xb2c0dea812845717a992ab368f5680eda926249c",
+        "date_add": "2024-05-05 14:04:01",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 176
+        }
+    },
+    {
+        "contract_address": "0x18f313fc6afc9b5fd6f0908c1b3d476e3fea1dd9",
+        "date_add": "2024-05-05 14:04:01",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0x28be7e8cd8125cb7a74d2002a5862e1bfd774cd9",
+        "date_add": "2024-05-05 14:04:01",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 116
+        }
+    },
+    {
+        "contract_address": "0x1bd295e533522ea0ec23320ef44b01f06301c778",
+        "date_add": "2024-05-05 14:04:01",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.uefa.com",
+            "albarterc20.com"
+        ],
+        "telegram_groups": [
+            "AlbartErc20"
+        ],
+        "holders": {
+            "ETH": 520
+        }
+    },
+    {
+        "contract_address": "0x554a8546b4947f7f500f21538722bdcbb1f37cbb",
+        "date_add": "2024-05-05 14:04:01",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 239
+        }
+    },
+    {
+        "contract_address": "0x5448935db521f2346a829e3e187c7b9436b07915",
+        "date_add": "2024-05-05 14:04:01",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x133f76b75462a7415133892841c42ac2da55f7ab",
+        "date_add": "2024-05-05 14:04:01",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "parisjetaime.com",
+            "phrygeerc.xyz"
+        ],
+        "telegram_groups": [
+            "PhrygeErc"
+        ],
+        "holders": {
+            "ETH": 95
+        }
     }
 ]
