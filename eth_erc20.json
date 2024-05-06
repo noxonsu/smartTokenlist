@@ -145653,7 +145653,8 @@
         ],
         "holders": {
             "ETH": 141
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x658d15053997008815752cd08b7ee1fca97d3dc2",
@@ -145663,11 +145664,16 @@
             "bookoffurie.com"
         ],
         "telegram_groups": [
-            "bookoffurie"
+            "landwolf_ox",
+            "raymondpettibon",
+            "bookoffurie",
+            "Alexa_cryptoETH",
+            "Gerry_swag"
         ],
         "holders": {
             "ETH": 46
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1c5f80b6b68a9e1ef25926eee00b5255791b996b",
@@ -145713,7 +145719,8 @@
         ],
         "holders": {
             "ETH": 7
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf2893e61bf22378c8d4a8f92924e93e5e133b0bb",
@@ -145743,7 +145750,8 @@
         },
         "web_domains": [
             "capyera.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xab6956b7e8cb0169bb34ea4fee4c0500cd9e7d4b",
@@ -145754,7 +145762,11 @@
         },
         "web_domains": [
             "layerai.org"
-        ]
+        ],
+        "telegram_groups": [
+            "LayerAI_org"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1ca2244c37edc106115f03747457b9c4ac3fa2b7",
@@ -145779,7 +145791,8 @@
         ],
         "holders": {
             "ETH": 155
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3ee54f8ddbd7e6329886c0c8b829c42dadffe6c1",
