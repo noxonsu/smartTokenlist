@@ -144893,5 +144893,43 @@
         "holders": {
             "ETH": 111
         }
+    },
+    {
+        "contract_address": "0xf531216bd74593f7734475176c2a0243a8c9fd33",
+        "date_add": "2024-05-06 00:16:00",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 36
+        }
+    },
+    {
+        "contract_address": "0x0aa7673f38d8d2b164b51d4ec12860eb2ff142a6",
+        "date_add": "2024-05-06 00:16:00",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 31
+        }
+    },
+    {
+        "contract_address": "0x5900de8918b7b0b34ad53474a1b6af5cc897aa01",
+        "date_add": "2024-05-06 00:16:00",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Testingexpandedbio"
+        ],
+        "holders": {
+            "ETH": 243
+        }
+    },
+    {
+        "contract_address": "0x507ef31852cd2e107d21727d1e5ed40177d0c5e1",
+        "date_add": "2024-05-06 00:16:00",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "AGI_Portal"
+        ],
+        "holders": {
+            "ETH": 327
+        }
     }
 ]
