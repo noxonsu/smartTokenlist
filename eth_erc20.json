@@ -144987,5 +144987,57 @@
             "Copyright \u00a9 2024 - TrumpAI, email : dev@trumpai.org"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x66d79b8f60ec93bfce0b56f5ac14a2714e509a99",
+        "date_add": "2024-05-06 04:04:41",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18
+        }
+    },
+    {
+        "contract_address": "0x2c726d6bf56d5c016f37967016117942be2cb955",
+        "date_add": "2024-05-06 04:04:41",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.ancestorofpepe.vip"
+        ],
+        "telegram_groups": [
+            "aop_erc"
+        ],
+        "holders": {
+            "ETH": 100
+        }
+    },
+    {
+        "contract_address": "0xc51cbba637831fdf1ea7da128d6da6b3a7962dfa",
+        "date_add": "2024-05-06 04:04:41",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bitcointalk.org"
+        ],
+        "telegram_groups": [
+            "BELLS_dog"
+        ],
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0xd3ea1704d50a657f4a89a0e04e84332883f9911f",
+        "date_add": "2024-05-06 04:04:41",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "prompton.xyz",
+            "docs.prompton.xyz"
+        ],
+        "telegram_groups": [
+            "Prompton",
+            "Prompton_Bot"
+        ],
+        "holders": {
+            "ETH": 228
+        }
     }
 ]
