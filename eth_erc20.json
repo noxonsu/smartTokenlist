@@ -145521,7 +145521,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 16
-        }
+        },
+        "web_domains": [
+            "llpleyendapuchaina.com"
+        ]
     },
     {
         "contract_address": "0x21bcb6f4b07c74157ada14b3ba588d968f5e8b14",
@@ -145564,7 +145567,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 28
-        }
+        },
+        "web_domains": [
+            "jackpot.com"
+        ]
     },
     {
         "contract_address": "0x8d137e3337eb1b58a222fef2b2cc7c423903d9cf",
@@ -145583,7 +145589,10 @@
         ],
         "holders": {
             "ETH": 50
-        }
+        },
+        "web_domains": [
+            "cognition.ai"
+        ]
     },
     {
         "contract_address": "0xfd7b6a7915d7947653c229f23c5a2cabe94bca30",
