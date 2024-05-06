@@ -144941,5 +144941,46 @@
         "holders": {
             "ETH": 327
         }
+    },
+    {
+        "contract_address": "0x68cbcb7ccc7e250a642519d274911dbbf49048be",
+        "date_add": "2024-05-06 02:14:26",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x58b19ed484e88e701dc82f448d5e29917c3f26e1",
+        "date_add": "2024-05-06 02:14:26",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 41
+        }
+    },
+    {
+        "contract_address": "0x69420f642b8d412fa3d37b64be5cfef78dc36ded",
+        "date_add": "2024-05-06 02:14:26",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ZeusFurie_Coin"
+        ],
+        "holders": {
+            "ETH": 99
+        }
+    },
+    {
+        "contract_address": "0x93a31fa6f2a2f71c84bc0ca890cc73ab16237a3f",
+        "date_add": "2024-05-06 02:14:26",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "trumpai.org"
+        ],
+        "telegram_groups": [
+            "trumpaiproject"
+        ],
+        "holders": {
+            "ETH": 89
+        }
     }
 ]
