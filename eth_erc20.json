@@ -145882,7 +145882,14 @@
         ],
         "holders": {
             "ETH": 256
-        }
+        },
+        "telegram_groups": [
+            "GraffitiOnETH"
+        ],
+        "emails": [
+            " admin@graffiti.farm"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3eb85285ebc46780a8798149d271633210e61bad",
@@ -145897,7 +145904,8 @@
         ],
         "holders": {
             "ETH": 239
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf70a642bd387f94380ffb90451c2c81d4eb82cbc",
@@ -145930,6 +145938,10 @@
         ],
         "holders": {
             "ETH": 76
-        }
+        },
+        "telegram_groups": [
+            "enterpepe"
+        ],
+        "p6": true
     }
 ]
