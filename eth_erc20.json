@@ -144900,7 +144900,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 36
-        }
+        },
+        "web_domains": [
+            "boomersparks.com"
+        ]
     },
     {
         "contract_address": "0x0aa7673f38d8d2b164b51d4ec12860eb2ff142a6",
@@ -144908,7 +144911,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 31
-        }
+        },
+        "web_domains": [
+            "pepefi.vip"
+        ]
     },
     {
         "contract_address": "0x5900de8918b7b0b34ad53474a1b6af5cc897aa01",
