@@ -145108,5 +145108,64 @@
         "holders": {
             "ETH": 27
         }
+    },
+    {
+        "contract_address": "0x4d93ea7ef293ed2ca2d4cc9723f5e2c0c8e09dec",
+        "date_add": "2024-05-06 08:05:20",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.mode.network",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "ModeNetworkOfficial"
+        ],
+        "holders": {
+            "ETH": 40
+        }
+    },
+    {
+        "contract_address": "0x7da96a3891add058ada2e826306d812c638d87a7",
+        "date_add": "2024-05-06 08:05:20",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 672
+        }
+    },
+    {
+        "contract_address": "0x706987611c5d2052541d64ef8f036916807c916a",
+        "date_add": "2024-05-06 08:05:20",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1056
+        }
+    },
+    {
+        "contract_address": "0x2b0c851fa47a017cca1fd6b059c87bfe8bdaa29f",
+        "date_add": "2024-05-06 08:05:20",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dogerage.xyz"
+        ],
+        "telegram_groups": [
+            "DogeRageETH"
+        ],
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0xcfffcd2c6294bbb01ca55cbb4a281bdcf532c1ce",
+        "date_add": "2024-05-06 08:05:20",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "diamondinu.com"
+        ],
+        "telegram_groups": [
+            "diamondcoinerc"
+        ],
+        "holders": {
+            "ETH": 277
+        }
     }
 ]
