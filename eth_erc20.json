@@ -144977,10 +144977,15 @@
             "trumpai.org"
         ],
         "telegram_groups": [
+            "trumpairobot",
             "trumpaiproject"
         ],
         "holders": {
             "ETH": 89
-        }
+        },
+        "emails": [
+            "Copyright \u00a9 2024 - TrumpAI, email : dev@trumpai.org"
+        ],
+        "p6": true
     }
 ]
