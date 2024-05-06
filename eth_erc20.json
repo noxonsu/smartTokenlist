@@ -145854,7 +145854,9 @@
         ],
         "holders": {
             "ETH": 204
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x83149db0f1172a7d45e39c402b0b09bc921063f5",
@@ -145865,6 +145867,10 @@
         ],
         "holders": {
             "ETH": 14
-        }
+        },
+        "telegram_groups": [
+            "PeapodsFinance"
+        ],
+        "p6": true
     }
 ]
