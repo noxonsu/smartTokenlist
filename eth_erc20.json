@@ -145173,5 +145173,66 @@
             "team@diamondinu.com"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x577a7f7ee659aa14dc16fd384b3f8078e23f1920",
+        "date_add": "2024-05-06 10:04:31",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 50
+        }
+    },
+    {
+        "contract_address": "0xcd68475a160a256a2c0595c36f497b7cd1fc7672",
+        "date_add": "2024-05-06 10:04:31",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x23388cca2bdfc994d75999667e09cc0f5ff1cc88",
+        "date_add": "2024-05-06 10:04:31",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x996a8eba89b80bda69f1c9b1b7ab046b535db8b5",
+        "date_add": "2024-05-06 10:04:31",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pepethebull.pro"
+        ],
+        "telegram_groups": [
+            "pepethebull_Portal"
+        ],
+        "holders": {
+            "ETH": 261
+        }
+    },
+    {
+        "contract_address": "0x47319623f1f6c961768169ce4d9e278e3e394168",
+        "date_add": "2024-05-06 10:04:31",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "drive.google.com",
+            "chonky.site.live"
+        ],
+        "telegram_groups": [
+            "chonkyoneth"
+        ],
+        "holders": {
+            "ETH": 17
+        }
+    },
+    {
+        "contract_address": "0x122c51d4048a89126286059953b109b7988675fb",
+        "date_add": "2024-05-06 10:04:31",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 24
+        }
     }
 ]
