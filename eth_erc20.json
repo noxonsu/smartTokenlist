@@ -145381,7 +145381,11 @@
         ],
         "holders": {
             "ETH": 79
-        }
+        },
+        "emails": [
+            "info@0xrp.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x85c4538d0223b847240dc265fe23b0fbbba8d7f5",
@@ -145392,7 +145396,9 @@
         ],
         "holders": {
             "ETH": 14
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x188e33485dfe5ebb7a43f68fa5af3be8f5d11853",
@@ -145403,7 +145409,12 @@
         },
         "web_domains": [
             "elunmuski.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "info@meusite.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa080b570bb207187a87afdb544e9f24ed0af1c62",
@@ -145414,7 +145425,9 @@
         ],
         "holders": {
             "ETH": 21
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc089ce20cc82083e2cd81c5e9c8e5713289bed48",
@@ -145444,7 +145457,9 @@
         },
         "web_domains": [
             "clearpool.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xcf66d4681c0e668953de093db57a2b2a4ffad778",
@@ -145479,6 +145494,11 @@
         },
         "web_domains": [
             "spec.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "spectrum_protocol_annoucement",
+            "spec_finance"
+        ],
+        "p6": true
     }
 ]
