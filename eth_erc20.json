@@ -144994,7 +144994,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 18
-        }
+        },
+        "web_domains": [
+            "mapprotocol.io"
+        ]
     },
     {
         "contract_address": "0x2c726d6bf56d5c016f37967016117942be2cb955",
