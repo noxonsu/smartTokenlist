@@ -145053,5 +145053,51 @@
             "ETH": 228
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x51404d261ecb1d8a0afb700dce28a049895a2383",
+        "date_add": "2024-05-06 06:05:35",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 142
+        }
+    },
+    {
+        "contract_address": "0x420693cb617669a07d75cdcd174d9260150073c8",
+        "date_add": "2024-05-06 06:05:35",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "MemeLordElonCoin"
+        ],
+        "holders": {
+            "ETH": 65
+        }
+    },
+    {
+        "contract_address": "0xa13f0743951b4f6e3e3aa039f682e17279f52bc3",
+        "date_add": "2024-05-06 06:05:35",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.sentinel-chain.org"
+        ],
+        "holders": {
+            "ETH": 3998
+        }
+    },
+    {
+        "contract_address": "0x71664eb8b1facdbbf93045cdb069a11b925f1666",
+        "date_add": "2024-05-06 06:05:35",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 410
+        }
+    },
+    {
+        "contract_address": "0xdf2a05b0fe75e551241d3cd81aa6be9c679868d9",
+        "date_add": "2024-05-06 06:05:35",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 27
+        }
     }
 ]
