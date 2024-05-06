@@ -145258,7 +145258,11 @@
         ],
         "holders": {
             "ETH": 23
-        }
+        },
+        "telegram_groups": [
+            "NATIXNetwork"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x21d63d94cd604eb405aeb2e4694c7e98531687c3",
@@ -145269,11 +145273,13 @@
             "X.com"
         ],
         "telegram_groups": [
+            "BasedCoinERC",
             "BasedCoinCommunity"
         ],
         "holders": {
             "ETH": 182
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9f23562ec47249761222ef7ac02b327a8c45ba7d",
@@ -145295,7 +145301,8 @@
         ],
         "holders": {
             "ETH": 53
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6469d9c39f3444915b4c1927d857ba61c800dbad",
@@ -145306,7 +145313,9 @@
         ],
         "holders": {
             "ETH": 10
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x1d2f1b22a8db6035c83d92e52dac20c46cfa9b5b",
@@ -145320,7 +145329,8 @@
         ],
         "holders": {
             "ETH": 195
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x42069930b17caf44b885b8cc74ebc9644fc5ad55",
@@ -145330,11 +145340,13 @@
             "gatsbyinuerc.com"
         ],
         "telegram_groups": [
-            "Gatsby_erc20"
+            "Gatsby_erc20",
+            "Gatsby_Portal"
         ],
         "holders": {
             "ETH": 96
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4812c368d8bd22dabb706e5e5986a1b2a7c75c39",
