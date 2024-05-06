@@ -145360,5 +145360,116 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xe9ce934c9fe9d6c3ccd1cd1948f9723296869559",
+        "date_add": "2024-05-06 14:04:53",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 47
+        }
+    },
+    {
+        "contract_address": "0x22db68189989c62871a3897fd2c23bbc6849079d",
+        "date_add": "2024-05-06 14:04:53",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "winterdogtoken.xyz"
+        ],
+        "telegram_groups": [
+            "winteroneth"
+        ],
+        "holders": {
+            "ETH": 79
+        }
+    },
+    {
+        "contract_address": "0x85c4538d0223b847240dc265fe23b0fbbba8d7f5",
+        "date_add": "2024-05-06 14:04:53",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.eigenlayer.xyz"
+        ],
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0x188e33485dfe5ebb7a43f68fa5af3be8f5d11853",
+        "date_add": "2024-05-06 14:04:53",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 107
+        }
+    },
+    {
+        "contract_address": "0xa080b570bb207187a87afdb544e9f24ed0af1c62",
+        "date_add": "2024-05-06 14:04:53",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.createmytoken.com"
+        ],
+        "holders": {
+            "ETH": 21
+        }
+    },
+    {
+        "contract_address": "0xc089ce20cc82083e2cd81c5e9c8e5713289bed48",
+        "date_add": "2024-05-06 14:04:53",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Technokingeth"
+        ],
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0xc8e2fad99061407e947485c846bd05eae9de1991",
+        "date_add": "2024-05-06 14:04:53",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x1a1d778776542c2efed161ba1fbcfe6e09ba99fb",
+        "date_add": "2024-05-06 14:04:53",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 42
+        }
+    },
+    {
+        "contract_address": "0xcf66d4681c0e668953de093db57a2b2a4ffad778",
+        "date_add": "2024-05-06 14:04:53",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x9d314156d07ff9f2043cbb24679a8a82737da11c",
+        "date_add": "2024-05-06 14:04:53",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xdbb90e0ea4ab459a6b8a7f135f6f522ddd87c977",
+        "date_add": "2024-05-06 14:04:53",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xadf7c35560035944e805d98ff17d58cde2449389",
+        "date_add": "2024-05-06 14:04:53",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 196
+        }
     }
 ]
