@@ -145248,5 +145248,100 @@
             "sevenbbroker"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x2116bc152192df8a87eb74dc69aa64f6f476f792",
+        "date_add": "2024-05-06 12:06:19",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.natix.network"
+        ],
+        "holders": {
+            "ETH": 23
+        }
+    },
+    {
+        "contract_address": "0x21d63d94cd604eb405aeb2e4694c7e98531687c3",
+        "date_add": "2024-05-06 12:06:19",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.basedcoin.io",
+            "X.com"
+        ],
+        "telegram_groups": [
+            "BasedCoinCommunity"
+        ],
+        "holders": {
+            "ETH": 182
+        }
+    },
+    {
+        "contract_address": "0x9f23562ec47249761222ef7ac02b327a8c45ba7d",
+        "date_add": "2024-05-06 12:06:19",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 31
+        }
+    },
+    {
+        "contract_address": "0x42069744d00594975926ae9cfb09d5e8343adc08",
+        "date_add": "2024-05-06 12:06:19",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "thepepepredator.com"
+        ],
+        "telegram_groups": [
+            "DoggensnoutSkeptic_ERC"
+        ],
+        "holders": {
+            "ETH": 53
+        }
+    },
+    {
+        "contract_address": "0x6469d9c39f3444915b4c1927d857ba61c800dbad",
+        "date_add": "2024-05-06 12:06:19",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tokentoolbox.app"
+        ],
+        "holders": {
+            "ETH": 10
+        }
+    },
+    {
+        "contract_address": "0x1d2f1b22a8db6035c83d92e52dac20c46cfa9b5b",
+        "date_add": "2024-05-06 12:06:19",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "webcoinxeth.com"
+        ],
+        "telegram_groups": [
+            "webcoinxeth"
+        ],
+        "holders": {
+            "ETH": 195
+        }
+    },
+    {
+        "contract_address": "0x42069930b17caf44b885b8cc74ebc9644fc5ad55",
+        "date_add": "2024-05-06 12:06:19",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "gatsbyinuerc.com"
+        ],
+        "telegram_groups": [
+            "Gatsby_erc20"
+        ],
+        "holders": {
+            "ETH": 96
+        }
+    },
+    {
+        "contract_address": "0x4812c368d8bd22dabb706e5e5986a1b2a7c75c39",
+        "date_add": "2024-05-06 12:06:19",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
