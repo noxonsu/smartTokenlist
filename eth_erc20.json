@@ -145199,7 +145199,9 @@
         },
         "web_domains": [
             "cookwithmanali.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x996a8eba89b80bda69f1c9b1b7ab046b535db8b5",
@@ -145213,7 +145215,8 @@
         ],
         "holders": {
             "ETH": 261
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x47319623f1f6c961768169ce4d9e278e3e394168",
@@ -145228,7 +145231,8 @@
         ],
         "holders": {
             "ETH": 17
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x122c51d4048a89126286059953b109b7988675fb",
@@ -145239,6 +145243,10 @@
         },
         "web_domains": [
             "sevenb.io"
-        ]
+        ],
+        "telegram_groups": [
+            "sevenbbroker"
+        ],
+        "p6": true
     }
 ]
