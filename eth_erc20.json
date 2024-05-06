@@ -145122,7 +145122,8 @@
         ],
         "holders": {
             "ETH": 40
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7da96a3891add058ada2e826306d812c638d87a7",
@@ -145152,7 +145153,8 @@
         ],
         "holders": {
             "ETH": 33
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xcfffcd2c6294bbb01ca55cbb4a281bdcf532c1ce",
@@ -145166,6 +145168,10 @@
         ],
         "holders": {
             "ETH": 277
-        }
+        },
+        "emails": [
+            "team@diamondinu.com"
+        ],
+        "p6": true
     }
 ]
