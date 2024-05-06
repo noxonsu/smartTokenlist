@@ -145500,5 +145500,105 @@
             "spec_finance"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x95a6a41926605baa6295aa0e05d2393179e88b6f",
+        "date_add": "2024-05-06 16:05:30",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bobithedog.com"
+        ],
+        "telegram_groups": [
+            "bobithedogerc"
+        ],
+        "holders": {
+            "ETH": 362
+        }
+    },
+    {
+        "contract_address": "0xcf5b5015cbe4cf5b990a2cf647b1401d12b12d6c",
+        "date_add": "2024-05-06 16:05:30",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0x21bcb6f4b07c74157ada14b3ba588d968f5e8b14",
+        "date_add": "2024-05-06 16:05:30",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x3f829415467bc9e1f4c55ed64c6cd2e6cdb4fac2",
+        "date_add": "2024-05-06 16:05:30",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xca4770a7d6f7aa235873ed6b4283880300c22d7d",
+        "date_add": "2024-05-06 16:05:30",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0x84bb913f2f2a42c9db1a7b77121592fd75452edc",
+        "date_add": "2024-05-06 16:05:30",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "MAIONEERC"
+        ],
+        "holders": {
+            "ETH": 138
+        }
+    },
+    {
+        "contract_address": "0x7b796f19be0d372de58023078cc76e2f76f6aaf0",
+        "date_add": "2024-05-06 16:05:30",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 28
+        }
+    },
+    {
+        "contract_address": "0x8d137e3337eb1b58a222fef2b2cc7c423903d9cf",
+        "date_add": "2024-05-06 16:05:30",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 104
+        }
+    },
+    {
+        "contract_address": "0xff1f00d634337404a383cab8fd1d8e985f4a758d",
+        "date_add": "2024-05-06 16:05:30",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "devinoneth"
+        ],
+        "holders": {
+            "ETH": 50
+        }
+    },
+    {
+        "contract_address": "0xfd7b6a7915d7947653c229f23c5a2cabe94bca30",
+        "date_add": "2024-05-06 16:05:30",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 164
+        }
+    },
+    {
+        "contract_address": "0x8fe815417913a93ea99049fc0718ee1647a2a07c",
+        "date_add": "2024-05-06 16:05:30",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1032
+        }
     }
 ]
