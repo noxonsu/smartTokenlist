@@ -145509,11 +145509,16 @@
             "bobithedog.com"
         ],
         "telegram_groups": [
+            "wendysthefrog",
             "bobithedogerc"
         ],
         "holders": {
             "ETH": 362
-        }
+        },
+        "emails": [
+            "team@Bobithedog.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xcf5b5015cbe4cf5b990a2cf647b1401d12b12d6c",
@@ -145524,7 +145529,9 @@
         },
         "web_domains": [
             "llpleyendapuchaina.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x21bcb6f4b07c74157ada14b3ba588d968f5e8b14",
@@ -145570,7 +145577,9 @@
         },
         "web_domains": [
             "jackpot.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8d137e3337eb1b58a222fef2b2cc7c423903d9cf",
@@ -145592,7 +145601,8 @@
         },
         "web_domains": [
             "cognition.ai"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xfd7b6a7915d7947653c229f23c5a2cabe94bca30",
