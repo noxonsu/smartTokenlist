@@ -145740,7 +145740,10 @@
         ],
         "holders": {
             "ETH": 63
-        }
+        },
+        "web_domains": [
+            "capyera.com"
+        ]
     },
     {
         "contract_address": "0xab6956b7e8cb0169bb34ea4fee4c0500cd9e7d4b",
@@ -145748,7 +145751,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 92
-        }
+        },
+        "web_domains": [
+            "layerai.org"
+        ]
     },
     {
         "contract_address": "0x1ca2244c37edc106115f03747457b9c4ac3fa2b7",
