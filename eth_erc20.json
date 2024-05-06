@@ -145063,7 +145063,9 @@
         },
         "web_domains": [
             "buttcoin.cc"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x420693cb617669a07d75cdcd174d9260150073c8",
@@ -145077,7 +145079,8 @@
         },
         "web_domains": [
             "memelordelon.net"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa13f0743951b4f6e3e3aa039f682e17279f52bc3",
