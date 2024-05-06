@@ -144903,7 +144903,9 @@
         },
         "web_domains": [
             "boomersparks.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0aa7673f38d8d2b164b51d4ec12860eb2ff142a6",
@@ -144914,7 +144916,9 @@
         },
         "web_domains": [
             "pepefi.vip"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x5900de8918b7b0b34ad53474a1b6af5cc897aa01",
