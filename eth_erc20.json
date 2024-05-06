@@ -145872,5 +145872,64 @@
             "PeapodsFinance"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x5138ebe7acaae209d6f0b651e4d02a67ef61f436",
+        "date_add": "2024-05-06 22:04:56",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "graffiti.farm"
+        ],
+        "holders": {
+            "ETH": 256
+        }
+    },
+    {
+        "contract_address": "0x3eb85285ebc46780a8798149d271633210e61bad",
+        "date_add": "2024-05-06 22:04:56",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sourceblock.software",
+            "codesourceblock.medium.com"
+        ],
+        "telegram_groups": [
+            "sourceblock"
+        ],
+        "holders": {
+            "ETH": 239
+        }
+    },
+    {
+        "contract_address": "0xf70a642bd387f94380ffb90451c2c81d4eb82cbc",
+        "date_add": "2024-05-06 22:04:56",
+        "sourceScanned": "processed",
+        "emails": [
+            "info@starbase.co"
+        ],
+        "holders": {
+            "ETH": 5581
+        }
+    },
+    {
+        "contract_address": "0x697ef32b4a3f5a4c39de1cb7563f24ca7bfc5947",
+        "date_add": "2024-05-06 22:04:56",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tokenmint.io"
+        ],
+        "holders": {
+            "ETH": 3505
+        }
+    },
+    {
+        "contract_address": "0x620033bebc2db732e62afb8eac55835f3f23db94",
+        "date_add": "2024-05-06 22:04:56",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pepe.vip"
+        ],
+        "holders": {
+            "ETH": 76
+        }
     }
 ]
