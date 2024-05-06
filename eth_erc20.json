@@ -145060,7 +145060,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 142
-        }
+        },
+        "web_domains": [
+            "buttcoin.cc"
+        ]
     },
     {
         "contract_address": "0x420693cb617669a07d75cdcd174d9260150073c8",
@@ -145071,7 +145074,10 @@
         ],
         "holders": {
             "ETH": 65
-        }
+        },
+        "web_domains": [
+            "memelordelon.net"
+        ]
     },
     {
         "contract_address": "0xa13f0743951b4f6e3e3aa039f682e17279f52bc3",
