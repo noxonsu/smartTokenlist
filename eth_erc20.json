@@ -145196,7 +145196,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "cookwithmanali.com"
+        ]
     },
     {
         "contract_address": "0x996a8eba89b80bda69f1c9b1b7ab046b535db8b5",
@@ -145233,6 +145236,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 24
-        }
+        },
+        "web_domains": [
+            "sevenb.io"
+        ]
     }
 ]
