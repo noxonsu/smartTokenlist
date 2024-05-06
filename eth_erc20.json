@@ -145830,5 +145830,41 @@
         "holders": {
             "ETH": 319
         }
+    },
+    {
+        "contract_address": "0x4fbaf51b95b024d0d7cab575be2a1f0afedc9b64",
+        "date_add": "2024-05-06 20:04:36",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bonketh.io"
+        ],
+        "telegram_groups": [
+            "BonkErc20"
+        ],
+        "holders": {
+            "ETH": 544
+        }
+    },
+    {
+        "contract_address": "0xd6aa0fbdc832c3144eaa126df2c2e60e09fe0403",
+        "date_add": "2024-05-06 20:04:36",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.createmytoken.com"
+        ],
+        "holders": {
+            "ETH": 204
+        }
+    },
+    {
+        "contract_address": "0x83149db0f1172a7d45e39c402b0b09bc921063f5",
+        "date_add": "2024-05-06 20:04:36",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "peapods.finance"
+        ],
+        "holders": {
+            "ETH": 14
+        }
     }
 ]
