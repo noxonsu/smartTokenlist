@@ -145400,7 +145400,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 107
-        }
+        },
+        "web_domains": [
+            "elunmuski.com"
+        ]
     },
     {
         "contract_address": "0xa080b570bb207187a87afdb544e9f24ed0af1c62",
@@ -145438,7 +145441,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 42
-        }
+        },
+        "web_domains": [
+            "clearpool.finance"
+        ]
     },
     {
         "contract_address": "0xcf66d4681c0e668953de093db57a2b2a4ffad778",
@@ -145470,6 +145476,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 196
-        }
+        },
+        "web_domains": [
+            "spec.finance"
+        ]
     }
 ]
