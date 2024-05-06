@@ -145806,7 +145806,11 @@
         ],
         "holders": {
             "ETH": 193
-        }
+        },
+        "emails": [
+            "cat@cat-pocalypse.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d",
