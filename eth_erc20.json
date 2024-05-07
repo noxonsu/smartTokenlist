@@ -146398,7 +146398,12 @@
         },
         "web_domains": [
             "purrhub.lol"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "mk@purrhub.lol"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd7285a74da4cb81ad2a0099c5d09b6d5620b997d",
@@ -146420,7 +146425,8 @@
         ],
         "holders": {
             "ETH": 57
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x411b1d6dbaa582c28fa985f091067a6bc467e635",
@@ -146430,11 +146436,13 @@
             "bonkapes.com"
         ],
         "telegram_groups": [
-            "BONKAPESETH"
+            "BONKAPESETH",
+            "amndngi"
         ],
         "holders": {
             "ETH": 331
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf160e49adc9d2f65a643dc6ecc9850a03ff00504",
@@ -146456,7 +146464,8 @@
         ],
         "holders": {
             "ETH": 33
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9fcdc22f66a87f21c3c2f642502c0a0b78e69ca8",
