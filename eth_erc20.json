@@ -146743,5 +146743,56 @@
             "ETH": 74
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x5651bb75de3c78815d420602b4ce67d04a233873",
+        "date_add": "2024-05-07 20:04:16",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 35
+        }
+    },
+    {
+        "contract_address": "0xdbbec10dd6b2c71fdebe3d01330d468fbd9a1f71",
+        "date_add": "2024-05-07 20:04:16",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 31
+        }
+    },
+    {
+        "contract_address": "0x0f907b81e81a74749a05b218629af4472ce19847",
+        "date_add": "2024-05-07 20:04:16",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0x523af069116e0e7bb10b461ad410ed6a17c0e101",
+        "date_add": "2024-05-07 20:04:16",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xce65465a9b513d0f817162f31b5ebc9a49ff1233",
+        "date_add": "2024-05-07 20:04:16",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wallet.ai"
+        ],
+        "holders": {
+            "ETH": 111
+        }
+    },
+    {
+        "contract_address": "0x2d77f5b3efa51821ad6483adaf38ea4cb1824cc5",
+        "date_add": "2024-05-07 20:04:16",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 67
+        }
     }
 ]
