@@ -146253,7 +146253,9 @@
         },
         "web_domains": [
             "biotium.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8d3f86bb51a505f936ca19aa4d0e2d5eec1722e0",
@@ -146267,7 +146269,8 @@
         ],
         "holders": {
             "ETH": 13
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4aefb39c16b20055edcd650684acddd923c54e6c",
@@ -146281,7 +146284,8 @@
         ],
         "holders": {
             "ETH": 37
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x32a888fb55f159c25e6a4317c3abebb55fba7eac",
@@ -146312,6 +146316,7 @@
         "date_add": "2024-05-07 10:05:03",
         "sourceScanned": "processed",
         "emails": [
+            "info@website.com",
             "goncalo.sa@consensys.net"
         ],
         "holders": {
@@ -146319,7 +146324,11 @@
         },
         "web_domains": [
             "arcade2earn.io"
-        ]
+        ],
+        "telegram_groups": [
+            "arcade2earn"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x10caed5b401e390eda38ef747e55e0a287739fbd",
@@ -146330,7 +146339,9 @@
         },
         "web_domains": [
             "mame-shiba.co.jp"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8e1ac64e28b8a532604880c2f59cd38b1b017aab",
@@ -146349,7 +146360,11 @@
         },
         "web_domains": [
             "chain.link"
-        ]
+        ],
+        "telegram_groups": [
+            "chainlinkofficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbb00bf1fe30d683159b9943ce94dc72ce1a82d69",
