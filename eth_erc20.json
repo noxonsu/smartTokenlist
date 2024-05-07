@@ -146511,7 +146511,8 @@
         ],
         "holders": {
             "ETH": 275
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd46934919d9138d3005c1f8db794f03e7415babd",
