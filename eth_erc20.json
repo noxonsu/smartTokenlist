@@ -146181,7 +146181,8 @@
         ],
         "holders": {
             "ETH": 231
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x329cae8c175ac6773d5e79bd30624b953c68a308",
@@ -146203,7 +146204,8 @@
         ],
         "holders": {
             "ETH": 235
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x939a7a577d93ad29b64c1595b1284ce660a479b9",
@@ -146222,7 +146224,9 @@
         },
         "web_domains": [
             "neuronsinc.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x212c9e5c4b01ac588a64f4044d7a240e84e81454",
@@ -146232,10 +146236,12 @@
             "www.defiantai.io"
         ],
         "telegram_groups": [
-            "DeFiAIPortal"
+            "DeFiAIPortal",
+            "DefiantAI"
         ],
         "holders": {
             "ETH": 75
-        }
+        },
+        "p6": true
     }
 ]
