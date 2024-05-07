@@ -146388,5 +146388,79 @@
             "ETH": 236
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x0ea6213147a015979cb0d52d7363d9c6fb5ff272",
+        "date_add": "2024-05-07 12:06:11",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 93
+        }
+    },
+    {
+        "contract_address": "0xd7285a74da4cb81ad2a0099c5d09b6d5620b997d",
+        "date_add": "2024-05-07 12:06:11",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0xc3acda83a396ccee7d8ff16c046f24c412431bad",
+        "date_add": "2024-05-07 12:06:11",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "peplicator.vip"
+        ],
+        "telegram_groups": [
+            "pelicator_erc"
+        ],
+        "holders": {
+            "ETH": 57
+        }
+    },
+    {
+        "contract_address": "0x411b1d6dbaa582c28fa985f091067a6bc467e635",
+        "date_add": "2024-05-07 12:06:11",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bonkapes.com"
+        ],
+        "telegram_groups": [
+            "BONKAPESETH"
+        ],
+        "holders": {
+            "ETH": 331
+        }
+    },
+    {
+        "contract_address": "0xf160e49adc9d2f65a643dc6ecc9850a03ff00504",
+        "date_add": "2024-05-07 12:06:11",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x6942098ae1824a08e226327e5ae6e18e6ca1d6d2",
+        "date_add": "2024-05-07 12:06:11",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.canada.ca"
+        ],
+        "telegram_groups": [
+            "Canada_CAERC"
+        ],
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0x9fcdc22f66a87f21c3c2f642502c0a0b78e69ca8",
+        "date_add": "2024-05-07 12:06:11",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 26
+        }
     }
 ]
