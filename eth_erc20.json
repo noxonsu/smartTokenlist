@@ -146811,5 +146811,129 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xb69d711b74c5952c8e443037eb40a532245b9cf9",
+        "date_add": "2024-05-07 22:04:04",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 49
+        }
+    },
+    {
+        "contract_address": "0x4711ebc4583fb8529928748ea3e9ee3076db252e",
+        "date_add": "2024-05-07 22:04:04",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 63
+        }
+    },
+    {
+        "contract_address": "0xfec702c636e13a79cef2546c2f02700d4379078c",
+        "date_add": "2024-05-07 22:04:04",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hstwp88i.com"
+        ],
+        "telegram_groups": [
+            "HSTWP88i"
+        ],
+        "holders": {
+            "ETH": 289
+        }
+    },
+    {
+        "contract_address": "0xe7f72bc0252ca7b16dbb72eeee1afcdb2429f2dd",
+        "date_add": "2024-05-07 22:04:04",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 878
+        }
+    },
+    {
+        "contract_address": "0x5510e5dd54a9ddb727526c1ef24f2aab6d2f0b3b",
+        "date_add": "2024-05-07 22:04:04",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "meweth.io"
+        ],
+        "telegram_groups": [
+            "MewErc20"
+        ],
+        "holders": {
+            "ETH": 357
+        }
+    },
+    {
+        "contract_address": "0x0243343ed4b660a57cca9a308731d9524922feec",
+        "date_add": "2024-05-07 22:04:04",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "slasha.pro"
+        ],
+        "telegram_groups": [
+            "SlashaCoinErc"
+        ],
+        "holders": {
+            "ETH": 172
+        }
+    },
+    {
+        "contract_address": "0x177ed1c141f64268dcba594e3f644e2891fee15f",
+        "date_add": "2024-05-07 22:04:04",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "kekduct.xyz"
+        ],
+        "telegram_groups": [
+            "financialkekductautority"
+        ],
+        "holders": {
+            "ETH": 92
+        }
+    },
+    {
+        "contract_address": "0x294d44386c9ff8c38659511297a2e08d829f9336",
+        "date_add": "2024-05-07 22:04:04",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.linkedin.com"
+        ],
+        "holders": {
+            "ETH": 54
+        }
+    },
+    {
+        "contract_address": "0xe6102fc5c1b2f53d99db15c34e4eaf963486d240",
+        "date_add": "2024-05-07 22:04:04",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0x237381b8c56eadf6c5e5e98e9b4adf066c75da85",
+        "date_add": "2024-05-07 22:04:04",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.godofcrypto.vip"
+        ],
+        "telegram_groups": [
+            "GodOfCryptoErc"
+        ],
+        "holders": {
+            "ETH": 69
+        }
+    },
+    {
+        "contract_address": "0x8eb72866560554699c70595411dbd0dc5eacf3a7",
+        "date_add": "2024-05-07 22:04:04",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "caspercoinerc20"
+        ],
+        "holders": {
+            "ETH": 145
+        }
     }
 ]
