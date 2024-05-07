@@ -146619,7 +146619,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 62
-        }
+        },
+        "web_domains": [
+            "m0.foundation"
+        ]
     },
     {
         "contract_address": "0xc193297f45c9b9a3d3be30984d298d7777b32408",
