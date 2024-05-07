@@ -146075,7 +146075,11 @@
         ],
         "holders": {
             "ETH": 53
-        }
+        },
+        "emails": [
+            " Info : Support@legendofpepe.vip"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x47dcd8395acc05056a78164e13334eba3889566e",
@@ -146101,11 +146105,13 @@
             "www.doggydogg.meme"
         ],
         "telegram_groups": [
-            "doggydoggcoin"
+            "doggydoggcoin",
+            "doggydogg_coin"
         ],
         "holders": {
             "ETH": 34
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xdee42062ca98a214ff0d4e070f8c4a6f1c571f85",
@@ -146119,7 +146125,8 @@
         ],
         "holders": {
             "ETH": 225
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4f1f81202286b920e8651a008462196c72e1c80c",
@@ -146141,7 +146148,11 @@
         ],
         "holders": {
             "ETH": 50
-        }
+        },
+        "emails": [
+            "admin@unicorelabs.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd5bda8287bcb09959152f08f6f0bd47911d307ef",
@@ -146155,6 +146166,7 @@
         ],
         "holders": {
             "ETH": 197
-        }
+        },
+        "p6": true
     }
 ]
