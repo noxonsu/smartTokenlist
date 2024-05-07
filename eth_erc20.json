@@ -146774,7 +146774,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 2
-        }
+        },
+        "web_domains": [
+            "kaspanexus.com"
+        ]
     },
     {
         "contract_address": "0xce65465a9b513d0f817162f31b5ebc9a49ff1233",
@@ -146793,6 +146796,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 67
-        }
+        },
+        "web_domains": [
+            "genesisproject.xyz"
+        ]
     }
 ]
