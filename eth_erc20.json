@@ -146662,7 +146662,11 @@
         ],
         "holders": {
             "ETH": 187
-        }
+        },
+        "emails": [
+            "team@cndl.ai"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xde84a5f4d5fba462a7ba49b88f834043313158cd",
@@ -146676,7 +146680,8 @@
         ],
         "holders": {
             "ETH": 41
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2f6f04c0c9241c85139c93506cf39e0fd7d963a8",
@@ -146690,7 +146695,8 @@
         ],
         "holders": {
             "ETH": 46
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf3d74182247ef963e0de37e3f2e174e98dcbfae1",
@@ -146701,7 +146707,11 @@
         },
         "web_domains": [
             "voip.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "voipfinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x47b043090f0e62572e5bc8bb7e1afe82443ebc39",
@@ -146715,7 +146725,8 @@
         ],
         "holders": {
             "ETH": 343
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x000a1000008393fc5b1155c9894575ff5065151e",
@@ -146725,10 +146736,12 @@
             "xshield.ai"
         ],
         "telegram_groups": [
-            "xhshield_portal"
+            "xhshield_portal",
+            "xshield_audit_bot"
         ],
         "holders": {
             "ETH": 74
-        }
+        },
+        "p6": true
     }
 ]
