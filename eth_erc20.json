@@ -145943,5 +145943,71 @@
             "enterpepe"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x40e0574b1ce77cdc31b9dbedefd7e059efc0ead6",
+        "date_add": "2024-05-07 00:15:57",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 40
+        }
+    },
+    {
+        "contract_address": "0x65ca7c1f6098cfde26a1c686e05193e911730221",
+        "date_add": "2024-05-07 00:15:57",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 322
+        }
+    },
+    {
+        "contract_address": "0x5e1463a8f549f9235f29e590f25b17d30e04807a",
+        "date_add": "2024-05-07 00:15:57",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x55f2b9b0fd81549d92acd7ce6a471d24f9cca3a8",
+        "date_add": "2024-05-07 00:15:57",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x2789c90da70222e255726af81894cdc5ca759de7",
+        "date_add": "2024-05-07 00:15:57",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "DogWifHatOnErc"
+        ],
+        "holders": {
+            "ETH": 175
+        }
+    },
+    {
+        "contract_address": "0xe418d9a1552ac9e403daee79cad3fa98746b6e67",
+        "date_add": "2024-05-07 00:15:57",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.mode.network",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "ModeNetworkOfficial"
+        ],
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0x2dd9f664bb573f05fd06d89a93b92078a45d583c",
+        "date_add": "2024-05-07 00:15:57",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13
+        }
     }
 ]
