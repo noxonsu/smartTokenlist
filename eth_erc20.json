@@ -146648,5 +146648,84 @@
             "ETH": 61
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x6efb32bc7893b793603e39643d86594ce3638157",
+        "date_add": "2024-05-07 18:04:59",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cndl.ai",
+            "docs.cndl.ai"
+        ],
+        "telegram_groups": [
+            "candle_AI"
+        ],
+        "holders": {
+            "ETH": 187
+        }
+    },
+    {
+        "contract_address": "0xde84a5f4d5fba462a7ba49b88f834043313158cd",
+        "date_add": "2024-05-07 18:04:59",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "rekt.center"
+        ],
+        "telegram_groups": [
+            "REKTonETH"
+        ],
+        "holders": {
+            "ETH": 41
+        }
+    },
+    {
+        "contract_address": "0x2f6f04c0c9241c85139c93506cf39e0fd7d963a8",
+        "date_add": "2024-05-07 18:04:59",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bookofboysclub.art"
+        ],
+        "telegram_groups": [
+            "Bookof_Boysclub"
+        ],
+        "holders": {
+            "ETH": 46
+        }
+    },
+    {
+        "contract_address": "0xf3d74182247ef963e0de37e3f2e174e98dcbfae1",
+        "date_add": "2024-05-07 18:04:59",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 152
+        }
+    },
+    {
+        "contract_address": "0x47b043090f0e62572e5bc8bb7e1afe82443ebc39",
+        "date_add": "2024-05-07 18:04:59",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "gropepe.vip"
+        ],
+        "telegram_groups": [
+            "Gropepe_Portal"
+        ],
+        "holders": {
+            "ETH": 343
+        }
+    },
+    {
+        "contract_address": "0x000a1000008393fc5b1155c9894575ff5065151e",
+        "date_add": "2024-05-07 18:04:59",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "xshield.ai"
+        ],
+        "telegram_groups": [
+            "xhshield_portal"
+        ],
+        "holders": {
+            "ETH": 74
+        }
     }
 ]
