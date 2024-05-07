@@ -146474,5 +146474,51 @@
         "holders": {
             "ETH": 26
         }
+    },
+    {
+        "contract_address": "0xbdfa7b7893081b35fb54027489e2bc7a38275129",
+        "date_add": "2024-05-07 14:04:36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 27
+        }
+    },
+    {
+        "contract_address": "0x2cc9b71fdb702a24bd64d89fa5b1352e11d511f7",
+        "date_add": "2024-05-07 14:04:36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 152
+        }
+    },
+    {
+        "contract_address": "0x76131b6d0ec94057e6dc6352adda76b8165e08ab",
+        "date_add": "2024-05-07 14:04:36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 394
+        }
+    },
+    {
+        "contract_address": "0x4817396ff8a363d16b975f0f5a085a8fb99404d2",
+        "date_add": "2024-05-07 14:04:36",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "konni.life"
+        ],
+        "telegram_groups": [
+            "konniERC20"
+        ],
+        "holders": {
+            "ETH": 275
+        }
+    },
+    {
+        "contract_address": "0xd46934919d9138d3005c1f8db794f03e7415babd",
+        "date_add": "2024-05-07 14:04:36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
     }
 ]
