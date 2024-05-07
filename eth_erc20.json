@@ -146250,7 +146250,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 148
-        }
+        },
+        "web_domains": [
+            "biotium.com"
+        ]
     },
     {
         "contract_address": "0x8d3f86bb51a505f936ca19aa4d0e2d5eec1722e0",
@@ -146313,7 +146316,10 @@
         ],
         "holders": {
             "ETH": 122
-        }
+        },
+        "web_domains": [
+            "arcade2earn.io"
+        ]
     },
     {
         "contract_address": "0x10caed5b401e390eda38ef747e55e0a287739fbd",
@@ -146321,7 +146327,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 50
-        }
+        },
+        "web_domains": [
+            "mame-shiba.co.jp"
+        ]
     },
     {
         "contract_address": "0x8e1ac64e28b8a532604880c2f59cd38b1b017aab",
@@ -146337,7 +146346,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 0
-        }
+        },
+        "web_domains": [
+            "chain.link"
+        ]
     },
     {
         "contract_address": "0xbb00bf1fe30d683159b9943ce94dc72ce1a82d69",
