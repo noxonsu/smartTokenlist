@@ -146919,7 +146919,9 @@
         ],
         "holders": {
             "ETH": 54
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe6102fc5c1b2f53d99db15c34e4eaf963486d240",
@@ -146937,11 +146939,13 @@
             "www.godofcrypto.vip"
         ],
         "telegram_groups": [
+            "godofcryptoerc",
             "GodOfCryptoErc"
         ],
         "holders": {
             "ETH": 69
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8eb72866560554699c70595411dbd0dc5eacf3a7",
@@ -146955,6 +146959,7 @@
         },
         "web_domains": [
             "casperinjury.com"
-        ]
+        ],
+        "p6": true
     }
 ]
