@@ -146017,5 +146017,46 @@
             "MarvelCoinUniverse"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x9f62163e789b2536b4e9c82bc037f9cca995ccff",
+        "date_add": "2024-05-07 02:16:15",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pecaeth.fun"
+        ],
+        "telegram_groups": [
+            "pecachuportal"
+        ],
+        "holders": {
+            "ETH": 121
+        }
+    },
+    {
+        "contract_address": "0xc0bc84e95864bdfdcd1ccfb8a3aa522e79ca1410",
+        "date_add": "2024-05-07 02:16:15",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 294
+        }
+    },
+    {
+        "contract_address": "0x694209a229a27036803ce7fa02000e5001c57be1",
+        "date_add": "2024-05-07 02:16:15",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "SlerfonETH_erc"
+        ],
+        "holders": {
+            "ETH": 75
+        }
+    },
+    {
+        "contract_address": "0x8530b66ca3ddf50e0447eae8ad7ea7d5e62762ed",
+        "date_add": "2024-05-07 02:16:15",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2580
+        }
     }
 ]
