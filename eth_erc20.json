@@ -146030,7 +146030,11 @@
         ],
         "holders": {
             "ETH": 121
-        }
+        },
+        "emails": [
+            "admin@pecaeth.fun"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc0bc84e95864bdfdcd1ccfb8a3aa522e79ca1410",
