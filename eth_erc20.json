@@ -146531,5 +146531,108 @@
         "holders": {
             "ETH": 2
         }
+    },
+    {
+        "contract_address": "0x8889e02bed2fd886c7636568f9d9b4bd46bbb0fb",
+        "date_add": "2024-05-07 16:04:39",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.runex.bot",
+            "www.runex.bot"
+        ],
+        "telegram_groups": [
+            "runexbtc",
+            "runexbtcbot"
+        ],
+        "holders": {
+            "ETH": 170
+        }
+    },
+    {
+        "contract_address": "0x0a9158dc9ab3e84101e3dd3b666b78fc0a6f5590",
+        "date_add": "2024-05-07 16:04:39",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.xedoai.com",
+            "www.xedoai.com",
+            "linktr.ee",
+            "zealy.io"
+        ],
+        "telegram_groups": [
+            "XedoAI"
+        ],
+        "emails": [
+            "contact@xedoai.com"
+        ],
+        "holders": {
+            "ETH": 190
+        }
+    },
+    {
+        "contract_address": "0xbc188b5dbb155b6ea693d46d98bf60b8482939b9",
+        "date_add": "2024-05-07 16:04:39",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1476
+        }
+    },
+    {
+        "contract_address": "0xa570c06ac139e9ecbaf27081d5ba82da6f272024",
+        "date_add": "2024-05-07 16:04:39",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.albart.sbs",
+            "www.uefa.com"
+        ],
+        "telegram_groups": [
+            "Albartcoinportal"
+        ],
+        "holders": {
+            "ETH": 174
+        }
+    },
+    {
+        "contract_address": "0xddcaa1285ba190e1f5a5cd45bcf37d15255c4b65",
+        "date_add": "2024-05-07 16:04:39",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9
+        }
+    },
+    {
+        "contract_address": "0xc7bdf5b1a2bd7e24da58b0e54674a63868a1991e",
+        "date_add": "2024-05-07 16:04:39",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "optimus-erc.vip"
+        ],
+        "telegram_groups": [
+            "optimuserccoin"
+        ],
+        "holders": {
+            "ETH": 153
+        }
+    },
+    {
+        "contract_address": "0x988567fe094570cce1ffda29d1f2d842b70492be",
+        "date_add": "2024-05-07 16:04:39",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 62
+        }
+    },
+    {
+        "contract_address": "0xc193297f45c9b9a3d3be30984d298d7777b32408",
+        "date_add": "2024-05-07 16:04:39",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "urbanpulseapp.org"
+        ],
+        "telegram_groups": [
+            "UrbanPulsePortal"
+        ],
+        "holders": {
+            "ETH": 61
+        }
     }
 ]
