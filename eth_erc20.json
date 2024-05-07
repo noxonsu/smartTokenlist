@@ -146219,7 +146219,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "neuronsinc.com"
+        ]
     },
     {
         "contract_address": "0x212c9e5c4b01ac588a64f4044d7a240e84e81454",
