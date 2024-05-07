@@ -146546,7 +146546,8 @@
         ],
         "holders": {
             "ETH": 170
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0a9158dc9ab3e84101e3dd3b666b78fc0a6f5590",
@@ -146559,14 +146560,16 @@
             "zealy.io"
         ],
         "telegram_groups": [
-            "XedoAI"
+            "XedoAI",
+            "XedoAIbot"
         ],
         "emails": [
             "contact@xedoai.com"
         ],
         "holders": {
             "ETH": 190
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xbc188b5dbb155b6ea693d46d98bf60b8482939b9",
@@ -146589,7 +146592,8 @@
         ],
         "holders": {
             "ETH": 174
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xddcaa1285ba190e1f5a5cd45bcf37d15255c4b65",
@@ -146611,7 +146615,11 @@
         ],
         "holders": {
             "ETH": 153
-        }
+        },
+        "emails": [
+            "Optimus - team@optimus-coin.vip"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x988567fe094570cce1ffda29d1f2d842b70492be",
@@ -146622,7 +146630,9 @@
         },
         "web_domains": [
             "m0.foundation"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc193297f45c9b9a3d3be30984d298d7777b32408",
@@ -146636,6 +146646,7 @@
         ],
         "holders": {
             "ETH": 61
-        }
+        },
+        "p6": true
     }
 ]
