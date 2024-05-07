@@ -146395,7 +146395,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 93
-        }
+        },
+        "web_domains": [
+            "purrhub.lol"
+        ]
     },
     {
         "contract_address": "0xd7285a74da4cb81ad2a0099c5d09b6d5620b997d",
