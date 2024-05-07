@@ -146777,7 +146777,14 @@
         },
         "web_domains": [
             "kaspanexus.com"
-        ]
+        ],
+        "telegram_groups": [
+            "kaspanexusoffical"
+        ],
+        "emails": [
+            "support@kaspanexus.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xce65465a9b513d0f817162f31b5ebc9a49ff1233",
@@ -146788,7 +146795,9 @@
         ],
         "holders": {
             "ETH": 111
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2d77f5b3efa51821ad6483adaf38ea4cb1824cc5",
@@ -146799,6 +146808,8 @@
         },
         "web_domains": [
             "genesisproject.xyz"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
