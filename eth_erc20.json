@@ -146168,5 +146168,71 @@
             "ETH": 197
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xf656795093b2f761caf1cb0840392a7c554ef59b",
+        "date_add": "2024-05-07 06:05:09",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "shipe.vip"
+        ],
+        "telegram_groups": [
+            "Shipeerc20"
+        ],
+        "holders": {
+            "ETH": 231
+        }
+    },
+    {
+        "contract_address": "0x329cae8c175ac6773d5e79bd30624b953c68a308",
+        "date_add": "2024-05-07 06:05:09",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 387
+        }
+    },
+    {
+        "contract_address": "0x67d50e12f298f74fd6771457499b3b4bf6b886db",
+        "date_add": "2024-05-07 06:05:09",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "scrollofindependence.com"
+        ],
+        "telegram_groups": [
+            "Scrollofindependence"
+        ],
+        "holders": {
+            "ETH": 235
+        }
+    },
+    {
+        "contract_address": "0x939a7a577d93ad29b64c1595b1284ce660a479b9",
+        "date_add": "2024-05-07 06:05:09",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5343
+        }
+    },
+    {
+        "contract_address": "0x119295c2cb364d8261ef830f4817af300da8baee",
+        "date_add": "2024-05-07 06:05:09",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x212c9e5c4b01ac588a64f4044d7a240e84e81454",
+        "date_add": "2024-05-07 06:05:09",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.defiantai.io"
+        ],
+        "telegram_groups": [
+            "DeFiAIPortal"
+        ],
+        "holders": {
+            "ETH": 75
+        }
     }
 ]
