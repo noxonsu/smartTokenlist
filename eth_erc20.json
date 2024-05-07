@@ -146821,7 +146821,9 @@
         },
         "web_domains": [
             "alm-toolkit.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4711ebc4583fb8529928748ea3e9ee3076db252e",
@@ -146832,7 +146834,9 @@
         },
         "web_domains": [
             "ihop.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xfec702c636e13a79cef2546c2f02700d4379078c",
@@ -146846,7 +146850,8 @@
         ],
         "holders": {
             "ETH": 289
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe7f72bc0252ca7b16dbb72eeee1afcdb2429f2dd",
@@ -146868,7 +146873,8 @@
         ],
         "holders": {
             "ETH": 357
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0243343ed4b660a57cca9a308731d9524922feec",
@@ -146882,7 +146888,8 @@
         ],
         "holders": {
             "ETH": 172
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x177ed1c141f64268dcba594e3f644e2891fee15f",
@@ -146892,11 +146899,16 @@
             "kekduct.xyz"
         ],
         "telegram_groups": [
+            "kekduct",
             "financialkekductautority"
         ],
         "holders": {
             "ETH": 92
-        }
+        },
+        "emails": [
+            "Contact Email: Kekduct@hotmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x294d44386c9ff8c38659511297a2e08d829f9336",
