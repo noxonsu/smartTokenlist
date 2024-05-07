@@ -146000,7 +146000,8 @@
         ],
         "holders": {
             "ETH": 32
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2dd9f664bb573f05fd06d89a93b92078a45d583c",
@@ -146011,6 +146012,10 @@
         },
         "web_domains": [
             "marvelcoinuniverse.io"
-        ]
+        ],
+        "telegram_groups": [
+            "MarvelCoinUniverse"
+        ],
+        "p6": true
     }
 ]
