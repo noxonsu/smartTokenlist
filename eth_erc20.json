@@ -147395,5 +147395,123 @@
             "ETH": 284
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xc350e90cf1fbe37466fe3eae259e178ab0e14325",
+        "date_add": "2024-05-08 08:04:59",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blastar-1984.appspot.com"
+        ],
+        "telegram_groups": [
+            "BLASTARelongame"
+        ],
+        "holders": {
+            "ETH": 62
+        }
+    },
+    {
+        "contract_address": "0x78c42106cd95b3bdcfd022c8f894c3613d0209f6",
+        "date_add": "2024-05-08 08:04:59",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.lifeform.cc",
+            "discord.com",
+            "lifeform-official.medium.com"
+        ],
+        "holders": {
+            "ETH": 41
+        }
+    },
+    {
+        "contract_address": "0x6c4710d14a906dba5a096c4231f2359a003eb052",
+        "date_add": "2024-05-08 08:04:59",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x2a09b838815823f77a41a39dd568a76fb77c368f",
+        "date_add": "2024-05-08 08:04:59",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x99f5acc8ec2da2bc0771c32814eff52b712de1e5",
+        "date_add": "2024-05-08 08:04:59",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x6e9455d109202b426169f0d8f01a3332dae160f3",
+        "date_add": "2024-05-08 08:04:59",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 56
+        }
+    },
+    {
+        "contract_address": "0xeebc06d495c96e57542a6d829184a907a02ef602",
+        "date_add": "2024-05-08 08:04:59",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0x49f8178abf5b79df87587ea0cfcd196397105ec5",
+        "date_add": "2024-05-08 08:04:59",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "phryges.dev",
+            "docs.phryges.dev"
+        ],
+        "telegram_groups": [
+            "Phryges_PORTAL"
+        ],
+        "holders": {
+            "ETH": 415
+        }
+    },
+    {
+        "contract_address": "0xc308f75551763b3663de4e34cfff636b0869f8ca",
+        "date_add": "2024-05-08 08:04:59",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "maxcoin.vip"
+        ],
+        "telegram_groups": [
+            "maxcoinvip"
+        ],
+        "holders": {
+            "ETH": 600
+        }
+    },
+    {
+        "contract_address": "0xe2e109f1b4eaa8915655fe8fdefc112a34acc5f0",
+        "date_add": "2024-05-08 08:04:59",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1292
+        }
+    },
+    {
+        "contract_address": "0xc0df98df13bd5fd923625be48d6e293707572bdc",
+        "date_add": "2024-05-08 08:04:59",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "eligiblecoin.app"
+        ],
+        "telegram_groups": [
+            "eligiblecoin"
+        ],
+        "holders": {
+            "ETH": 230
+        }
     }
 ]
