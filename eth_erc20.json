@@ -147664,7 +147664,8 @@
         ],
         "holders": {
             "ETH": 336
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd094d0e1cc2df81f279673331cef176288e796b7",
@@ -147678,7 +147679,8 @@
         ],
         "holders": {
             "ETH": 90
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1d23b4c30a1f6e9161febfb60471713550c35ad8",
@@ -147697,6 +147699,8 @@
         },
         "web_domains": [
             "european-union.europa.eu"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
