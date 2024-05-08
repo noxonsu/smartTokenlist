@@ -147715,7 +147715,8 @@
         },
         "web_domains": [
             "free-palpatine.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xabfebcd2cd7309fef98d27b862436951b605f76a",
@@ -147734,7 +147735,12 @@
         },
         "web_domains": [
             "pariorder.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "\n                Email: b2binfo@pari.com\n                "
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdeadca7a1684fb3f3dbec46cc7763ab718714234",
@@ -147748,7 +147754,8 @@
         ],
         "holders": {
             "ETH": 72
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xda773db976b9ee87ec5c80fe01515e4b00e24fe5",
@@ -147758,11 +147765,13 @@
             "www.smug.meme"
         ],
         "telegram_groups": [
-            "smug_Erc"
+            "smug_Erc",
+            "smug_erc"
         ],
         "holders": {
             "ETH": 152
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xfe05a3bfea7a4df4809ded1ad0bb6a6112be6580",
@@ -147797,6 +147806,8 @@
         },
         "web_domains": [
             "hitbtc.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
