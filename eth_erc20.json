@@ -148064,7 +148064,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 124
-        }
+        },
+        "web_domains": [
+            "block-wise.com"
+        ]
     },
     {
         "contract_address": "0x3f0cc41de057458591e1c753f5bc162c982cbd00",
@@ -148072,7 +148075,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 29
-        }
+        },
+        "web_domains": [
+            "makerdao.com"
+        ]
     },
     {
         "contract_address": "0x14efc0f06e1331a3de195d61b8a4775ca629aa70",
