@@ -136542,7 +136542,9 @@
         ],
         "holders": {
             "ETH": 5381
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xcbcb0319be375a278e804dd18f35033bac486563",
@@ -147139,7 +147141,9 @@
         ],
         "holders": {
             "ETH": 2
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0b3ddf435d7e0a3cad97d85f94633a0e3a69fc01",
@@ -147165,7 +147169,11 @@
         ],
         "holders": {
             "ETH": 211
-        }
+        },
+        "emails": [
+            "info@fight-club.vip"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x851f679a5edfb16e7cf1ad157c6995b7e7f333f2",
@@ -147176,7 +147184,9 @@
         },
         "web_domains": [
             "magok67844.wixsite.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x23008c33ed73c9d28849becb06185976e1874a0e",
@@ -147190,7 +147200,8 @@
         ],
         "holders": {
             "ETH": 49
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd4fb60cefb84657e752cabde68e0325cef104ad2",
@@ -147204,7 +147215,8 @@
         },
         "web_domains": [
             "gitcoin.co"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb47f1cf1f494695fd0d64871d408620015bad589",
@@ -147218,7 +147230,8 @@
         ],
         "holders": {
             "ETH": 221
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe8a8fc6dab617d4e8e1a4578f3041b2fd37a3212",
