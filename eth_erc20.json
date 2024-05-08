@@ -53728,7 +53728,8 @@
         "holders": {
             "ETH": 972
         },
-        "p8skip": true
+        "p8skip": true,
+        "p6": true
     },
     {
         "contract_address": "0x64c79c8c59a2be17c8d651f73e5ee7942eebdc9e",
@@ -147253,7 +147254,12 @@
         },
         "web_domains": [
             "youwho.com.au"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "benjamin@creativebutton.co"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1c0688377a7fe29105ba70c7d3c027fcfc16bd91",
@@ -147264,7 +147270,9 @@
         },
         "web_domains": [
             "kaikaidumplings.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0e941f13e14e7167625dae4806e08a88d68db0db",
@@ -147278,7 +147286,8 @@
         },
         "web_domains": [
             "hypatiaphilosophy.org"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x79808db78a1d5d9f5505842f7f690cdd37488c6b",
@@ -147297,11 +147306,13 @@
             "www.grimlockai.xyz"
         ],
         "telegram_groups": [
+            "RagnarElon",
             "grimlockaiportal"
         ],
         "holders": {
             "ETH": 72
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd89587bd0de492b166d4899c835c471d74bc8d83",
