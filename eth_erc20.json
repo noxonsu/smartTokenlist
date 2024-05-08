@@ -147826,7 +147826,9 @@
         },
         "web_domains": [
             "sweetpatina.bigcartel.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3c2a37b1131da9941a577e7155ee393a5a6d7667",
@@ -147848,7 +147850,11 @@
         ],
         "holders": {
             "ETH": 224
-        }
+        },
+        "emails": [
+            "MEMEONETHERC@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x213f6aa97a444c293864e6e0c52233b37a72410e",
@@ -147862,7 +147868,8 @@
         ],
         "holders": {
             "ETH": 233
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x046bad07658f3b6cad9a396cfcbc1243af452ec1",
@@ -147873,7 +147880,11 @@
         },
         "web_domains": [
             "archloot.com"
-        ]
+        ],
+        "telegram_groups": [
+            "archloot"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb33522fa127a73ed4afc43500bbf56c5abbf45bb",
@@ -147884,7 +147895,9 @@
         },
         "web_domains": [
             "metatrust.co"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0071f94350573cd411e40bb409e7ddd927224054",
@@ -147906,7 +147919,11 @@
         ],
         "holders": {
             "ETH": 30
-        }
+        },
+        "emails": [
+            "\n                  team@p2p2.vip\n                "
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6fd85d2ec9fed6b18b2fb7da3264920a23f37286",
