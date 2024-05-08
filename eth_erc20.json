@@ -147702,5 +147702,92 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xf1138e723f8479e5b7e56810c9e97b7c1897d9a7",
+        "date_add": "2024-05-08 14:04:10",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "freePalpatineMEME"
+        ],
+        "holders": {
+            "ETH": 56
+        }
+    },
+    {
+        "contract_address": "0xabfebcd2cd7309fef98d27b862436951b605f76a",
+        "date_add": "2024-05-08 14:04:10",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x0cde8e1fc3eb5afde46e99dd2861c40316ddd8ad",
+        "date_add": "2024-05-08 14:04:10",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0xdeadca7a1684fb3f3dbec46cc7763ab718714234",
+        "date_add": "2024-05-08 14:04:10",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "deadca7.com"
+        ],
+        "telegram_groups": [
+            "deadca7_eth"
+        ],
+        "holders": {
+            "ETH": 72
+        }
+    },
+    {
+        "contract_address": "0xda773db976b9ee87ec5c80fe01515e4b00e24fe5",
+        "date_add": "2024-05-08 14:04:10",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.smug.meme"
+        ],
+        "telegram_groups": [
+            "smug_Erc"
+        ],
+        "holders": {
+            "ETH": 152
+        }
+    },
+    {
+        "contract_address": "0xfe05a3bfea7a4df4809ded1ad0bb6a6112be6580",
+        "date_add": "2024-05-08 14:04:10",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x16cc8367055ae7e9157dbcb9d86fd6ce82522b31",
+        "date_add": "2024-05-08 14:04:10",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1769
+        }
+    },
+    {
+        "contract_address": "0xcfb152e5b93fc2c9906d4ff41fc8407dfa5e8851",
+        "date_add": "2024-05-08 14:04:10",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4201
+        }
+    },
+    {
+        "contract_address": "0x4363b1bee3344133a9b146a1a7a363cf7218a29d",
+        "date_add": "2024-05-08 14:04:10",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
     }
 ]
