@@ -148138,7 +148138,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 30
-        }
+        },
+        "web_domains": [
+            "frens.lol"
+        ]
     },
     {
         "contract_address": "0x778a13d3eeb110a4f7bb6529f99c000119a08e92",
@@ -148193,6 +148196,9 @@
         ],
         "holders": {
             "ETH": 195
-        }
+        },
+        "web_domains": [
+            "crodiethecat.io"
+        ]
     }
 ]
