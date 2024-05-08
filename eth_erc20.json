@@ -147950,7 +147950,11 @@
         ],
         "holders": {
             "ETH": 240
-        }
+        },
+        "emails": [
+            "Hello@listr.vip"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2278f2f1fbf904a6c4a2c0a1df6b34a0ea5b3c84",
@@ -147964,7 +147968,8 @@
         ],
         "holders": {
             "ETH": 189
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x56979e1d9c820d094075fba0535b2c992cd8c0a3",
@@ -147975,11 +147980,15 @@
             "www.tillywhaleoneth.xyz"
         ],
         "telegram_groups": [
-            "tillywhale"
+            "tillywhale",
+            "miichain",
+            "BazookaTools",
+            "PandaManPortal"
         ],
         "holders": {
             "ETH": 87
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3b7eab4ca4d9b9810d7e53e5935ab7c24e30949e",
@@ -147990,12 +147999,13 @@
             "Docs.MetaRunes.tech"
         ],
         "telegram_groups": [
-            "MetaRunes_Portal",
-            "MetarunesBot"
+            "MetarunesBot",
+            "MetaRunes_Portal"
         ],
         "holders": {
             "ETH": 240
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2be808850abda5d549b5cf601e583b6dc46180f2",
@@ -148006,7 +148016,11 @@
         },
         "web_domains": [
             "aqlatoken.com"
-        ]
+        ],
+        "telegram_groups": [
+            "AQLA_Token"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdece238d352abeffee8df47edea8421fced68d7c",
@@ -148020,7 +148034,8 @@
         ],
         "holders": {
             "ETH": 283
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe623c0adc14a13ebfa2b8e735122b48f1cd1be50",
