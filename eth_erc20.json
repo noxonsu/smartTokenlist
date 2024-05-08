@@ -147712,7 +147712,10 @@
         ],
         "holders": {
             "ETH": 56
-        }
+        },
+        "web_domains": [
+            "free-palpatine.com"
+        ]
     },
     {
         "contract_address": "0xabfebcd2cd7309fef98d27b862436951b605f76a",
@@ -147728,7 +147731,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 14
-        }
+        },
+        "web_domains": [
+            "pariorder.com"
+        ]
     },
     {
         "contract_address": "0xdeadca7a1684fb3f3dbec46cc7763ab718714234",
@@ -147788,6 +147794,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 4
-        }
+        },
+        "web_domains": [
+            "hitbtc.com"
+        ]
     }
 ]
