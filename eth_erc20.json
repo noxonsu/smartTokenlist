@@ -147816,5 +147816,98 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x461a367f48e6ef43cd2a57a762ca1d5073dee682",
+        "date_add": "2024-05-08 16:04:33",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 171
+        }
+    },
+    {
+        "contract_address": "0x3c2a37b1131da9941a577e7155ee393a5a6d7667",
+        "date_add": "2024-05-08 16:04:33",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x11782298fee65355f837587c1534dd531a78e245",
+        "date_add": "2024-05-08 16:04:33",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.memeoneth.com"
+        ],
+        "telegram_groups": [
+            "MemeOnEth"
+        ],
+        "holders": {
+            "ETH": 224
+        }
+    },
+    {
+        "contract_address": "0x213f6aa97a444c293864e6e0c52233b37a72410e",
+        "date_add": "2024-05-08 16:04:33",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pehryge.xyz"
+        ],
+        "telegram_groups": [
+            "Pehryge"
+        ],
+        "holders": {
+            "ETH": 233
+        }
+    },
+    {
+        "contract_address": "0x046bad07658f3b6cad9a396cfcbc1243af452ec1",
+        "date_add": "2024-05-08 16:04:33",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 41
+        }
+    },
+    {
+        "contract_address": "0xb33522fa127a73ed4afc43500bbf56c5abbf45bb",
+        "date_add": "2024-05-08 16:04:33",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 66
+        }
+    },
+    {
+        "contract_address": "0x0071f94350573cd411e40bb409e7ddd927224054",
+        "date_add": "2024-05-08 16:04:33",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 55
+        }
+    },
+    {
+        "contract_address": "0x86886f9d6f081ee25e08304aa3af0f7c8036cef2",
+        "date_add": "2024-05-08 16:04:33",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.p2p2.vip"
+        ],
+        "telegram_groups": [
+            "p2p2_eth"
+        ],
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0x6fd85d2ec9fed6b18b2fb7da3264920a23f37286",
+        "date_add": "2024-05-08 16:04:33",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "XDcoinerc"
+        ],
+        "holders": {
+            "ETH": 148
+        }
     }
 ]
