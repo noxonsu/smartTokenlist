@@ -148003,7 +148003,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 15
-        }
+        },
+        "web_domains": [
+            "aqlatoken.com"
+        ]
     },
     {
         "contract_address": "0xdece238d352abeffee8df47edea8421fced68d7c",
@@ -148025,6 +148028,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 138
-        }
+        },
+        "web_domains": [
+            "acudetox.com"
+        ]
     }
 ]
