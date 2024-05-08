@@ -148049,5 +148049,56 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x2aecdab10a67939b265f279841a31a126bb8466a",
+        "date_add": "2024-05-08 20:04:26",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0x67d3d29a03ccbc500f1c2df54ae7ff09b3802d8c",
+        "date_add": "2024-05-08 20:04:26",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 124
+        }
+    },
+    {
+        "contract_address": "0x3f0cc41de057458591e1c753f5bc162c982cbd00",
+        "date_add": "2024-05-08 20:04:26",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 29
+        }
+    },
+    {
+        "contract_address": "0x14efc0f06e1331a3de195d61b8a4775ca629aa70",
+        "date_add": "2024-05-08 20:04:26",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0x2d1480a3e651495a7ee153543894ab8192e9a335",
+        "date_add": "2024-05-08 20:04:26",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "2pt0.xyz"
+        ],
+        "holders": {
+            "ETH": 317
+        }
+    },
+    {
+        "contract_address": "0x55c418568e3958ed41345bc71457f692502e5e85",
+        "date_add": "2024-05-08 20:04:26",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 32
+        }
     }
 ]
