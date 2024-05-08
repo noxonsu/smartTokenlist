@@ -52011,12 +52011,14 @@
             "gootecks.live"
         ],
         "telegram_groups": [
+            "SpaceKaren_ERC",
             "pog_portal"
         ],
         "holders": {
             "ETH": 522
         },
-        "p8skip": true
+        "p8skip": true,
+        "p6": true
     },
     {
         "contract_address": "0xe785ec36356b973d8c0a071d478940d6f42c0178",
@@ -147531,7 +147533,8 @@
         },
         "web_domains": [
             "ryoshiresearch.org"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdfc5146d8814a5698de84789a60a7ce75289a945",
@@ -147550,7 +147553,9 @@
         },
         "web_domains": [
             "inspiringapps.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xadbf092241f806ae43b0395bca9e0ec83155816b",
@@ -147561,7 +147566,9 @@
         },
         "web_domains": [
             "labradorlabs.ai"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x50c8b318b7046fe7d3c43943a42f25eea44b2c32",
@@ -147572,11 +147579,14 @@
             "strongbaderc20.vip"
         ],
         "telegram_groups": [
+            "SpaceKaren_ERC",
+            "pog_portal",
             "strongbadcoin"
         ],
         "holders": {
             "ETH": 178
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8fe15be3aadd30f78752001e6e38b846f2d195c0",
@@ -147638,6 +147648,8 @@
         },
         "web_domains": [
             "pix.online"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
