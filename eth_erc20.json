@@ -147528,7 +147528,10 @@
         ],
         "holders": {
             "ETH": 211
-        }
+        },
+        "web_domains": [
+            "ryoshiresearch.org"
+        ]
     },
     {
         "contract_address": "0xdfc5146d8814a5698de84789a60a7ce75289a945",
@@ -147544,7 +147547,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 5
-        }
+        },
+        "web_domains": [
+            "inspiringapps.com"
+        ]
     },
     {
         "contract_address": "0xadbf092241f806ae43b0395bca9e0ec83155816b",
@@ -147552,7 +147558,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 240
-        }
+        },
+        "web_domains": [
+            "labradorlabs.ai"
+        ]
     },
     {
         "contract_address": "0x50c8b318b7046fe7d3c43943a42f25eea44b2c32",
@@ -147626,6 +147635,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 74
-        }
+        },
+        "web_domains": [
+            "pix.online"
+        ]
     }
 ]
