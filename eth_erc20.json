@@ -147823,7 +147823,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 171
-        }
+        },
+        "web_domains": [
+            "sweetpatina.bigcartel.com"
+        ]
     },
     {
         "contract_address": "0x3c2a37b1131da9941a577e7155ee393a5a6d7667",
@@ -147867,7 +147870,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 41
-        }
+        },
+        "web_domains": [
+            "archloot.com"
+        ]
     },
     {
         "contract_address": "0xb33522fa127a73ed4afc43500bbf56c5abbf45bb",
@@ -147875,7 +147881,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 66
-        }
+        },
+        "web_domains": [
+            "metatrust.co"
+        ]
     },
     {
         "contract_address": "0x0071f94350573cd411e40bb409e7ddd927224054",
