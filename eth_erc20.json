@@ -148067,7 +148067,12 @@
         },
         "web_domains": [
             "block-wise.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "jeanpierre@block-wise.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3f0cc41de057458591e1c753f5bc162c982cbd00",
@@ -148078,7 +148083,11 @@
         },
         "web_domains": [
             "makerdao.com"
-        ]
+        ],
+        "telegram_groups": [
+            "makerdaoOfficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x14efc0f06e1331a3de195d61b8a4775ca629aa70",
@@ -148097,7 +148106,9 @@
         ],
         "holders": {
             "ETH": 317
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x55c418568e3958ed41345bc71457f692502e5e85",
