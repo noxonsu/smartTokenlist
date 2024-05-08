@@ -147043,7 +147043,8 @@
         },
         "web_domains": [
             "foundation.app"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb0790d271a3728d5c2bb5128694c6edceddb0f50",
@@ -147065,7 +147066,8 @@
         ],
         "holders": {
             "ETH": 33
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xeb0486c243d92aa050f4a688b5471acb85ea9e74",
@@ -147095,7 +147097,12 @@
         },
         "web_domains": [
             "fluffyscandy.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "filler@godaddy.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x107a2e3cd2bb9a32b9ee2e4d51143149f8367eba",
@@ -147117,6 +147124,10 @@
         ],
         "holders": {
             "ETH": 159
-        }
+        },
+        "emails": [
+            "shremp@shrempin.xyz"
+        ],
+        "p6": true
     }
 ]
