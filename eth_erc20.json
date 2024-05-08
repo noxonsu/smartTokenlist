@@ -147651,5 +147651,49 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xfcce7ebf629e606aa77a13382c167948e6798a92",
+        "date_add": "2024-05-08 12:06:12",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "trollcoin.cc"
+        ],
+        "telegram_groups": [
+            "TrollCoin_official"
+        ],
+        "holders": {
+            "ETH": 336
+        }
+    },
+    {
+        "contract_address": "0xd094d0e1cc2df81f279673331cef176288e796b7",
+        "date_add": "2024-05-08 12:06:12",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dogeth.top"
+        ],
+        "telegram_groups": [
+            "DogTokenETH"
+        ],
+        "holders": {
+            "ETH": 90
+        }
+    },
+    {
+        "contract_address": "0x1d23b4c30a1f6e9161febfb60471713550c35ad8",
+        "date_add": "2024-05-08 12:06:12",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 23
+        }
+    },
+    {
+        "contract_address": "0x34bb07f14daa6a8727fdd97da95bbb6ab52a4a7c",
+        "date_add": "2024-05-08 12:06:12",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 138
+        }
     }
 ]
