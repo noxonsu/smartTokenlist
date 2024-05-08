@@ -146961,5 +146961,71 @@
             "casperinjury.com"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x6f9098e751bf1daae78bac4b05a49fb47a224b90",
+        "date_add": "2024-05-08 00:13:26",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "die20.io"
+        ],
+        "telegram_groups": [
+            "DIEToken"
+        ],
+        "holders": {
+            "ETH": 268
+        }
+    },
+    {
+        "contract_address": "0xe52bdd1fc98cd6c0cd544c0187129c20d4545c7f",
+        "date_add": "2024-05-08 00:13:26",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.tommi.vip"
+        ],
+        "telegram_groups": [
+            "tommi_portal"
+        ],
+        "holders": {
+            "ETH": 66
+        }
+    },
+    {
+        "contract_address": "0x0ad5e5d3a98ec13891aee0bd32467f539d8989e1",
+        "date_add": "2024-05-08 00:13:26",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0x68bb7cec7d0338304a7a98a5ef1aa84a3908e954",
+        "date_add": "2024-05-08 00:13:26",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "candyoneth.com"
+        ],
+        "telegram_groups": [
+            "candyethportal"
+        ],
+        "holders": {
+            "ETH": 39
+        }
+    },
+    {
+        "contract_address": "0x9f9913853f749b3fe6d6d4e16a1cc3c1656b6d51",
+        "date_add": "2024-05-08 00:13:26",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1654
+        }
+    },
+    {
+        "contract_address": "0x3d4911a9c5724fbe1e295a8526eab800c761d3fb",
+        "date_add": "2024-05-08 00:13:26",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8
+        }
     }
 ]
