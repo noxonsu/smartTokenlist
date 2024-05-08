@@ -147040,7 +147040,10 @@
         ],
         "holders": {
             "ETH": 65
-        }
+        },
+        "web_domains": [
+            "foundation.app"
+        ]
     },
     {
         "contract_address": "0xb0790d271a3728d5c2bb5128694c6edceddb0f50",
@@ -147089,7 +147092,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 24
-        }
+        },
+        "web_domains": [
+            "fluffyscandy.com"
+        ]
     },
     {
         "contract_address": "0x107a2e3cd2bb9a32b9ee2e4d51143149f8367eba",
