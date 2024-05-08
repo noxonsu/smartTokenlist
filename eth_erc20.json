@@ -147030,5 +147030,87 @@
         "holders": {
             "ETH": 8
         }
+    },
+    {
+        "contract_address": "0xc675efc98ed4f0d347bce0103ad7e6ffe662f020",
+        "date_add": "2024-05-08 02:05:45",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "MANEKI_ONETH"
+        ],
+        "holders": {
+            "ETH": 65
+        }
+    },
+    {
+        "contract_address": "0xb0790d271a3728d5c2bb5128694c6edceddb0f50",
+        "date_add": "2024-05-08 02:05:45",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xdb6685b400590466e386b2b982ae0bfa4b4ad68c",
+        "date_add": "2024-05-08 02:05:45",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.claypotrice.meme"
+        ],
+        "telegram_groups": [
+            "claypotriceETH"
+        ],
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0xeb0486c243d92aa050f4a688b5471acb85ea9e74",
+        "date_add": "2024-05-08 02:05:45",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "BeffJezosPortal"
+        ],
+        "holders": {
+            "ETH": 83
+        }
+    },
+    {
+        "contract_address": "0xb8e77080f387be6ea93e7e5296595581473e206b",
+        "date_add": "2024-05-08 02:05:45",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xebd75ec17e1f4c1025a3125aa57260e135eeb7e5",
+        "date_add": "2024-05-08 02:05:45",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0x107a2e3cd2bb9a32b9ee2e4d51143149f8367eba",
+        "date_add": "2024-05-08 02:05:45",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 219
+        }
+    },
+    {
+        "contract_address": "0xe27c948102fa42281e43a74c2e0bc1c99b3d152a",
+        "date_add": "2024-05-08 02:05:45",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.shrimpin.wtf"
+        ],
+        "telegram_groups": [
+            "shrempinportal"
+        ],
+        "holders": {
+            "ETH": 159
+        }
     }
 ]
