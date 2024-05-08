@@ -147935,5 +147935,96 @@
         "holders": {
             "ETH": 148
         }
+    },
+    {
+        "contract_address": "0x4d01f7d65617464f6a72e55cc26fd9a3259a2ee3",
+        "date_add": "2024-05-08 18:05:50",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "listrproject.com"
+        ],
+        "telegram_groups": [
+            "ListrPortal",
+            "ListrBotBot",
+            "ListrEcosystem"
+        ],
+        "holders": {
+            "ETH": 240
+        }
+    },
+    {
+        "contract_address": "0x2278f2f1fbf904a6c4a2c0a1df6b34a0ea5b3c84",
+        "date_add": "2024-05-08 18:05:50",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dogwifhatoneth.com"
+        ],
+        "telegram_groups": [
+            "WIF_PORTAL"
+        ],
+        "holders": {
+            "ETH": 189
+        }
+    },
+    {
+        "contract_address": "0x56979e1d9c820d094075fba0535b2c992cd8c0a3",
+        "date_add": "2024-05-08 18:05:50",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.twitter.com",
+            "www.tillywhaleoneth.xyz"
+        ],
+        "telegram_groups": [
+            "tillywhale"
+        ],
+        "holders": {
+            "ETH": 87
+        }
+    },
+    {
+        "contract_address": "0x3b7eab4ca4d9b9810d7e53e5935ab7c24e30949e",
+        "date_add": "2024-05-08 18:05:50",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "MetaRunes.tech",
+            "Docs.MetaRunes.tech"
+        ],
+        "telegram_groups": [
+            "MetaRunes_Portal",
+            "MetarunesBot"
+        ],
+        "holders": {
+            "ETH": 240
+        }
+    },
+    {
+        "contract_address": "0x2be808850abda5d549b5cf601e583b6dc46180f2",
+        "date_add": "2024-05-08 18:05:50",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0xdece238d352abeffee8df47edea8421fced68d7c",
+        "date_add": "2024-05-08 18:05:50",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "elonticker.com"
+        ],
+        "telegram_groups": [
+            "elonticker"
+        ],
+        "holders": {
+            "ETH": 283
+        }
+    },
+    {
+        "contract_address": "0xe623c0adc14a13ebfa2b8e735122b48f1cd1be50",
+        "date_add": "2024-05-08 18:05:50",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 138
+        }
     }
 ]
