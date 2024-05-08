@@ -147321,5 +147321,72 @@
         "holders": {
             "ETH": 103
         }
+    },
+    {
+        "contract_address": "0x9749ac257e5c7ee59a87cd1a2e93fdb9678a64e6",
+        "date_add": "2024-05-08 06:04:43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 469
+        }
+    },
+    {
+        "contract_address": "0xe18ab3568fa19e0ed38bc1d974eddd501e61e12d",
+        "date_add": "2024-05-08 06:04:43",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bankai.app",
+            "bankai.app"
+        ],
+        "telegram_groups": [
+            "bankaieth"
+        ],
+        "holders": {
+            "ETH": 1161
+        }
+    },
+    {
+        "contract_address": "0x571099c4515345fe09b9ebb0054b2e82970a030b",
+        "date_add": "2024-05-08 06:04:43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 280
+        }
+    },
+    {
+        "contract_address": "0xc797c9b523433eb86041d6116898b0cf326c8dc2",
+        "date_add": "2024-05-08 06:04:43",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "kendog.dog"
+        ],
+        "telegram_groups": [
+            "KendogLamar"
+        ],
+        "holders": {
+            "ETH": 261
+        }
+    },
+    {
+        "contract_address": "0xd337382da15d12bb6e56498e91df64f86c8f1ea8",
+        "date_add": "2024-05-08 06:04:43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0x73af41fe7054057218e0eb07fe43ba5f25c7d79f",
+        "date_add": "2024-05-08 06:04:43",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cashcab.io"
+        ],
+        "telegram_groups": [
+            "cashcab"
+        ],
+        "holders": {
+            "ETH": 284
+        }
     }
 ]
