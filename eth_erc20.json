@@ -125995,7 +125995,8 @@
             "ETH": 201
         },
         "telegram_groups": [
-            "xenowave"
+            "xenowave",
+            "xwaveportal"
         ],
         "p6": true,
         "p8": true
@@ -148141,7 +148142,9 @@
         },
         "web_domains": [
             "frens.lol"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x778a13d3eeb110a4f7bb6529f99c000119a08e92",
@@ -148159,11 +148162,13 @@
             "www.xenowaveai.com"
         ],
         "telegram_groups": [
+            "xenowave",
             "xwaveportal"
         ],
         "holders": {
             "ETH": 173
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc03a8c8b7a1e63197c84bf4817ce599f680a5f20",
@@ -148185,13 +148190,18 @@
         ],
         "holders": {
             "ETH": 37
-        }
+        },
+        "emails": [
+            "contact@croggy.vip"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xda7f1b4f42ad68169053990cf048bf316f503e53",
         "date_add": "2024-05-08 22:04:13",
         "sourceScanned": "processed",
         "telegram_groups": [
+            "crodie_drake",
             "Crodie_Portal"
         ],
         "holders": {
@@ -148199,6 +148209,10 @@
         },
         "web_domains": [
             "crodiethecat.io"
-        ]
+        ],
+        "emails": [
+            "crodie2024@gmail.com"
+        ],
+        "p6": true
     }
 ]
