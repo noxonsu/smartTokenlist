@@ -1,8 +1,6 @@
 name: 8 prepare proposals
 
 on:
-  #schedule:
-  #  - cron: '30 * * * *'  #run 
   workflow_dispatch:  # Allows manual run
 
 jobs:
