@@ -149215,7 +149215,8 @@
         },
         "web_domains": [
             "grabasammi.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7e06cd32b15ee9e18f3fec669a40678fff8f87cf",
@@ -149229,7 +149230,8 @@
         ],
         "holders": {
             "ETH": 90
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x78359500f08157eac9ef566040242abca8f4d9ab",
@@ -149240,6 +149242,8 @@
         },
         "web_domains": [
             "app.uniswap.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
