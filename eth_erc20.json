@@ -148678,7 +148678,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 125
-        }
+        },
+        "web_domains": [
+            "uprock.com"
+        ]
     },
     {
         "contract_address": "0x34bdb5e4348abe363eca4d1823ea90e837e55391",
@@ -148714,7 +148717,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 96
-        }
+        },
+        "web_domains": [
+            "pik-swap.com"
+        ]
     },
     {
         "contract_address": "0xa40a8280590b276adae8d9ebcc8aecf723751f8e",
@@ -148722,7 +148728,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 87
-        }
+        },
+        "web_domains": [
+            "wooftools.io"
+        ]
     },
     {
         "contract_address": "0x946679f7f53d82b89671b61cb88c8d74cab6b5d1",
