@@ -148767,5 +148767,43 @@
         "holders": {
             "ETH": 1182
         }
+    },
+    {
+        "contract_address": "0x7e9997a38a439b2be7ed9c9c4628391d3e055d48",
+        "date_add": "2024-05-13 08:05:36",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bzx.network"
+        ],
+        "emails": [
+            "alexey@mixbytes.io"
+        ],
+        "holders": {
+            "ETH": 71
+        }
+    },
+    {
+        "contract_address": "0xe6995ffc4722c506112c1f1a12bfd549013319ef",
+        "date_add": "2024-05-13 08:05:36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1670
+        }
+    },
+    {
+        "contract_address": "0x8b609feb91f765764ff6637e2e9880456fd0e181",
+        "date_add": "2024-05-13 08:05:36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 719
+        }
+    },
+    {
+        "contract_address": "0x447fa9f5dec61e386aa62740d3263f445e08c384",
+        "date_add": "2024-05-13 08:05:36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 112
+        }
     }
 ]
