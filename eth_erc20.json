@@ -148915,7 +148915,11 @@
         ],
         "holders": {
             "ETH": 13
-        }
+        },
+        "emails": [
+            "team@tmnt.fun"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7c1291c6f3d0e9af6f44e91e513143125d3a2550",
@@ -148927,7 +148931,11 @@
         ],
         "holders": {
             "ETH": 118
-        }
+        },
+        "telegram_groups": [
+            "aiisdev"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3175f54a354c83e8ade950c14fa3e32fc794c0dc",
@@ -148980,7 +148988,8 @@
         ],
         "holders": {
             "ETH": 117
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb23baa7c45a9539b847846fbb2066d2ee1ef9885",
@@ -148991,6 +149000,13 @@
         ],
         "holders": {
             "ETH": 73
-        }
+        },
+        "telegram_groups": [
+            "Patton_Coin"
+        ],
+        "emails": [
+            "Patton-eth@hotmail.com"
+        ],
+        "p6": true
     }
 ]
