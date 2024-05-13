@@ -149572,5 +149572,110 @@
         "holders": {
             "ETH": 0
         }
+    },
+    {
+        "contract_address": "0x254529ac150a53ac016a3308bae175b5fe359556",
+        "date_add": "2024-05-13 20:04:27",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 72
+        }
+    },
+    {
+        "contract_address": "0xf1634d63bad7ed23eb63e6412d64d0df384c4fc6",
+        "date_add": "2024-05-13 20:04:27",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.evocplus.com",
+            "docs.evocplus.com"
+        ],
+        "telegram_groups": [
+            "EvocPlus"
+        ],
+        "holders": {
+            "ETH": 312
+        }
+    },
+    {
+        "contract_address": "0x46a57e08443f06ebfbaf21243f53a84c195a552d",
+        "date_add": "2024-05-13 20:04:27",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 128
+        }
+    },
+    {
+        "contract_address": "0x49cb8c737733032714f78e292e25ed5965c09187",
+        "date_add": "2024-05-13 20:04:27",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "samanthaerc"
+        ],
+        "holders": {
+            "ETH": 196
+        }
+    },
+    {
+        "contract_address": "0xb3904a699037655028fac5010b5b4685b0195bdc",
+        "date_add": "2024-05-13 20:04:27",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "roaringkittyeth.com"
+        ],
+        "telegram_groups": [
+            "theroaringkittyeth"
+        ],
+        "holders": {
+            "ETH": 193
+        }
+    },
+    {
+        "contract_address": "0x8121df38a6b60a3cde58c143cbec9ef8717cb4e0",
+        "date_add": "2024-05-13 20:04:27",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "NokiaETH"
+        ],
+        "holders": {
+            "ETH": 74
+        }
+    },
+    {
+        "contract_address": "0x1a6eed39c23f9b49f95d4090cc9f0ec5ddb138f8",
+        "date_add": "2024-05-13 20:04:27",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "woofhouseeth.com"
+        ],
+        "telegram_groups": [
+            "WoofHouseETH"
+        ],
+        "holders": {
+            "ETH": 216
+        }
+    },
+    {
+        "contract_address": "0x409a37d526567f7a2a602cdf2b70a38577602086",
+        "date_add": "2024-05-13 20:04:27",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xf12ec4677b04957d6b0bf0bf9781a45fe6b7cfeb",
+        "date_add": "2024-05-13 20:04:27",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x718dab2c7bbd2d9503dc1ce1dbc215abc41a3545",
+        "date_add": "2024-05-13 20:04:27",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 964
+        }
     }
 ]
