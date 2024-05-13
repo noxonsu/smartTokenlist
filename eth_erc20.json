@@ -149114,7 +149114,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 178
-        }
+        },
+        "web_domains": [
+            "movemovecoin.com"
+        ]
     },
     {
         "contract_address": "0x874cdd9a2e74479483308e7581b733b21c0b3857",
@@ -149150,7 +149153,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 145
-        }
+        },
+        "web_domains": [
+            "roaringkitteh.wtf"
+        ]
     },
     {
         "contract_address": "0xdbd9f5e65314abf3e4c12745861209c330b3b78a",
@@ -149183,7 +149189,10 @@
         ],
         "holders": {
             "ETH": 7
-        }
+        },
+        "web_domains": [
+            "grabasammi.com"
+        ]
     },
     {
         "contract_address": "0x7e06cd32b15ee9e18f3fec669a40678fff8f87cf",
@@ -149205,6 +149214,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 3
-        }
+        },
+        "web_domains": [
+            "app.uniswap.org"
+        ]
     }
 ]
