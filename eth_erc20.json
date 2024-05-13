@@ -148272,7 +148272,8 @@
         ],
         "holders": {
             "ETH": 2514
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x886c869cdc619214138c87f1db0ada522b16dfa3",
@@ -148429,11 +148430,13 @@
             "www.dailymail.co.uk"
         ],
         "telegram_groups": [
-            "simba_ethereum"
+            "simba_ethereum",
+            "Patton_Coin"
         ],
         "holders": {
             "ETH": 149
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc0f2d47d09624e570fa7a91926478a68fbdc660e",
@@ -148447,7 +148450,8 @@
         ],
         "holders": {
             "ETH": 113
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1337b019209218e52a4afe3a77cede16078c7c74",
@@ -148461,7 +148465,8 @@
         ],
         "holders": {
             "ETH": 81
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x83e9115d334d248ce39a6f36144aeab5b3456e75",
@@ -148472,7 +148477,9 @@
         },
         "web_domains": [
             "eigenlayer.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x34b64fd41675520bf5098bbcc37c679ca55fb5df",
@@ -148510,6 +148517,7 @@
         ],
         "holders": {
             "ETH": 251
-        }
+        },
+        "p6": true
     }
 ]
