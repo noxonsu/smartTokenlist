@@ -148849,7 +148849,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 261
-        }
+        },
+        "web_domains": [
+            "paired.co"
+        ]
     },
     {
         "contract_address": "0x784e01e5881b3d0c609cab6613d42a78b3c7ad21",
