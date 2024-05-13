@@ -149086,11 +149086,17 @@
             "wallstreetbetseth.com"
         ],
         "telegram_groups": [
-            "WSBEcoin"
+            "Wsbecoin",
+            "WSBEcoin",
+            "WSBECoin"
         ],
         "holders": {
             "ETH": 383
-        }
+        },
+        "emails": [
+            "team@wallstreetbetseth.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa2cfb06018d8932202d9dc538559c85e20d37d31",
@@ -149117,7 +149123,11 @@
         },
         "web_domains": [
             "movemovecoin.com"
-        ]
+        ],
+        "telegram_groups": [
+            "MMCmovemovecoin"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x874cdd9a2e74479483308e7581b733b21c0b3857",
@@ -149131,7 +149141,8 @@
         ],
         "holders": {
             "ETH": 77
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6836bc0de5a1ece1f19fb7ae7f4e3a534be4bb2d",
@@ -149145,7 +149156,11 @@
         ],
         "holders": {
             "ETH": 350
-        }
+        },
+        "emails": [
+            "keith@roaringkitty.xyz"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd8c978de79e12728e38aa952a6cb4166f891790f",
@@ -149156,7 +149171,11 @@
         },
         "web_domains": [
             "roaringkitteh.wtf"
-        ]
+        ],
+        "telegram_groups": [
+            "roaringkittywtf"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdbd9f5e65314abf3e4c12745861209c330b3b78a",
@@ -149178,7 +149197,11 @@
         ],
         "holders": {
             "ETH": 87
-        }
+        },
+        "emails": [
+            " StarshipXowner420@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x74884d67c0f2d6cbb1345d9c47abacdfaa8dcc15",
