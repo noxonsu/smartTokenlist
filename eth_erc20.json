@@ -149255,7 +149255,9 @@
         },
         "web_domains": [
             "maddogmoney.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe1e1e2dd585c0b10995c4ef292aa9a0795f95811",
@@ -149266,7 +149268,9 @@
         },
         "web_domains": [
             "eigenelephant.xyz"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb597e76ca2ff21b0485ceae42f8cd608995c8096",
@@ -149280,7 +149284,8 @@
         ],
         "holders": {
             "ETH": 285
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x271d97feabead20da374601834dc0716c0161b00",
@@ -149294,7 +149299,8 @@
         ],
         "holders": {
             "ETH": 365
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x74d6383b93e127ba4a7c725c5c3f3dd38ceab151",
@@ -149305,7 +149311,9 @@
         },
         "web_domains": [
             "gamestopcoin.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8610549450d5275ce58008a4168ebecc2c0bd117",
@@ -149318,7 +149326,11 @@
         ],
         "holders": {
             "ETH": 119
-        }
+        },
+        "telegram_groups": [
+            "BizTimes"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd40533fedb2c7a9c981e1c6e430c389230115bc7",
