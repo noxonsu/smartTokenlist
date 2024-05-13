@@ -148308,7 +148308,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 179
-        }
+        },
+        "web_domains": [
+            "nsure.com"
+        ]
     },
     {
         "contract_address": "0xf80e9a15decf2bb656b6a046fcf0b89742c634e7",
@@ -148362,7 +148365,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 29
-        }
+        },
+        "web_domains": [
+            "bingx.com"
+        ]
     },
     {
         "contract_address": "0x29c7bbc93da90435e0e5d150ed4d97b20113b83d",
@@ -148373,7 +148379,10 @@
         ],
         "holders": {
             "ETH": 35
-        }
+        },
+        "web_domains": [
+            "chestertrump.com"
+        ]
     },
     {
         "contract_address": "0x0082ed5fd12f9a4fdc98a5786b0264fc9c938043",
@@ -148395,7 +148404,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 123
-        }
+        },
+        "web_domains": [
+            "midoin.com"
+        ]
     },
     {
         "contract_address": "0x4c7c7c2d9e0fb6870cdcc7baa062768552fc02f4",
@@ -148445,7 +148457,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 2
-        }
+        },
+        "web_domains": [
+            "eigenlayer.com"
+        ]
     },
     {
         "contract_address": "0x34b64fd41675520bf5098bbcc37c679ca55fb5df",
