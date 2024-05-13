@@ -149582,7 +149582,9 @@
         },
         "web_domains": [
             "notcoin.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf1634d63bad7ed23eb63e6412d64d0df384c4fc6",
@@ -149597,7 +149599,11 @@
         ],
         "holders": {
             "ETH": 312
-        }
+        },
+        "emails": [
+            "help@evocplus.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x46a57e08443f06ebfbaf21243f53a84c195a552d",
@@ -149630,7 +149636,8 @@
         ],
         "holders": {
             "ETH": 193
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8121df38a6b60a3cde58c143cbec9ef8717cb4e0",
@@ -149655,7 +149662,8 @@
         ],
         "holders": {
             "ETH": 216
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x409a37d526567f7a2a602cdf2b70a38577602086",
@@ -149674,7 +149682,9 @@
         },
         "web_domains": [
             "worldcoinswap.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x718dab2c7bbd2d9503dc1ce1dbc215abc41a3545",
