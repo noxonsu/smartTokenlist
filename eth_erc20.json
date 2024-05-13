@@ -148571,5 +148571,89 @@
             "ETH": 420
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xa7de087329bfcda5639247f96140f9dabe3deed1",
+        "date_add": "2024-05-13 04:04:58",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4376
+        }
+    },
+    {
+        "contract_address": "0x59f96b8571e3b11f859a09eaf5a790a138fc64d0",
+        "date_add": "2024-05-13 04:04:58",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 139
+        }
+    },
+    {
+        "contract_address": "0x09bc38d247d81ca907813ec8b66b7a0be097f976",
+        "date_add": "2024-05-13 04:04:58",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dogwifnohat.top"
+        ],
+        "telegram_groups": [
+            "dogwifnohaterc"
+        ],
+        "holders": {
+            "ETH": 249
+        }
+    },
+    {
+        "contract_address": "0xa5096db2afd4c8c3ffdcb4c26e5b4dab1d4b7b0d",
+        "date_add": "2024-05-13 04:04:58",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xae17dd52032d4e6f5f36b01598067251c0075513",
+        "date_add": "2024-05-13 04:04:58",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xf4cf2d59ebe27e27fb7bdd4ac0717253e02b1c3f",
+        "date_add": "2024-05-13 04:04:58",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x0cdf9acd87e940837ff21bb40c9fd55f68bba059",
+        "date_add": "2024-05-13 04:04:58",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5358
+        }
+    },
+    {
+        "contract_address": "0x006bea43baa3f7a6f765f14f10a1a1b08334ef45",
+        "date_add": "2024-05-13 04:04:58",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 18917
+        }
+    },
+    {
+        "contract_address": "0x988f10193d3e88315e45d6c4356f2b9e357996f5",
+        "date_add": "2024-05-13 04:04:58",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "marcorubiocoin.com"
+        ],
+        "telegram_groups": [
+            "MarcoRubioMemeCoin"
+        ],
+        "holders": {
+            "ETH": 61
+        }
     }
 ]
