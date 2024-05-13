@@ -149712,7 +149712,9 @@
         ],
         "holders": {
             "ETH": 13
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2a2b5c4a539e839e0676f8265488f86c7d32a7c8",
@@ -149723,7 +149725,9 @@
         },
         "web_domains": [
             "myyummytacos.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc994d13e55291d663dae4f426905d9c018e47c7c",
@@ -149737,7 +149741,8 @@
         ],
         "holders": {
             "ETH": 129
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xaa990c08fe244ac62970eac62ccc22baf27105de",
@@ -149759,7 +149764,8 @@
         ],
         "holders": {
             "ETH": 385
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9361adf2b72f413d96f81ff40d794b47ce13b331",
@@ -149773,7 +149779,8 @@
         ],
         "holders": {
             "ETH": 259
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6f88454f825ba1c202b9ee3b97c9defe3bafcc0b",
