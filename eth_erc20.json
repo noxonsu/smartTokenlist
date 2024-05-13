@@ -148670,7 +148670,8 @@
         ],
         "holders": {
             "ETH": 395
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd19f85129b5a37d44b6d439621b9ea5769f76a1c",
@@ -148681,7 +148682,9 @@
         },
         "web_domains": [
             "uprock.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x34bdb5e4348abe363eca4d1823ea90e837e55391",
@@ -148695,7 +148698,8 @@
         ],
         "holders": {
             "ETH": 200
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd8695414822e25ab796c1d360914ddf510a01138",
@@ -148720,7 +148724,9 @@
         },
         "web_domains": [
             "pik-swap.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa40a8280590b276adae8d9ebcc8aecf723751f8e",
@@ -148731,7 +148737,14 @@
         },
         "web_domains": [
             "wooftools.io"
-        ]
+        ],
+        "telegram_groups": [
+            "woof_tools"
+        ],
+        "emails": [
+            "hi.wooftools@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x946679f7f53d82b89671b61cb88c8d74cab6b5d1",
