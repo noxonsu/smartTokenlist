@@ -149245,5 +149245,109 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xecdcfb8715bd04249453ff00dcc1dec9e0c83f10",
+        "date_add": "2024-05-13 16:05:25",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xe1e1e2dd585c0b10995c4ef292aa9a0795f95811",
+        "date_add": "2024-05-13 16:05:25",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 168
+        }
+    },
+    {
+        "contract_address": "0xb597e76ca2ff21b0485ceae42f8cd608995c8096",
+        "date_add": "2024-05-13 16:05:25",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "amconerc.xyz"
+        ],
+        "telegram_groups": [
+            "AMCOnErc"
+        ],
+        "holders": {
+            "ETH": 285
+        }
+    },
+    {
+        "contract_address": "0x271d97feabead20da374601834dc0716c0161b00",
+        "date_add": "2024-05-13 16:05:25",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.elchapo.vip"
+        ],
+        "telegram_groups": [
+            "elchapoportal"
+        ],
+        "holders": {
+            "ETH": 365
+        }
+    },
+    {
+        "contract_address": "0x74d6383b93e127ba4a7c725c5c3f3dd38ceab151",
+        "date_add": "2024-05-13 16:05:25",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 31
+        }
+    },
+    {
+        "contract_address": "0x8610549450d5275ce58008a4168ebecc2c0bd117",
+        "date_add": "2024-05-13 16:05:25",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.businesstimes.com.sg",
+            "www.nytimes.com",
+            "perplexityai.io"
+        ],
+        "holders": {
+            "ETH": 119
+        }
+    },
+    {
+        "contract_address": "0xd40533fedb2c7a9c981e1c6e430c389230115bc7",
+        "date_add": "2024-05-13 16:05:25",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "WOLVERINEerc"
+        ],
+        "holders": {
+            "ETH": 95
+        }
+    },
+    {
+        "contract_address": "0xedef69c094899e812718245d64f30a0a296e5dca",
+        "date_add": "2024-05-13 16:05:25",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Illdoitmyselfeth"
+        ],
+        "holders": {
+            "ETH": 34
+        }
+    },
+    {
+        "contract_address": "0x2b04dfd108f80a0a12e9e0fba1bf3de342a87f85",
+        "date_add": "2024-05-13 16:05:25",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "robomumu.com",
+            "docs.robomumu.com",
+            "linktr.ee"
+        ],
+        "telegram_groups": [
+            "RoboMumuToken",
+            "RoboMumuNews"
+        ],
+        "holders": {
+            "ETH": 139
+        }
     }
 ]
