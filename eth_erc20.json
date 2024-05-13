@@ -148300,7 +148300,8 @@
         ],
         "holders": {
             "ETH": 129
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc7bb03ddd9311fc0338be013e7b523254092fda9",
@@ -148311,7 +148312,12 @@
         },
         "web_domains": [
             "nsure.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "contact@nsure.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf80e9a15decf2bb656b6a046fcf0b89742c634e7",
@@ -148349,7 +148355,8 @@
         ],
         "holders": {
             "ETH": 3
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5f887093997a371559d8f847d634a52577efcf94",
@@ -148368,7 +148375,9 @@
         },
         "web_domains": [
             "bingx.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x29c7bbc93da90435e0e5d150ed4d97b20113b83d",
@@ -148382,7 +148391,8 @@
         },
         "web_domains": [
             "chestertrump.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0082ed5fd12f9a4fdc98a5786b0264fc9c938043",
@@ -148407,7 +148417,9 @@
         },
         "web_domains": [
             "midoin.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4c7c7c2d9e0fb6870cdcc7baa062768552fc02f4",
