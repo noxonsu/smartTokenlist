@@ -149008,5 +149008,60 @@
             "Patton-eth@hotmail.com"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x1f5f61caee88feb12f264e9bf570361f7318de8f",
+        "date_add": "2024-05-13 12:06:25",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "taolayer.com",
+            "docs.taolayer.com"
+        ],
+        "telegram_groups": [
+            "Taolayer2024"
+        ],
+        "holders": {
+            "ETH": 103
+        }
+    },
+    {
+        "contract_address": "0xa19c6c51f1eaf013e50a78d4452f33dabef971a3",
+        "date_add": "2024-05-13 12:06:25",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 117
+        }
+    },
+    {
+        "contract_address": "0xb467c958416df2210ca77831c78c440eb86f3a42",
+        "date_add": "2024-05-13 12:06:25",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6351
+        }
+    },
+    {
+        "contract_address": "0x85b3d00bb22b8bd4fec4ce36d72c3045d3979248",
+        "date_add": "2024-05-13 12:06:25",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bitcointalk.org",
+            "coinpal.pro"
+        ],
+        "telegram_groups": [
+            "CoinpalErc",
+            "CoinPalErcBot"
+        ],
+        "holders": {
+            "ETH": 136
+        }
+    },
+    {
+        "contract_address": "0x90551c1795392094fe6d29b758eccd233cfaa260",
+        "date_add": "2024-05-13 12:06:25",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 179
+        }
     }
 ]
