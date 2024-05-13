@@ -148657,5 +148657,93 @@
             "ETH": 61
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xc56c7a0eaa804f854b536a5f3d5f49d2ec4b12b8",
+        "date_add": "2024-05-13 06:05:17",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "gamestop-coin.vip"
+        ],
+        "telegram_groups": [
+            "GME_ERC20"
+        ],
+        "holders": {
+            "ETH": 395
+        }
+    },
+    {
+        "contract_address": "0xd19f85129b5a37d44b6d439621b9ea5769f76a1c",
+        "date_add": "2024-05-13 06:05:17",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 125
+        }
+    },
+    {
+        "contract_address": "0x34bdb5e4348abe363eca4d1823ea90e837e55391",
+        "date_add": "2024-05-13 06:05:17",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "amcmeme.com"
+        ],
+        "telegram_groups": [
+            "amcoinerc20"
+        ],
+        "holders": {
+            "ETH": 200
+        }
+    },
+    {
+        "contract_address": "0xd8695414822e25ab796c1d360914ddf510a01138",
+        "date_add": "2024-05-13 06:05:17",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.kreaitor.io"
+        ],
+        "telegram_groups": [
+            "KreaitorAI"
+        ],
+        "holders": {
+            "ETH": 564
+        }
+    },
+    {
+        "contract_address": "0xc15dde92a9b9e7b555c45896fc118140427b0a9e",
+        "date_add": "2024-05-13 06:05:17",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 96
+        }
+    },
+    {
+        "contract_address": "0xa40a8280590b276adae8d9ebcc8aecf723751f8e",
+        "date_add": "2024-05-13 06:05:17",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 87
+        }
+    },
+    {
+        "contract_address": "0x946679f7f53d82b89671b61cb88c8d74cab6b5d1",
+        "date_add": "2024-05-13 06:05:17",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Dfv_Erc"
+        ],
+        "holders": {
+            "ETH": 174
+        }
+    },
+    {
+        "contract_address": "0x789e29153a3c5e6598368716f8c146b5ebeff969",
+        "date_add": "2024-05-13 06:05:17",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ashbiemoon.com"
+        ],
+        "holders": {
+            "ETH": 1182
+        }
     }
 ]
