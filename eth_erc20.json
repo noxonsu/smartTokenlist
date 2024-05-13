@@ -143972,8 +143972,8 @@
         ],
         "telegram_groups": [
             "tdogerc20",
-            "clarkgthedog",
-            "BellsCoin"
+            "BellsCoin",
+            "clarkgthedog"
         ],
         "holders": {
             "ETH": 464
@@ -145034,10 +145034,10 @@
             "bitcointalk.org"
         ],
         "telegram_groups": [
+            "BELLS_dog",
             "tdogerc20",
-            "clarkgthedog",
             "BellsCoin",
-            "BELLS_dog"
+            "clarkgthedog"
         ],
         "holders": {
             "ETH": 24
@@ -149022,7 +149022,8 @@
         ],
         "holders": {
             "ETH": 103
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa19c6c51f1eaf013e50a78d4452f33dabef971a3",
@@ -149049,12 +149050,17 @@
             "coinpal.pro"
         ],
         "telegram_groups": [
+            "BellsCoin",
             "CoinpalErc",
-            "CoinPalErcBot"
+            "BELLS_dog",
+            "CoinPalErcBot",
+            "tdogerc20",
+            "clarkgthedog"
         ],
         "holders": {
             "ETH": 136
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x90551c1795392094fe6d29b758eccd233cfaa260",
