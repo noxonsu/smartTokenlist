@@ -149693,5 +149693,94 @@
         "holders": {
             "ETH": 964
         }
+    },
+    {
+        "contract_address": "0x06768231fa94b659fea37fba72b23611be1f50cc",
+        "date_add": "2024-05-13 22:04:06",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 60
+        }
+    },
+    {
+        "contract_address": "0xb98cc5a5bac25b33c76db4862b9bea8a1e2cd14f",
+        "date_add": "2024-05-13 22:04:06",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.worldwide-wade.com",
+            "discord.com"
+        ],
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0x2a2b5c4a539e839e0676f8265488f86c7d32a7c8",
+        "date_add": "2024-05-13 22:04:06",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0xc994d13e55291d663dae4f426905d9c018e47c7c",
+        "date_add": "2024-05-13 22:04:06",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bedbathandbeyond.vip"
+        ],
+        "telegram_groups": [
+            "BBBonETH"
+        ],
+        "holders": {
+            "ETH": 129
+        }
+    },
+    {
+        "contract_address": "0xaa990c08fe244ac62970eac62ccc22baf27105de",
+        "date_add": "2024-05-13 22:04:06",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 279
+        }
+    },
+    {
+        "contract_address": "0xf5069ffb7d29c62beb1b6d70db911d9137256d35",
+        "date_add": "2024-05-13 22:04:06",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "detorai.com"
+        ],
+        "telegram_groups": [
+            "detoraierc"
+        ],
+        "holders": {
+            "ETH": 385
+        }
+    },
+    {
+        "contract_address": "0x9361adf2b72f413d96f81ff40d794b47ce13b331",
+        "date_add": "2024-05-13 22:04:06",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sonoftrump.xyz"
+        ],
+        "telegram_groups": [
+            "sonoftrump_ERC"
+        ],
+        "holders": {
+            "ETH": 259
+        }
+    },
+    {
+        "contract_address": "0x6f88454f825ba1c202b9ee3b97c9defe3bafcc0b",
+        "date_add": "2024-05-13 22:04:06",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "RoaringPhands"
+        ],
+        "holders": {
+            "ETH": 37
+        }
     }
 ]
