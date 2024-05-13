@@ -149443,7 +149443,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 52
-        }
+        },
+        "web_domains": [
+            "988lifeline.org"
+        ]
     },
     {
         "contract_address": "0x4cee40827418a50a93c49940db8bf3472cf053ff",
@@ -149451,7 +149454,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 7
-        }
+        },
+        "web_domains": [
+            "app.debridge.finance"
+        ]
     },
     {
         "contract_address": "0xbe897b5238205ef7a35cf6574e8f4200c5813c26",
