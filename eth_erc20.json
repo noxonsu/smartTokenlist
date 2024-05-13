@@ -149395,7 +149395,8 @@
         ],
         "holders": {
             "ETH": 431
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8f041fdda5a48c84b9b0e0b0663ed0aa7353daff",
@@ -149410,7 +149411,8 @@
         ],
         "holders": {
             "ETH": 36
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9b39668719a3abda9ffef52879663813497b966c",
@@ -149424,7 +149426,8 @@
         ],
         "holders": {
             "ETH": 26
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf6c684cc0e3e3cbc182f12b7d6f91534235a33d6",
@@ -149446,7 +149449,9 @@
         },
         "web_domains": [
             "988lifeline.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4cee40827418a50a93c49940db8bf3472cf053ff",
@@ -149457,7 +149462,9 @@
         },
         "web_domains": [
             "app.debridge.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xbe897b5238205ef7a35cf6574e8f4200c5813c26",
@@ -149471,7 +149478,8 @@
         ],
         "holders": {
             "ETH": 138
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7da5ca695e71e1c23a71de9ba59e863c145c20e3",
