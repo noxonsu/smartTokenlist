@@ -148548,12 +148548,12 @@
             "http"
         ],
         "telegram_groups": [
-            "ElonWifTrumpeth",
             "ElonWifTrumpeth"
         ],
         "holders": {
             "ETH": 266
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2024476f6b83fc8cf59bfa9c91d41b0d336682c6",
@@ -148564,10 +148564,12 @@
             "maga2024.vip"
         ],
         "telegram_groups": [
+            "HonestDoneth",
             "MAGA2024coinerc20"
         ],
         "holders": {
             "ETH": 420
-        }
+        },
+        "p6": true
     }
 ]
