@@ -149252,7 +149252,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "maddogmoney.com"
+        ]
     },
     {
         "contract_address": "0xe1e1e2dd585c0b10995c4ef292aa9a0795f95811",
@@ -149260,7 +149263,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 168
-        }
+        },
+        "web_domains": [
+            "eigenelephant.xyz"
+        ]
     },
     {
         "contract_address": "0xb597e76ca2ff21b0485ceae42f8cd608995c8096",
@@ -149296,7 +149302,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 31
-        }
+        },
+        "web_domains": [
+            "gamestopcoin.com"
+        ]
     },
     {
         "contract_address": "0x8610549450d5275ce58008a4168ebecc2c0bd117",
@@ -149320,7 +149329,10 @@
         ],
         "holders": {
             "ETH": 95
-        }
+        },
+        "web_domains": [
+            "campmustelid.shop"
+        ]
     },
     {
         "contract_address": "0xedef69c094899e812718245d64f30a0a296e5dca",
@@ -149331,7 +149343,10 @@
         ],
         "holders": {
             "ETH": 34
-        }
+        },
+        "web_domains": [
+            "creatorset.com"
+        ]
     },
     {
         "contract_address": "0x2b04dfd108f80a0a12e9e0fba1bf3de342a87f85",
