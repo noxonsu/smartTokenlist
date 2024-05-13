@@ -149579,7 +149579,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 72
-        }
+        },
+        "web_domains": [
+            "notcoin.com"
+        ]
     },
     {
         "contract_address": "0xf1634d63bad7ed23eb63e6412d64d0df384c4fc6",
@@ -149668,7 +149671,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 19
-        }
+        },
+        "web_domains": [
+            "worldcoinswap.io"
+        ]
     },
     {
         "contract_address": "0x718dab2c7bbd2d9503dc1ce1dbc215abc41a3545",
