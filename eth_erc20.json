@@ -148519,5 +148519,55 @@
             "ETH": 251
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x81994dfbbe69c9e03226c2ebe62f7352dc3db812",
+        "date_add": "2024-05-13 02:15:52",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 340
+        }
+    },
+    {
+        "contract_address": "0xcedd98ac692739fe6f34900840b9ff216962c637",
+        "date_add": "2024-05-13 02:15:52",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "roaringkittyerc20"
+        ],
+        "holders": {
+            "ETH": 283
+        }
+    },
+    {
+        "contract_address": "0x78128d17a89e5fe51bd0e757cfbc5703c34c7fb6",
+        "date_add": "2024-05-13 02:15:52",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "http",
+            "http"
+        ],
+        "telegram_groups": [
+            "ElonWifTrumpeth",
+            "ElonWifTrumpeth"
+        ],
+        "holders": {
+            "ETH": 266
+        }
+    },
+    {
+        "contract_address": "0x2024476f6b83fc8cf59bfa9c91d41b0d336682c6",
+        "date_add": "2024-05-13 02:15:52",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "truthsocial.com",
+            "maga2024.vip"
+        ],
+        "telegram_groups": [
+            "MAGA2024coinerc20"
+        ],
+        "holders": {
+            "ETH": 420
+        }
     }
 ]
