@@ -150061,7 +150061,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 56
-        }
+        },
+        "web_domains": [
+            "investfi.com"
+        ]
     },
     {
         "contract_address": "0x4c7f1b3e234e425bb129a6a0d8368f8933c7ff71",
