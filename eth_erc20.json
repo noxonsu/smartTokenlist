@@ -150370,7 +150370,10 @@
         ],
         "holders": {
             "ETH": 37
-        }
+        },
+        "web_domains": [
+            "wallstreetdoge.online"
+        ]
     },
     {
         "contract_address": "0xe2ebe38a00adabd62ca3e97eeb9b260735f9f8f3",
@@ -150395,7 +150398,10 @@
         ],
         "holders": {
             "ETH": 35
-        }
+        },
+        "web_domains": [
+            "koss.com"
+        ]
     },
     {
         "contract_address": "0xc18a9c3532dbd664cb7a3dbb08a59e55680ea7d6",
@@ -150425,7 +150431,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 16
-        }
+        },
+        "web_domains": [
+            "retik.com"
+        ]
     },
     {
         "contract_address": "0xb9a4ffb1e21ce31f24a7d37e044122a09235ecb3",
