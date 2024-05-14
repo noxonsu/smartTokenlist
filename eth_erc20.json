@@ -149878,5 +149878,68 @@
         "holders": {
             "ETH": 93
         }
+    },
+    {
+        "contract_address": "0x7650bf721e448eea109026babc99c36f20cc23c4",
+        "date_add": "2024-05-14 02:13:30",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 31
+        }
+    },
+    {
+        "contract_address": "0x8b5ae965d54019fabdfd327c2325c9d422f271d1",
+        "date_add": "2024-05-14 02:13:30",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "chikafujiwara.live"
+        ],
+        "telegram_groups": [
+            "chikaerc"
+        ],
+        "holders": {
+            "ETH": 60
+        }
+    },
+    {
+        "contract_address": "0x33ed2720149ddb3f24a1dc43fca34da2cb455eaa",
+        "date_add": "2024-05-14 02:13:30",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dumbmoney.biz"
+        ],
+        "telegram_groups": [
+            "dumbmoneybiz"
+        ],
+        "holders": {
+            "ETH": 166
+        }
+    },
+    {
+        "contract_address": "0x1d9aeba7a8d27ff9000d6215b792e79ff1d1865c",
+        "date_add": "2024-05-14 02:13:30",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "kittywifhat_eth"
+        ],
+        "holders": {
+            "ETH": 117
+        }
+    },
+    {
+        "contract_address": "0x56589c7b4725872e8799a0b2f2bf97a833021a37",
+        "date_add": "2024-05-14 02:13:30",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 41
+        }
+    },
+    {
+        "contract_address": "0xf2eab3a2034d3f6b63734d2e08262040e3ff7b48",
+        "date_add": "2024-05-14 02:13:30",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 102246
+        }
     }
 ]
