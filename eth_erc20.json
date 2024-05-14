@@ -105103,9 +105103,9 @@
         ],
         "telegram_groups": [
             "WagieTokenSOL",
+            "MononokeTokenOfficial",
             "NauxeAI",
             "WagieTokenERC",
-            "MononokeTokenOfficial",
             "luffytokenchannel"
         ],
         "holders": {
@@ -107013,11 +107013,11 @@
             "elsapopepe.vip"
         ],
         "telegram_groups": [
-            "ogpepecoineth",
             "WagieTokenSOL",
+            "ogpepecoineth",
+            "MononokeTokenOfficial",
             "NauxeAI",
             "WagieTokenERC",
-            "MononokeTokenOfficial",
             "luffytokenchannel"
         ],
         "holders": {
@@ -137247,13 +137247,13 @@
             "www.ogetherium.vip"
         ],
         "telegram_groups": [
-            "ogpepecoineth",
             "WagieTokenSOL",
+            "ogpepecoineth",
+            "MononokeTokenOfficial",
             "NauxeAI",
             "WagieTokenERC",
-            "MononokeTokenOfficial",
-            "luffytokenchannel",
-            "etheriumcoineth"
+            "etheriumcoineth",
+            "luffytokenchannel"
         ],
         "holders": {
             "ETH": 333
@@ -149820,14 +149820,14 @@
             "keithgillhodl.com"
         ],
         "telegram_groups": [
-            "ogpepecoineth",
-            "NauxeAI",
+            "hodldfv",
             "MononokeTokenOfficial",
-            "luffytokenchannel",
-            "etheriumcoineth",
-            "WagieTokenSOL",
             "WagieTokenERC",
-            "hodldfv"
+            "luffytokenchannel",
+            "WagieTokenSOL",
+            "etheriumcoineth",
+            "NauxeAI",
+            "ogpepecoineth"
         ],
         "holders": {
             "ETH": 150
@@ -150064,7 +150064,9 @@
         },
         "web_domains": [
             "investfi.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4c7f1b3e234e425bb129a6a0d8368f8933c7ff71",
@@ -150075,11 +150077,20 @@
             "bbby.pro"
         ],
         "telegram_groups": [
-            "BbbyERC20"
+            "hodldfv",
+            "MononokeTokenOfficial",
+            "WagieTokenERC",
+            "luffytokenchannel",
+            "WagieTokenSOL",
+            "etheriumcoineth",
+            "NauxeAI",
+            "BbbyERC20",
+            "ogpepecoineth"
         ],
         "holders": {
             "ETH": 69
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc5e6c0fa0a0b8fedac5e575c96f838fe37fc6c5a",
@@ -150093,7 +150104,8 @@
         ],
         "holders": {
             "ETH": 365
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xcbaebb84fe51263a01f22193282e11d5e5b53536",
@@ -150104,7 +150116,11 @@
         ],
         "holders": {
             "ETH": 69
-        }
+        },
+        "telegram_groups": [
+            "GME_ERC20"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd7780af89a01598f09fe636f3794e81e12befe16",
@@ -150118,6 +150134,10 @@
         ],
         "holders": {
             "ETH": 491
-        }
+        },
+        "emails": [
+            "TEAM@DANK.LOL"
+        ],
+        "p6": true
     }
 ]
