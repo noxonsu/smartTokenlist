@@ -151022,5 +151022,60 @@
             "Contact@eyesecuai.com"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0xbd3b44b64b4bc41b3e8b418e7aa06fad4f670983",
+        "date_add": "2024-05-14 22:05:01",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dogwifbread.vip"
+        ],
+        "telegram_groups": [
+            "DogWifBreadToken"
+        ],
+        "holders": {
+            "ETH": 277
+        }
+    },
+    {
+        "contract_address": "0x448e650515d2f2a085dc03ad59cf3a34fa50daf4",
+        "date_add": "2024-05-14 22:05:01",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "PeachesETH"
+        ],
+        "holders": {
+            "ETH": 121
+        }
+    },
+    {
+        "contract_address": "0x0104dae1213aa2dbda62b2548b1c0e78bfa068c6",
+        "date_add": "2024-05-14 22:05:01",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "memestop.vip"
+        ],
+        "telegram_groups": [
+            "MemeStop_VIP"
+        ],
+        "holders": {
+            "ETH": 145
+        }
+    },
+    {
+        "contract_address": "0x79d0421bedaf47f40883a79a2c97eee9b6435771",
+        "date_add": "2024-05-14 22:05:01",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0x66892043aef75452925f361e11b85f7c32f02eff",
+        "date_add": "2024-05-14 22:05:01",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
     }
 ]
