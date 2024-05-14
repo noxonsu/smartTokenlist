@@ -149742,7 +149742,8 @@
         "holders": {
             "ETH": 129
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0xaa990c08fe244ac62970eac62ccc22baf27105de",
@@ -149809,7 +149810,8 @@
         "emails": [
             "hello@beatfi.ai"
         ],
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x0f6ccd97774687def68512e708c6b1d299cf0881",
@@ -149963,7 +149965,8 @@
         "holders": {
             "ETH": 70
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x1986060882cca11c8a3933a921834e5174460fab",
@@ -149978,7 +149981,8 @@
         "holders": {
             "ETH": 174
         },
-        "p6": true
+        "p6": true,
+        "p8": true
     },
     {
         "contract_address": "0x33d32b2451d5ffcb590eb18b7d74a258affcd41a",
