@@ -149888,7 +149888,9 @@
         },
         "web_domains": [
             "starship.xyz"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8b5ae965d54019fabdfd327c2325c9d422f271d1",
@@ -149902,7 +149904,8 @@
         ],
         "holders": {
             "ETH": 60
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x33ed2720149ddb3f24a1dc43fca34da2cb455eaa",
@@ -149916,7 +149919,8 @@
         ],
         "holders": {
             "ETH": 166
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1d9aeba7a8d27ff9000d6215b792e79ff1d1865c",
