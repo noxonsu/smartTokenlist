@@ -150843,5 +150843,131 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xda072f54cdb9100e62fde31c60fbee555dc43a76",
+        "date_add": "2024-05-14 18:04:38",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hackmd.io",
+            "code4rena.com"
+        ],
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x22129b2ddf4d20489cd075d90130ba344474696e",
+        "date_add": "2024-05-14 18:04:38",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "VeoAIToken"
+        ],
+        "holders": {
+            "ETH": 265
+        }
+    },
+    {
+        "contract_address": "0xec39b4077d4c6a8c3113f648b6ab680e0cf445fc",
+        "date_add": "2024-05-14 18:04:38",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "roaringpepe.online"
+        ],
+        "telegram_groups": [
+            "RoaringpepeERC20"
+        ],
+        "holders": {
+            "ETH": 125
+        }
+    },
+    {
+        "contract_address": "0x1af2b3a0e20817348544f3ebfebb28fcbd6b67e9",
+        "date_add": "2024-05-14 18:04:38",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 291
+        }
+    },
+    {
+        "contract_address": "0x1af4f195a8aaa7ffd752c28a13b719b84056f0d6",
+        "date_add": "2024-05-14 18:04:38",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3864
+        }
+    },
+    {
+        "contract_address": "0xd1f287a269ae55a0aaa5de3bbdf1c40780a4b58e",
+        "date_add": "2024-05-14 18:04:38",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "degen50.com"
+        ],
+        "telegram_groups": [
+            "Degen50_OFFICIAL"
+        ],
+        "holders": {
+            "ETH": 239
+        }
+    },
+    {
+        "contract_address": "0xf539362a55631c2ce709d93c4441ba0f44a22650",
+        "date_add": "2024-05-14 18:04:38",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xbb2a1e7dc2646161e5e0bee5a20a21d7e240663d",
+        "date_add": "2024-05-14 18:04:38",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0x718174097c79e6c8d41e942a2f8abae9d9471d14",
+        "date_add": "2024-05-14 18:04:38",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.wallstreetmong.com"
+        ],
+        "telegram_groups": [
+            "wallstreetmong"
+        ],
+        "holders": {
+            "ETH": 70
+        }
+    },
+    {
+        "contract_address": "0x18456676da602f7445b8888e564c3635a35fbe1c",
+        "date_add": "2024-05-14 18:04:38",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "notcoineth.xyz"
+        ],
+        "telegram_groups": [
+            "Notoneth"
+        ],
+        "holders": {
+            "ETH": 42
+        }
+    },
+    {
+        "contract_address": "0x6b83be055754d565918e7629ccc2cc2ae6a4b90c",
+        "date_add": "2024-05-14 18:04:38",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "decentraai.io",
+            "Twitter.com"
+        ],
+        "telegram_groups": [
+            "aidecentra"
+        ],
+        "holders": {
+            "ETH": 4
+        }
     }
 ]
