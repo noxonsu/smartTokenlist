@@ -151035,7 +151035,8 @@
         ],
         "holders": {
             "ETH": 277
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x448e650515d2f2a085dc03ad59cf3a34fa50daf4",
@@ -151060,7 +151061,8 @@
         ],
         "holders": {
             "ETH": 145
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x79d0421bedaf47f40883a79a2c97eee9b6435771",
@@ -151071,7 +151073,9 @@
         },
         "web_domains": [
             "marsmars.fi"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x66892043aef75452925f361e11b85f7c32f02eff",
@@ -151082,6 +151086,8 @@
         },
         "web_domains": [
             "imf.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
