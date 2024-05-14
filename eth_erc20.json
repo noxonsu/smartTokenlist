@@ -150717,7 +150717,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 16
-        }
+        },
+        "web_domains": [
+            "expenterprise.com"
+        ]
     },
     {
         "contract_address": "0x02055df6635746b61ae13b613aca8b54e78e1969",
@@ -150753,7 +150756,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 257
-        }
+        },
+        "web_domains": [
+            "mrweb.finance"
+        ]
     },
     {
         "contract_address": "0xb942ec8345a770e75c3a91072db3529c85776f0e",
@@ -150772,7 +150778,10 @@
         ],
         "holders": {
             "ETH": 135
-        }
+        },
+        "web_domains": [
+            "reutersevents.com"
+        ]
     },
     {
         "contract_address": "0x4785d4a5d9e575855dc6fc5df971edc438a786bf",
@@ -150812,6 +150821,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 260
-        }
+        },
+        "web_domains": [
+            "galaxis.xyz"
+        ]
     }
 ]
