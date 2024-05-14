@@ -149799,7 +149799,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 84
-        }
+        },
+        "web_domains": [
+            "beatfi.ai"
+        ]
     },
     {
         "contract_address": "0x0f6ccd97774687def68512e708c6b1d299cf0881",
@@ -149845,7 +149848,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 89
-        }
+        },
+        "web_domains": [
+            "ipljad.com"
+        ]
     },
     {
         "contract_address": "0x9e85df2b42b2ae5e666d7263ed81a744a534bf1f",
