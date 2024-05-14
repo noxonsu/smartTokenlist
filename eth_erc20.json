@@ -150054,5 +150054,67 @@
         "holders": {
             "ETH": 706
         }
+    },
+    {
+        "contract_address": "0x12defef07b7d8f5e549106402ebab8f875f4b27a",
+        "date_add": "2024-05-14 06:06:26",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 56
+        }
+    },
+    {
+        "contract_address": "0x4c7f1b3e234e425bb129a6a0d8368f8933c7ff71",
+        "date_add": "2024-05-14 06:06:26",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.reddit.com",
+            "bbby.pro"
+        ],
+        "telegram_groups": [
+            "BbbyERC20"
+        ],
+        "holders": {
+            "ETH": 69
+        }
+    },
+    {
+        "contract_address": "0xc5e6c0fa0a0b8fedac5e575c96f838fe37fc6c5a",
+        "date_add": "2024-05-14 06:06:26",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.lolguy.lol"
+        ],
+        "telegram_groups": [
+            "Lolguyportal"
+        ],
+        "holders": {
+            "ETH": 365
+        }
+    },
+    {
+        "contract_address": "0xcbaebb84fe51263a01f22193282e11d5e5b53536",
+        "date_add": "2024-05-14 06:06:26",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "gamestop-coin.vip"
+        ],
+        "holders": {
+            "ETH": 69
+        }
+    },
+    {
+        "contract_address": "0xd7780af89a01598f09fe636f3794e81e12befe16",
+        "date_add": "2024-05-14 06:06:26",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dank.lol"
+        ],
+        "telegram_groups": [
+            "DankestCoin"
+        ],
+        "holders": {
+            "ETH": 491
+        }
     }
 ]
