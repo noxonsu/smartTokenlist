@@ -150854,7 +150854,9 @@
         ],
         "holders": {
             "ETH": 2
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x22129b2ddf4d20489cd075d90130ba344474696e",
@@ -150868,7 +150870,8 @@
         },
         "web_domains": [
             "veo.co"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xec39b4077d4c6a8c3113f648b6ab680e0cf445fc",
@@ -150882,7 +150885,8 @@
         ],
         "holders": {
             "ETH": 125
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1af2b3a0e20817348544f3ebfebb28fcbd6b67e9",
@@ -150912,7 +150916,8 @@
         ],
         "holders": {
             "ETH": 239
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf539362a55631c2ce709d93c4441ba0f44a22650",
@@ -150931,7 +150936,12 @@
         },
         "web_domains": [
             "getjerry.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "hi@getjerry.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x718174097c79e6c8d41e942a2f8abae9d9471d14",
@@ -150945,7 +150955,8 @@
         ],
         "holders": {
             "ETH": 70
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x18456676da602f7445b8888e564c3635a35fbe1c",
