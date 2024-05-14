@@ -150149,7 +150149,12 @@
         },
         "web_domains": [
             "pomelogames.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "hello@pomelogames.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9a670e4da6b7bf85f4afb2f869c84e9e7fc41e30",
@@ -150163,7 +150168,8 @@
         ],
         "holders": {
             "ETH": 195
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0accdc30cf7df9c42346b6214d2dcb8b1307b2f8",
@@ -150174,7 +150180,11 @@
         ],
         "holders": {
             "ETH": 20
-        }
+        },
+        "telegram_groups": [
+            "aidecentra"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x57f6079d64aa498fc10d5d915b6db49f9d9a8fb2",
@@ -150201,7 +150211,9 @@
         },
         "web_domains": [
             "blazecu.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe790b3c72ced65adf6c6d5789a6f7b16d5b24882",
@@ -150215,7 +150227,11 @@
         ],
         "holders": {
             "ETH": 59
-        }
+        },
+        "emails": [
+            "ketaminekittyeth@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf0c5d934885728867abdf7929866bf7b872a8226",
@@ -150225,10 +150241,16 @@
             "melvincapital.vip"
         ],
         "telegram_groups": [
-            "MelvinCapitalERC"
+            "MelvinCapitalERC",
+            "MelvincapitalERC",
+            "melvincapitalERC"
         ],
         "holders": {
             "ETH": 245
-        }
+        },
+        "emails": [
+            "team@melvincapital.vip"
+        ],
+        "p6": true
     }
 ]
