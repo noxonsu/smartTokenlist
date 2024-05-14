@@ -149792,5 +149792,67 @@
         "holders": {
             "ETH": 37
         }
+    },
+    {
+        "contract_address": "0xc26c84c7c434cd753ff970ae6811f28d587bf9e5",
+        "date_add": "2024-05-14 00:15:51",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 84
+        }
+    },
+    {
+        "contract_address": "0x0f6ccd97774687def68512e708c6b1d299cf0881",
+        "date_add": "2024-05-14 00:15:51",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.reddit.com",
+            "keithgillhodl.com"
+        ],
+        "telegram_groups": [
+            "hodldfv"
+        ],
+        "holders": {
+            "ETH": 150
+        }
+    },
+    {
+        "contract_address": "0x484a3df5c36eb1e74d933ddfc4fd60f7866f7c69",
+        "date_add": "2024-05-14 00:15:51",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0xbe4d9c8c638b5f0864017d7f6a04b66c42953847",
+        "date_add": "2024-05-14 00:15:51",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nimbusnetwork.io",
+            "docs.nimbusnetwork.io"
+        ],
+        "telegram_groups": [
+            "nimbusnetwork"
+        ],
+        "holders": {
+            "ETH": 411
+        }
+    },
+    {
+        "contract_address": "0x339bfbc1ff114137b2e6d7f6b3e29591ad1b1359",
+        "date_add": "2024-05-14 00:15:51",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 89
+        }
+    },
+    {
+        "contract_address": "0x9e85df2b42b2ae5e666d7263ed81a744a534bf1f",
+        "date_add": "2024-05-14 00:15:51",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 93
+        }
     }
 ]
