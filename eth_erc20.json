@@ -150998,7 +150998,9 @@
         ],
         "holders": {
             "ETH": 89
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x83111542c8eaca0c87731dc9f34f97a164e61381",
@@ -151015,6 +151017,10 @@
         ],
         "holders": {
             "ETH": 255
-        }
+        },
+        "emails": [
+            "Contact@eyesecuai.com"
+        ],
+        "p6": true
     }
 ]
