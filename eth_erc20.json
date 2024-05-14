@@ -150344,5 +150344,123 @@
             "ETH": 50
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xf6badfb9b0ab2f8f3fd8225ef1ea12fa689ad1a7",
+        "date_add": "2024-05-14 12:06:21",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 388
+        }
+    },
+    {
+        "contract_address": "0xe9689028ede16c2fdfe3d11855d28f8e3fc452a3",
+        "date_add": "2024-05-14 12:06:21",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1652
+        }
+    },
+    {
+        "contract_address": "0x19e3ed9f7ce6ccf56ebd8497b36f85ed7ae22bf2",
+        "date_add": "2024-05-14 12:06:21",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Wallstreetdoge_WSD"
+        ],
+        "holders": {
+            "ETH": 37
+        }
+    },
+    {
+        "contract_address": "0xe2ebe38a00adabd62ca3e97eeb9b260735f9f8f3",
+        "date_add": "2024-05-14 12:06:21",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wallstreetbaby.cc"
+        ],
+        "telegram_groups": [
+            "WSBcoincc"
+        ],
+        "holders": {
+            "ETH": 93
+        }
+    },
+    {
+        "contract_address": "0x22f2f5f921e3a672cc94f52b44766daa517b174a",
+        "date_add": "2024-05-14 12:06:21",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "KossCorporation"
+        ],
+        "holders": {
+            "ETH": 35
+        }
+    },
+    {
+        "contract_address": "0xc18a9c3532dbd664cb7a3dbb08a59e55680ea7d6",
+        "date_add": "2024-05-14 12:06:21",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.azurewhale.vip"
+        ],
+        "telegram_groups": [
+            "azure_whale"
+        ],
+        "holders": {
+            "ETH": 67
+        }
+    },
+    {
+        "contract_address": "0x88303fed02b31db9c7a9eafb711da9ef4a03e5d3",
+        "date_add": "2024-05-14 12:06:21",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 453
+        }
+    },
+    {
+        "contract_address": "0xf0c46771ab5c77f8bff4b0a5c9f126e2ce2ff19c",
+        "date_add": "2024-05-14 12:06:21",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0xb9a4ffb1e21ce31f24a7d37e044122a09235ecb3",
+        "date_add": "2024-05-14 12:06:21",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "donald-duck.lol"
+        ],
+        "telegram_groups": [
+            "donaldduckentry"
+        ],
+        "holders": {
+            "ETH": 161
+        }
+    },
+    {
+        "contract_address": "0x2c29595ff9d26a21b19c8d80139c0dfd512fe9f3",
+        "date_add": "2024-05-14 12:06:21",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "amcstock.vip"
+        ],
+        "telegram_groups": [
+            "AmcCoinErc"
+        ],
+        "holders": {
+            "ETH": 896
+        }
+    },
+    {
+        "contract_address": "0x395ff980f54e3cad52521465716bfd9da2baf32a",
+        "date_add": "2024-05-14 12:06:21",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 42
+        }
     }
 ]
