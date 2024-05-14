@@ -150266,7 +150266,12 @@
         },
         "web_domains": [
             "wisdomise.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            " support@wisdomise.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x11c8c771c4240398d60ffcf6d3520d96647cf5f5",
@@ -150304,7 +150309,8 @@
         ],
         "holders": {
             "ETH": 124
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6f9c25edc02f21e9df8050a3e67947c99b88f0b2",
@@ -150315,7 +150321,14 @@
         },
         "web_domains": [
             "mycoinpoll.com"
-        ]
+        ],
+        "telegram_groups": [
+            "MyCoinPolldotCom"
+        ],
+        "emails": [
+            "support@mycoinpoll.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3596afc754de613fce48745ca45a54489db05dfe",
@@ -150329,6 +150342,7 @@
         ],
         "holders": {
             "ETH": 50
-        }
+        },
+        "p6": true
     }
 ]
