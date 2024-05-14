@@ -150256,5 +150256,73 @@
             "team@melvincapital.vip"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x286cf497108f11b18fedff4a6fc04e2065622db2",
+        "date_add": "2024-05-14 10:05:09",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 208
+        }
+    },
+    {
+        "contract_address": "0x11c8c771c4240398d60ffcf6d3520d96647cf5f5",
+        "date_add": "2024-05-14 10:05:09",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 566
+        }
+    },
+    {
+        "contract_address": "0x0316de5424ec0c3cfaa0d8365df4ee67be88bf2b",
+        "date_add": "2024-05-14 10:05:09",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 40
+        }
+    },
+    {
+        "contract_address": "0xf24d8651578a55b0c119b9910759a351a3458895",
+        "date_add": "2024-05-14 10:05:09",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 58
+        }
+    },
+    {
+        "contract_address": "0x39df912a8a840a2123fb1a7e404f5a9e4227e9a7",
+        "date_add": "2024-05-14 10:05:09",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pokememe.vip"
+        ],
+        "telegram_groups": [
+            "Pokememe_portal"
+        ],
+        "holders": {
+            "ETH": 124
+        }
+    },
+    {
+        "contract_address": "0x6f9c25edc02f21e9df8050a3e67947c99b88f0b2",
+        "date_add": "2024-05-14 10:05:09",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 66
+        }
+    },
+    {
+        "contract_address": "0x3596afc754de613fce48745ca45a54489db05dfe",
+        "date_add": "2024-05-14 10:05:09",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.bitcoincat.vip"
+        ],
+        "telegram_groups": [
+            "bitcoincat_erc"
+        ],
+        "holders": {
+            "ETH": 50
+        }
     }
 ]
