@@ -95508,9 +95508,9 @@
             "www.reddit.com"
         ],
         "telegram_groups": [
+            "WagieTokenSOL",
             "MononokeTokenOfficial",
             "luffytokenchannel",
-            "WagieTokenSOL",
             "WagieTokenERC"
         ],
         "holders": {
@@ -105102,11 +105102,11 @@
             "nauxeai.gitbook.io"
         ],
         "telegram_groups": [
-            "MononokeTokenOfficial",
+            "WagieTokenSOL",
             "NauxeAI",
             "WagieTokenERC",
-            "luffytokenchannel",
-            "WagieTokenSOL"
+            "MononokeTokenOfficial",
+            "luffytokenchannel"
         ],
         "holders": {
             "ETH": 169
@@ -107013,12 +107013,12 @@
             "elsapopepe.vip"
         ],
         "telegram_groups": [
-            "MononokeTokenOfficial",
             "ogpepecoineth",
-            "NauxeAI",
             "WagieTokenSOL",
-            "luffytokenchannel",
-            "WagieTokenERC"
+            "NauxeAI",
+            "WagieTokenERC",
+            "MononokeTokenOfficial",
+            "luffytokenchannel"
         ],
         "holders": {
             "ETH": 173
@@ -137247,13 +137247,13 @@
             "www.ogetherium.vip"
         ],
         "telegram_groups": [
-            "etheriumcoineth",
-            "NauxeAI",
-            "luffytokenchannel",
-            "MononokeTokenOfficial",
             "ogpepecoineth",
+            "WagieTokenSOL",
+            "NauxeAI",
             "WagieTokenERC",
-            "WagieTokenSOL"
+            "MononokeTokenOfficial",
+            "luffytokenchannel",
+            "etheriumcoineth"
         ],
         "holders": {
             "ETH": 333
@@ -149802,7 +149802,14 @@
         },
         "web_domains": [
             "beatfi.ai"
-        ]
+        ],
+        "telegram_groups": [
+            "BeatFiAi"
+        ],
+        "emails": [
+            "hello@beatfi.ai"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0f6ccd97774687def68512e708c6b1d299cf0881",
@@ -149813,11 +149820,19 @@
             "keithgillhodl.com"
         ],
         "telegram_groups": [
+            "ogpepecoineth",
+            "NauxeAI",
+            "MononokeTokenOfficial",
+            "luffytokenchannel",
+            "etheriumcoineth",
+            "WagieTokenSOL",
+            "WagieTokenERC",
             "hodldfv"
         ],
         "holders": {
             "ETH": 150
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x484a3df5c36eb1e74d933ddfc4fd60f7866f7c69",
@@ -149840,7 +149855,8 @@
         ],
         "holders": {
             "ETH": 411
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x339bfbc1ff114137b2e6d7f6b3e29591ad1b1359",
@@ -149851,7 +149867,9 @@
         },
         "web_domains": [
             "ipljad.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9e85df2b42b2ae5e666d7263ed81a744a534bf1f",
