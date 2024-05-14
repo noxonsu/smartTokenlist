@@ -150139,5 +150139,90 @@
             "TEAM@DANK.LOL"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0xfc4237fb8357badac8d4ff3fe9038660de5da6ae",
+        "date_add": "2024-05-14 08:05:48",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 167
+        }
+    },
+    {
+        "contract_address": "0x9a670e4da6b7bf85f4afb2f869c84e9e7fc41e30",
+        "date_add": "2024-05-14 08:05:48",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "commandererc.pro"
+        ],
+        "telegram_groups": [
+            "Commander_PORTAL"
+        ],
+        "holders": {
+            "ETH": 195
+        }
+    },
+    {
+        "contract_address": "0x0accdc30cf7df9c42346b6214d2dcb8b1307b2f8",
+        "date_add": "2024-05-14 08:05:48",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "decentraai.io"
+        ],
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0x57f6079d64aa498fc10d5d915b6db49f9d9a8fb2",
+        "date_add": "2024-05-14 08:05:48",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x64a625e8cf06db84de3a1c7cb62f48c043bada9b",
+        "date_add": "2024-05-14 08:05:48",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xcf6f7da9ad81fd53b47215cd64476aaaf185635d",
+        "date_add": "2024-05-14 08:05:48",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0xe790b3c72ced65adf6c6d5789a6f7b16d5b24882",
+        "date_add": "2024-05-14 08:05:48",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "KetamineKitty.com"
+        ],
+        "telegram_groups": [
+            "KetamineKittyETH"
+        ],
+        "holders": {
+            "ETH": 59
+        }
+    },
+    {
+        "contract_address": "0xf0c5d934885728867abdf7929866bf7b872a8226",
+        "date_add": "2024-05-14 08:05:48",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "melvincapital.vip"
+        ],
+        "telegram_groups": [
+            "MelvinCapitalERC"
+        ],
+        "holders": {
+            "ETH": 245
+        }
     }
 ]
