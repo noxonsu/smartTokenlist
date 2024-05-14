@@ -150644,7 +150644,8 @@
         ],
         "holders": {
             "ETH": 246
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa7d4e6ad5b224d6a700ae1f672d66c54460455be",
@@ -150658,7 +150659,8 @@
         ],
         "holders": {
             "ETH": 125
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0782050158d555d745709397272c3cece0797291",
@@ -150672,7 +150674,8 @@
         ],
         "holders": {
             "ETH": 54
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9de1c3d446237ab9baff74127eb4f303802a2683",
@@ -150691,7 +150694,9 @@
         },
         "web_domains": [
             "spectrum.kroma.network"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x66269167bbc6082820757382e072f81feec58c3b",
@@ -150702,6 +150707,8 @@
         },
         "web_domains": [
             "flickle.app"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
