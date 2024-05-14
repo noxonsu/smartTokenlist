@@ -149997,7 +149997,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 27
-        }
+        },
+        "web_domains": [
+            "nansen.ai"
+        ]
     },
     {
         "contract_address": "0x246b2c72be80da157ecfa371f12d45801d44c9ab",
