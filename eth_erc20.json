@@ -150263,7 +150263,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 208
-        }
+        },
+        "web_domains": [
+            "wisdomise.com"
+        ]
     },
     {
         "contract_address": "0x11c8c771c4240398d60ffcf6d3520d96647cf5f5",
@@ -150309,7 +150312,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 66
-        }
+        },
+        "web_domains": [
+            "mycoinpoll.com"
+        ]
     },
     {
         "contract_address": "0x3596afc754de613fce48745ca45a54489db05dfe",
