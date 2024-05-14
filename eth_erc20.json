@@ -151068,7 +151068,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 11
-        }
+        },
+        "web_domains": [
+            "marsmars.fi"
+        ]
     },
     {
         "contract_address": "0x66892043aef75452925f361e11b85f7c32f02eff",
@@ -151076,6 +151079,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 5
-        }
+        },
+        "web_domains": [
+            "imf.org"
+        ]
     }
 ]
