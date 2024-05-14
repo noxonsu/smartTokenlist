@@ -150373,7 +150373,8 @@
         },
         "web_domains": [
             "wallstreetdoge.online"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe2ebe38a00adabd62ca3e97eeb9b260735f9f8f3",
@@ -150387,7 +150388,8 @@
         ],
         "holders": {
             "ETH": 93
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x22f2f5f921e3a672cc94f52b44766daa517b174a",
@@ -150401,7 +150403,8 @@
         },
         "web_domains": [
             "koss.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc18a9c3532dbd664cb7a3dbb08a59e55680ea7d6",
@@ -150415,7 +150418,8 @@
         ],
         "holders": {
             "ETH": 67
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x88303fed02b31db9c7a9eafb711da9ef4a03e5d3",
@@ -150434,7 +150438,14 @@
         },
         "web_domains": [
             "retik.com"
-        ]
+        ],
+        "telegram_groups": [
+            "retikfinance"
+        ],
+        "emails": [
+            "support@retik.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb9a4ffb1e21ce31f24a7d37e044122a09235ecb3",
@@ -150448,7 +150459,11 @@
         ],
         "holders": {
             "ETH": 161
-        }
+        },
+        "emails": [
+            "team@donaldduck.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2c29595ff9d26a21b19c8d80139c0dfd512fe9f3",
