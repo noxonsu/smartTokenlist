@@ -150551,7 +150551,10 @@
         ],
         "holders": {
             "ETH": 100
-        }
+        },
+        "web_domains": [
+            "babbages.im"
+        ]
     },
     {
         "contract_address": "0x69667d51d23f79e3da772df9c41ae7fb552034d5",
@@ -150593,7 +150596,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 84
-        }
+        },
+        "web_domains": [
+            "apestogetherstrongdoc.com"
+        ]
     },
     {
         "contract_address": "0x25e645c420f36a65797520403a03e2c611b49f51",
@@ -150659,7 +150665,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "spectrum.kroma.network"
+        ]
     },
     {
         "contract_address": "0x66269167bbc6082820757382e072f81feec58c3b",
@@ -150667,6 +150676,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 30
-        }
+        },
+        "web_domains": [
+            "flickle.app"
+        ]
     }
 ]
