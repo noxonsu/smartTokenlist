@@ -149957,11 +149957,13 @@
             "gamestopbunny.vip"
         ],
         "telegram_groups": [
-            "GameStopBunny"
+            "GameStopBunny",
+            "gamestopbunny"
         ],
         "holders": {
             "ETH": 70
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1986060882cca11c8a3933a921834e5174460fab",
@@ -149975,7 +149977,8 @@
         ],
         "holders": {
             "ETH": 174
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x33d32b2451d5ffcb590eb18b7d74a258affcd41a",
@@ -149989,7 +149992,8 @@
         ],
         "holders": {
             "ETH": 494
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe5b95d49b54f74634bff347bda6e6fc1810151e3",
@@ -150000,7 +150004,9 @@
         },
         "web_domains": [
             "nansen.ai"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x246b2c72be80da157ecfa371f12d45801d44c9ab",
@@ -150014,7 +150020,8 @@
         ],
         "holders": {
             "ETH": 128
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3bd2035d08363a8cfdab70a41b0faad3510492dc",
@@ -150032,11 +150039,13 @@
             "www.businesstimes.com.sg"
         ],
         "telegram_groups": [
+            "BizTimes",
             "sonic_eth"
         ],
         "holders": {
             "ETH": 293
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xad4dbd3be46f7bdab82702b581b1d4c5f584741a",
