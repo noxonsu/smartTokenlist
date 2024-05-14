@@ -149885,7 +149885,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 31
-        }
+        },
+        "web_domains": [
+            "starship.xyz"
+        ]
     },
     {
         "contract_address": "0x8b5ae965d54019fabdfd327c2325c9d422f271d1",
