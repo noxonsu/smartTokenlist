@@ -150146,7 +150146,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 167
-        }
+        },
+        "web_domains": [
+            "pomelogames.com"
+        ]
     },
     {
         "contract_address": "0x9a670e4da6b7bf85f4afb2f869c84e9e7fc41e30",
@@ -150195,7 +150198,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 30
-        }
+        },
+        "web_domains": [
+            "blazecu.com"
+        ]
     },
     {
         "contract_address": "0xe790b3c72ced65adf6c6d5789a6f7b16d5b24882",
