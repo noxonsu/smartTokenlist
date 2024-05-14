@@ -150710,5 +150710,108 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xc5c20bb351e2ec2a2413a3d186ffbc6e112a81f1",
+        "date_add": "2024-05-14 16:05:18",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0x02055df6635746b61ae13b613aca8b54e78e1969",
+        "date_add": "2024-05-14 16:05:18",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.gamestonk.sbs"
+        ],
+        "telegram_groups": [
+            "gamestonkoneth"
+        ],
+        "holders": {
+            "ETH": 35
+        }
+    },
+    {
+        "contract_address": "0xfb499173224218383a46f9155d57dc46b7d05340",
+        "date_add": "2024-05-14 16:05:18",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ebgames.top"
+        ],
+        "telegram_groups": [
+            "ebgameserc"
+        ],
+        "holders": {
+            "ETH": 41
+        }
+    },
+    {
+        "contract_address": "0x39162d9f64c0f9d64d14eac3b6d5a15d3d569eea",
+        "date_add": "2024-05-14 16:05:18",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 257
+        }
+    },
+    {
+        "contract_address": "0xb942ec8345a770e75c3a91072db3529c85776f0e",
+        "date_add": "2024-05-14 16:05:18",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x8f8302265460e75ad951ead13e96a99597cf3a2d",
+        "date_add": "2024-05-14 16:05:18",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "reuterscoinerc20"
+        ],
+        "holders": {
+            "ETH": 135
+        }
+    },
+    {
+        "contract_address": "0x4785d4a5d9e575855dc6fc5df971edc438a786bf",
+        "date_add": "2024-05-14 16:05:18",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x4817039b3b39d5611c1354eb4d1a63773d7e2ba3",
+        "date_add": "2024-05-14 16:05:18",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pigglywigglyerc.com",
+            "www.watchmojo.com",
+            "www.energyandcapital.com"
+        ],
+        "telegram_groups": [
+            "pigglywigglyerc"
+        ],
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0x2db0c077e5f07afa38993735c185cb626a99bb07",
+        "date_add": "2024-05-14 16:05:18",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x423071774c43c0aaf4210b439e7cda8c797e2f26",
+        "date_add": "2024-05-14 16:05:18",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 260
+        }
     }
 ]
