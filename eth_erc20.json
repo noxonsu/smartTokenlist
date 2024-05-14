@@ -150988,5 +150988,33 @@
             "ETH": 4
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x0f35505525492e53499540cdbd99607faae8ab37",
+        "date_add": "2024-05-14 20:05:09",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.createmytoken.com"
+        ],
+        "holders": {
+            "ETH": 89
+        }
+    },
+    {
+        "contract_address": "0x83111542c8eaca0c87731dc9f34f97a164e61381",
+        "date_add": "2024-05-14 20:05:09",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.eyesecu.ai",
+            "docs.eyesecu.ai",
+            "dapp.eyesecu.ai",
+            "linktr.ee"
+        ],
+        "telegram_groups": [
+            "EYESECU_AI"
+        ],
+        "holders": {
+            "ETH": 255
+        }
     }
 ]
