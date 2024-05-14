@@ -150720,7 +150720,9 @@
         },
         "web_domains": [
             "expenterprise.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x02055df6635746b61ae13b613aca8b54e78e1969",
@@ -150734,7 +150736,8 @@
         ],
         "holders": {
             "ETH": 35
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xfb499173224218383a46f9155d57dc46b7d05340",
@@ -150748,7 +150751,8 @@
         ],
         "holders": {
             "ETH": 41
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x39162d9f64c0f9d64d14eac3b6d5a15d3d569eea",
@@ -150759,7 +150763,14 @@
         },
         "web_domains": [
             "mrweb.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "mrwebfinance"
+        ],
+        "emails": [
+            "info@mrweb.finance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb942ec8345a770e75c3a91072db3529c85776f0e",
@@ -150781,7 +150792,11 @@
         },
         "web_domains": [
             "reutersevents.com"
-        ]
+        ],
+        "emails": [
+            "clientservices@reutersevents.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4785d4a5d9e575855dc6fc5df971edc438a786bf",
@@ -150805,7 +150820,8 @@
         ],
         "holders": {
             "ETH": 24
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2db0c077e5f07afa38993735c185cb626a99bb07",
