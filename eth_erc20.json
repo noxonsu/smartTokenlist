@@ -151295,5 +151295,46 @@
         "holders": {
             "ETH": 1
         }
+    },
+    {
+        "contract_address": "0xa64a5c20bdcd319c3ead6ad2dc1b530209774ffb",
+        "date_add": "2024-05-15 04:04:51",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wenlamboerc.xyz"
+        ],
+        "telegram_groups": [
+            "WenLamboOnEth"
+        ],
+        "holders": {
+            "ETH": 29
+        }
+    },
+    {
+        "contract_address": "0xcce8fd1eb636632e0c0cd2353264d56a37d2246b",
+        "date_add": "2024-05-15 04:04:51",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 69
+        }
+    },
+    {
+        "contract_address": "0xd953af4e584178f7a69c4afb3a60502d33dc544e",
+        "date_add": "2024-05-15 04:04:51",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "DFVether"
+        ],
+        "holders": {
+            "ETH": 1523
+        }
+    },
+    {
+        "contract_address": "0x5630d9f6c7557af60015f3e2db911a22ed9d7dc1",
+        "date_add": "2024-05-15 04:04:51",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 16
+        }
     }
 ]
