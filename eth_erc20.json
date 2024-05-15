@@ -151178,7 +151178,9 @@
         },
         "web_domains": [
             "lambocoin.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd10fabd5f1b75fcd898b9236e85fc94e541ed66f",
@@ -151189,7 +151191,9 @@
         },
         "web_domains": [
             "chainbroker.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2feb66b99989f66f33d7f24dff3a196644e60f78",
@@ -151211,7 +151215,8 @@
         ],
         "holders": {
             "ETH": 42
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2138c617f4b99019afef812207baf5fe3c8050b7",
@@ -151230,7 +151235,11 @@
         },
         "web_domains": [
             "coinedition.com"
-        ]
+        ],
+        "telegram_groups": [
+            "coinedition"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9ed786b092d50ef1d8b610447ebc059cd9dde8f9",
@@ -151240,11 +151249,13 @@
             "bookofgemestop.simdif.com"
         ],
         "telegram_groups": [
+            "BGME_ERC",
             "BookofGamestopETH"
         ],
         "holders": {
             "ETH": 57
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3bfd496c13d2122617d8b5c7f34e4913cb9cd75c",
@@ -151258,7 +151269,8 @@
         ],
         "holders": {
             "ETH": 164
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5ae28c9197a4a6570216fc7e53e7e0221d7a0fef",
