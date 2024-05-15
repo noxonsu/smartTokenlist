@@ -151345,5 +151345,43 @@
         "holders": {
             "ETH": 16
         }
+    },
+    {
+        "contract_address": "0xe29797910d413281d2821d5d9a989262c8121cc2",
+        "date_add": "2024-05-15 06:05:13",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 337
+        }
+    },
+    {
+        "contract_address": "0x0fb2746fe557e5b12e65029ac5617954d9154db0",
+        "date_add": "2024-05-15 06:05:13",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 22
+        }
+    },
+    {
+        "contract_address": "0x7d302582ad998ea22cd479b1b641c67a1f5da8e6",
+        "date_add": "2024-05-15 06:05:13",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 42
+        }
+    },
+    {
+        "contract_address": "0xa74e202294dcbe06431e60921951eee5054cb594",
+        "date_add": "2024-05-15 06:05:13",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bananajoe.vip"
+        ],
+        "telegram_groups": [
+            "BananaJoecoin"
+        ],
+        "holders": {
+            "ETH": 145
+        }
     }
 ]
