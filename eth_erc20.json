@@ -151316,7 +151316,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 69
-        }
+        },
+        "web_domains": [
+            "eloncat.app"
+        ]
     },
     {
         "contract_address": "0xd953af4e584178f7a69c4afb3a60502d33dc544e",
