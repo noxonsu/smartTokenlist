@@ -151529,7 +151529,11 @@
         ],
         "holders": {
             "ETH": 59
-        }
+        },
+        "telegram_groups": [
+            "GMEonsol"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xeea9ae787f3a620072d13b2cdc8cabffb9c0ab96",
@@ -151543,7 +151547,8 @@
         ],
         "holders": {
             "ETH": 494
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x140dac88599c1834bf399a6f3da03154f9aacdb7",
@@ -151565,7 +151570,8 @@
         ],
         "holders": {
             "ETH": 6
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x69421c77d52631561164be396dcb501682dcc0cd",
@@ -151579,7 +151585,8 @@
         ],
         "holders": {
             "ETH": 312
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8358a2cc7ced826addc85d7e18e1a7641dc4dc30",
@@ -151594,7 +151601,8 @@
         ],
         "holders": {
             "ETH": 43
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc70bf323a77d24f62b1303b70fdfdbd2a2c15a57",
@@ -151615,11 +151623,13 @@
             "www.fofo-coin.com"
         ],
         "telegram_groups": [
+            "FoFoETH",
             "FoFoerc20"
         ],
         "holders": {
             "ETH": 9
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x35e6b5683617c0ffc5fff08acc6997f6e0be9b9b",
