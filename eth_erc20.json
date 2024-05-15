@@ -151175,7 +151175,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 28
-        }
+        },
+        "web_domains": [
+            "lambocoin.finance"
+        ]
     },
     {
         "contract_address": "0xd10fabd5f1b75fcd898b9236e85fc94e541ed66f",
@@ -151183,7 +151186,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 32
-        }
+        },
+        "web_domains": [
+            "chainbroker.io"
+        ]
     },
     {
         "contract_address": "0x2feb66b99989f66f33d7f24dff3a196644e60f78",
@@ -151221,7 +151227,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 19
-        }
+        },
+        "web_domains": [
+            "coinedition.com"
+        ]
     },
     {
         "contract_address": "0x9ed786b092d50ef1d8b610447ebc059cd9dde8f9",
