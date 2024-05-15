@@ -151434,7 +151434,9 @@
         },
         "web_domains": [
             "scrollscan.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x90685e300a4c4532efcefe91202dfe1dfd572f47",
@@ -151459,7 +151461,8 @@
         ],
         "holders": {
             "ETH": 201
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xeab107a7e32bc0b785952a40dc45432ea168b1c4",
@@ -151473,7 +151476,8 @@
         ],
         "holders": {
             "ETH": 255
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x67315dd969b8cd3a3520c245837bf71f54579c75",
@@ -151513,6 +151517,7 @@
         ],
         "holders": {
             "ETH": 3
-        }
+        },
+        "p6": true
     }
 ]
