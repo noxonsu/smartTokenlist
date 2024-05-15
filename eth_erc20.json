@@ -152226,7 +152226,8 @@
         ],
         "holders": {
             "ETH": 79
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf04a8ac553fcedb5ba99a64799155826c136b0be",
@@ -152245,12 +152246,13 @@
             "magentaai.gitbook.io"
         ],
         "telegram_groups": [
-            "magentaprotocol",
-            "MagentaAiBot"
+            "MagentaAiBot",
+            "magentaprotocol"
         ],
         "holders": {
             "ETH": 172
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x17a70e38fa058f6f086bcf0c4c76bdf3a0f09347",
@@ -152264,7 +152266,8 @@
         ],
         "holders": {
             "ETH": 86
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xcd61cfdb7a39e2271d231fa87ca042abc78f5ad7",
@@ -152294,7 +152297,8 @@
         ],
         "holders": {
             "ETH": 69
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2e2364966267b5d7d2ce6cd9a9b5bd19d9c7c6a9",
@@ -152316,7 +152320,8 @@
         ],
         "holders": {
             "ETH": 62
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1131d427ecd794714ed00733ac0f851e904c8398",
@@ -152326,11 +152331,16 @@
             "Genbox.AI"
         ],
         "telegram_groups": [
-            "GenboxAI"
+            "GenboxAI",
+            "Genboxai"
         ],
         "holders": {
             "ETH": 60
-        }
+        },
+        "emails": [
+            "contact@genbox.ai"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x316a4c5221ef1fa09156eb683cc233266ebe0bb0",
