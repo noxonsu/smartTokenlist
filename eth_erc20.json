@@ -151978,7 +151978,10 @@
         ],
         "holders": {
             "ETH": 55
-        }
+        },
+        "web_domains": [
+            "popoteashop.com"
+        ]
     },
     {
         "contract_address": "0x82d09e30d5d682d69b4a5d97c61b7ba651457625",
@@ -151989,6 +151992,9 @@
         ],
         "holders": {
             "ETH": 42
-        }
+        },
+        "web_domains": [
+            "tkn.xyz"
+        ]
     }
 ]
