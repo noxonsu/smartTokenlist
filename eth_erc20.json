@@ -151874,7 +151874,8 @@
         },
         "web_domains": [
             "michael-burry.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x69420e8f71e5a604372fda743fe07c7bc9363409",
@@ -151888,7 +151889,8 @@
         ],
         "holders": {
             "ETH": 205
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1dbdd6c57875a7dc8a665d4c27d082a78653415d",
@@ -151902,7 +151904,11 @@
         ],
         "holders": {
             "ETH": 1
-        }
+        },
+        "emails": [
+            "support@sope.vip"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xac9d70aebd49555b033751e311044becf3513c0f",
@@ -151913,7 +151919,11 @@
         },
         "web_domains": [
             "moonlandmeta.com"
-        ]
+        ],
+        "telegram_groups": [
+            "moonlandmeta"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdbf384db91b6bdd4d637a58ecc3fe3fb807fddcc",
@@ -151927,7 +151937,8 @@
         ],
         "holders": {
             "ETH": 318
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf2dedf43aaa97872f179152c05d9517a1f53df27",
@@ -151938,7 +151949,9 @@
         },
         "web_domains": [
             "notcoin.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3684c1bedb884923a933c9ac95a487d5c38ab7e7",
