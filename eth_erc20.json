@@ -151999,5 +151999,183 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x9d7630adf7ab0b0cb00af747db76864df0ec82e4",
+        "date_add": "2024-05-15 20:05:16",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11340
+        }
+    },
+    {
+        "contract_address": "0xf7d7cf9195ed7e1fdc0fb26e463618bc09c67c34",
+        "date_add": "2024-05-15 20:05:16",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "peapods.finance"
+        ],
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0xb813c4a243545bb10e047241dc7c6bf34ab304c9",
+        "date_add": "2024-05-15 20:05:16",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 28
+        }
+    },
+    {
+        "contract_address": "0xdbd0052526b9937781f0db63ba897f3a371bad47",
+        "date_add": "2024-05-15 20:05:16",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "honketh.com"
+        ],
+        "telegram_groups": [
+            "HONKonETH"
+        ],
+        "holders": {
+            "ETH": 74
+        }
+    },
+    {
+        "contract_address": "0xdc7ac5d5d4a9c3b5d8f3183058a92776dc12f4f3",
+        "date_add": "2024-05-15 20:05:16",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "knowyourmeme.com",
+            "monkas.top"
+        ],
+        "telegram_groups": [
+            "MonkasErc20"
+        ],
+        "holders": {
+            "ETH": 252
+        }
+    },
+    {
+        "contract_address": "0x7f3f33b42b9734e61cb44424d130b5f6e09c9db3",
+        "date_add": "2024-05-15 20:05:16",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 81
+        }
+    },
+    {
+        "contract_address": "0x6ca954ad83701ba78ad8ef591776eee67cc3e6b8",
+        "date_add": "2024-05-15 20:05:16",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xd5d3efc90ffb38987005fdea303b68306aa5c624",
+        "date_add": "2024-05-15 20:05:16",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 17
+        }
+    },
+    {
+        "contract_address": "0xe6b5cc1b4b47305c58392ce3d359b10282fc36ea",
+        "date_add": "2024-05-15 20:05:16",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0xd40c688da9df74e03566eaf0a7c754ed98fbb8cc",
+        "date_add": "2024-05-15 20:05:16",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "hadesnetwork.tech"
+        ],
+        "telegram_groups": [
+            "hadesnetworkerc"
+        ],
+        "holders": {
+            "ETH": 283
+        }
+    },
+    {
+        "contract_address": "0xad3b887be42431973ba61984002e857776450dc2",
+        "date_add": "2024-05-15 20:05:16",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xe2ec2b77a30743ebd746e4e18c5bfe665cd70222",
+        "date_add": "2024-05-15 20:05:16",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.createmytoken.com",
+            "www.metacrypt.org",
+            "www.metacrypt.org"
+        ],
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0x41c352b7457096ee77825d3d18b2f0cc68956082",
+        "date_add": "2024-05-15 20:05:16",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8
+        }
+    },
+    {
+        "contract_address": "0xbebedf3f3ff4348cc2a85e7375c390502698aeb7",
+        "date_add": "2024-05-15 20:05:16",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.bebeoneth.com"
+        ],
+        "telegram_groups": [
+            "BebeonETH"
+        ],
+        "holders": {
+            "ETH": 357
+        }
+    },
+    {
+        "contract_address": "0x414ac1853329b3704df0caf7749cd296c7f3b750",
+        "date_add": "2024-05-15 20:05:16",
+        "sourceScanned": "processed",
+        "emails": [
+            "goncalo.sa@consensys.net"
+        ],
+        "holders": {
+            "ETH": 43
+        }
+    },
+    {
+        "contract_address": "0x4b7265d153886a7dc717e815862acde6ff7b5bc8",
+        "date_add": "2024-05-15 20:05:16",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "SoftCode.space"
+        ],
+        "telegram_groups": [
+            "SolidityCode"
+        ],
+        "holders": {
+            "ETH": 213
+        }
+    },
+    {
+        "contract_address": "0x69ed89ecd35082e031fe52b75123f801db083306",
+        "date_add": "2024-05-15 20:05:16",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1456
+        }
     }
 ]
