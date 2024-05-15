@@ -151685,11 +151685,13 @@
             "fafa.simdif.com"
         ],
         "telegram_groups": [
-            "FAFAercCoin"
+            "FAFAercCoin",
+            "FAFA_COINETH"
         ],
         "holders": {
             "ETH": 27
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x51b7ee5831ea8f7a4fccadc763280be7e7e21e5f",
@@ -151699,11 +151701,13 @@
             "www.wofl.club"
         ],
         "telegram_groups": [
-            "WOFLCOIN_ERC"
+            "WOFLCOIN_ERC",
+            "woflcoin_erc"
         ],
         "holders": {
             "ETH": 110
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8f2941c268656d45ac44c1489a255b74f85e8e9d",
@@ -151725,7 +151729,8 @@
         },
         "web_domains": [
             "blackberry.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7c4347c77568fe613dd315d61c6a4888f76682dd",
@@ -151736,7 +151741,14 @@
         },
         "web_domains": [
             "dmarket.com"
-        ]
+        ],
+        "telegram_groups": [
+            "dmarket_en"
+        ],
+        "emails": [
+            "support@dmarket.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xacec9940d4dd38da67b6689fae346007ba90647b",
@@ -151766,7 +151778,11 @@
         ],
         "holders": {
             "ETH": 19
-        }
+        },
+        "emails": [
+            "contact@trumppep.wtf"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbe1a977d985aca37c37cea2b08e7708c8113c43d",
@@ -151808,14 +151824,19 @@
         "date_add": "2024-05-15 12:07:15",
         "sourceScanned": "processed",
         "telegram_groups": [
-            "sperminator_entry"
+            "sperminator_entry",
+            "Sperminator_3"
         ],
         "holders": {
             "ETH": 156
         },
         "web_domains": [
             "sperminator3.club"
-        ]
+        ],
+        "emails": [
+            "contact : sperminator3.eth@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9aa2b2ebd3df07eee59229856b0e03af4c452174",
