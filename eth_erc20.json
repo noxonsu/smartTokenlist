@@ -151960,5 +151960,35 @@
         "holders": {
             "ETH": 380
         }
+    },
+    {
+        "contract_address": "0xc73e7120be77639133d6a4aa0cff0bf8344909d3",
+        "date_add": "2024-05-15 16:04:39",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 106
+        }
+    },
+    {
+        "contract_address": "0x195be8ee12aa1591902c4232b5b25017a9cbbdea",
+        "date_add": "2024-05-15 16:04:39",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "popoeth"
+        ],
+        "holders": {
+            "ETH": 55
+        }
+    },
+    {
+        "contract_address": "0x82d09e30d5d682d69b4a5d97c61b7ba651457625",
+        "date_add": "2024-05-15 16:04:39",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@tkn.xyz"
+        ],
+        "holders": {
+            "ETH": 42
+        }
     }
 ]
