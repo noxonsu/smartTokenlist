@@ -151399,5 +151399,117 @@
             "ETH": 145
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x6977597bbbdcc453636bd67a161a96d85098f327",
+        "date_add": "2024-05-15 08:05:06",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pipierc20.com"
+        ],
+        "telegram_groups": [
+            "PipiErc20coin"
+        ],
+        "holders": {
+            "ETH": 555
+        }
+    },
+    {
+        "contract_address": "0xdbcd57cc74b180f928258f7b1a32f6f7e64bf12e",
+        "date_add": "2024-05-15 08:05:06",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "BEPEBabyPepe"
+        ],
+        "holders": {
+            "ETH": 591
+        }
+    },
+    {
+        "contract_address": "0x9fd736df813886d7dfa2521318549ac8f61e070d",
+        "date_add": "2024-05-15 08:05:06",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10
+        }
+    },
+    {
+        "contract_address": "0x90685e300a4c4532efcefe91202dfe1dfd572f47",
+        "date_add": "2024-05-15 08:05:06",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@crosstheages.com"
+        ],
+        "holders": {
+            "ETH": 587
+        }
+    },
+    {
+        "contract_address": "0x69420b2eb19f0f6ee3aef54228c1601602e72769",
+        "date_add": "2024-05-15 08:05:06",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fren.community"
+        ],
+        "telegram_groups": [
+            "FrenErc"
+        ],
+        "holders": {
+            "ETH": 201
+        }
+    },
+    {
+        "contract_address": "0xeab107a7e32bc0b785952a40dc45432ea168b1c4",
+        "date_add": "2024-05-15 08:05:06",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "aladdinaicoin.com"
+        ],
+        "telegram_groups": [
+            "aladdinaicoin"
+        ],
+        "holders": {
+            "ETH": 255
+        }
+    },
+    {
+        "contract_address": "0x67315dd969b8cd3a3520c245837bf71f54579c75",
+        "date_add": "2024-05-15 08:05:06",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org"
+        ],
+        "holders": {
+            "ETH": 21
+        }
+    },
+    {
+        "contract_address": "0xa393da1c9326d86c62d85b4c72faa6518c88ccfd",
+        "date_add": "2024-05-15 08:05:06",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.basetroll.xyz"
+        ],
+        "telegram_groups": [
+            "trollcoiner"
+        ],
+        "holders": {
+            "ETH": 3
+        }
     }
 ]
