@@ -151089,5 +151089,65 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xa5367d64395a08f315e27ddfa37d3c830493ebbc",
+        "date_add": "2024-05-15 00:16:07",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.you-didnt-ape.com"
+        ],
+        "telegram_groups": [
+            "YouDidntApe"
+        ],
+        "holders": {
+            "ETH": 52
+        }
+    },
+    {
+        "contract_address": "0xf65b1daa6026d11863f1de2eda645b1e31828c95",
+        "date_add": "2024-05-15 00:16:07",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 98
+        }
+    },
+    {
+        "contract_address": "0x923607a06aa8f1c525a5bb2d921cf85e625be776",
+        "date_add": "2024-05-15 00:16:07",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5290
+        }
+    },
+    {
+        "contract_address": "0x00199c511dc889b8155fa425fc0363ed481e8f48",
+        "date_add": "2024-05-15 00:16:07",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "brickblock.estate"
+        ],
+        "telegram_groups": [
+            "brickblockETH"
+        ],
+        "holders": {
+            "ETH": 1577
+        }
+    },
+    {
+        "contract_address": "0x37f04733c7e1c762f0ed86533c9052be5822c1fd",
+        "date_add": "2024-05-15 00:16:07",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 279
+        }
+    },
+    {
+        "contract_address": "0x09ce2b746c32528b7d864a1e3979bd97d2f095ab",
+        "date_add": "2024-05-15 00:16:07",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1424
+        }
     }
 ]
