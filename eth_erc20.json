@@ -151847,7 +151847,12 @@
         },
         "web_domains": [
             "themaclife.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "info@themaclife.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdd9264c29b9ffa646d79799f5d209c5e4227530e",
