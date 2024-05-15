@@ -147593,9 +147593,9 @@
             "strongbaderc20.vip"
         ],
         "telegram_groups": [
+            "strongbadcoin",
             "SpaceKaren_ERC",
-            "pog_portal",
-            "strongbadcoin"
+            "pog_portal"
         ],
         "holders": {
             "ETH": 178
@@ -152017,7 +152017,11 @@
         ],
         "holders": {
             "ETH": 7
-        }
+        },
+        "telegram_groups": [
+            "PeapodsFinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb813c4a243545bb10e047241dc7c6bf34ab304c9",
@@ -152039,7 +152043,8 @@
         ],
         "holders": {
             "ETH": 74
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xdc7ac5d5d4a9c3b5d8f3183058a92776dc12f4f3",
@@ -152050,11 +152055,15 @@
             "monkas.top"
         ],
         "telegram_groups": [
-            "MonkasErc20"
+            "strongbadcoin",
+            "SpaceKaren_ERC",
+            "MonkasErc20",
+            "pog_portal"
         ],
         "holders": {
             "ETH": 252
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7f3f33b42b9734e61cb44424d130b5f6e09c9db3",
@@ -152065,7 +152074,12 @@
         },
         "web_domains": [
             "cryptonoshi.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "support@cryptonoshi.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6ca954ad83701ba78ad8ef591776eee67cc3e6b8",
@@ -152103,7 +152117,11 @@
         ],
         "holders": {
             "ETH": 283
-        }
+        },
+        "emails": [
+            "Info@hadesnetwork.tech"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xad3b887be42431973ba61984002e857776450dc2",
@@ -152114,7 +152132,9 @@
         },
         "web_domains": [
             "howlsupply.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe2ec2b77a30743ebd746e4e18c5bfe665cd70222",
