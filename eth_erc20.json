@@ -151519,5 +151519,143 @@
             "ETH": 3
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x4055a72853903a10db55c3b0f651309d576cb9fd",
+        "date_add": "2024-05-15 10:04:27",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wallstsucks.lol"
+        ],
+        "holders": {
+            "ETH": 59
+        }
+    },
+    {
+        "contract_address": "0xeea9ae787f3a620072d13b2cdc8cabffb9c0ab96",
+        "date_add": "2024-05-15 10:04:27",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.ysec.finance"
+        ],
+        "telegram_groups": [
+            "YearnSecure"
+        ],
+        "holders": {
+            "ETH": 494
+        }
+    },
+    {
+        "contract_address": "0x140dac88599c1834bf399a6f3da03154f9aacdb7",
+        "date_add": "2024-05-15 10:04:27",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xaea5a8905bcb0a1de6cfc04e0da637c84d2b9d5f",
+        "date_add": "2024-05-15 10:04:27",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.pepe-pickle.com"
+        ],
+        "telegram_groups": [
+            "Pepe_Pickle_Portal"
+        ],
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x69421c77d52631561164be396dcb501682dcc0cd",
+        "date_add": "2024-05-15 10:04:27",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pupuoneth.com"
+        ],
+        "telegram_groups": [
+            "pupuethcoin"
+        ],
+        "holders": {
+            "ETH": 312
+        }
+    },
+    {
+        "contract_address": "0x8358a2cc7ced826addc85d7e18e1a7641dc4dc30",
+        "date_add": "2024-05-15 10:04:27",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.kittyoneth.com",
+            "kittyoneth.gitbook.io"
+        ],
+        "telegram_groups": [
+            "KittyonETH"
+        ],
+        "holders": {
+            "ETH": 43
+        }
+    },
+    {
+        "contract_address": "0xc70bf323a77d24f62b1303b70fdfdbd2a2c15a57",
+        "date_add": "2024-05-15 10:04:27",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "CatSmashedKeyboard"
+        ],
+        "holders": {
+            "ETH": 9
+        }
+    },
+    {
+        "contract_address": "0xca6ae7f6236a444593ca86add2bbb45cccb68577",
+        "date_add": "2024-05-15 10:04:27",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.fofo-coin.com"
+        ],
+        "telegram_groups": [
+            "FoFoerc20"
+        ],
+        "holders": {
+            "ETH": 9
+        }
+    },
+    {
+        "contract_address": "0x35e6b5683617c0ffc5fff08acc6997f6e0be9b9b",
+        "date_add": "2024-05-15 10:04:27",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "twitter.comdumpmoney_erc",
+            "dump.money"
+        ],
+        "telegram_groups": [
+            "DumpMoney_erc"
+        ],
+        "holders": {
+            "ETH": 94
+        }
+    },
+    {
+        "contract_address": "0x9076369573b9288871705feb8a14a7f063a3fe60",
+        "date_add": "2024-05-15 10:04:27",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "boobabooba.xyz"
+        ],
+        "telegram_groups": [
+            "THEBOOBABOY"
+        ],
+        "holders": {
+            "ETH": 71
+        }
+    },
+    {
+        "contract_address": "0x84ba4aecfde39d69686a841bab434c32d179a169",
+        "date_add": "2024-05-15 10:04:27",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1339
+        }
     }
 ]
