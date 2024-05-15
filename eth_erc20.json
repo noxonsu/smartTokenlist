@@ -151644,7 +151644,8 @@
         ],
         "holders": {
             "ETH": 94
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9076369573b9288871705feb8a14a7f063a3fe60",
@@ -151658,7 +151659,8 @@
         ],
         "holders": {
             "ETH": 71
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x84ba4aecfde39d69686a841bab434c32d179a169",
