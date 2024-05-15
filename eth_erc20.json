@@ -151861,5 +151861,82 @@
         "holders": {
             "ETH": 1
         }
+    },
+    {
+        "contract_address": "0x5206dadd4107a58d3068b7303f96ce595f9abe11",
+        "date_add": "2024-05-15 14:05:03",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "michaelburryerc"
+        ],
+        "holders": {
+            "ETH": 53
+        }
+    },
+    {
+        "contract_address": "0x69420e8f71e5a604372fda743fe07c7bc9363409",
+        "date_add": "2024-05-15 14:05:03",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "roaringpepe.site"
+        ],
+        "telegram_groups": [
+            "RoaringPepeErc"
+        ],
+        "holders": {
+            "ETH": 205
+        }
+    },
+    {
+        "contract_address": "0x1dbdd6c57875a7dc8a665d4c27d082a78653415d",
+        "date_add": "2024-05-15 14:05:03",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sope.vip"
+        ],
+        "telegram_groups": [
+            "SOPEETH"
+        ],
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xac9d70aebd49555b033751e311044becf3513c0f",
+        "date_add": "2024-05-15 14:05:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 89
+        }
+    },
+    {
+        "contract_address": "0xdbf384db91b6bdd4d637a58ecc3fe3fb807fddcc",
+        "date_add": "2024-05-15 14:05:03",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.frogecoin.online"
+        ],
+        "telegram_groups": [
+            "FrogeonETH"
+        ],
+        "holders": {
+            "ETH": 318
+        }
+    },
+    {
+        "contract_address": "0xf2dedf43aaa97872f179152c05d9517a1f53df27",
+        "date_add": "2024-05-15 14:05:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0x3684c1bedb884923a933c9ac95a487d5c38ab7e7",
+        "date_add": "2024-05-15 14:05:03",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 380
+        }
     }
 ]
