@@ -151981,7 +151981,8 @@
         },
         "web_domains": [
             "popoteashop.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x82d09e30d5d682d69b4a5d97c61b7ba651457625",
@@ -151995,6 +151996,8 @@
         },
         "web_domains": [
             "tkn.xyz"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
