@@ -151871,7 +151871,10 @@
         ],
         "holders": {
             "ETH": 53
-        }
+        },
+        "web_domains": [
+            "michael-burry.com"
+        ]
     },
     {
         "contract_address": "0x69420e8f71e5a604372fda743fe07c7bc9363409",
@@ -151907,7 +151910,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 89
-        }
+        },
+        "web_domains": [
+            "moonlandmeta.com"
+        ]
     },
     {
         "contract_address": "0xdbf384db91b6bdd4d637a58ecc3fe3fb807fddcc",
@@ -151929,7 +151935,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 26
-        }
+        },
+        "web_domains": [
+            "notcoin.io"
+        ]
     },
     {
         "contract_address": "0x3684c1bedb884923a933c9ac95a487d5c38ab7e7",
