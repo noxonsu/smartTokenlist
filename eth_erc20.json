@@ -151140,7 +151140,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 279
-        }
+        },
+        "web_domains": [
+            "ethermeta.com"
+        ]
     },
     {
         "contract_address": "0x09ce2b746c32528b7d864a1e3979bd97d2f095ab",
