@@ -152147,7 +152147,9 @@
         ],
         "holders": {
             "ETH": 26
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x41c352b7457096ee77825d3d18b2f0cc68956082",
@@ -152169,7 +152171,11 @@
         ],
         "holders": {
             "ETH": 357
-        }
+        },
+        "emails": [
+            "teambebe@bebeoneth.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x414ac1853329b3704df0caf7749cd296c7f3b750",
@@ -152194,7 +152200,11 @@
         ],
         "holders": {
             "ETH": 213
-        }
+        },
+        "emails": [
+            "support@softcode.spcae"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x69ed89ecd35082e031fe52b75123f801db083306",
