@@ -152062,7 +152062,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 81
-        }
+        },
+        "web_domains": [
+            "cryptonoshi.com"
+        ]
     },
     {
         "contract_address": "0x6ca954ad83701ba78ad8ef591776eee67cc3e6b8",
@@ -152108,7 +152111,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 0
-        }
+        },
+        "web_domains": [
+            "howlsupply.com"
+        ]
     },
     {
         "contract_address": "0xe2ec2b77a30743ebd746e4e18c5bfe665cd70222",
