@@ -151360,7 +151360,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 22
-        }
+        },
+        "web_domains": [
+            "puck.news"
+        ]
     },
     {
         "contract_address": "0x7d302582ad998ea22cd479b1b641c67a1f5da8e6",
@@ -151368,7 +151371,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 42
-        }
+        },
+        "web_domains": [
+            "gameswap.org"
+        ]
     },
     {
         "contract_address": "0xa74e202294dcbe06431e60921951eee5054cb594",
