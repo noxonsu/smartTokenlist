@@ -151304,11 +151304,13 @@
             "wenlamboerc.xyz"
         ],
         "telegram_groups": [
-            "WenLamboOnEth"
+            "WenLamboOnEth",
+            "wenlambooneth"
         ],
         "holders": {
             "ETH": 29
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xcce8fd1eb636632e0c0cd2353264d56a37d2246b",
@@ -151319,7 +151321,11 @@
         },
         "web_domains": [
             "eloncat.app"
-        ]
+        ],
+        "telegram_groups": [
+            "elon_cat_official"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd953af4e584178f7a69c4afb3a60502d33dc544e",
