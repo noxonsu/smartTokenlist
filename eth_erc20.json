@@ -152592,7 +152592,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 78
-        }
+        },
+        "web_domains": [
+            "almy.com"
+        ]
     },
     {
         "contract_address": "0x744030ad4e6c10faf5483b62473d88a254d62261",
@@ -152600,7 +152603,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 21
-        }
+        },
+        "web_domains": [
+            "nulink.org"
+        ]
     },
     {
         "contract_address": "0x81db300b7fb80e42e0584881541d9533ed0a1523",
