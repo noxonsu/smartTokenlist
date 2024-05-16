@@ -152870,5 +152870,106 @@
             "ETH": 102
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xd29da236dd4aac627346e1bba06a619e8c22d7c5",
+        "date_add": "2024-05-16 16:04:18",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "maga-hat.vip"
+        ],
+        "telegram_groups": [
+            "MAGA_HAT"
+        ],
+        "holders": {
+            "ETH": 413
+        }
+    },
+    {
+        "contract_address": "0x1a1161e55b640951be493b0ad51078a0b4281541",
+        "date_add": "2024-05-16 16:04:18",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tyleeinu.xyz"
+        ],
+        "telegram_groups": [
+            "TyleeInu"
+        ],
+        "holders": {
+            "ETH": 64
+        }
+    },
+    {
+        "contract_address": "0xc8f70c7e4a0035c3d91551f8d9b32a49841fa46d",
+        "date_add": "2024-05-16 16:04:18",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.catswaps.app",
+            "catexchange.org"
+        ],
+        "telegram_groups": [
+            "CatSwap_ETH"
+        ],
+        "holders": {
+            "ETH": 51
+        }
+    },
+    {
+        "contract_address": "0xffbb003199f7e44ae520a134590cdfba2f36f0a1",
+        "date_add": "2024-05-16 16:04:18",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "PoseidonTheBinanceCatOnETH"
+        ],
+        "holders": {
+            "ETH": 72
+        }
+    },
+    {
+        "contract_address": "0x54166f358439e10684e8472dc9877b716292dd86",
+        "date_add": "2024-05-16 16:04:18",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 79
+        }
+    },
+    {
+        "contract_address": "0x5b9c5789422675ca0b3426c5816939ae576e4bd8",
+        "date_add": "2024-05-16 16:04:18",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x2d62eb393bf0f3a0802cbdbcb43deeb71de3d30f",
+        "date_add": "2024-05-16 16:04:18",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x83fedbc0b85c6e29b589aa6bdefb1cc581935ecd",
+        "date_add": "2024-05-16 16:04:18",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x0a907b0bbff60702b29a36b19718d99253cfbd9f",
+        "date_add": "2024-05-16 16:04:18",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.qlixbot.io"
+        ],
+        "telegram_groups": [
+            "JoinQLixBot",
+            "QLixOfficialBot"
+        ],
+        "holders": {
+            "ETH": 269
+        }
     }
 ]
