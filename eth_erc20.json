@@ -152516,5 +152516,123 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xb82b0865c8009b60374cff30431ffadfc90ede1a",
+        "date_add": "2024-05-16 08:04:31",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 66
+        }
+    },
+    {
+        "contract_address": "0x160fa340f9ccdf46b11e2c60475c8fbb1b543f58",
+        "date_add": "2024-05-16 08:04:31",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wattherat.com"
+        ],
+        "telegram_groups": [
+            "WatToken"
+        ],
+        "holders": {
+            "ETH": 218
+        }
+    },
+    {
+        "contract_address": "0x46feba23b1f185807d53fec0073b52a1ab6eb38a",
+        "date_add": "2024-05-16 08:04:31",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "a-meme-coin.wtf"
+        ],
+        "telegram_groups": [
+            "AMemeCoinERC"
+        ],
+        "holders": {
+            "ETH": 64
+        }
+    },
+    {
+        "contract_address": "0xedcbf61935febf6a078a3045a7dae6330c8a621f",
+        "date_add": "2024-05-16 08:04:31",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dumbmoney.dev"
+        ],
+        "telegram_groups": [
+            "DUMB_Money_official"
+        ],
+        "holders": {
+            "ETH": 174
+        }
+    },
+    {
+        "contract_address": "0x630be4b39d0b0255ec51b57955b0c55aff3dcc20",
+        "date_add": "2024-05-16 08:04:31",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Poseidoncoinerc20"
+        ],
+        "holders": {
+            "ETH": 207
+        }
+    },
+    {
+        "contract_address": "0x9c4cf40b5b5c3a58761683e65a87902130eb1b7c",
+        "date_add": "2024-05-16 08:04:31",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 194
+        }
+    },
+    {
+        "contract_address": "0x9478b9c99e9b62db613162241026f2f02cf92142",
+        "date_add": "2024-05-16 08:04:31",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 78
+        }
+    },
+    {
+        "contract_address": "0x744030ad4e6c10faf5483b62473d88a254d62261",
+        "date_add": "2024-05-16 08:04:31",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 21
+        }
+    },
+    {
+        "contract_address": "0x81db300b7fb80e42e0584881541d9533ed0a1523",
+        "date_add": "2024-05-16 08:04:31",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "youngpeezy.io"
+        ],
+        "telegram_groups": [
+            "peezyerc"
+        ],
+        "holders": {
+            "ETH": 247
+        }
+    },
+    {
+        "contract_address": "0x1426cc6d52d1b14e2b3b1cb04d57ea42b39c4c7c",
+        "date_add": "2024-05-16 08:04:31",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "jomonshiba"
+        ],
+        "holders": {
+            "ETH": 9352
+        }
+    },
+    {
+        "contract_address": "0xb33cd98c0018295aeec82a86bb3d5bcd1cd94a28",
+        "date_add": "2024-05-16 08:04:31",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
