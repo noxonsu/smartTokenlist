@@ -152883,7 +152883,8 @@
         ],
         "holders": {
             "ETH": 413
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1a1161e55b640951be493b0ad51078a0b4281541",
@@ -152897,7 +152898,8 @@
         ],
         "holders": {
             "ETH": 64
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc8f70c7e4a0035c3d91551f8d9b32a49841fa46d",
@@ -152912,7 +152914,8 @@
         ],
         "holders": {
             "ETH": 51
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xffbb003199f7e44ae520a134590cdfba2f36f0a1",
@@ -152950,7 +152953,9 @@
         },
         "web_domains": [
             "openvpn.net"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x83fedbc0b85c6e29b589aa6bdefb1cc581935ecd",
@@ -152961,7 +152966,9 @@
         },
         "web_domains": [
             "superstate.co"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0a907b0bbff60702b29a36b19718d99253cfbd9f",
@@ -152976,6 +152983,10 @@
         ],
         "holders": {
             "ETH": 269
-        }
+        },
+        "emails": [
+            "Reach out to us at hello@qlixbot.io"
+        ],
+        "p6": true
     }
 ]
