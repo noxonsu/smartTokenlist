@@ -152377,7 +152377,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 2
-        }
+        },
+        "web_domains": [
+            "xylabs.com"
+        ]
     },
     {
         "contract_address": "0xf14dd7b286ce197019cba54b189d2b883e70f761",
@@ -152421,7 +152424,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 27
-        }
+        },
+        "web_domains": [
+            "evee.io"
+        ]
     },
     {
         "contract_address": "0x7616113782aadab041d7b10d474f8a0c04eff258",
