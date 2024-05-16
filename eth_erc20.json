@@ -153081,7 +153081,9 @@
         },
         "web_domains": [
             "pincentives.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8ba24c45f42117bb0735be25ba632aefda0f5fa5",
@@ -153104,11 +153106,16 @@
             "docs.etheradio.rocks"
         ],
         "telegram_groups": [
+            "EtherRadioRock",
             "EtheradioRock"
         ],
         "holders": {
             "ETH": 92
-        }
+        },
+        "emails": [
+            "support@etheradio.rocks"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8ac64fa3d96e63d3f2f097aa0393c49a9fde9e66",
@@ -153124,7 +153131,8 @@
         ],
         "holders": {
             "ETH": 104
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa9aa35b5481a7b7936d1680911d478f7a639fe48",
@@ -153159,7 +153167,9 @@
         },
         "web_domains": [
             "youswap.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4a053b7c4cbbe72300f1986e39881bd21d646536",
@@ -153170,6 +153180,8 @@
         },
         "web_domains": [
             "investidor10.com.br"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
