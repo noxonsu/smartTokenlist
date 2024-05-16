@@ -152369,7 +152369,11 @@
         ],
         "holders": {
             "ETH": 305
-        }
+        },
+        "emails": [
+            "pixelverse100m@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x00d61c23ba36001603f1fcb4981e2d13ef9f0923",
@@ -152380,7 +152384,9 @@
         },
         "web_domains": [
             "xylabs.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf14dd7b286ce197019cba54b189d2b883e70f761",
@@ -152390,11 +152396,16 @@
             "peezycoin.vip"
         ],
         "telegram_groups": [
-            "PeezyCoin"
+            "PeezyCoin",
+            "peezycoin"
         ],
         "holders": {
             "ETH": 160
-        }
+        },
+        "emails": [
+            "team@youngpeezyeth.xyz"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6905f6a8e6445f57da1af16a6b1986d84a1f5fc9",
@@ -152408,7 +152419,8 @@
         ],
         "holders": {
             "ETH": 102
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xcf62109ef3badf17db372553db566662c2e8faa6",
@@ -152427,7 +152439,9 @@
         },
         "web_domains": [
             "evee.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7616113782aadab041d7b10d474f8a0c04eff258",
