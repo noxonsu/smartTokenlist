@@ -152738,7 +152738,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 252
-        }
+        },
+        "web_domains": [
+            "fjordfoundry.com"
+        ]
     },
     {
         "contract_address": "0xac9518ba93eeb2336a03137d254d8cc2e4d0fa38",
