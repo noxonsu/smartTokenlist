@@ -152458,5 +152458,53 @@
         "holders": {
             "ETH": 25
         }
+    },
+    {
+        "contract_address": "0xeb7b5294c79b0369315ed7fe76b52d3108b0a62d",
+        "date_add": "2024-05-16 04:04:47",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0x5ebff9a2e39c375eab252ba6dce0ab7ac458fb39",
+        "date_add": "2024-05-16 04:04:47",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2078
+        }
+    },
+    {
+        "contract_address": "0xfbccd0ebeac2911aeb52b03230c956c3c4440795",
+        "date_add": "2024-05-16 04:04:47",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xd82b1c1cac5a1a8430c75f842b013594d2501333",
+        "date_add": "2024-05-16 04:04:47",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8
+        }
+    },
+    {
+        "contract_address": "0x2780af41649c6a8cc4e6efbcd0940efed70da98b",
+        "date_add": "2024-05-16 04:04:47",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0x6f942d2b0e8abe8059816945e05ec20029d5e851",
+        "date_add": "2024-05-16 04:04:47",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 78
+        }
     }
 ]
