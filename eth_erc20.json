@@ -152500,7 +152500,9 @@
         },
         "web_domains": [
             "rocketpharma.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6f942d2b0e8abe8059816945e05ec20029d5e851",
@@ -152511,6 +152513,8 @@
         },
         "web_domains": [
             "chainlabel.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
