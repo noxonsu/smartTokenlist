@@ -152763,5 +152763,96 @@
         "holders": {
             "ETH": 162
         }
+    },
+    {
+        "contract_address": "0xfe07ab25eb38e5d2552028584902d37163cf6840",
+        "date_add": "2024-05-16 14:04:21",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 38
+        }
+    },
+    {
+        "contract_address": "0x53775d44888fc0f43d24e7eee5881bc4b5ef3f9f",
+        "date_add": "2024-05-16 14:04:21",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "stubycoin.com"
+        ],
+        "telegram_groups": [
+            "stubbyerc"
+        ],
+        "holders": {
+            "ETH": 187
+        }
+    },
+    {
+        "contract_address": "0x09579b270858ac00993fe43d9646068d3bd48683",
+        "date_add": "2024-05-16 14:04:21",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0xd3f4e69364936258a07e7db7e8af16e14124f9e6",
+        "date_add": "2024-05-16 14:04:21",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x1f49c42ec480934eff968a3c9a4d0de52ae815aa",
+        "date_add": "2024-05-16 14:04:21",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nypost.com",
+            "www.mevbros.xyz"
+        ],
+        "telegram_groups": [
+            "MEVBrothers"
+        ],
+        "holders": {
+            "ETH": 29
+        }
+    },
+    {
+        "contract_address": "0x4561bd45033a31d4e5921b997a489c61b992c914",
+        "date_add": "2024-05-16 14:04:21",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 46
+        }
+    },
+    {
+        "contract_address": "0xb082ec2b3ab6e18df73e027623bca282a5f0c105",
+        "date_add": "2024-05-16 14:04:21",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 142
+        }
+    },
+    {
+        "contract_address": "0xfc6a8c2c9ff299cf4e014364525c805dc9c0245c",
+        "date_add": "2024-05-16 14:04:21",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 203
+        }
+    },
+    {
+        "contract_address": "0x8256aa046d7ec8d24137e14ef160f799e6842de3",
+        "date_add": "2024-05-16 14:04:21",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "kittystop.info"
+        ],
+        "telegram_groups": [
+            "KittyStopERC"
+        ],
+        "holders": {
+            "ETH": 102
+        }
     }
 ]
