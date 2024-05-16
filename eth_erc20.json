@@ -152784,7 +152784,8 @@
         ],
         "holders": {
             "ETH": 187
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x09579b270858ac00993fe43d9646068d3bd48683",
@@ -152795,7 +152796,11 @@
         },
         "web_domains": [
             "kittenzilla.io"
-        ]
+        ],
+        "telegram_groups": [
+            "KittenZillaSol"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd3f4e69364936258a07e7db7e8af16e14124f9e6",
@@ -152806,7 +152811,9 @@
         },
         "web_domains": [
             "miguelroquefernandes.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x1f49c42ec480934eff968a3c9a4d0de52ae815aa",
@@ -152817,11 +152824,13 @@
             "www.mevbros.xyz"
         ],
         "telegram_groups": [
-            "MEVBrothers"
+            "MEVBrothers",
+            "nolandarbaugh"
         ],
         "holders": {
             "ETH": 29
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4561bd45033a31d4e5921b997a489c61b992c914",
@@ -152859,6 +152868,7 @@
         ],
         "holders": {
             "ETH": 102
-        }
+        },
+        "p6": true
     }
 ]
