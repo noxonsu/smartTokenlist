@@ -153078,7 +153078,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 3
-        }
+        },
+        "web_domains": [
+            "pincentives.com"
+        ]
     },
     {
         "contract_address": "0x8ba24c45f42117bb0735be25ba632aefda0f5fa5",
@@ -153153,7 +153156,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 199
-        }
+        },
+        "web_domains": [
+            "youswap.finance"
+        ]
     },
     {
         "contract_address": "0x4a053b7c4cbbe72300f1986e39881bd21d646536",
@@ -153161,6 +153167,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 2
-        }
+        },
+        "web_domains": [
+            "investidor10.com.br"
+        ]
     }
 ]
