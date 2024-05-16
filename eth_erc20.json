@@ -153063,5 +153063,104 @@
             "nttbotportal"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x5cfe9041e6fc105d85417009f670661df7fabe4c",
+        "date_add": "2024-05-16 22:04:42",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xe5a1e05a326b8731fcb5560bdcf759e2a74c9297",
+        "date_add": "2024-05-16 22:04:42",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x8ba24c45f42117bb0735be25ba632aefda0f5fa5",
+        "date_add": "2024-05-16 22:04:42",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "PepeMetaClub"
+        ],
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0xa5ed0686bf10eccfe04e0fc9569e135f24395f58",
+        "date_add": "2024-05-16 22:04:42",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "etheradio.rocks",
+            "etheradio.rocks",
+            "docs.etheradio.rocks"
+        ],
+        "telegram_groups": [
+            "EtheradioRock"
+        ],
+        "holders": {
+            "ETH": 92
+        }
+    },
+    {
+        "contract_address": "0x8ac64fa3d96e63d3f2f097aa0393c49a9fde9e66",
+        "date_add": "2024-05-16 22:04:42",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "defidreamers.finance",
+            "defi-dreamers.gitbook.io"
+        ],
+        "telegram_groups": [
+            "defidreamersportal",
+            "dreaminitybot"
+        ],
+        "holders": {
+            "ETH": 104
+        }
+    },
+    {
+        "contract_address": "0xa9aa35b5481a7b7936d1680911d478f7a639fe48",
+        "date_add": "2024-05-16 22:04:42",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 35
+        }
+    },
+    {
+        "contract_address": "0x02c26e2013d7476e69ad3b453f025a43116b448d",
+        "date_add": "2024-05-16 22:04:42",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0xd4419c2d3daa986dc30444fa333a846be44fd1eb",
+        "date_add": "2024-05-16 22:04:42",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 103
+        }
+    },
+    {
+        "contract_address": "0x1d32916cfa6534d261ad53e2498ab95505bd2510",
+        "date_add": "2024-05-16 22:04:42",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 199
+        }
+    },
+    {
+        "contract_address": "0x4a053b7c4cbbe72300f1986e39881bd21d646536",
+        "date_add": "2024-05-16 22:04:42",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
     }
 ]
