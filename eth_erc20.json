@@ -152656,5 +152656,60 @@
         "holders": {
             "ETH": 1
         }
+    },
+    {
+        "contract_address": "0x69420b263810095ce68ef30ffadc404866d7ee7f",
+        "date_add": "2024-05-16 10:04:25",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "icelanderc.com"
+        ],
+        "telegram_groups": [
+            "icelanderc"
+        ],
+        "holders": {
+            "ETH": 307
+        }
+    },
+    {
+        "contract_address": "0x8ab8e01c5f96af1546a8d0b1df2107bdd5293bb4",
+        "date_add": "2024-05-16 10:04:25",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 29
+        }
+    },
+    {
+        "contract_address": "0x5722327c227982282e01e2f734403a3ddf539026",
+        "date_add": "2024-05-16 10:04:25",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "notco.in"
+        ],
+        "telegram_groups": [
+            "notcoin"
+        ],
+        "holders": {
+            "ETH": 65
+        }
+    },
+    {
+        "contract_address": "0xfe8f84ecf50d5d5ed6c170c6f18f40233a34fbba",
+        "date_add": "2024-05-16 10:04:25",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "luxchain.io"
+        ],
+        "holders": {
+            "ETH": 23
+        }
+    },
+    {
+        "contract_address": "0x1091e140d8d7f2d5e160aea27108b1de7a602eda",
+        "date_add": "2024-05-16 10:04:25",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 29
+        }
     }
 ]
