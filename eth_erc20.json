@@ -152723,5 +152723,40 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x613167fba619ff20f4a3bddeeab8d37ab58490ae",
+        "date_add": "2024-05-16 12:06:22",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 581
+        }
+    },
+    {
+        "contract_address": "0xce42924f21fc26b3f9d11185118ad97e3f4cfd4e",
+        "date_add": "2024-05-16 12:06:22",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 252
+        }
+    },
+    {
+        "contract_address": "0xac9518ba93eeb2336a03137d254d8cc2e4d0fa38",
+        "date_add": "2024-05-16 12:06:22",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 255
+        }
+    },
+    {
+        "contract_address": "0xbb72c1f24a8075cd72dffe9ea76949cdcfc2a4fe",
+        "date_add": "2024-05-16 12:06:22",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Semyon_ERC"
+        ],
+        "holders": {
+            "ETH": 162
+        }
     }
 ]
