@@ -152356,5 +152356,87 @@
             "ETH": 35
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x740e3e83a8dd7bcc740109b748b380840504b249",
+        "date_add": "2024-05-16 00:15:39",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pixelverseeth.com"
+        ],
+        "telegram_groups": [
+            "pixelverseeth"
+        ],
+        "holders": {
+            "ETH": 305
+        }
+    },
+    {
+        "contract_address": "0x00d61c23ba36001603f1fcb4981e2d13ef9f0923",
+        "date_add": "2024-05-16 00:15:39",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xf14dd7b286ce197019cba54b189d2b883e70f761",
+        "date_add": "2024-05-16 00:15:39",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "peezycoin.vip"
+        ],
+        "telegram_groups": [
+            "PeezyCoin"
+        ],
+        "holders": {
+            "ETH": 160
+        }
+    },
+    {
+        "contract_address": "0x6905f6a8e6445f57da1af16a6b1986d84a1f5fc9",
+        "date_add": "2024-05-16 00:15:39",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mmgaerc20.com"
+        ],
+        "telegram_groups": [
+            "mmgaerc20"
+        ],
+        "holders": {
+            "ETH": 102
+        }
+    },
+    {
+        "contract_address": "0xcf62109ef3badf17db372553db566662c2e8faa6",
+        "date_add": "2024-05-16 00:15:39",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1724
+        }
+    },
+    {
+        "contract_address": "0x992b4ce4aae948404d831b97aee23fe367a49505",
+        "date_add": "2024-05-16 00:15:39",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 27
+        }
+    },
+    {
+        "contract_address": "0x7616113782aadab041d7b10d474f8a0c04eff258",
+        "date_add": "2024-05-16 00:15:39",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1085
+        }
+    },
+    {
+        "contract_address": "0xc862346614d4af4c0a3dff74cebf5a33f188ae73",
+        "date_add": "2024-05-16 00:15:39",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 25
+        }
     }
 ]
