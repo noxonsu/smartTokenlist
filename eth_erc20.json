@@ -152669,7 +152669,8 @@
         ],
         "holders": {
             "ETH": 307
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8ab8e01c5f96af1546a8d0b1df2107bdd5293bb4",
@@ -152691,7 +152692,8 @@
         ],
         "holders": {
             "ETH": 65
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xfe8f84ecf50d5d5ed6c170c6f18f40233a34fbba",
@@ -152702,7 +152704,12 @@
         ],
         "holders": {
             "ETH": 23
-        }
+        },
+        "telegram_groups": [
+            "LuxChainChat",
+            "LuxChainOfficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1091e140d8d7f2d5e160aea27108b1de7a602eda",
@@ -152713,6 +152720,8 @@
         },
         "web_domains": [
             "intensitylabs.co"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
