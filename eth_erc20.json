@@ -152947,7 +152947,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 3
-        }
+        },
+        "web_domains": [
+            "openvpn.net"
+        ]
     },
     {
         "contract_address": "0x83fedbc0b85c6e29b589aa6bdefb1cc581935ecd",
@@ -152955,7 +152958,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 5
-        }
+        },
+        "web_domains": [
+            "superstate.co"
+        ]
     },
     {
         "contract_address": "0x0a907b0bbff60702b29a36b19718d99253cfbd9f",
