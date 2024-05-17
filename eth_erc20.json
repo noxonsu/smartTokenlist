@@ -153840,5 +153840,81 @@
             "unlockd_finance"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0xb0f15c5912220f2c008f4186cbe96dafa0758cb0",
+        "date_add": "2024-05-17 16:04:43",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "michieth.xyz"
+        ],
+        "telegram_groups": [
+            "michitokeneth"
+        ],
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x440568bde9c7c9841400d7d6fe78aac0b0e66c39",
+        "date_add": "2024-05-17 16:04:43",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "WeJustDid"
+        ],
+        "holders": {
+            "ETH": 139
+        }
+    },
+    {
+        "contract_address": "0x02e0f5b5ae7388d3c2e1a9a062ce608a739bc4b3",
+        "date_add": "2024-05-17 16:04:43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1165
+        }
+    },
+    {
+        "contract_address": "0x6069c9223e8a5da1ec49ac5525d4bb757af72cd8",
+        "date_add": "2024-05-17 16:04:43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1638
+        }
+    },
+    {
+        "contract_address": "0xcf8b99383afc460544c29f07da9e15a2ef2a0f08",
+        "date_add": "2024-05-17 16:04:43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x7f4c5447af6a96d8eeaee1d932338cfc57890dbd",
+        "date_add": "2024-05-17 16:04:43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 867
+        }
+    },
+    {
+        "contract_address": "0x14a27fa24d8f7d62449474537d8a3aa46049c81d",
+        "date_add": "2024-05-17 16:04:43",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "tbcerc20"
+        ],
+        "holders": {
+            "ETH": 31
+        }
+    },
+    {
+        "contract_address": "0x6832761746a83120f34c984321fa58ed5ddba5df",
+        "date_add": "2024-05-17 16:04:43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 28
+        }
     }
 ]
