@@ -153986,7 +153986,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 47
-        }
+        },
+        "web_domains": [
+            "shakeandco.com"
+        ]
     },
     {
         "contract_address": "0x0878bd693043100dc78fcfe26f81e2966b248ef7",
