@@ -153778,5 +153778,59 @@
             "birdbyteio"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x25b24b3c47918b7962b3e49c4f468367f73cc0e0",
+        "date_add": "2024-05-17 14:05:05",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 592
+        }
+    },
+    {
+        "contract_address": "0xf9670d8720b8b2150c380452328a53d243a3cbf2",
+        "date_add": "2024-05-17 14:05:05",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 328
+        }
+    },
+    {
+        "contract_address": "0x26213b6cacc23bd7836432e14669507adc7b24de",
+        "date_add": "2024-05-17 14:05:05",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 29
+        }
+    },
+    {
+        "contract_address": "0x05bd71758fe6cc7e0c2372d35f16c8d50ff6027f",
+        "date_add": "2024-05-17 14:05:05",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "roaringtrump.com"
+        ],
+        "telegram_groups": [
+            "Roaring_Trump"
+        ],
+        "holders": {
+            "ETH": 73
+        }
+    },
+    {
+        "contract_address": "0xecacb305403ab288b0a2b11d6cd6481de4914b95",
+        "date_add": "2024-05-17 14:05:05",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 28
+        }
+    },
+    {
+        "contract_address": "0x00f3be5e24243893132a3038f7e48392693150cb",
+        "date_add": "2024-05-17 14:05:05",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10
+        }
     }
 ]
