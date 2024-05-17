@@ -153396,7 +153396,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 31
-        }
+        },
+        "web_domains": [
+            "saitachain.com"
+        ]
     },
     {
         "contract_address": "0x74c00c26e0ace673313aebf749a1a9644eeefdea",
