@@ -153629,5 +153629,64 @@
             "info@zenomath.org"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x2024064fe5d086e22b1d482055c2b2b054dbd6aa",
+        "date_add": "2024-05-17 10:04:21",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.thedailybeast.com",
+            "newrepublic.com",
+            "honestdon.site"
+        ],
+        "telegram_groups": [
+            "honestdon_eth"
+        ],
+        "holders": {
+            "ETH": 160
+        }
+    },
+    {
+        "contract_address": "0xccfba55decaa45fb15ac7a4de23fdef2d2798522",
+        "date_add": "2024-05-17 10:04:21",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Bibicoineth"
+        ],
+        "holders": {
+            "ETH": 142
+        }
+    },
+    {
+        "contract_address": "0xa84f95eb3dabdc1bbd613709ef5f2fd42ce5be8d",
+        "date_add": "2024-05-17 10:04:21",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1610
+        }
+    },
+    {
+        "contract_address": "0x870a462dc15232df76ae0018dbba989b0a5e3892",
+        "date_add": "2024-05-17 10:04:21",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x31b46c84e4fb0704de69dbf4b054b5cb81aa3736",
+        "date_add": "2024-05-17 10:04:21",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x8a6429493a9754f7e0d9e934cc73c449ccf79bff",
+        "date_add": "2024-05-17 10:04:21",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 46
+        }
     }
 ]
