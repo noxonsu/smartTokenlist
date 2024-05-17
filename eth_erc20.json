@@ -153496,7 +153496,8 @@
         ],
         "holders": {
             "ETH": 283
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x88417754ff7062c10f4e3a4ab7e9f9d9cbda6023",
@@ -153523,7 +153524,11 @@
         },
         "web_domains": [
             "wifmog.xyz"
-        ]
+        ],
+        "telegram_groups": [
+            "MWIFONSOLANA"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x72df57b88b59a1ec9540bf7f8dbc53ac195c30b6",
@@ -153545,7 +153550,8 @@
         ],
         "holders": {
             "ETH": 142
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x57b386e5b78bd7b1ddb60d45a4a5e20830d693d9",
