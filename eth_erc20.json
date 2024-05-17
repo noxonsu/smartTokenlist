@@ -153655,7 +153655,10 @@
         ],
         "holders": {
             "ETH": 142
-        }
+        },
+        "web_domains": [
+            "nakedbibi.com"
+        ]
     },
     {
         "contract_address": "0xa84f95eb3dabdc1bbd613709ef5f2fd42ce5be8d",
