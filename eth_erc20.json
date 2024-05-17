@@ -153853,7 +153853,8 @@
         ],
         "holders": {
             "ETH": 1
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x440568bde9c7c9841400d7d6fe78aac0b0e66c39",
@@ -153910,7 +153911,8 @@
         },
         "web_domains": [
             "boringcompany.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6832761746a83120f34c984321fa58ed5ddba5df",
@@ -153921,6 +153923,8 @@
         },
         "web_domains": [
             "ethereumclassic.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
