@@ -153183,5 +153183,105 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xdd157bd06c1840fa886da18a138c983a7d74c1d7",
+        "date_add": "2024-05-17 00:16:13",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 23
+        }
+    },
+    {
+        "contract_address": "0xc4300348912a26f304408261c1a322ce0920f2f8",
+        "date_add": "2024-05-17 00:16:13",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 29
+        }
+    },
+    {
+        "contract_address": "0x6617f50bd993f86045cfdf99e579bf9d7225125f",
+        "date_add": "2024-05-17 00:16:13",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 28
+        }
+    },
+    {
+        "contract_address": "0x29ffeffcd2154824c6e645afeacca4bd95c893d2",
+        "date_add": "2024-05-17 00:16:13",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "algowave.ai"
+        ],
+        "telegram_groups": [
+            "algowaveai"
+        ],
+        "holders": {
+            "ETH": 309
+        }
+    },
+    {
+        "contract_address": "0xceb726e6383468dd8ac0b513c8330cc9fb4024a8",
+        "date_add": "2024-05-17 00:16:13",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1271
+        }
+    },
+    {
+        "contract_address": "0x56f451d1ba4b46e478680056c1c3b662cacf04db",
+        "date_add": "2024-05-17 00:16:13",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "makememecoinsgreatagain.xyz"
+        ],
+        "telegram_groups": [
+            "MakeMemecoinsGreatAgainERC20"
+        ],
+        "holders": {
+            "ETH": 230
+        }
+    },
+    {
+        "contract_address": "0xf4eae3218778510cc1d07ed22338d6d8df2adaf1",
+        "date_add": "2024-05-17 00:16:13",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 49
+        }
+    },
+    {
+        "contract_address": "0xdfa21cec8a46386f5d36f4b07e18bccca59f425b",
+        "date_add": "2024-05-17 00:16:13",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x7016c65cfd385994fb7c741f88a926799e9ec1f6",
+        "date_add": "2024-05-17 00:16:13",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x27cace18f661161661683bba43933b2e6eb1741e",
+        "date_add": "2024-05-17 00:16:13",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0xc794c6a95f30d0ebf7b3bbe85e8a0a95c9e411c1",
+        "date_add": "2024-05-17 00:16:13",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11
+        }
     }
 ]
