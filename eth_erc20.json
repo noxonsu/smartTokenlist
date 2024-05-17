@@ -153520,7 +153520,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 21
-        }
+        },
+        "web_domains": [
+            "wifmog.xyz"
+        ]
     },
     {
         "contract_address": "0x72df57b88b59a1ec9540bf7f8dbc53ac195c30b6",
