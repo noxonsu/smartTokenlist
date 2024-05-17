@@ -153306,5 +153306,82 @@
         "holders": {
             "ETH": 11
         }
+    },
+    {
+        "contract_address": "0x777e762905a5a23cae88e0940bb195691bef070f",
+        "date_add": "2024-05-17 02:14:27",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "RichWithETH.com"
+        ],
+        "telegram_groups": [
+            "GetRichWithRich"
+        ],
+        "holders": {
+            "ETH": 182
+        }
+    },
+    {
+        "contract_address": "0xdd6b4e7722df396aeabd6de03c55259ba52f17db",
+        "date_add": "2024-05-17 02:14:27",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ethtrumpe.wtf"
+        ],
+        "telegram_groups": [
+            "trumpeportal"
+        ],
+        "holders": {
+            "ETH": 37
+        }
+    },
+    {
+        "contract_address": "0xbc607304cbbaae875caf5f7332f0dfd7fd857af2",
+        "date_add": "2024-05-17 02:14:27",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0x8640353cdc9778deab0df45d12fb3013deac079c",
+        "date_add": "2024-05-17 02:14:27",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1058
+        }
+    },
+    {
+        "contract_address": "0x4913316b6d5855bb4c5e3fccd75d7ce70d53c941",
+        "date_add": "2024-05-17 02:14:27",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "MakeCryptoGreatAgain_ERC"
+        ],
+        "holders": {
+            "ETH": 50
+        }
+    },
+    {
+        "contract_address": "0x2671ef3e85fe0c8d8a7e434208ccc842455a4cf1",
+        "date_add": "2024-05-17 02:14:27",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ffieonethereum.com"
+        ],
+        "telegram_groups": [
+            "FFIEonethereum"
+        ],
+        "holders": {
+            "ETH": 259
+        }
+    },
+    {
+        "contract_address": "0xd290ffaf46e99defe0e01fe3531c9155cc16eb56",
+        "date_add": "2024-05-17 02:14:27",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
     }
 ]
