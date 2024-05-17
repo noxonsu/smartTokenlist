@@ -153319,7 +153319,8 @@
         ],
         "holders": {
             "ETH": 182
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xdd6b4e7722df396aeabd6de03c55259ba52f17db",
@@ -153333,7 +153334,11 @@
         ],
         "holders": {
             "ETH": 37
-        }
+        },
+        "emails": [
+            "admin@ethtrumpe.wtf"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbc607304cbbaae875caf5f7332f0dfd7fd857af2",
@@ -153374,7 +153379,8 @@
         ],
         "holders": {
             "ETH": 259
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd290ffaf46e99defe0e01fe3531c9155cc16eb56",
