@@ -154040,5 +154040,29 @@
         "holders": {
             "ETH": 2
         }
+    },
+    {
+        "contract_address": "0xbe11a10bb1b6f0522985707fd8e23b28cea6c493",
+        "date_add": "2024-05-17 20:05:10",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 84
+        }
+    },
+    {
+        "contract_address": "0x7a939bb714fd2a48ebeb1e495aa9aaa74ba9fa68",
+        "date_add": "2024-05-17 20:05:10",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 662
+        }
+    },
+    {
+        "contract_address": "0x5af25fc8a633f0c1db594bb0c6a2497c33fc4409",
+        "date_add": "2024-05-17 20:05:10",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
     }
 ]
