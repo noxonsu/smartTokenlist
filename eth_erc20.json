@@ -153190,7 +153190,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 23
-        }
+        },
+        "web_domains": [
+            "gstop-content.com"
+        ]
     },
     {
         "contract_address": "0xc4300348912a26f304408261c1a322ce0920f2f8",
@@ -153198,7 +153201,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 29
-        }
+        },
+        "web_domains": [
+            "purgesolutions.com"
+        ]
     },
     {
         "contract_address": "0x6617f50bd993f86045cfdf99e579bf9d7225125f",
@@ -153206,7 +153212,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 28
-        }
+        },
+        "web_domains": [
+            "wojak.finance"
+        ]
     },
     {
         "contract_address": "0x29ffeffcd2154824c6e645afeacca4bd95c893d2",
