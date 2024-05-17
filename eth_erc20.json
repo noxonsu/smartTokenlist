@@ -154047,7 +154047,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 84
-        }
+        },
+        "web_domains": [
+            "bellabellashop.com"
+        ]
     },
     {
         "contract_address": "0x7a939bb714fd2a48ebeb1e495aa9aaa74ba9fa68",
