@@ -153907,7 +153907,10 @@
         ],
         "holders": {
             "ETH": 31
-        }
+        },
+        "web_domains": [
+            "boringcompany.com"
+        ]
     },
     {
         "contract_address": "0x6832761746a83120f34c984321fa58ed5ddba5df",
@@ -153915,6 +153918,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 28
-        }
+        },
+        "web_domains": [
+            "ethereumclassic.org"
+        ]
     }
 ]
