@@ -153399,7 +153399,14 @@
         },
         "web_domains": [
             "saitachain.com"
-        ]
+        ],
+        "telegram_groups": [
+            "saitamaworldwide"
+        ],
+        "emails": [
+            "support@saitachain.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x74c00c26e0ace673313aebf749a1a9644eeefdea",
@@ -153413,7 +153420,8 @@
         ],
         "holders": {
             "ETH": 203
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9d5963ba32e877871dff3e2e697283dc64066271",
@@ -153465,6 +153473,7 @@
         ],
         "holders": {
             "ETH": 204
-        }
+        },
+        "p6": true
     }
 ]
