@@ -153815,7 +153815,8 @@
         ],
         "holders": {
             "ETH": 73
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xecacb305403ab288b0a2b11d6cd6481de4914b95",
@@ -153834,6 +153835,10 @@
         },
         "web_domains": [
             "unlockd.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "unlockd_finance"
+        ],
+        "p6": true
     }
 ]
