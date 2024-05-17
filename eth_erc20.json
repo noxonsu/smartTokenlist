@@ -153644,7 +153644,8 @@
         ],
         "holders": {
             "ETH": 160
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xccfba55decaa45fb15ac7a4de23fdef2d2798522",
@@ -153658,7 +153659,8 @@
         },
         "web_domains": [
             "nakedbibi.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa84f95eb3dabdc1bbd613709ef5f2fd42ce5be8d",
