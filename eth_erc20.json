@@ -153193,7 +153193,9 @@
         },
         "web_domains": [
             "gstop-content.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc4300348912a26f304408261c1a322ce0920f2f8",
@@ -153204,7 +153206,12 @@
         },
         "web_domains": [
             "purgesolutions.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "info@purgesolutions.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6617f50bd993f86045cfdf99e579bf9d7225125f",
@@ -153215,7 +153222,11 @@
         },
         "web_domains": [
             "wojak.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "wojak_ETH"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x29ffeffcd2154824c6e645afeacca4bd95c893d2",
@@ -153225,11 +153236,13 @@
             "algowave.ai"
         ],
         "telegram_groups": [
-            "algowaveai"
+            "algowaveai",
+            "Algowaveai"
         ],
         "holders": {
             "ETH": 309
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xceb726e6383468dd8ac0b513c8330cc9fb4024a8",
@@ -153251,7 +153264,8 @@
         ],
         "holders": {
             "ETH": 230
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf4eae3218778510cc1d07ed22338d6d8df2adaf1",
