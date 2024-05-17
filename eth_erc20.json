@@ -153702,11 +153702,13 @@
             "Laurenboebert.vip"
         ],
         "telegram_groups": [
-            "LaurenBoebertERC"
+            "LaurenBoebertERC",
+            "LaurenboebertERC"
         ],
         "holders": {
             "ETH": 123
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7c0ab59c422ed8ad154f21c254bc47fd12eba7f7",
@@ -153718,7 +153720,11 @@
         ],
         "holders": {
             "ETH": 54
-        }
+        },
+        "telegram_groups": [
+            "aiisdev"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc8bc736db70f337483177dc80d747e8cabb53b82",
@@ -153732,7 +153738,8 @@
         },
         "web_domains": [
             "newimageartgallery.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x89e4cf002f0c239319c1605fa5218c64ee6beae8",
@@ -153746,7 +153753,8 @@
         ],
         "holders": {
             "ETH": 42
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x54bf4a11e943c79a9bfe93a83f68c67d3dab0346",
@@ -153765,6 +153773,10 @@
         },
         "web_domains": [
             "birdbyte.io"
-        ]
+        ],
+        "telegram_groups": [
+            "birdbyteio"
+        ],
+        "p6": true
     }
 ]
