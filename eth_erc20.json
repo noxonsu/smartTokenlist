@@ -153729,7 +153729,10 @@
         ],
         "holders": {
             "ETH": 64
-        }
+        },
+        "web_domains": [
+            "newimageartgallery.com"
+        ]
     },
     {
         "contract_address": "0x89e4cf002f0c239319c1605fa5218c64ee6beae8",
@@ -153759,6 +153762,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 31
-        }
+        },
+        "web_domains": [
+            "birdbyte.io"
+        ]
     }
 ]
