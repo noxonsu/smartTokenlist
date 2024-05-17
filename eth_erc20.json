@@ -154069,5 +154069,49 @@
         "holders": {
             "ETH": 0
         }
+    },
+    {
+        "contract_address": "0xd57bf0c95194f4d13ef7ee433076891ffa285aa5",
+        "date_add": "2024-05-17 22:04:20",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.babyapu.club"
+        ],
+        "telegram_groups": [
+            "BabyApuApustaja"
+        ],
+        "holders": {
+            "ETH": 148
+        }
+    },
+    {
+        "contract_address": "0x813d5b44c6c3dfa4a368bd4ffa823c626fe2eefe",
+        "date_add": "2024-05-17 22:04:20",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.honkthedog.vip"
+        ],
+        "telegram_groups": [
+            "honk_the_dog"
+        ],
+        "holders": {
+            "ETH": 67
+        }
+    },
+    {
+        "contract_address": "0x949a04881677e812b0d8b0b6f19ec2279c4f6b75",
+        "date_add": "2024-05-17 22:04:20",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 143
+        }
+    },
+    {
+        "contract_address": "0xaca4fdeb63eed8d7392042508d1cacbcc41db64d",
+        "date_add": "2024-05-17 22:04:20",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 344
+        }
     }
 ]
