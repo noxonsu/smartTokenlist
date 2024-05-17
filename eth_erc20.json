@@ -153577,5 +153577,46 @@
         "holders": {
             "ETH": 30
         }
+    },
+    {
+        "contract_address": "0x7118090c91fe860afdb36da29f29a5c542140795",
+        "date_add": "2024-05-17 08:05:35",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "entertrumpshappiness.org"
+        ],
+        "telegram_groups": [
+            "EnterTrumpsHappiness_portal"
+        ],
+        "holders": {
+            "ETH": 224
+        }
+    },
+    {
+        "contract_address": "0x4229725d41e2233d75b47675b55c6781df0b56a7",
+        "date_add": "2024-05-17 08:05:35",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 517
+        }
+    },
+    {
+        "contract_address": "0x061d6f7893abf18e7ff0ca44b44d8d13bdf57225",
+        "date_add": "2024-05-17 08:05:35",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "paramlabs.io"
+        ],
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0x825459139c897d769339f295e962396c4f9e4a4d",
+        "date_add": "2024-05-17 08:05:35",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 33
+        }
     }
 ]
