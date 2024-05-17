@@ -153590,7 +153590,8 @@
         ],
         "holders": {
             "ETH": 224
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4229725d41e2233d75b47675b55c6781df0b56a7",
@@ -153609,7 +153610,9 @@
         ],
         "holders": {
             "ETH": 30
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x825459139c897d769339f295e962396c4f9e4a4d",
@@ -153620,6 +153623,11 @@
         },
         "web_domains": [
             "zenomath.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "info@zenomath.org"
+        ],
+        "p6": true
     }
 ]
