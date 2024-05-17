@@ -153926,5 +153926,110 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xd498107d4e7a2b57c81af5642147f5ee4cdeed60",
+        "date_add": "2024-05-17 18:04:43",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "decentraai.io",
+            "Twitter.com"
+        ],
+        "telegram_groups": [
+            "aidecentra"
+        ],
+        "holders": {
+            "ETH": 161
+        }
+    },
+    {
+        "contract_address": "0x01e5147cf8c11020bd917219098d015bccc40145",
+        "date_add": "2024-05-17 18:04:43",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "biaoqingcoin.vip"
+        ],
+        "telegram_groups": [
+            "BiaoQingErc20"
+        ],
+        "holders": {
+            "ETH": 145
+        }
+    },
+    {
+        "contract_address": "0x4228f8895c7dda20227f6a5c6751b8ebf19a6ba8",
+        "date_add": "2024-05-17 18:04:43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 148
+        }
+    },
+    {
+        "contract_address": "0xab6c502ad328e4f758fec57b925d9d32b0418424",
+        "date_add": "2024-05-17 18:04:43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 146
+        }
+    },
+    {
+        "contract_address": "0x66c0dded8433c9ea86c8cf91237b14e10b4d70b7",
+        "date_add": "2024-05-17 18:04:43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2236
+        }
+    },
+    {
+        "contract_address": "0x19a4e9a5eea6163d472ed76af8e4f903b4de29bf",
+        "date_add": "2024-05-17 18:04:43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 47
+        }
+    },
+    {
+        "contract_address": "0x0878bd693043100dc78fcfe26f81e2966b248ef7",
+        "date_add": "2024-05-17 18:04:43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0x8044b7378c6809ba816ded6d1048bffbd9a41318",
+        "date_add": "2024-05-17 18:04:43",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "futatheredpanda.com"
+        ],
+        "telegram_groups": [
+            "Futaportal"
+        ],
+        "holders": {
+            "ETH": 257
+        }
+    },
+    {
+        "contract_address": "0x3ae3ad74d07fc223d8b9e3b68b0447ff194ddfe8",
+        "date_add": "2024-05-17 18:04:43",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.babyflokitoken.vip"
+        ],
+        "telegram_groups": [
+            "BabyFloki_Portal"
+        ],
+        "holders": {
+            "ETH": 49
+        }
+    },
+    {
+        "contract_address": "0xa00f588876fb28c845d3a1fe1b18f6fe99643fdf",
+        "date_add": "2024-05-17 18:04:43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
     }
 ]
