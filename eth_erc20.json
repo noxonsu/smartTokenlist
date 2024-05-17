@@ -153389,5 +153389,79 @@
         "holders": {
             "ETH": 0
         }
+    },
+    {
+        "contract_address": "0xaa89568540a083776292ae5d1f838cf28c798f5e",
+        "date_add": "2024-05-17 04:04:59",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 31
+        }
+    },
+    {
+        "contract_address": "0x74c00c26e0ace673313aebf749a1a9644eeefdea",
+        "date_add": "2024-05-17 04:04:59",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "spurdosparde.com"
+        ],
+        "telegram_groups": [
+            "SpurdoSpardeCoin"
+        ],
+        "holders": {
+            "ETH": 203
+        }
+    },
+    {
+        "contract_address": "0x9d5963ba32e877871dff3e2e697283dc64066271",
+        "date_add": "2024-05-17 04:04:59",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2047
+        }
+    },
+    {
+        "contract_address": "0xe71bdfe1df69284f00ee185cf0d95d0c7680c0d4",
+        "date_add": "2024-05-17 04:04:59",
+        "sourceScanned": "processed",
+        "emails": [
+            "goncalo.sa@consensys.net"
+        ],
+        "holders": {
+            "ETH": 34
+        }
+    },
+    {
+        "contract_address": "0x2da82d234d7796212ee991513c57fce3dc56a68a",
+        "date_add": "2024-05-17 04:04:59",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "shiba2k23portal"
+        ],
+        "holders": {
+            "ETH": 10
+        }
+    },
+    {
+        "contract_address": "0xa52fea2dc497e2a18edc170c1c857a30f9a5c842",
+        "date_add": "2024-05-17 04:04:59",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x03132a899f8d9d62b13f049a9468dd306fdebae0",
+        "date_add": "2024-05-17 04:04:59",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "gopher.dog"
+        ],
+        "telegram_groups": [
+            "Gophercoin"
+        ],
+        "holders": {
+            "ETH": 204
+        }
     }
 ]
