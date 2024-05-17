@@ -153940,7 +153940,8 @@
         ],
         "holders": {
             "ETH": 161
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x01e5147cf8c11020bd917219098d015bccc40145",
@@ -153954,7 +153955,8 @@
         ],
         "holders": {
             "ETH": 145
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4228f8895c7dda20227f6a5c6751b8ebf19a6ba8",
@@ -153989,7 +153991,9 @@
         },
         "web_domains": [
             "shakeandco.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0878bd693043100dc78fcfe26f81e2966b248ef7",
@@ -154011,7 +154015,8 @@
         ],
         "holders": {
             "ETH": 257
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3ae3ad74d07fc223d8b9e3b68b0447ff194ddfe8",
@@ -154025,7 +154030,8 @@
         ],
         "holders": {
             "ETH": 49
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa00f588876fb28c845d3a1fe1b18f6fe99643fdf",
