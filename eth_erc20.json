@@ -153475,5 +153475,89 @@
             "ETH": 204
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x4473a42dfd86e65b960947ecdc5f85d2179f1e0f",
+        "date_add": "2024-05-17 06:05:25",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0x87aa7223cd78e64aa5ee28beaf821b56f9906f9a",
+        "date_add": "2024-05-17 06:05:25",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "spurdosparde.com"
+        ],
+        "telegram_groups": [
+            "SpurdoSpardeCoin"
+        ],
+        "holders": {
+            "ETH": 283
+        }
+    },
+    {
+        "contract_address": "0x88417754ff7062c10f4e3a4ab7e9f9d9cbda6023",
+        "date_add": "2024-05-17 06:05:25",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 566
+        }
+    },
+    {
+        "contract_address": "0x227f86fbfccb5664403b62a5b6d4e0e593968275",
+        "date_add": "2024-05-17 06:05:25",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 154
+        }
+    },
+    {
+        "contract_address": "0x26674595d6f2f58b708200be28788cc68b4e74cc",
+        "date_add": "2024-05-17 06:05:25",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 21
+        }
+    },
+    {
+        "contract_address": "0x72df57b88b59a1ec9540bf7f8dbc53ac195c30b6",
+        "date_add": "2024-05-17 06:05:25",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x8c444197d64e079323a1eb8d40655910b052f85a",
+        "date_add": "2024-05-17 06:05:25",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "eq9.app"
+        ],
+        "telegram_groups": [
+            "EQ9Portal"
+        ],
+        "holders": {
+            "ETH": 142
+        }
+    },
+    {
+        "contract_address": "0x57b386e5b78bd7b1ddb60d45a4a5e20830d693d9",
+        "date_add": "2024-05-17 06:05:25",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 69
+        }
+    },
+    {
+        "contract_address": "0x72ad683f8608ddae0e1c80db6bba0913dc813bb3",
+        "date_add": "2024-05-17 06:05:25",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 30
+        }
     }
 ]
