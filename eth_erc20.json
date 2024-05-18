@@ -152055,9 +152055,9 @@
             "monkas.top"
         ],
         "telegram_groups": [
+            "MonkasErc20",
             "strongbadcoin",
             "SpaceKaren_ERC",
-            "MonkasErc20",
             "pog_portal"
         ],
         "holders": {
@@ -155186,11 +155186,13 @@
             "wejustdid.xyz"
         ],
         "telegram_groups": [
-            "WeJustDidERC"
+            "WeJustDidERC",
+            "WEJUSTDIDERC"
         ],
         "holders": {
             "ETH": 218
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5a3a6881a8f93bdec7aa34c4e2cdd70c1c3a7dc5",
@@ -155228,10 +155230,15 @@
             "www.poggerstoken.vip"
         ],
         "telegram_groups": [
-            "PoggersToken"
+            "MonkasErc20",
+            "strongbadcoin",
+            "PoggersToken",
+            "SpaceKaren_ERC",
+            "pog_portal"
         ],
         "holders": {
             "ETH": 357
-        }
+        },
+        "p6": true
     }
 ]
