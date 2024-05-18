@@ -154438,5 +154438,68 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xc8737fc50cd584b8e2a3731710dd3ce328eee57c",
+        "date_add": "2024-05-18 08:04:37",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 31
+        }
+    },
+    {
+        "contract_address": "0x58b7aac44d4c448cdfd712892989acaee126d2bc",
+        "date_add": "2024-05-18 08:04:37",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0x5f3f38818f37aa890b9a245a9458d8ebf9aa93de",
+        "date_add": "2024-05-18 08:04:37",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0x916b2aff900d06c526b4935f999462b65f1a24fe",
+        "date_add": "2024-05-18 08:04:37",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.cnbc.com",
+            "djterc20.com"
+        ],
+        "telegram_groups": [
+            "DjtERC20"
+        ],
+        "holders": {
+            "ETH": 214
+        }
+    },
+    {
+        "contract_address": "0x6faee7f3351eb94f175bf6c88570fa71adae19cb",
+        "date_add": "2024-05-18 08:04:37",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xfa704148d516b209d52c2d75f239274c8f8eaf1a",
+        "date_add": "2024-05-18 08:04:37",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 39
+        }
+    },
+    {
+        "contract_address": "0x1b1ddded8606e99a0e3427f750be4a9772bb736a",
+        "date_add": "2024-05-18 08:04:37",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
     }
 ]
