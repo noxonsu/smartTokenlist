@@ -154942,12 +154942,13 @@
             "sonar-systems.gitbook.io"
         ],
         "telegram_groups": [
-            "SONARPORTAL",
-            "sonarsignals"
+            "sonarsignals",
+            "SONARPORTAL"
         ],
         "holders": {
             "ETH": 115
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2e6765a77997235509d4602ec4b6cb6304e71cd7",
@@ -154957,11 +154958,13 @@
             "Ultramagaerc.com"
         ],
         "telegram_groups": [
+            "ULTRAMAGAERC",
             "UltraMAGAERC"
         ],
         "holders": {
             "ETH": 199
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd1f72d64b819993f1c4cfaee543bd28f15742d4a",
@@ -154976,7 +154979,8 @@
         ],
         "holders": {
             "ETH": 100
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x13439d2ec5aee05f52712ad9fb9fcadd300bb608",
@@ -154987,12 +154991,13 @@
             "protonai.gitbook.io"
         ],
         "telegram_groups": [
-            "ProtonAIErc",
-            "ProtonAItrade_bot"
+            "ProtonAItrade_bot",
+            "ProtonAIErc"
         ],
         "holders": {
             "ETH": 239
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe2a083397521968eb05585932750634bed4b7d56",
@@ -155047,7 +155052,9 @@
         ],
         "holders": {
             "ETH": 53
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa92b4e32c0f178dd57ea536b36f73875ab7fbb5d",
@@ -155061,7 +155068,8 @@
         ],
         "holders": {
             "ETH": 398
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe07685e98a1f918dc65e12dc4963f1a667dbd2f7",
