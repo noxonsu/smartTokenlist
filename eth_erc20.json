@@ -154806,7 +154806,9 @@
         },
         "web_domains": [
             "pewpew.pt"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x258b70749c50bb2ac45d7ac50b243be3714684df",
@@ -154817,7 +154819,9 @@
         },
         "web_domains": [
             "rhinorhino.com.au"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf10da48d4aaa8d784c5e369cb998e263cfe32aa8",
@@ -154831,7 +154835,8 @@
         },
         "web_domains": [
             "bmoney.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x13fd5a071c163cd89d6116728cfec877de26163f",
@@ -154845,7 +154850,11 @@
         ],
         "holders": {
             "ETH": 93
-        }
+        },
+        "emails": [
+            "Pepette@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9cc421962fc72f11c5c2ddf79fe6b5fe5e7cd94e",
@@ -154883,7 +154892,11 @@
         ],
         "holders": {
             "ETH": 27
-        }
+        },
+        "emails": [
+            "GondolaToken@outlook.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe6ac70304bfc466862b2d957f29438c76bcb191d",
@@ -154905,7 +154918,11 @@
         ],
         "holders": {
             "ETH": 83
-        }
+        },
+        "emails": [
+            "dev@TRUMPEPE.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xae6b6c9a18e5e4cb74fd7bd559059904f1c85d16",
