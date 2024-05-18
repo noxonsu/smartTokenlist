@@ -155097,5 +155097,79 @@
         "holders": {
             "ETH": 1104
         }
+    },
+    {
+        "contract_address": "0xbcc900232730a6bff08edeb0b9baccdd28a335ff",
+        "date_add": "2024-05-18 20:05:06",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x33d39ea02d1a569ecc77fbfcbbdcd4300fa0b010",
+        "date_add": "2024-05-18 20:05:06",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0x52dfa16196450d7bdb3e7879736749e682a62fb3",
+        "date_add": "2024-05-18 20:05:06",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.willowcoin.vip"
+        ],
+        "telegram_groups": [
+            "WillowCatCoin"
+        ],
+        "holders": {
+            "ETH": 118
+        }
+    },
+    {
+        "contract_address": "0xba9a5571b7fbd344acf518bea489f201a9fab519",
+        "date_add": "2024-05-18 20:05:06",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xb024968c02a29d6ccf955015041a738475e4ba6c",
+        "date_add": "2024-05-18 20:05:06",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0x569dc8b1f1cc9ac61b5cc649b78cb270ac25ffba",
+        "date_add": "2024-05-18 20:05:06",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x12ff390222ff2a17be73b83cb1a1282206a69f2f",
+        "date_add": "2024-05-18 20:05:06",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x55e3bd67f091d79db4a1050f0b8e69cb4745c9e4",
+        "date_add": "2024-05-18 20:05:06",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "vitalik.eth.limo",
+            "charify.gitbook.io"
+        ],
+        "holders": {
+            "ETH": 43
+        }
     }
 ]
