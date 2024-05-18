@@ -154448,7 +154448,12 @@
         },
         "web_domains": [
             "fireblocks.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "info@fireblocks.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x58b7aac44d4c448cdfd712892989acaee126d2bc",
@@ -154459,7 +154464,11 @@
         },
         "web_domains": [
             "alaaddin.ai"
-        ]
+        ],
+        "telegram_groups": [
+            "AlaaddinAi"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5f3f38818f37aa890b9a245a9458d8ebf9aa93de",
@@ -154478,11 +154487,13 @@
             "djterc20.com"
         ],
         "telegram_groups": [
+            "czjaileth",
             "DjtERC20"
         ],
         "holders": {
             "ETH": 214
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6faee7f3351eb94f175bf6c88570fa71adae19cb",
@@ -154493,7 +154504,12 @@
         },
         "web_domains": [
             "giba.us"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "admin@giba.us"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xfa704148d516b209d52c2d75f239274c8f8eaf1a",
@@ -154504,7 +154520,9 @@
         },
         "web_domains": [
             "octaspace.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x1b1ddded8606e99a0e3427f750be4a9772bb736a",
@@ -154515,6 +154533,10 @@
         },
         "web_domains": [
             "osaka.win"
-        ]
+        ],
+        "telegram_groups": [
+            "Osakaprotocol"
+        ],
+        "p6": true
     }
 ]
