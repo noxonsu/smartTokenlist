@@ -154559,7 +154559,11 @@
         ],
         "holders": {
             "ETH": 59
-        }
+        },
+        "emails": [
+            "team@ethchad.wtf"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4bca554cab779166441f133f047625bd7db66ec9",
@@ -154573,7 +154577,8 @@
         ],
         "holders": {
             "ETH": 77
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x79d9dcba5ef3a54357e4d10dbb07359770d5dd83",
@@ -154587,7 +154592,8 @@
         ],
         "holders": {
             "ETH": 83
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xbfae33128ecf041856378b57adf0449181fffde7",
