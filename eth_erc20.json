@@ -154210,5 +154210,92 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xed025a9fe4b30bcd68460bca42583090c2266468",
+        "date_add": "2024-05-18 02:14:19",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4974
+        }
+    },
+    {
+        "contract_address": "0x9909e6b9b8c05636617763e5bb78c75e0ec45a85",
+        "date_add": "2024-05-18 02:14:19",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "kermitfrog.meme"
+        ],
+        "telegram_groups": [
+            "KERMIT_ON_ETH"
+        ],
+        "holders": {
+            "ETH": 212
+        }
+    },
+    {
+        "contract_address": "0xb86d93c8b89a3e2de6c2680f3e93b156b1ed7e04",
+        "date_add": "2024-05-18 02:14:19",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x4131dbc82f642d9b1d3bed5d3996c30f453bf2a2",
+        "date_add": "2024-05-18 02:14:19",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x93bcef3816fcc54086701730e58a5524093d3e83",
+        "date_add": "2024-05-18 02:14:19",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0x78f117b75f255ce56937b9a431720fac1cf79db0",
+        "date_add": "2024-05-18 02:14:19",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0x4eb5fe4b2647d88be46be952ddcaff652c86774d",
+        "date_add": "2024-05-18 02:14:19",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "flotushat.com"
+        ],
+        "telegram_groups": [
+            "FlotusErc"
+        ],
+        "holders": {
+            "ETH": 112
+        }
+    },
+    {
+        "contract_address": "0x610081cb5a171476ed1e9254f3e8fc38eae68d9d",
+        "date_add": "2024-05-18 02:14:19",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "donnatrumpmaga"
+        ],
+        "holders": {
+            "ETH": 54
+        }
+    },
+    {
+        "contract_address": "0xdd6da4e072bb578d60a2412b27608a337eb270f3",
+        "date_add": "2024-05-18 02:14:19",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 110
+        }
     }
 ]
