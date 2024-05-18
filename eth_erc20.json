@@ -154307,5 +154307,88 @@
         "holders": {
             "ETH": 110
         }
+    },
+    {
+        "contract_address": "0x3b1279ce96573d55379aede3c5e032b8978ace27",
+        "date_add": "2024-05-18 04:04:33",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0x9248679610d7a502a069948278160c88239f123b",
+        "date_add": "2024-05-18 04:04:33",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 22
+        }
+    },
+    {
+        "contract_address": "0x64e59f80366b52cb5ef42b61c424ef5d2d370893",
+        "date_add": "2024-05-18 04:04:33",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "trumpsneakerserc20.com"
+        ],
+        "telegram_groups": [
+            "trumpshoes"
+        ],
+        "holders": {
+            "ETH": 228
+        }
+    },
+    {
+        "contract_address": "0xf8661bfea1af1c5acf7d3d21b66745bad89453f1",
+        "date_add": "2024-05-18 04:04:33",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xb947ab3ca82511c16fc02b9ee11fffcfe99856ea",
+        "date_add": "2024-05-18 04:04:33",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ekubo.org",
+            "discord.com"
+        ],
+        "telegram_groups": [
+            "Ekubo_Protocol"
+        ],
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x0a4d60957db03306cc72a11f233cb428e07a935c",
+        "date_add": "2024-05-18 04:04:33",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.hemulethecat.xyz"
+        ],
+        "telegram_groups": [
+            "HemuleErc20"
+        ],
+        "holders": {
+            "ETH": 135
+        }
+    },
+    {
+        "contract_address": "0x94cf752f94ba10d6c93bb033c1e0c746e547899b",
+        "date_add": "2024-05-18 04:04:33",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 497
+        }
+    },
+    {
+        "contract_address": "0xdd51483e32ca91fd7d00feb61ce4bb316921e79f",
+        "date_add": "2024-05-18 04:04:33",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 34
+        }
     }
 ]
