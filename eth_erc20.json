@@ -154128,7 +154128,8 @@
         ],
         "holders": {
             "ETH": 64
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x30c977fc03daf5fb3121ed5292adc2e18c915229",
@@ -154180,7 +154181,8 @@
         ],
         "holders": {
             "ETH": 270
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xff8d20421cbf96a57dd829ce9fca667eb74e41c1",
@@ -154205,6 +154207,8 @@
         },
         "web_domains": [
             "herohero.co"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
