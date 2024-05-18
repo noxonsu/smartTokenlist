@@ -154409,5 +154409,29 @@
             " info@alchemya.com "
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0xa61eb78537a7d81c8250099e5803ff13d8dafdc0",
+        "date_add": "2024-05-18 06:04:35",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0x1d04b83eb1fb7707a58cb3d46dbaebafe9519d8d",
+        "date_add": "2024-05-18 06:04:35",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 44
+        }
+    },
+    {
+        "contract_address": "0x680dd4eab93201fc5d5de66d45ec0187290b6a7b",
+        "date_add": "2024-05-18 06:04:35",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 24
+        }
     }
 ]
