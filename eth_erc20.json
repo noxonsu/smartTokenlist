@@ -154325,7 +154325,9 @@
         },
         "web_domains": [
             "bonkai-x.tumblr.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x64e59f80366b52cb5ef42b61c424ef5d2d370893",
@@ -154339,7 +154341,8 @@
         ],
         "holders": {
             "ETH": 228
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf8661bfea1af1c5acf7d3d21b66745bad89453f1",
@@ -154362,7 +154365,8 @@
         ],
         "holders": {
             "ETH": 3
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0a4d60957db03306cc72a11f233cb428e07a935c",
@@ -154376,7 +154380,11 @@
         ],
         "holders": {
             "ETH": 135
-        }
+        },
+        "emails": [
+            "dev@hemulethecat.xyz"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x94cf752f94ba10d6c93bb033c1e0c746e547899b",
@@ -154395,6 +154403,11 @@
         },
         "web_domains": [
             "alchemya.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            " info@alchemya.com "
+        ],
+        "p6": true
     }
 ]
