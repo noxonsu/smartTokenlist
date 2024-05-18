@@ -155177,5 +155177,61 @@
             "casinu_inu"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x46e429cb1c323cbd717399b0a6ce6b0bc87c0a5b",
+        "date_add": "2024-05-18 22:04:12",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wejustdid.xyz"
+        ],
+        "telegram_groups": [
+            "WeJustDidERC"
+        ],
+        "holders": {
+            "ETH": 218
+        }
+    },
+    {
+        "contract_address": "0x5a3a6881a8f93bdec7aa34c4e2cdd70c1c3a7dc5",
+        "date_add": "2024-05-18 22:04:12",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tokenmint.io"
+        ],
+        "holders": {
+            "ETH": 887
+        }
+    },
+    {
+        "contract_address": "0xdcfe7cdb5b1bb7bfd4ed57b83efd49fe9cd19b2e",
+        "date_add": "2024-05-18 22:04:12",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 890
+        }
+    },
+    {
+        "contract_address": "0xd5ebd683aadf01c4923125c75e6ac26f2909ff55",
+        "date_add": "2024-05-18 22:04:12",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 308
+        }
+    },
+    {
+        "contract_address": "0x9f9a62ae99b56b8e93faf53ec9edf0df5e4b15f5",
+        "date_add": "2024-05-18 22:04:12",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "knowyourmeme.com",
+            "www.poggerstoken.vip"
+        ],
+        "telegram_groups": [
+            "PoggersToken"
+        ],
+        "holders": {
+            "ETH": 357
+        }
     }
 ]
