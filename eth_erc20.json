@@ -154445,7 +154445,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 31
-        }
+        },
+        "web_domains": [
+            "fireblocks.com"
+        ]
     },
     {
         "contract_address": "0x58b7aac44d4c448cdfd712892989acaee126d2bc",
@@ -154453,7 +154456,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 14
-        }
+        },
+        "web_domains": [
+            "alaaddin.ai"
+        ]
     },
     {
         "contract_address": "0x5f3f38818f37aa890b9a245a9458d8ebf9aa93de",
@@ -154484,7 +154490,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 2
-        }
+        },
+        "web_domains": [
+            "giba.us"
+        ]
     },
     {
         "contract_address": "0xfa704148d516b209d52c2d75f239274c8f8eaf1a",
@@ -154492,7 +154501,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 39
-        }
+        },
+        "web_domains": [
+            "octaspace.io"
+        ]
     },
     {
         "contract_address": "0x1b1ddded8606e99a0e3427f750be4a9772bb736a",
@@ -154500,6 +154512,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 3
-        }
+        },
+        "web_domains": [
+            "osaka.win"
+        ]
     }
 ]
