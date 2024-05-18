@@ -154538,5 +154538,66 @@
             "Osakaprotocol"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x0c6b8078d27c9729fad5db98c331291bf57ec879",
+        "date_add": "2024-05-18 10:04:38",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0x0e1ad2afa85719b52f240f6faaa85364961680cb",
+        "date_add": "2024-05-18 10:04:38",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "chadeth.wtf"
+        ],
+        "telegram_groups": [
+            "officialchadeth"
+        ],
+        "holders": {
+            "ETH": 59
+        }
+    },
+    {
+        "contract_address": "0x4bca554cab779166441f133f047625bd7db66ec9",
+        "date_add": "2024-05-18 10:04:38",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.makemorebabies.life"
+        ],
+        "telegram_groups": [
+            "makemorebabies"
+        ],
+        "holders": {
+            "ETH": 77
+        }
+    },
+    {
+        "contract_address": "0x79d9dcba5ef3a54357e4d10dbb07359770d5dd83",
+        "date_add": "2024-05-18 10:04:38",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "kagerc20.com"
+        ],
+        "telegram_groups": [
+            "KAG_HAT"
+        ],
+        "holders": {
+            "ETH": 83
+        }
+    },
+    {
+        "contract_address": "0xbfae33128ecf041856378b57adf0449181fffde7",
+        "date_add": "2024-05-18 10:04:38",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Wifonerc"
+        ],
+        "holders": {
+            "ETH": 373
+        }
     }
 ]
