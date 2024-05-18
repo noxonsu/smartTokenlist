@@ -154231,7 +154231,8 @@
         ],
         "holders": {
             "ETH": 212
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb86d93c8b89a3e2de6c2680f3e93b156b1ed7e04",
@@ -154258,7 +154259,12 @@
         },
         "web_domains": [
             "babykittenrescue.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "director@babykittenrescue.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x78f117b75f255ce56937b9a431720fac1cf79db0",
@@ -154280,7 +154286,8 @@
         ],
         "holders": {
             "ETH": 112
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x610081cb5a171476ed1e9254f3e8fc38eae68d9d",
