@@ -154623,7 +154623,9 @@
         },
         "web_domains": [
             "michigan.gov"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc5068471fe18eda3b362231d01ae30ba6a91ff0d",
