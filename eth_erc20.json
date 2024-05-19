@@ -155506,5 +155506,35 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x80f842fa62f1f9bbf0c538ea46807a12d589e918",
+        "date_add": "2024-05-19 04:05:38",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xb3c19273699902f7d70bb51088b9f1c38b7f8aa0",
+        "date_add": "2024-05-19 04:05:38",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 64
+        }
+    },
+    {
+        "contract_address": "0xe5f375a75369bb727b6a879c409879fd9d60b64a",
+        "date_add": "2024-05-19 04:05:38",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fepecoin.vip"
+        ],
+        "telegram_groups": [
+            "fepecoineth"
+        ],
+        "holders": {
+            "ETH": 113
+        }
     }
 ]
