@@ -156047,5 +156047,102 @@
             "ETH": 309
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xa970a00856d6994421097cd1433cd8de8ea955f7",
+        "date_add": "2024-05-19 20:04:57",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mashierc20.com"
+        ],
+        "telegram_groups": [
+            "mashimaga"
+        ],
+        "holders": {
+            "ETH": 84
+        }
+    },
+    {
+        "contract_address": "0x46e3a9795876ea0f9d2a983c17365830c10c9588",
+        "date_add": "2024-05-19 20:04:57",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "turtlepepe.cc"
+        ],
+        "telegram_groups": [
+            "TURPE_Portal"
+        ],
+        "holders": {
+            "ETH": 308
+        }
+    },
+    {
+        "contract_address": "0x7d55d78add57183d33a86596eff022b58a6a242a",
+        "date_add": "2024-05-19 20:04:57",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "michieth.xyz"
+        ],
+        "telegram_groups": [
+            "michitokeneth"
+        ],
+        "holders": {
+            "ETH": 614
+        }
+    },
+    {
+        "contract_address": "0x018731555c1608e0018b5c480ae98fad2c353c77",
+        "date_add": "2024-05-19 20:04:57",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bookofmaga.vip"
+        ],
+        "telegram_groups": [
+            "BookOfMagaErc"
+        ],
+        "holders": {
+            "ETH": 146
+        }
+    },
+    {
+        "contract_address": "0x1111034ac0638571595bd8cac58f5ef41be8e0f6",
+        "date_add": "2024-05-19 20:04:57",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 92
+        }
+    },
+    {
+        "contract_address": "0x744f77705749541926294f7b35a63f8691374640",
+        "date_add": "2024-05-19 20:04:57",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 23
+        }
+    },
+    {
+        "contract_address": "0x2549a5195d069dba83efa28cf1c05059c005d169",
+        "date_add": "2024-05-19 20:04:57",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sips.synthetix.io"
+        ],
+        "holders": {
+            "ETH": 84
+        }
+    },
+    {
+        "contract_address": "0x6ddf339aee45a7b2397ff92fe9a8272e02566df9",
+        "date_add": "2024-05-19 20:04:57",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.chainsendai.com"
+        ],
+        "telegram_groups": [
+            "chainsend"
+        ],
+        "holders": {
+            "ETH": 92
+        }
     }
 ]
