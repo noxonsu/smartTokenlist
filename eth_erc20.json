@@ -155668,7 +155668,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 32
-        }
+        },
+        "web_domains": [
+            "hundredsofbeavers.com"
+        ]
     },
     {
         "contract_address": "0x3a019039e17fd86a872b7979d95529481268a270",
@@ -155690,7 +155693,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 14
-        }
+        },
+        "web_domains": [
+            "pizaswap.com"
+        ]
     },
     {
         "contract_address": "0xece052a8056fb5a9c8568b1f9e6cac557b7fa7c1",
