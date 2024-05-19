@@ -155491,7 +155491,8 @@
         ],
         "holders": {
             "ETH": 242
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x03c7f506cfb39494cbb4b7a207c1c04a08a2b927",
@@ -155502,6 +155503,8 @@
         },
         "web_domains": [
             "arrky.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
