@@ -156161,11 +156161,16 @@
             "monkas.info"
         ],
         "telegram_groups": [
+            "MonkaSerc",
             "monkaSerc"
         ],
         "holders": {
             "ETH": 342
-        }
+        },
+        "emails": [
+            "hi@monkas.info"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x25752db4c322fb373723cb4790b8646c905b2059",
@@ -156176,6 +156181,8 @@
         },
         "web_domains": [
             "sepolia.scrollscan.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
