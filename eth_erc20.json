@@ -155732,7 +155732,9 @@
         },
         "web_domains": [
             "hypertensor.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xeb89aad34ccd9bd9224fe49acaa25591c6fa749a",
@@ -155746,7 +155748,8 @@
         ],
         "holders": {
             "ETH": 347
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8e859385933292d12f15b267df978035aa52f5ce",
@@ -155773,7 +155776,11 @@
         },
         "web_domains": [
             "bismuth.finance"
-        ]
+        ],
+        "telegram_groups": [
+            "bismuthplatform"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xeb1a7bdb7a331bb2daa363f977541e30f4740b2d",
