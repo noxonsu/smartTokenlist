@@ -155328,5 +155328,146 @@
             "ETH": 230
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x1c023ebceba7cab16a6cdaf9d8f3d64ec180b639",
+        "date_add": "2024-05-19 02:16:13",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "helpereth"
+        ],
+        "holders": {
+            "ETH": 114
+        }
+    },
+    {
+        "contract_address": "0xf96b7453931e0cfb32d39b42fd2b848f0f972010",
+        "date_add": "2024-05-19 02:16:13",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x77ffef9c26223cebb46105b1433a77114a9a10b6",
+        "date_add": "2024-05-19 02:16:13",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 27
+        }
+    },
+    {
+        "contract_address": "0x71c7fe6ed639dfd26f04ec5f3ca3de6b81846e99",
+        "date_add": "2024-05-19 02:16:13",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "kaghaterc20.com"
+        ],
+        "telegram_groups": [
+            "KAG_Erc"
+        ],
+        "holders": {
+            "ETH": 298
+        }
+    },
+    {
+        "contract_address": "0x28cb7e841ee97947a86b06fa4090c8451f64c0be",
+        "date_add": "2024-05-19 02:16:13",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4811
+        }
+    },
+    {
+        "contract_address": "0x389ced4b83210cf46d34e8ab49fddc292d492956",
+        "date_add": "2024-05-19 02:16:13",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.magaelephant.com",
+            "www.twitter.com"
+        ],
+        "telegram_groups": [
+            "magaelephant"
+        ],
+        "holders": {
+            "ETH": 245
+        }
+    },
+    {
+        "contract_address": "0x156cb6fe0963ddaa327f624b597599e76286f9e9",
+        "date_add": "2024-05-19 02:16:13",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "warpcast.com"
+        ],
+        "telegram_groups": [
+            "memeofdog"
+        ],
+        "holders": {
+            "ETH": 136
+        }
+    },
+    {
+        "contract_address": "0x35ca1e5a9b1c09fa542fa18d1ba4d61c8edff852",
+        "date_add": "2024-05-19 02:16:13",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.apache.org"
+        ],
+        "holders": {
+            "ETH": 92
+        }
+    },
+    {
+        "contract_address": "0x5999a3056eeade9440da872678dc90a49c2f2b5d",
+        "date_add": "2024-05-19 02:16:13",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "MMGA_ERC20"
+        ],
+        "holders": {
+            "ETH": 148
+        }
+    },
+    {
+        "contract_address": "0x2021670a23fc468532908b1dbacc0900718bf25c",
+        "date_add": "2024-05-19 02:16:13",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 86
+        }
+    },
+    {
+        "contract_address": "0x7cc24ce7d10f2ae41600a87b8e9e015f4762fd33",
+        "date_add": "2024-05-19 02:16:13",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "coomerdoteth"
+        ],
+        "holders": {
+            "ETH": 341
+        }
+    },
+    {
+        "contract_address": "0x4ed80c88c614cf89eca64547e7afe3c12d83e626",
+        "date_add": "2024-05-19 02:16:13",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "xxxcoin.club"
+        ],
+        "telegram_groups": [
+            "xXxCoinclup"
+        ],
+        "holders": {
+            "ETH": 242
+        }
+    },
+    {
+        "contract_address": "0x03c7f506cfb39494cbb4b7a207c1c04a08a2b927",
+        "date_add": "2024-05-19 02:16:13",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 67
+        }
     }
 ]
