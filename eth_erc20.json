@@ -155555,7 +155555,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 60
-        }
+        },
+        "web_domains": [
+            "gem.com"
+        ]
     },
     {
         "contract_address": "0xfaed839b7342535fb86def6a80ad30c826ea2a98",
@@ -155563,7 +155566,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 27
-        }
+        },
+        "web_domains": [
+            "poggerslifestyle.com"
+        ]
     },
     {
         "contract_address": "0x6e3c0c047ef3c4d1f04bead6879b00577262d912",
