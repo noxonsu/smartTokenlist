@@ -155253,7 +155253,11 @@
         ],
         "holders": {
             "ETH": 167
-        }
+        },
+        "emails": [
+            "team@elonsfavoriteicecream.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x313d2195384b9f30c78ef691d8bf63c758cda25a",
@@ -155264,7 +155268,9 @@
         },
         "web_domains": [
             "proofofpepe.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7e593a4963340adeeb8ea5eea3ed373cdb4f4e25",
@@ -155278,7 +155284,11 @@
         ],
         "holders": {
             "ETH": 90
-        }
+        },
+        "emails": [
+            "TEAM@LMAGA.COM"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6cbc6fcb62386e1751f62d909bb390de5269f04e",
@@ -155300,7 +155310,8 @@
         ],
         "holders": {
             "ETH": 111
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2390e14aaebe7272735209ce954fc9d7053f4ba0",
@@ -155315,6 +155326,7 @@
         ],
         "holders": {
             "ETH": 230
-        }
+        },
+        "p6": true
     }
 ]
