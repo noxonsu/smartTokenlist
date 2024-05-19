@@ -155652,7 +155652,9 @@
         ],
         "holders": {
             "ETH": 5
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9468e2c401e13522e684e60005e388f7c395de92",
@@ -155671,7 +155673,9 @@
         },
         "web_domains": [
             "hundredsofbeavers.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3a019039e17fd86a872b7979d95529481268a270",
@@ -155685,7 +155689,11 @@
         ],
         "holders": {
             "ETH": 78
-        }
+        },
+        "emails": [
+            "team@Neversurrender.dog"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb2d7d911a6ba61cd80b90d87f1a2d88178833667",
@@ -155696,7 +155704,9 @@
         },
         "web_domains": [
             "pizaswap.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xece052a8056fb5a9c8568b1f9e6cac557b7fa7c1",
@@ -155710,6 +155720,7 @@
         ],
         "holders": {
             "ETH": 224
-        }
+        },
+        "p6": true
     }
 ]
