@@ -156060,7 +156060,8 @@
         ],
         "holders": {
             "ETH": 84
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x46e3a9795876ea0f9d2a983c17365830c10c9588",
@@ -156074,7 +156075,8 @@
         ],
         "holders": {
             "ETH": 308
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7d55d78add57183d33a86596eff022b58a6a242a",
@@ -156098,11 +156100,13 @@
             "bookofmaga.vip"
         ],
         "telegram_groups": [
-            "BookOfMagaErc"
+            "BookOfMagaErc",
+            "bookofmagaerc"
         ],
         "holders": {
             "ETH": 146
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1111034ac0638571595bd8cac58f5ef41be8e0f6",
@@ -156129,7 +156133,9 @@
         ],
         "holders": {
             "ETH": 84
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6ddf339aee45a7b2397ff92fe9a8272e02566df9",
@@ -156139,10 +156145,12 @@
             "www.chainsendai.com"
         ],
         "telegram_groups": [
-            "chainsend"
+            "chainsend",
+            "Chainsenderbot"
         ],
         "holders": {
             "ETH": 92
-        }
+        },
+        "p6": true
     }
 ]
