@@ -155642,5 +155642,68 @@
             "ETH": 144
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xd96ed3214a79c9118ecf8df7628f00281f6121f9",
+        "date_add": "2024-05-19 08:04:30",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.createmytoken.com"
+        ],
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x9468e2c401e13522e684e60005e388f7c395de92",
+        "date_add": "2024-05-19 08:04:30",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0xeea4cda2950d1c28948a804dffedf787cf7f3c18",
+        "date_add": "2024-05-19 08:04:30",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0x3a019039e17fd86a872b7979d95529481268a270",
+        "date_add": "2024-05-19 08:04:30",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "neversurrender.dog"
+        ],
+        "telegram_groups": [
+            "TrumpShirt"
+        ],
+        "holders": {
+            "ETH": 78
+        }
+    },
+    {
+        "contract_address": "0xb2d7d911a6ba61cd80b90d87f1a2d88178833667",
+        "date_add": "2024-05-19 08:04:30",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0xece052a8056fb5a9c8568b1f9e6cac557b7fa7c1",
+        "date_add": "2024-05-19 08:04:30",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "greatamericanpatriots.xyz"
+        ],
+        "telegram_groups": [
+            "GAPmemecoin"
+        ],
+        "holders": {
+            "ETH": 224
+        }
     }
 ]
