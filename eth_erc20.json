@@ -155828,7 +155828,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 50
-        }
+        },
+        "web_domains": [
+            "lena-lena.com"
+        ]
     },
     {
         "contract_address": "0x7d26ad6f6ba9d6ba1de0218ae5e20cd3a273a55a",
@@ -155844,7 +155847,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 48
-        }
+        },
+        "web_domains": [
+            "ethglobal.com"
+        ]
     },
     {
         "contract_address": "0x9674126ff31e5ece36de0cf03a49351a7c814587",
