@@ -155558,7 +155558,9 @@
         },
         "web_domains": [
             "gem.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xfaed839b7342535fb86def6a80ad30c826ea2a98",
@@ -155569,7 +155571,12 @@
         },
         "web_domains": [
             "poggerslifestyle.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "We've got you covered! Contact us at info@DrinkPoggers.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6e3c0c047ef3c4d1f04bead6879b00577262d912",
@@ -155605,11 +155612,13 @@
             "wa.me"
         ],
         "telegram_groups": [
-            "RoboFundz_portal"
+            "RoboFundz_portal",
+            "Robofundzz"
         ],
         "holders": {
             "ETH": 39
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1751e1e4d2c9fa99479c0c5574136f0dbd8f3eb8",
@@ -155631,6 +155640,7 @@
         ],
         "holders": {
             "ETH": 144
-        }
+        },
+        "p6": true
     }
 ]
