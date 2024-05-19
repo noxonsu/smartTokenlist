@@ -155240,5 +155240,78 @@
             "ETH": 357
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x9930d68b66e333facce9f83f8c3ae52daed20a53",
+        "date_add": "2024-05-19 00:17:36",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "elonsfavoriteicecream.com"
+        ],
+        "telegram_groups": [
+            "ElonsFavoriteIceCream"
+        ],
+        "holders": {
+            "ETH": 167
+        }
+    },
+    {
+        "contract_address": "0x313d2195384b9f30c78ef691d8bf63c758cda25a",
+        "date_add": "2024-05-19 00:17:36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 114
+        }
+    },
+    {
+        "contract_address": "0x7e593a4963340adeeb8ea5eea3ed373cdb4f4e25",
+        "date_add": "2024-05-19 00:17:36",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.lmaga.xyz"
+        ],
+        "telegram_groups": [
+            "LMAGAerc"
+        ],
+        "holders": {
+            "ETH": 90
+        }
+    },
+    {
+        "contract_address": "0x6cbc6fcb62386e1751f62d909bb390de5269f04e",
+        "date_add": "2024-05-19 00:17:36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0xe9a430d0dd451936ec8020186c40ecf700d52746",
+        "date_add": "2024-05-19 00:17:36",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "krazynd.xyz"
+        ],
+        "telegram_groups": [
+            "KrazyNDPortal"
+        ],
+        "holders": {
+            "ETH": 111
+        }
+    },
+    {
+        "contract_address": "0x2390e14aaebe7272735209ce954fc9d7053f4ba0",
+        "date_add": "2024-05-19 00:17:36",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "growthehive.org",
+            "cannon.app"
+        ],
+        "telegram_groups": [
+            "Hive_Mind_Official"
+        ],
+        "holders": {
+            "ETH": 230
+        }
     }
 ]
