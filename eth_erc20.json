@@ -155821,5 +155821,59 @@
         "holders": {
             "ETH": 30
         }
+    },
+    {
+        "contract_address": "0xfe38fd8d710b0ad367f60cb9fc4de5e7ba95633b",
+        "date_add": "2024-05-19 14:04:05",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 50
+        }
+    },
+    {
+        "contract_address": "0x7d26ad6f6ba9d6ba1de0218ae5e20cd3a273a55a",
+        "date_add": "2024-05-19 14:04:05",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 63
+        }
+    },
+    {
+        "contract_address": "0xa9d0146388bdc91a252f39f309690633a242c0cf",
+        "date_add": "2024-05-19 14:04:05",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 48
+        }
+    },
+    {
+        "contract_address": "0x9674126ff31e5ece36de0cf03a49351a7c814587",
+        "date_add": "2024-05-19 14:04:05",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1745
+        }
+    },
+    {
+        "contract_address": "0x84c2b16fa6877a8ff4f3271db7ea837233dfd6f0",
+        "date_add": "2024-05-19 14:04:05",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 577
+        }
+    },
+    {
+        "contract_address": "0x9aafa25df33dfc3094b9f54086fb5dd6414df323",
+        "date_add": "2024-05-19 14:04:05",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.wifstreetpepe.fun"
+        ],
+        "telegram_groups": [
+            "WIFSTREETPEPE"
+        ],
+        "holders": {
+            "ETH": 140
+        }
     }
 ]
