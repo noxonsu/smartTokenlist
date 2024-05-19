@@ -155993,5 +155993,56 @@
         "holders": {
             "ETH": 1
         }
+    },
+    {
+        "contract_address": "0x878dce8227cba961c3b2b6bccd4499f81c2478cd",
+        "date_add": "2024-05-19 18:04:33",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "michieth.xyz"
+        ],
+        "telegram_groups": [
+            "michitokeneth"
+        ],
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x070476cef1655bd7f602210c84c11fcf01b3376b",
+        "date_add": "2024-05-19 18:04:33",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "en.m.wikipedia.org",
+            "cockedhatcoin.com"
+        ],
+        "telegram_groups": [
+            "CockedPortal"
+        ],
+        "holders": {
+            "ETH": 185
+        }
+    },
+    {
+        "contract_address": "0x9977eea94d74cc31eb0e2870c356d599cd64e2f5",
+        "date_add": "2024-05-19 18:04:33",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x198a152d4118231091c549147a7baaad9e9de868",
+        "date_add": "2024-05-19 18:04:33",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "papameme.vip"
+        ],
+        "telegram_groups": [
+            "Papa_officialportal"
+        ],
+        "holders": {
+            "ETH": 309
+        }
     }
 ]
