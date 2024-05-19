@@ -52155,8 +52155,8 @@
             "www.hullo-erc.com"
         ],
         "telegram_groups": [
-            "LFGcoinerc20",
-            "Hullo_Erc"
+            "Hullo_Erc",
+            "LFGcoinerc20"
         ],
         "holders": {
             "ETH": 267
@@ -83647,9 +83647,9 @@
             "warpcast.com"
         ],
         "telegram_groups": [
-            "Farcastereth",
             "Hullo_Erc",
-            "LFGcoinerc20"
+            "LFGcoinerc20",
+            "Farcastereth"
         ],
         "holders": {
             "ETH": 195
@@ -87165,10 +87165,10 @@
             "warpcast.com"
         ],
         "telegram_groups": [
-            "Farcastereth",
+            "aicoinerc20",
             "Hullo_Erc",
             "LFGcoinerc20",
-            "aicoinerc20"
+            "Farcastereth"
         ],
         "holders": {
             "ETH": 250
@@ -94059,11 +94059,11 @@
             "ethismonkey.com"
         ],
         "telegram_groups": [
-            "ethismonkey_erc",
-            "Farcastereth",
-            "Hullo_Erc",
             "LFGcoinerc20",
-            "aicoinerc20"
+            "Hullo_Erc",
+            "ethismonkey_erc",
+            "aicoinerc20",
+            "Farcastereth"
         ],
         "holders": {
             "ETH": 184
@@ -102158,12 +102158,12 @@
             "warpcast.com"
         ],
         "telegram_groups": [
-            "Farcastereth",
-            "LFGcoinerc20",
-            "ethismonkey_erc",
             "thepurgevitalik",
             "Hullo_Erc",
-            "aicoinerc20"
+            "LFGcoinerc20",
+            "ethismonkey_erc",
+            "aicoinerc20",
+            "Farcastereth"
         ],
         "holders": {
             "ETH": 38
@@ -155096,7 +155096,9 @@
         ],
         "holders": {
             "ETH": 1104
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xbcc900232730a6bff08edeb0b9baccdd28a335ff",
@@ -155341,7 +155343,11 @@
         },
         "web_domains": [
             "helperhelper.com"
-        ]
+        ],
+        "emails": [
+            " info@helperhelper.com "
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf96b7453931e0cfb32d39b42fd2b848f0f972010",
@@ -155352,7 +155358,12 @@
         },
         "web_domains": [
             "sekuya.io"
-        ]
+        ],
+        "telegram_groups": [
+            "sekuyanews",
+            "sekuyaofficial"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x77ffef9c26223cebb46105b1433a77114a9a10b6",
@@ -155374,7 +155385,8 @@
         ],
         "holders": {
             "ETH": 298
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x28cb7e841ee97947a86b06fa4090c8451f64c0be",
@@ -155397,7 +155409,11 @@
         ],
         "holders": {
             "ETH": 245
-        }
+        },
+        "emails": [
+            "ELEPHANTMAGA@GMAIL.COM"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x156cb6fe0963ddaa327f624b597599e76286f9e9",
@@ -155407,11 +155423,18 @@
             "warpcast.com"
         ],
         "telegram_groups": [
-            "memeofdog"
+            "memeofdog",
+            "aicoinerc20",
+            "Farcastereth",
+            "thepurgevitalik",
+            "Hullo_Erc",
+            "LFGcoinerc20",
+            "ethismonkey_erc"
         ],
         "holders": {
             "ETH": 136
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x35ca1e5a9b1c09fa542fa18d1ba4d61c8edff852",
@@ -155422,7 +155445,9 @@
         ],
         "holders": {
             "ETH": 92
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x5999a3056eeade9440da872678dc90a49c2f2b5d",
