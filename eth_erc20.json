@@ -156152,5 +156152,27 @@
             "ETH": 92
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x8b9ead4303180db5fb1845ed30598b2d502b0af2",
+        "date_add": "2024-05-19 22:04:55",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "monkas.info"
+        ],
+        "telegram_groups": [
+            "monkaSerc"
+        ],
+        "holders": {
+            "ETH": 342
+        }
+    },
+    {
+        "contract_address": "0x25752db4c322fb373723cb4790b8646c905b2059",
+        "date_add": "2024-05-19 22:04:55",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
     }
 ]
