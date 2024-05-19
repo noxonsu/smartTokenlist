@@ -155729,7 +155729,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 170
-        }
+        },
+        "web_domains": [
+            "hypertensor.org"
+        ]
     },
     {
         "contract_address": "0xeb89aad34ccd9bd9224fe49acaa25591c6fa749a",
@@ -155767,7 +155770,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 116
-        }
+        },
+        "web_domains": [
+            "bismuth.finance"
+        ]
     },
     {
         "contract_address": "0xeb1a7bdb7a331bb2daa363f977541e30f4740b2d",
