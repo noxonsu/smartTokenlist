@@ -155722,5 +155722,59 @@
             "ETH": 224
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x16a3543fa6b32cac3b0a755f64a729e84f89a75c",
+        "date_add": "2024-05-19 10:04:16",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 170
+        }
+    },
+    {
+        "contract_address": "0xeb89aad34ccd9bd9224fe49acaa25591c6fa749a",
+        "date_add": "2024-05-19 10:04:16",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mashierc20.com"
+        ],
+        "telegram_groups": [
+            "mashimaga"
+        ],
+        "holders": {
+            "ETH": 347
+        }
+    },
+    {
+        "contract_address": "0x8e859385933292d12f15b267df978035aa52f5ce",
+        "date_add": "2024-05-19 10:04:16",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x722e7697e8bfbf3ad5d435678af68efee0b2b1e6",
+        "date_add": "2024-05-19 10:04:16",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xf5cb350b40726b5bcf170d12e162b6193b291b41",
+        "date_add": "2024-05-19 10:04:16",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 116
+        }
+    },
+    {
+        "contract_address": "0xeb1a7bdb7a331bb2daa363f977541e30f4740b2d",
+        "date_add": "2024-05-19 10:04:16",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 16
+        }
     }
 ]
