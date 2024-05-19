@@ -155789,5 +155789,36 @@
         "holders": {
             "ETH": 16
         }
+    },
+    {
+        "contract_address": "0x6942099f408858b7e1fbfae08feb52fea5450ea3",
+        "date_add": "2024-05-19 12:05:40",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.cnet.com",
+            "theboringcompany.life"
+        ],
+        "telegram_groups": [
+            "TBC_ERC20"
+        ],
+        "holders": {
+            "ETH": 311
+        }
+    },
+    {
+        "contract_address": "0xfe9d173b14a18109885fc6b321e224d57febf7bc",
+        "date_add": "2024-05-19 12:05:40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 41
+        }
+    },
+    {
+        "contract_address": "0x0c8de51d927a049e03ea38b702afbcfca573475e",
+        "date_add": "2024-05-19 12:05:40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 30
+        }
     }
 ]
