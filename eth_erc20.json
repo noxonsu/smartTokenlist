@@ -155338,7 +155338,10 @@
         ],
         "holders": {
             "ETH": 114
-        }
+        },
+        "web_domains": [
+            "helperhelper.com"
+        ]
     },
     {
         "contract_address": "0xf96b7453931e0cfb32d39b42fd2b848f0f972010",
@@ -155346,7 +155349,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 19
-        }
+        },
+        "web_domains": [
+            "sekuya.io"
+        ]
     },
     {
         "contract_address": "0x77ffef9c26223cebb46105b1433a77114a9a10b6",
@@ -155468,6 +155474,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 67
-        }
+        },
+        "web_domains": [
+            "arrky.com"
+        ]
     }
 ]
