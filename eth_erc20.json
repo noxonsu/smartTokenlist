@@ -156273,7 +156273,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 33
-        }
+        },
+        "web_domains": [
+            "mightyjaxx.com"
+        ]
     },
     {
         "contract_address": "0xb01cf1be9568f09449382a47cd5bf58e2a9d5922",
@@ -156281,7 +156284,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 29
-        }
+        },
+        "web_domains": [
+            "light-speed.com"
+        ]
     },
     {
         "contract_address": "0xb630d7388e3466af4952b6e5d8db63d828140e5d",
@@ -156305,7 +156311,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 27
-        }
+        },
+        "web_domains": [
+            "genbox.ai"
+        ]
     },
     {
         "contract_address": "0x9ab43f73054c07b02e02c5468b3eb058ccdaa019",
