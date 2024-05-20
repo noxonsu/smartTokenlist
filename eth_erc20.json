@@ -156568,5 +156568,35 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x08e303d55f7656838dc6ea2478bd22b5e6692043",
+        "date_add": "2024-05-20 06:05:20",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2318
+        }
+    },
+    {
+        "contract_address": "0x8e45a01a5402c2a0b7c4982869b0b43155db189b",
+        "date_add": "2024-05-20 06:05:20",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1083
+        }
+    },
+    {
+        "contract_address": "0x37cd4e8875e3edaffdfe9be63958f07effbd0bfd",
+        "date_add": "2024-05-20 06:05:20",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "void.cash"
+        ],
+        "telegram_groups": [
+            "voidcashportal"
+        ],
+        "holders": {
+            "ETH": 498
+        }
     }
 ]
