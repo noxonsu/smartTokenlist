@@ -157062,7 +157062,9 @@
         ],
         "holders": {
             "ETH": 23
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xcce7124521e349961f1e8d5fe7601b0f1c8baf85",
@@ -157073,7 +157075,11 @@
         },
         "web_domains": [
             "staderlabs.com"
-        ]
+        ],
+        "telegram_groups": [
+            "staderlabs"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3f04c6ce0c6b53a59dfea45b9fdfb3d626844042",
@@ -157084,7 +157090,9 @@
         },
         "web_domains": [
             "stake.lido.fi"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x707f3a43cf9574c37612921d68e25ce63c60c927",
@@ -157095,7 +157103,9 @@
         },
         "web_domains": [
             "dai.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8f33f87f8a71f9ed1f5bd456c142e18394bb3436",
