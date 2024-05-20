@@ -156729,7 +156729,9 @@
         },
         "web_domains": [
             "wolt.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x5a9333e11273d5d3758585663dcf63bb0db4fb40",
@@ -156739,11 +156741,13 @@
             "www.legotrump.xyz"
         ],
         "telegram_groups": [
-            "LegoTrumpPortal"
+            "LegoTrumpPortal",
+            "LegoTrump"
         ],
         "holders": {
             "ETH": 119
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5efb0185424650c02fc6588a2445393560e2ad08",
@@ -156765,7 +156769,8 @@
         ],
         "holders": {
             "ETH": 307
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5ddbee6ad14852d5f78b6eeb6b040391821ff45c",
@@ -156800,7 +156805,11 @@
         },
         "web_domains": [
             "zerozap.xyz"
-        ]
+        ],
+        "telegram_groups": [
+            "ZeroZap_Marketplace"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf7a9d536e5896250c9383325020f3f4454120f0e",
@@ -156814,7 +156823,8 @@
         ],
         "holders": {
             "ETH": 389
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf60ef5fb792d06fd6f28d49dd2e00ba0dd7ad201",
