@@ -156443,5 +156443,106 @@
             "ETH": 44
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x4d95a38a905cb3582712ef20d8691f73d325cbe3",
+        "date_add": "2024-05-20 04:04:50",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x6690d5c0851770a6d113fbeda3fddcb9a227ce4d",
+        "date_add": "2024-05-20 04:04:50",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.dunuldtromp.com",
+            "dunuld-tromp.gitbook.io"
+        ],
+        "telegram_groups": [
+            "DunuldTromp"
+        ],
+        "holders": {
+            "ETH": 116
+        }
+    },
+    {
+        "contract_address": "0x35de3eccaccb02e627062b5d63aa941b137288fe",
+        "date_add": "2024-05-20 04:04:50",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org"
+        ],
+        "emails": [
+            "emptysetsquad@protonmail.com",
+            "emptysetsquad@protonmail.com",
+            "vsdcrew@protonmail.com",
+            "emptysetsquad@protonmail.com",
+            "emptysetsquad@protonmail.com",
+            "emptysetsquad@protonmail.com",
+            "vsdcrew@protonmail.com"
+        ],
+        "holders": {
+            "ETH": 45
+        }
+    },
+    {
+        "contract_address": "0x780cb3adc27abfd6824406ce276220fa5a852863",
+        "date_add": "2024-05-20 04:04:50",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.natix.network"
+        ],
+        "holders": {
+            "ETH": 37
+        }
+    },
+    {
+        "contract_address": "0xdff29a2cc4fa9ee447fdc0895e46d451a3894d57",
+        "date_add": "2024-05-20 04:04:50",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "thebeasterc.com"
+        ],
+        "telegram_groups": [
+            "Thebeasterc"
+        ],
+        "holders": {
+            "ETH": 225
+        }
+    },
+    {
+        "contract_address": "0x9c1f7237480c030cb14375ff6b650606248a5247",
+        "date_add": "2024-05-20 04:04:50",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "gist.github.com"
+        ],
+        "holders": {
+            "ETH": 35
+        }
+    },
+    {
+        "contract_address": "0x2346cbcba632847b9786f153cacc4f307508a78b",
+        "date_add": "2024-05-20 04:04:50",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 27
+        }
+    },
+    {
+        "contract_address": "0xa134f4c20cf6b5ab5e357443057cf5f02db994c0",
+        "date_add": "2024-05-20 04:04:50",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 23
+        }
     }
 ]
