@@ -52011,8 +52011,8 @@
             "gootecks.live"
         ],
         "telegram_groups": [
-            "SpaceKaren_ERC",
-            "pog_portal"
+            "pog_portal",
+            "SpaceKaren_ERC"
         ],
         "holders": {
             "ETH": 522
@@ -147593,9 +147593,9 @@
             "strongbaderc20.vip"
         ],
         "telegram_groups": [
-            "SpaceKaren_ERC",
             "pog_portal",
-            "strongbadcoin"
+            "strongbadcoin",
+            "SpaceKaren_ERC"
         ],
         "holders": {
             "ETH": 178
@@ -152055,10 +152055,10 @@
             "monkas.top"
         ],
         "telegram_groups": [
-            "SpaceKaren_ERC",
-            "MonkasErc20",
+            "pog_portal",
             "strongbadcoin",
-            "pog_portal"
+            "MonkasErc20",
+            "SpaceKaren_ERC"
         ],
         "holders": {
             "ETH": 252
@@ -155232,11 +155232,11 @@
             "www.poggerstoken.vip"
         ],
         "telegram_groups": [
-            "SpaceKaren_ERC",
-            "MonkasErc20",
+            "pog_portal",
             "PoggersToken",
+            "SpaceKaren_ERC",
             "strongbadcoin",
-            "pog_portal"
+            "MonkasErc20"
         ],
         "holders": {
             "ETH": 357
@@ -156852,12 +156852,12 @@
             "d-maga.com"
         ],
         "telegram_groups": [
-            "DARKMAGAerc20",
-            "MonkasErc20",
+            "pog_portal",
             "PoggersToken",
-            "strongbadcoin",
             "SpaceKaren_ERC",
-            "pog_portal"
+            "strongbadcoin",
+            "DARKMAGAerc20",
+            "MonkasErc20"
         ],
         "holders": {
             "ETH": 470
@@ -156960,7 +156960,8 @@
         ],
         "holders": {
             "ETH": 261
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7bc037dd4cbfe6f9f175093acab4267fde24667c",
@@ -156971,7 +156972,9 @@
         },
         "web_domains": [
             "pepe.wtf"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6faddaf1b36f3ff05519445627190b3f58f13797",
@@ -156981,11 +156984,18 @@
             "saveamericahat.vip"
         ],
         "telegram_groups": [
+            "saveamericahat",
+            "Saveamericahat",
+            "Thebeasterc",
             "SaveAmericaHAT"
         ],
         "holders": {
             "ETH": 253
-        }
+        },
+        "emails": [
+            "team@Saveamericahat.vip"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5acc39c9726a7a2a4c0d9d397529accda289db66",
@@ -156999,7 +157009,8 @@
         ],
         "holders": {
             "ETH": 207
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd4b0e891450fc4d54bee84a4398991d8af0337a9",
@@ -157014,11 +157025,18 @@
             "edition.cnn.com"
         ],
         "telegram_groups": [
-            "YUGE_is"
+            "SpaceKaren_ERC",
+            "strongbadcoin",
+            "YUGE_is",
+            "MonkasErc20",
+            "pog_portal",
+            "PoggersToken",
+            "DARKMAGAerc20"
         ],
         "holders": {
             "ETH": 37
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9c3b128b12f5e1b7a0b5421edfa05c3cb809939a",
@@ -157032,7 +157050,8 @@
         ],
         "holders": {
             "ETH": 451
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x17457cb10ab11df7d3e7a9ab4324e40c54ebde39",
