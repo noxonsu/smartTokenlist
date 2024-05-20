@@ -147593,9 +147593,9 @@
             "strongbaderc20.vip"
         ],
         "telegram_groups": [
-            "strongbadcoin",
             "SpaceKaren_ERC",
-            "pog_portal"
+            "pog_portal",
+            "strongbadcoin"
         ],
         "holders": {
             "ETH": 178
@@ -152055,9 +152055,9 @@
             "monkas.top"
         ],
         "telegram_groups": [
+            "SpaceKaren_ERC",
             "MonkasErc20",
             "strongbadcoin",
-            "SpaceKaren_ERC",
             "pog_portal"
         ],
         "holders": {
@@ -155232,10 +155232,10 @@
             "www.poggerstoken.vip"
         ],
         "telegram_groups": [
-            "MonkasErc20",
-            "strongbadcoin",
-            "PoggersToken",
             "SpaceKaren_ERC",
+            "MonkasErc20",
+            "PoggersToken",
+            "strongbadcoin",
             "pog_portal"
         ],
         "holders": {
@@ -156852,11 +156852,17 @@
             "d-maga.com"
         ],
         "telegram_groups": [
-            "DARKMAGAerc20"
+            "DARKMAGAerc20",
+            "MonkasErc20",
+            "PoggersToken",
+            "strongbadcoin",
+            "SpaceKaren_ERC",
+            "pog_portal"
         ],
         "holders": {
             "ETH": 470
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1f01353c49cb9170ce8eb415eddb80674db95368",
@@ -156870,7 +156876,11 @@
         ],
         "holders": {
             "ETH": 57
-        }
+        },
+        "emails": [
+            "info@0xrp.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xcf4c91ecafc43c9f382db723ba20b82efa852821",
@@ -156905,7 +156915,9 @@
         },
         "web_domains": [
             "thresholdusd.org"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x188a7f8cc913963646ff8446a0e0ab7b4c4767d9",
@@ -156920,7 +156932,8 @@
         ],
         "holders": {
             "ETH": 146
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3593fc60643dca8304273b82559a4f6af4518bb6",
@@ -156931,6 +156944,8 @@
         },
         "web_domains": [
             "nyanheroes.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
