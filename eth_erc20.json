@@ -156599,5 +156599,73 @@
             "ETH": 498
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x5321e993150c92a01ccf582642edb76670aff7be",
+        "date_add": "2024-05-20 08:05:40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0xaf7ecedf722cb989216b0370d51d9b989d990563",
+        "date_add": "2024-05-20 08:05:40",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.ps1hagrid.xyz"
+        ],
+        "telegram_groups": [
+            "Ps1HagridETH"
+        ],
+        "holders": {
+            "ETH": 171
+        }
+    },
+    {
+        "contract_address": "0x2234b9983ea8c645baf04449bb646864720073dc",
+        "date_add": "2024-05-20 08:05:40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 49
+        }
+    },
+    {
+        "contract_address": "0x999a0272bf27c248ce570acac9eff023dd8d9e3c",
+        "date_add": "2024-05-20 08:05:40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0x8d9472fbd840724ea47454685dea395edce8c9b5",
+        "date_add": "2024-05-20 08:05:40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x6e96394b930ffb40afe27cbd5c0133671ad239e9",
+        "date_add": "2024-05-20 08:05:40",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dougburgumcoin.lol"
+        ],
+        "telegram_groups": [
+            "DougBurgumCoin"
+        ],
+        "holders": {
+            "ETH": 59
+        }
+    },
+    {
+        "contract_address": "0xad36836884e41aa794bf9f127abf40a692a7d75d",
+        "date_add": "2024-05-20 08:05:40",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 142
+        }
     }
 ]
