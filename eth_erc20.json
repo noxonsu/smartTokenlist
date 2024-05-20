@@ -156535,7 +156535,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 27
-        }
+        },
+        "web_domains": [
+            "odeum.io"
+        ]
     },
     {
         "contract_address": "0xa134f4c20cf6b5ab5e357443057cf5f02db994c0",
@@ -156543,6 +156546,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 23
-        }
+        },
+        "web_domains": [
+            "hemulen.blog"
+        ]
     }
 ]
