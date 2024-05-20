@@ -156726,7 +156726,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 107
-        }
+        },
+        "web_domains": [
+            "wolt.com"
+        ]
     },
     {
         "contract_address": "0x5a9333e11273d5d3758585663dcf63bb0db4fb40",
@@ -156794,7 +156797,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 11
-        }
+        },
+        "web_domains": [
+            "zerozap.xyz"
+        ]
     },
     {
         "contract_address": "0xf7a9d536e5896250c9383325020f3f4454120f0e",
