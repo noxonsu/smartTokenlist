@@ -157114,5 +157114,83 @@
         "holders": {
             "ETH": 8
         }
+    },
+    {
+        "contract_address": "0x60f1d3c8dc30492a5503be0fb0533782de9dd1db",
+        "date_add": "2024-05-20 20:04:41",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "barrontrump.fun"
+        ],
+        "telegram_groups": [
+            "BarronTrump_ETH"
+        ],
+        "holders": {
+            "ETH": 92
+        }
+    },
+    {
+        "contract_address": "0xd64fc4fd481a8f5933261e17e970d5d95584250d",
+        "date_add": "2024-05-20 20:04:41",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.noir-protocol.org",
+            "tinyurl.com"
+        ],
+        "holders": {
+            "ETH": 247
+        }
+    },
+    {
+        "contract_address": "0x22994fdb3f8509cf6a729bbfa93f939db0b50d06",
+        "date_add": "2024-05-20 20:04:41",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "devpn-erc.com"
+        ],
+        "telegram_groups": [
+            "dvpnnetwork"
+        ],
+        "holders": {
+            "ETH": 177
+        }
+    },
+    {
+        "contract_address": "0x5b09a0371c1da44a8e24d36bf5deb1141a84d875",
+        "date_add": "2024-05-20 20:04:41",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 988
+        }
+    },
+    {
+        "contract_address": "0x38aa91f1e89707e8552eca83b17f4e532a356862",
+        "date_add": "2024-05-20 20:04:41",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ethereumetf_eth"
+        ],
+        "holders": {
+            "ETH": 74
+        }
+    },
+    {
+        "contract_address": "0xb3226ca4367dd251df2fdfd73cd5e896a3e69e20",
+        "date_add": "2024-05-20 20:04:41",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 107
+        }
+    },
+    {
+        "contract_address": "0x1888847b50bc1833e268348896dee58701fc06a9",
+        "date_add": "2024-05-20 20:04:41",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "btcday.pizza"
+        ],
+        "holders": {
+            "ETH": 322
+        }
     }
 ]
