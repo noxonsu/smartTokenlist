@@ -157172,7 +157172,10 @@
         ],
         "holders": {
             "ETH": 74
-        }
+        },
+        "web_domains": [
+            "globalxetfs.com.au"
+        ]
     },
     {
         "contract_address": "0xb3226ca4367dd251df2fdfd73cd5e896a3e69e20",
