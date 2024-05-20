@@ -157222,7 +157222,8 @@
         ],
         "holders": {
             "ETH": 167
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xcbd04f366f0c14351120bb8d94fa519132f3a82f",
@@ -157236,7 +157237,11 @@
         ],
         "holders": {
             "ETH": 21
-        }
+        },
+        "emails": [
+            "info@megaeth.top"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7c851d60b26a4f2a6f2c628ef3b65ed282c54e52",
@@ -157250,7 +157255,8 @@
         ],
         "holders": {
             "ETH": 338
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x26ebb8213fb8d66156f1af8908d43f7e3e367c1d",
@@ -157264,6 +157270,10 @@
         ],
         "holders": {
             "ETH": 28
-        }
+        },
+        "emails": [
+            "support@retik.com"
+        ],
+        "p6": true
     }
 ]
