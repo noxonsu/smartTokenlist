@@ -156968,7 +156968,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 122
-        }
+        },
+        "web_domains": [
+            "pepe.wtf"
+        ]
     },
     {
         "contract_address": "0x6faddaf1b36f3ff05519445627190b3f58f13797",
@@ -157048,7 +157051,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 0
-        }
+        },
+        "web_domains": [
+            "staderlabs.com"
+        ]
     },
     {
         "contract_address": "0x3f04c6ce0c6b53a59dfea45b9fdfb3d626844042",
@@ -157056,7 +157062,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 0
-        }
+        },
+        "web_domains": [
+            "stake.lido.fi"
+        ]
     },
     {
         "contract_address": "0x707f3a43cf9574c37612921d68e25ce63c60c927",
@@ -157064,7 +157073,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 0
-        }
+        },
+        "web_domains": [
+            "dai.com"
+        ]
     },
     {
         "contract_address": "0x8f33f87f8a71f9ed1f5bd456c142e18394bb3436",
