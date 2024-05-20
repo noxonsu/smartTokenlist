@@ -156465,7 +156465,8 @@
         ],
         "holders": {
             "ETH": 116
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x35de3eccaccb02e627062b5d63aa941b137288fe",
@@ -156491,7 +156492,9 @@
         ],
         "holders": {
             "ETH": 45
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x780cb3adc27abfd6824406ce276220fa5a852863",
@@ -156502,7 +156505,11 @@
         ],
         "holders": {
             "ETH": 37
-        }
+        },
+        "telegram_groups": [
+            "NATIXNetwork"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdff29a2cc4fa9ee447fdc0895e46d451a3894d57",
@@ -156512,11 +156519,16 @@
             "thebeasterc.com"
         ],
         "telegram_groups": [
-            "Thebeasterc"
+            "Thebeasterc",
+            "TheBeastERC"
         ],
         "holders": {
             "ETH": 225
-        }
+        },
+        "emails": [
+            "team@Thebeasterc.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9c1f7237480c030cb14375ff6b650606248a5247",
@@ -156527,7 +156539,9 @@
         ],
         "holders": {
             "ETH": 35
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2346cbcba632847b9786f153cacc4f307508a78b",
@@ -156538,7 +156552,9 @@
         },
         "web_domains": [
             "odeum.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa134f4c20cf6b5ab5e357443057cf5f02db994c0",
