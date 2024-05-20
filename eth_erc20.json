@@ -156628,7 +156628,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 49
-        }
+        },
+        "web_domains": [
+            "moano.com"
+        ]
     },
     {
         "contract_address": "0x999a0272bf27c248ce570acac9eff023dd8d9e3c",
@@ -156636,7 +156639,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 14
-        }
+        },
+        "web_domains": [
+            "minerent.com"
+        ]
     },
     {
         "contract_address": "0x8d9472fbd840724ea47454685dea395edce8c9b5",
