@@ -156184,5 +156184,135 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x56f832151bbb07f362cf739eaa86d1069caa58ae",
+        "date_add": "2024-05-20 00:16:14",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "973-eht-namuh-973.com"
+        ],
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x0be6cae6c691d8360bb8a6912d6c8eaaec66a844",
+        "date_add": "2024-05-20 00:16:14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x1181206d1acb80d0366a95bdaa68dc4e25e248bf",
+        "date_add": "2024-05-20 00:16:14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xd32a09d3303e85dedcfeda20cc9bd2c8ed34ce16",
+        "date_add": "2024-05-20 00:16:14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1412
+        }
+    },
+    {
+        "contract_address": "0x4db5c8875ef00ce8040a9685581ff75c3c61adc8",
+        "date_add": "2024-05-20 00:16:14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 11179
+        }
+    },
+    {
+        "contract_address": "0x4ee438be38f8682abb089f2bfea48851c5e71eaf",
+        "date_add": "2024-05-20 00:16:14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1266
+        }
+    },
+    {
+        "contract_address": "0x9d9162c57a3b5fdf6f441b9bef5ae917ac5eb058",
+        "date_add": "2024-05-20 00:16:14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0x42d94b76f3a789a2d3fd05f0fb945f6a42e3b3cb",
+        "date_add": "2024-05-20 00:16:14",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "thoracic.finance"
+        ],
+        "telegram_groups": [
+            "ThoracicBotERC",
+            "Thoracic_Bot"
+        ],
+        "holders": {
+            "ETH": 27
+        }
+    },
+    {
+        "contract_address": "0xecf071e543eb9689aa0ede103f7bd9d2c6162446",
+        "date_add": "2024-05-20 00:16:14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x1419d80b34c355ea5ade0a04b17ec0b903067d37",
+        "date_add": "2024-05-20 00:16:14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0xb01cf1be9568f09449382a47cd5bf58e2a9d5922",
+        "date_add": "2024-05-20 00:16:14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 29
+        }
+    },
+    {
+        "contract_address": "0xb630d7388e3466af4952b6e5d8db63d828140e5d",
+        "date_add": "2024-05-20 00:16:14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 771
+        }
+    },
+    {
+        "contract_address": "0x7a7ff13e66fb421df32272c50dd1eba44c5ae151",
+        "date_add": "2024-05-20 00:16:14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0xdf4eae6551903b2666e9cb2c85573e035d25fb13",
+        "date_add": "2024-05-20 00:16:14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 27
+        }
+    },
+    {
+        "contract_address": "0x9ab43f73054c07b02e02c5468b3eb058ccdaa019",
+        "date_add": "2024-05-20 00:16:14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
