@@ -156620,7 +156620,8 @@
         ],
         "holders": {
             "ETH": 171
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2234b9983ea8c645baf04449bb646864720073dc",
@@ -156631,7 +156632,9 @@
         },
         "web_domains": [
             "moano.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x999a0272bf27c248ce570acac9eff023dd8d9e3c",
@@ -156642,7 +156645,9 @@
         },
         "web_domains": [
             "minerent.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8d9472fbd840724ea47454685dea395edce8c9b5",
@@ -156664,7 +156669,8 @@
         ],
         "holders": {
             "ETH": 59
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xad36836884e41aa794bf9f127abf40a692a7d75d",
