@@ -156833,5 +156833,98 @@
         "holders": {
             "ETH": 24
         }
+    },
+    {
+        "contract_address": "0x3b37a9caf74ead14e521d46af0bf00737d827828",
+        "date_add": "2024-05-20 16:05:02",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1311
+        }
+    },
+    {
+        "contract_address": "0x5640e0560e6afd6a9f4ddb41230d0201d181fea7",
+        "date_add": "2024-05-20 16:05:02",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "knowyourmeme.com",
+            "www.businessinsider.com",
+            "d-maga.com"
+        ],
+        "telegram_groups": [
+            "DARKMAGAerc20"
+        ],
+        "holders": {
+            "ETH": 470
+        }
+    },
+    {
+        "contract_address": "0x1f01353c49cb9170ce8eb415eddb80674db95368",
+        "date_add": "2024-05-20 16:05:02",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.makeethereumcypherpunkagain.site"
+        ],
+        "telegram_groups": [
+            "MECAerc"
+        ],
+        "holders": {
+            "ETH": 57
+        }
+    },
+    {
+        "contract_address": "0xcf4c91ecafc43c9f382db723ba20b82efa852821",
+        "date_add": "2024-05-20 16:05:02",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 330
+        }
+    },
+    {
+        "contract_address": "0x528bed8b1e95549694519dbf8cfbdd54e274cd48",
+        "date_add": "2024-05-20 16:05:02",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10
+        }
+    },
+    {
+        "contract_address": "0x212a60171e22988492b7c38a1a3553c60f1892be",
+        "date_add": "2024-05-20 16:05:02",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xcfc5bd99915aaa815401c5a41a927ab7a38d29cf",
+        "date_add": "2024-05-20 16:05:02",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 22
+        }
+    },
+    {
+        "contract_address": "0x188a7f8cc913963646ff8446a0e0ab7b4c4767d9",
+        "date_add": "2024-05-20 16:05:02",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "burningboysclub.us",
+            "bankai.app"
+        ],
+        "telegram_groups": [
+            "burningboysclubportal"
+        ],
+        "holders": {
+            "ETH": 146
+        }
+    },
+    {
+        "contract_address": "0x3593fc60643dca8304273b82559a4f6af4518bb6",
+        "date_add": "2024-05-20 16:05:02",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 156
+        }
     }
 ]
