@@ -157127,7 +157127,8 @@
         ],
         "holders": {
             "ETH": 92
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd64fc4fd481a8f5933261e17e970d5d95584250d",
@@ -157139,7 +157140,14 @@
         ],
         "holders": {
             "ETH": 247
-        }
+        },
+        "telegram_groups": [
+            "noir_portal"
+        ],
+        "emails": [
+            "team@noir-protocol.org"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x22994fdb3f8509cf6a729bbfa93f939db0b50d06",
@@ -157153,7 +157161,8 @@
         ],
         "holders": {
             "ETH": 177
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5b09a0371c1da44a8e24d36bf5deb1141a84d875",
@@ -157175,7 +157184,8 @@
         },
         "web_domains": [
             "globalxetfs.com.au"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb3226ca4367dd251df2fdfd73cd5e896a3e69e20",
@@ -157194,6 +157204,10 @@
         ],
         "holders": {
             "ETH": 322
-        }
+        },
+        "telegram_groups": [
+            "BtcDayPizza"
+        ],
+        "p6": true
     }
 ]
