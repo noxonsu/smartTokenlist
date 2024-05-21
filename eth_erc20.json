@@ -157556,7 +157556,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 14
-        }
+        },
+        "web_domains": [
+            "xusdcrypto.com"
+        ]
     },
     {
         "contract_address": "0x78a8c252532ba507dd05b111ece88d615f588fd6",
@@ -157564,7 +157567,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 36
-        }
+        },
+        "web_domains": [
+            "babygames.com"
+        ]
     },
     {
         "contract_address": "0xa9a6097fb60bf9a9ad597f7c794d7cc74f19bc45",
