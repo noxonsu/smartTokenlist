@@ -158037,5 +158037,155 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x402c250230ce96156a9c335223a52c6a76771215",
+        "date_add": "2024-05-21 20:05:21",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.monster-erc20.com"
+        ],
+        "telegram_groups": [
+            "monsterERC20"
+        ],
+        "holders": {
+            "ETH": 68
+        }
+    },
+    {
+        "contract_address": "0x0afa552c9779d24df0201b9e5ce6c756943f9882",
+        "date_add": "2024-05-21 20:05:21",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xc0fa9aaa6e5a1d7d97119639ed994af74fd1929c",
+        "date_add": "2024-05-21 20:05:21",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5266
+        }
+    },
+    {
+        "contract_address": "0x632fc57e32d245fa1982da8b16d113e8d5b46b05",
+        "date_add": "2024-05-21 20:05:21",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "megashiba.xyz"
+        ],
+        "telegram_groups": [
+            "Megashiba_official"
+        ],
+        "holders": {
+            "ETH": 119
+        }
+    },
+    {
+        "contract_address": "0x0fe13ffe64b28a172c58505e24c0c111d149bd47",
+        "date_add": "2024-05-21 20:05:21",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "TrumpPepeEth.com"
+        ],
+        "telegram_groups": [
+            "TrumpPepeOnETH"
+        ],
+        "holders": {
+            "ETH": 170
+        }
+    },
+    {
+        "contract_address": "0x1a25b5ebae4f0d8bb74f8a1ed233144b73a650fd",
+        "date_add": "2024-05-21 20:05:21",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "CryptoTrumpERC20"
+        ],
+        "holders": {
+            "ETH": 75
+        }
+    },
+    {
+        "contract_address": "0xe1cf7f8eacc6b319920b5baf163e1624681c068e",
+        "date_add": "2024-05-21 20:05:21",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "knowyourmeme.com",
+            "officialdatboi.xyz"
+        ],
+        "telegram_groups": [
+            "DatBoiEntrance"
+        ],
+        "holders": {
+            "ETH": 27
+        }
+    },
+    {
+        "contract_address": "0x62760e76dce6b500349ec5f6119228d047913350",
+        "date_add": "2024-05-21 20:05:21",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 558
+        }
+    },
+    {
+        "contract_address": "0xa22c67e4bf6fb2b6cb68d58a281a18d5ac59a14e",
+        "date_add": "2024-05-21 20:05:21",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0xcdc4532c982a77e892e8635c912390e43350cfb0",
+        "date_add": "2024-05-21 20:05:21",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "makeautismgreatagain.lol"
+        ],
+        "telegram_groups": [
+            "makeautismgreatagainerc"
+        ],
+        "holders": {
+            "ETH": 42
+        }
+    },
+    {
+        "contract_address": "0x9a3b0590a59c8310a9d19d8dacfd6d601a775bb0",
+        "date_add": "2024-05-21 20:05:21",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Ethtradingfund"
+        ],
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0xaa2ba423875baa1c74abe77df0b6ac655ce151e6",
+        "date_add": "2024-05-21 20:05:21",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "crowescrow.io"
+        ],
+        "telegram_groups": [
+            "crowescrow"
+        ],
+        "holders": {
+            "ETH": 521
+        }
+    },
+    {
+        "contract_address": "0xc63804b21fe54000b07bda8750417bfec36e9e7f",
+        "date_add": "2024-05-21 20:05:21",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pepefccoin.vip"
+        ],
+        "holders": {
+            "ETH": 109
+        }
     }
 ]
