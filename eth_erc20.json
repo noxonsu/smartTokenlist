@@ -157443,7 +157443,11 @@
         ],
         "holders": {
             "ETH": 210
-        }
+        },
+        "emails": [
+            "sonic@searchgpt.meme"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd1e0ecef5b871f81dfdbe4c9ca769e99d8c49779",
@@ -157457,7 +157461,8 @@
         ],
         "holders": {
             "ETH": 480
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xaadf7d98128099889b90dd63d4b7a7604cc7d6d1",
@@ -157468,7 +157473,9 @@
         },
         "web_domains": [
             "sitebuddyz.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe7f53aee2c48973b5924c79c93db79324429626c",
@@ -157482,7 +157489,8 @@
         ],
         "holders": {
             "ETH": 34
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6135ad5fd362bbbbd4c9d99c4c7068881c519c0d",
@@ -157496,7 +157504,8 @@
         ],
         "holders": {
             "ETH": 77
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x213c53c96a01a89e6dcc5683cf16473203e17513",
@@ -157523,6 +157532,8 @@
         },
         "web_domains": [
             "defito.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
