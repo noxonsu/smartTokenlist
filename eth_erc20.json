@@ -157740,5 +157740,71 @@
         "holders": {
             "ETH": 105
         }
+    },
+    {
+        "contract_address": "0x844b19e4729a4e545de6ce1134f2aaa98ace8072",
+        "date_add": "2024-05-21 12:06:13",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xf8428a5a99cb452ea50b6ea70b052daa3df4934f",
+        "date_add": "2024-05-21 12:06:13",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 51
+        }
+    },
+    {
+        "contract_address": "0x939e39e46a5f1a5b4f750f729274337b1e881835",
+        "date_add": "2024-05-21 12:06:13",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "Baby-MAGA.com"
+        ],
+        "telegram_groups": [
+            "BabyMAGAPortal"
+        ],
+        "holders": {
+            "ETH": 140
+        }
+    },
+    {
+        "contract_address": "0xd7746061e569a5fb66aeac806b59f3a4fe401abb",
+        "date_add": "2024-05-21 12:06:13",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mmgaethhat.com"
+        ],
+        "telegram_groups": [
+            "MMGAETHHAT"
+        ],
+        "holders": {
+            "ETH": 74
+        }
+    },
+    {
+        "contract_address": "0xb6a287ef982a12c0189c0a5a71f2a2bafa4721b9",
+        "date_add": "2024-05-21 12:06:13",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.mmgaeth.com"
+        ],
+        "telegram_groups": [
+            "MemehatERC"
+        ],
+        "holders": {
+            "ETH": 175
+        }
+    },
+    {
+        "contract_address": "0x16980271c4ec1fad6b91ea178f9bc96ce9c22191",
+        "date_add": "2024-05-21 12:06:13",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 36
+        }
     }
 ]
