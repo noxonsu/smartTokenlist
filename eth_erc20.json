@@ -157347,5 +157347,83 @@
             "trading_protocol"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x57b9dbeed8b18119294a981d0418e09c9aee15b9",
+        "date_add": "2024-05-21 02:14:36",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "youngtrumpmoneygang.com"
+        ],
+        "telegram_groups": [
+            "YoungTrumpMoneyGang"
+        ],
+        "holders": {
+            "ETH": 184
+        }
+    },
+    {
+        "contract_address": "0x81e019dc564d5f906e0915e3818f69cc4b3c0804",
+        "date_add": "2024-05-21 02:14:36",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "trumpbucks.cash"
+        ],
+        "telegram_groups": [
+            "trumpbuckseth"
+        ],
+        "holders": {
+            "ETH": 181
+        }
+    },
+    {
+        "contract_address": "0x8c617d32e2c08d63b03fa9cd2a569980efc2cc19",
+        "date_add": "2024-05-21 02:14:36",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mbgaeth.com"
+        ],
+        "telegram_groups": [
+            "MBGAETH"
+        ],
+        "holders": {
+            "ETH": 208
+        }
+    },
+    {
+        "contract_address": "0xc30a7e217fa4521b018a9df05ef873b4439c2a88",
+        "date_add": "2024-05-21 02:14:36",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "makepepepumpagain.wtf"
+        ],
+        "telegram_groups": [
+            "pepepump_coin"
+        ],
+        "holders": {
+            "ETH": 57
+        }
+    },
+    {
+        "contract_address": "0xab0fc94cd671688b2f618d2f06cf7520085dc2c3",
+        "date_add": "2024-05-21 02:14:36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xcff3771b61b65d5fe94c0436095c9fd26a5dab91",
+        "date_add": "2024-05-21 02:14:36",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "joincommonwealth.xyz"
+        ],
+        "telegram_groups": [
+            "commonwealth_chat"
+        ],
+        "holders": {
+            "ETH": 31
+        }
     }
 ]
