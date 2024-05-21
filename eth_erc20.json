@@ -157932,5 +157932,94 @@
             "ETH": 198
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x002606d5aac4abccf6eaeae4692d9da6ce763bae",
+        "date_add": "2024-05-21 18:04:55",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "openmind.software"
+        ],
+        "telegram_groups": [
+            "openmind_eth_bot",
+            "OpenMindERC20"
+        ],
+        "holders": {
+            "ETH": 298
+        }
+    },
+    {
+        "contract_address": "0x488542c2320f20d65405a1c03da769bc124f9a28",
+        "date_add": "2024-05-21 18:04:55",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 358
+        }
+    },
+    {
+        "contract_address": "0x694201616c3b2afccd8908b9f2198b32ab587a0b",
+        "date_add": "2024-05-21 18:04:55",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mmcga.lol"
+        ],
+        "telegram_groups": [
+            "mmga_eth_ereum"
+        ],
+        "holders": {
+            "ETH": 199
+        }
+    },
+    {
+        "contract_address": "0xfaa361697ea5bf878e734595278e3db7caf94f37",
+        "date_add": "2024-05-21 18:04:55",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools"
+        ],
+        "holders": {
+            "ETH": 499
+        }
+    },
+    {
+        "contract_address": "0xae3e12b3a07393a5be2f5e980c585f95d5334a08",
+        "date_add": "2024-05-21 18:04:55",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 452
+        }
+    },
+    {
+        "contract_address": "0x2fbf61e5236126871018bfbf368ba4cfce0d4512",
+        "date_add": "2024-05-21 18:04:55",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 327
+        }
+    },
+    {
+        "contract_address": "0x4928dd6b58d6a4f0e0c244aebce5fdf66fae0ada",
+        "date_add": "2024-05-21 18:04:55",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "finishthejob.io"
+        ],
+        "telegram_groups": [
+            "bidenmeme_erc"
+        ],
+        "holders": {
+            "ETH": 206
+        }
+    },
+    {
+        "contract_address": "0xba07642937072ef11475612b44686ac86f6c24b2",
+        "date_add": "2024-05-21 18:04:55",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 90
+        }
     }
 ]
