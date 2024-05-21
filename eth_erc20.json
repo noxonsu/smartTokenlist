@@ -157643,7 +157643,9 @@
         },
         "web_domains": [
             "freeversefarm.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x58b7b523fa1a925ea17ccc0cfbf0dbacee2dce35",
@@ -157654,7 +157656,9 @@
         },
         "web_domains": [
             "mpga.net"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x598a679bb3999864e610aaa8e037cf2d5b889201",
@@ -157681,7 +157685,11 @@
         },
         "web_domains": [
             "lfgo.space"
-        ]
+        ],
+        "telegram_groups": [
+            "LFGO_COMMUNITY"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd0ff6510c0ef6f5187e113f2a4088ae6e41c73d1",
@@ -157695,7 +157703,8 @@
         ],
         "holders": {
             "ETH": 268
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x497460a68d3c630fd41dd1221554aa6374d93688",
@@ -157709,7 +157718,9 @@
         ],
         "holders": {
             "ETH": 104
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc4a3e80b3e929786e7dc4cd49c7acfbfed57fd14",
