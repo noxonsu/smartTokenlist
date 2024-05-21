@@ -157946,7 +157946,11 @@
         ],
         "holders": {
             "ETH": 298
-        }
+        },
+        "emails": [
+            "mail@openmind.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x488542c2320f20d65405a1c03da769bc124f9a28",
@@ -157968,7 +157972,8 @@
         ],
         "holders": {
             "ETH": 199
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xfaa361697ea5bf878e734595278e3db7caf94f37",
@@ -157982,7 +157987,9 @@
         ],
         "holders": {
             "ETH": 499
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xae3e12b3a07393a5be2f5e980c585f95d5334a08",
@@ -158012,7 +158019,11 @@
         ],
         "holders": {
             "ETH": 206
-        }
+        },
+        "emails": [
+            "\n             team@finishthejob.io\n              "
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xba07642937072ef11475612b44686ac86f6c24b2",
@@ -158023,6 +158034,8 @@
         },
         "web_domains": [
             "michaelclose.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
