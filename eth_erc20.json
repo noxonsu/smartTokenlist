@@ -157833,7 +157833,8 @@
         ],
         "holders": {
             "ETH": 145
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf1c507fe4a4da386038c7691a6a3b40e9277b280",
@@ -157843,11 +157844,16 @@
             "mumuthebullrun.com"
         ],
         "telegram_groups": [
+            "Mumuthebull_ERC",
             "MumuTheBull_ERC"
         ],
         "holders": {
             "ETH": 248
-        }
+        },
+        "emails": [
+            "team@mumuthebullrun.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5a9063d5cc3839044b948441dd7dfa4939a84372",
@@ -157861,7 +157867,8 @@
         ],
         "holders": {
             "ETH": 227
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd2b1dedb8228c4f64cb822b9f30484b818f4837a",
@@ -157875,7 +157882,8 @@
         ],
         "holders": {
             "ETH": 257
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc5bddf9843308380375a611c18b50fb9341f502a",
@@ -157917,10 +157925,12 @@
             "shibaswap.com"
         ],
         "telegram_groups": [
+            "ShibariumTechnologies",
             "ShizaInuPort"
         ],
         "holders": {
             "ETH": 198
-        }
+        },
+        "p6": true
     }
 ]
