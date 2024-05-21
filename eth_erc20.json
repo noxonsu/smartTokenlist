@@ -157288,7 +157288,8 @@
         ],
         "holders": {
             "ETH": 8
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6688d039bae4dca01408d260a8d784196dd942d7",
@@ -157326,7 +157327,11 @@
         ],
         "holders": {
             "ETH": 252
-        }
+        },
+        "emails": [
+            "TEAM@TRUMPMASCOT.COM"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4fe9795804d731513214ee93afdfde2f0bd772ed",
@@ -157337,6 +157342,10 @@
         },
         "web_domains": [
             "tradingstrategy.ai"
-        ]
+        ],
+        "telegram_groups": [
+            "trading_protocol"
+        ],
+        "p6": true
     }
 ]
