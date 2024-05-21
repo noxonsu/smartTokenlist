@@ -158336,7 +158336,11 @@
         ],
         "holders": {
             "ETH": 194
-        }
+        },
+        "emails": [
+            "contact@dancingtrumpeth.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x47d85e6be475276575957d43fe7c48f77e246da1",
@@ -158349,7 +158353,9 @@
         ],
         "holders": {
             "ETH": 33
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x96f2c9cf889b7a2758174ea1a3cb987d8edf0b33",
@@ -158363,6 +158369,7 @@
         ],
         "holders": {
             "ETH": 67
-        }
+        },
+        "p6": true
     }
 ]
