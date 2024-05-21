@@ -157535,5 +157535,85 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x17cb7e814a0306a837b5de80cb3d8a4f521e019a",
+        "date_add": "2024-05-21 06:05:28",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wifeofpepe.fun"
+        ],
+        "telegram_groups": [
+            "PEEPA_ERC20"
+        ],
+        "holders": {
+            "ETH": 309
+        }
+    },
+    {
+        "contract_address": "0xc08e7e23c235073c6807c2efe7021304cb7c2815",
+        "date_add": "2024-05-21 06:05:28",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0x78a8c252532ba507dd05b111ece88d615f588fd6",
+        "date_add": "2024-05-21 06:05:28",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 36
+        }
+    },
+    {
+        "contract_address": "0xa9a6097fb60bf9a9ad597f7c794d7cc74f19bc45",
+        "date_add": "2024-05-21 06:05:28",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "MakeEthGA"
+        ],
+        "holders": {
+            "ETH": 220
+        }
+    },
+    {
+        "contract_address": "0xd1d7d99764f8a52aff007b7831cc02748b2013b5",
+        "date_add": "2024-05-21 06:05:28",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 63
+        }
+    },
+    {
+        "contract_address": "0x4139cdc6345affbac0692b43bed4d059df3e6d65",
+        "date_add": "2024-05-21 06:05:28",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0x1e971b5b21367888239f00da16f0a6b0effecb03",
+        "date_add": "2024-05-21 06:05:28",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "leeroyjenkins.lol",
+            "metadrop.com."
+        ],
+        "holders": {
+            "ETH": 1187
+        }
+    },
+    {
+        "contract_address": "0x7b8a9cc9ac5eaf80ef42028c9a4fa6a19306eaf8",
+        "date_add": "2024-05-21 06:05:28",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "lion.meme"
+        ],
+        "holders": {
+            "ETH": 19
+        }
     }
 ]
