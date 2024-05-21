@@ -157465,7 +157465,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 36
-        }
+        },
+        "web_domains": [
+            "sitebuddyz.com"
+        ]
     },
     {
         "contract_address": "0xe7f53aee2c48973b5924c79c93db79324429626c",
@@ -157517,6 +157520,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 37
-        }
+        },
+        "web_domains": [
+            "defito.finance"
+        ]
     }
 ]
