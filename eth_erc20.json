@@ -157275,5 +157275,65 @@
             "support@retik.com"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0xc3722ad131ab8a76495b8b3393b513978cd9c8f0",
+        "date_add": "2024-05-21 00:16:22",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "trumpice.fun"
+        ],
+        "telegram_groups": [
+            "trumpicewater"
+        ],
+        "holders": {
+            "ETH": 8
+        }
+    },
+    {
+        "contract_address": "0x6688d039bae4dca01408d260a8d784196dd942d7",
+        "date_add": "2024-05-21 00:16:22",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 94
+        }
+    },
+    {
+        "contract_address": "0x420b6902270fd34c677f524acdfc5d31be9a6969",
+        "date_add": "2024-05-21 00:16:22",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 117
+        }
+    },
+    {
+        "contract_address": "0x84f42bc7cab3932bdf1c77bb08528bff20a44180",
+        "date_add": "2024-05-21 00:16:22",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 113
+        }
+    },
+    {
+        "contract_address": "0x104096e8b98bd67a7919387ffe107e87ba58a67b",
+        "date_add": "2024-05-21 00:16:22",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.republicanelephanteth.com"
+        ],
+        "telegram_groups": [
+            "republicanmascot"
+        ],
+        "holders": {
+            "ETH": 252
+        }
+    },
+    {
+        "contract_address": "0x4fe9795804d731513214ee93afdfde2f0bd772ed",
+        "date_add": "2024-05-21 00:16:22",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 231
+        }
     }
 ]
