@@ -152057,8 +152057,8 @@
         "telegram_groups": [
             "pog_portal",
             "strongbadcoin",
-            "MonkasErc20",
-            "SpaceKaren_ERC"
+            "SpaceKaren_ERC",
+            "MonkasErc20"
         ],
         "holders": {
             "ETH": 252
@@ -155233,10 +155233,10 @@
         ],
         "telegram_groups": [
             "pog_portal",
-            "PoggersToken",
             "SpaceKaren_ERC",
             "strongbadcoin",
-            "MonkasErc20"
+            "MonkasErc20",
+            "PoggersToken"
         ],
         "holders": {
             "ETH": 357
@@ -156853,11 +156853,11 @@
         ],
         "telegram_groups": [
             "pog_portal",
-            "PoggersToken",
             "SpaceKaren_ERC",
-            "strongbadcoin",
             "DARKMAGAerc20",
-            "MonkasErc20"
+            "strongbadcoin",
+            "MonkasErc20",
+            "PoggersToken"
         ],
         "holders": {
             "ETH": 470
@@ -157026,12 +157026,12 @@
         ],
         "telegram_groups": [
             "SpaceKaren_ERC",
-            "strongbadcoin",
             "YUGE_is",
-            "MonkasErc20",
             "pog_portal",
-            "PoggersToken",
-            "DARKMAGAerc20"
+            "MonkasErc20",
+            "strongbadcoin",
+            "DARKMAGAerc20",
+            "PoggersToken"
         ],
         "holders": {
             "ETH": 37
@@ -158050,7 +158050,8 @@
         ],
         "holders": {
             "ETH": 68
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0afa552c9779d24df0201b9e5ce6c756943f9882",
@@ -158080,7 +158081,8 @@
         ],
         "holders": {
             "ETH": 119
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0fe13ffe64b28a172c58505e24c0c111d149bd47",
@@ -158094,7 +158096,8 @@
         ],
         "holders": {
             "ETH": 170
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1a25b5ebae4f0d8bb74f8a1ed233144b73a650fd",
@@ -158116,11 +158119,19 @@
             "officialdatboi.xyz"
         ],
         "telegram_groups": [
-            "DatBoiEntrance"
+            "YUGE_is",
+            "DatBoiEntrance",
+            "SpaceKaren_ERC",
+            "pog_portal",
+            "DARKMAGAerc20",
+            "strongbadcoin",
+            "MonkasErc20",
+            "PoggersToken"
         ],
         "holders": {
             "ETH": 27
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x62760e76dce6b500349ec5f6119228d047913350",
@@ -158150,7 +158161,11 @@
         ],
         "holders": {
             "ETH": 42
-        }
+        },
+        "emails": [
+            "DEv@maga.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9a3b0590a59c8310a9d19d8dacfd6d601a775bb0",
@@ -158186,6 +158201,13 @@
         ],
         "holders": {
             "ETH": 109
-        }
+        },
+        "telegram_groups": [
+            "pepefccoin"
+        ],
+        "emails": [
+            "pepefootballcoin@gmail.com"
+        ],
+        "p6": true
     }
 ]
