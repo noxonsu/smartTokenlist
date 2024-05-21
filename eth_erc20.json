@@ -157430,5 +157430,93 @@
             "ETH": 31
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x3575a80720cfb119347872801d0bd1402e644766",
+        "date_add": "2024-05-21 04:04:52",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "searchgpt.meme"
+        ],
+        "telegram_groups": [
+            "searchgptmeme"
+        ],
+        "holders": {
+            "ETH": 210
+        }
+    },
+    {
+        "contract_address": "0xd1e0ecef5b871f81dfdbe4c9ca769e99d8c49779",
+        "date_add": "2024-05-21 04:04:52",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "norefundcoin.org"
+        ],
+        "telegram_groups": [
+            "NRFDPORTAL"
+        ],
+        "holders": {
+            "ETH": 480
+        }
+    },
+    {
+        "contract_address": "0xaadf7d98128099889b90dd63d4b7a7604cc7d6d1",
+        "date_add": "2024-05-21 04:04:52",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 36
+        }
+    },
+    {
+        "contract_address": "0xe7f53aee2c48973b5924c79c93db79324429626c",
+        "date_add": "2024-05-21 04:04:52",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "starbase.services"
+        ],
+        "telegram_groups": [
+            "MCGAETH"
+        ],
+        "holders": {
+            "ETH": 34
+        }
+    },
+    {
+        "contract_address": "0x6135ad5fd362bbbbd4c9d99c4c7068881c519c0d",
+        "date_add": "2024-05-21 04:04:52",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "fepe.io"
+        ],
+        "telegram_groups": [
+            "fepecoin"
+        ],
+        "holders": {
+            "ETH": 77
+        }
+    },
+    {
+        "contract_address": "0x213c53c96a01a89e6dcc5683cf16473203e17513",
+        "date_add": "2024-05-21 04:04:52",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1103
+        }
+    },
+    {
+        "contract_address": "0x8806926ab68eb5a7b909dcaf6fdbe5d93271d6e2",
+        "date_add": "2024-05-21 04:04:52",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9776
+        }
+    },
+    {
+        "contract_address": "0x56ef04219a6afe82fa298023364ecfd84f137259",
+        "date_add": "2024-05-21 04:04:52",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 37
+        }
     }
 ]
