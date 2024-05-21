@@ -157769,7 +157769,8 @@
         ],
         "holders": {
             "ETH": 140
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd7746061e569a5fb66aeac806b59f3a4fe401abb",
@@ -157783,7 +157784,11 @@
         ],
         "holders": {
             "ETH": 74
-        }
+        },
+        "emails": [
+            "admin@mmbaerc.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb6a287ef982a12c0189c0a5a71f2a2bafa4721b9",
@@ -157797,7 +157802,8 @@
         ],
         "holders": {
             "ETH": 175
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x16980271c4ec1fad6b91ea178f9bc96ce9c22191",
