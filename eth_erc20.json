@@ -158222,7 +158222,8 @@
         ],
         "holders": {
             "ETH": 80
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xba41cf81c7640022b74b485a51d531fe33483993",
@@ -158233,7 +158234,9 @@
         },
         "web_domains": [
             "keycat.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x63d77aa36a33610afd6e8f265f296d77b30879c1",
@@ -158247,7 +158250,11 @@
         ],
         "holders": {
             "ETH": 219
-        }
+        },
+        "emails": [
+            "admin@magahat2.com      "
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1220a1cc66033fe2b026d70d349316e033b15321",
@@ -158258,7 +158265,9 @@
         },
         "web_domains": [
             "mml.science"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x5bb6d5d59764853ba25ed32ceb415508130c64a8",
@@ -158288,7 +158297,9 @@
         },
         "web_domains": [
             "patcrypt.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6c9f097e044506712b58eac670c9a5fd4bccef13",
@@ -158310,7 +158321,8 @@
         ],
         "holders": {
             "ETH": 136
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8d15bbaba8f578154d88d640ad372aedac1c6f28",
