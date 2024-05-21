@@ -157548,7 +157548,11 @@
         ],
         "holders": {
             "ETH": 309
-        }
+        },
+        "emails": [
+            "Email: http://team@wifeofpepe.fun/"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc08e7e23c235073c6807c2efe7021304cb7c2815",
@@ -157559,7 +157563,11 @@
         },
         "web_domains": [
             "xusdcrypto.com"
-        ]
+        ],
+        "telegram_groups": [
+            "xusdblockchain"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x78a8c252532ba507dd05b111ece88d615f588fd6",
@@ -157570,7 +157578,9 @@
         },
         "web_domains": [
             "babygames.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa9a6097fb60bf9a9ad597f7c794d7cc74f19bc45",
@@ -157620,6 +157630,8 @@
         ],
         "holders": {
             "ETH": 19
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     }
 ]
