@@ -158494,7 +158494,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 43
-        }
+        },
+        "web_domains": [
+            "mewcats.com"
+        ]
     },
     {
         "contract_address": "0x0c37bcf456bc661c14d596683325623076d7e283",
@@ -158546,7 +158549,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 22
-        }
+        },
+        "web_domains": [
+            "bitcoinpizzaindex.net"
+        ]
     },
     {
         "contract_address": "0x69420996c8e2e6da830db19194a728f4ffc57ca9",
