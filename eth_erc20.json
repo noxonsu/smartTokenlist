@@ -158447,5 +158447,24 @@
         "holders": {
             "ETH": 121
         }
+    },
+    {
+        "contract_address": "0x908c532204d8e6087889bb774f062b9c6edeb4ee",
+        "date_add": "2024-05-22 02:15:21",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "MPGA_ETH"
+        ],
+        "holders": {
+            "ETH": 54
+        }
+    },
+    {
+        "contract_address": "0x3312911436cbd159aa929b44bc5cf4bb3630adac",
+        "date_add": "2024-05-22 02:15:21",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 27
+        }
     }
 ]
