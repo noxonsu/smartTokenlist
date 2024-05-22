@@ -158605,7 +158605,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 25
-        }
+        },
+        "web_domains": [
+            "etf.com"
+        ]
     },
     {
         "contract_address": "0x4fdcc369250cc749ef7726a10a6aad36a18f707c",
