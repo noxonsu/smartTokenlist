@@ -158656,5 +158656,132 @@
         "holders": {
             "ETH": 428
         }
+    },
+    {
+        "contract_address": "0x4c8c4ebb1963552fe3643c6b8bf5048cef7695a5",
+        "date_add": "2024-05-22 10:04:27",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 362
+        }
+    },
+    {
+        "contract_address": "0x00f2059d026ed9ae035ef7246c8aa590191524aa",
+        "date_add": "2024-05-22 10:04:27",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x82cb531e88d0029f2e85448ab8401fc943cc86ae",
+        "date_add": "2024-05-22 10:04:27",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 17
+        }
+    },
+    {
+        "contract_address": "0x3d1f5202e722805b8319e3317a94ed9b11c24aa7",
+        "date_add": "2024-05-22 10:04:27",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "zkSync.io"
+        ],
+        "holders": {
+            "ETH": 58
+        }
+    },
+    {
+        "contract_address": "0x1fdd61ef9a5c31b9a2abc7d39c139c779e8412af",
+        "date_add": "2024-05-22 10:04:27",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "Jejecoin.com"
+        ],
+        "telegram_groups": [
+            "JEJEERC"
+        ],
+        "holders": {
+            "ETH": 730
+        }
+    },
+    {
+        "contract_address": "0x0bd65e366f1f17ba77fefe5f41086ed9350b73d1",
+        "date_add": "2024-05-22 10:04:27",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 28
+        }
+    },
+    {
+        "contract_address": "0xcc665390b03c5d324d8faf81c15ecee29a73bcb4",
+        "date_add": "2024-05-22 10:04:27",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2454
+        }
+    },
+    {
+        "contract_address": "0xf8173a39c56a554837c4c7f104153a005d284d11",
+        "date_add": "2024-05-22 10:04:27",
+        "sourceScanned": "processed",
+        "emails": [
+            "goncalo.sa@consensys.net"
+        ],
+        "holders": {
+            "ETH": 29
+        }
+    },
+    {
+        "contract_address": "0xe41c5e5cfc5a2d1f084a4cedff32062bd9d08fd5",
+        "date_add": "2024-05-22 10:04:27",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "megadoge.dev"
+        ],
+        "telegram_groups": [
+            "Megadoge_officialportal"
+        ],
+        "holders": {
+            "ETH": 140
+        }
+    },
+    {
+        "contract_address": "0xa441cf75bcfb5833cb1ba7c93a0721ae9b292789",
+        "date_add": "2024-05-22 10:04:27",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.swaap.finance",
+            "forum.balancer.fi"
+        ],
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0x21a4c219149561c79bbb39820e805c6ff400890a",
+        "date_add": "2024-05-22 10:04:27",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "flipperpepe.vip"
+        ],
+        "telegram_groups": [
+            "flipperpepecoineth"
+        ],
+        "holders": {
+            "ETH": 215
+        }
+    },
+    {
+        "contract_address": "0xc519978327c527a6ced39ee0a8c14389e0bbfa92",
+        "date_add": "2024-05-22 10:04:27",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "PUNJABPEPEINU"
+        ],
+        "holders": {
+            "ETH": 180
+        }
     }
 ]
