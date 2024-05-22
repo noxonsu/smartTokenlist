@@ -158817,7 +158817,8 @@
         ],
         "holders": {
             "ETH": 337
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0b7c7a187555ff1fc5fde70ed474ca3dccb6621b",
@@ -158831,7 +158832,8 @@
         },
         "web_domains": [
             "bebe.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb8c94927741d9f04bb230043c85e3f9dfe3a26bd",
@@ -158845,7 +158847,8 @@
         ],
         "holders": {
             "ETH": 410
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc67ee30f0c0844fdf21fd2f647a3a9f80f898ee3",
@@ -158856,7 +158859,11 @@
         },
         "web_domains": [
             "babypepetoken.io"
-        ]
+        ],
+        "telegram_groups": [
+            "BabyPepeBep20"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x74e0cd2b89e55cf406ff2962e535a0cc6318bedc",
@@ -158870,7 +158877,11 @@
         ],
         "holders": {
             "ETH": 124
-        }
+        },
+        "emails": [
+            "trumpfamilyeth@gmail.com "
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4820d9a843b5fc8bd289d24a06d47f739047c748",
