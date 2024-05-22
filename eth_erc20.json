@@ -159430,7 +159430,9 @@
         },
         "web_domains": [
             "fit21crypto.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb1e3b2f0d70b85a4ac14b3380d2f17619488bb4c",
@@ -159449,7 +159451,9 @@
         },
         "web_domains": [
             "pepeosakasfishtaco.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x1c085195437738d73d75dc64bc5a3e098b7f93b1",
@@ -159468,7 +159472,9 @@
         ],
         "holders": {
             "ETH": 112
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x63bd3bbb6c5cb6e457c3f3cbb2d8aa2536e319f1",
@@ -159490,7 +159496,8 @@
         ],
         "holders": {
             "ETH": 358
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x15ecf5e2766d214db1bdb5e3d47a0e52c601e064",
@@ -159501,6 +159508,8 @@
         },
         "web_domains": [
             "swamps.fi"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
