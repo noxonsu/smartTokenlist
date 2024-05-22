@@ -159215,7 +159215,8 @@
         ],
         "holders": {
             "ETH": 62
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xbe07a7ea55ae6789c75a1495bf3c7edb78101754",
@@ -159237,7 +159238,8 @@
         ],
         "holders": {
             "ETH": 128
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x76b8cc0dfa1e39b104fb53c9e982d57782ff558d",
@@ -159251,7 +159253,8 @@
         ],
         "holders": {
             "ETH": 310
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf1556a78f6bcb528f3621d22c2aac71155609277",
@@ -159265,7 +159268,8 @@
         ],
         "holders": {
             "ETH": 158
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x80aec303f69acdbee39aa892354b80104c9b5398",
@@ -159279,7 +159283,8 @@
         ],
         "holders": {
             "ETH": 366
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5830bfcaa4160002d957b9e98f0ba0de776fa83c",
@@ -159298,7 +159303,9 @@
         },
         "web_domains": [
             "spurdo.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x3973c606b493eee0e14b2b5654d5c4049ce9c2d9",
