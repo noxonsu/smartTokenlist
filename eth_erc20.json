@@ -158608,7 +158608,9 @@
         },
         "web_domains": [
             "etf.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4fdcc369250cc749ef7726a10a6aad36a18f707c",
@@ -158623,7 +158625,8 @@
         ],
         "holders": {
             "ETH": 49
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x49c171dbb9422fe8816c782ec79c3ef5c3023880",
@@ -158637,7 +158640,11 @@
         ],
         "holders": {
             "ETH": 191
-        }
+        },
+        "emails": [
+            "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tdev@magaga-hat.vip"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x87000927a202bd955a629fd4bddcd8a8d113557e",
