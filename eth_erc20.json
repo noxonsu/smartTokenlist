@@ -158381,11 +158381,14 @@
             "boostai.gitbook.io"
         ],
         "telegram_groups": [
-            "BoostAIsupport"
+            "BoostAIsupport",
+            "BOOSTAIeth",
+            "boost_ai_eth_bot"
         ],
         "holders": {
             "ETH": 170
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x623cd3a3edf080057892aaf8d773bbb7a5c9b6e9",
@@ -158431,7 +158434,11 @@
         },
         "web_domains": [
             "chiprotocol.io"
-        ]
+        ],
+        "telegram_groups": [
+            "protocolchi"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x56e3b2a7498a5a031f40ee8e1ff9044b3233bd32",
