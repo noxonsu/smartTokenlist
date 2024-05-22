@@ -158828,7 +158828,10 @@
         ],
         "holders": {
             "ETH": 77
-        }
+        },
+        "web_domains": [
+            "bebe.com"
+        ]
     },
     {
         "contract_address": "0xb8c94927741d9f04bb230043c85e3f9dfe3a26bd",
@@ -158850,7 +158853,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 61
-        }
+        },
+        "web_domains": [
+            "babypepetoken.io"
+        ]
     },
     {
         "contract_address": "0x74e0cd2b89e55cf406ff2962e535a0cc6318bedc",
