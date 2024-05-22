@@ -159412,5 +159412,86 @@
             "info@vaneck.com"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0xe4b8583ccb95b25737c016ac88e539d0605949e8",
+        "date_add": "2024-05-22 22:04:14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0x8bd5c714b0af5e1ce3769bd93d90ebd1a7167248",
+        "date_add": "2024-05-22 22:04:14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0xb1e3b2f0d70b85a4ac14b3380d2f17619488bb4c",
+        "date_add": "2024-05-22 22:04:14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x3ce8bf99a986592920fbabad7bb8da94e9c99cee",
+        "date_add": "2024-05-22 22:04:14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 14
+        }
+    },
+    {
+        "contract_address": "0x1c085195437738d73d75dc64bc5a3e098b7f93b1",
+        "date_add": "2024-05-22 22:04:14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8
+        }
+    },
+    {
+        "contract_address": "0xd2967f45c4f384deea880f807be904762a3dea07",
+        "date_add": "2024-05-22 22:04:14",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "vyper.readthedocs.io"
+        ],
+        "holders": {
+            "ETH": 112
+        }
+    },
+    {
+        "contract_address": "0x63bd3bbb6c5cb6e457c3f3cbb2d8aa2536e319f1",
+        "date_add": "2024-05-22 22:04:14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x68370e85a4d439ced9dd91c0a29ab50551f94097",
+        "date_add": "2024-05-22 22:04:14",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.creepe.vip"
+        ],
+        "telegram_groups": [
+            "creepecoin"
+        ],
+        "holders": {
+            "ETH": 358
+        }
+    },
+    {
+        "contract_address": "0x15ecf5e2766d214db1bdb5e3d47a0e52c601e064",
+        "date_add": "2024-05-22 22:04:14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 189
+        }
     }
 ]
