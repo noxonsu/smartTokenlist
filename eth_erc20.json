@@ -159427,7 +159427,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 25
-        }
+        },
+        "web_domains": [
+            "fit21crypto.com"
+        ]
     },
     {
         "contract_address": "0xb1e3b2f0d70b85a4ac14b3380d2f17619488bb4c",
@@ -159443,7 +159446,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 14
-        }
+        },
+        "web_domains": [
+            "pepeosakasfishtaco.com"
+        ]
     },
     {
         "contract_address": "0x1c085195437738d73d75dc64bc5a3e098b7f93b1",
@@ -159492,6 +159498,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 189
-        }
+        },
+        "web_domains": [
+            "swamps.fi"
+        ]
     }
 ]
