@@ -159065,7 +159065,8 @@
         ],
         "holders": {
             "ETH": 432
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x15384d5cc080ae6631470a8f52f14bdae87f61d6",
@@ -159087,7 +159088,11 @@
         ],
         "holders": {
             "ETH": 186
-        }
+        },
+        "emails": [
+            "contact-us@fldr.ai"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1c9451ebf7e63a4a4e0070cc796b5f412cce03ed",
@@ -159101,7 +159106,11 @@
         ],
         "holders": {
             "ETH": 316
-        }
+        },
+        "emails": [
+            "team@cultofkek.org"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xea22bdbcc6f5bc83e8710b664fdbf54feb7ff770",
@@ -159115,7 +159124,8 @@
         ],
         "holders": {
             "ETH": 27
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0454532d9a48348330d3ea46747cfa5f43d7fe40",
@@ -159125,11 +159135,13 @@
             "http"
         ],
         "telegram_groups": [
+            "ElonWifTrumpeth",
             "daumenfroscherc"
         ],
         "holders": {
             "ETH": 222
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2eb49d95f991fb67c168036cdd9f83606f7d5f61",
@@ -159143,7 +159155,8 @@
         },
         "web_domains": [
             "sprayberryathletics.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x57034d3db053eb736d8505677ab66c0de506fc19",
