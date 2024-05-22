@@ -159332,7 +159332,11 @@
         },
         "web_domains": [
             "fatherofpepe.xyz"
-        ]
+        ],
+        "telegram_groups": [
+            "FatherofPepe_official"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7b81cc9073ed4c293f5966abcac2bd5492396b39",
@@ -159354,7 +159358,8 @@
         ],
         "holders": {
             "ETH": 21
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb9b424df0fa8f48a4d6476d8e2fcd16160bb4796",
@@ -159384,7 +159389,11 @@
         ],
         "holders": {
             "ETH": 18
-        }
+        },
+        "emails": [
+            "dev@trumpcoin.cash"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x72899247617201e4d7d6a7d78162671147292b93",
@@ -159398,6 +159407,10 @@
         },
         "web_domains": [
             "vaneck.com"
-        ]
+        ],
+        "emails": [
+            "info@vaneck.com"
+        ],
+        "p6": true
     }
 ]
