@@ -29422,8 +29422,8 @@
         "contract_address": "0x2c5f5158889631d02e0cf4d33f6d83fbc8846b9a",
         "sourceScanned": "processed",
         "telegram_groups": [
-            "FLIPPERPEPEETH",
-            "flipperpepecoineth"
+            "flipperpepecoineth",
+            "FLIPPERPEPEETH"
         ],
         "holders": {
             "ETH": 42
@@ -158690,7 +158690,9 @@
         ],
         "holders": {
             "ETH": 58
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x1fdd61ef9a5c31b9a2abc7d39c139c779e8412af",
@@ -158715,7 +158717,9 @@
         },
         "web_domains": [
             "bitski.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xcc665390b03c5d324d8faf81c15ecee29a73bcb4",
@@ -158737,7 +158741,9 @@
         },
         "web_domains": [
             "educoin.network"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe41c5e5cfc5a2d1f084a4cedff32062bd9d08fd5",
@@ -158751,7 +158757,8 @@
         ],
         "holders": {
             "ETH": 140
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa441cf75bcfb5833cb1ba7c93a0721ae9b292789",
@@ -158763,7 +158770,9 @@
         ],
         "holders": {
             "ETH": 16
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x21a4c219149561c79bbb39820e805c6ff400890a",
@@ -158773,11 +158782,13 @@
             "flipperpepe.vip"
         ],
         "telegram_groups": [
-            "flipperpepecoineth"
+            "flipperpepecoineth",
+            "FLIPPERPEPEETH"
         ],
         "holders": {
             "ETH": 215
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc519978327c527a6ced39ee0a8c14389e0bbfa92",
