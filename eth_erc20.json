@@ -159295,7 +159295,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 55
-        }
+        },
+        "web_domains": [
+            "spurdo.com"
+        ]
     },
     {
         "contract_address": "0x3973c606b493eee0e14b2b5654d5c4049ce9c2d9",
@@ -159319,7 +159322,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 285
-        }
+        },
+        "web_domains": [
+            "fatherofpepe.xyz"
+        ]
     },
     {
         "contract_address": "0x7b81cc9073ed4c293f5966abcac2bd5492396b39",
@@ -159382,6 +159388,9 @@
         ],
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "vaneck.com"
+        ]
     }
 ]
