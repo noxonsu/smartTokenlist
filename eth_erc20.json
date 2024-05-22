@@ -158371,5 +158371,71 @@
             "ETH": 67
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xa2ce8366603f3fffc460bef0fb90e980c9337967",
+        "date_add": "2024-05-22 00:15:50",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "boostai.bot",
+            "boostai.gitbook.io"
+        ],
+        "telegram_groups": [
+            "BoostAIsupport"
+        ],
+        "holders": {
+            "ETH": 170
+        }
+    },
+    {
+        "contract_address": "0x623cd3a3edf080057892aaf8d773bbb7a5c9b6e9",
+        "date_add": "2024-05-22 00:15:50",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 688
+        }
+    },
+    {
+        "contract_address": "0x3d18be839f73f8850c45521216a6e80bb2c0aef4",
+        "date_add": "2024-05-22 00:15:50",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "EthVErc"
+        ],
+        "holders": {
+            "ETH": 61
+        }
+    },
+    {
+        "contract_address": "0xd95a3081e2b47b780a21f7c93c513bf95f4e89d2",
+        "date_add": "2024-05-22 00:15:50",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 99
+        }
+    },
+    {
+        "contract_address": "0x6720b359b99502f5a748ef4aa12c2b1b7319a5d6",
+        "date_add": "2024-05-22 00:15:50",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x60abb55c8488698153db0af2af362edb25a505e3",
+        "date_add": "2024-05-22 00:15:50",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0x56e3b2a7498a5a031f40ee8e1ff9044b3233bd32",
+        "date_add": "2024-05-22 00:15:50",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 121
+        }
     }
 ]
