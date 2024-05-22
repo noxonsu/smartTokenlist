@@ -158927,7 +158927,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 3
-        }
+        },
+        "web_domains": [
+            "ethtrendingnetwork.com"
+        ]
     },
     {
         "contract_address": "0x07ecdbf993ed0925dd024c8ff1bd15871fcfee38",
@@ -158989,7 +158992,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "trycreative.ai"
+        ]
     },
     {
         "contract_address": "0xfa0460097248642d69bfb223bab5999507a8c23d",
