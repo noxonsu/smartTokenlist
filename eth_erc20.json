@@ -158590,5 +158590,61 @@
             "ETH": 178
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x29eba991f9d9e71c6bbd69cb71c074193fd877fd",
+        "date_add": "2024-05-22 06:05:14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0xda1266b512baecfed27b5bfa47f403da9507628b",
+        "date_add": "2024-05-22 06:05:14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0x4fdcc369250cc749ef7726a10a6aad36a18f707c",
+        "date_add": "2024-05-22 06:05:14",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "orin-ai.cloud",
+            "docs.orin-ai.cloud"
+        ],
+        "telegram_groups": [
+            "ORINai_ETH"
+        ],
+        "holders": {
+            "ETH": 49
+        }
+    },
+    {
+        "contract_address": "0x49c171dbb9422fe8816c782ec79c3ef5c3023880",
+        "date_add": "2024-05-22 06:05:14",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "magaga-hat.vip"
+        ],
+        "telegram_groups": [
+            "MAGAGA_Coin_ETH"
+        ],
+        "holders": {
+            "ETH": 191
+        }
+    },
+    {
+        "contract_address": "0x87000927a202bd955a629fd4bddcd8a8d113557e",
+        "date_add": "2024-05-22 06:05:14",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "KentoErc20"
+        ],
+        "holders": {
+            "ETH": 428
+        }
     }
 ]
