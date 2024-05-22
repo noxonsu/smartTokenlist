@@ -158428,7 +158428,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 20
-        }
+        },
+        "web_domains": [
+            "chiprotocol.io"
+        ]
     },
     {
         "contract_address": "0x56e3b2a7498a5a031f40ee8e1ff9044b3233bd32",
