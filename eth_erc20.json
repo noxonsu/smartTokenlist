@@ -158486,7 +158486,8 @@
         ],
         "holders": {
             "ETH": 197
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xdc658205b287d2341376205417be846c5adc09dc",
@@ -158497,7 +158498,9 @@
         },
         "web_domains": [
             "mewcats.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0c37bcf456bc661c14d596683325623076d7e283",
@@ -158541,7 +158544,8 @@
         ],
         "holders": {
             "ETH": 292
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x33426811490de0cbc631af08e2f4c1cca8e1992c",
@@ -158552,7 +158556,9 @@
         },
         "web_domains": [
             "bitcoinpizzaindex.net"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x69420996c8e2e6da830db19194a728f4ffc57ca9",
@@ -158582,6 +158588,7 @@
         ],
         "holders": {
             "ETH": 178
-        }
+        },
+        "p6": true
     }
 ]
