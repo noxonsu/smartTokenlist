@@ -152061,9 +152061,9 @@
         ],
         "telegram_groups": [
             "pog_portal",
+            "MonkasErc20",
             "strongbadcoin",
-            "SpaceKaren_ERC",
-            "MonkasErc20"
+            "SpaceKaren_ERC"
         ],
         "holders": {
             "ETH": 252
@@ -155243,10 +155243,10 @@
         ],
         "telegram_groups": [
             "pog_portal",
-            "SpaceKaren_ERC",
-            "strongbadcoin",
+            "PoggersToken",
             "MonkasErc20",
-            "PoggersToken"
+            "strongbadcoin",
+            "SpaceKaren_ERC"
         ],
         "holders": {
             "ETH": 357
@@ -156863,11 +156863,11 @@
         ],
         "telegram_groups": [
             "pog_portal",
-            "SpaceKaren_ERC",
-            "DARKMAGAerc20",
+            "PoggersToken",
             "strongbadcoin",
             "MonkasErc20",
-            "PoggersToken"
+            "DARKMAGAerc20",
+            "SpaceKaren_ERC"
         ],
         "holders": {
             "ETH": 470
@@ -157035,13 +157035,13 @@
             "edition.cnn.com"
         ],
         "telegram_groups": [
-            "SpaceKaren_ERC",
-            "YUGE_is",
             "pog_portal",
-            "MonkasErc20",
-            "strongbadcoin",
+            "PoggersToken",
             "DARKMAGAerc20",
-            "PoggersToken"
+            "MonkasErc20",
+            "YUGE_is",
+            "strongbadcoin",
+            "SpaceKaren_ERC"
         ],
         "holders": {
             "ETH": 37
@@ -158129,14 +158129,14 @@
             "officialdatboi.xyz"
         ],
         "telegram_groups": [
-            "YUGE_is",
-            "DatBoiEntrance",
-            "SpaceKaren_ERC",
-            "pog_portal",
+            "PoggersToken",
+            "MonkasErc20",
             "DARKMAGAerc20",
             "strongbadcoin",
-            "MonkasErc20",
-            "PoggersToken"
+            "SpaceKaren_ERC",
+            "pog_portal",
+            "DatBoiEntrance",
+            "YUGE_is"
         ],
         "holders": {
             "ETH": 27
@@ -160216,7 +160216,8 @@
         ],
         "holders": {
             "ETH": 100
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6ed6dab7a36a48b689aff1e86c28d7149ca0731c",
@@ -160238,11 +160239,20 @@
             "wickederc20.com"
         ],
         "telegram_groups": [
+            "PoggersToken",
+            "MonkasErc20",
+            "strongbadcoin",
+            "DARKMAGAerc20",
+            "SpaceKaren_ERC",
+            "pog_portal",
+            "DatBoiEntrance",
+            "YUGE_is",
             "wickederc20"
         ],
         "holders": {
             "ETH": 205
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x28f5f77a28450bb8c03b4e7cf36f35d594bc7a6a",
@@ -160252,11 +160262,13 @@
             "jepecoin.com"
         ],
         "telegram_groups": [
-            "JepeCoin"
+            "JepeCoin",
+            "jepecoin"
         ],
         "holders": {
             "ETH": 41
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa54fc268101c8b97de19ef3141d34751a11996b2",
@@ -160302,6 +160314,7 @@
         ],
         "holders": {
             "ETH": 208
-        }
+        },
+        "p6": true
     }
 ]
