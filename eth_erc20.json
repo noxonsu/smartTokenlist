@@ -159930,5 +159930,80 @@
         "holders": {
             "ETH": 52
         }
+    },
+    {
+        "contract_address": "0xe1f31762864ecc40a0e91313bb94bf9a3f85cba0",
+        "date_add": "2024-05-23 06:05:10",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "journeyofpepe.xyz"
+        ],
+        "telegram_groups": [
+            "journeyofpepe"
+        ],
+        "holders": {
+            "ETH": 99
+        }
+    },
+    {
+        "contract_address": "0x0e75245ddb47a93c1842f672608cea7a00c28e2d",
+        "date_add": "2024-05-23 06:05:10",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xf033ce0caef8964732742a97684a470499f977da",
+        "date_add": "2024-05-23 06:05:10",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "everpepe.vip"
+        ],
+        "telegram_groups": [
+            "EverPepe"
+        ],
+        "holders": {
+            "ETH": 73
+        }
+    },
+    {
+        "contract_address": "0x67cd8a53b3491fe1b33330e9f15efcf98faa0e13",
+        "date_add": "2024-05-23 06:05:10",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "pepeclassic_eth"
+        ],
+        "holders": {
+            "ETH": 680
+        }
+    },
+    {
+        "contract_address": "0x12348cecbb42772397df588946eb291a06041bf9",
+        "date_add": "2024-05-23 06:05:10",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "trumpcoineth.com"
+        ],
+        "telegram_groups": [
+            "TRUMPCOIN_ERC"
+        ],
+        "holders": {
+            "ETH": 216
+        }
+    },
+    {
+        "contract_address": "0xb8a155f5b7bbbefb980e1f8550dd88318d3610e7",
+        "date_add": "2024-05-23 06:05:10",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "Takeamericabacktoken.com"
+        ],
+        "telegram_groups": [
+            "takeamericabackUSA"
+        ],
+        "holders": {
+            "ETH": 154
+        }
     }
 ]
