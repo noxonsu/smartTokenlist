@@ -160329,7 +160329,8 @@
         ],
         "holders": {
             "ETH": 334
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3fbff89dba68bb60b77d1e43958956c45bc0284a",
@@ -160351,7 +160352,8 @@
         ],
         "holders": {
             "ETH": 71
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd4d64c1c2d7f711c2981292164cde32eb981afc7",
@@ -160365,7 +160367,8 @@
         ],
         "holders": {
             "ETH": 200
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd2117311f5fedbeb6ce83594024a96bb9f9af2f2",
@@ -160379,7 +160382,11 @@
         ],
         "holders": {
             "ETH": 98
-        }
+        },
+        "emails": [
+            " hello@basedbunny.wtf \ufffd&nbsp; "
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x39b1f7c5b1ae6a3cb9bbbd616b44ced9f53882e0",
@@ -160404,7 +160411,9 @@
         ],
         "holders": {
             "ETH": 453
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x836beed5235b794fa38e86a9ad1680035f607b12",
@@ -160423,7 +160432,11 @@
         },
         "web_domains": [
             "trusteeglobal.com"
-        ]
+        ],
+        "telegram_groups": [
+            "trustee_ua"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa33d9339847a4f89c3e514462d224e816b240dea",
