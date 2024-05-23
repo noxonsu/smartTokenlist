@@ -159667,7 +159667,14 @@
         },
         "web_domains": [
             "teamtoken.com"
-        ]
+        ],
+        "telegram_groups": [
+            "teamtoken"
+        ],
+        "emails": [
+            "info@teamtoken.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4ade2b180f65ed752b6f1296d0418ad21eb578c0",
@@ -159678,11 +159685,13 @@
             "kekistan-erc.vip"
         ],
         "telegram_groups": [
+            "Kekistanentry",
             "kekistancoineth"
         ],
         "holders": {
             "ETH": 426
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x599baa3859c5dfdb1b8e647614b16cc543a2189c",
@@ -159696,7 +159705,8 @@
         ],
         "holders": {
             "ETH": 188
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc734e5279a19cf8c98c758b07dd4fccd3754a319",
@@ -159710,7 +159720,8 @@
         ],
         "holders": {
             "ETH": 66
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa6a6ee8735b787acac70dd203390c203531b4d0b",
@@ -159724,7 +159735,8 @@
         ],
         "holders": {
             "ETH": 225
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe5a52d3567bec712ecc9ab4657da71230195ee27",
@@ -159738,7 +159750,8 @@
         ],
         "holders": {
             "ETH": 269
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x87dd7c4d897ebcb6f647ed334756fbd92085ef37",
