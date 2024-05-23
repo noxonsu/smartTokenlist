@@ -160118,7 +160118,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 227
-        }
+        },
+        "web_domains": [
+            "doggydoggyhome.com"
+        ]
     },
     {
         "contract_address": "0x186514400e52270cef3d80e1c6f8d10a75d47344",
