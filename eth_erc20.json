@@ -160106,11 +160106,14 @@
             "www.peepthetoad.site"
         ],
         "telegram_groups": [
-            "PEEPTHETOAD_ETH"
+            "PEEPTHETOAD_ETH",
+            "peepthetoad_eth",
+            "peepthetoad"
         ],
         "holders": {
             "ETH": 34
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x09d92c109b475dd513292c76544b4e250da13faa",
@@ -160121,7 +160124,12 @@
         },
         "web_domains": [
             "doggydoggyhome.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "info@doggydoggyhome.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x186514400e52270cef3d80e1c6f8d10a75d47344",
@@ -160161,7 +160169,8 @@
         ],
         "holders": {
             "ETH": 387
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x25aaafab15a524593ea5f19c59d51a4612d3dee8",
@@ -160172,7 +160181,9 @@
         ],
         "holders": {
             "ETH": 82
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x11581582aa816c8293e67c726af49fc2c8b98c6e",
