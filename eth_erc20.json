@@ -159554,7 +159554,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 29
-        }
+        },
+        "web_domains": [
+            "mazze.io"
+        ]
     },
     {
         "contract_address": "0x58f27ecfb84034f093d57397f744bfc6bebed27d",
@@ -159625,7 +159628,10 @@
         ],
         "holders": {
             "ETH": 142
-        }
+        },
+        "web_domains": [
+            "wrappedpepe.vip"
+        ]
     },
     {
         "contract_address": "0xa499648fd0e80fd911972bbeb069e4c20e68bf22",
