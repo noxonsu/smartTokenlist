@@ -160031,7 +160031,8 @@
         ],
         "holders": {
             "ETH": 187
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3814ff625fdeaa6ca9f5306fa401fa2af57fb478",
@@ -160045,7 +160046,8 @@
         ],
         "holders": {
             "ETH": 222
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8f5bfb8c7fd2d26e1f811ad342c413aeb1f256ae",
@@ -160059,7 +160061,8 @@
         ],
         "holders": {
             "ETH": 318
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf37963d4fabb5010d15fa6e1bf6498d4ee03c893",
@@ -160070,7 +160073,9 @@
         },
         "web_domains": [
             "rkitty.xyz"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x45e82579792dddf08cb3a037086604c262d78065",
@@ -160081,7 +160086,9 @@
         },
         "web_domains": [
             "illuminex.xyz"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xa533f744b179f2431f5395978e391107dc76e103",
