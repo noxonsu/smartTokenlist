@@ -160486,11 +160486,13 @@
             "www.pupucat.vip"
         ],
         "telegram_groups": [
+            "PUPUethportal",
             "pupuethportal"
         ],
         "holders": {
             "ETH": 83
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x85de3add465a219ee25e04d22c39ab027cf5c12e",
@@ -160512,7 +160514,8 @@
         ],
         "holders": {
             "ETH": 9
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5026cba0f56e5d0b23ce408461a1a2576ca2d6c2",
@@ -160522,11 +160525,13 @@
             "cvltofpepe.com"
         ],
         "telegram_groups": [
+            "cvltofpepe",
             "cv"
         ],
         "holders": {
             "ETH": 96
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x967f7e22b6267157408a1f5b529d1fd54e2d98a1",
@@ -160540,7 +160545,11 @@
         ],
         "holders": {
             "ETH": 90
-        }
+        },
+        "emails": [
+            "\n          team@zeuscoin.app\n        "
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6106292cfc8994a4483702f6fb05aca80e7fbae4",
@@ -160551,7 +160560,12 @@
         ],
         "holders": {
             "ETH": 136
-        }
+        },
+        "telegram_groups": [
+            "RaidTechTG",
+            "X_RaidBot"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x0f8958c757b65881cec98028cae0c4ee45726eae",
@@ -160573,7 +160587,8 @@
         ],
         "holders": {
             "ETH": 65
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x35ff02df6cf1031422f202c3b4e091baca01dd00",
