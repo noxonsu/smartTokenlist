@@ -160773,5 +160773,92 @@
             "fuzukitoken"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x3ce5babf87aaf0a522265618faf609cdcc7a5a37",
+        "date_add": "2024-05-23 22:04:17",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ethereum_etf_eth"
+        ],
+        "holders": {
+            "ETH": 62
+        }
+    },
+    {
+        "contract_address": "0x110cf1389d202ecb25a8e8f772a231cc223ffa00",
+        "date_add": "2024-05-23 22:04:17",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "EthereumTrumpFuckers"
+        ],
+        "holders": {
+            "ETH": 43
+        }
+    },
+    {
+        "contract_address": "0x4fa98f6c47adab7144cc5e9ca694f178dda84f41",
+        "date_add": "2024-05-23 22:04:17",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 43
+        }
+    },
+    {
+        "contract_address": "0x2c74dd92b5a46b9d64a29de0085d9eb7c56ec2b9",
+        "date_add": "2024-05-23 22:04:17",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 17
+        }
+    },
+    {
+        "contract_address": "0x1cb9c1c8042e84a4b3926efc184da408c941b29c",
+        "date_add": "2024-05-23 22:04:17",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0xc98807ca213a5a858206ca3326122f328be970b9",
+        "date_add": "2024-05-23 22:04:17",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 99
+        }
+    },
+    {
+        "contract_address": "0xcb12c1763d3264b3ca1fe9a27e59e2f41b861513",
+        "date_add": "2024-05-23 22:04:17",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "docs.frax.com"
+        ],
+        "holders": {
+            "ETH": 51
+        }
+    },
+    {
+        "contract_address": "0x735e614184ec17bfddcee46360101d48325a0bb6",
+        "date_add": "2024-05-23 22:04:17",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0x603df14e36dbfa18088a46de05163f38f6e402e0",
+        "date_add": "2024-05-23 22:04:17",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mcdonaldshat.vip"
+        ],
+        "telegram_groups": [
+            "McHatETH"
+        ],
+        "holders": {
+            "ETH": 61
+        }
     }
 ]
