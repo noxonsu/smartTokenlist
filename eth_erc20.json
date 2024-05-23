@@ -159511,5 +159511,128 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xc961da88bb5e8ee2ba7dfd4c62a875ef80f7202f",
+        "date_add": "2024-05-23 00:15:51",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.haram.bid"
+        ],
+        "telegram_groups": [
+            "haramerc"
+        ],
+        "holders": {
+            "ETH": 2017
+        }
+    },
+    {
+        "contract_address": "0xe8aeda058469eb81fed0365395ef356227277abf",
+        "date_add": "2024-05-23 00:15:51",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 271
+        }
+    },
+    {
+        "contract_address": "0x9634bdb20bbab07bb52d279fa6e0c53ccc89c879",
+        "date_add": "2024-05-23 00:15:51",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pepegaeth.wtf"
+        ],
+        "telegram_groups": [
+            "Pepegaportal"
+        ],
+        "holders": {
+            "ETH": 187
+        }
+    },
+    {
+        "contract_address": "0x772f0a1a17030cf4d2455dd5ab24b99a806b1c21",
+        "date_add": "2024-05-23 00:15:51",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 29
+        }
+    },
+    {
+        "contract_address": "0x58f27ecfb84034f093d57397f744bfc6bebed27d",
+        "date_add": "2024-05-23 00:15:51",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mojoerc.com"
+        ],
+        "telegram_groups": [
+            "mojo_eth"
+        ],
+        "holders": {
+            "ETH": 310
+        }
+    },
+    {
+        "contract_address": "0x921cf78e9a06b97d60c4bd6546d672b90594dba7",
+        "date_add": "2024-05-23 00:15:51",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x7970489a543fb237abab63d62524d8a5ce165b86",
+        "date_add": "2024-05-23 00:15:51",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0xf9078fb962a7d13f55d40d49c8aa6472abd1a5a6",
+        "date_add": "2024-05-23 00:15:51",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0x816306702757764e706d3921955cbdf9012fba7e",
+        "date_add": "2024-05-23 00:15:51",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "andymancoin.vip"
+        ],
+        "telegram_groups": [
+            "andymancoin"
+        ],
+        "holders": {
+            "ETH": 148
+        }
+    },
+    {
+        "contract_address": "0x714f39713db1a1d40a9197bf56be59d214086500",
+        "date_add": "2024-05-23 00:15:51",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 31
+        }
+    },
+    {
+        "contract_address": "0xf5bcbf6d0f547656fd57b20a8ae059789e49f3e2",
+        "date_add": "2024-05-23 00:15:51",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "wpepeverify"
+        ],
+        "holders": {
+            "ETH": 142
+        }
+    },
+    {
+        "contract_address": "0xa499648fd0e80fd911972bbeb069e4c20e68bf22",
+        "date_add": "2024-05-23 00:15:51",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 601
+        }
     }
 ]
