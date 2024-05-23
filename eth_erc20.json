@@ -78793,8 +78793,8 @@
             "tokenmint.io"
         ],
         "telegram_groups": [
-            "remilios",
-            "LunaInuERC20"
+            "LunaInuERC20",
+            "remilios"
         ],
         "holders": {
             "ETH": 0
@@ -90644,8 +90644,8 @@
             "ETH": 166
         },
         "telegram_groups": [
-            "remilios",
-            "LunaInuERC20"
+            "LunaInuERC20",
+            "remilios"
         ],
         "p6": true,
         "p8": true
@@ -91331,8 +91331,8 @@
             "ETH": 102
         },
         "telegram_groups": [
-            "remilios",
-            "LunaInuERC20"
+            "LunaInuERC20",
+            "remilios"
         ],
         "p6": true,
         "p8": true
@@ -104183,8 +104183,8 @@
             "ETH": 408
         },
         "telegram_groups": [
-            "remilios",
-            "LunaInuERC20"
+            "LunaInuERC20",
+            "remilios"
         ],
         "p6": true,
         "p8": true
@@ -126297,8 +126297,8 @@
             "ETH": 195
         },
         "telegram_groups": [
-            "remilios",
-            "LunaInuERC20"
+            "LunaInuERC20",
+            "remilios"
         ],
         "p6": true
     },
@@ -129845,8 +129845,8 @@
             "ETH": 686
         },
         "telegram_groups": [
-            "remilios",
-            "LunaInuERC20"
+            "LunaInuERC20",
+            "remilios"
         ],
         "p6": true
     },
@@ -134944,8 +134944,8 @@
             "ETH": 151
         },
         "telegram_groups": [
-            "remilios",
-            "LunaInuERC20"
+            "LunaInuERC20",
+            "remilios"
         ],
         "p6": true
     },
@@ -145935,7 +145935,12 @@
         ],
         "holders": {
             "ETH": 3505
-        }
+        },
+        "telegram_groups": [
+            "LunaInuERC20",
+            "remilios"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x620033bebc2db732e62afb8eac55835f3f23db94",
@@ -155205,7 +155210,12 @@
         ],
         "holders": {
             "ETH": 887
-        }
+        },
+        "telegram_groups": [
+            "LunaInuERC20",
+            "remilios"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdcfe7cdb5b1bb7bfd4ed57b83efd49fe9cd19b2e",
@@ -159779,7 +159789,8 @@
         ],
         "holders": {
             "ETH": 12
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x67ad8f017b21e03f85f04a295a2079559ef79e28",
@@ -159794,14 +159805,18 @@
         "date_add": "2024-05-23 02:14:48",
         "sourceScanned": "processed",
         "telegram_groups": [
-            "CrazyPepeETH"
+            "UniquePepeMan",
+            "CrazyPepeETH",
+            "HD_Bois",
+            "CrazyPepeGateway"
         ],
         "holders": {
             "ETH": 59
         },
         "web_domains": [
             "crazypepe.vip"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xdc38a4846d811572452cb4ce747dc9f5f509820f",
@@ -159812,7 +159827,9 @@
         },
         "web_domains": [
             "simple-yfi.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6fc2f1044a3b9bb3e43a43ec8f840843ed753061",
@@ -159823,7 +159840,12 @@
         ],
         "holders": {
             "ETH": 75
-        }
+        },
+        "telegram_groups": [
+            "LunaInuERC20",
+            "remilios"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5e432eecd01c12ee7071ee9219c2477a347da192",
@@ -159834,6 +159856,13 @@
         },
         "web_domains": [
             "arqx.ai"
-        ]
+        ],
+        "telegram_groups": [
+            "ARQxAI"
+        ],
+        "emails": [
+            "hello@arqx.io"
+        ],
+        "p6": true
     }
 ]
