@@ -160446,11 +160446,13 @@
             "www.nerofy.io"
         ],
         "telegram_groups": [
+            "NeroFyERC",
             "NerofyErc"
         ],
         "holders": {
             "ETH": 194
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x90959702eb94b86be99b47e9e30499d6d245ff4d",
