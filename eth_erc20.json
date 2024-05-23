@@ -160097,5 +160097,97 @@
         "holders": {
             "ETH": 325
         }
+    },
+    {
+        "contract_address": "0xea422edd25710a9ab0f9670366c8a6bacdd81acc",
+        "date_add": "2024-05-23 12:06:30",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.peepthetoad.site"
+        ],
+        "telegram_groups": [
+            "PEEPTHETOAD_ETH"
+        ],
+        "holders": {
+            "ETH": 34
+        }
+    },
+    {
+        "contract_address": "0x09d92c109b475dd513292c76544b4e250da13faa",
+        "date_add": "2024-05-23 12:06:30",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 227
+        }
+    },
+    {
+        "contract_address": "0x186514400e52270cef3d80e1c6f8d10a75d47344",
+        "date_add": "2024-05-23 12:06:30",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org"
+        ],
+        "holders": {
+            "ETH": 74
+        }
+    },
+    {
+        "contract_address": "0x6acc77b725139490987713c1b79fadd0cb142ad9",
+        "date_add": "2024-05-23 12:06:30",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.popodogeth.com"
+        ],
+        "telegram_groups": [
+            "POPOethportal"
+        ],
+        "holders": {
+            "ETH": 387
+        }
+    },
+    {
+        "contract_address": "0x25aaafab15a524593ea5f19c59d51a4612d3dee8",
+        "date_add": "2024-05-23 12:06:30",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "holograph.xyz"
+        ],
+        "holders": {
+            "ETH": 82
+        }
+    },
+    {
+        "contract_address": "0x11581582aa816c8293e67c726af49fc2c8b98c6e",
+        "date_add": "2024-05-23 12:06:30",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 85
+        }
+    },
+    {
+        "contract_address": "0xe95e7c4ad2c419af2a903e9fe8c45e66626aabaf",
+        "date_add": "2024-05-23 12:06:30",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "KermitETHEREUM"
+        ],
+        "holders": {
+            "ETH": 851
+        }
     }
 ]
