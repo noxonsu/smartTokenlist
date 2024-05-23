@@ -159546,7 +159546,11 @@
         ],
         "holders": {
             "ETH": 187
-        }
+        },
+        "emails": [
+            "teampepega@pepegaeth.wtf"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x772f0a1a17030cf4d2455dd5ab24b99a806b1c21",
@@ -159557,7 +159561,13 @@
         },
         "web_domains": [
             "mazze.io"
-        ]
+        ],
+        "telegram_groups": [
+            "MazzeLabs",
+            "eliteminer_edwin",
+            "Equin0x0"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x58f27ecfb84034f093d57397f744bfc6bebed27d",
@@ -159571,7 +159581,8 @@
         ],
         "holders": {
             "ETH": 310
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x921cf78e9a06b97d60c4bd6546d672b90594dba7",
@@ -159609,7 +159620,11 @@
         ],
         "holders": {
             "ETH": 148
-        }
+        },
+        "emails": [
+            "CONTACT: team@andymancoin.vip "
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x714f39713db1a1d40a9197bf56be59d214086500",
@@ -159624,6 +159639,7 @@
         "date_add": "2024-05-23 00:15:51",
         "sourceScanned": "processed",
         "telegram_groups": [
+            "wpepeportal",
             "wpepeverify"
         ],
         "holders": {
@@ -159631,7 +159647,8 @@
         },
         "web_domains": [
             "wrappedpepe.vip"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa499648fd0e80fd911972bbeb069e4c20e68bf22",
