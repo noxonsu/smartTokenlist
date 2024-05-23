@@ -159864,5 +159864,70 @@
             "hello@arqx.io"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x0e5425cd1ea6726b051dea821d9c5a7c0d09b063",
+        "date_add": "2024-05-23 04:04:42",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x2f8f3ffdbc7ea90f25fd8678c1c14ac309dc0532",
+        "date_add": "2024-05-23 04:04:42",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mada.lol"
+        ],
+        "telegram_groups": [
+            "MADA_officialportal"
+        ],
+        "holders": {
+            "ETH": 132
+        }
+    },
+    {
+        "contract_address": "0xcb5c447567631b187eea240512ba2fbbc875ce1d",
+        "date_add": "2024-05-23 04:04:42",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 302
+        }
+    },
+    {
+        "contract_address": "0x5e9f7e92e742f73b990dca63c88325ed24666e84",
+        "date_add": "2024-05-23 04:04:42",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1196
+        }
+    },
+    {
+        "contract_address": "0xe0b2c86bbfde4827dc99f2ed41cbabfd32d07140",
+        "date_add": "2024-05-23 04:04:42",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 29
+        }
+    },
+    {
+        "contract_address": "0xe7b37dd3b76240c4b00ded1154af52ac24fb6f22",
+        "date_add": "2024-05-23 04:04:42",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x0c45332448ea9f6d2e919fc2b8bd7386507be2cb",
+        "date_add": "2024-05-23 04:04:42",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "AutismWorldOrder"
+        ],
+        "holders": {
+            "ETH": 52
+        }
     }
 ]
