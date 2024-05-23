@@ -159664,7 +159664,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 152
-        }
+        },
+        "web_domains": [
+            "teamtoken.com"
+        ]
     },
     {
         "contract_address": "0x4ade2b180f65ed752b6f1296d0418ad21eb578c0",
@@ -159782,7 +159785,10 @@
         ],
         "holders": {
             "ETH": 59
-        }
+        },
+        "web_domains": [
+            "crazypepe.vip"
+        ]
     },
     {
         "contract_address": "0xdc38a4846d811572452cb4ce747dc9f5f509820f",
@@ -159790,7 +159796,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 273
-        }
+        },
+        "web_domains": [
+            "simple-yfi.finance"
+        ]
     },
     {
         "contract_address": "0x6fc2f1044a3b9bb3e43a43ec8f840843ed753061",
@@ -159809,6 +159818,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 113
-        }
+        },
+        "web_domains": [
+            "arqx.ai"
+        ]
     }
 ]
