@@ -160805,7 +160805,11 @@
         },
         "web_domains": [
             "unrekt.net"
-        ]
+        ],
+        "telegram_groups": [
+            "unrektnet"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2c74dd92b5a46b9d64a29de0085d9eb7c56ec2b9",
@@ -160840,7 +160844,9 @@
         ],
         "holders": {
             "ETH": 51
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x735e614184ec17bfddcee46360101d48325a0bb6",
@@ -160862,6 +160868,7 @@
         ],
         "holders": {
             "ETH": 61
-        }
+        },
+        "p6": true
     }
 ]
