@@ -159943,7 +159943,8 @@
         ],
         "holders": {
             "ETH": 99
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0e75245ddb47a93c1842f672608cea7a00c28e2d",
@@ -159965,7 +159966,11 @@
         ],
         "holders": {
             "ETH": 73
-        }
+        },
+        "emails": [
+            "Contact Us: team@everpepe.vip"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x67cd8a53b3491fe1b33330e9f15efcf98faa0e13",
@@ -159990,7 +159995,11 @@
         ],
         "holders": {
             "ETH": 216
-        }
+        },
+        "emails": [
+            "info@trumpcoineth.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb8a155f5b7bbbefb980e1f8550dd88318d3610e7",
@@ -160004,6 +160013,10 @@
         ],
         "holders": {
             "ETH": 154
-        }
+        },
+        "emails": [
+            "Email:Takebackamericatoken@proton.me"
+        ],
+        "p6": true
     }
 ]
