@@ -160420,7 +160420,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 0
-        }
+        },
+        "web_domains": [
+            "trusteeglobal.com"
+        ]
     },
     {
         "contract_address": "0xa33d9339847a4f89c3e514462d224e816b240dea",
