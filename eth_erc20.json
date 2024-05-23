@@ -160067,7 +160067,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 104
-        }
+        },
+        "web_domains": [
+            "rkitty.xyz"
+        ]
     },
     {
         "contract_address": "0x45e82579792dddf08cb3a037086604c262d78065",
@@ -160075,7 +160078,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 204
-        }
+        },
+        "web_domains": [
+            "illuminex.xyz"
+        ]
     },
     {
         "contract_address": "0xa533f744b179f2431f5395978e391107dc76e103",
