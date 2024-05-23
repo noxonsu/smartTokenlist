@@ -160653,7 +160653,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 7
-        }
+        },
+        "web_domains": [
+            "littlehoppa.com"
+        ]
     },
     {
         "contract_address": "0x542732ff906437446d010ffb376ed3ab4c36ef7a",
@@ -160726,7 +160729,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 10
-        }
+        },
+        "web_domains": [
+            "nectr.energy"
+        ]
     },
     {
         "contract_address": "0x194243611115e267451fb8fe792b86ec53185cf7",
@@ -160734,7 +160740,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 15
-        }
+        },
+        "web_domains": [
+            "zoetis.com"
+        ]
     },
     {
         "contract_address": "0x63b0c0c2e4a1ef8e2862c64acc84e2459dc426cd",
@@ -160742,6 +160751,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 74
-        }
+        },
+        "web_domains": [
+            "fuzuki.io"
+        ]
     }
 ]
