@@ -160598,11 +160598,13 @@
             "kekecoin.pro"
         ],
         "telegram_groups": [
+            "KEKE_official",
             "keke_official"
         ],
         "holders": {
             "ETH": 180
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe42a408cb219b3752cf5ac137d25e5daf8792cec",
@@ -160620,13 +160622,15 @@
         "date_add": "2024-05-23 18:05:12",
         "sourceScanned": "processed",
         "telegram_groups": [
-            "TNREntry"
+            "TNREntry",
+            "NightRidersPortal"
         ],
         "holders": {
             "ETH": 285
         },
         "web_domains": [
             "thenightriderscoin.com"
-        ]
+        ],
+        "p6": true
     }
 ]
