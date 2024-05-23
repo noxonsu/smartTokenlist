@@ -160203,5 +160203,105 @@
         "holders": {
             "ETH": 851
         }
+    },
+    {
+        "contract_address": "0x08671529d14130b82da813a117d43feb34fd3dd0",
+        "date_add": "2024-05-23 14:04:21",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ethierc.com"
+        ],
+        "telegram_groups": [
+            "ETHIERC"
+        ],
+        "holders": {
+            "ETH": 100
+        }
+    },
+    {
+        "contract_address": "0x6ed6dab7a36a48b689aff1e86c28d7149ca0731c",
+        "date_add": "2024-05-23 14:04:21",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ratdeneth"
+        ],
+        "holders": {
+            "ETH": 141
+        }
+    },
+    {
+        "contract_address": "0xc7346a375cf5eec52f6138046ebd22c37153f7be",
+        "date_add": "2024-05-23 14:04:21",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "knowyourmeme.com",
+            "wickederc20.com"
+        ],
+        "telegram_groups": [
+            "wickederc20"
+        ],
+        "holders": {
+            "ETH": 205
+        }
+    },
+    {
+        "contract_address": "0x28f5f77a28450bb8c03b4e7cf36f35d594bc7a6a",
+        "date_add": "2024-05-23 14:04:21",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "jepecoin.com"
+        ],
+        "telegram_groups": [
+            "JepeCoin"
+        ],
+        "holders": {
+            "ETH": 41
+        }
+    },
+    {
+        "contract_address": "0xa54fc268101c8b97de19ef3141d34751a11996b2",
+        "date_add": "2024-05-23 14:04:21",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0xd4e75971eaf78a8d93d96df530f1fff5f9f53288",
+        "date_add": "2024-05-23 14:04:21",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x1a65eb80a2ac3ea6e41d456ddd6e9cc5728bef7c",
+        "date_add": "2024-05-23 14:04:21",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x9bf74e535e8d2e2ff55c2ad1e1b2b83a2928625b",
+        "date_add": "2024-05-23 14:04:21",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8
+        }
+    },
+    {
+        "contract_address": "0x69961e71062cff75d9cd1e4321e98290ca1eac59",
+        "date_add": "2024-05-23 14:04:21",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "lordkeketh.com"
+        ],
+        "telegram_groups": [
+            "Lordkek_Erc20"
+        ],
+        "holders": {
+            "ETH": 208
+        }
     }
 ]
