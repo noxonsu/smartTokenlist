@@ -132325,8 +132325,8 @@
             "shib1.com"
         ],
         "telegram_groups": [
-            "Shib1Eth",
-            "MickkkeyEth"
+            "MickkkeyEth",
+            "Shib1Eth"
         ],
         "holders": {
             "ETH": 18
@@ -138133,9 +138133,9 @@
             "donkecoinerc.xyz"
         ],
         "telegram_groups": [
+            "MickkkeyEth",
             "DonkeCoinERC",
-            "Shib1Eth",
-            "MickkkeyEth"
+            "Shib1Eth"
         ],
         "holders": {
             "ETH": 191
@@ -160645,7 +160645,8 @@
         ],
         "holders": {
             "ETH": 283
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd92cad91673272da2559618b00fbc2f7409ad24e",
@@ -160656,7 +160657,9 @@
         },
         "web_domains": [
             "littlehoppa.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x542732ff906437446d010ffb376ed3ab4c36ef7a",
@@ -160678,7 +160681,8 @@
         ],
         "holders": {
             "ETH": 309
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x70a315180fb56b22c6d236e8f61f72418b466384",
@@ -160692,7 +160696,8 @@
         ],
         "holders": {
             "ETH": 155
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa65a0822f1be7d44277d465f47799c3892cf9767",
@@ -160703,11 +160708,15 @@
             "mindviscosityerc.xyz"
         ],
         "telegram_groups": [
-            "Mindviscosity_ERC"
+            "Mindviscosity_ERC",
+            "DonkeCoinERC",
+            "MickkkeyEth",
+            "Shib1Eth"
         ],
         "holders": {
             "ETH": 75
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x3df1a379415569471e56d15e9d818034df47ce3d",
@@ -160721,7 +160730,8 @@
         ],
         "holders": {
             "ETH": 121
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xca0df18d4ec04d9f9963f31b901cbe2a34baa036",
