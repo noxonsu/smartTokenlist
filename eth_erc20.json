@@ -161658,7 +161658,14 @@
         },
         "web_domains": [
             "godechain.com"
-        ]
+        ],
+        "telegram_groups": [
+            "godechain"
+        ],
+        "emails": [
+            "ggode996@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x1015fce7db67e8aa9a46fc7cd365e137e0a87913",
@@ -161704,7 +161711,9 @@
         },
         "web_domains": [
             "euroe.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0e8c87e014cc1ae7f4f290d722f7f0570eeefbc3",
@@ -161718,7 +161727,8 @@
         ],
         "holders": {
             "ETH": 46
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x19f78a898f3e3c2f40c6e0cd2ee5545f549d5e99",
@@ -161729,7 +161739,9 @@
         },
         "web_domains": [
             "deputydawgs.net"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xea561629b055b8264e2c5207c250ed9f19c5f11f",
@@ -161740,6 +161752,10 @@
         },
         "web_domains": [
             "buffdogecoin.io"
-        ]
+        ],
+        "telegram_groups": [
+            "buffdogecoinofficial"
+        ],
+        "p6": true
     }
 ]
