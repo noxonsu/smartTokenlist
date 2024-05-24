@@ -162006,7 +162006,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 274
-        }
+        },
+        "web_domains": [
+            "degensmerf.com"
+        ]
     },
     {
         "contract_address": "0x715c2f0830fb58e1a82f6ba520cdcebb2937087d",
