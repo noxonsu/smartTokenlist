@@ -161849,7 +161849,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 210
-        }
+        },
+        "web_domains": [
+            "supra.com"
+        ]
     },
     {
         "contract_address": "0x6a0e8b4d16d5271492bb151eb4767f25cfc23f03",
