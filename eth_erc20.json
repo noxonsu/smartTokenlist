@@ -161331,7 +161331,12 @@
         },
         "web_domains": [
             "kabochan.blog.jp"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "kabosu.calender@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa1d23bbef17f88fefc2ada631738e4c42e906a2e",
@@ -161345,7 +161350,8 @@
         ],
         "holders": {
             "ETH": 491
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe036c57b2dcfcdf7300c42ecc04aa611ee5f80af",
@@ -161381,7 +161387,8 @@
         ],
         "holders": {
             "ETH": 273
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6942806d1b2d5886d95ce2f04314ece8eb825833",
@@ -161395,7 +161402,11 @@
         ],
         "holders": {
             "ETH": 309
-        }
+        },
+        "emails": [
+            "info@groyper.vip"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xceb67a66c2c8a90980da3a50a3f96c07525a26cb",
@@ -161436,7 +161447,9 @@
         },
         "web_domains": [
             "bunnybunnydetroit.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xb46ef962550b6c16868294f62b0a0fd1b300079c",
@@ -161450,6 +161463,7 @@
         ],
         "holders": {
             "ETH": 147
-        }
+        },
+        "p6": true
     }
 ]
