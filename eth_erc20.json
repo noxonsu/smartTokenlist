@@ -161041,5 +161041,79 @@
             "ETH": 123
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x501f81d13780e228ab01ff0c9e9022747196d15f",
+        "date_add": "2024-05-24 02:15:27",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.eagleai.io",
+            "www.cyberscope.io",
+            "pinksale.notion.site"
+        ],
+        "telegram_groups": [
+            "EAGLEAI_OFFICIAL"
+        ],
+        "holders": {
+            "ETH": 68
+        }
+    },
+    {
+        "contract_address": "0x69babe9811cc86dcfc3b8f9a14de6470dd18eda4",
+        "date_add": "2024-05-24 02:15:27",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "babypepeth.com"
+        ],
+        "telegram_groups": [
+            "BABYPEPE0X69BABE"
+        ],
+        "holders": {
+            "ETH": 433
+        }
+    },
+    {
+        "contract_address": "0x05eaf0b7c7954ed6b4ae7b65f20a9af616df14b3",
+        "date_add": "2024-05-24 02:15:27",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "SuperPepe_ERC20"
+        ],
+        "holders": {
+            "ETH": 52
+        }
+    },
+    {
+        "contract_address": "0x0a65efb18bb310e66fb18935da0c0f9fb9fcfa06",
+        "date_add": "2024-05-24 02:15:27",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "poeerc.com"
+        ],
+        "telegram_groups": [
+            "Poeportalerc"
+        ],
+        "holders": {
+            "ETH": 337
+        }
+    },
+    {
+        "contract_address": "0x6070199f4365583e6a52b9eb6ecdafd231da475e",
+        "date_add": "2024-05-24 02:15:27",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Brettethportal"
+        ],
+        "holders": {
+            "ETH": 110
+        }
+    },
+    {
+        "contract_address": "0xedde435fa62965ce1a681140bf894e4c77948a28",
+        "date_add": "2024-05-24 02:15:27",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 70
+        }
     }
 ]
