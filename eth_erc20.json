@@ -161872,5 +161872,82 @@
         "holders": {
             "ETH": 15
         }
+    },
+    {
+        "contract_address": "0xa27700e179d6c8064d7d5ba6f8ad98eedb70e0af",
+        "date_add": "2024-05-24 18:05:27",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "WeareHARAMBE"
+        ],
+        "holders": {
+            "ETH": 565
+        }
+    },
+    {
+        "contract_address": "0x10c8798ebb8e18bcefaf67f77399297f9966899d",
+        "date_add": "2024-05-24 18:05:27",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "BlockscanAI"
+        ],
+        "holders": {
+            "ETH": 134
+        }
+    },
+    {
+        "contract_address": "0xc2abc125db39ac3cb2702a9eea674c3045960166",
+        "date_add": "2024-05-24 18:05:27",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0x7ed0a51f8e34e2dd0b2a6be29115b8cdea3e679b",
+        "date_add": "2024-05-24 18:05:27",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 184
+        }
+    },
+    {
+        "contract_address": "0xf3de712e02cbca64104f89040c36e8cc55eb93a3",
+        "date_add": "2024-05-24 18:05:27",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xfd62d8ede15dac6626ccad789d411d20285b6e1a",
+        "date_add": "2024-05-24 18:05:27",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xc91b666463721f272b72e39584bbb2ed12ce7cf1",
+        "date_add": "2024-05-24 18:05:27",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "knowyourmeme.com",
+            "www.poggerstoken.vip"
+        ],
+        "telegram_groups": [
+            "PoggersToken"
+        ],
+        "holders": {
+            "ETH": 91
+        }
+    },
+    {
+        "contract_address": "0x9332ad7f5a8b75024662588b7eee450c513ef9ac",
+        "date_add": "2024-05-24 18:05:27",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 20
+        }
     }
 ]
