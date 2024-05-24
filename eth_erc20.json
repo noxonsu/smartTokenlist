@@ -161655,7 +161655,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 95
-        }
+        },
+        "web_domains": [
+            "godechain.com"
+        ]
     },
     {
         "contract_address": "0x1015fce7db67e8aa9a46fc7cd365e137e0a87913",
@@ -161698,7 +161701,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 129
-        }
+        },
+        "web_domains": [
+            "euroe.com"
+        ]
     },
     {
         "contract_address": "0x0e8c87e014cc1ae7f4f290d722f7f0570eeefbc3",
@@ -161720,7 +161726,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 218
-        }
+        },
+        "web_domains": [
+            "deputydawgs.net"
+        ]
     },
     {
         "contract_address": "0xea561629b055b8264e2c5207c250ed9f19c5f11f",
@@ -161728,6 +161737,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "buffdogecoin.io"
+        ]
     }
 ]
