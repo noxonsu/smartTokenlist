@@ -161584,5 +161584,51 @@
         "holders": {
             "ETH": 311
         }
+    },
+    {
+        "contract_address": "0x5759cd0c7e2e0d0032474c79423f798e62aa3a39",
+        "date_add": "2024-05-24 12:05:57",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Cheems_ERC20"
+        ],
+        "holders": {
+            "ETH": 42
+        }
+    },
+    {
+        "contract_address": "0x996bedf3a0bedf126c70923db6499bf741291508",
+        "date_add": "2024-05-24 12:05:57",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "kabo_chan_eth"
+        ],
+        "holders": {
+            "ETH": 53
+        }
+    },
+    {
+        "contract_address": "0xb8d1e45c8e43dfb3eb977632d71efe2654f26380",
+        "date_add": "2024-05-24 12:05:57",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x360e7e819073777c6802255aff8a9ac2953a58f3",
+        "date_add": "2024-05-24 12:05:57",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 34
+        }
+    },
+    {
+        "contract_address": "0x08c163f8cd10e71075a5d1ad5f67038cb122943f",
+        "date_add": "2024-05-24 12:05:57",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
