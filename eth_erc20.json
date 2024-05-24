@@ -161486,7 +161486,8 @@
         ],
         "holders": {
             "ETH": 23
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x252619833b0b9bb10c47e3138c51c8d6a1daa2c7",
@@ -161508,7 +161509,8 @@
         ],
         "holders": {
             "ETH": 168
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x48d945d00127472f7944bde85db1c37aa4b4b489",
@@ -161522,7 +161524,8 @@
         ],
         "holders": {
             "ETH": 48
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1b3e85dcbe2c65dde659da219c8d9a1df909fda0",
@@ -161571,7 +161574,8 @@
         },
         "web_domains": [
             "momo.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x12ed306b2b46272157434fb17e2e721d65d9fbb3",
