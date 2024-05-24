@@ -161970,5 +161970,103 @@
         "holders": {
             "ETH": 20
         }
+    },
+    {
+        "contract_address": "0x5dfbf02313e1be7e8db5aa6f660433588338f201",
+        "date_add": "2024-05-24 22:04:54",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pepejrcoins.com"
+        ],
+        "telegram_groups": [
+            "PepeJuniorCoin"
+        ],
+        "holders": {
+            "ETH": 173
+        }
+    },
+    {
+        "contract_address": "0x4f49f8811844b85055814ddfa7528bf456ebf2f6",
+        "date_add": "2024-05-24 22:04:54",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "nova.engineer",
+            "docs.nova.engineer"
+        ],
+        "telegram_groups": [
+            "NovaEngineer"
+        ],
+        "holders": {
+            "ETH": 484
+        }
+    },
+    {
+        "contract_address": "0x9caeb3c057b6f75aac59a80bf2a0af290216315b",
+        "date_add": "2024-05-24 22:04:54",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 274
+        }
+    },
+    {
+        "contract_address": "0x715c2f0830fb58e1a82f6ba520cdcebb2937087d",
+        "date_add": "2024-05-24 22:04:54",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "peezycoin.vip"
+        ],
+        "telegram_groups": [
+            "PeezyCoin"
+        ],
+        "holders": {
+            "ETH": 79
+        }
+    },
+    {
+        "contract_address": "0x09b3b6c8bacabca4c3036e21be2093035c8970ff",
+        "date_add": "2024-05-24 22:04:54",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "alitatoken.com"
+        ],
+        "holders": {
+            "ETH": 835
+        }
+    },
+    {
+        "contract_address": "0x3c35026b7c26dada90c253403d290676a83110cb",
+        "date_add": "2024-05-24 22:04:54",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cammaincubator.com"
+        ],
+        "telegram_groups": [
+            "CammaPortal"
+        ],
+        "holders": {
+            "ETH": 58
+        }
+    },
+    {
+        "contract_address": "0xcc394f10545aeef24483d2347b32a34a44f20e6f",
+        "date_add": "2024-05-24 22:04:54",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 917
+        }
+    },
+    {
+        "contract_address": "0xaded4a284f5d6d8c01858eea78c9f054832e5454",
+        "date_add": "2024-05-24 22:04:54",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dolandtrempcoin.com"
+        ],
+        "telegram_groups": [
+            "dolandtrempcoin"
+        ],
+        "holders": {
+            "ETH": 162
+        }
     }
 ]
