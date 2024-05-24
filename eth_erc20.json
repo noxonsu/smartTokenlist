@@ -161771,7 +161771,8 @@
         ],
         "holders": {
             "ETH": 95
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x68fc5a3ed59c7d28afb87cb66c831c9e840014a1",
@@ -161797,7 +161798,8 @@
         ],
         "holders": {
             "ETH": 47
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7ae55f4edfd65815e95933b6b26f06c03c3de887",
@@ -161811,7 +161813,8 @@
         ],
         "holders": {
             "ETH": 92
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xbe67d2841d25b42df5d5a2cf3d20a58913d640ce",
@@ -161841,7 +161844,11 @@
         ],
         "holders": {
             "ETH": 4
-        }
+        },
+        "telegram_groups": [
+            "PeapodsFinance"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xb9c601ea0cf3091f7dd899c7aede7627f694d0d0",
@@ -161852,7 +161859,11 @@
         },
         "web_domains": [
             "supra.com"
-        ]
+        ],
+        "telegram_groups": [
+            "SupraOracles"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6a0e8b4d16d5271492bb151eb4767f25cfc23f03",
