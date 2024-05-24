@@ -161757,5 +161757,106 @@
             "buffdogecoinofficial"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x0b427ff21d4084bafda09c0fd26ca56e97c46a41",
+        "date_add": "2024-05-24 16:04:30",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.sec.gov",
+            "form19b4.xyz"
+        ],
+        "telegram_groups": [
+            "form19b4"
+        ],
+        "holders": {
+            "ETH": 95
+        }
+    },
+    {
+        "contract_address": "0x68fc5a3ed59c7d28afb87cb66c831c9e840014a1",
+        "date_add": "2024-05-24 16:04:30",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Harambedogecoinerc20"
+        ],
+        "holders": {
+            "ETH": 239
+        }
+    },
+    {
+        "contract_address": "0x857373c7ee23e485504d5c453a7723cd5e563239",
+        "date_add": "2024-05-24 16:04:30",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "quilnodes.com",
+            "app.quilnodes.com"
+        ],
+        "telegram_groups": [
+            "QuilNodes"
+        ],
+        "holders": {
+            "ETH": 47
+        }
+    },
+    {
+        "contract_address": "0x7ae55f4edfd65815e95933b6b26f06c03c3de887",
+        "date_add": "2024-05-24 16:04:30",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.mdgatoken.com"
+        ],
+        "telegram_groups": [
+            "MDGAERC"
+        ],
+        "holders": {
+            "ETH": 92
+        }
+    },
+    {
+        "contract_address": "0xbe67d2841d25b42df5d5a2cf3d20a58913d640ce",
+        "date_add": "2024-05-24 16:04:30",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "OgDogeEth"
+        ],
+        "holders": {
+            "ETH": 347
+        }
+    },
+    {
+        "contract_address": "0x3ba55bd5a77a15bc927b6cff08542f7d70fd2d5b",
+        "date_add": "2024-05-24 16:04:30",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 313
+        }
+    },
+    {
+        "contract_address": "0xdc3a850e2cf51d5134f968719daef45451922d84",
+        "date_add": "2024-05-24 16:04:30",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "peapods.finance"
+        ],
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0xb9c601ea0cf3091f7dd899c7aede7627f694d0d0",
+        "date_add": "2024-05-24 16:04:30",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 210
+        }
+    },
+    {
+        "contract_address": "0x6a0e8b4d16d5271492bb151eb4767f25cfc23f03",
+        "date_add": "2024-05-24 16:04:30",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 15
+        }
     }
 ]
