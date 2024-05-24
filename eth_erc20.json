@@ -161321,5 +161321,129 @@
         "holders": {
             "ETH": 26
         }
+    },
+    {
+        "contract_address": "0xfe1f5cb48278c96bb219fea062259426150e9777",
+        "date_add": "2024-05-24 08:05:25",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0xa1d23bbef17f88fefc2ada631738e4c42e906a2e",
+        "date_add": "2024-05-24 08:05:25",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "egodcoin.vip"
+        ],
+        "telegram_groups": [
+            "EgodCoin_Erc"
+        ],
+        "holders": {
+            "ETH": 491
+        }
+    },
+    {
+        "contract_address": "0xe036c57b2dcfcdf7300c42ecc04aa611ee5f80af",
+        "date_add": "2024-05-24 08:05:25",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "kabosu_rip"
+        ],
+        "holders": {
+            "ETH": 28
+        }
+    },
+    {
+        "contract_address": "0xbfcb74518cbe2952f5e2cb7fde140822d00187bc",
+        "date_add": "2024-05-24 08:05:25",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "GinnanETH"
+        ],
+        "holders": {
+            "ETH": 258
+        }
+    },
+    {
+        "contract_address": "0x02bdd48accd5e5051d906848c0d1877d9b7c181d",
+        "date_add": "2024-05-24 08:05:25",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wojaktrump.xyz"
+        ],
+        "telegram_groups": [
+            "WojakTrump"
+        ],
+        "holders": {
+            "ETH": 273
+        }
+    },
+    {
+        "contract_address": "0x6942806d1b2d5886d95ce2f04314ece8eb825833",
+        "date_add": "2024-05-24 08:05:25",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "groypereth.vip"
+        ],
+        "telegram_groups": [
+            "GroyperOnEth"
+        ],
+        "holders": {
+            "ETH": 309
+        }
+    },
+    {
+        "contract_address": "0xceb67a66c2c8a90980da3a50a3f96c07525a26cb",
+        "date_add": "2024-05-24 08:05:25",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "KabosuCoinERC"
+        ],
+        "holders": {
+            "ETH": 167
+        }
+    },
+    {
+        "contract_address": "0xe169a8c6971b62637b9a4cb189fbfb046a1d24aa",
+        "date_add": "2024-05-24 08:05:25",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ripkabuso"
+        ],
+        "holders": {
+            "ETH": 115
+        }
+    },
+    {
+        "contract_address": "0xc5be99a02c6857f9eac67bbce58df5572498f40c",
+        "date_add": "2024-05-24 08:05:25",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1202
+        }
+    },
+    {
+        "contract_address": "0x058ae1d85aa122d3a6aa50e9bcc9374c3dddfa8a",
+        "date_add": "2024-05-24 08:05:25",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xb46ef962550b6c16868294f62b0a0fd1b300079c",
+        "date_add": "2024-05-24 08:05:25",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "babygrok.app"
+        ],
+        "telegram_groups": [
+            "BabyGrok_ETH"
+        ],
+        "holders": {
+            "ETH": 147
+        }
     }
 ]
