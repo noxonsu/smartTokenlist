@@ -160894,7 +160894,9 @@
         ],
         "holders": {
             "ETH": 43
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8fab054ea2a7bce96f7524e4813acf81176ab1a1",
@@ -160905,7 +160907,14 @@
         ],
         "holders": {
             "ETH": 211
-        }
+        },
+        "telegram_groups": [
+            "gpussytoken"
+        ],
+        "emails": [
+            "Email: team@gpussy.org"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x99281afd95393fe7828937b0fd2f9fc3bae0a174",
@@ -160940,7 +160949,9 @@
         },
         "web_domains": [
             "qeqe.tech"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xf3c64e0f5f977af8fc1e90ae964a57ecd75aaa8d",
@@ -160954,7 +160965,8 @@
         ],
         "holders": {
             "ETH": 66
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x81d8163d846060cbc8dd182ea4cd2591c470deb6",
@@ -160965,7 +160977,9 @@
         },
         "web_domains": [
             "hamsterc.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xe41724423566304437dc17dbb0de27ea8ec44cf6",
@@ -160987,7 +161001,11 @@
         ],
         "holders": {
             "ETH": 78
-        }
+        },
+        "emails": [
+            "hi@magabonk.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9ddd2fff153b3d0a948446232b1d7e058debdb90",
