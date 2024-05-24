@@ -161328,7 +161328,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 32
-        }
+        },
+        "web_domains": [
+            "kabochan.blog.jp"
+        ]
     },
     {
         "contract_address": "0xa1d23bbef17f88fefc2ada631738e4c42e906a2e",
@@ -161430,7 +161433,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 1
-        }
+        },
+        "web_domains": [
+            "bunnybunnydetroit.com"
+        ]
     },
     {
         "contract_address": "0xb46ef962550b6c16868294f62b0a0fd1b300079c",
