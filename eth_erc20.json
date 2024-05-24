@@ -161893,7 +161893,10 @@
         ],
         "holders": {
             "ETH": 134
-        }
+        },
+        "web_domains": [
+            "blockscan.com"
+        ]
     },
     {
         "contract_address": "0xc2abc125db39ac3cb2702a9eea674c3045960166",
@@ -161909,7 +161912,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 184
-        }
+        },
+        "web_domains": [
+            "enderprotocol.io"
+        ]
     },
     {
         "contract_address": "0xf3de712e02cbca64104f89040c36e8cc55eb93a3",
