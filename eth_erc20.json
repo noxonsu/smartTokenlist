@@ -161158,7 +161158,10 @@
         ],
         "holders": {
             "ETH": 188
-        }
+        },
+        "web_domains": [
+            "blockdag.network"
+        ]
     },
     {
         "contract_address": "0x8dd4e805628efcad06fe922ed3f13bdc52edd7de",
