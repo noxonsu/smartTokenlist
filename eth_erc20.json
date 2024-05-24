@@ -161147,7 +161147,8 @@
         ],
         "holders": {
             "ETH": 254
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf35522d51a347dc1352848556cbd019bb176ccf0",
@@ -161161,7 +161162,8 @@
         },
         "web_domains": [
             "blockdag.network"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8dd4e805628efcad06fe922ed3f13bdc52edd7de",
@@ -161183,7 +161185,8 @@
         ],
         "holders": {
             "ETH": 60
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x035bfe6057e15ea692c0dfdcab3bb41a64dd2ad4",
