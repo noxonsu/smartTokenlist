@@ -161616,7 +161616,9 @@
         },
         "web_domains": [
             "listingspy.net"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x360e7e819073777c6802255aff8a9ac2953a58f3",
@@ -161627,7 +161629,9 @@
         },
         "web_domains": [
             "kerenwolf.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x08c163f8cd10e71075a5d1ad5f67038cb122943f",
