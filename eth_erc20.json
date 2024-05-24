@@ -161228,7 +161228,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 25
-        }
+        },
+        "web_domains": [
+            "dorol.io"
+        ]
     },
     {
         "contract_address": "0xdada856b857bb8a613f1a0b902a12535e9a1ecc5",
@@ -161266,7 +161269,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 77
-        }
+        },
+        "web_domains": [
+            "alphagem.eu"
+        ]
     },
     {
         "contract_address": "0x46bf95205a3168751f23b0d754c06c3982463e03",
