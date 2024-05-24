@@ -161983,7 +161983,8 @@
         ],
         "holders": {
             "ETH": 173
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x4f49f8811844b85055814ddfa7528bf456ebf2f6",
@@ -161998,7 +161999,11 @@
         ],
         "holders": {
             "ETH": 484
-        }
+        },
+        "emails": [
+            "Contact@nova.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9caeb3c057b6f75aac59a80bf2a0af290216315b",
@@ -162009,7 +162014,11 @@
         },
         "web_domains": [
             "degensmerf.com"
-        ]
+        ],
+        "telegram_groups": [
+            "degensmerfcoin"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x715c2f0830fb58e1a82f6ba520cdcebb2937087d",
@@ -162019,11 +162028,16 @@
             "peezycoin.vip"
         ],
         "telegram_groups": [
-            "PeezyCoin"
+            "PeezyCoin",
+            "peezycoin"
         ],
         "holders": {
             "ETH": 79
-        }
+        },
+        "emails": [
+            "team@youngpeezyeth.xyz"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x09b3b6c8bacabca4c3036e21be2093035c8970ff",
@@ -162048,7 +162062,11 @@
         ],
         "holders": {
             "ETH": 58
-        }
+        },
+        "emails": [
+            "contact@cammaincubator.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xcc394f10545aeef24483d2347b32a34a44f20e6f",
@@ -162070,6 +162088,10 @@
         ],
         "holders": {
             "ETH": 162
-        }
+        },
+        "emails": [
+            "Dev@dolandtrempcoin.com"
+        ],
+        "p6": true
     }
 ]
