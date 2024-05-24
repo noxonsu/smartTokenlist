@@ -161220,7 +161220,8 @@
         ],
         "holders": {
             "ETH": 395
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xbfda0d868f0baa3fbd505ec190aa60af685b259e",
@@ -161231,7 +161232,9 @@
         },
         "web_domains": [
             "dorol.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xdada856b857bb8a613f1a0b902a12535e9a1ecc5",
@@ -161253,7 +161256,11 @@
         ],
         "holders": {
             "ETH": 44
-        }
+        },
+        "emails": [
+            "contact@hunterbidentoken.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x18c525cce3ad9a48d82f91b874754be78e9d0f85",
@@ -161272,7 +161279,9 @@
         },
         "web_domains": [
             "alphagem.eu"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x46bf95205a3168751f23b0d754c06c3982463e03",
@@ -161286,7 +161295,8 @@
         ],
         "holders": {
             "ETH": 290
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0c3fdf9c70835f9be9db9585ecb6a1ee3f20a6c7",
