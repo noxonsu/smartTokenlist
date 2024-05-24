@@ -161613,7 +161613,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 6
-        }
+        },
+        "web_domains": [
+            "listingspy.net"
+        ]
     },
     {
         "contract_address": "0x360e7e819073777c6802255aff8a9ac2953a58f3",
@@ -161621,7 +161624,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 34
-        }
+        },
+        "web_domains": [
+            "kerenwolf.com"
+        ]
     },
     {
         "contract_address": "0x08c163f8cd10e71075a5d1ad5f67038cb122943f",
