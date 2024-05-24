@@ -161118,5 +161118,80 @@
         "holders": {
             "ETH": 70
         }
+    },
+    {
+        "contract_address": "0xa1ea6cdce50ca61f585ecca243363770aad26ea2",
+        "date_add": "2024-05-24 04:04:51",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0x410b332f56cddd3525c2be80c7091a4c230fd671",
+        "date_add": "2024-05-24 04:04:51",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x9011400a1f4a61438c0994f79b02f9ccbeea0cc1",
+        "date_add": "2024-05-24 04:04:51",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "memeerc.xyz"
+        ],
+        "telegram_groups": [
+            "MEME_officialportal"
+        ],
+        "holders": {
+            "ETH": 254
+        }
+    },
+    {
+        "contract_address": "0xf35522d51a347dc1352848556cbd019bb176ccf0",
+        "date_add": "2024-05-24 04:04:51",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "blockDAGnetworkOfficial"
+        ],
+        "holders": {
+            "ETH": 188
+        }
+    },
+    {
+        "contract_address": "0x8dd4e805628efcad06fe922ed3f13bdc52edd7de",
+        "date_add": "2024-05-24 04:04:51",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9
+        }
+    },
+    {
+        "contract_address": "0x462ea3371efc9844f4e177419b6b40a9ab83a404",
+        "date_add": "2024-05-24 04:04:51",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.zoomerrizz.wtf"
+        ],
+        "telegram_groups": [
+            "zoomerizz_coin"
+        ],
+        "holders": {
+            "ETH": 60
+        }
+    },
+    {
+        "contract_address": "0x035bfe6057e15ea692c0dfdcab3bb41a64dd2ad4",
+        "date_add": "2024-05-24 04:04:51",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ulu.finance",
+            "ulu.finance"
+        ],
+        "holders": {
+            "ETH": 2573
+        }
     }
 ]
