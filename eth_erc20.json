@@ -161465,5 +161465,117 @@
             "ETH": 147
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x38ca226e5ac5c96fd9b1f1abcad65613e2108d3e",
+        "date_add": "2024-05-24 10:04:30",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x6671d062a63fa8e26086f3a7f2ac1aaf6df9b507",
+        "date_add": "2024-05-24 10:04:30",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.pepe.forex"
+        ],
+        "telegram_groups": [
+            "pepemmga"
+        ],
+        "holders": {
+            "ETH": 23
+        }
+    },
+    {
+        "contract_address": "0x252619833b0b9bb10c47e3138c51c8d6a1daa2c7",
+        "date_add": "2024-05-24 10:04:30",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xfc4300a29fe18303c4848765d9d3a66e714db37d",
+        "date_add": "2024-05-24 10:04:30",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.mpgaeth.com"
+        ],
+        "telegram_groups": [
+            "PepeHatETH"
+        ],
+        "holders": {
+            "ETH": 168
+        }
+    },
+    {
+        "contract_address": "0x48d945d00127472f7944bde85db1c37aa4b4b489",
+        "date_add": "2024-05-24 10:04:30",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.pepedog.wtf"
+        ],
+        "telegram_groups": [
+            "dodocoin_erc"
+        ],
+        "holders": {
+            "ETH": 48
+        }
+    },
+    {
+        "contract_address": "0x1b3e85dcbe2c65dde659da219c8d9a1df909fda0",
+        "date_add": "2024-05-24 10:04:30",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x7c1e984959d821425e518b6ea4dd47d2c7a4a8fc",
+        "date_add": "2024-05-24 10:04:30",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xe3c50f9b694028b401e30152329b100e865d496e",
+        "date_add": "2024-05-24 10:04:30",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Kabosu_Portal"
+        ],
+        "holders": {
+            "ETH": 105
+        }
+    },
+    {
+        "contract_address": "0x25be643995fa9f077c7349fb78d13c5ee3fc11d6",
+        "date_add": "2024-05-24 10:04:30",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1392
+        }
+    },
+    {
+        "contract_address": "0x62acdef82dac67975a21c67c4639654091297a2e",
+        "date_add": "2024-05-24 10:04:30",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "momo_eth"
+        ],
+        "holders": {
+            "ETH": 49
+        }
+    },
+    {
+        "contract_address": "0x12ed306b2b46272157434fb17e2e721d65d9fbb3",
+        "date_add": "2024-05-24 10:04:30",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 311
+        }
     }
 ]
