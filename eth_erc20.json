@@ -138136,8 +138136,8 @@
         ],
         "telegram_groups": [
             "MickkkeyEth",
-            "DonkeCoinERC",
-            "Shib1Eth"
+            "Shib1Eth",
+            "DonkeCoinERC"
         ],
         "holders": {
             "ETH": 191
@@ -160711,9 +160711,9 @@
         ],
         "telegram_groups": [
             "Mindviscosity_ERC",
-            "DonkeCoinERC",
+            "Shib1Eth",
             "MickkkeyEth",
-            "Shib1Eth"
+            "DonkeCoinERC"
         ],
         "holders": {
             "ETH": 75
@@ -162939,21 +162939,28 @@
         },
         "web_domains": [
             "quantoswap.org"
-        ]
+        ],
+        "telegram_groups": [
+            "QuantoSwap_channel",
+            "QuantoSwap"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xac488ec1207d3515d6ca665e9f7df1d7a31d55fb",
         "date_add": "2024-05-25 22:04:09",
         "sourceScanned": "processed",
         "telegram_groups": [
-            "MinersPepe"
+            "MinersPepe",
+            "dexview"
         ],
         "holders": {
             "ETH": 57
         },
         "web_domains": [
             "dexview.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xec0ff4ec54d9c02158ade9971d0e9c9b92a9c331",
@@ -162964,11 +162971,16 @@
             "magambe.site"
         ],
         "telegram_groups": [
-            "wearemagambe"
+            "MickkkeyEth",
+            "Shib1Eth",
+            "wearemagambe",
+            "DonkeCoinERC",
+            "Mindviscosity_ERC"
         ],
         "holders": {
             "ETH": 172
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x569424c5ee13884a193773fdc5d1c5f79c443a51",
@@ -162982,7 +162994,9 @@
         ],
         "holders": {
             "ETH": 498
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x38fcdf43f084f4ea14c315fc51efe696addfc202",
