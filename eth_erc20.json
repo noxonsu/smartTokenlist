@@ -162634,7 +162634,9 @@
         },
         "web_domains": [
             "kiwiswap.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x0b09dea16768f0799065c475be02919503cb2a35",
@@ -162670,7 +162672,8 @@
         ],
         "holders": {
             "ETH": 54
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc2d4e66f4c334354289f37aa6e278139492aecdb",
@@ -162689,7 +162692,11 @@
         },
         "web_domains": [
             "sylvesterwifhat.com"
-        ]
+        ],
+        "telegram_groups": [
+            "SylvesterWifHat"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x59dee1493cac203fb1a604ecc2faea0f8ea23708",
@@ -162704,7 +162711,8 @@
         ],
         "holders": {
             "ETH": 334
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2264927271f2d60b2fcd0f571728a9753b9f4cbd",
@@ -162718,6 +162726,7 @@
         ],
         "holders": {
             "ETH": 142
-        }
+        },
+        "p6": true
     }
 ]
