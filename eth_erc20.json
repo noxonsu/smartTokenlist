@@ -162222,5 +162222,35 @@
         "holders": {
             "ETH": 7
         }
+    },
+    {
+        "contract_address": "0xf476b7fd0002487ee1ab4f44eea1b81b93dabcf0",
+        "date_add": "2024-05-25 04:04:50",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0x8854d278bdb3140c161bf011888d9dc7a5918e77",
+        "date_add": "2024-05-25 04:04:50",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "yuge.fun"
+        ],
+        "telegram_groups": [
+            "YugeOnEth"
+        ],
+        "holders": {
+            "ETH": 270
+        }
+    },
+    {
+        "contract_address": "0x4665e227c521849a202f808e927d1dc5f63c7941",
+        "date_add": "2024-05-25 04:04:50",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 249
+        }
     }
 ]
