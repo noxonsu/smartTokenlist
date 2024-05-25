@@ -162571,5 +162571,55 @@
         "holders": {
             "ETH": 19
         }
+    },
+    {
+        "contract_address": "0x01b9aab37c3d6acc6b9aa8857941a2ea85beb792",
+        "date_add": "2024-05-25 14:04:08",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.milkcoin.wtf"
+        ],
+        "telegram_groups": [
+            "milkcoin_erc"
+        ],
+        "holders": {
+            "ETH": 39
+        }
+    },
+    {
+        "contract_address": "0x1e0c2e41f3165ff6b8a660092f63e10bc0eebe26",
+        "date_add": "2024-05-25 14:04:08",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 83
+        }
+    },
+    {
+        "contract_address": "0x037733cf4a692be8aa1bee6117ed04cc6a22cc0f",
+        "date_add": "2024-05-25 14:04:08",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "presidentoneth.pw"
+        ],
+        "telegram_groups": [
+            "PRESIDENTonETH"
+        ],
+        "holders": {
+            "ETH": 35
+        }
+    },
+    {
+        "contract_address": "0x96594f4aaa5940c4cd64e2895d25db333c75140f",
+        "date_add": "2024-05-25 14:04:08",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "anglerc20.com"
+        ],
+        "telegram_groups": [
+            "Dogewifangelring"
+        ],
+        "holders": {
+            "ETH": 262
+        }
     }
 ]
