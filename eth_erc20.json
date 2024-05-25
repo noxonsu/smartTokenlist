@@ -162403,5 +162403,55 @@
             "ETH": 28
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xd7ad786f5392692d6d74a9389415ec6cdd822900",
+        "date_add": "2024-05-25 10:05:10",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.dogoneth.pw"
+        ],
+        "telegram_groups": [
+            "DOGonETHEREUM"
+        ],
+        "holders": {
+            "ETH": 483
+        }
+    },
+    {
+        "contract_address": "0x28d6cefdc7a57cb3e2958f61c95b20c76103fd79",
+        "date_add": "2024-05-25 10:05:10",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "slopy.io"
+        ],
+        "holders": {
+            "ETH": 181
+        }
+    },
+    {
+        "contract_address": "0x3e4110cd48b104de8f1265bfadbf7c0bfd942760",
+        "date_add": "2024-05-25 10:05:10",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "airian.io"
+        ],
+        "telegram_groups": [
+            "Airian_Official"
+        ],
+        "holders": {
+            "ETH": 23
+        }
+    },
+    {
+        "contract_address": "0xcca7f7a81accc23ae4b5225fc9c2f6f9da319a47",
+        "date_add": "2024-05-25 10:05:10",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "cat_eth"
+        ],
+        "holders": {
+            "ETH": 90
+        }
     }
 ]
