@@ -162936,7 +162936,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 24
-        }
+        },
+        "web_domains": [
+            "quantoswap.org"
+        ]
     },
     {
         "contract_address": "0xac488ec1207d3515d6ca665e9f7df1d7a31d55fb",
@@ -162947,7 +162950,10 @@
         ],
         "holders": {
             "ETH": 57
-        }
+        },
+        "web_domains": [
+            "dexview.com"
+        ]
     },
     {
         "contract_address": "0xec0ff4ec54d9c02158ade9971d0e9c9b92a9c331",
