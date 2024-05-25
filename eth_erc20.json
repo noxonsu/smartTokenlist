@@ -127048,7 +127048,8 @@
             "docs.darkpoolai.org"
         ],
         "telegram_groups": [
-            "darkpool_ai"
+            "darkpool_ai",
+            "darkpoolai_official"
         ],
         "holders": {
             "ETH": 116
@@ -162114,7 +162115,8 @@
         ],
         "holders": {
             "ETH": 191
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0c929a1829af6d5babd041e8901dc7688351f481",
@@ -162126,11 +162128,13 @@
             "docs.darkpoolai.org"
         ],
         "telegram_groups": [
+            "darkpool_ai",
             "darkpoolai_official"
         ],
         "holders": {
             "ETH": 49
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd2c469a5d73ef6e093b98c4886f981572eb627fc",
@@ -162140,11 +162144,13 @@
             "sadge.xyz"
         ],
         "telegram_groups": [
-            "SadgeErc"
+            "SadgeErc",
+            "SADGEERC"
         ],
         "holders": {
             "ETH": 68
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9982025e3aa561c25169af9722bb8bee8e337265",
@@ -162158,7 +162164,8 @@
         ],
         "holders": {
             "ETH": 49
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x97df6149dc8fcb21d6ab521aead7ed110e23bd2b",
@@ -162177,6 +162184,11 @@
         },
         "web_domains": [
             "cannabis.mn.gov"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "cannabis.info@state.mn.us"
+        ],
+        "p6": true
     }
 ]
