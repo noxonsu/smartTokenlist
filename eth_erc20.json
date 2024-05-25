@@ -162278,7 +162278,12 @@
         ],
         "holders": {
             "ETH": 8
-        }
+        },
+        "telegram_groups": [],
+        "emails": [
+            "kabosu.calender@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x2e880962a9609aa3eab4def919fe9e917e99073b",
@@ -162289,7 +162294,12 @@
         },
         "web_domains": [
             "bossinfo.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "simon.boss@bossinfo.ch"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbf12c5799dc8da4540797bd9b3bbd3b42f8b5507",
@@ -162303,7 +162313,8 @@
         },
         "web_domains": [
             "pulpproject.org"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x10be9a8dae441d276a5027936c3aaded2d82bc15",
@@ -162333,7 +162344,9 @@
         },
         "web_domains": [
             "paramgaming.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x248241244356d18f63d0c16082996839ecb0c7bf",
