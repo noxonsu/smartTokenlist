@@ -22404,8 +22404,8 @@
             "catsington.pet"
         ],
         "telegram_groups": [
-            "catsington",
-            "CoinDeskGlobal"
+            "CoinDeskGlobal",
+            "catsington"
         ],
         "holders": {
             "ETH": 137
@@ -162476,7 +162476,9 @@
         },
         "web_domains": [
             "chaoslabs.xyz"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xc9e5dfe7186475d05974876ce63c660e6732bc10",
@@ -162486,11 +162488,13 @@
             "thepepev2.com"
         ],
         "telegram_groups": [
+            "BAPEvip",
             "PepeV2_ETH"
         ],
         "holders": {
             "ETH": 474
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6d2d7e818cad387719a3d6e7ad83f42e950faab7",
@@ -162508,14 +162512,16 @@
         "date_add": "2024-05-25 12:05:43",
         "sourceScanned": "processed",
         "telegram_groups": [
-            "BookOfBillionaires_BOBE"
+            "BookOfBillionaires_BOBE",
+            "bobecto"
         ],
         "holders": {
             "ETH": 66
         },
         "web_domains": [
             "bobecoin.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x04d8019a185a3e4bafcc522208e2ddff058051be",
@@ -162525,11 +162531,14 @@
             "www.coindesk.com"
         ],
         "telegram_groups": [
-            "OfficialRichardTeng"
+            "CoinDeskGlobal",
+            "OfficialRichardTeng",
+            "catsington"
         ],
         "holders": {
             "ETH": 144
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf1cde39a68a2183824c1b3f18a457ddacd480b9d",
