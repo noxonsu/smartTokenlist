@@ -162363,5 +162363,38 @@
         "holders": {
             "ETH": 43
         }
+    },
+    {
+        "contract_address": "0x2281c37cc6e7ac0ded17eb1494f63f94a8ee568a",
+        "date_add": "2024-05-25 08:04:44",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "BitcoinTalkPortal"
+        ],
+        "holders": {
+            "ETH": 172
+        }
+    },
+    {
+        "contract_address": "0x0ae38f7e10a43b5b2fb064b42a2f4514cba909ef",
+        "date_add": "2024-05-25 08:04:44",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 163
+        }
+    },
+    {
+        "contract_address": "0x381a601b4449118a708cdc385bc73451bf8853a7",
+        "date_add": "2024-05-25 08:04:44",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.ichoosecateverytime.com"
+        ],
+        "telegram_groups": [
+            "CatOnETH"
+        ],
+        "holders": {
+            "ETH": 28
+        }
     }
 ]
