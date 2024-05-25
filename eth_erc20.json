@@ -162232,7 +162232,9 @@
         },
         "web_domains": [
             "ghostofkabosu.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x8854d278bdb3140c161bf011888d9dc7a5918e77",
@@ -162246,7 +162248,11 @@
         ],
         "holders": {
             "ETH": 270
-        }
+        },
+        "emails": [
+            "Contact Us: team@yuge.fun"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x4665e227c521849a202f808e927d1dc5f63c7941",
@@ -162257,6 +162263,10 @@
         },
         "web_domains": [
             "occoin.io"
-        ]
+        ],
+        "telegram_groups": [
+            "OCCoin_eth"
+        ],
+        "p6": true
     }
 ]
