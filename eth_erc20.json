@@ -162741,7 +162741,8 @@
         ],
         "holders": {
             "ETH": 495
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9f8512d2657d192e59dbab41f8502864aaaafa4a",
@@ -162760,7 +162761,12 @@
         },
         "web_domains": [
             "kenji.co.uk"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "Customer Care: support@kenji.co.uk"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x5afbcfa5048dbcae5e208d44cc81a81001fd78c8",
@@ -162790,7 +162796,8 @@
         ],
         "holders": {
             "ETH": 106
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x03e9b993e88d1921ba068bc6adab92d0b3c47dec",
