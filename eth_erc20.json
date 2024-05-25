@@ -162093,5 +162093,87 @@
             "Dev@dolandtrempcoin.com"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x3136ef851592acf49ca4c825131e364170fa32b3",
+        "date_add": "2024-05-25 00:15:28",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 63251
+        }
+    },
+    {
+        "contract_address": "0xc9bd7011ee97a13dc07087e01499a769ab7e75b4",
+        "date_add": "2024-05-25 00:15:28",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "peezy.live"
+        ],
+        "telegram_groups": [
+            "Pezzyoneth"
+        ],
+        "holders": {
+            "ETH": 191
+        }
+    },
+    {
+        "contract_address": "0x0c929a1829af6d5babd041e8901dc7688351f481",
+        "date_add": "2024-05-25 00:15:28",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.darkpoolai.org",
+            "app.darkpoolai.org",
+            "docs.darkpoolai.org"
+        ],
+        "telegram_groups": [
+            "darkpoolai_official"
+        ],
+        "holders": {
+            "ETH": 49
+        }
+    },
+    {
+        "contract_address": "0xd2c469a5d73ef6e093b98c4886f981572eb627fc",
+        "date_add": "2024-05-25 00:15:28",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sadge.xyz"
+        ],
+        "telegram_groups": [
+            "SadgeErc"
+        ],
+        "holders": {
+            "ETH": 68
+        }
+    },
+    {
+        "contract_address": "0x9982025e3aa561c25169af9722bb8bee8e337265",
+        "date_add": "2024-05-25 00:15:28",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.pbicoin.vip"
+        ],
+        "telegram_groups": [
+            "pbicoin_eth"
+        ],
+        "holders": {
+            "ETH": 49
+        }
+    },
+    {
+        "contract_address": "0x97df6149dc8fcb21d6ab521aead7ed110e23bd2b",
+        "date_add": "2024-05-25 00:15:28",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 28
+        }
+    },
+    {
+        "contract_address": "0x09adc04a7c8f98235fb66238dec1da7096632db7",
+        "date_add": "2024-05-25 00:15:28",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 158
+        }
     }
 ]
