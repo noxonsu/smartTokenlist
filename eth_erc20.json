@@ -162286,7 +162286,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 172
-        }
+        },
+        "web_domains": [
+            "bossinfo.com"
+        ]
     },
     {
         "contract_address": "0xbf12c5799dc8da4540797bd9b3bbd3b42f8b5507",
@@ -162297,7 +162300,10 @@
         ],
         "holders": {
             "ETH": 8
-        }
+        },
+        "web_domains": [
+            "pulpproject.org"
+        ]
     },
     {
         "contract_address": "0x10be9a8dae441d276a5027936c3aaded2d82bc15",
@@ -162324,7 +162330,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 3
-        }
+        },
+        "web_domains": [
+            "paramgaming.com"
+        ]
     },
     {
         "contract_address": "0x248241244356d18f63d0c16082996839ecb0c7bf",
