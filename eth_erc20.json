@@ -162728,5 +162728,89 @@
             "ETH": 142
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xe970d68d29d6e89010110573c955f015ab11099f",
+        "date_add": "2024-05-25 18:04:31",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "andyoneth.website"
+        ],
+        "telegram_groups": [
+            "AndyOnETH"
+        ],
+        "holders": {
+            "ETH": 495
+        }
+    },
+    {
+        "contract_address": "0x9f8512d2657d192e59dbab41f8502864aaaafa4a",
+        "date_add": "2024-05-25 18:04:31",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 22
+        }
+    },
+    {
+        "contract_address": "0x22a0f462dfb26ab5c8dffdeb7553e1e81c091280",
+        "date_add": "2024-05-25 18:04:31",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19
+        }
+    },
+    {
+        "contract_address": "0x5afbcfa5048dbcae5e208d44cc81a81001fd78c8",
+        "date_add": "2024-05-25 18:04:31",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 475
+        }
+    },
+    {
+        "contract_address": "0x6c4449f413ed628ebd06de52edde43b5a2efbc2b",
+        "date_add": "2024-05-25 18:04:31",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xe6293884250d65f0d0ece3e9d72430e8d1ad4caa",
+        "date_add": "2024-05-25 18:04:31",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "watandfoxeth.com"
+        ],
+        "telegram_groups": [
+            "watandfox"
+        ],
+        "holders": {
+            "ETH": 106
+        }
+    },
+    {
+        "contract_address": "0x03e9b993e88d1921ba068bc6adab92d0b3c47dec",
+        "date_add": "2024-05-25 18:04:31",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8
+        }
+    },
+    {
+        "contract_address": "0xe306d494cf7e63a28ad342e1d8eb5eb48ecdac80",
+        "date_add": "2024-05-25 18:04:31",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x25b2f1d04dd68f95f9ab5d511b92e21dbbb2d173",
+        "date_add": "2024-05-25 18:04:31",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 465
+        }
     }
 ]
