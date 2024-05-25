@@ -162466,5 +162466,95 @@
             "catcat.com"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x972bed4e22db12b1ae39c6355c5f18411b13a481",
+        "date_add": "2024-05-25 12:05:43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 108
+        }
+    },
+    {
+        "contract_address": "0xc9e5dfe7186475d05974876ce63c660e6732bc10",
+        "date_add": "2024-05-25 12:05:43",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "thepepev2.com"
+        ],
+        "telegram_groups": [
+            "PepeV2_ETH"
+        ],
+        "holders": {
+            "ETH": 474
+        }
+    },
+    {
+        "contract_address": "0x6d2d7e818cad387719a3d6e7ad83f42e950faab7",
+        "date_add": "2024-05-25 12:05:43",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "MemeInu_ERC"
+        ],
+        "holders": {
+            "ETH": 92
+        }
+    },
+    {
+        "contract_address": "0xac7cdcf645ccb9672263f010e9ef686920c5eca0",
+        "date_add": "2024-05-25 12:05:43",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "BookOfBillionaires_BOBE"
+        ],
+        "holders": {
+            "ETH": 66
+        }
+    },
+    {
+        "contract_address": "0x04d8019a185a3e4bafcc522208e2ddff058051be",
+        "date_add": "2024-05-25 12:05:43",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.coindesk.com"
+        ],
+        "telegram_groups": [
+            "OfficialRichardTeng"
+        ],
+        "holders": {
+            "ETH": 144
+        }
+    },
+    {
+        "contract_address": "0xf1cde39a68a2183824c1b3f18a457ddacd480b9d",
+        "date_add": "2024-05-25 12:05:43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 41
+        }
+    },
+    {
+        "contract_address": "0x32fb7d6e0cbeb9433772689aa4647828cc7cbba8",
+        "date_add": "2024-05-25 12:05:43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 46
+        }
+    },
+    {
+        "contract_address": "0x3e88ac3e6eb6ba7b4123291ef344ac41253894d4",
+        "date_add": "2024-05-25 12:05:43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 854
+        }
+    },
+    {
+        "contract_address": "0x42de4b191c6975d9665def33d221f34a1ff1396f",
+        "date_add": "2024-05-25 12:05:43",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 19
+        }
     }
 ]
