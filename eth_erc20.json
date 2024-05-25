@@ -162473,7 +162473,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 108
-        }
+        },
+        "web_domains": [
+            "chaoslabs.xyz"
+        ]
     },
     {
         "contract_address": "0xc9e5dfe7186475d05974876ce63c660e6732bc10",
@@ -162509,7 +162512,10 @@
         ],
         "holders": {
             "ETH": 66
-        }
+        },
+        "web_domains": [
+            "bobecoin.com"
+        ]
     },
     {
         "contract_address": "0x04d8019a185a3e4bafcc522208e2ddff058051be",
