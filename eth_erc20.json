@@ -162631,7 +162631,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 13
-        }
+        },
+        "web_domains": [
+            "kiwiswap.finance"
+        ]
     },
     {
         "contract_address": "0x0b09dea16768f0799065c475be02919503cb2a35",
@@ -162683,7 +162686,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 48
-        }
+        },
+        "web_domains": [
+            "sylvesterwifhat.com"
+        ]
     },
     {
         "contract_address": "0x59dee1493cac203fb1a604ecc2faea0f8ea23708",
