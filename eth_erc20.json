@@ -162190,5 +162190,37 @@
             "cannabis.info@state.mn.us"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0xde4cbb87f7319ff2de9cf7667f8d22c947412649",
+        "date_add": "2024-05-25 02:13:58",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 242
+        }
+    },
+    {
+        "contract_address": "0x3058ef90929cb8180174d74c507176cca6835d73",
+        "date_add": "2024-05-25 02:13:58",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 128
+        }
+    },
+    {
+        "contract_address": "0x9ac59862934ebc36072d4d8ada37c62373a13856",
+        "date_add": "2024-05-25 02:13:58",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1252
+        }
+    },
+    {
+        "contract_address": "0x255b036da38b74af74749beab90102b48db4dfce",
+        "date_add": "2024-05-25 02:13:58",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 7
+        }
     }
 ]
