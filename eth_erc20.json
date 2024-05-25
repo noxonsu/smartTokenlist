@@ -162757,7 +162757,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 19
-        }
+        },
+        "web_domains": [
+            "kenji.co.uk"
+        ]
     },
     {
         "contract_address": "0x5afbcfa5048dbcae5e208d44cc81a81001fd78c8",
