@@ -162624,5 +162624,94 @@
             "ETH": 262
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x227bdc77807e24c6c0b1f0e0094f2e484c9769fb",
+        "date_add": "2024-05-25 16:04:44",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 13
+        }
+    },
+    {
+        "contract_address": "0x0b09dea16768f0799065c475be02919503cb2a35",
+        "date_add": "2024-05-25 16:04:44",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 454
+        }
+    },
+    {
+        "contract_address": "0x1c696479d54846ca7439ec3fecf399d105d40c0b",
+        "date_add": "2024-05-25 16:04:44",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pogmeme.xyz"
+        ],
+        "telegram_groups": [
+            "poggersmeme_erc"
+        ],
+        "holders": {
+            "ETH": 505
+        }
+    },
+    {
+        "contract_address": "0xd8e649434b01ea142604bc5b9d1dfbd74e123657",
+        "date_add": "2024-05-25 16:04:44",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.tammi.wtf"
+        ],
+        "telegram_groups": [
+            "tammi_eth"
+        ],
+        "holders": {
+            "ETH": 54
+        }
+    },
+    {
+        "contract_address": "0xc2d4e66f4c334354289f37aa6e278139492aecdb",
+        "date_add": "2024-05-25 16:04:44",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 37
+        }
+    },
+    {
+        "contract_address": "0x1f82e695ef98caf7860d895cd55d89bd839cfb69",
+        "date_add": "2024-05-25 16:04:44",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 48
+        }
+    },
+    {
+        "contract_address": "0x59dee1493cac203fb1a604ecc2faea0f8ea23708",
+        "date_add": "2024-05-25 16:04:44",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "demoai.io"
+        ],
+        "telegram_groups": [
+            "DemoAIPortal",
+            "Demo_AiBot"
+        ],
+        "holders": {
+            "ETH": 334
+        }
+    },
+    {
+        "contract_address": "0x2264927271f2d60b2fcd0f571728a9753b9f4cbd",
+        "date_add": "2024-05-25 16:04:44",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "troecoin.pro"
+        ],
+        "telegram_groups": [
+            "troecoin"
+        ],
+        "holders": {
+            "ETH": 142
+        }
     }
 ]
