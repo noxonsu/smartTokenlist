@@ -162840,7 +162840,9 @@
         },
         "web_domains": [
             "worldofwomen.art"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7122b882be048a75c87288fdc6f2293e312de0c7",
@@ -162854,7 +162856,11 @@
         ],
         "holders": {
             "ETH": 276
-        }
+        },
+        "emails": [
+            "support@youjizzhub.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3a25afa92215b4c061dc1cebfb75a9edde067d3d",
@@ -162865,7 +162871,9 @@
         },
         "web_domains": [
             "getvipcare.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7e301a49da1d07e41fa443d77b425910befc26e7",
@@ -162876,7 +162884,9 @@
         },
         "web_domains": [
             "nikeson.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xfd5697d2fc849ba2dc73f0cc7fa187d85cc3a659",
@@ -162909,6 +162919,7 @@
         },
         "web_domains": [
             "slerf.finance"
-        ]
+        ],
+        "p6": true
     }
 ]
