@@ -162416,7 +162416,8 @@
         ],
         "holders": {
             "ETH": 483
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x28d6cefdc7a57cb3e2958f61c95b20c76103fd79",
@@ -162427,7 +162428,14 @@
         ],
         "holders": {
             "ETH": 181
-        }
+        },
+        "telegram_groups": [
+            "slopyportal"
+        ],
+        "emails": [
+            "admin@slopy.io"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3e4110cd48b104de8f1265bfadbf7c0bfd942760",
@@ -162441,7 +162449,8 @@
         ],
         "holders": {
             "ETH": 23
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xcca7f7a81accc23ae4b5225fc9c2f6f9da319a47",
@@ -162455,6 +162464,7 @@
         },
         "web_domains": [
             "catcat.com"
-        ]
+        ],
+        "p6": true
     }
 ]
