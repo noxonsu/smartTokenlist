@@ -162229,7 +162229,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 24
-        }
+        },
+        "web_domains": [
+            "ghostofkabosu.com"
+        ]
     },
     {
         "contract_address": "0x8854d278bdb3140c161bf011888d9dc7a5918e77",
@@ -162251,6 +162254,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 249
-        }
+        },
+        "web_domains": [
+            "occoin.io"
+        ]
     }
 ]
