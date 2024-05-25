@@ -162384,7 +162384,9 @@
         },
         "web_domains": [
             "unsheth.xyz"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x381a601b4449118a708cdc385bc73451bf8853a7",
@@ -162394,10 +162396,12 @@
             "www.ichoosecateverytime.com"
         ],
         "telegram_groups": [
+            "IChooseCatEveryTime",
             "CatOnETH"
         ],
         "holders": {
             "ETH": 28
-        }
+        },
+        "p6": true
     }
 ]
