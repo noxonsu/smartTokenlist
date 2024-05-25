@@ -162921,5 +162921,91 @@
             "slerf.finance"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0xa20895eca2108b3d7de26d13020da605d17d4dab",
+        "date_add": "2024-05-25 22:04:09",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x37a2f8701856a78de92dbe35df2200c355eae090",
+        "date_add": "2024-05-25 22:04:09",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0xac488ec1207d3515d6ca665e9f7df1d7a31d55fb",
+        "date_add": "2024-05-25 22:04:09",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "MinersPepe"
+        ],
+        "holders": {
+            "ETH": 57
+        }
+    },
+    {
+        "contract_address": "0xec0ff4ec54d9c02158ade9971d0e9c9b92a9c331",
+        "date_add": "2024-05-25 22:04:09",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "X.com",
+            "magambe.site"
+        ],
+        "telegram_groups": [
+            "wearemagambe"
+        ],
+        "holders": {
+            "ETH": 172
+        }
+    },
+    {
+        "contract_address": "0x569424c5ee13884a193773fdc5d1c5f79c443a51",
+        "date_add": "2024-05-25 22:04:09",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wagmiarmy.io",
+            "token-cdn-domain",
+            "token-cdn-domain",
+            "token-cdn-domain"
+        ],
+        "holders": {
+            "ETH": 498
+        }
+    },
+    {
+        "contract_address": "0x38fcdf43f084f4ea14c315fc51efe696addfc202",
+        "date_add": "2024-05-25 22:04:09",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 97
+        }
+    },
+    {
+        "contract_address": "0xe9e0a664c20a8056912353a385f041dc85cae271",
+        "date_add": "2024-05-25 22:04:09",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x1a97807548ccd5b4671c1576ea70a673859c3a04",
+        "date_add": "2024-05-25 22:04:09",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "rippleinu.finance"
+        ],
+        "telegram_groups": [
+            "rippleinuportal"
+        ],
+        "holders": {
+            "ETH": 773
+        }
     }
 ]
