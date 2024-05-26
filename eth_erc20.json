@@ -36300,7 +36300,9 @@
         "holders": {
             "ETH": 2665
         },
-        "p8skip": true
+        "p8skip": true,
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x4cf89ca06ad997bc732dc876ed2a7f26a9e7f361",
@@ -38042,7 +38044,9 @@
         "holders": {
             "ETH": 1542
         },
-        "p8skip": true
+        "p8skip": true,
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xd076b9865feb49a43aa38c06b0432df6b6cbca9e",
@@ -163395,7 +163399,9 @@
         ],
         "holders": {
             "ETH": 319
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xefb86601deb8f7aba0e0cca1c190b3bdbb65d8f0",
@@ -163406,7 +163412,9 @@
         },
         "web_domains": [
             "lumalabs.ai"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x7368902dc2f239a02417dbee8499bb4ae993d6ec",
@@ -163420,7 +163428,8 @@
         ],
         "holders": {
             "ETH": 132
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x261efcdd24cea98652b9700800a13dfbca4103ff",
@@ -163431,7 +163440,9 @@
         ],
         "holders": {
             "ETH": 275
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x141efa1429648f70dcfd8841009dc1b8d9c607a2",
@@ -163442,6 +163453,8 @@
         },
         "web_domains": [
             "eatpowpow.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
