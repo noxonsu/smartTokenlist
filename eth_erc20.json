@@ -164030,7 +164030,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 174
-        }
+        },
+        "web_domains": [
+            "weareblox.com"
+        ]
     },
     {
         "contract_address": "0x52017d5543ae5bb9bf00cdf63337135437d78cf7",
@@ -164102,7 +164105,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 180
-        }
+        },
+        "web_domains": [
+            "vaultcraft.io"
+        ]
     },
     {
         "contract_address": "0x92ec84992fb11cf0bbc9cb1242257144e41f33df",
@@ -164132,7 +164138,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 14
-        }
+        },
+        "web_domains": [
+            "maldorini.com"
+        ]
     },
     {
         "contract_address": "0x9ef3da23c304d88f856f2928b0be17d9f5d0752f",
@@ -164140,7 +164149,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 94
-        }
+        },
+        "web_domains": [
+            "multipool.finance"
+        ]
     },
     {
         "contract_address": "0xbf97eb4992ca785bde1f37602c51b5d58c8b609e",
