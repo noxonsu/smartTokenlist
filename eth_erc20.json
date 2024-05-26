@@ -164187,5 +164187,76 @@
             "ETH": 184
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x2ee2a57826bb639e89307865c5df42a66df9ce4c",
+        "date_add": "2024-05-26 22:04:15",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.thedonaldcoin.xyz"
+        ],
+        "telegram_groups": [
+            "thedonaldeth"
+        ],
+        "holders": {
+            "ETH": 247
+        }
+    },
+    {
+        "contract_address": "0xe783fb87443a731a063f1c9988c2a83a13e9fef9",
+        "date_add": "2024-05-26 22:04:15",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "CaitlynJenneretherc"
+        ],
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0xc9f93031e68b139951117792ec83670c1ef9cf29",
+        "date_add": "2024-05-26 22:04:15",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x1ac4bccc0c193b0baa44cdc7a18d298492762fc8",
+        "date_add": "2024-05-26 22:04:15",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 30
+        }
+    },
+    {
+        "contract_address": "0x058ca96e3235c6a3aeae90a89de884817004eac9",
+        "date_add": "2024-05-26 22:04:15",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 28
+        }
+    },
+    {
+        "contract_address": "0x52568456afbe4ff8b9fe4e726863aa1ce8d4b2c7",
+        "date_add": "2024-05-26 22:04:15",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.lfgoneth.xyz"
+        ],
+        "telegram_groups": [
+            "LFGonethereum"
+        ],
+        "holders": {
+            "ETH": 58
+        }
+    },
+    {
+        "contract_address": "0xf8fab5dc375f991f2d425aa3f9bc75565b0ab06b",
+        "date_add": "2024-05-26 22:04:15",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 25
+        }
     }
 ]
