@@ -163403,7 +163403,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 39
-        }
+        },
+        "web_domains": [
+            "lumalabs.ai"
+        ]
     },
     {
         "contract_address": "0x7368902dc2f239a02417dbee8499bb4ae993d6ec",
@@ -163436,6 +163439,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 58
-        }
+        },
+        "web_domains": [
+            "eatpowpow.com"
+        ]
     }
 ]
