@@ -163746,11 +163746,13 @@
             "www.rt.com"
         ],
         "telegram_groups": [
+            "rtnews",
             "TABBYerc"
         ],
         "holders": {
             "ETH": 170
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xad73cbee67cb402488072d2444d58441b607ec8f",
@@ -163764,7 +163766,8 @@
         ],
         "holders": {
             "ETH": 323
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2cfc31b4e1e838453c22675f46bb248ac9ddd439",
@@ -163777,7 +163780,9 @@
         ],
         "holders": {
             "ETH": 22
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0xfdff07edf8403233f70250dd9b767143cff43513",
@@ -163804,7 +163809,9 @@
         },
         "web_domains": [
             "kermit.touchlab.co"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x06e0feb0d74106c7ada8497754074d222ec6bcdf",
@@ -163835,7 +163842,8 @@
         },
         "web_domains": [
             "ethtrumpshub.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x7dbb51553f8222885d6d9933ea14196feb57fd78",
@@ -163849,7 +163857,8 @@
         ],
         "holders": {
             "ETH": 126
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1fa05c056b9196df231ecebb19b5ca67050e10a5",
