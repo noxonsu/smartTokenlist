@@ -164200,7 +164200,11 @@
         ],
         "holders": {
             "ETH": 247
-        }
+        },
+        "emails": [
+            "dev@thedonald.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe783fb87443a731a063f1c9988c2a83a13e9fef9",
@@ -164214,7 +164218,8 @@
         },
         "web_domains": [
             "caitlynjenner.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xc9f93031e68b139951117792ec83670c1ef9cf29",
@@ -164233,7 +164238,9 @@
         },
         "web_domains": [
             "arcas.ai"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x058ca96e3235c6a3aeae90a89de884817004eac9",
@@ -164244,7 +164251,9 @@
         },
         "web_domains": [
             "burnking.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x52568456afbe4ff8b9fe4e726863aa1ce8d4b2c7",
@@ -164258,7 +164267,8 @@
         ],
         "holders": {
             "ETH": 58
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf8fab5dc375f991f2d425aa3f9bc75565b0ab06b",
@@ -164269,6 +164279,11 @@
         },
         "web_domains": [
             "colendi.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "info@colendi.com"
+        ],
+        "p6": true
     }
 ]
