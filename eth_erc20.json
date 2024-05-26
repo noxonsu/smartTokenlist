@@ -164033,7 +164033,9 @@
         },
         "web_domains": [
             "weareblox.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x52017d5543ae5bb9bf00cdf63337135437d78cf7",
@@ -164055,7 +164057,8 @@
         ],
         "holders": {
             "ETH": 44
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x59a12dc273699a0e21497540644eb8a47da2e7b0",
@@ -164089,7 +164092,8 @@
         ],
         "holders": {
             "ETH": 208
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc0202bda262391278d9e57492a53fe6fec3b485e",
@@ -164108,7 +164112,9 @@
         },
         "web_domains": [
             "vaultcraft.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x92ec84992fb11cf0bbc9cb1242257144e41f33df",
@@ -164130,7 +164136,8 @@
         ],
         "holders": {
             "ETH": 138
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xc2973032959fb3629c07d1c9f7539daa31b05ffd",
@@ -164141,7 +164148,11 @@
         },
         "web_domains": [
             "maldorini.com"
-        ]
+        ],
+        "telegram_groups": [
+            "maldoriniofficialchannel"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x9ef3da23c304d88f856f2928b0be17d9f5d0752f",
