@@ -163580,5 +163580,131 @@
             "admin@maga2024.cc"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x1af81831e535824ac4bb0b70296d10268e1d8a47",
+        "date_add": "2024-05-26 14:04:20",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 39
+        }
+    },
+    {
+        "contract_address": "0xe3b07168cf4e33f1ba1bb8bacb801416aa21886b",
+        "date_add": "2024-05-26 14:04:20",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 12
+        }
+    },
+    {
+        "contract_address": "0x4ea095f97d6eb0a8d57a5e9443fd97d63cecef73",
+        "date_add": "2024-05-26 14:04:20",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 44
+        }
+    },
+    {
+        "contract_address": "0x77a90b04d64189d4d09508612c09219bc6816bdc",
+        "date_add": "2024-05-26 14:04:20",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "toshi.tools"
+        ],
+        "holders": {
+            "ETH": 1140
+        }
+    },
+    {
+        "contract_address": "0x8f7bc361a0e5e33c26e581d43e1ec6410090a49e",
+        "date_add": "2024-05-26 14:04:20",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.brainroteth.xyz"
+        ],
+        "telegram_groups": [
+            "brainroterc"
+        ],
+        "holders": {
+            "ETH": 106
+        }
+    },
+    {
+        "contract_address": "0x79af2bcf6f3be63f16ef084af7f3dfd31ff4e46e",
+        "date_add": "2024-05-26 14:04:20",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 22
+        }
+    },
+    {
+        "contract_address": "0x5508e2696885b99e563caf8be1f706f4e1e42cab",
+        "date_add": "2024-05-26 14:04:20",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "haironeth.com"
+        ],
+        "telegram_groups": [
+            "HairOnEth"
+        ],
+        "holders": {
+            "ETH": 203
+        }
+    },
+    {
+        "contract_address": "0x91c99b391ce9bd2ebd358958e7a1a3c3776bd3aa",
+        "date_add": "2024-05-26 14:04:20",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "feelsbadman.xyz"
+        ],
+        "telegram_groups": [
+            "fbmerc20"
+        ],
+        "holders": {
+            "ETH": 23
+        }
+    },
+    {
+        "contract_address": "0x0ccae6f3fb48ef37be43e721ad1f99f2a1551f6a",
+        "date_add": "2024-05-26 14:04:20",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 16
+        }
+    },
+    {
+        "contract_address": "0x49634d077d06e081026f1310d211887e4e5f3af0",
+        "date_add": "2024-05-26 14:04:20",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x6969697316deaae18776d39b81ef9c92900e1130",
+        "date_add": "2024-05-26 14:04:20",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pepepepepepe.wtf"
+        ],
+        "telegram_groups": [
+            "pepepepepepe_eth"
+        ],
+        "holders": {
+            "ETH": 203
+        }
+    },
+    {
+        "contract_address": "0xe6502cee5b040d813d0a9d8cba60c096a22e3ec9",
+        "date_add": "2024-05-26 14:04:20",
+        "sourceScanned": "processed",
+        "emails": [
+            "info@conantoken.com"
+        ],
+        "holders": {
+            "ETH": 352
+        }
     }
 ]
