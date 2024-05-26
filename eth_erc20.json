@@ -163904,5 +163904,114 @@
             "ETH": 46
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x375fa2070f57aa1d88d8f3590cb40b011a9dbe91",
+        "date_add": "2024-05-26 18:04:48",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x4f45d4f1244b22feeb7bd5409a7b6a777df714b5",
+        "date_add": "2024-05-26 18:04:48",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "DARKmagaETH.com"
+        ],
+        "telegram_groups": [
+            "DarkMagaETH"
+        ],
+        "holders": {
+            "ETH": 322
+        }
+    },
+    {
+        "contract_address": "0x694202b6f61bf8f31c59ad9b9e1257cdfa01750b",
+        "date_add": "2024-05-26 18:04:48",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pepeheimer.com"
+        ],
+        "telegram_groups": [
+            "pepeheimer_eth"
+        ],
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0x9ae7c53210f6f847740794ed7fcfae73706f72ba",
+        "date_add": "2024-05-26 18:04:48",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "synchub.ai",
+            "docs.synchub.ai"
+        ],
+        "telegram_groups": [
+            "synchubai"
+        ],
+        "holders": {
+            "ETH": 299
+        }
+    },
+    {
+        "contract_address": "0xba13c4e27f010d99de45c693531efd9b2e8d92ee",
+        "date_add": "2024-05-26 18:04:48",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pepebus.vip"
+        ],
+        "telegram_groups": [
+            "PepeBusEth"
+        ],
+        "holders": {
+            "ETH": 54
+        }
+    },
+    {
+        "contract_address": "0x314256eb03364d1a3cf33594eb7a9094037545c1",
+        "date_add": "2024-05-26 18:04:48",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dedecoin.dev"
+        ],
+        "telegram_groups": [
+            "DEDE_officialportal"
+        ],
+        "holders": {
+            "ETH": 103
+        }
+    },
+    {
+        "contract_address": "0xf4b813792f86251f25dd480eac0154169ff8a4fc",
+        "date_add": "2024-05-26 18:04:48",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ninja-cat.online"
+        ],
+        "telegram_groups": [
+            "ncaterc20"
+        ],
+        "holders": {
+            "ETH": 46
+        }
+    },
+    {
+        "contract_address": "0xea8bdcbb361b660c44259e96b566d279b78e302e",
+        "date_add": "2024-05-26 18:04:48",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8
+        }
+    },
+    {
+        "contract_address": "0xf945d693a67e28e554f2e49e931abeae0b6bbed3",
+        "date_add": "2024-05-26 18:04:48",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
