@@ -164211,7 +164211,10 @@
         ],
         "holders": {
             "ETH": 15
-        }
+        },
+        "web_domains": [
+            "caitlynjenner.com"
+        ]
     },
     {
         "contract_address": "0xc9f93031e68b139951117792ec83670c1ef9cf29",
@@ -164227,7 +164230,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 30
-        }
+        },
+        "web_domains": [
+            "arcas.ai"
+        ]
     },
     {
         "contract_address": "0x058ca96e3235c6a3aeae90a89de884817004eac9",
@@ -164235,7 +164241,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 28
-        }
+        },
+        "web_domains": [
+            "burnking.io"
+        ]
     },
     {
         "contract_address": "0x52568456afbe4ff8b9fe4e726863aa1ce8d4b2c7",
@@ -164257,6 +164266,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 25
-        }
+        },
+        "web_domains": [
+            "colendi.com"
+        ]
     }
 ]
