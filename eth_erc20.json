@@ -163466,7 +163466,10 @@
         ],
         "holders": {
             "ETH": 71
-        }
+        },
+        "web_domains": [
+            "codedesign.ai"
+        ]
     },
     {
         "contract_address": "0x841cc9f24c47053f1118bf06ad5105cc72a1200c",
@@ -163488,7 +163491,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 32
-        }
+        },
+        "web_domains": [
+            "getcatch.com"
+        ]
     },
     {
         "contract_address": "0x80550680ec566ec3c222234dc74a78247548fb4e",
@@ -163496,7 +163502,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 31
-        }
+        },
+        "web_domains": [
+            "gameswift.io"
+        ]
     },
     {
         "contract_address": "0x2d55d594c7dfc8c02542f394cca27271c15c9c21",
@@ -163555,6 +163564,9 @@
         ],
         "holders": {
             "ETH": 32
-        }
+        },
+        "web_domains": [
+            "maga2024.cc"
+        ]
     }
 ]
