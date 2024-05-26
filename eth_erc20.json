@@ -163382,5 +163382,60 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xa8c839236e8ca984790382b2a11fe22d300e6cc7",
+        "date_add": "2024-05-26 10:04:59",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools",
+            "www.smartcontracts.tools"
+        ],
+        "holders": {
+            "ETH": 319
+        }
+    },
+    {
+        "contract_address": "0xefb86601deb8f7aba0e0cca1c190b3bdbb65d8f0",
+        "date_add": "2024-05-26 10:04:59",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 39
+        }
+    },
+    {
+        "contract_address": "0x7368902dc2f239a02417dbee8499bb4ae993d6ec",
+        "date_add": "2024-05-26 10:04:59",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bookofpussy.xyz"
+        ],
+        "telegram_groups": [
+            "BUSSY_Entry"
+        ],
+        "holders": {
+            "ETH": 132
+        }
+    },
+    {
+        "contract_address": "0x261efcdd24cea98652b9700800a13dfbca4103ff",
+        "date_add": "2024-05-26 10:04:59",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "solidifier.coina.ge"
+        ],
+        "holders": {
+            "ETH": 275
+        }
+    },
+    {
+        "contract_address": "0x141efa1429648f70dcfd8841009dc1b8d9c607a2",
+        "date_add": "2024-05-26 10:04:59",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 58
+        }
     }
 ]
