@@ -163801,7 +163801,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 59
-        }
+        },
+        "web_domains": [
+            "kermit.touchlab.co"
+        ]
     },
     {
         "contract_address": "0x06e0feb0d74106c7ada8497754074d222ec6bcdf",
@@ -163829,7 +163832,10 @@
         ],
         "holders": {
             "ETH": 22
-        }
+        },
+        "web_domains": [
+            "ethtrumpshub.com"
+        ]
     },
     {
         "contract_address": "0x7dbb51553f8222885d6d9933ea14196feb57fd78",
