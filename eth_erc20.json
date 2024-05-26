@@ -163469,7 +163469,8 @@
         },
         "web_domains": [
             "codedesign.ai"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x841cc9f24c47053f1118bf06ad5105cc72a1200c",
@@ -163483,7 +163484,8 @@
         ],
         "holders": {
             "ETH": 268
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xecbdc8f6d0ab85bb1d6cceba1f568b15ff28f55e",
@@ -163494,7 +163496,9 @@
         },
         "web_domains": [
             "getcatch.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x80550680ec566ec3c222234dc74a78247548fb4e",
@@ -163505,7 +163509,9 @@
         },
         "web_domains": [
             "gameswift.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x2d55d594c7dfc8c02542f394cca27271c15c9c21",
@@ -163519,7 +163525,8 @@
         ],
         "holders": {
             "ETH": 355
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x38989bba00bdf8181f4082995b3deae96163ac5d",
@@ -163560,13 +163567,18 @@
         "date_add": "2024-05-26 12:05:37",
         "sourceScanned": "processed",
         "telegram_groups": [
-            "MAGA2024ETH"
+            "MAGA2024ETH",
+            "Maga2024_CC"
         ],
         "holders": {
             "ETH": 32
         },
         "web_domains": [
             "maga2024.cc"
-        ]
+        ],
+        "emails": [
+            "admin@maga2024.cc"
+        ],
+        "p6": true
     }
 ]
