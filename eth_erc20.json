@@ -163456,5 +163456,105 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xa4323c01c7716b2b9e411e37736b4b07d6c0ee85",
+        "date_add": "2024-05-26 12:05:37",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Aicodeeth"
+        ],
+        "holders": {
+            "ETH": 71
+        }
+    },
+    {
+        "contract_address": "0x841cc9f24c47053f1118bf06ad5105cc72a1200c",
+        "date_add": "2024-05-26 12:05:37",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mofgaerc.com"
+        ],
+        "telegram_groups": [
+            "MOFGA_HAT"
+        ],
+        "holders": {
+            "ETH": 268
+        }
+    },
+    {
+        "contract_address": "0xecbdc8f6d0ab85bb1d6cceba1f568b15ff28f55e",
+        "date_add": "2024-05-26 12:05:37",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 32
+        }
+    },
+    {
+        "contract_address": "0x80550680ec566ec3c222234dc74a78247548fb4e",
+        "date_add": "2024-05-26 12:05:37",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 31
+        }
+    },
+    {
+        "contract_address": "0x2d55d594c7dfc8c02542f394cca27271c15c9c21",
+        "date_add": "2024-05-26 12:05:37",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.autismpepe.vip"
+        ],
+        "telegram_groups": [
+            "AutismCoinEth"
+        ],
+        "holders": {
+            "ETH": 355
+        }
+    },
+    {
+        "contract_address": "0x38989bba00bdf8181f4082995b3deae96163ac5d",
+        "date_add": "2024-05-26 12:05:37",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org"
+        ],
+        "holders": {
+            "ETH": 215
+        }
+    },
+    {
+        "contract_address": "0x6a7cfdcb8a9ed0ed15a450699998aa049a626110",
+        "date_add": "2024-05-26 12:05:37",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 31
+        }
+    },
+    {
+        "contract_address": "0x202417328d8d954119add889f4364d0b372989df",
+        "date_add": "2024-05-26 12:05:37",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "MAGA2024ETH"
+        ],
+        "holders": {
+            "ETH": 32
+        }
     }
 ]
