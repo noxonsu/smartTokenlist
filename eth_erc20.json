@@ -163206,7 +163206,8 @@
         ],
         "holders": {
             "ETH": 135
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa872e0a44bbd66c1486a756cb5bd3f0beec4e32e",
@@ -163225,6 +163226,8 @@
         },
         "web_domains": [
             "realreal.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
