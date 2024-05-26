@@ -163250,7 +163250,8 @@
         ],
         "holders": {
             "ETH": 401
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x1c3a52fb6b55ee670d92a41675e24408a305f6ae",
@@ -163261,7 +163262,12 @@
         },
         "web_domains": [
             "welovekabosu.com"
-        ]
+        ],
+        "telegram_groups": [
+            "maestro",
+            "KabosuInuEntry"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x3a1311b8c404629e38f61d566cefefed083b9670",
