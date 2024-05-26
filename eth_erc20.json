@@ -163290,5 +163290,89 @@
         "holders": {
             "ETH": 865
         }
+    },
+    {
+        "contract_address": "0xbeef050ecd6a16c4e7bffbb52ebba7846c4b8cd4",
+        "date_add": "2024-05-26 08:04:47",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org"
+        ],
+        "holders": {
+            "ETH": 26
+        }
+    },
+    {
+        "contract_address": "0xb5d35b105681f4744cfca748b381650ee22e1657",
+        "date_add": "2024-05-26 08:04:47",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "normie.icu"
+        ],
+        "telegram_groups": [
+            "normie_eth"
+        ],
+        "holders": {
+            "ETH": 408
+        }
+    },
+    {
+        "contract_address": "0x39767c0b270baf7c527e7e9352295fc94b74470c",
+        "date_add": "2024-05-26 08:04:47",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "the47thpresidentoftheunitedstates.com"
+        ],
+        "telegram_groups": [
+            "Trump47therc"
+        ],
+        "holders": {
+            "ETH": 165
+        }
+    },
+    {
+        "contract_address": "0x77a45fa1e6b6e6557c8aca6de2a4eb5557bc5881",
+        "date_add": "2024-05-26 08:04:47",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x701129bdcb3dde367d6057242b97548415498e0d",
+        "date_add": "2024-05-26 08:04:47",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.pepe-trump.xyz"
+        ],
+        "telegram_groups": [
+            "Pepe_TrumpERC"
+        ],
+        "holders": {
+            "ETH": 49
+        }
+    },
+    {
+        "contract_address": "0x479347dfd0be56f2a5f7bb1506bfd7ab24d4ba26",
+        "date_add": "2024-05-26 08:04:47",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
     }
 ]
