@@ -163142,5 +163142,55 @@
             "kerorogunso.com"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0x0a442ac10830f98e6f0485c6193490c5260e94b8",
+        "date_add": "2024-05-26 02:16:36",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "MAGA20_ERC20"
+        ],
+        "holders": {
+            "ETH": 42
+        }
+    },
+    {
+        "contract_address": "0xf2fd0c7570e1dcfc6e53427ceab5255721f3dcd1",
+        "date_add": "2024-05-26 02:16:36",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.metamorphtoken.com",
+            "metamorph-token.gitbook.io"
+        ],
+        "telegram_groups": [
+            "MetaMorphPortal"
+        ],
+        "holders": {
+            "ETH": 200
+        }
+    },
+    {
+        "contract_address": "0x0148cf564318272c2bad048488f90df4e3769f32",
+        "date_add": "2024-05-26 02:16:36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xfb18127c1471131468a1aad4785c19678e521d86",
+        "date_add": "2024-05-26 02:16:36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 35
+        }
+    },
+    {
+        "contract_address": "0x971add32ea87f10bd192671630be3be8a11b8623",
+        "date_add": "2024-05-26 02:16:36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 42
+        }
     }
 ]
