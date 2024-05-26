@@ -163229,5 +163229,57 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x442bc47357919446eabc18c7211e57a13d983469",
+        "date_add": "2024-05-26 06:04:52",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9511
+        }
+    },
+    {
+        "contract_address": "0x300e0d87f8c95d90cfe4b809baa3a6c90e83b850",
+        "date_add": "2024-05-26 06:04:52",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "boosttrumpcampaign.com"
+        ],
+        "telegram_groups": [
+            "btctrumpcoin"
+        ],
+        "holders": {
+            "ETH": 401
+        }
+    },
+    {
+        "contract_address": "0x1c3a52fb6b55ee670d92a41675e24408a305f6ae",
+        "date_add": "2024-05-26 06:04:52",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 5
+        }
+    },
+    {
+        "contract_address": "0x3a1311b8c404629e38f61d566cefefed083b9670",
+        "date_add": "2024-05-26 06:04:52",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.piccoloinu.com"
+        ],
+        "telegram_groups": [
+            "PiccoloInu"
+        ],
+        "holders": {
+            "ETH": 13260
+        }
+    },
+    {
+        "contract_address": "0x4ae208c65b55ebd39fcd18a509b8ad6c90188fc1",
+        "date_add": "2024-05-26 06:04:52",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 865
+        }
     }
 ]
