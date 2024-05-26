@@ -163329,7 +163329,8 @@
         ],
         "holders": {
             "ETH": 408
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x39767c0b270baf7c527e7e9352295fc94b74470c",
@@ -163343,7 +163344,8 @@
         ],
         "holders": {
             "ETH": 165
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x77a45fa1e6b6e6557c8aca6de2a4eb5557bc5881",
@@ -163365,7 +163367,8 @@
         ],
         "holders": {
             "ETH": 49
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x479347dfd0be56f2a5f7bb1506bfd7ab24d4ba26",
@@ -163376,6 +163379,8 @@
         },
         "web_domains": [
             "futurax.global"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
