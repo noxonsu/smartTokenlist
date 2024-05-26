@@ -163587,7 +163587,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 39
-        }
+        },
+        "web_domains": [
+            "biokript.com"
+        ]
     },
     {
         "contract_address": "0xe3b07168cf4e33f1ba1bb8bacb801416aa21886b",
@@ -163603,7 +163606,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 44
-        }
+        },
+        "web_domains": [
+            "saqua.sa"
+        ]
     },
     {
         "contract_address": "0x77a90b04d64189d4d09508612c09219bc6816bdc",
@@ -163672,7 +163678,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 16
-        }
+        },
+        "web_domains": [
+            "brc.exchange"
+        ]
     },
     {
         "contract_address": "0x49634d077d06e081026f1310d211887e4e5f3af0",
