@@ -163590,7 +163590,14 @@
         },
         "web_domains": [
             "biokript.com"
-        ]
+        ],
+        "telegram_groups": [
+            "biokript"
+        ],
+        "emails": [
+            "support@biokript.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xe3b07168cf4e33f1ba1bb8bacb801416aa21886b",
@@ -163609,7 +163616,9 @@
         },
         "web_domains": [
             "saqua.sa"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x77a90b04d64189d4d09508612c09219bc6816bdc",
@@ -163630,11 +163639,16 @@
             "www.brainroteth.xyz"
         ],
         "telegram_groups": [
+            "brainroteth",
             "brainroterc"
         ],
         "holders": {
             "ETH": 106
-        }
+        },
+        "emails": [
+            "info@0xrp.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x79af2bcf6f3be63f16ef084af7f3dfd31ff4e46e",
@@ -163656,7 +163670,8 @@
         ],
         "holders": {
             "ETH": 203
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x91c99b391ce9bd2ebd358958e7a1a3c3776bd3aa",
@@ -163670,7 +163685,8 @@
         ],
         "holders": {
             "ETH": 23
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0ccae6f3fb48ef37be43e721ad1f99f2a1551f6a",
@@ -163681,7 +163697,9 @@
         },
         "web_domains": [
             "brc.exchange"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x49634d077d06e081026f1310d211887e4e5f3af0",
