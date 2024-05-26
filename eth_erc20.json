@@ -163115,7 +163115,10 @@
         ],
         "holders": {
             "ETH": 192
-        }
+        },
+        "web_domains": [
+            "groovy.bot"
+        ]
     },
     {
         "contract_address": "0xd47eb5d084d34ab45ca1f7068dc090d481f4a3ef",
@@ -163126,6 +163129,9 @@
         ],
         "holders": {
             "ETH": 39
-        }
+        },
+        "web_domains": [
+            "kerorogunso.com"
+        ]
     }
 ]
