@@ -163193,5 +163193,35 @@
         "holders": {
             "ETH": 42
         }
+    },
+    {
+        "contract_address": "0xd998ce5f17675a0f2c9cf1bca82cad2101610708",
+        "date_add": "2024-05-26 04:04:44",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "cabbage.cat"
+        ],
+        "telegram_groups": [
+            "cabbagecaterc"
+        ],
+        "holders": {
+            "ETH": 135
+        }
+    },
+    {
+        "contract_address": "0xa872e0a44bbd66c1486a756cb5bd3f0beec4e32e",
+        "date_add": "2024-05-26 04:04:44",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 78
+        }
+    },
+    {
+        "contract_address": "0xf3673fc56376bc9b37f9d11e90e35d8f67c16d64",
+        "date_add": "2024-05-26 04:04:44",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 73
+        }
     }
 ]
