@@ -163040,7 +163040,11 @@
         ],
         "holders": {
             "ETH": 70
-        }
+        },
+        "emails": [
+            "info@GAMBLEDUCK.HOUSE"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x6a126b1a4d6a66370930eca642eff93d8e1be321",
@@ -163118,7 +163122,11 @@
         },
         "web_domains": [
             "groovy.bot"
-        ]
+        ],
+        "emails": [
+            "\n              contact@groovy.bot\n            "
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xd47eb5d084d34ab45ca1f7068dc090d481f4a3ef",
@@ -163132,6 +163140,7 @@
         },
         "web_domains": [
             "kerorogunso.com"
-        ]
+        ],
+        "p6": true
     }
 ]
