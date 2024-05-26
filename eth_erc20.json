@@ -163925,7 +163925,8 @@
         ],
         "holders": {
             "ETH": 322
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x694202b6f61bf8f31c59ad9b9e1257cdfa01750b",
@@ -163939,7 +163940,8 @@
         ],
         "holders": {
             "ETH": 25
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9ae7c53210f6f847740794ed7fcfae73706f72ba",
@@ -163950,11 +163952,16 @@
             "docs.synchub.ai"
         ],
         "telegram_groups": [
+            "SyncHubAI",
             "synchubai"
         ],
         "holders": {
             "ETH": 299
-        }
+        },
+        "emails": [
+            "admin@synchub.ai"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xba13c4e27f010d99de45c693531efd9b2e8d92ee",
@@ -163968,7 +163975,8 @@
         ],
         "holders": {
             "ETH": 54
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x314256eb03364d1a3cf33594eb7a9094037545c1",
@@ -163982,7 +163990,8 @@
         ],
         "holders": {
             "ETH": 103
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xf4b813792f86251f25dd480eac0154169ff8a4fc",
@@ -163996,7 +164005,8 @@
         ],
         "holders": {
             "ETH": 46
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xea8bdcbb361b660c44259e96b566d279b78e302e",
