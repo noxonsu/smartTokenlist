@@ -165053,7 +165053,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 88
-        }
+        },
+        "web_domains": [
+            "bnbchain.org"
+        ]
     },
     {
         "contract_address": "0x11ea8e299f91150c6c7cc0941f6e110a1567f435",
@@ -165061,7 +165064,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 137
-        }
+        },
+        "web_domains": [
+            "nowc.io"
+        ]
     },
     {
         "contract_address": "0x950d2e9dfd1abb04a69fac7dae314b9ac61b276a",
@@ -165091,7 +165097,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 73
-        }
+        },
+        "web_domains": [
+            "ulti-verse.com"
+        ]
     },
     {
         "contract_address": "0x834c1df012fc64d49c8009f06f427a2f30ef5c36",
@@ -165099,6 +165108,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 222
-        }
+        },
+        "web_domains": [
+            "chase.co.uk"
+        ]
     }
 ]
