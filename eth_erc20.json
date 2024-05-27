@@ -164966,7 +164966,11 @@
         ],
         "holders": {
             "ETH": 269
-        }
+        },
+        "emails": [
+            "trumpman@trump-ology.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x41a586579bd945bdb96a34903492dfb6780a14fe",
@@ -164977,7 +164981,12 @@
         },
         "web_domains": [
             "mawa.us"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "Phone: (814) 724-6057  /  Email: customerservice@mawa.us"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbaf138c9fa2a67a0547b80d6ac1f89e61d36bf03",
@@ -164991,7 +165000,8 @@
         ],
         "holders": {
             "ETH": 68
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xe1f6b2fb7796816018ecb8aabba292dda43cb53a",
