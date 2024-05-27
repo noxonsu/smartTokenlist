@@ -164334,7 +164334,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 25
-        }
+        },
+        "web_domains": [
+            "bandcamp.com"
+        ]
     },
     {
         "contract_address": "0x07c43bc0b5477ae47eb04ac854af597a9a618748",
@@ -164342,6 +164345,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 35
-        }
+        },
+        "web_domains": [
+            "mymokacoffee.com"
+        ]
     }
 ]
