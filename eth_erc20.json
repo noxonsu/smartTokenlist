@@ -164778,7 +164778,9 @@
         ],
         "holders": {
             "ETH": 109
-        }
+        },
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x18b3236d6c6c1a79522696ee70b1c28932d8902f",
@@ -164792,7 +164794,11 @@
         ],
         "holders": {
             "ETH": 206
-        }
+        },
+        "emails": [
+            " info@pepemaga.lol"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xbd5edbb5ebd3791ba7935116037918aabdd599bd",
@@ -164807,7 +164813,8 @@
         ],
         "holders": {
             "ETH": 62
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb1bbc2af90c85e4188fea700e1840356c9c090b4",
@@ -164822,7 +164829,8 @@
         ],
         "holders": {
             "ETH": 45
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9a5e4990ef9df7aebd579b49099373911e9c90c2",
@@ -164852,7 +164860,8 @@
         ],
         "holders": {
             "ETH": 52
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x943af17c37207c9d7a27d12cb5055542a0b7afa8",
@@ -164866,6 +164875,7 @@
         ],
         "holders": {
             "ETH": 326
-        }
+        },
+        "p6": true
     }
 ]
