@@ -164528,5 +164528,55 @@
         "holders": {
             "ETH": 32
         }
+    },
+    {
+        "contract_address": "0xe794795084e06ab638ea207c6c7aebfdf4ab5319",
+        "date_add": "2024-05-27 06:06:24",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "tcc-hat.vip"
+        ],
+        "telegram_groups": [
+            "tcc_eth"
+        ],
+        "holders": {
+            "ETH": 228
+        }
+    },
+    {
+        "contract_address": "0xde9511c09ddd06117213f2c5f99d20b90c650ffa",
+        "date_add": "2024-05-27 06:06:24",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.dede-token.com"
+        ],
+        "telegram_groups": [
+            "DedeOnETH"
+        ],
+        "holders": {
+            "ETH": 90
+        }
+    },
+    {
+        "contract_address": "0x7bce8642652b3c61682b03202481d589f1e0d333",
+        "date_add": "2024-05-27 06:06:24",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bidenwjd.com"
+        ],
+        "telegram_groups": [
+            "WJDERC"
+        ],
+        "holders": {
+            "ETH": 825
+        }
+    },
+    {
+        "contract_address": "0x0978540ed816bd99de0cc59a2ff84f8cd250d488",
+        "date_add": "2024-05-27 06:06:24",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
     }
 ]
