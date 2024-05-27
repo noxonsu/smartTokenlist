@@ -164953,5 +164953,57 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0xefc3e6705151119f1ab39340c750c03a56410e18",
+        "date_add": "2024-05-27 16:04:32",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.trump-ology.com"
+        ],
+        "telegram_groups": [
+            "Trumpology"
+        ],
+        "holders": {
+            "ETH": 269
+        }
+    },
+    {
+        "contract_address": "0x41a586579bd945bdb96a34903492dfb6780a14fe",
+        "date_add": "2024-05-27 16:04:32",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 121
+        }
+    },
+    {
+        "contract_address": "0xbaf138c9fa2a67a0547b80d6ac1f89e61d36bf03",
+        "date_add": "2024-05-27 16:04:32",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "KiKierc20.com"
+        ],
+        "telegram_groups": [
+            "KiKiethcoin"
+        ],
+        "holders": {
+            "ETH": 68
+        }
+    },
+    {
+        "contract_address": "0xe1f6b2fb7796816018ecb8aabba292dda43cb53a",
+        "date_add": "2024-05-27 16:04:32",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 90
+        }
+    },
+    {
+        "contract_address": "0x379d98c908008bb0cbd99c7d7319cd9b0d251b2d",
+        "date_add": "2024-05-27 16:04:32",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
