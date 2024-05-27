@@ -165031,7 +165031,11 @@
         ],
         "holders": {
             "ETH": 98
-        }
+        },
+        "emails": [
+            "dev@TDS.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf75db03ef655cd599a8204743274c4da47dde9c2",
@@ -165045,7 +165049,8 @@
         ],
         "holders": {
             "ETH": 252
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xd83f748345b75689312340a2bad799f926d58cb0",
@@ -165056,7 +165061,11 @@
         },
         "web_domains": [
             "bnbchain.org"
-        ]
+        ],
+        "telegram_groups": [
+            "bnbchain"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x11ea8e299f91150c6c7cc0941f6e110a1567f435",
@@ -165067,7 +165076,9 @@
         },
         "web_domains": [
             "nowc.io"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x950d2e9dfd1abb04a69fac7dae314b9ac61b276a",
@@ -165081,7 +165092,8 @@
         ],
         "holders": {
             "ETH": 22
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x6a8466aaec35ea5d7d378e8b69c1d37e03ba89b0",
@@ -165100,7 +165112,9 @@
         },
         "web_domains": [
             "ulti-verse.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x834c1df012fc64d49c8009f06f427a2f30ef5c36",
