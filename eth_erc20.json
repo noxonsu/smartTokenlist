@@ -165440,7 +165440,8 @@
         },
         "web_domains": [
             "cybertruckownersclub.com"
-        ]
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xaf6f88ba0a7543e223eefc44642c256241d7f816",
@@ -165451,6 +165452,8 @@
         },
         "web_domains": [
             "poocoin.app"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
