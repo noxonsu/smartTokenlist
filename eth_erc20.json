@@ -164541,7 +164541,8 @@
         ],
         "holders": {
             "ETH": 228
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xde9511c09ddd06117213f2c5f99d20b90c650ffa",
@@ -164551,11 +164552,13 @@
             "www.dede-token.com"
         ],
         "telegram_groups": [
+            "DedeERC",
             "DedeOnETH"
         ],
         "holders": {
             "ETH": 90
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7bce8642652b3c61682b03202481d589f1e0d333",
