@@ -164481,7 +164481,8 @@
         ],
         "holders": {
             "ETH": 245
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x2fbf186a5c7b59b39dda20116f8a95ad8374f1dd",
@@ -164495,7 +164496,11 @@
         ],
         "holders": {
             "ETH": 220
-        }
+        },
+        "emails": [
+            "teamtrump@trumpepeeth.org"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xf0f391c60262a699db1c74f7cef5bb5bf2c7fcb9",
@@ -164510,7 +164515,11 @@
         ],
         "holders": {
             "ETH": 160
-        }
+        },
+        "emails": [
+            "blepecoinmail@gmail.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x198ec61dfe309b0ce16c9071a16d6a5f7b041de6",
