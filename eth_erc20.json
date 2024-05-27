@@ -164656,7 +164656,8 @@
         ],
         "holders": {
             "ETH": 47
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb5092ee0fee7dc2922a98a09a7eedea647a8e930",
@@ -164670,7 +164671,8 @@
         ],
         "holders": {
             "ETH": 323
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x19dfdc62bcb84c3993c42ce44f77493c62897610",
@@ -164684,7 +164686,8 @@
         ],
         "holders": {
             "ETH": 205
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x92f3a1738e31e2482669470b82fb0f2b0676cc84",
@@ -164699,7 +164702,11 @@
         ],
         "holders": {
             "ETH": 44
-        }
+        },
+        "emails": [
+            "call@pepepreneur.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x83578055e28c626d36ed7015541641825a3e6e54",
@@ -164726,7 +164733,9 @@
         },
         "web_domains": [
             "sullair.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x10dea67478c5f8c5e2d90e5e9b26dbe60c54d800",
@@ -164744,10 +164753,12 @@
             "makemcdonaldsgreat.xyz"
         ],
         "telegram_groups": [
-            "MakeMcdonaldsGreatAgain"
+            "MakeMcdonaldsGreatAgain",
+            "MMGAERC"
         ],
         "holders": {
             "ETH": 102
-        }
+        },
+        "p6": true
     }
 ]
