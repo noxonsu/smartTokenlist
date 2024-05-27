@@ -164974,7 +164974,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 121
-        }
+        },
+        "web_domains": [
+            "mawa.us"
+        ]
     },
     {
         "contract_address": "0xbaf138c9fa2a67a0547b80d6ac1f89e61d36bf03",
