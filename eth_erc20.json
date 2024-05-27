@@ -164285,5 +164285,63 @@
             "info@colendi.com"
         ],
         "p6": true
+    },
+    {
+        "contract_address": "0xd734ce0a7a709db41d38bc661d72bd404a965969",
+        "date_add": "2024-05-27 00:16:36",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "maga2o.vip"
+        ],
+        "telegram_groups": [
+            "maga20_erc"
+        ],
+        "holders": {
+            "ETH": 257
+        }
+    },
+    {
+        "contract_address": "0xecd1d3e908afdf9d2dccb9f5d3efa1e60fc66e74",
+        "date_add": "2024-05-27 00:16:36",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "theagendaeth.xyz"
+        ],
+        "telegram_groups": [
+            "Agenda47Eth"
+        ],
+        "holders": {
+            "ETH": 65
+        }
+    },
+    {
+        "contract_address": "0x7310b65f5a214d00057b1a41e9e034d6f161b8d2",
+        "date_add": "2024-05-27 00:16:36",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "saveethchain.wtf"
+        ],
+        "telegram_groups": [
+            "saveethchain"
+        ],
+        "holders": {
+            "ETH": 46
+        }
+    },
+    {
+        "contract_address": "0xb156749ff9730a8a034848f1cc780fe84ae2dfbe",
+        "date_add": "2024-05-27 00:16:36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 25
+        }
+    },
+    {
+        "contract_address": "0x07c43bc0b5477ae47eb04ac854af597a9a618748",
+        "date_add": "2024-05-27 00:16:36",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 35
+        }
     }
 ]
