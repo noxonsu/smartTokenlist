@@ -164372,7 +164372,8 @@
         ],
         "holders": {
             "ETH": 179
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8d37d7d2f1e7e435994e4e358a10c9b085a69f37",
@@ -164394,7 +164395,8 @@
         ],
         "holders": {
             "ETH": 418
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xab534a239459ef03c9a389039463c7631075ecaa",
@@ -164405,7 +164407,12 @@
         },
         "web_domains": [
             "simpsonshavingbrushes.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "sales@simpsonshavingbrushes.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x666350f2cce1b588e6a216121edb208a978f7609",
@@ -164443,7 +164450,8 @@
         ],
         "holders": {
             "ETH": 36
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9bd6733ae84bc937e71118dfab3293576c6c65cb",
