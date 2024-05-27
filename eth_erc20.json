@@ -165128,5 +165128,150 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x104829ff51b4660f500db04670971ed17e000001",
+        "date_add": "2024-05-27 20:04:17",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "wallstreetburn.xyz"
+        ],
+        "telegram_groups": [
+            "wsb_coin"
+        ],
+        "holders": {
+            "ETH": 51
+        }
+    },
+    {
+        "contract_address": "0x2b88833257a2ee081d208992b30aa8dae1ee35a1",
+        "date_add": "2024-05-27 20:04:17",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mogultrump.xyz"
+        ],
+        "telegram_groups": [
+            "mogultrump"
+        ],
+        "holders": {
+            "ETH": 146
+        }
+    },
+    {
+        "contract_address": "0x6f36d64ee3f385febc6eb4a940081e831f28aecf",
+        "date_add": "2024-05-27 20:04:17",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.magaga.cc"
+        ],
+        "telegram_groups": [
+            "MAGAGA_ERC"
+        ],
+        "holders": {
+            "ETH": 48
+        }
+    },
+    {
+        "contract_address": "0x6dc469a3ef387ad9619df7774388ae26439ac8d4",
+        "date_add": "2024-05-27 20:04:17",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "papicoin.vip"
+        ],
+        "telegram_groups": [
+            "PapiCoinPortal"
+        ],
+        "holders": {
+            "ETH": 393
+        }
+    },
+    {
+        "contract_address": "0x6b3e372ecc9819a053ff4081b90a7506252fad81",
+        "date_add": "2024-05-27 20:04:17",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "trumptini.xyz"
+        ],
+        "telegram_groups": [
+            "Trumptini"
+        ],
+        "holders": {
+            "ETH": 182
+        }
+    },
+    {
+        "contract_address": "0x8113e7a631440e11555820d949bad9dc918f1894",
+        "date_add": "2024-05-27 20:04:17",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "MagaMog.wtf"
+        ],
+        "telegram_groups": [
+            "MagaMog"
+        ],
+        "holders": {
+            "ETH": 38
+        }
+    },
+    {
+        "contract_address": "0x56364b9aefd99c911b1eacf189796c1df31e5d90",
+        "date_add": "2024-05-27 20:04:17",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 29
+        }
+    },
+    {
+        "contract_address": "0xafe2817bb409bd7b2855b8a803d2b24b9423f045",
+        "date_add": "2024-05-27 20:04:17",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "magatrumpcar.vip"
+        ],
+        "telegram_groups": [
+            "magatrumpcar"
+        ],
+        "holders": {
+            "ETH": 107
+        }
+    },
+    {
+        "contract_address": "0x192c03a62848b9177792fb2c740001122a36426f",
+        "date_add": "2024-05-27 20:04:17",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "linktr.ee"
+        ],
+        "holders": {
+            "ETH": 139
+        }
+    },
+    {
+        "contract_address": "0xbb4cadf5486472b2ce6063214e25c330945dfb3f",
+        "date_add": "2024-05-27 20:04:17",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "kermit.wiki"
+        ],
+        "telegram_groups": [
+            "kermit_ethereum"
+        ],
+        "holders": {
+            "ETH": 123
+        }
+    },
+    {
+        "contract_address": "0x5a6caa5ab8c18aae1df91b5c2a97f78605b99327",
+        "date_add": "2024-05-27 20:04:17",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.maga2-hat.vip"
+        ],
+        "telegram_groups": [
+            "MAGATWO_HAT"
+        ],
+        "holders": {
+            "ETH": 155
+        }
     }
 ]
