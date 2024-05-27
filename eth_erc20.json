@@ -165313,7 +165313,11 @@
         ],
         "holders": {
             "ETH": 53
-        }
+        },
+        "emails": [
+            "support@sluuurrrppp.fun"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x663753ab71821def167d1f269ec18819889cd122",
@@ -165323,11 +165327,13 @@
             "ceilingcat.fun"
         ],
         "telegram_groups": [
-            "ceilingcaterc20"
+            "ceilingcaterc20",
+            "CeilingCatEntry"
         ],
         "holders": {
             "ETH": 121
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x5256ad78c2e8a98cd2d6a1af8d90739a859b9a51",
@@ -165338,7 +165344,9 @@
         },
         "web_domains": [
             "willywillyhotsauce.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x9d438dad90f928b00576d202693608bf0ecdbf0f",
@@ -165384,7 +165392,8 @@
         ],
         "holders": {
             "ETH": 292
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x12fe791b8b9151861390a4ce846c3f05a7dfc496",
@@ -165398,7 +165407,8 @@
         ],
         "holders": {
             "ETH": 122
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x8478fe54d534bdf7cd11b966e3b00396f845544e",
@@ -165409,7 +165419,14 @@
         ],
         "holders": {
             "ETH": 178
-        }
+        },
+        "telegram_groups": [
+            "republicanscoin"
+        ],
+        "emails": [
+            "contact@therepublicanscoin.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x15d9ffc8be68fb9e68a8cbf62e039cd910009c83",
