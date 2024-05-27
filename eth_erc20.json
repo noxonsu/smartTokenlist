@@ -164581,5 +164581,66 @@
         "holders": {
             "ETH": 0
         }
+    },
+    {
+        "contract_address": "0x115e29615d1c10c8ddf826e4faec64ef6c1e3357",
+        "date_add": "2024-05-27 08:05:34",
+        "sourceScanned": "processed",
+        "emails": [
+            "contact@miningcapitalcoin.com"
+        ],
+        "holders": {
+            "ETH": 85703
+        }
+    },
+    {
+        "contract_address": "0x594796ae7fb1cdc3536af1e659b2301804214138",
+        "date_add": "2024-05-27 08:05:34",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "truetrumpe.vip"
+        ],
+        "telegram_groups": [
+            "TrueTrumpe"
+        ],
+        "holders": {
+            "ETH": 289
+        }
+    },
+    {
+        "contract_address": "0x30ae41d5f9988d359c733232c6c693c0e645c77e",
+        "date_add": "2024-05-27 08:05:34",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 69
+        }
+    },
+    {
+        "contract_address": "0x6965b3a6f6d3fc34a8eb5cfd54c8426f47f3884a",
+        "date_add": "2024-05-27 08:05:34",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 43
+        }
+    },
+    {
+        "contract_address": "0x61e24ce4efe61eb2efd6ac804445df65f8032955",
+        "date_add": "2024-05-27 08:05:34",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 193
+        }
+    },
+    {
+        "contract_address": "0xcbcc0f036ed4788f63fc0fee32873d6a7487b908",
+        "date_add": "2024-05-27 08:05:34",
+        "sourceScanned": "processed",
+        "emails": [
+            "evgeny@etherionlab.com",
+            "alexey@etherionlab.com"
+        ],
+        "holders": {
+            "ETH": 6000
+        }
     }
 ]
