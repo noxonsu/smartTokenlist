@@ -164887,7 +164887,9 @@
         },
         "web_domains": [
             "bi.team"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6558f69322db3265fbd64b847d450f5bfa8c87a5",
@@ -164897,11 +164899,16 @@
             "saveamericaerc.com"
         ],
         "telegram_groups": [
-            "SaveAmerica_ERC"
+            "SaveAmerica_ERC",
+            "saveamerica_erc"
         ],
         "holders": {
             "ETH": 264
-        }
+        },
+        "emails": [
+            "team@Saveamericaerc.com"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x8ed955a2b7d2c3a17a9d05daca95e01818f8c11e",
@@ -164923,7 +164930,8 @@
         ],
         "holders": {
             "ETH": 204
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x507b719ce11958ac277be08bc70dc3b664c5bfa3",
@@ -164942,6 +164950,8 @@
         },
         "web_domains": [
             "godlovescrypto.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     }
 ]
