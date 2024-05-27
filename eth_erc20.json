@@ -164643,5 +164643,108 @@
         "holders": {
             "ETH": 6000
         }
+    },
+    {
+        "contract_address": "0xefe60cb7093ef29147afb8c846ffb7bb9fe41f1f",
+        "date_add": "2024-05-27 10:04:25",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.blublu.wtf"
+        ],
+        "telegram_groups": [
+            "blublu_eth"
+        ],
+        "holders": {
+            "ETH": 47
+        }
+    },
+    {
+        "contract_address": "0xb5092ee0fee7dc2922a98a09a7eedea647a8e930",
+        "date_add": "2024-05-27 10:04:25",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pepederc20.com"
+        ],
+        "telegram_groups": [
+            "pepedethcoin"
+        ],
+        "holders": {
+            "ETH": 323
+        }
+    },
+    {
+        "contract_address": "0x19dfdc62bcb84c3993c42ce44f77493c62897610",
+        "date_add": "2024-05-27 10:04:25",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "trumpetoneth.com"
+        ],
+        "telegram_groups": [
+            "TRUMPETCOIN_ERC"
+        ],
+        "holders": {
+            "ETH": 205
+        }
+    },
+    {
+        "contract_address": "0x92f3a1738e31e2482669470b82fb0f2b0676cc84",
+        "date_add": "2024-05-27 10:04:25",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pepepreneur.com",
+            "academy.pepepreneur.com"
+        ],
+        "telegram_groups": [
+            "pepepreneur"
+        ],
+        "holders": {
+            "ETH": 44
+        }
+    },
+    {
+        "contract_address": "0x83578055e28c626d36ed7015541641825a3e6e54",
+        "date_add": "2024-05-27 10:04:25",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1499
+        }
+    },
+    {
+        "contract_address": "0xdead00e1577978053ae3864947e24366c8760315",
+        "date_add": "2024-05-27 10:04:25",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 84
+        }
+    },
+    {
+        "contract_address": "0x3a35160fd193e6f93632ea324d259973eb7cac36",
+        "date_add": "2024-05-27 10:04:25",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 121
+        }
+    },
+    {
+        "contract_address": "0x10dea67478c5f8c5e2d90e5e9b26dbe60c54d800",
+        "date_add": "2024-05-27 10:04:25",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9
+        }
+    },
+    {
+        "contract_address": "0x10bc3a23c3ad6e88da1eb26d6285888935b9e8c8",
+        "date_add": "2024-05-27 10:04:25",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "makemcdonaldsgreat.xyz"
+        ],
+        "telegram_groups": [
+            "MakeMcdonaldsGreatAgain"
+        ],
+        "holders": {
+            "ETH": 102
+        }
     }
 ]
