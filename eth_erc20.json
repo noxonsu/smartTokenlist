@@ -164877,5 +164877,65 @@
             "ETH": 326
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x72d672701398f3a22c48098ac288d4953556cf37",
+        "date_add": "2024-05-27 14:04:20",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 150
+        }
+    },
+    {
+        "contract_address": "0x6558f69322db3265fbd64b847d450f5bfa8c87a5",
+        "date_add": "2024-05-27 14:04:20",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "saveamericaerc.com"
+        ],
+        "telegram_groups": [
+            "SaveAmerica_ERC"
+        ],
+        "holders": {
+            "ETH": 264
+        }
+    },
+    {
+        "contract_address": "0x8ed955a2b7d2c3a17a9d05daca95e01818f8c11e",
+        "date_add": "2024-05-27 14:04:20",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1277
+        }
+    },
+    {
+        "contract_address": "0x67703cf9b51412b05fcdeacaa6b4e327d2be1052",
+        "date_add": "2024-05-27 14:04:20",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pierreeth.com"
+        ],
+        "telegram_groups": [
+            "Pierreportal"
+        ],
+        "holders": {
+            "ETH": 204
+        }
+    },
+    {
+        "contract_address": "0x507b719ce11958ac277be08bc70dc3b664c5bfa3",
+        "date_add": "2024-05-27 14:04:20",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 31
+        }
+    },
+    {
+        "contract_address": "0x85445e1f820726e80dffcd05375fddf72c75d015",
+        "date_add": "2024-05-27 14:04:20",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 52
+        }
     }
 ]
