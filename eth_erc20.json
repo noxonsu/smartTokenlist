@@ -165335,7 +165335,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 286
-        }
+        },
+        "web_domains": [
+            "willywillyhotsauce.com"
+        ]
     },
     {
         "contract_address": "0x9d438dad90f928b00576d202693608bf0ecdbf0f",
@@ -165417,7 +165420,10 @@
         ],
         "holders": {
             "ETH": 78
-        }
+        },
+        "web_domains": [
+            "cybertruckownersclub.com"
+        ]
     },
     {
         "contract_address": "0xaf6f88ba0a7543e223eefc44642c256241d7f816",
@@ -165425,6 +165431,9 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 26
-        }
+        },
+        "web_domains": [
+            "poocoin.app"
+        ]
     }
 ]
