@@ -164468,5 +164468,56 @@
         "holders": {
             "ETH": 335
         }
+    },
+    {
+        "contract_address": "0xc67919509252c0a8030ea3478c7824513aa3d5a8",
+        "date_add": "2024-05-27 04:05:23",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "trumprivalbiden.xyz"
+        ],
+        "telegram_groups": [
+            "TrumpRivalBiden_portal"
+        ],
+        "holders": {
+            "ETH": 245
+        }
+    },
+    {
+        "contract_address": "0x2fbf186a5c7b59b39dda20116f8a95ad8374f1dd",
+        "date_add": "2024-05-27 04:05:23",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "trumpepeeth.org"
+        ],
+        "telegram_groups": [
+            "Trumpe_ERC20"
+        ],
+        "holders": {
+            "ETH": 220
+        }
+    },
+    {
+        "contract_address": "0xf0f391c60262a699db1c74f7cef5bb5bf2c7fcb9",
+        "date_add": "2024-05-27 04:05:23",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.blepecoin.vip",
+            "knowyourmeme.com"
+        ],
+        "telegram_groups": [
+            "BlepeCoin_portal"
+        ],
+        "holders": {
+            "ETH": 160
+        }
+    },
+    {
+        "contract_address": "0x198ec61dfe309b0ce16c9071a16d6a5f7b041de6",
+        "date_add": "2024-05-27 04:05:23",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 32
+        }
     }
 ]
