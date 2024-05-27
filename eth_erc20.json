@@ -164760,5 +164760,112 @@
             "ETH": 102
         },
         "p6": true
+    },
+    {
+        "contract_address": "0xc555d625828c4527d477e595ff1dd5801b4a600e",
+        "date_add": "2024-05-27 12:06:20",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1099
+        }
+    },
+    {
+        "contract_address": "0x8429ba4044558eeb203057062c522ba7ddcf3875",
+        "date_add": "2024-05-27 12:06:20",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mugshottrump.info"
+        ],
+        "holders": {
+            "ETH": 109
+        }
+    },
+    {
+        "contract_address": "0x18b3236d6c6c1a79522696ee70b1c28932d8902f",
+        "date_add": "2024-05-27 12:06:20",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pepemaga.lol"
+        ],
+        "telegram_groups": [
+            "PepeMagaonETH"
+        ],
+        "holders": {
+            "ETH": 206
+        }
+    },
+    {
+        "contract_address": "0xbd5edbb5ebd3791ba7935116037918aabdd599bd",
+        "date_add": "2024-05-27 12:06:20",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "slate.com",
+            "republicanparty.meme"
+        ],
+        "telegram_groups": [
+            "republicanpartyerc20"
+        ],
+        "holders": {
+            "ETH": 62
+        }
+    },
+    {
+        "contract_address": "0xb1bbc2af90c85e4188fea700e1840356c9c090b4",
+        "date_add": "2024-05-27 12:06:20",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "mega-eth.com",
+            "merch.kennedy24.com"
+        ],
+        "telegram_groups": [
+            "mega_eth_portal"
+        ],
+        "holders": {
+            "ETH": 45
+        }
+    },
+    {
+        "contract_address": "0x9a5e4990ef9df7aebd579b49099373911e9c90c2",
+        "date_add": "2024-05-27 12:06:20",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 24
+        }
+    },
+    {
+        "contract_address": "0x9fbd3990714deae557fe9cc3e3d648881f9eec91",
+        "date_add": "2024-05-27 12:06:20",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 100
+        }
+    },
+    {
+        "contract_address": "0xd41b7f40d58f4cf4fc91b36a719d27d9d3918069",
+        "date_add": "2024-05-27 12:06:20",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "chiitanoneth.xyz"
+        ],
+        "telegram_groups": [
+            "chiitaneth"
+        ],
+        "holders": {
+            "ETH": 52
+        }
+    },
+    {
+        "contract_address": "0x943af17c37207c9d7a27d12cb5055542a0b7afa8",
+        "date_add": "2024-05-27 12:06:20",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ultramemetoken.xyz"
+        ],
+        "telegram_groups": [
+            "ultra_ERC"
+        ],
+        "holders": {
+            "ETH": 326
+        }
     }
 ]
