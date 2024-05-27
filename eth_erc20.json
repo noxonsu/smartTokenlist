@@ -164298,7 +164298,8 @@
         ],
         "holders": {
             "ETH": 257
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xecd1d3e908afdf9d2dccb9f5d3efa1e60fc66e74",
@@ -164312,7 +164313,8 @@
         ],
         "holders": {
             "ETH": 65
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x7310b65f5a214d00057b1a41e9e034d6f161b8d2",
@@ -164326,7 +164328,8 @@
         ],
         "holders": {
             "ETH": 46
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xb156749ff9730a8a034848f1cc780fe84ae2dfbe",
@@ -164337,7 +164340,9 @@
         },
         "web_domains": [
             "bandcamp.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x07c43bc0b5477ae47eb04ac854af597a9a618748",
@@ -164348,6 +164353,11 @@
         },
         "web_domains": [
             "mymokacoffee.com"
-        ]
+        ],
+        "telegram_groups": [],
+        "emails": [
+            "\u00a0moka-HQ@mymokacoffee.com\n              "
+        ],
+        "p6": true
     }
 ]
