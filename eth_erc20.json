@@ -165468,7 +165468,8 @@
         ],
         "holders": {
             "ETH": 127
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x734e19015f33021460091a86ad7cd16200d3d253",
@@ -165482,7 +165483,8 @@
         ],
         "holders": {
             "ETH": 272
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x508efa3be725d0013839383589a67395ffbf9ffb",
@@ -165494,7 +165496,11 @@
         ],
         "holders": {
             "ETH": 155
-        }
+        },
+        "telegram_groups": [
+            "peaqnetwork"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0x84b9de3d9a2c749c14bd8c64d739a2b08dcb8e91",
@@ -165508,7 +165514,11 @@
         ],
         "holders": {
             "ETH": 53
-        }
+        },
+        "emails": [
+            "  contact@trumpism.vip"
+        ],
+        "p6": true
     },
     {
         "contract_address": "0xa14f49ff616cd8322a9dd6c3043d6f9cc775c363",
