@@ -165549,5 +165549,60 @@
         "holders": {
             "ETH": 6091
         }
+    },
+    {
+        "contract_address": "0xe9529c22492c7f0fa3dd6886558cc202c4b63ba2",
+        "date_add": "2024-05-28 02:15:56",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 27
+        }
+    },
+    {
+        "contract_address": "0x77278b34008e1e1f250634068666c4bda3f22e06",
+        "date_add": "2024-05-28 02:15:56",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "MAGAPEPE_eth"
+        ],
+        "holders": {
+            "ETH": 58
+        }
+    },
+    {
+        "contract_address": "0xfb682f531b243bcb76655069621b61f03a68385a",
+        "date_add": "2024-05-28 02:15:56",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "popacoineth.com"
+        ],
+        "telegram_groups": [
+            "PopaCoinETH"
+        ],
+        "holders": {
+            "ETH": 403
+        }
+    },
+    {
+        "contract_address": "0xb6529f2600a4058ebbc190b24140e3d059a8f41c",
+        "date_add": "2024-05-28 02:15:56",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "babywojak.meme"
+        ],
+        "telegram_groups": [
+            "babywojakcoin"
+        ],
+        "holders": {
+            "ETH": 104
+        }
+    },
+    {
+        "contract_address": "0xce06c43be94897ea391c7ff22832d656ade8f5f3",
+        "date_add": "2024-05-28 02:15:56",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 34
+        }
     }
 ]
