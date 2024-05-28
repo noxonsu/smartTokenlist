@@ -165609,5 +165609,83 @@
         "holders": {
             "ETH": 34
         }
+    },
+    {
+        "contract_address": "0x907c84c948be6718add9a01d3c850524ba35b715",
+        "date_add": "2024-05-28 04:06:14",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pedecoin.com"
+        ],
+        "telegram_groups": [
+            "Pede_ERC20"
+        ],
+        "holders": {
+            "ETH": 215
+        }
+    },
+    {
+        "contract_address": "0xa832914cac22916dd44ee8d8f7d2ac340aeaf6c8",
+        "date_add": "2024-05-28 04:06:14",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "kag-eth.com"
+        ],
+        "telegram_groups": [
+            "KAG_ERC20"
+        ],
+        "holders": {
+            "ETH": 65
+        }
+    },
+    {
+        "contract_address": "0x42b7cbc1c9e50af57a2cd9009cee7dcd02fb18a6",
+        "date_add": "2024-05-28 04:06:14",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "magawiftrump.com"
+        ],
+        "telegram_groups": [
+            "MAGAWifTrump"
+        ],
+        "holders": {
+            "ETH": 155
+        }
+    },
+    {
+        "contract_address": "0x9717c51d0c37a4bb882865475b5ea898101df06f",
+        "date_add": "2024-05-28 04:06:14",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "blockworks.co"
+        ],
+        "telegram_groups": [
+            "JulianAssange_ERC"
+        ],
+        "holders": {
+            "ETH": 47
+        }
+    },
+    {
+        "contract_address": "0x167d0b8cf4ad16f17c48508f886091a61d940e33",
+        "date_add": "2024-05-28 04:06:14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 23
+        }
+    },
+    {
+        "contract_address": "0x95a854e7d4e787c36db8d8c3b09dba98fb75e05c",
+        "date_add": "2024-05-28 04:06:14",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "babyturboerc.com"
+        ],
+        "telegram_groups": [
+            "BabyTurbo_Erc"
+        ],
+        "holders": {
+            "ETH": 289
+        }
     }
 ]
