@@ -165693,5 +165693,106 @@
             "ETH": 289
         },
         "p6": true
+    },
+    {
+        "contract_address": "0x0257ffd7ea2ebba4aaa090c7adbdd032a08c1f74",
+        "date_add": "2024-05-28 06:05:09",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 629
+        }
+    },
+    {
+        "contract_address": "0xdc02b77a3986da62c7a78fed73949c9767850809",
+        "date_add": "2024-05-28 06:05:09",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 437
+        }
+    },
+    {
+        "contract_address": "0x382ea807a61a418479318efd96f1efbc5c1f2c21",
+        "date_add": "2024-05-28 06:05:09",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.x.com"
+        ],
+        "telegram_groups": [
+            "pepeinamemesworld"
+        ],
+        "holders": {
+            "ETH": 1067
+        }
+    },
+    {
+        "contract_address": "0x8e1707a336c1129bc020d99ce142d4fa73de9852",
+        "date_add": "2024-05-28 06:05:09",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pep.ong"
+        ],
+        "telegram_groups": [
+            "pep_eth"
+        ],
+        "holders": {
+            "ETH": 108
+        }
+    },
+    {
+        "contract_address": "0xeb65739963cd920751b62ddfaceaaf0d4dfaef2d",
+        "date_add": "2024-05-28 06:05:09",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "bigly.finance"
+        ],
+        "telegram_groups": [
+            "biglyonETH"
+        ],
+        "holders": {
+            "ETH": 39
+        }
+    },
+    {
+        "contract_address": "0x0c4576ca1c365868e162554af8e385dc3e7c66d9",
+        "date_add": "2024-05-28 06:05:09",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1532
+        }
+    },
+    {
+        "contract_address": "0x082020b91b18fdfb697ac1cffccdb8e036cc6df1",
+        "date_add": "2024-05-28 06:05:09",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Shiba082020"
+        ],
+        "holders": {
+            "ETH": 34
+        }
+    },
+    {
+        "contract_address": "0xb5e1b1117235a488b5eb1438f7eb33f6790ff8b4",
+        "date_add": "2024-05-28 06:05:09",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 186
+        }
+    },
+    {
+        "contract_address": "0x7fe18d4842a99e04acdb44634c9b97117b761aad",
+        "date_add": "2024-05-28 06:05:09",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 247
+        }
+    },
+    {
+        "contract_address": "0x6643ed3bd5ffe7a3f9d3dd36f71a843abfa9df87",
+        "date_add": "2024-05-28 06:05:09",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 258
+        }
     }
 ]
