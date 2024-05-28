@@ -165801,5 +165801,73 @@
         "holders": {
             "ETH": 258
         }
+    },
+    {
+        "contract_address": "0xff79f9025054f9913a347902492fd88d59914fa8",
+        "date_add": "2024-05-28 08:05:14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 34
+        }
+    },
+    {
+        "contract_address": "0x00fe8bcaeb4d5785abbd8cdfeff3c57ad0c6e918",
+        "date_add": "2024-05-28 08:05:14",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "memeinapepesworld"
+        ],
+        "holders": {
+            "ETH": 15
+        }
+    },
+    {
+        "contract_address": "0x377b319c20e77f782bafc5200a5c8d1fdb4518b2",
+        "date_add": "2024-05-28 08:05:14",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "pepeinamemesworld20"
+        ],
+        "holders": {
+            "ETH": 71
+        }
+    },
+    {
+        "contract_address": "0x9bb803677236a46f9d20487903afe45c23a09b4b",
+        "date_add": "2024-05-28 08:05:14",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "safemoon.today"
+        ],
+        "telegram_groups": [
+            "Safemoon_erc"
+        ],
+        "holders": {
+            "ETH": 283
+        }
+    },
+    {
+        "contract_address": "0x6b4877874d1f0c17ebd75d7fd261e1563174136e",
+        "date_add": "2024-05-28 08:05:14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 29
+        }
+    },
+    {
+        "contract_address": "0x4e6237b7c73a86dad8747c235aff4cdbaba6fe3a",
+        "date_add": "2024-05-28 08:05:14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 9
+        }
+    },
+    {
+        "contract_address": "0x0f436bf0d53a76568dca55be187724f3aaec2281",
+        "date_add": "2024-05-28 08:05:14",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
     }
 ]
