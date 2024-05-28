@@ -165455,5 +165455,89 @@
         ],
         "telegram_groups": [],
         "p6": true
+    },
+    {
+        "contract_address": "0x9244b75890af6a37704a750d41227c504138b1fb",
+        "date_add": "2024-05-28 00:16:15",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "inscriptionpatterntheory.com"
+        ],
+        "telegram_groups": [
+            "inscriptionpatterntheory"
+        ],
+        "holders": {
+            "ETH": 127
+        }
+    },
+    {
+        "contract_address": "0x734e19015f33021460091a86ad7cd16200d3d253",
+        "date_add": "2024-05-28 00:16:15",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "chappymaga.com"
+        ],
+        "telegram_groups": [
+            "Chappyethportal"
+        ],
+        "holders": {
+            "ETH": 272
+        }
+    },
+    {
+        "contract_address": "0x508efa3be725d0013839383589a67395ffbf9ffb",
+        "date_add": "2024-05-28 00:16:15",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.peaq.network",
+            "discord.com"
+        ],
+        "holders": {
+            "ETH": 155
+        }
+    },
+    {
+        "contract_address": "0x84b9de3d9a2c749c14bd8c64d739a2b08dcb8e91",
+        "date_add": "2024-05-28 00:16:15",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.trumpism.vip"
+        ],
+        "telegram_groups": [
+            "trumpism_portal"
+        ],
+        "holders": {
+            "ETH": 53
+        }
+    },
+    {
+        "contract_address": "0xa14f49ff616cd8322a9dd6c3043d6f9cc775c363",
+        "date_add": "2024-05-28 00:16:15",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.dhposc10i.com",
+            "www.x.com"
+        ],
+        "telegram_groups": [
+            "BITCOINCASHPORTAL"
+        ],
+        "holders": {
+            "ETH": 632
+        }
+    },
+    {
+        "contract_address": "0xaa3acc21d184cef6f7fc3385fbdb79575231afba",
+        "date_add": "2024-05-28 00:16:15",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "healthsci.ai",
+            "healthsci.medium.com"
+        ],
+        "telegram_groups": [
+            "healthsci"
+        ],
+        "holders": {
+            "ETH": 6091
+        }
     }
 ]
