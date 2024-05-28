@@ -165785,7 +165785,10 @@
         "sourceScanned": "processed",
         "holders": {
             "ETH": 247
-        }
+        },
+        "web_domains": [
+            "tendies.finance"
+        ]
     },
     {
         "contract_address": "0x6643ed3bd5ffe7a3f9d3dd36f71a843abfa9df87",
