@@ -165736,7 +165736,8 @@
         ],
         "holders": {
             "ETH": 108
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xeb65739963cd920751b62ddfaceaaf0d4dfaef2d",
@@ -165750,7 +165751,8 @@
         ],
         "holders": {
             "ETH": 39
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x0c4576ca1c365868e162554af8e385dc3e7c66d9",
@@ -165788,7 +165790,9 @@
         },
         "web_domains": [
             "tendies.finance"
-        ]
+        ],
+        "telegram_groups": [],
+        "p6": true
     },
     {
         "contract_address": "0x6643ed3bd5ffe7a3f9d3dd36f71a843abfa9df87",
