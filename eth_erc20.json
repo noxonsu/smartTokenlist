@@ -165622,7 +165622,8 @@
         ],
         "holders": {
             "ETH": 215
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0xa832914cac22916dd44ee8d8f7d2ac340aeaf6c8",
@@ -165636,7 +165637,8 @@
         ],
         "holders": {
             "ETH": 65
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x42b7cbc1c9e50af57a2cd9009cee7dcd02fb18a6",
@@ -165650,7 +165652,8 @@
         ],
         "holders": {
             "ETH": 155
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x9717c51d0c37a4bb882865475b5ea898101df06f",
@@ -165660,11 +165663,13 @@
             "blockworks.co"
         ],
         "telegram_groups": [
-            "JulianAssange_ERC"
+            "JulianAssange_ERC",
+            "blockworks_news"
         ],
         "holders": {
             "ETH": 47
-        }
+        },
+        "p6": true
     },
     {
         "contract_address": "0x167d0b8cf4ad16f17c48508f886091a61d940e33",
@@ -165686,6 +165691,7 @@
         ],
         "holders": {
             "ETH": 289
-        }
+        },
+        "p6": true
     }
 ]
