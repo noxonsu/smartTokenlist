@@ -23,7 +23,7 @@ with sync_playwright() as p:
 	browser = p.chromium.launch(headless=True)
 	page = browser.new_page()
 	page.goto("https://www.coinglass.com/pro/i/RsiHeatMap")
-	#page.click('button:has-text("Consent")')  # Замените селектором, который соответствует кнопке.
+	page.click('button:has-text("Consent")')  # Замените селектором, который соответствует кнопке.
 	page.screenshot(path="12trackCoingGlassRSI.png")
 	page.click('text="4 hour"')  # Открыть выпадающий список
 	page.screenshot(path="12trackCoingGlassRSI11.png")
@@ -56,7 +56,7 @@ response = client.chat.completions.create(
     response_format={"type": "json_object"}
 )
 assets = response.choices[0].message.content
-
+links = []  # Initialize the links variable as an empty list
 try:
     assets_list = json.loads(assets)
 
@@ -64,10 +64,12 @@ try:
     if not assets_list:
         raise ValueError("No assets found in the response.")
     
+    
     for asset in assets_list:
         asset_name = asset.get('asset_name')
         if asset_name:
             print(f"Asset name: {asset_name}")
+            links.append(f'https://www.bybit.com/trade/usdt/{asset_name}USDT')  # Append the link to the links list
         else:
             print("Asset name not found")
 except (KeyError, ValueError) as e:
@@ -92,8 +94,10 @@ url = f'https://api.telegram.org/bot{TG_BOT_TOKEN}/sendPhoto'
 files = {'photo': open(image_path, 'rb')}
 data = {
     'chat_id': TG_CHAT_ID,
-    'caption': assets
+    'caption': '\n'.join(links)
 }
+
+
 r = requests.post(url, files=files, data=data)
 print(r.json())
 
