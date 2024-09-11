@@ -8,7 +8,7 @@ import json
 load_dotenv()
 
 # Установить ключ OpenAI API
-OPENAI_API_KEY = os.getenv('MY_OPENAI_KEY')
+OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 
 if OPENAI_API_KEY is None or not OPENAI_API_KEY.startswith('sk-'):
     raise ValueError("OpenAI API key is not set or invalid. Make sure to set the 'MY_OPENAI_KEY' environment variable in the .env file.")
