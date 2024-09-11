@@ -2,7 +2,7 @@ name: 6load summaries and tg
 
 on:
   schedule:
-    - cron: '10 * * * *'  #run 
+    - cron: '0 6-15 * * *'  # Run every 15 minutes from 6 to 15 UTC
   workflow_dispatch:  # Allows manual run
 
 jobs:
