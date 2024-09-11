@@ -23,11 +23,11 @@ with sync_playwright() as p:
 	browser = p.chromium.launch(headless=True)
 	page = browser.new_page()
 	page.goto("https://www.coinglass.com/pro/i/RsiHeatMap")
-	page.click('button:has-text("Consent")')  # Замените селектором, который соответствует кнопке.
+	#page.click('button:has-text("Consent")')  # Замените селектором, который соответствует кнопке.
 	page.screenshot(path="12trackCoingGlassRSI.png")
-	page.click('text="4 hour"')  # Открыть выпадающий список
+	#page.click('text="4 hour"')  # Открыть выпадающий список
 	page.screenshot(path="12trackCoingGlassRSI11.png")
-	page.click('text="15 minute"')  # Выбрать опцию "15 min"
+	#page.click('text="15 minute"')  # Выбрать опцию "15 min"
 	page.screenshot(path="12trackCoingGlassRSI12.png")
 	# Подождать 4 секунды
 	page.wait_for_timeout(5000)
