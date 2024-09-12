@@ -38,6 +38,8 @@ image_path = '12trackCoingGlassRSI12.png'
 with open(image_path, 'rb') as image_file:
     image_base64 = base64.b64encode(image_file.read()).decode('utf-8')
 
+
+print('Image converted to base64 successfully')
 #send file to telegram
 url = f'https://api.telegram.org/bot{TG_BOT_TOKEN}/sendPhoto'
 files = {'photo': open(image_path, 'rb')}
