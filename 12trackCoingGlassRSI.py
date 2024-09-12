@@ -4,6 +4,7 @@ import os
 import base64
 from dotenv import load_dotenv
 import json
+import requests
 # Загрузить переменные окружения из .env файла
 load_dotenv()
 
@@ -36,6 +37,16 @@ with sync_playwright() as p:
 image_path = '12trackCoingGlassRSI12.png'
 with open(image_path, 'rb') as image_file:
     image_base64 = base64.b64encode(image_file.read()).decode('utf-8')
+
+#send file to telegram
+url = f'https://api.telegram.org/bot{TG_BOT_TOKEN}/sendPhoto'
+files = {'photo': open(image_path, 'rb')}
+data = {
+    'chat_id': TG_CHAT_ID,
+    'caption': 'RSI 12 track'
+}
+r = requests.post(url, files=files, data=data)
+
 
 # Запрос к OpenAI с изображением в base64, уточнение задания
 response = client.chat.completions.create(
