@@ -9,6 +9,7 @@ from langchain.chat_models import ChatOpenAI
 from bs4 import BeautifulSoup
 import re
 from utils import *
+import openai
 
 #more error handling in openai error
 
@@ -83,19 +84,30 @@ def process_sites(data, sites_without_summary):
     for site, contract in sites_without_summary:
         try:
             docs_transformed, telegram_links, email = extract_content(site)
-            splitter = RecursiveCharacterTextSplitter.from_tiktoken_encoder(chunk_size=2000, chunk_overlap=0)
-            splits = splitter.split_documents(docs_transformed)
-            if not splits or splits[0].page_content == "":
-                targetSummary = f"Failed to extract content for site {site}"
+            if isinstance(docs_transformed, str):
+                targetSummary = f"{docs_transformed}"
             else:
-                try:
-                    extracted_content = create_extraction_chain(schema=schema, llm=llm).run(splits[0].page_content)
-                    combined_content = [f"{item.get('news_article_title', '')} - {item.get('news_article_summary', '')}\n\n" for item in extracted_content]
-                    targetSummary = ' '.join(combined_content)
-                except json.JSONDecodeError as e:
-                    targetSummary = f"Failed to extract content due to JSON decoding error: {str(e)}"
-                except Exception as e:
-                    targetSummary = f"Unexpected error during extraction: {str(e)}"
+                splitter = RecursiveCharacterTextSplitter.from_tiktoken_encoder(chunk_size=2000, chunk_overlap=0)
+                splits = splitter.split_documents(docs_transformed)
+                if not splits or splits[0].page_content == "":
+                    targetSummary = f"Failed to extract content for site {site}"
+                else:
+                    try:
+                        extracted_content = create_extraction_chain(schema=schema, llm=llm).run(splits[0].page_content)
+                        combined_content = [f"{item.get('news_article_title', '')} - {item.get('news_article_summary', '')}\n\n" for item in extracted_content]
+                        targetSummary = ' '.join(combined_content)
+                    except openai.APIError as e: #openai.error.APIError
+                        targetSummary = f"OpenAI API Error: {str(e)}" 
+                    except openai.APIConnectionError as e: #openai.error.APIConnectionError
+                        targetSummary = f"OpenAI API Connection Error: {str(e)}" 
+                    except openai.RateLimitError as e: #openai.error.RateLimitError
+                        targetSummary = f"OpenAI Rate Limit Error: {str(e)}" 
+                    except openai.Timeout as e: #openai.error.Timeout
+                        targetSummary = f"OpenAI Rate Limit Error: {str(e)}"
+                    except openai.Timeout as e:
+                        targetSummary = f"OpenAI Timeout Error: {str(e)}"
+                    except Exception as e:
+                        targetSummary = f"Unexpected error during extraction: {str(e)}"
 
             print(f"Summary for {contract} {site}: {targetSummary}")
             save_summary_and_proposal(contract, targetSummary)
@@ -116,6 +128,11 @@ def process_sites(data, sites_without_summary):
                     entry['p6'] = True       
         except Exception as e:
             print(f"Failed to process site {site} due to error: {str(e)}")
+             # Update the data list to mark the site as failed
+            for entry in data:
+                if entry.get('web_domains') and entry['web_domains'][0] == site:
+                  entry['p6'] = "error: "+str(e)
+
 
 
 

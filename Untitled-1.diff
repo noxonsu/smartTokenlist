@@ -1,0 +1,42 @@
+--- a/6loadSummary.py
++++ b/6loadSummary.py
+@@ -6,6 +6,7 @@
+ from langchain.schema import SystemMessage, HumanMessage
+ import os
+ from langchain.chat_models import ChatOpenAI
++import openai
+ from bs4 import BeautifulSoup
+ import re
+ from utils import *
+@@ -30,8 +31,8 @@
+     email = exctract_email(docs[0].page_content)
+     html2text = Html2TextTransformer()
+     text_content = html2text.transform_documents(docs)
+-    if not text_content:
+-        return "Failed to extract content for site {site}", telegram_links
++    if not text_content or len(text_content)<1:
++        return f"Failed to extract content for site {site}", telegram_links, email
+     return text_content, telegram_links, email
+ 
+ def extract_telegram_links(html_content):
+@@ -76,6 +77,14 @@
+                     targetSummary = ' '.join(combined_content)
+                 except json.JSONDecodeError as e:
+                     targetSummary = f"Failed to extract content due to JSON decoding error: {str(e)}"
++                except openai.APIError as e:
++                    targetSummary = f"OpenAI API Error: {str(e)}"
++                except openai.APIConnectionError as e:
++                    targetSummary = f"OpenAI API Connection Error: {str(e)}"
++                except openai.RateLimitError as e:
++                    targetSummary = f"OpenAI Rate Limit Error: {str(e)}"
++                except openai.Timeout as e:
++                    targetSummary = f"OpenAI Timeout Error: {str(e)}"
+                 except Exception as e:
+                     targetSummary = f"Unexpected error during extraction: {str(e)}"
+ 
+@@ -119,3 +128,4 @@
+ 
+ if __name__ == "__main__":
+     main()
++
+
