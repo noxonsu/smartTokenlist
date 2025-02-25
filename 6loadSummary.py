@@ -32,15 +32,18 @@ def filter_sites_without_summary(data):
     ]
 
 def extract_content(site):
-    loader = AsyncChromiumLoader(["https://"+site])
-    docs = loader.load()
-    telegram_links = extract_telegram_links(docs[0].page_content)
-    email = exctract_email(docs[0].page_content)
-    html2text = Html2TextTransformer()
-    text_content = html2text.transform_documents(docs)
-    if not text_content:
-        return "Failed to extract content for site {site}", telegram_links
-    return text_content, telegram_links, email
+    try:
+        loader = AsyncChromiumLoader(["https://"+site])
+        docs = loader.load()
+        telegram_links = extract_telegram_links(docs[0].page_content)
+        email = exctract_email(docs[0].page_content)
+        html2text = Html2TextTransformer()
+        text_content = html2text.transform_documents(docs)
+        if not text_content:
+            raise Exception(f"Failed to extract content for site {site}")
+        return text_content, telegram_links, email
+    except Exception as e:
+        raise Exception(f"Failed to extract content for site {site}") from e
 
 def extract_telegram_links(html_content):
     soup = BeautifulSoup(html_content, 'html.parser')
@@ -84,30 +87,28 @@ def process_sites(data, sites_without_summary):
     for site, contract in sites_without_summary:
         try:
             docs_transformed, telegram_links, email = extract_content(site)
-            if isinstance(docs_transformed, str):
-                targetSummary = f"{docs_transformed}"
+
+            splitter = RecursiveCharacterTextSplitter.from_tiktoken_encoder(chunk_size=2000, chunk_overlap=0)
+            splits = splitter.split_documents(docs_transformed)
+            if not splits or splits[0].page_content == "":
+                targetSummary = f"Failed to extract content for site {site}"
             else:
-                splitter = RecursiveCharacterTextSplitter.from_tiktoken_encoder(chunk_size=2000, chunk_overlap=0)
-                splits = splitter.split_documents(docs_transformed)
-                if not splits or splits[0].page_content == "":
-                    targetSummary = f"Failed to extract content for site {site}"
-                else:
-                    try:
-                        extracted_content = create_extraction_chain(schema=schema, llm=llm).run(splits[0].page_content)
-                        combined_content = [f"{item.get('news_article_title', '')} - {item.get('news_article_summary', '')}\n\n" for item in extracted_content]
-                        targetSummary = ' '.join(combined_content)
-                    except openai.APIError as e:
-                        targetSummary = f"OpenAI API Error: {str(e)}" 
-                    except openai.APIConnectionError as e:
-                        targetSummary = f"OpenAI API Connection Error: {str(e)}" 
-                    except openai.RateLimitError as e:
-                        targetSummary = f"OpenAI Rate Limit Error: {str(e)}" 
-                    except openai.Timeout as e:
-                        targetSummary = f"OpenAI Rate Limit Error: {str(e)}"
-                    except openai.Timeout as e:
-                        targetSummary = f"OpenAI Timeout Error: {str(e)}"
-                    except Exception as e:
-                        targetSummary = f"Unexpected error during extraction: {str(e)}"
+                try:
+                    extracted_content = create_extraction_chain(schema=schema, llm=llm).run(splits[0].page_content)
+                    combined_content = [f"{item.get('news_article_title', '')} - {item.get('news_article_summary', '')}\n\n" for item in extracted_content]
+                    targetSummary = ' '.join(combined_content)
+                except openai.APIError as e:
+                    targetSummary = f"OpenAI API Error: {str(e)}" 
+                except openai.APIConnectionError as e:
+                    targetSummary = f"OpenAI API Connection Error: {str(e)}" 
+                except openai.RateLimitError as e:
+                    targetSummary = f"OpenAI Rate Limit Error: {str(e)}" 
+                except openai.Timeout as e:
+                    targetSummary = f"OpenAI Rate Limit Error: {str(e)}"
+                except openai.Timeout as e:
+                    targetSummary = f"OpenAI Timeout Error: {str(e)}"
+                except Exception as e:
+                    targetSummary = f"Unexpected error during extraction: {str(e)}"
 
             print(f"Summary for {contract} {site}: {targetSummary}")
             save_summary_and_proposal(contract, targetSummary)
