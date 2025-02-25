@@ -9,6 +9,9 @@ from langchain.chat_models import ChatOpenAI
 from bs4 import BeautifulSoup
 import re
 from utils import *
+
+#more error handling in openai error
+
 MAINFILE = os.environ.get("MAINFILE")
 NETWORK = os.environ.get("NETWORK")
 
