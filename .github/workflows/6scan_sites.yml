@@ -3,7 +3,10 @@ name: 6load summaries and tg
 on:
   schedule:
     - cron: '10 * * * *'  #run 
-  workflow_dispatch:  # Allows manual run
+  workflow_dispatch:  # Allows manual run  push:
+    paths:
+      - '6loadSummary.py'
+
 
 jobs:
   run-scripts:
