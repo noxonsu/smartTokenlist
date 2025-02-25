@@ -96,13 +96,13 @@ def process_sites(data, sites_without_summary):
                         extracted_content = create_extraction_chain(schema=schema, llm=llm).run(splits[0].page_content)
                         combined_content = [f"{item.get('news_article_title', '')} - {item.get('news_article_summary', '')}\n\n" for item in extracted_content]
                         targetSummary = ' '.join(combined_content)
-                    except openai.APIError as e: #openai.error.APIError
+                    except openai.APIError as e:
                         targetSummary = f"OpenAI API Error: {str(e)}" 
-                    except openai.APIConnectionError as e: #openai.error.APIConnectionError
+                    except openai.APIConnectionError as e:
                         targetSummary = f"OpenAI API Connection Error: {str(e)}" 
-                    except openai.RateLimitError as e: #openai.error.RateLimitError
+                    except openai.RateLimitError as e:
                         targetSummary = f"OpenAI Rate Limit Error: {str(e)}" 
-                    except openai.Timeout as e: #openai.error.Timeout
+                    except openai.Timeout as e:
                         targetSummary = f"OpenAI Rate Limit Error: {str(e)}"
                     except openai.Timeout as e:
                         targetSummary = f"OpenAI Timeout Error: {str(e)}"
@@ -130,7 +130,7 @@ def process_sites(data, sites_without_summary):
             print(f"Failed to process site {site} due to error: {str(e)}")
              # Update the data list to mark the site as failed
             for entry in data:
-                if entry.get('web_domains') and entry['web_domains'][0] == site:
+                if entry.get('web_domains') and entry['web_domains'][0] == site:                    
                   entry['p6'] = "error: "+str(e)
 
 
