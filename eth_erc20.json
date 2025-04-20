@@ -382596,5 +382596,95 @@
         "holders": {
             "ETH": 38
         }
+    },
+    {
+        "contract_address": "0xc3c8d68b3e8c3540ca678724c5d9028d6e23052c",
+        "date_add": "2025-04-20 04:05:42",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xb92b4d3f33e1035748f7191692e4d1f91f32c944",
+        "date_add": "2025-04-20 04:05:42",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "detorrent.org",
+            "docs.detorrent.org"
+        ],
+        "telegram_groups": [
+            "DeTorrent_Portal",
+            "detorrent_bot"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x2a1d51fe03910360bfa5e296e170e20927dc6cfd",
+        "date_add": "2025-04-20 04:05:42",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "BlueberrySquirrelETH"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xa5dcbdb1b7c3eafc93b7fce9ea92310dfd5948ac",
+        "date_add": "2025-04-20 04:05:42",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x877209f7e083b9b89f60ef748bbe7792f00e04e1",
+        "date_add": "2025-04-20 04:05:42",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "ToraInueth"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xb41b501bdcd3a9eb6c85f558b8344f9d51b4f21a",
+        "date_add": "2025-04-20 04:05:42",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 80
+        }
+    },
+    {
+        "contract_address": "0x02f582c136310e1a0a8ad5e27254603ed93768b6",
+        "date_add": "2025-04-20 04:05:42",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "DogiusMaximus.vip"
+        ],
+        "telegram_groups": [
+            "Dogius_Portal"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xe6a179976fb30fe7850230fd51cf3e2e2b319746",
+        "date_add": "2025-04-20 04:05:42",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "420elon.xyz"
+        ],
+        "telegram_groups": [
+            "Official_420Elon"
+        ],
+        "holders": {
+            "ETH": 0
+        }
     }
 ]
