@@ -383017,5 +383017,33 @@
         "holders": {
             "ETH": 0
         }
+    },
+    {
+        "contract_address": "0x8e1d3ab094c1ee517b34cb2defd0ee9fe7658cea",
+        "date_add": "2025-04-20 18:05:43",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org"
+        ],
+        "holders": {
+            "ETH": 33
+        }
+    },
+    {
+        "contract_address": "0x5a7139f982063b4ba2bc101fdcf662f15e02fe06",
+        "date_add": "2025-04-20 18:05:43",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "TeLangPuonETH"
+        ],
+        "holders": {
+            "ETH": 0
+        }
     }
 ]
