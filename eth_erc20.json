@@ -382892,5 +382892,74 @@
         "holders": {
             "ETH": 14
         }
+    },
+    {
+        "contract_address": "0x924b7a6a462ec0a09ffc205631c5c6354a6454a5",
+        "date_add": "2025-04-20 14:04:20",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x21fb6404bc24e23328947aeec48e2053d41dd65e",
+        "date_add": "2025-04-20 14:04:20",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x9f9abecfeff751e64a686ae823a725c4b8f101c2",
+        "date_add": "2025-04-20 14:04:20",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "coolcoinerc20.site"
+        ],
+        "telegram_groups": [
+            "coolcoinerc20"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xec703e7de8489d88616b289bc300458cef085b91",
+        "date_add": "2025-04-20 14:04:20",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x15ae349be20da96b9ccb1df1eeb5711ad335fad4",
+        "date_add": "2025-04-20 14:04:20",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xe507e72a8a555d2be5b48ba2de7f14e95c34757f",
+        "date_add": "2025-04-20 14:04:20",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xe384865e7b91208f7ffec94a820d2395de4154b7",
+        "date_add": "2025-04-20 14:04:20",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "lojbancoin.com",
+            "bitcointalk.org"
+        ],
+        "telegram_groups": [
+            "LojbanPortal"
+        ],
+        "holders": {
+            "ETH": 255
+        }
     }
 ]
