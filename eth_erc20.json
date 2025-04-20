@@ -382813,5 +382813,84 @@
         "holders": {
             "ETH": 0
         }
+    },
+    {
+        "contract_address": "0x31fa81fb144d65c962240246e66a72f514d50156",
+        "date_add": "2025-04-20 10:04:41",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "spurdocoin.lol"
+        ],
+        "telegram_groups": [
+            "spurdomemecoin"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xb9b3a7d9e130818d650649f69dbbae99e8e19e7c",
+        "date_add": "2025-04-20 10:04:41",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xc0c8f247ff02a582438a42655fc75d67ce8e8327",
+        "date_add": "2025-04-20 10:04:41",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Yumi_ERC20"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x84e2533044bb29cdbc5113733245a8d968dd1f67",
+        "date_add": "2025-04-20 10:04:41",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "OkintamaETH"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x25377ddb16c79c93b0cbf46809c8de8765f03fcd",
+        "date_add": "2025-04-20 10:04:41",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2742
+        }
+    },
+    {
+        "contract_address": "0xb4e0e45e142101dc3ed768bac219fc35edbed295",
+        "date_add": "2025-04-20 10:04:41",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0xb8e7013ed81d017bb3219eeef57d5d7cbce8cc5f",
+        "date_add": "2025-04-20 10:04:41",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "slatestarcodex.com"
+        ],
+        "holders": {
+            "ETH": 11
+        }
+    },
+    {
+        "contract_address": "0x05aa6a7e42f5ffd497a0fd91f3bc2959eeb0babe",
+        "date_add": "2025-04-20 10:04:41",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 14
+        }
     }
 ]
