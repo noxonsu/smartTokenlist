@@ -383359,5 +383359,63 @@
         "holders": {
             "ETH": 0
         }
+    },
+    {
+        "contract_address": "0xc6422c997ef1add812f5d0ba8d68e97426e5bd7a",
+        "date_add": "2025-04-21 20:05:55",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xc0390951c15ffe58f99e5aa88f005b089b82a348",
+        "date_add": "2025-04-21 20:05:55",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "NoShrimpForYou"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x2da30ec20c88662632fb71379f5f8119455ae800",
+        "date_add": "2025-04-21 20:05:55",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x55d84abf0229d92d9384c14901e49c2bce41a319",
+        "date_add": "2025-04-21 20:05:55",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x8976af3c6d9ed5df17603c47095f8a7112b58d6b",
+        "date_add": "2025-04-21 20:05:55",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x94a21565c923d2f75b3fcef158960a8b7e6ed07d",
+        "date_add": "2025-04-21 20:05:55",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "sparkstarter.com",
+            "whop.com"
+        ],
+        "telegram_groups": [
+            "sparkstarterdeployments"
+        ],
+        "holders": {
+            "ETH": 2
+        }
     }
 ]
