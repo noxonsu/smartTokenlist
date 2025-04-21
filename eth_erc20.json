@@ -383252,5 +383252,88 @@
         "holders": {
             "ETH": 0
         }
+    },
+    {
+        "contract_address": "0xd4e8e545eb4ff2aaf5943777cb1737032dc2a056",
+        "date_add": "2025-04-21 14:04:49",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x090dba825ab4c0572c8de63098c4d198508eba7f",
+        "date_add": "2025-04-21 14:04:49",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "BruceWillisReal"
+        ],
+        "holders": {
+            "ETH": 7
+        }
+    },
+    {
+        "contract_address": "0xbf8038ac771f706d58068c8ebedcb77d1125d88a",
+        "date_add": "2025-04-21 14:04:49",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0xd325892bbcf4a1ac804fa5ca5ab10da1e65eef9f",
+        "date_add": "2025-04-21 14:04:49",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x6971e8bddd3857c08f7ccaaaed242f77dfb03bcd",
+        "date_add": "2025-04-21 14:04:49",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x0feeed45f06379f1dd3d78caa0a70001c911816a",
+        "date_add": "2025-04-21 14:04:49",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "kekitoneth.com"
+        ],
+        "telegram_groups": [
+            "KekitLastEpoch"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xbeef36a5c1372f8d7d211527fce9f83fe02d8a73",
+        "date_add": "2025-04-21 14:04:49",
+        "sourceScanned": "processed",
+        "emails": [
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org",
+            "security@morpho.org"
+        ],
+        "holders": {
+            "ETH": 12
+        }
     }
 ]
