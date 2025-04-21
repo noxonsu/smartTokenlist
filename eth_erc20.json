@@ -383157,5 +383157,73 @@
         "holders": {
             "ETH": 0
         }
+    },
+    {
+        "contract_address": "0x15e3d0494fee3beac0abf66c43f79b09ea09029d",
+        "date_add": "2025-04-21 10:05:29",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10
+        }
+    },
+    {
+        "contract_address": "0x5f214ec3f78df418c3e9ec8ba9b670e15a29c682",
+        "date_add": "2025-04-21 10:05:29",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.remc.live"
+        ],
+        "telegram_groups": [
+            "ragingelonmars_portal"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xd0e23408bf35c5425a1ca7d37feca58eba693d92",
+        "date_add": "2025-04-21 10:05:29",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 196
+        }
+    },
+    {
+        "contract_address": "0x58a5d3e4873a75b07fb3c7cf477eebc44ea73b3b",
+        "date_add": "2025-04-21 10:05:29",
+        "sourceScanned": "processed",
+        "emails": [
+            "jake@jakegsy.com"
+        ],
+        "holders": {
+            "ETH": 1210
+        }
+    },
+    {
+        "contract_address": "0x53162ec0adae49f21515bb8ca91534dd3872c8db",
+        "date_add": "2025-04-21 10:05:29",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2444
+        }
+    },
+    {
+        "contract_address": "0x72163f075693882655666e798dff78a489505e23",
+        "date_add": "2025-04-21 10:05:29",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "travis-ci.com"
+        ],
+        "holders": {
+            "ETH": 376
+        }
+    },
+    {
+        "contract_address": "0x3e04b5c1063ff1c7692c9c518fa9199a4d5904ac",
+        "date_add": "2025-04-21 10:05:29",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
     }
 ]
