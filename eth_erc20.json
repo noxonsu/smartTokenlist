@@ -383966,5 +383966,64 @@
         "holders": {
             "ETH": 0
         }
+    },
+    {
+        "contract_address": "0x9450078615fe8d0ce72e2ff30a6ff8c8f7668e98",
+        "date_add": "2025-04-22 20:05:35",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 43
+        }
+    },
+    {
+        "contract_address": "0xd85a68faa78b4431dce816c157b66fc9911b3612",
+        "date_add": "2025-04-22 20:05:35",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x3094ae22f2f922af35631b5162b2c29159d4d88c",
+        "date_add": "2025-04-22 20:05:35",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x8c93d8a9aa8bfaf716e5868fba734e5a33a1b2b1",
+        "date_add": "2025-04-22 20:05:35",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xffeb077b8e3a93d23356e693b1cf0bda15ce0aee",
+        "date_add": "2025-04-22 20:05:35",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x0fc036cfd300519170f90b21b92a4349d2dabbae",
+        "date_add": "2025-04-22 20:05:35",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 20
+        }
+    },
+    {
+        "contract_address": "0x2c8a944af89ac79c54f321fe859ff99d26dcd1dc",
+        "date_add": "2025-04-22 20:05:35",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.createmytoken.com"
+        ],
+        "holders": {
+            "ETH": 245
+        }
     }
 ]
