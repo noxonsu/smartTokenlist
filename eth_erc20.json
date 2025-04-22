@@ -383632,5 +383632,99 @@
         "holders": {
             "ETH": 106
         }
+    },
+    {
+        "contract_address": "0x93a2db22b7c736b341c32ff666307f4a9ed910f5",
+        "date_add": "2025-04-22 08:07:02",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x602972e451daf00760c5d6cf57287d0dd19aa452",
+        "date_add": "2025-04-22 08:07:02",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x5c2a0f7e90d2d5e3dd99673e9ec36e3ff529857d",
+        "date_add": "2025-04-22 08:07:02",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xc87824d11b87bbfcccabe348caa85b0fba876a14",
+        "date_add": "2025-04-22 08:07:02",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x18baff09aa26bd48f4fa489151e327e04c36ae90",
+        "date_add": "2025-04-22 08:07:02",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x29b98a3817dfd8699441ed078871b6b84d7a3321",
+        "date_add": "2025-04-22 08:07:02",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x497a8c927fd8df25f50e095c08665cd6e5e58baf",
+        "date_add": "2025-04-22 08:07:02",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xfb0962011cf2d8905216d0715294fec14a559225",
+        "date_add": "2025-04-22 08:07:02",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x4311096a697feec9336065a313060853b08fdcf7",
+        "date_add": "2025-04-22 08:07:02",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 89
+        }
+    },
+    {
+        "contract_address": "0xd918efdc2e9771ccde46a376e34c25b3f55bbf2e",
+        "date_add": "2025-04-22 08:07:02",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "timeeth.vip"
+        ],
+        "telegram_groups": [
+            "timeonethereum"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x028f7886f3e937f8479efad64f31b3fe1119857a",
+        "date_add": "2025-04-22 08:07:02",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 48
+        }
     }
 ]
