@@ -383417,5 +383417,72 @@
         "holders": {
             "ETH": 2
         }
+    },
+    {
+        "contract_address": "0x47fdb72ccc93bc9568a82917dff767fdbb4f2f5f",
+        "date_add": "2025-04-22 02:32:23",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 1
+        }
+    },
+    {
+        "contract_address": "0x5c0b03914f68f2717d779a0211fd98c2cc45a4dd",
+        "date_add": "2025-04-22 02:32:23",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 6
+        }
+    },
+    {
+        "contract_address": "0x47e67ba66b0699500f18a53f94e2b9db3d47437e",
+        "date_add": "2025-04-22 02:32:23",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 8212
+        }
+    },
+    {
+        "contract_address": "0xa42ad8e78485de1d0af90598a8f456b3cd5d6707",
+        "date_add": "2025-04-22 02:32:23",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xe859a92f5bd5132780e89d4f0955ff2ce2a5f148",
+        "date_add": "2025-04-22 02:32:23",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x18d2c29f4335c64c625dab209b19e6589d4952e8",
+        "date_add": "2025-04-22 02:32:23",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x4d5f08eccd3d9281632aa3fc6937e98441564544",
+        "date_add": "2025-04-22 02:32:23",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 85
+        }
+    },
+    {
+        "contract_address": "0x4b97a62d82a12de576aeb4e72c9643fa0d9cd044",
+        "date_add": "2025-04-22 02:32:23",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "Rebeccatheraccoon"
+        ],
+        "holders": {
+            "ETH": 0
+        }
     }
 ]
