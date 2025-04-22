@@ -383789,5 +383789,95 @@
         "holders": {
             "ETH": 0
         }
+    },
+    {
+        "contract_address": "0xdb5af0af719024ade7cbb7bef8416668392c9ac9",
+        "date_add": "2025-04-22 12:08:22",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xc2be7ae18ee279969d6eb3fbeaf38ee560e84d40",
+        "date_add": "2025-04-22 12:08:22",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xd48c9441a1094a6f1b6603283231aa366b9d5518",
+        "date_add": "2025-04-22 12:08:22",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "detorrent.org",
+            "docs.detorrent.org"
+        ],
+        "telegram_groups": [
+            "DeTorrent_Portal",
+            "detorrent_bot"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xcd24d3e2876c062200d947eddaacb41b3be55cf4",
+        "date_add": "2025-04-22 12:08:22",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0xa4c11ecff1fe34c28bf69bfab4f46c3c1c42928e",
+        "date_add": "2025-04-22 12:08:22",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "abstrax.xyz",
+            "docs.abstrax.xyz",
+            "mirror.xyz",
+            "linktr.ee"
+        ],
+        "telegram_groups": [
+            "AbstraX_Official"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x2449d14c0a630f5b47b2d8170fe0bb87f5fb6507",
+        "date_add": "2025-04-22 12:08:22",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "MechKenna_erc20_portal"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x221f7cd129e590c4aead70b2f807de876535d640",
+        "date_add": "2025-04-22 12:08:22",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x18b6b2cdba9cd9b28fe9c2622c2207956d52bafd",
+        "date_add": "2025-04-22 12:08:22",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ThankMeLater.vip"
+        ],
+        "telegram_groups": [
+            "ThankMeLaterERC"
+        ],
+        "holders": {
+            "ETH": 391
+        }
     }
 ]
