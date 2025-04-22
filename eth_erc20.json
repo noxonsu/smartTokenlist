@@ -383726,5 +383726,68 @@
         "holders": {
             "ETH": 48
         }
+    },
+    {
+        "contract_address": "0x12f0a9525fc3312a44d8c8b75024ca9cb071e8e1",
+        "date_add": "2025-04-22 10:05:23",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.createmytoken.com"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xae41b10b5283ef4131634887094f90dd0c022c25",
+        "date_add": "2025-04-22 10:05:23",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "muicoin.com"
+        ],
+        "telegram_groups": [
+            "muicoineth"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x8c0b9651ed71c4d1b771d3166e1c1b0dc24d8678",
+        "date_add": "2025-04-22 10:05:23",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x8560bba3240140707ee155a3be604907d58a6527",
+        "date_add": "2025-04-22 10:05:23",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x9e3b5582b22e3835896368017baff6d942a41cd9",
+        "date_add": "2025-04-22 10:05:23",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
+    },
+    {
+        "contract_address": "0x12a62410e24cfc307e1603bf9c6a0c1f4abe5457",
+        "date_add": "2025-04-22 10:05:23",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "ethereum-magicians.org"
+        ],
+        "telegram_groups": [
+            "riscv_eth"
+        ],
+        "holders": {
+            "ETH": 0
+        }
     }
 ]
