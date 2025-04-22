@@ -383601,5 +383601,36 @@
         "holders": {
             "ETH": 250
         }
+    },
+    {
+        "contract_address": "0x379dd226231c22a8c5fa96911460b562de0fa27a",
+        "date_add": "2025-04-22 06:07:11",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.bundlr.vip",
+            "docs.bundlr.vip"
+        ],
+        "telegram_groups": [
+            "Bundlr_Official"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xd4281a0800427815c4ba2efa4bac64f093cfc4b7",
+        "date_add": "2025-04-22 06:07:11",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x6fea50057edd8baa63f3d5ffd72953b61917507d",
+        "date_add": "2025-04-22 06:07:11",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 106
+        }
     }
 ]
