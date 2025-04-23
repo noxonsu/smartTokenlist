@@ -384323,5 +384323,24 @@
         "holders": {
             "ETH": 4
         }
+    },
+    {
+        "contract_address": "0xbb0c6c4e151980fb0ad8729673b50019d9ed56f1",
+        "date_add": "2025-04-23 06:07:27",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "BabyMoonkin"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x58f1b7e048daa7653fa66de0edae99443581b70d",
+        "date_add": "2025-04-23 06:07:27",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
     }
 ]
