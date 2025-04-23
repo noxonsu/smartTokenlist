@@ -384404,5 +384404,49 @@
         "holders": {
             "ETH": 38
         }
+    },
+    {
+        "contract_address": "0x8674d6edf54e128fda486237965b7eaf6f16b7d6",
+        "date_add": "2025-04-23 10:05:46",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x4700018f9f4527e395b6613f89a016d2d2b55c87",
+        "date_add": "2025-04-23 10:05:46",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "makeamericagreenagain.top"
+        ],
+        "telegram_groups": [
+            "MakeAmericaGreenAgainMeme"
+        ],
+        "holders": {
+            "ETH": 119
+        }
+    },
+    {
+        "contract_address": "0x939771b5656b67fe73100cb1d3c5b907f644c80d",
+        "date_add": "2025-04-23 10:05:46",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xed158f5c0293e2f6a119e9e64384192d05ce4c80",
+        "date_add": "2025-04-23 10:05:46",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "lidiswap.com"
+        ],
+        "telegram_groups": [
+            "Lidiswap"
+        ],
+        "holders": {
+            "ETH": 0
+        }
     }
 ]
