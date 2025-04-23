@@ -384163,5 +384163,83 @@
         "holders": {
             "ETH": 1200
         }
+    },
+    {
+        "contract_address": "0x1e827ef7b775b85b1837c3c308dfd070b6d2b28d",
+        "date_add": "2025-04-23 02:32:28",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x63209cff50eba8a160cf9201c55bb2b3e9c37038",
+        "date_add": "2025-04-23 02:32:28",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 46
+        }
+    },
+    {
+        "contract_address": "0x135b810e48e4307ab2a59ea294a6f1724781bd3c",
+        "date_add": "2025-04-23 02:32:28",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "www.apache.org",
+            "www.apache.org",
+            "www.apache.org"
+        ],
+        "holders": {
+            "ETH": 249
+        }
+    },
+    {
+        "contract_address": "0xe32ca1c29c3c918a5982ac01e03c42c63ac4aecc",
+        "date_add": "2025-04-23 02:32:28",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "dogoodcrypto.eth.link"
+        ],
+        "holders": {
+            "ETH": 165
+        }
+    },
+    {
+        "contract_address": "0xce8cd116956c09b21578f89c4895f67f1e8d5cdc",
+        "date_add": "2025-04-23 02:32:28",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "grokvisioneth"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x0ae22f6346d4815c7d0c74f1e6e83a43b7d17d78",
+        "date_add": "2025-04-23 02:32:28",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "guanacoeth"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x3dc8e2d80b6215a1bccae4d38715c3520581e77c",
+        "date_add": "2025-04-23 02:32:28",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 2
+        }
+    },
+    {
+        "contract_address": "0xcdd41b24feca45c2126c0c4c097ddbdd17f0d971",
+        "date_add": "2025-04-23 02:32:28",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 15
+        }
     }
 ]
