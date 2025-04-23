@@ -384241,5 +384241,87 @@
         "holders": {
             "ETH": 15
         }
+    },
+    {
+        "contract_address": "0xd5533cf03adc727e2be5c4e76dd4d46e41c4fd63",
+        "date_add": "2025-04-23 04:06:07",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xffb50f0ea82d6ba683e56d573dcad8ba0aab3a93",
+        "date_add": "2025-04-23 04:06:07",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "EthereumGold.club"
+        ],
+        "telegram_groups": [
+            "EthereumGoldClub"
+        ],
+        "holders": {
+            "ETH": 273
+        }
+    },
+    {
+        "contract_address": "0x16c197afd7714e1eb74148d79b3c04951ef199bf",
+        "date_add": "2025-04-23 04:06:07",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "pepesoneth.xyz"
+        ],
+        "telegram_groups": [
+            "Pepes_ERC"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xc2eb01637b0b1c740229bffe659e958eaf334955",
+        "date_add": "2025-04-23 04:06:07",
+        "sourceScanned": "processed",
+        "web_domains": [
+            "popethefrog.xyz"
+        ],
+        "telegram_groups": [
+            "Pope_the_frog"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xe4357bdae017726ee5e83db3443bcd269bbf125d",
+        "date_add": "2025-04-23 04:06:07",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 10
+        }
+    },
+    {
+        "contract_address": "0x5f948b8a84036c22af2931b88b986bc16f119b66",
+        "date_add": "2025-04-23 04:06:07",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0xe186f4d254ee407dc3abf70ad8a1524eb7444321",
+        "date_add": "2025-04-23 04:06:07",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 3
+        }
+    },
+    {
+        "contract_address": "0x10126b6490bd8be580e442ba552744fa7c7aac69",
+        "date_add": "2025-04-23 04:06:07",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 4
+        }
     }
 ]
