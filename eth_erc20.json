@@ -384342,5 +384342,67 @@
         "holders": {
             "ETH": 0
         }
+    },
+    {
+        "contract_address": "0xfc6598348e0e2d3e479bce4cc75f88ab708ec309",
+        "date_add": "2025-04-23 08:06:52",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xd3a6be261969a7b424ec2bd8b6236c4b17491c0c",
+        "date_add": "2025-04-23 08:06:52",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x07f3168102fa06db10fa619b33975d411ed08c73",
+        "date_add": "2025-04-23 08:06:52",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0xe4cd6b8505497305aa38075716cdaa96d88a7e41",
+        "date_add": "2025-04-23 08:06:52",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x813e24a5b7998680fdba0cce50df25e37cb663a4",
+        "date_add": "2025-04-23 08:06:52",
+        "sourceScanned": "processed",
+        "telegram_groups": [
+            "boomkineth"
+        ],
+        "holders": {
+            "ETH": 0
+        }
+    },
+    {
+        "contract_address": "0x2db0b0fa84c3c8b342183fd0b777c521ec054325",
+        "date_add": "2025-04-23 08:06:52",
+        "sourceScanned": "processed",
+        "emails": [
+            "contact@kiln.fi"
+        ],
+        "holders": {
+            "ETH": 48
+        }
+    },
+    {
+        "contract_address": "0xb7c0007ab75350c582d5eab1862b872b5cf53f0c",
+        "date_add": "2025-04-23 08:06:52",
+        "sourceScanned": "processed",
+        "holders": {
+            "ETH": 38
+        }
     }
 ]
